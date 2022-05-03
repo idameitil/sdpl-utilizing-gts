@@ -11,7 +11,8 @@ To enrich the selected wzys with csdb sugars and taxonomy run `src/data-collecti
 This will create the file `data/wzy/wzy.tsv`
 
 ## Retrieving Wzxs and Wzzs
-To retrieve the Wzx and Wzz entries run `src/data-collection-and-preprocessing/`
+To retrieve the Wzx and Wzz entries run `src/data-collection-and-preprocessing/retrieve-wzx-and-wzz.py`
+This will create the files `data/wzx.tsv` and `data/wzz.tsv`
 
 ### Expanding with Blast
 We use the HPC to 
