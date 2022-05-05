@@ -14,8 +14,6 @@ def get_cds_feature_with_qualifier_value(seq_record, name, value):
 
 gb_file = 'data/selected-OAGCs.gb'
 
-wzz_tsv_outfile = open('data/wzz/wzz.tsv', 'w')
-wzx_tsv_outfile = open('data/wzx/wzx.tsv', 'w')
 names_wzz = [("gene", "wzz"), ("gene", "wzz (rol)"), ("gene", "wzzE"), ("gene", "wzzB"), ("gene", "wzz(fepE)"), ("product", "Wzz")]
 names_wzx = [("gene", "wzx"), ("gene", "WzxC"), ("gene", "WzxE")]
 wzz_data = []
@@ -25,6 +23,7 @@ wzx_accessions_done = []
 for gb_record in SeqIO.parse(open(gb_file,"r"), "genbank") :
     dna_accession = gb_record.id
     organism = gb_record.annotations['organism']
+    # Wzz
     for name, value in names_wzz:
         feature = get_cds_feature_with_qualifier_value(gb_record, name, value)
         if feature is not None:
@@ -33,6 +32,7 @@ for gb_record in SeqIO.parse(open(gb_file,"r"), "genbank") :
                 wzz_seq = feature.qualifiers.get('translation')[0]
                 wzz_data.append((wzz_accession, organism, dna_accession, wzz_seq))
                 wzz_accessions_done.append(wzz_accession)
+    # Wzx
     for name, value in names_wzx:
         feature = get_cds_feature_with_qualifier_value(gb_record, name, value)
         if feature is not None:
