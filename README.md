@@ -23,10 +23,20 @@ We use the HPC to
 
 To create the job files required use `src/data-collection-and-preprocessing/gen_hpc_blast_jobs.py`
 
-To parse the blast output files run `src/data-collection-and-preprocessing/parse-blast-results.py`
+To parse the blast expansion output files run `src/data-collection-and-preprocessing/parse-blast-results.py`
 This will create the file `data/wzy/blast/unique-hits.tsv` which contains a list of the hit accessions and their best e-values.
 
-To retrieve the 
+To retrieve the sequence and taxid for the blast hits, run:
+`scp data/wzy/blast/unique-hits.tsv idamei@transfer.gbar.dtu.dk:/work3/idamei/`
+Then, on the HPC run:
+`qrsh`
+`blastdbcmd -db nr -entry_batch /work3/idamei/unique-hits.tsv > /work3/idamei/unique-hits.fasta`
+`blastdbcmd -db nr -entry_batch /work3/idamei/unique-hits.tsv -outfmt "%a,%L,%T,%t,%s" > /work3/idamei/unique-hits.seq`
+Then locally run:
+`scp idamei@transfer.gbar.dtu.dk:/work3/idamei/unique-hits.fasta data/wzy/blast/unique-hits.fasta`
+`scp idamei@transfer.gbar.dtu.dk:/work3/idamei/unique-hits.seq data/wzy/blast/unique-hits.seq`
+`data/wzy/blast/unique-hits.fasta` is a fasta file with exactly the entries in `data/wzy/blast/unique-hits.tsv`.
+`data/wzy/blast/unique-hits.seq` is a csv file containing taxids along with other info. It also includes identical sequences and therefore has more lines than `data/wzy/blast/unique-hits.tsv`.
 
 ## Explorations
 
