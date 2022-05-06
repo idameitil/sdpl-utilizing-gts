@@ -4,7 +4,7 @@
 
 Manually curated Wzys from papers are added to `data/selected-wzys.tsv`
 
-The DNA records for the Wzys were downloaded manually using NCBI batch entry. They are stored in `data/selected_OAGCs.gb` (Some are O-antigen gene clusters, some are whole genome sequences)
+The DNA records for the Wzys were downloaded manually using NCBI batch entry. They are stored in `data/selected_OAGCs.gb` (Some are O-antigen gene clusters, some are whole genome sequences). This file is too big to store in GitHub, and is just stored locally.
 
 ### Enriching Wzy table with sugars and taxonomy
 To enrich the selected wzys with csdb sugars and taxonomy run `src/data-collection-and-preprocessing/enrich-wzys.py`
@@ -23,7 +23,10 @@ We use the HPC to
 
 To create the job files required use `src/data-collection-and-preprocessing/gen_hpc_blast_jobs.py`
 
+To parse the blast output files run `src/data-collection-and-preprocessing/parse-blast-results.py`
+This will create the file `data/wzy/blast/unique-hits.tsv` which contains a list of the hit accessions and their best e-values.
 
+To retrieve the 
 
 ## Explorations
 
