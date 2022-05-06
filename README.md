@@ -23,9 +23,11 @@ We use the HPC to
 
 To create the job files required use `src/data-collection-and-preprocessing/gen_hpc_blast_jobs.py`
 
+### Parsing Blast results
 To parse the blast expansion output files run `src/data-collection-and-preprocessing/parse-blast-results.py`
 This will create the file `data/wzy/blast/unique-hits.tsv` which contains a list of the hit accessions and their best e-values.
 
+### Retrieving Blast hit data
 To retrieve the sequence and taxid for the blast hits, run:
 `scp data/wzy/blast/unique-hits.tsv idamei@transfer.gbar.dtu.dk:/work3/idamei/`
 Then, on the HPC run:
@@ -37,6 +39,10 @@ Then locally run:
 `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/unique-hits.seq data/wzy/blast/unique-hits.seq`
 `data/wzy/blast/unique-hits.fasta` is a fasta file with exactly the entries in `data/wzy/blast/unique-hits.tsv`.
 `data/wzy/blast/unique-hits.seq` is a csv file containing taxids along with other info. It also includes identical sequences and therefore has more lines than `data/wzy/blast/unique-hits.tsv`.
+
+### Filtering and redundancy reducing Blast hits
+To filter blast hits by length and perform redundancy reduction with cd-hit run: `src/data-collection-and-preprocessing/filter-blast-hits.py`.
+This will create the files `data/wzy/blast/unique-hits-min320max600.fasta` and `data/wzy/blast/unique-hits-min320max600-cdhit99.fasta`.
 
 ## Explorations
 
