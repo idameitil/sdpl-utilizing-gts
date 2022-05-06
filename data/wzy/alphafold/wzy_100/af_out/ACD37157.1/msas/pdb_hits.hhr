@@ -1,0 +1,155 @@
+Query         ACD37157.1 Wzy [Escherichia coli]
+Match_columns 371
+No_of_seqs    87 out of 97
+Neff          5.45649
+Searched_HMMs 80799
+Date          Thu Feb  3 02:07:26 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpi0ect3ie/query.a3m -o /tmp/tmpi0ect3ie/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6BAR_A Rod shape determining p  73.8     2.3 2.9E-05   43.5   0.0   54  261-319   218-277 (359)
+  2 6PL5_A Peptidoglycan glycosylt  68.6     3.7 4.6E-05   42.7   0.0   55  260-319   235-295 (377)
+  3 6MGM_B DNA-binding protein inh   4.9 6.5E+02   0.008   18.7   0.0   19  255-273    28-46  (53)
+  4 6U2U_B DNA-binding protein inh   4.5 7.4E+02  0.0091   17.2   0.0   18  256-273    22-39  (46)
+  5 6MGN_A Transcription factor E2   3.7 9.3E+02   0.012   19.2   0.0   21  254-274    22-42  (52)
+  6 2Z2Y_B Tk-subtilisin (E.C.3.4.   3.7 9.3E+02   0.012   19.5   0.0   14  287-300    14-27  (65)
+  7 2Z30_B Tk-subtilisin (E.C.3.4.   3.7 9.3E+02   0.012   19.5   0.0   14  287-300    14-27  (65)
+  8 6MGN_B Transcription factor E2   3.6 9.8E+02   0.012   16.7   0.0   19  256-274    23-41  (47)
+  9 2LFH_B DNA-binding protein inh   2.3 1.6E+03    0.02   18.2   0.0   17  257-273    48-64  (68)
+ 10 1UKL_F Importin beta-1 subunit   2.3 1.7E+03   0.021   16.2   0.0   18  257-274    21-38  (61)
+
+No 1
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=73.79  E-value=2.3  Score=43.52  Aligned_cols=54  Identities=33%  Similarity=0.364  Sum_probs=26.0  Template_Neff=9.300
+
+Q ACD37157.1      261 FYIISQALSFYESLPILVHWFGIGMGNTSQ----FIGIFAHNIF--VTMILEMGIVGTVLFLLYV  319 (371)
+Q Consensus       261 f~Ii~~~~~~~~~~~~~~~lfGiGlgNs~~----~~Gi~AHNi~--vt~liE~GiiG~ilfl~~~  319 (371)
+                      -+...++.+-.++.    -++|.|.|+..+    .. -.+||-+  .....|.|++|.++++...
+T Consensus       218 ~~~~~~~~~~i~~~----~~~G~G~g~~~~~~~~~~-~~~h~d~i~~~i~~e~G~ig~~~~l~l~  277 (359)
+T 6BAR_A          218 GFQVIQSTIAIGSG----GLFGKGYGQGTQAQLGFI-PFRHTDFVFSVWAEEWGFVGVVGLLGLY  277 (359)
+T ss_dssp             ----------CTTT----CCSCC----------------CCTTTTHHHHHHHSHHHHHHHHHHHH
+T ss_pred             CHHHHHHHHHHHhc----CcccccCCcccccccccC-ccccCccHHHHHHHHcchHHHHHHHHHH
+Confidence            34444444444443    368999998643    22 2678876  9999999999999887644
+
+
+No 2
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=68.62  E-value=3.7  Score=42.68  Aligned_cols=55  Identities=33%  Similarity=0.365  Sum_probs=29.2  Template_Neff=8.900
+
+Q ACD37157.1      260 KFYIISQALSFYESLPILVHWFGIGMGNTSQ----FIGIFAHNIF--VTMILEMGIVGTVLFLLYV  319 (371)
+Q Consensus       260 Kf~Ii~~~~~~~~~~~~~~~lfGiGlgNs~~----~~Gi~AHNi~--vt~liE~GiiG~ilfl~~~  319 (371)
+                      .-+...++.+-.++.+    ++|.|.||..+    +. -.+||-+  .....|.|++|.++++...
+T Consensus       235 ~g~~~~~~~~~i~~~~----~~G~G~g~~~~~~~~~~-p~~h~d~i~~~i~~e~G~ig~~~~l~l~  295 (377)
+T 6PL5_A          235 QGFQVIQSTIAIGSGG----LFGKGYGQGTQAQLGFI-PFRHTDFVFSVWAEEWGFVGVVGLLGLY  295 (377)
+T ss_dssp             HHHHHHHHHHTTCCCC--------------------C-CSCSSTTHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             CcHHHHHHHHHHHhcC----CcCcCCCCcccchhhcC-cCCCCCcHHHHHHHHccHHHHHHHHHHH
+Confidence            3444455555554444    68999998643    22 2567766  9999999999999887644
+
+
+No 3
+>6MGM_B DNA-binding protein inhibitor ID-1; Helix-loop-helix DNA-binding protein inhibitor, DNA; 1.791A {Mus musculus}
+Probab=4.93  E-value=6.5e+02  Score=18.68  Aligned_cols=19  Identities=16%  Similarity=0.254  Sum_probs=16.1  Template_Neff=8.100
+
+Q ACD37157.1      255 GSFNSKFYIISQALSFYES  273 (371)
+Q Consensus       255 gSF~SKf~Ii~~~~~~~~~  273 (371)
+                      +--.||..++..|.+|+.+
+T Consensus        28 ~~k~sK~~iL~~ai~YI~~   46 (53)
+T 6MGM_B           28 NRKVSKVEILQHVIDYIRD   46 (53)
+T ss_pred             CCCCCHHHHHHHHHHHHHH
+Confidence            3368999999999999875
+
+
+No 4
+>6U2U_B DNA-binding protein inhibitor ID-1; Helix-loop-helix, DNA-binding protein inhibitor, DNA; 1.5A {Mus musculus}
+Probab=4.46  E-value=7.4e+02  Score=17.21  Aligned_cols=18  Identities=17%  Similarity=0.261  Sum_probs=15.5  Template_Neff=9.100
+
+Q ACD37157.1      256 SFNSKFYIISQALSFYES  273 (371)
+Q Consensus       256 SF~SKf~Ii~~~~~~~~~  273 (371)
+                      .-.||..++..+.+|+++
+T Consensus        22 ~k~sk~~iL~~a~~yI~~   39 (46)
+T 6U2U_B           22 RKVSKVEILQHVIDYIRD   39 (46)
+T ss_dssp             SCCCHHHHHHHHHHHHHH
+T ss_pred             CCCCHHHHHHHHHHHHHH
+Confidence            368999999999999875
+
+
+No 5
+>6MGN_A Transcription factor E2-alpha, DNA-binding protein; DNA-binding protein inhibitor ID-1, transcription; 1.901A {Homo sapiens}
+Probab=3.69  E-value=9.3e+02  Score=19.19  Aligned_cols=21  Identities=24%  Similarity=0.333  Sum_probs=17.9  Template_Neff=4.500
+
+Q ACD37157.1      254 DGSFNSKFYIISQALSFYESL  274 (371)
+Q Consensus       254 DgSF~SKf~Ii~~~~~~~~~~  274 (371)
+                      +..-.||..++..|.+|++..
+T Consensus        22 ~~kklsKi~tLr~Av~yI~~L   42 (52)
+T 6MGN_A           22 SDKAQTKLLILQQAVQVILGL   42 (52)
+T ss_pred             CCCCCCHHHHHHHHHHHHHHH
+Confidence            557889999999999998753
+
+
+No 6
+>2Z2Y_B Tk-subtilisin (E.C.3.4.21.62); subtilisin, Thermococcus kodakaraensis, autoprocessed, HYDROLASE; HET: CA; 1.89A {Thermococcus kodakarensis}
+Probab=3.69  E-value=9.3e+02  Score=19.49  Aligned_cols=14  Identities=29%  Similarity=0.610  Sum_probs=10.2  Template_Neff=1.000
+
+Q ACD37157.1      287 NTSQFIGIFAHNIF  300 (371)
+Q Consensus       287 Ns~~~~Gi~AHNi~  300 (371)
+                      |..+++|||.|-.+
+T Consensus        14 nphevlgigghivy   27 (65)
+T 2Z2Y_B           14 NPHEVLGIGGHIVY   27 (65)
+T ss_dssp             CGGGTTTTTCEEEE
+T ss_pred             CHHheeeeccEEEe
+Confidence            56778888888643
+
+
+No 7
+>2Z30_B Tk-subtilisin (E.C.3.4.21.62); subtilisin, Thermococcus kodakaraensis, HYDROLASE; 1.65A {Thermococcus kodakarensis}
+Probab=3.69  E-value=9.3e+02  Score=19.49  Aligned_cols=14  Identities=29%  Similarity=0.610  Sum_probs=10.2  Template_Neff=1.000
+
+Q ACD37157.1      287 NTSQFIGIFAHNIF  300 (371)
+Q Consensus       287 Ns~~~~Gi~AHNi~  300 (371)
+                      |..+++|||.|-.+
+T Consensus        14 nphevlgigghivy   27 (65)
+T 2Z30_B           14 NPHEVLGIGGHIVY   27 (65)
+Confidence            56778888888643
+
+
+No 8
+>6MGN_B Transcription factor E2-alpha, DNA-binding protein; DNA-binding protein inhibitor ID-1, transcription; 1.901A {Homo sapiens}
+Probab=3.55  E-value=9.8e+02  Score=16.67  Aligned_cols=19  Identities=21%  Similarity=0.317  Sum_probs=15.8  Template_Neff=9.100
+
+Q ACD37157.1      256 SFNSKFYIISQALSFYESL  274 (371)
+Q Consensus       256 SF~SKf~Ii~~~~~~~~~~  274 (371)
+                      .-.||..++..+.+|+++.
+T Consensus        23 ~~~~k~~il~~ai~yI~~L   41 (47)
+T 6MGN_B           23 RKVSKVEILQHVIDYIRDL   41 (47)
+T ss_pred             CCCCHHHHHHHHHHHHHHH
+Confidence            3689999999999998753
+
+
+No 9
+>2LFH_B DNA-binding protein inhibitor ID-3; Structural Genomics, NORTHEAST STRUCTURAL GENOMICS; NMR {Homo sapiens}
+Probab=2.34  E-value=1.6e+03  Score=18.22  Aligned_cols=17  Identities=12%  Similarity=0.188  Sum_probs=15.1  Template_Neff=6.600
+
+Q ACD37157.1      257 FNSKFYIISQALSFYES  273 (371)
+Q Consensus       257 F~SKf~Ii~~~~~~~~~  273 (371)
+                      -.||..+++.|.+|+++
+T Consensus        48 klsK~~iL~~Ai~YIk~   64 (68)
+T 2LFH_B           48 QLSQVEILQRVIDYILD   64 (68)
+T ss_dssp             BCCHHHHHHHHHHHHHH
+T ss_pred             CCCHHHHHHHHHHHHHH
+Confidence            58999999999999875
+
+
+No 10
+>1UKL_F Importin beta-1 subunit/Sterol regulatory element; Transcription factor, Nuclear transport factor; HET: MSE; 3.0A {Mus musculus} SCOP: a.38.1.1
+Probab=2.29  E-value=1.7e+03  Score=16.17  Aligned_cols=18  Identities=17%  Similarity=0.211  Sum_probs=15.1  Template_Neff=9.700
+
+Q ACD37157.1      257 FNSKFYIISQALSFYESL  274 (371)
+Q Consensus       257 F~SKf~Ii~~~~~~~~~~  274 (371)
+                      -.||..+++.+.+|+++.
+T Consensus        21 k~~k~~il~~a~~yi~~L   38 (61)
+T 1UKL_F           21 KMHKSGVLRKAIDYIKYL   38 (61)
+T ss_dssp             CCCHHHHHHHHHHHHHHH
+T ss_pred             CCCHHHHHHHHHHHHHHH
+Confidence            478999999999998753
+
+

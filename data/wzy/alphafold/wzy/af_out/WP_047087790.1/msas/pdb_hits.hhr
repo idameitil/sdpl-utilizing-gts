@@ -1,0 +1,160 @@
+Query         WP_047087790.1 O172 family O-antigen polymerase [Escherichia coli] >AAT28922.1 Wzy [Escherichia coli] >EEW2755429.1 O172 family O-antigen polymerase [Escherichia coli] >EFF1884448.1 O172 family O-antigen polymerase [Escherichia coli] >EFF7527611.1 O172 family O-antigen polymerase [Escherichia coli] >EFM5767694.1 O172 family O-antigen polymerase [Escherichia coli]
+Match_columns 391
+No_of_seqs    6 out of 7
+Neff          1.99985
+Searched_HMMs 80799
+Date          Thu Apr 28 07:09:55 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpcxvz71ev/query.a3m -o /tmp/tmpcxvz71ev/output.hhr -maxseq 1000000 -d /mnt/disks/data/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6PNJ_X Photosystem I; trimeric  18.4 1.1E+02  0.0013   28.2   0.0   33  271-303    35-67  (101)
+  2 2LH9_A Tudor domain-containing   8.4 3.2E+02   0.004   22.2   0.0   25  252-279    41-65  (78)
+  3 6OUG_H Matrix protein 2; viral   6.9 4.2E+02  0.0052   21.4   0.0   12  299-310     6-17  (41)
+  4 1E12_A HALORHODOPSIN; ION PUMP   6.6 4.5E+02  0.0056   25.7   0.0   40   82-121   176-217 (253)
+  5 2KWX_D Matrix protein 2; M2 pr   6.5 4.5E+02  0.0056   21.0   0.0   12  299-310     4-15  (38)
+  6 5LBH_E Helicobacter cinaedi NA   6.3 4.7E+02  0.0058   21.5   0.0   53  236-288    11-65  (145)
+  7 2JPX_A Vpu protein; A18H Vpu,    6.1 4.9E+02  0.0061   20.5   0.0   12  174-185    23-34  (35)
+  8 1ZET_A POLYMERASE (DNA DIRECTE   5.8 5.3E+02  0.0066   25.9   0.0   24  261-284   199-222 (388)
+  9 2PYB_B Neutrophil activating p   5.5 5.6E+02  0.0069   21.3   0.0   34  237-270    14-47  (151)
+ 10 3D5L_A Regulatory protein RecX   5.1 6.2E+02  0.0077   24.1   0.0   25  251-275   187-212 (221)
+
+No 1
+>6PNJ_X Photosystem I; trimeric alpha helical complex, PHOTOSYNTHESIS; HET: PQN, LMG, CL0, F6C, BCR, CLA, LMT, SF4, LHG; 3.2A {Fischerella thermalis PCC 7521}
+Probab=18.35  E-value=1.1e+02  Score=28.21  Aligned_cols=33  Identities=24%  Similarity=0.353  Sum_probs=0.0  Template_Neff=1.600
+
+Q WP_047087790.1  271 PMPSLFGITEKTTEIGKLIFYHSYGRWDSAIAI  303 (391)
+Q Consensus       271 P~PSlFGI~eKv~EfGKliF~ys~~~~~SA~A~  303 (391)
+                      ....||||+|+++.-|...-...-..-+++.|.
+T Consensus        35 ~~~~lfgi~~~v~k~g~~~ma~~~~~~~~pva~   67 (101)
+T 6PNJ_X           35 ELGHLFGISEEVLKLGVHFMAKADTTADLPVAK   67 (101)
+T ss_dssp             ---------------------------------
+T ss_pred             hHHHHhhhcHHHHHHhhhhHhcCCCCCCCCccc
+Confidence            356799999999999987766666665665553
+
+
+No 2
+>2LH9_A Tudor domain-containing protein 7; RNA binding domain, Ribonucleoprotein, RNA; NMR {Mus musculus}
+Probab=8.40  E-value=3.2e+02  Score=22.16  Aligned_cols=25  Identities=20%  Similarity=0.527  Sum_probs=18.5  Template_Neff=7.400
+
+Q WP_047087790.1  252 NFVEGFGYSAINEFLEKLTPMPSLFGIT  279 (391)
+Q Consensus       252 ~~~~gf~Ys~i~EFlEkLTP~PSlFGI~  279 (391)
+                      --.+.+||+++.|||++   +|+.+-+.
+T Consensus        41 lp~~~~G~~sl~~fL~s---~pdvv~i~   65 (78)
+T 2LH9_A           41 IPFKQLGYPTLEAYLRS---VPAVVRIE   65 (78)
+T ss_dssp             CCHHHHTCSSHHHHHHT---CTTTEEEE
+T ss_pred             CCHHHcCCCCHHHHHhc---CCCeEEEE
+Confidence            33558999999999998   56665443
+
+
+No 3
+>6OUG_H Matrix protein 2; viral protein, proton channel, MEMBRANE; HET: E01; 3.01A {N/A}
+Probab=6.94  E-value=4.2e+02  Score=21.42  Aligned_cols=12  Identities=50%  Similarity=0.764  Sum_probs=9.6  Template_Neff=1.800
+
+Q WP_047087790.1  299 SAIAISVLGILS  310 (391)
+Q Consensus       299 SA~A~Svlgii~  310 (391)
+                      =++|||++||+-
+T Consensus         6 lv~aA~IiGIlH   17 (41)
+T 6OUG_H            6 LAVAASIIGILH   17 (41)
+T ss_dssp             HHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHH
+Confidence            468999999874
+
+
+No 4
+>1E12_A HALORHODOPSIN; ION PUMP, CHLORIDE PUMP, MEMBRANE; HET: OLC, RET, PLM; 1.8A {HALOBACTERIUM SALINARUM} SCOP: f.13.1.1
+Probab=6.55  E-value=4.5e+02  Score=25.68  Aligned_cols=40  Identities=18%  Similarity=0.268  Sum_probs=24.3  Template_Neff=7.800
+
+Q WP_047087790.1   82 VNINSIFLLLVIIY-FIFLLK-TGSGKVYADGGSIGELSSFD  121 (391)
+Q Consensus        82 ~nlN~l~liL~~lY-fif~~k-TGiGkv~~~~g~~~eLt~~d  121 (391)
+                      ..+-.+.+++-.+| ..+.+. .|.|.+.+.+.|..--+.+|
+T Consensus       176 ~~l~~~~~v~W~~YPivw~l~~~G~~~i~~~~~e~i~y~vlD  217 (253)
+T 1E12_A          176 DTLRVLTVVLWLGYPIVWAVGVEGLALVQSVGATSWAYSVLD  217 (253)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHSTTTTCSSCCHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHCcccccccCchHHHHHHHHHHH
+Confidence            34445556666777 455556 67777755556656666666
+
+
+No 5
+>2KWX_D Matrix protein 2; M2 proton channel, influenza A; NMR {Influenza A virus}
+Probab=6.53  E-value=4.5e+02  Score=20.96  Aligned_cols=12  Identities=50%  Similarity=0.764  Sum_probs=9.3  Template_Neff=1.800
+
+Q WP_047087790.1  299 SAIAISVLGILS  310 (391)
+Q Consensus       299 SA~A~Svlgii~  310 (391)
+                      =++|||++||+-
+T Consensus         4 lv~aA~IigIlH   15 (38)
+T 2KWX_D            4 LAVAASIIGILH   15 (38)
+T ss_dssp             HHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHH
+Confidence            367899999864
+
+
+No 6
+>5LBH_E Helicobacter cinaedi NAP (HC-NAP); dps-like protein Neutrophile activating protein; HET: FE; 2.553A {Helicobacter cinaedi}
+Probab=6.34  E-value=4.7e+02  Score=21.49  Aligned_cols=53  Identities=11%  Similarity=0.223  Sum_probs=37.2  Template_Neff=10.200
+
+Q WP_047087790.1  236 IISNVLYNYEHYYSVSNFVEGFGYSAINEFLEKLTP--MPSLFGITEKTTEIGKL  288 (391)
+Q Consensus       236 l~SNl~y~~eny~sis~~~~gf~Ys~i~EFlEkLTP--~PSlFGI~eKv~EfGKl  288 (391)
+                      .+++.......|...+..++|.++..+++++++.--  +-..-.+.|+..+.|-.
+T Consensus        11 ~la~e~~~~~~y~~~~~~~~g~~~~~l~~~~~~~~~~~~~h~d~laeri~~lG~~   65 (145)
+T 5LBH_E           11 IQADASVFYVKVHNFHWNVKGMDFHPTHKATQEIYEQFADVFDDVAERVLQLGEM   65 (145)
+T ss_dssp             HHHHHHHHHHHHHHHHHHBCSTTHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTSC
+T ss_pred             HHHHHHHHHHHHHHHHHhcCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHcCCC
+Confidence            356777778888888888999999998888887643  23344555555555543
+
+
+No 7
+>2JPX_A Vpu protein; A18H Vpu, trans-membrane, ion-channel, helix; NMR {Human immunodeficiency virus 1}
+Probab=6.12  E-value=4.9e+02  Score=20.46  Aligned_cols=12  Identities=33%  Similarity=0.221  Sum_probs=1.6  Template_Neff=2.400
+
+Q WP_047087790.1  174 IALIEIEKIKRC  185 (391)
+Q Consensus       174 i~iIE~kkI~~~  185 (391)
+                      +..+||+|+++.
+T Consensus        23 Iv~IEYrki~k~   34 (35)
+T 2JPX_A           23 IVIIEGRGGKKK   34 (35)
+T ss_dssp             HHC---------
+T ss_pred             HHHHHhhhhccC
+Confidence            356899998864
+
+
+No 8
+>1ZET_A POLYMERASE (DNA DIRECTED) IOTA/DNA Complex; PROTEIN, DNA, DTTP, STATISTICAL DYAD; HET: TTP, BRU, DOC; 2.3A {Homo sapiens} SCOP: e.8.1.7, d.240.1.1
+Probab=5.77  E-value=5.3e+02  Score=25.89  Aligned_cols=24  Identities=21%  Similarity=0.351  Sum_probs=20.2  Template_Neff=9.100
+
+Q WP_047087790.1  261 AINEFLEKLTPMPSLFGITEKTTE  284 (391)
+Q Consensus       261 ~i~EFlEkLTP~PSlFGI~eKv~E  284 (391)
+                      .+.+|+.+++|++.+.|+..|+.+
+T Consensus       199 ~~~~~l~~l~pi~~l~gig~~~~~  222 (388)
+T 1ZET_A          199 SCQHLIHSLNHIKEIPGIGYKTAK  222 (388)
+T ss_dssp             GHHHHHTTCSSGGGSTTCCHHHHH
+T ss_pred             HHHHHHHcCCchhhCCCCCHHHHH
+Confidence            467899999999999999877754
+
+
+No 9
+>2PYB_B Neutrophil activating protein; Ferritin, Dps, FOUR-HELIX BUNDLE, METAL; 2.6A {Borrelia burgdorferi}
+Probab=5.53  E-value=5.6e+02  Score=21.31  Aligned_cols=34  Identities=12%  Similarity=0.185  Sum_probs=26.4  Template_Neff=10.100
+
+Q WP_047087790.1  237 ISNVLYNYEHYYSVSNFVEGFGYSAINEFLEKLT  270 (391)
+Q Consensus       237 ~SNl~y~~eny~sis~~~~gf~Ys~i~EFlEkLT  270 (391)
+                      +++.......|......++|.+|.++++++++.-
+T Consensus        14 l~~e~~~~~~y~~~~~~~~g~~~~~l~~~~~~~~   47 (151)
+T 2PYB_B           14 LASLHIFYSNLRGIHWNIKDTNFFVIHKKTQKLY   47 (151)
+T ss_dssp             HHHHHHHHHHHHHHHHHCCCSSTHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHcCCCCHHHHHHHHHHHH
+Confidence            4566666777888888888988988888887753
+
+
+No 10
+>3D5L_A Regulatory protein RecX; PSI-II, NYSGXRC, RecX, DNA repair; 2.35A {Lactobacillus reuteri}
+Probab=5.09  E-value=6.2e+02  Score=24.13  Aligned_cols=25  Identities=24%  Similarity=0.513  Sum_probs=14.7  Template_Neff=8.000
+
+Q WP_047087790.1  251 SNFVE-GFGYSAINEFLEKLTPMPSL  275 (391)
+Q Consensus       251 s~~~~-gf~Ys~i~EFlEkLTP~PSl  275 (391)
+                      +.... ||.|+.+.+.++++++.|.+
+T Consensus       187 ~~L~rkGFs~~~I~~~l~~~~~~~~~  212 (221)
+T 3D5L_A          187 QGLTTKGFSSSVYEMIKDEVVPQPDL  212 (221)
+T ss_dssp             HHHHHTTCCHHHHHHHTTC-------
+T ss_pred             HHHHhCCCCHHHHHHHHHHhCCCCCC
+Confidence            33344 99999999999999998876
+
+

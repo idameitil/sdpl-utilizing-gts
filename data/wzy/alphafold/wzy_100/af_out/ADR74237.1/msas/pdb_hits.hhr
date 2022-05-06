@@ -1,0 +1,180 @@
+Query         ADR74237.1 Wzy [Escherichia coli]
+Match_columns 406
+No_of_seqs    112 out of 126
+Neff          5.81747
+Searched_HMMs 80799
+Date          Thu Feb  3 11:26:15 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpwq002moe/query.a3m -o /tmp/tmpwq002moe/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6BAR_A Rod shape determining p  95.2  0.0021 2.6E-08   66.1   0.0   79  245-338   196-276 (359)
+  2 6PL5_A Peptidoglycan glycosylt  94.8  0.0045 5.5E-08   64.5   0.0   79  245-338   214-294 (377)
+  3 1R4T_A exoenzyme S; EXOS, PSEU  20.5      88  0.0011   30.2   0.0   36  260-295    58-96  (153)
+  4 1HE1_B EXOENZYME S, RAS-RELATE  20.1      91  0.0011   29.5   0.0   36  260-295    56-94  (135)
+  5 5Z7L_D Calcium-binding and coi  19.1      98  0.0012   23.5   0.0    9  162-170     3-11  (43)
+  6 2MKA_C Toll-like receptor 3; t  15.2 1.4E+02  0.0017   21.7   0.0   10  263-272    24-33  (34)
+  7 3O0G_D Cell division protein k   6.9 4.2E+02  0.0052   25.7   0.0   19  323-341    72-90  (149)
+  8 1AUU_A SACY; ANTITERMINATION,    5.5 5.6E+02  0.0069   20.6   0.0   12  282-293    24-36  (55)
+  9 1UNG_D CELL DIVISION PROTEIN K   5.4 5.8E+02  0.0072   26.0   0.0   19  323-341   117-135 (208)
+ 10 1UNL_E CYCLIN-DEPENDENT KINASE   5.4 5.8E+02  0.0072   26.0   0.0   19  323-341   117-135 (208)
+
+No 1
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=95.21  E-value=0.0021  Score=66.10  Aligned_cols=79  Identities=20%  Similarity=0.162  Sum_probs=27.6  Template_Neff=9.300
+
+Q ADR74237.1      245 AIDYFYYRIF--FDYSNLNLSNLVYLQGWEAAWIALKETRLFGLGFQLNGTQSAGFFTDLINSINKSELNRLDGGFLASK  322 (406)
+Q Consensus       245 ~l~Yf~~RL~--~s~~s~NLStLVyLQGwe~A~~sL~~T~GlGlGFQqlG~~~~g~~~~~I~~L~g~~lN~~DGGflasK  322 (406)
+                      ..+|..+|+.  ++++.+ -+.=-|  =|+++.+.+++..-+|.|.++.....            ..+....+--+..+.
+T Consensus       196 ~~~~~~~Rl~~~~~p~~d-~~~~~~--~~~~~~~~i~~~~~~G~G~g~~~~~~------------~~~~~~~h~d~i~~~  260 (359)
+T 6BAR_A          196 LKPYQRERVLIVLDPYRD-PLGQGF--QVIQSTIAIGSGGLFGKGYGQGTQAQ------------LGFIPFRHTDFVFSV  260 (359)
+T ss_dssp             -----------------------------------CTTTCCSCC---------------------------CCTTTTHHH
+T ss_pred             CCchHHHHhhhHhCCCCC-CCCCCH--HHHHHHHHHHhcCcccccCCcccccc------------cccCccccCccHHHH
+Confidence            4578999986  232211 111111  14778888999888899986533211            011223445577789
+
+
+Q ADR74237.1      323 LISETGIIGIFFVLFL  338 (406)
+Q Consensus       323 iIsEfGi~Gi~lvl~~  338 (406)
+                      +..|+|++|.++++..
+T Consensus       261 i~~e~G~ig~~~~l~l  276 (359)
+T 6BAR_A          261 WAEEWGFVGVVGLLGL  276 (359)
+T ss_dssp             HHHHSHHHHHHHHHHH
+T ss_pred             HHHHcchHHHHHHHHH
+Confidence            9999999998876543
+
+
+No 2
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=94.75  E-value=0.0045  Score=64.52  Aligned_cols=79  Identities=22%  Similarity=0.201  Sum_probs=40.8  Template_Neff=8.900
+
+Q ADR74237.1      245 AIDYFYYRIF--FDYSNLNLSNLVYLQGWEAAWIALKETRLFGLGFQLNGTQSAGFFTDLINSINKSELNRLDGGFLASK  322 (406)
+Q Consensus       245 ~l~Yf~~RL~--~s~~s~NLStLVyLQGwe~A~~sL~~T~GlGlGFQqlG~~~~g~~~~~I~~L~g~~lN~~DGGflasK  322 (406)
+                      ..+|..+|+.  ++++.+..+. -|.  |.++.+++++..-+|.|..+.....            ..+....+--+..+.
+T Consensus       214 ~~~~~~~Ri~~~~~p~~~~~~~-g~~--~~~~~~~i~~~~~~G~G~g~~~~~~------------~~~~p~~h~d~i~~~  278 (377)
+T 6PL5_A          214 LKPYQRERVLIVLDPYRDPLGQ-GFQ--VIQSTIAIGSGGLFGKGYGQGTQAQ------------LGFIPFRHTDFVFSV  278 (377)
+T ss_dssp             CCHHHHHHHHHHHSCCCHHHHH-HHH--HHHHHHTTCCCC----------------------------CCSCSSTTHHHH
+T ss_pred             CcchHHHHHHHhhCCCCCCCCC-cHH--HHHHHHHHHhcCCcCcCCCCcccch------------hhcCcCCCCCcHHHH
+Confidence            3578899986  2322211111 111  4688889999988999875432110            011233445577889
+
+
+Q ADR74237.1      323 LISETGIIGIFFVLFL  338 (406)
+Q Consensus       323 iIsEfGi~Gi~lvl~~  338 (406)
+                      +..|+|++|.++++..
+T Consensus       279 i~~e~G~ig~~~~l~l  294 (377)
+T 6PL5_A          279 WAEEWGFVGVVGLLGL  294 (377)
+T ss_dssp             HHHHHHHHHHHHHHHH
+T ss_pred             HHHHccHHHHHHHHHH
+Confidence            9999999998876543
+
+
+No 3
+>1R4T_A exoenzyme S; EXOS, PSEUDOMONAS AERUGINOSA, GAP, TOXIN; NMR {Pseudomonas aeruginosa}
+Probab=20.54  E-value=88  Score=30.16  Aligned_cols=36  Identities=22%  Similarity=0.097  Sum_probs=22.9  Template_Neff=3.300
+
+Q ADR74237.1      260 LNLSNLVYLQGWE---AAWIALKETRLFGLGFQLNGTQS  295 (406)
+Q Consensus       260 ~NLStLVyLQGwe---~A~~sL~~T~GlGlGFQqlG~~~  295 (406)
+                      +||..++-..+-+   .+..+|.+..=-|+=|||+|+..
+T Consensus        58 TaLqgi~~~s~~~~~~~~A~~LL~~~IGGiPFsQWGT~G   96 (153)
+T 1R4T_A           58 TALAGIRAGSQVEESRIQAGRLLERSIGGIALQQWGTTG   96 (153)
+T ss_dssp             HHHHHHHH----------HHHHHTSEETTEEGGGTTSSS
+T ss_pred             HHHHHHHhccCCHHHHHHHHHHHhCccCCeehhhcCCcc
+Confidence            5777777776655   56677888877799999999754
+
+
+No 4
+>1HE1_B EXOENZYME S, RAS-RELATED C3 BOTULINUM; SIGNALING PROTEIN, SIGNALLING COMPLEX, EXOS; HET: GDP; 2.0A {PSEUDOMONAS AERUGINOSA} SCOP: a.24.11.1
+Probab=20.13  E-value=91  Score=29.51  Aligned_cols=36  Identities=22%  Similarity=0.097  Sum_probs=27.3  Template_Neff=3.600
+
+Q ADR74237.1      260 LNLSNLVYLQGWE---AAWIALKETRLFGLGFQLNGTQS  295 (406)
+Q Consensus       260 ~NLStLVyLQGwe---~A~~sL~~T~GlGlGFQqlG~~~  295 (406)
+                      +||..++...+-+   .+..+|.+..=-|+=|||+|+..
+T Consensus        56 TaLqgi~~~s~~~~~~~~a~~Ll~~~IGgiPFsQwGT~g   94 (135)
+T 1HE1_B           56 TALAGIRAGSQVEESRIQAGRLLERSIGGIALQQWGTTG   94 (135)
+T ss_dssp             HHHHHHHHHCSCHHHHHHHHHHHHCEETTEEHHHHTCSS
+T ss_pred             HHHHHHHhcCCCHHHHHHHHHHhhcccCceeccccccCc
+Confidence            5777777776655   56677788877799999999754
+
+
+No 5
+>5Z7L_D Calcium-binding and coiled-coil domain-containing protein; NDP52, NAP1, SKICH, Autophagy, SIGNALING; HET: GOL; 2.02A {Homo sapiens}
+Probab=19.12  E-value=98  Score=23.51  Aligned_cols=9  Identities=56%  Similarity=0.674  Sum_probs=7.1  Template_Neff=2.100
+
+Q ADR74237.1      162 EPSHFALAY  170 (406)
+Q Consensus       162 EPSHfAL~~  170 (406)
+                      -+|||||+.
+T Consensus         3 vaShFALvt   11 (43)
+T 5Z7L_D            3 VASHFALVT   11 (43)
+T ss_dssp             CHHHHHHHH
+T ss_pred             hhhhHHHHH
+Confidence            369999985
+
+
+No 6
+>2MKA_C Toll-like receptor 3; transmembrane domain, trimer, IMMUNE SYSTEM; NMR {Homo sapiens}
+Probab=15.19  E-value=1.4e+02  Score=21.67  Aligned_cols=10  Identities=30%  Similarity=0.860  Sum_probs=5.7  Template_Neff=4.100
+
+Q ADR74237.1      263 SNLVYLQGWE  272 (406)
+Q Consensus       263 StLVyLQGwe  272 (406)
+                      +.+++.|||+
+T Consensus        24 ~~lv~~~~W~   33 (34)
+T 2MKA_C           24 VLLIHFEGWR   33 (34)
+T ss_dssp             HHHHHHHHCC
+T ss_pred             HHHHHHhccC
+Confidence            3456666664
+
+
+No 7
+>3O0G_D Cell division protein kinase 5; kinase, Kinase activator complex, kinase; HET: 3O0; 1.95A {Homo sapiens}
+Probab=6.94  E-value=4.2e+02  Score=25.68  Aligned_cols=19  Identities=5%  Similarity=0.142  Sum_probs=13.4  Template_Neff=2.900
+
+Q ADR74237.1      323 LISETGIIGIFFVLFLIFK  341 (406)
+Q Consensus       323 iIsEfGi~Gi~lvl~~~~~  341 (406)
+                      +-+|-..=++++...|+-+
+T Consensus        72 ~~s~~eLqa~vLtCLYlsY   90 (149)
+T 3O0G_D           72 VGSDHELQAVLLTCLYLSY   90 (149)
+T ss_dssp             CCSHHHHHHHHHHHHHHHH
+T ss_pred             CCCHHHHHHHHHHHHHHHH
+Confidence            3478888888887777643
+
+
+No 8
+>1AUU_A SACY; ANTITERMINATION, RNA BINDING DOMAIN, TRANSCRIPTION; NMR {Bacillus subtilis} SCOP: b.35.2.1
+Probab=5.55  E-value=5.6e+02  Score=20.58  Aligned_cols=12  Identities=17%  Similarity=0.218  Sum_probs=8.7  Template_Neff=5.100
+
+Q ADR74237.1      282 RLFGLGFQL-NGT  293 (406)
+Q Consensus       282 ~GlGlGFQq-lG~  293 (406)
+                      -|-|+|||. -|.
+T Consensus        24 ~GkGIGF~kk~Gd   36 (55)
+T 1AUU_A           24 LGAGIAFNKKKND   36 (55)
+T ss_dssp             ECTTSSTTCCTTS
+T ss_pred             EeccccCCCCCCC
+Confidence            388999984 453
+
+
+No 9
+>1UNG_D CELL DIVISION PROTEIN KINASE 5; CELL CYCLE, COMPLEX(KINASE-ACTIVATOR), INHIBITORS, NEURODEGENERATIVE; HET: ALH; 2.3A {HOMO SAPIENS} SCOP: a.74.1.1
+Probab=5.38  E-value=5.8e+02  Score=25.99  Aligned_cols=19  Identities=5%  Similarity=0.142  Sum_probs=13.7  Template_Neff=2.600
+
+Q ADR74237.1      323 LISETGIIGIFFVLFLIFK  341 (406)
+Q Consensus       323 iIsEfGi~Gi~lvl~~~~~  341 (406)
+                      +-+|...=++++...|+-+
+T Consensus       117 v~s~~eLqa~vLTCLYLsY  135 (208)
+T 1UNG_D          117 VGSDHELQAVLLTCLYLSY  135 (208)
+T ss_dssp             CCCTTHHHHHHHHHHHHHH
+T ss_pred             CCCHHHHHHHHHHHHHHHH
+Confidence            4478888888887777643
+
+
+No 10
+>1UNL_E CYCLIN-DEPENDENT KINASE 5 (E.C.2.7.1.-), CYCLIN-DEPENDENT; CYCLIN DEPENDENT KINASE, INHIBITOR, ATP-ANALOGUE; HET: RRC; 2.2A {HOMO SAPIENS} SCOP: a.74.1.1
+Probab=5.38  E-value=5.8e+02  Score=25.99  Aligned_cols=19  Identities=5%  Similarity=0.142  Sum_probs=13.7  Template_Neff=2.600
+
+Q ADR74237.1      323 LISETGIIGIFFVLFLIFK  341 (406)
+Q Consensus       323 iIsEfGi~Gi~lvl~~~~~  341 (406)
+                      +-+|...=++++...|+-+
+T Consensus       117 v~s~~eLqa~vLTCLYLsY  135 (208)
+T 1UNL_E          117 VGSDHELQAVLLTCLYLSY  135 (208)
+T ss_dssp             CCCHHHHHHHHHHHHHHHH
+T ss_pred             CCCHHHHHHHHHHHHHHHH
+Confidence            4478888888887777643
+
+

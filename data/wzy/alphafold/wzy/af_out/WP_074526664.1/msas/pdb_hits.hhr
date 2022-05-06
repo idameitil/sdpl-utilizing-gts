@@ -1,0 +1,179 @@
+Query         WP_074526664.1 hypothetical protein [Escherichia coli] >EEY9421571.1 hypothetical protein [Escherichia coli] >EEZ7679886.1 hypothetical protein [Escherichia coli] >EFC1075863.1 hypothetical protein [Escherichia coli] >EFN3694272.1 hypothetical protein [Escherichia coli] >EGO3988426.1 hypothetical protein [Escherichia coli]
+Match_columns 385
+No_of_seqs    4 out of 5
+Neff          2.3463
+Searched_HMMs 80799
+Date          Thu Apr 28 09:25:48 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp7vdztyfa/query.a3m -o /tmp/tmp7vdztyfa/output.hhr -maxseq 1000000 -d /mnt/disks/data/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6PL5_A Peptidoglycan glycosylt  74.3     2.2 2.7E-05   42.0   0.0   83  280-362   234-337 (377)
+  2 6BAR_A Rod shape determining p  71.4     2.9 3.6E-05   40.5   0.0   83  280-362   216-319 (359)
+  3 1VCC_A DNA TOPOISOMERASE I; DN   6.6 4.4E+02  0.0055   23.4   0.0   20   77-96     24-44  (77)
+  4 3I0T_B BH3703 protein; UNKNOWN   5.4 5.8E+02  0.0071   24.0   0.0   18   78-95     12-29  (179)
+  5 1N8V_A chemosensory protein; L   5.4 5.8E+02  0.0072   23.2   0.0   41   78-118    67-107 (112)
+  6 2IA1_B hypothetical protein BH   5.0 6.4E+02  0.0079   23.7   0.0   18   78-95     11-28  (178)
+  7 5WAI_C Histone-binding protein   4.0 8.3E+02    0.01   22.7   0.0   11   85-95     51-61  (100)
+  8 4G4S_P Proteasome component C7   3.3 1.1E+03   0.013   23.4   0.0   19   87-105   246-264 (269)
+  9 6N2Y_b1 ATP synthase class 1;    3.3 1.1E+03   0.013   21.1   0.0   20  107-126     7-26  (168)
+ 10 2N5U_A Tsr0524 protein; PetP,    3.2 1.1E+03   0.014   21.3   0.0   15  301-315    56-71  (79)
+
+No 1
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=74.31  E-value=2.2  Score=42.01  Aligned_cols=83  Identities=16%  Similarity=0.063  Sum_probs=47.2  Template_Neff=8.900
+
+Q WP_074526664.1  280 VRGLMWNSFYQTLTESPLFGTKGI----------TVYFADNFFWFFILSYGICGAVFIGVFFLSII----RSA---NSKF  342 (385)
+Q Consensus       280 ~RyimW~sF~~vises~lfGt~G~----------~v~F~dNi~WyFi~sYGivG~~~i~~fF~~ii----~~~---~s~~  342 (385)
+                      =|.-.|+.=.+.++++|++|....          ...-.|+++-+....+|.+|.+++..++...+    +.+   +++.
+T Consensus       234 ~~g~~~~~~~~~i~~~~~~G~G~g~~~~~~~~~~p~~h~d~i~~~i~~e~G~ig~~~~l~l~~~l~~~~~~~~~~~~~~~  313 (377)
+T 6PL5_A          234 GQGFQVIQSTIAIGSGGLFGKGYGQGTQAQLGFIPFRHTDFVFSVWAEEWGFVGVVGLLGLYGLLLARLFALALACPRLS  313 (377)
+T ss_dssp             HHHHHHHHHHHTTCCCC----------------CCSCSSTTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCSHH
+T ss_pred             CCcHHHHHHHHHHHhcCCcCcCCCCcccchhhcCcCCCCCcHHHHHHHHccHHHHHHHHHHHHHHHHHHHHHHHhCCCHH
+Confidence            356677778889999999996321          12234566688999999999987777663322    211   2221
+
+
+Q WP_074526664.1  343 ---V-FFLGVCTIIQSVSYYGFFI  362 (385)
+Q Consensus       343 ---i-~ll~~~f~iQgiSyYGfmi  362 (385)
+                         . .-..+.+.+|.+...+.-.
+T Consensus       314 ~~~l~~g~~~~~~~q~~~ni~~~~  337 (377)
+T 6PL5_A          314 DRLFLSGFAGMLGFQVVVNLGVAL  337 (377)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHT
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHc
+Confidence               1 1134456677776555443
+
+
+No 2
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=71.37  E-value=2.9  Score=40.48  Aligned_cols=83  Identities=16%  Similarity=0.111  Sum_probs=41.1  Template_Neff=9.300
+
+Q WP_074526664.1  280 VRGLMWNSFYQTLTESPLFGTKGIT----------VYFADNFFWFFILSYGICGAVFIGVFFLSII----RSA---NSK-  341 (385)
+Q Consensus       280 ~RyimW~sF~~vises~lfGt~G~~----------v~F~dNi~WyFi~sYGivG~~~i~~fF~~ii----~~~---~s~-  341 (385)
+                      -|.-.|..=.+.++++|++|.....          ..-.|.++=.....+|++|..+++..+...+    +.+   +++ 
+T Consensus       216 ~~~~~~~~~~~~i~~~~~~G~G~g~~~~~~~~~~~~~h~d~i~~~i~~e~G~ig~~~~l~l~~~l~~~~~~~~~~~~~~~  295 (359)
+T 6BAR_A          216 GQGFQVIQSTIAIGSGGLFGKGYGQGTQAQLGFIPFRHTDFVFSVWAEEWGFVGVVGLLGLYGLLLARLFALALACPRLS  295 (359)
+T ss_dssp             ------------CTTTCCSCC---------------CCTTTTHHHHHHHSHHHHHHHHHHHHHHHHHHHHHHHTTCSSHH
+T ss_pred             CCCHHHHHHHHHHHhcCcccccCCcccccccccCccccCccHHHHHHHHcchHHHHHHHHHHHHHHHHHHHHHHhCCCHH
+Confidence            3677888888899999999963221          1224455688899999999987776663332    211   122 
+
+
+Q WP_074526664.1  342 --FVFF-LGVCTIIQSVSYYGFFI  362 (385)
+Q Consensus       342 --~i~l-l~~~f~iQgiSyYGfmi  362 (385)
+                        .... ..+.+..|.+-..|--.
+T Consensus       296 ~~~l~~g~~~~~~~q~~~~i~~~~  319 (359)
+T 6BAR_A          296 DRLFLSGFAGMLGFQVVVNLGVAL  319 (359)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHh
+Confidence              1111 34446678776666433
+
+
+No 3
+>1VCC_A DNA TOPOISOMERASE I; DNA BINDING; 1.6A {Vaccinia virus} SCOP: d.121.1.1
+Probab=6.62  E-value=4.4e+02  Score=23.40  Aligned_cols=20  Identities=15%  Similarity=0.210  Sum_probs=13.0  Template_Neff=3.900
+
+Q WP_074526664.1   77 DEHLIAIANS-YIPNEWQVLY   96 (385)
+Q Consensus        77 d~~l~d~aN~-~IP~~W~~M~   96 (385)
+                      |++..+..++ -||..|.++|
+T Consensus        24 d~~~~~ri~~L~IPPaw~dVw   44 (77)
+T 1VCC_A           24 DNPAYEVLQHVKIPTHLTDVV   44 (77)
+T ss_dssp             TCTHHHHHHHCCCCTTCEEEE
+T ss_pred             CchHHHHHHhcCCCCCCcceE
+Confidence            4444444444 4899999985
+
+
+No 4
+>3I0T_B BH3703 protein; UNKNOWN FUNCTION; 2.27A {Bacillus halodurans}
+Probab=5.41  E-value=5.8e+02  Score=23.98  Aligned_cols=18  Identities=22%  Similarity=0.619  Sum_probs=14.9  Template_Neff=7.700
+
+Q WP_074526664.1   78 EHLIAIANSYIPNEWQVL   95 (385)
+Q Consensus        78 ~~l~d~aN~~IP~~W~~M   95 (385)
+                      ..+.+.+++.||+.|..+
+T Consensus        12 ~eIa~~l~~~iP~~W~~i   29 (179)
+T 3I0T_B           12 QEIAQLIIDMIPEEWAEV   29 (179)
+T ss_dssp             HHHHHHHHHHCCSCEEEE
+T ss_pred             HHHHHHHHHcCCCCccEE
+Confidence            356677889999999998
+
+
+No 5
+>1N8V_A chemosensory protein; LIPID BINDING PROTEIN; HET: BDD; 1.39A {Mamestra brassicae} SCOP: a.118.21.1
+Probab=5.36  E-value=5.8e+02  Score=23.24  Aligned_cols=41  Identities=15%  Similarity=0.024  Sum_probs=30.1  Template_Neff=5.900
+
+Q WP_074526664.1   78 EHLIAIANSYIPNEWQVLYGKQVFDDFYRSTTVSLFQLANF  118 (385)
+Q Consensus        78 ~~l~d~aN~~IP~~W~~M~gr~~fd~fyrs~~~s~fql~nf  118 (385)
+                      ++..++....-|+.|..+--+.+.++-|+........-.+.
+T Consensus        67 ~k~~~~l~~~~P~~w~~l~~kyDP~~~y~~~~~~~~~~~~~  107 (112)
+T 1N8V_A           67 YRVIEHLIKNEIEIWRELTAKYDPTGNWRKKYEDRAKAAGI  107 (112)
+T ss_dssp             HHHHHHHHHHCHHHHHHHHHHHCTTCSSHHHHHHHHC----
+T ss_pred             HHHHHHHHHhCHHHHHHHHHHHCCCCChHHHHHHHHHHcCC
+Confidence            45667888889999999988888888888877666555444
+
+
+No 6
+>2IA1_B hypothetical protein BH3703, Bacillus halodurans; UNKNOWN FUNCTION, Structural Genomics, PSI; HET: GOL; 1.59A {Bacillus halodurans} SCOP: d.359.1.1
+Probab=5.00  E-value=6.4e+02  Score=23.69  Aligned_cols=18  Identities=22%  Similarity=0.619  Sum_probs=14.9  Template_Neff=7.700
+
+Q WP_074526664.1   78 EHLIAIANSYIPNEWQVL   95 (385)
+Q Consensus        78 ~~l~d~aN~~IP~~W~~M   95 (385)
+                      ..+.+.+++.||+.|..+
+T Consensus        11 ~eIa~~l~~~iP~~W~~i   28 (178)
+T 2IA1_B           11 QEIAQLIIDMIPEEWAEV   28 (178)
+T ss_dssp             HHHHHHHHHHCCSCEEEE
+T ss_pred             HHHHHHHHHcCCCCccEE
+Confidence            356677889999999998
+
+
+No 7
+>5WAI_C Histone-binding protein RBBP4, Polycomb protein; Methyltransferase, TRANSCRIPTION; 2.9A {Homo sapiens}
+Probab=4.03  E-value=8.3e+02  Score=22.67  Aligned_cols=11  Identities=18%  Similarity=0.579  Sum_probs=8.1  Template_Neff=4.200
+
+Q WP_074526664.1   85 NSYIPNEWQVL   95 (385)
+Q Consensus        85 N~~IP~~W~~M   95 (385)
+                      -+.|||+|-.-
+T Consensus        51 ~dIlpDEWv~E   61 (100)
+T 5WAI_C           51 EDILPDVWVNE   61 (100)
+T ss_dssp             TTTSCCEEEEG
+T ss_pred             cccCCCcccCH
+Confidence            46789999653
+
+
+No 8
+>4G4S_P Proteasome component C7-alpha (E.C.3.4.25.1), Proteasome; Alpha Beta, Ntn-hydrolase, Peptide binding; HET: LDZ; 2.49A {Saccharomyces cerevisiae}
+Probab=3.33  E-value=1.1e+03  Score=23.37  Aligned_cols=19  Identities=32%  Similarity=0.487  Sum_probs=14.4  Template_Neff=8.400
+
+Q WP_074526664.1   87 YIPNEWQVLYGKQVFDDFY  105 (385)
+Q Consensus        87 ~IP~~W~~M~gr~~fd~fy  105 (385)
+                      -.|..|..+||+...++=|
+T Consensus       246 ~~P~SW~~l~G~~~~~~~~  264 (269)
+T 4G4S_P          246 VRPISWQGAYGMADARDKF  264 (269)
+T ss_dssp             CCBGGGGGTTCSSCHHHHH
+T ss_pred             ccCCcHHHhhCCCcchHhh
+Confidence            5689999999997644443
+
+
+No 9
+>6N2Y_b1 ATP synthase class 1; Bacterial ATP synthase, HYDROLASE; HET: ADP, ATP; 3.0A {Bacillus sp. (strain PS3)}
+Probab=3.25  E-value=1.1e+03  Score=21.09  Aligned_cols=20  Identities=30%  Similarity=0.484  Sum_probs=15.0  Template_Neff=9.100
+
+Q WP_074526664.1  107 STTVSLFQLANFLILVFYFN  126 (385)
+Q Consensus       107 s~~~s~fql~nflil~f~f~  126 (385)
+                      +....+.|++||++++++..
+T Consensus         7 ~~~~~~~~~i~F~il~~il~   26 (168)
+T 6N2Y_b1           7 SGGTIIYQLLMFIILLALLR   26 (168)
+T ss_pred             CHHHHHHHHHHHHHHHHHHH
+Confidence            44556789999988777766
+
+
+No 10
+>2N5U_A Tsr0524 protein; PetP, cytochrome b6f complex, SH3; NMR {Thermosynechococcus elongatus BP-1}
+Probab=3.18  E-value=1.1e+03  Score=21.27  Aligned_cols=15  Identities=47%  Similarity=0.972  Sum_probs=10.0  Template_Neff=3.600
+
+Q WP_074526664.1  301 KGITVYFADNF-FWFF  315 (385)
+Q Consensus       301 ~G~~v~F~dNi-~WyF  315 (385)
+                      -|.+|+|+|+- .|+|
+T Consensus        56 iGvVVef~d~~~~WFF   71 (79)
+T 2N5U_A           56 VGVIVTFDDRSSTWFF   71 (79)
+T ss_dssp             EEEEEEETTSCEEEEE
+T ss_pred             eEEEEEecCCceEEEe
+Confidence            46677777764 5666
+
+

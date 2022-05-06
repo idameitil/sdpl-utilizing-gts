@@ -1,0 +1,158 @@
+Query         CAI33366.1 oligosaccharide repeat unit polymerase Wzy [Streptococcus pneumoniae]
+Match_columns 390
+No_of_seqs    26 out of 33
+Neff          4.5504
+Searched_HMMs 80799
+Date          Wed Feb  2 09:52:10 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp1sv3bcpg/query.a3m -o /tmp/tmp1sv3bcpg/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6BAR_A Rod shape determining p  94.0   0.011 1.4E-07   59.7   0.0   66  271-338   216-286 (359)
+  2 6PL5_A Peptidoglycan glycosylt  93.9   0.013 1.6E-07   60.1   0.0   66  271-338   234-304 (377)
+  3 5FMF_X DNA REPAIR HELICASE RAD   9.5 2.7E+02  0.0034   23.2   0.0   13  357-369    28-40  (63)
+  4 2JNJ_B TFIIH basal transcripti   7.8 3.6E+02  0.0045   23.3   0.0   13  358-370    36-48  (74)
+  5 3DGP_B RNA polymerase II trans   7.7 3.6E+02  0.0045   23.1   0.0   14  357-370    28-41  (71)
+  6 5OQM_5 Mediator of RNA polymer   7.2   4E+02  0.0049   22.9   0.0   14  357-370    29-42  (72)
+  7 1YDL_A general transcription f   6.2 4.8E+02  0.0059   23.0   0.0   13  358-370    41-53  (79)
+  8 4OK9_B Hut operon positive reg   5.5 5.6E+02   0.007   25.1   0.0   29  361-390   114-143 (149)
+  9 4OKQ_B Hut operon positive reg   5.5 5.6E+02   0.007   25.1   0.0   29  361-390   114-143 (149)
+ 10 2RN0_A Integrin beta-3; transm   4.6   7E+02  0.0087   18.0   0.0   21  318-338    15-35  (43)
+
+No 1
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=94.01  E-value=0.011  Score=59.69  Aligned_cols=66  Identities=17%  Similarity=0.167  Sum_probs=35.6  Template_Neff=9.300
+
+Q CAI33366.1      271 TRFIVYEESLKAINGLGILLGAGIRTQST---VGILLGSHSMY--ISFIYRTGILGSIIIVILFYYLFSKFLK  338 (390)
+Q Consensus       271 ~R~~iY~eSi~~~~~~spliG~GIK~~s~---~g~PLGSHSTy--IGffYKTGIlG~il~~~~fi~i~~k~lk  338 (390)
+                      .|...+. .-.++++++|+.|.|.-+...   ...| ..|+.|  ....+..|++|.++.+..+.....+..|
+T Consensus       216 ~~~~~~~-~~~~~i~~~~~~G~G~g~~~~~~~~~~~-~~h~d~i~~~i~~e~G~ig~~~~l~l~~~l~~~~~~  286 (359)
+T 6BAR_A          216 GQGFQVI-QSTIAIGSGGLFGKGYGQGTQAQLGFIP-FRHTDFVFSVWAEEWGFVGVVGLLGLYGLLLARLFA  286 (359)
+T ss_dssp             -------------CTTTCCSCC----------------CCTTTTHHHHHHHSHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             CCCHHHH-HHHHHHHhcCcccccCCcccccccccCc-cccCccHHHHHHHHcchHHHHHHHHHHHHHHHHHHH
+Confidence            3555554 456679999999999865211   2234 679997  9999999999999988877666555443
+
+
+No 2
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=93.86  E-value=0.013  Score=60.06  Aligned_cols=66  Identities=17%  Similarity=0.167  Sum_probs=40.2  Template_Neff=8.900
+
+Q CAI33366.1      271 TRFIVYEESLKAINGLGILLGAGIRTQST---VGILLGSHSMY--ISFIYRTGILGSIIIVILFYYLFSKFLK  338 (390)
+Q Consensus       271 ~R~~iY~eSi~~~~~~spliG~GIK~~s~---~g~PLGSHSTy--IGffYKTGIlG~il~~~~fi~i~~k~lk  338 (390)
+                      .|...+ ....++++++|+.|.|......   ...| ..|+.|  ....+..|++|.++.+..+.....+..|
+T Consensus       234 ~~g~~~-~~~~~~i~~~~~~G~G~g~~~~~~~~~~p-~~h~d~i~~~i~~e~G~ig~~~~l~l~~~l~~~~~~  304 (377)
+T 6PL5_A          234 GQGFQV-IQSTIAIGSGGLFGKGYGQGTQAQLGFIP-FRHTDFVFSVWAEEWGFVGVVGLLGLYGLLLARLFA  304 (377)
+T ss_dssp             HHHHHH-HHHHHTTCCCC----------------CC-SCSSTTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             CCcHHH-HHHHHHHHhcCCcCcCCCCcccchhhcCc-CCCCCcHHHHHHHHccHHHHHHHHHHHHHHHHHHHH
+Confidence            455554 4566889999999999865211   1233 689998  9999999999999988877665555333
+
+
+No 3
+>5FMF_X DNA REPAIR HELICASE RAD25, SSL2; TRANSCRIPTION, PRE-INITIATION COMPLEX, RNA POLYMERASE; 6.0A {SACCHAROMYCES CEREVISIAE}
+Probab=9.55  E-value=2.7e+02  Score=23.23  Aligned_cols=13  Identities=31%  Similarity=0.207  Sum_probs=10.1  Template_Neff=5.200
+
+Q CAI33366.1      357 FWLFEELDPHYWC  369 (390)
+Q Consensus       357 ffifEDiDg~nw~  369 (390)
+                      =|+.||+|..+..
+T Consensus        28 ~FIIedLDdthlf   40 (63)
+T 5FMF_X           28 DIVLEELDDTHLL   40 (63)
+T ss_pred             CeEEEeCCCCeEE
+Confidence            3789999987754
+
+
+No 4
+>2JNJ_B TFIIH basal transcription factor complex; protein, TRANSCRIPTION; NMR {Homo sapiens}
+Probab=7.75  E-value=3.6e+02  Score=23.32  Aligned_cols=13  Identities=8%  Similarity=0.373  Sum_probs=10.1  Template_Neff=5.000
+
+Q CAI33366.1      358 WLFEELDPHYWCL  370 (390)
+Q Consensus       358 fifEDiDg~nw~i  370 (390)
+                      |+.||+|..+..+
+T Consensus        36 FII~dLDdthLfI   48 (74)
+T 2JNJ_B           36 FIIQDIDDTHVFV   48 (74)
+T ss_dssp             CCSBCCTTTEEEE
+T ss_pred             cEEEECCCCeEEE
+Confidence            6889999887543
+
+
+No 5
+>3DGP_B RNA polymerase II transcription factor; PROTEIN-PROTEIN COMPLEX, BETA-ALPHA-BETA SPILT, HETERODIMER; 1.8A {Saccharomyces cerevisiae}
+Probab=7.71  E-value=3.6e+02  Score=23.12  Aligned_cols=14  Identities=29%  Similarity=0.235  Sum_probs=10.7  Template_Neff=5.000
+
+Q CAI33366.1      357 FWLFEELDPHYWCL  370 (390)
+Q Consensus       357 ffifEDiDg~nw~i  370 (390)
+                      =|+.||+|..+..+
+T Consensus        28 ~FIIedLDdthlfI   41 (71)
+T 3DGP_B           28 DIVLEELDDTHLLV   41 (71)
+T ss_dssp             SSEEEEEETTEEEE
+T ss_pred             CeEEEeCCCCeEEE
+Confidence            37899999987644
+
+
+No 6
+>5OQM_5 Mediator of RNA polymerase II; transcription initiation, TRANSCRIPTION, macromolecular complex; HET: ZN; 5.8A {Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}
+Probab=7.21  E-value=4e+02  Score=22.92  Aligned_cols=14  Identities=29%  Similarity=0.235  Sum_probs=10.5  Template_Neff=5.100
+
+Q CAI33366.1      357 FWLFEELDPHYWCL  370 (390)
+Q Consensus       357 ffifEDiDg~nw~i  370 (390)
+                      =|+.||+|..+..+
+T Consensus        29 ~FII~dLDdthlfI   42 (72)
+T 5OQM_5           29 DIVLEELDDTHLLV   42 (72)
+T ss_pred             CcEEEeCCCCeEEE
+Confidence            37899999877543
+
+
+No 7
+>1YDL_A general transcription factor IIH, polypeptide; alpha-beta protein, Structural Genomics, PSI; 2.3A {Homo sapiens} SCOP: d.295.1.1
+Probab=6.24  E-value=4.8e+02  Score=22.97  Aligned_cols=13  Identities=8%  Similarity=0.373  Sum_probs=9.9  Template_Neff=4.700
+
+Q CAI33366.1      358 WLFEELDPHYWCL  370 (390)
+Q Consensus       358 fifEDiDg~nw~i  370 (390)
+                      |+.||+|..+..+
+T Consensus        41 FIIeDLDdthLfI   53 (79)
+T 1YDL_A           41 FIIQDIDDTHVFV   53 (79)
+T ss_dssp             CEEEECSSSEEEE
+T ss_pred             cEEEECCCCeEEE
+Confidence            6889999877543
+
+
+No 8
+>4OK9_B Hut operon positive regulatory protein; Antitermination, Single stranded RNA binding; HET: HIS; 1.91A {Geobacillus thermodenitrificans}
+Probab=5.50  E-value=5.6e+02  Score=25.13  Aligned_cols=29  Identities=28%  Similarity=0.452  Sum_probs=21.9  Template_Neff=4.800
+
+Q CAI33366.1      361 EELDPHYWCLILFFSTISIFINNRKE-EIVG  390 (390)
+Q Consensus       361 EDiDg~nw~ivlyF~~~gil~N~~~e-~~~~  390 (390)
+                      ||-+..+|+.|..|-.+|+.- +.+| |.+|
+T Consensus       114 ~~~~~gewiAVAiyG~iG~~~-~~~EHe~iG  143 (149)
+T 4OK9_B          114 EQPKEGEWIAVALYGTIGAPV-RGLEHEAVG  143 (149)
+T ss_dssp             SSGGGCCEEEEEEEEEEECSS-TTCEEEEEE
+T ss_pred             CCCccCCeEEEEEEeeeeccc-CCccceeEE
+Confidence            445889999999999999554 5566 7665
+
+
+No 9
+>4OKQ_B Hut operon positive regulatory protein; antitermination, Single stranded-RNA binding protein; HET: HIS; 2.5A {Geobacillus thermodenitrificans NG80-2}
+Probab=5.50  E-value=5.6e+02  Score=25.13  Aligned_cols=29  Identities=28%  Similarity=0.452  Sum_probs=21.9  Template_Neff=4.800
+
+Q CAI33366.1      361 EELDPHYWCLILFFSTISIFINNRKE-EIVG  390 (390)
+Q Consensus       361 EDiDg~nw~ivlyF~~~gil~N~~~e-~~~~  390 (390)
+                      ||-+..+|+.|..|-.+|+.- +.+| |.+|
+T Consensus       114 ~~~~~gewiAVAiyG~iG~~~-~~~EHe~iG  143 (149)
+T 4OKQ_B          114 EQPKEGEWIAVALYGTIGAPV-RGLEHEAVG  143 (149)
+T ss_dssp             SSGGGCCEEEEEEEEEEECSS-TTCEEEEEE
+T ss_pred             CCCccCCeEEEEEEeeeeccc-CCccceeEE
+Confidence            445889999999999999554 5566 7665
+
+
+No 10
+>2RN0_A Integrin beta-3; transmembrane helix, Alternative splicing, Cell; NMR {Homo sapiens}
+Probab=4.62  E-value=7e+02  Score=17.99  Aligned_cols=21  Identities=29%  Similarity=0.485  Sum_probs=10.0  Template_Neff=8.000
+
+Q CAI33366.1      318 GILGSIIIVILFYYLFSKFLK  338 (390)
+Q Consensus       318 GIlG~il~~~~fi~i~~k~lk  338 (390)
+                      |++|.+..+..+.....+..+
+T Consensus        15 gvvggiv~~~l~~~~~~~~~~   35 (43)
+T 2RN0_A           15 SVMGAILLIGLAALLIWKLLI   35 (43)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHH
+Confidence            556555544444444444433
+
+

@@ -1,0 +1,156 @@
+Query         CDF66396.1 O-antigen polymerase [Yersinia similis]
+Match_columns 437
+No_of_seqs    108 out of 255
+Neff          7.08063
+Searched_HMMs 80799
+Date          Wed Apr 27 20:20:22 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpboe6dtqr/query.a3m -o /tmp/tmpboe6dtqr/output.hhr -maxseq 1000000 -d /mnt/disks/data/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 1WAZ_A MERF; PROTEIN STRUCTURE   8.3 3.3E+02  0.0041   20.7   0.0   24  185-208    15-44  (46)
+  2 6F46_A Bcl-2-like protein 1; n   8.2 3.3E+02  0.0041   19.5   0.0   23  206-228    13-35  (35)
+  3 2LJE_A Integrin beta-3; cell a   6.0   5E+02  0.0062   21.2   0.0   26  410-435    11-39  (67)
+  4 6ITC_E Protein translocase sub   4.3 7.7E+02  0.0096   20.2   0.0   22  361-382    32-53  (70)
+  5 5EUL_E SecA, SecY, SecE, AYC08   4.2 7.9E+02  0.0097   20.2   0.0   22  361-382    32-53  (70)
+  6 2MUV_D Matrix protein 2; drug    4.2   8E+02  0.0099   16.9   0.0   12  369-380    18-29  (31)
+  7 5CH4_E Protein translocase sub   4.1 8.2E+02    0.01   19.2   0.0   22  361-382    33-54  (60)
+  8 5AWW_E Protein translocase sub   3.9 8.6E+02   0.011   19.0   0.0   22  361-382    33-54  (60)
+  9 2KV5_A Putative uncharacterize   3.7 9.4E+02   0.012   17.0   0.0   21  363-383     8-28  (33)
+ 10 6NCL_a1 PBCV-1 capsid; tape-me   3.6 9.6E+02   0.012   24.4   0.0   24  193-216    44-67  (210)
+
+No 1
+>1WAZ_A MERF; PROTEIN STRUCTURE, RESIDUAL DIPOLAR COUPLING; NMR {MORGANELLA MORGANII}
+Probab=8.32  E-value=3.3e+02  Score=20.70  Aligned_cols=24  Identities=25%  Similarity=0.311  Sum_probs=16.8  Template_Neff=3.100
+
+Q CDF66396.1      185 YMTMWLSTCFIPYYA------TVGILNKNL  208 (437)
+Q Consensus       185 Yl~~W~~~v~~P~li------a~Gl~~r~~  208 (437)
+                      =..+|+-+|..|.+.      +|+++|||+
+T Consensus        15 A~~gylDyVLlPaLa~fi~Lt~yal~r~~~   44 (46)
+T 1WAZ_A           15 ALTGYLDYVLLPALAIFIGLTIYAIQRKRQ   44 (46)
+T ss_dssp             HCCSCCCCCSCCHHHHHHHHHHHHHHHHHC
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHhh
+Confidence            445678888888764      467777775
+
+
+No 2
+>6F46_A Bcl-2-like protein 1; nanodiscs, helix, APOPTOSIS; NMR {Homo sapiens}
+Probab=8.25  E-value=3.3e+02  Score=19.45  Aligned_cols=23  Identities=17%  Similarity=0.127  Sum_probs=12.5  Template_Neff=3.500
+
+Q CDF66396.1      206 KNLKFIGVSIFLAVLIYMANGSK  228 (437)
+Q Consensus       206 r~~~~i~~g~~~qllly~itg~K  228 (437)
+                      |+|++..+++++.+.+=+.+++|
+T Consensus        13 ~~w~L~gl~vaG~V~iGa~~~~k   35 (35)
+T 6F46_A           13 NRWFLTGMTVAGVVLLGSLFSRK   35 (35)
+T ss_dssp             CCHHHHHHHHHHHHHHHHHTSCC
+T ss_pred             HHHHHHHHHHHHHHHHHHHhccC
+Confidence            34456666666655554444444
+
+
+No 3
+>2LJE_A Integrin beta-3; cell adhesion, tyrosine phosphorylation, MEMBRANE; HET: PTR; NMR {Homo sapiens}
+Probab=6.02  E-value=5e+02  Score=21.24  Aligned_cols=26  Identities=23%  Similarity=0.081  Sum_probs=8.3  Template_Neff=5.200
+
+Q CDF66396.1      410 SGGAIWVLF---LLNCNTNINFNKNIIES  435 (437)
+Q Consensus       410 sgGl~~~l~---ll~~~~~~~~~~~~~~~  435 (437)
+                      |||+.++++   ++....+.+|.|-..|.
+T Consensus        11 ~~~~~~lliwKli~~i~DrrEy~kFekEr   39 (67)
+T 2LJE_A           11 SGLVPRGSHMKLLITIHDRKEFAKFEEER   39 (67)
+T ss_dssp             ----------CHHHHTTTCCCCCHHHHHH
+T ss_pred             cChHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            467544332   23334555555555554
+
+
+No 4
+>6ITC_E Protein translocase subunit SecA, Protein; SecA, SecY, Translocation, Cryo-EM, PROTEIN; HET: ADP, GYS, PGV; 3.45A {Bacillus subtilis (strain 168)}
+Probab=4.28  E-value=7.7e+02  Score=20.19  Aligned_cols=22  Identities=14%  Similarity=0.184  Sum_probs=17.5  Template_Neff=6.000
+
+Q CDF66396.1      361 GIIPATFFMMLVVYLIDRLAVD  382 (437)
+Q Consensus       361 Giiiisill~l~l~l~D~~s~~  382 (437)
+                      -+++++++++++++.+|.....
+T Consensus        32 ~Vii~~ii~a~~i~~~D~~~~~   53 (70)
+T 6ITC_E           32 VVLATVAFFTVFFAVIDLGISQ   53 (70)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHH
+Confidence            4677788899999999987654
+
+
+No 5
+>5EUL_E SecA, SecY, SecE, AYC08; SecY, SecA, ATPase, channel, PROTEIN; HET: ADP, TBR; 3.7A {Bacillus subtilis (strain 168)}
+Probab=4.23  E-value=7.9e+02  Score=20.18  Aligned_cols=22  Identities=14%  Similarity=0.184  Sum_probs=17.7  Template_Neff=5.900
+
+Q CDF66396.1      361 GIIPATFFMMLVVYLIDRLAVD  382 (437)
+Q Consensus       361 Giiiisill~l~l~l~D~~s~~  382 (437)
+                      -+++++++++++++.+|....+
+T Consensus        32 ~Vii~~~i~a~~i~~~D~~~~~   53 (70)
+T 5EUL_E           32 VVLATVAFFTVFFAVIDLGISQ   53 (70)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHH
+Confidence            4677788899999999987654
+
+
+No 6
+>2MUV_D Matrix protein 2; drug design, M2, VIRAL PROTEIN; HET: 3LW; NMR {N/A}
+Probab=4.16  E-value=8e+02  Score=16.90  Aligned_cols=12  Identities=33%  Similarity=0.866  Sum_probs=8.8  Template_Neff=1.600
+
+Q CDF66396.1      369 MMLVVYLIDRLA  380 (437)
+Q Consensus       369 l~l~l~l~D~~s  380 (437)
+                      +-+++|++||+-
+T Consensus        18 lHLiLWIlDRlf   29 (31)
+T 2MUV_D           18 LHLILWILDRLF   29 (31)
+T ss_dssp             HHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHh
+Confidence            456788999864
+
+
+No 7
+>5CH4_E Protein translocase subunit SecY, Protein; translocon, membrane protein, PROTEIN TRANSPORT; 3.64A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=4.10  E-value=8.2e+02  Score=19.17  Aligned_cols=22  Identities=23%  Similarity=0.218  Sum_probs=17.2  Template_Neff=6.700
+
+Q CDF66396.1      361 GIIPATFFMMLVVYLIDRLAVD  382 (437)
+Q Consensus       361 Giiiisill~l~l~l~D~~s~~  382 (437)
+                      -+++++++++++++.+|....+
+T Consensus        33 ~Vi~~~ii~~~~i~~~D~~~~~   54 (60)
+T 5CH4_E           33 AILLFTLAFMVILGLYDTVFRF   54 (60)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHH
+Confidence            4567788899999999987653
+
+
+No 8
+>5AWW_E Protein translocase subunit SecY, Protein; translocon, membrane protein, PROTEIN TRANSPORT-IMMUNE; HET: OLC; 2.724A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=3.93  E-value=8.6e+02  Score=19.01  Aligned_cols=22  Identities=23%  Similarity=0.218  Sum_probs=17.4  Template_Neff=6.800
+
+Q CDF66396.1      361 GIIPATFFMMLVVYLIDRLAVD  382 (437)
+Q Consensus       361 Giiiisill~l~l~l~D~~s~~  382 (437)
+                      -+++.++++++.++.+|.....
+T Consensus        33 ~Vi~~~~~~~~~i~~~D~~~~~   54 (60)
+T 5AWW_E           33 AILLFTLAFMVILGLYDTVFRF   54 (60)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHH
+Confidence            4677788899999999987653
+
+
+No 9
+>2KV5_A Putative uncharacterized protein RNAI; toxin-antitoxin, bacterial, toxin; NMR {N/A}
+Probab=3.65  E-value=9.4e+02  Score=17.01  Aligned_cols=21  Identities=29%  Similarity=0.403  Sum_probs=14.6  Template_Neff=4.000
+
+Q CDF66396.1      363 IPATFFMMLVVYLIDRLAVDY  383 (437)
+Q Consensus       363 iiisill~l~l~l~D~~s~~~  383 (437)
+                      ++..++.|+++.++|...+++
+T Consensus         8 IiapiivG~vv~lf~~WL~~r   28 (33)
+T 2KV5_A            8 VIAPIFVGLVLEMISRVLDEE   28 (33)
+T ss_dssp             HHHHHHHHHHHHHHHHHTTCC
+T ss_pred             hHHHHHHHHHHHHHHHHHHhc
+Confidence            445677788888888776544
+
+
+No 10
+>6NCL_a1 PBCV-1 capsid; tape-measure protein, minor capsid proteins; 3.5A {Paramecium bursaria Chlorella virus 1}
+Probab=3.61  E-value=9.6e+02  Score=24.44  Aligned_cols=24  Identities=8%  Similarity=0.137  Sum_probs=15.7  Template_Neff=4.100
+
+Q CDF66396.1      193 CFIPYYATVGILNKNLKFIGVSIF  216 (437)
+Q Consensus       193 v~~P~lia~Gl~~r~~~~i~~g~~  216 (437)
+                      .+.=..++..|.+|+++++.+|++
+T Consensus        44 lVIy~sii~yLi~~~~~~~~L~~~   67 (210)
+T 6NCL_a1          44 LVLYCSFAVALIRQNYLYAILGLA   67 (210)
+T ss_pred             HHHHHHHHHHHHhCChHHHHHHHH
+Confidence            333344556677999988887743
+
+

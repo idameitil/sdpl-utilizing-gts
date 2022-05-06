@@ -1,0 +1,158 @@
+Query         BAQ00653.1 O-antigen polymerase [Escherichia coli]
+Match_columns 388
+No_of_seqs    7 out of 8
+Neff          2.96049
+Searched_HMMs 80799
+Date          Thu Feb  3 20:57:34 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpbu_00zko/query.a3m -o /tmp/tmpbu_00zko/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6N3Q_E Protein transport prote   6.1   5E+02  0.0061   26.8   0.0   22    2-23     35-56  (206)
+  2 6ND1_E Protein transport prote   6.1   5E+02  0.0061   26.8   0.0   22    2-23     35-56  (206)
+  3 6HIV_BV ms48, ms51, ms56, ms59   5.1 6.3E+02  0.0078   25.9   0.0   18  288-305    60-78  (190)
+  4 6HIX_BV ?; mitoribosome, trans   5.1 6.3E+02  0.0078   25.9   0.0   18  288-305    60-78  (190)
+  5 5IZE_A RNA-directed RNA polyme   4.5 7.2E+02   0.009   25.5   0.0   42  260-304    78-120 (180)
+  6 5IZE_B RNA-directed RNA polyme   4.5 7.2E+02   0.009   25.5   0.0   42  260-304    78-120 (180)
+  7 6P25_B Dolichyl-diphosphooligo   4.5 7.3E+02   0.009   28.6   0.0   20   99-118   155-174 (759)
+  8 5X29_C Envelope small membrane   4.4 7.4E+02  0.0091   22.6   0.0   52   47-99     25-76  (81)
+  9 6Q99_A RNA polymerase; Andes v   4.4 7.4E+02  0.0091   25.8   0.0   43  259-304    78-121 (202)
+ 10 1IZM_A HYPOTHETICAL PROTEIN HI   4.1 8.1E+02    0.01   23.1   0.0   14  320-333    23-36  (184)
+
+No 1
+>6N3Q_E Protein transport protein SEC61, Protein; Sec61, Sec63, Sec71, Sec72, Sec66; 3.68A {Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}
+Probab=6.08  E-value=5e+02  Score=26.81  Aligned_cols=22  Identities=36%  Similarity=0.537  Sum_probs=0.0  Template_Neff=4.700
+
+Q BAQ00653.1        2 IYLVISVFLITAFICLYLKKDI   23 (388)
+Q Consensus         2 ~ylI~lvfll~~f~~~y~~rD~   23 (388)
+                      +|+.+++..+++|-.+|++|..
+T Consensus        35 ~Yv~iLv~sl~~Fs~~YRkr~~   56 (206)
+T 6N3Q_E           35 IYVFILVVSLVMFASSYRKKQA   56 (206)
+T ss_dssp             ----------------------
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHh
+Confidence            6889999999999999988765
+
+
+No 2
+>6ND1_E Protein transport protein SEC61, Protein; Sec61, post-translational translocation, yeast, Sec63; 4.1A {Saccharomyces cerevisiae}
+Probab=6.08  E-value=5e+02  Score=26.81  Aligned_cols=22  Identities=36%  Similarity=0.537  Sum_probs=19.2  Template_Neff=4.700
+
+Q BAQ00653.1        2 IYLVISVFLITAFICLYLKKDI   23 (388)
+Q Consensus         2 ~ylI~lvfll~~f~~~y~~rD~   23 (388)
+                      +|+.+++..+++|-.+|++|..
+T Consensus        35 ~Yv~iLv~sl~~Fs~~YRkr~~   56 (206)
+T 6ND1_E           35 IYVFILVVSLVMFASSYRKKQA   56 (206)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHh
+Confidence            6889999999999999988765
+
+
+No 3
+>6HIV_BV ms48, ms51, ms56, ms59, ms60; mitoribosome, translation, Trypanosoma, large ribosomal; HET: NAD, MG, ZN, SPD, SPM, GTP, UTP; 7.8A {Trypanosoma brucei brucei}
+Probab=5.06  E-value=6.3e+02  Score=25.90  Aligned_cols=18  Identities=44%  Similarity=0.608  Sum_probs=14.8  Template_Neff=1.800
+
+Q BAQ00653.1      288 SLHKEFVWV-GLPTNVYTA  305 (388)
+Q Consensus       288 s~h~efV~V-gvpTNVYTa  305 (388)
+                      ..|+.-|+| .||-|+||-
+T Consensus        60 ~eHrklVeVk~VP~NmyTy   78 (190)
+T 6HIV_BV          60 MEHRKLVEVKEVPLNVYTY   78 (190)
+T ss_pred             ccccceeeeccCCcchhhc
+Confidence            458888888 599999995
+
+
+No 4
+>6HIX_BV ?; mitoribosome, translation, Trypanosoma, large ribosomal; HET: NAD; 3.39A {Trypanosoma equiperdum}
+Probab=5.06  E-value=6.3e+02  Score=25.90  Aligned_cols=18  Identities=44%  Similarity=0.608  Sum_probs=14.8  Template_Neff=1.800
+
+Q BAQ00653.1      288 SLHKEFVWV-GLPTNVYTA  305 (388)
+Q Consensus       288 s~h~efV~V-gvpTNVYTa  305 (388)
+                      ..|+.-|+| .||-|+||-
+T Consensus        60 ~eHrklVeVk~VP~NmyTy   78 (190)
+T 6HIX_BV          60 MEHRKLVEVKEVPLNVYTY   78 (190)
+T ss_pred             ccccceeeeccCCcchhhc
+Confidence            458888888 599999995
+
+
+No 5
+>5IZE_A RNA-directed RNA polymerase L (E.C.2.7.7.48); In complex with manganese metal; 1.7A {Hantaan virus}
+Probab=4.52  E-value=7.2e+02  Score=25.47  Aligned_cols=42  Identities=17%  Similarity=0.167  Sum_probs=29.5  Template_Neff=2.200
+
+Q BAQ00653.1      260 QQVSNSASSHVFWFFERLMGLLTGG-VSMSLHKEFVWVGLPTNVYT  304 (388)
+Q Consensus       260 ~~~~ns~gsh~~~fF~~L~~~l~G~-V~~s~h~efV~VgvpTNVYT  304 (388)
+                      ..+.+.+.+.+.+-|.|...   .+ .+.-..-|||+|.|++.|=-
+T Consensus        78 kiIp~hpsGk~Lk~FfkmTP---DNYkItg~~IefiEVTVTaDV~k  120 (180)
+T 5IZE_A           78 KIIPNHPTGKSLKAFFKMTP---DNYKISGTTIEFVEVTVTADVDK  120 (180)
+T ss_dssp             CBCTTCTTCCBHHHHTTCCC---SEEEEETTEEEEEEEEEESCHHH
+T ss_pred             cccCCCCCchhHHHHHhcCC---CcceeeCceEEEEEEEEEcchHH
+Confidence            34567777788888877765   33 44445569999999998743
+
+
+No 6
+>5IZE_B RNA-directed RNA polymerase L (E.C.2.7.7.48); In complex with manganese metal; 1.7A {Hantaan virus}
+Probab=4.52  E-value=7.2e+02  Score=25.47  Aligned_cols=42  Identities=17%  Similarity=0.167  Sum_probs=29.5  Template_Neff=2.200
+
+Q BAQ00653.1      260 QQVSNSASSHVFWFFERLMGLLTGG-VSMSLHKEFVWVGLPTNVYT  304 (388)
+Q Consensus       260 ~~~~ns~gsh~~~fF~~L~~~l~G~-V~~s~h~efV~VgvpTNVYT  304 (388)
+                      ..+.+.+.+.+.+-|.|...   .+ .+.-..-|||+|.|++.|=-
+T Consensus        78 kiIp~hpsGk~Lk~FfkmTP---DNYkItg~~IefiEVTVTaDV~k  120 (180)
+T 5IZE_B           78 KIIPNHPTGKSLKAFFKMTP---DNYKISGTTIEFVEVTVTADVDK  120 (180)
+T ss_dssp             CBCTTCTTCCBHHHHTTCCC---SEEEEETTEEEEEEEEEESCHHH
+T ss_pred             cccCCCCCchhHHHHHhcCC---CcceeeCceEEEEEEEEEcchHH
+Confidence            34567777788888877765   33 44445569999999998743
+
+
+No 7
+>6P25_B Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunits (E.C.2.4.99.18); complex, TRANSFERASE, glycosylation; HET: NAG, NNM, CPL; 3.2A {Saccharomyces cerevisiae W303}
+Probab=4.49  E-value=7.3e+02  Score=28.57  Aligned_cols=20  Identities=10%  Similarity=0.292  Sum_probs=10.0  Template_Neff=8.800
+
+Q BAQ00653.1       99 NVGLLVISFSMIYICMRLSN  118 (388)
+Q Consensus        99 n~lLl~i~~~~~Yi~~Rl~~  118 (388)
+                      +.++..++...+|...|...
+T Consensus       155 s~l~~~l~~~~ly~i~r~l~  174 (759)
+T 6P25_B          155 NASFSALCVPLAYFTAKAIG  174 (759)
+T ss_dssp             HHHHHHHHHHHHHHHHH---
+T ss_pred             HHHHHHHHHHHHHHHHHHHC
+Confidence            44445556666666666543
+
+
+No 8
+>5X29_C Envelope small membrane protein; membrane protein, viral protein, envelope; NMR {Human SARS coronavirus}
+Probab=4.45  E-value=7.4e+02  Score=22.60  Aligned_cols=52  Identities=19%  Similarity=0.188  Sum_probs=29.2  Template_Neff=3.100
+
+Q BAQ00653.1       47 IYAFQLNDATLIFLLCNVLTFTLSCLLTESVLDLNIRKVNNAIYSIPSKKVHN   99 (388)
+Q Consensus        47 ~~~y~l~~~~~l~il~~i~~F~~ssl~~~~~~~~~~Rkv~~~Iy~i~s~~~~n   99 (388)
+                      ++.+-.|--..+....-+..+|+|=+-+--+--.|-|-.|+.+|+ |.+++||
+T Consensus        25 ~gglVVN~ilwllvciivLIV~iA~L~~IkLC~~C~~lcNt~V~~-P~~yvY~   76 (81)
+T 5X29_C           25 TGTLIVNSVLLFLAFVVFLLVTLAILTALRLAAYAANIVNVSLVK-PTVYVYS   76 (81)
+T ss_dssp             CSCCGGGTHHHHHHHHTTHHHHHHHHTTTTCHHHHHHHHTTCTTS-GGGGGTT
+T ss_pred             hhHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhHHhhhhhhc-chHHHHH
+Confidence            334444433444444444555555444433333566778888887 7888876
+
+
+No 9
+>6Q99_A RNA polymerase; Andes virus, nuclease, L protein; 2.951A {Andes orthohantavirus}
+Probab=4.45  E-value=7.4e+02  Score=25.77  Aligned_cols=43  Identities=23%  Similarity=0.195  Sum_probs=30.1  Template_Neff=2.100
+
+Q BAQ00653.1      259 FQQVSNSASSHVFWFFERLMGLLTGG-VSMSLHKEFVWVGLPTNVYT  304 (388)
+Q Consensus       259 ~~~~~ns~gsh~~~fF~~L~~~l~G~-V~~s~h~efV~VgvpTNVYT  304 (388)
+                      ...+.|++.+.+.+-|.|...   .+ .+.-..-||++|.|++.|=-
+T Consensus        78 KkiIp~hPsGk~LksFFKmTP---DNYKItG~~IeFiEVTVTaDV~r  121 (202)
+T 6Q99_A           78 KKIIPNSPSGQVLKSFFRMTP---DNYKITGNLIEFIEVTVTADVSR  121 (202)
+T ss_dssp             GCBCTTCSSCCBHHHHTTCCC---SEEEEETTEEEEEEEECCSCHHH
+T ss_pred             ceecCCCCCchHHHHHhccCC---CceeeeCceEEEEEEEEEcchHH
+Confidence            344567777788888877765   33 44445569999999998743
+
+
+No 10
+>1IZM_A HYPOTHETICAL PROTEIN HI0817; Structural genomics, hypothetical protein, HI0817; 1.95A {Haemophilus influenzae} SCOP: a.199.1.1
+Probab=4.13  E-value=8.1e+02  Score=23.09  Aligned_cols=14  Identities=36%  Similarity=0.638  Sum_probs=11.0  Template_Neff=8.400
+
+Q BAQ00653.1      320 MMVIHGCISGVLWR  333 (388)
+Q Consensus       320 ~~iihG~i~G~lwr  333 (388)
+                      ..-+||++||++--
+T Consensus        23 ~~~l~G~L~al~~~   36 (184)
+T 1IZM_A           23 ATELHGFLSGLLCG   36 (184)
+T ss_dssp             HHHHHHHHHHHHHT
+T ss_pred             HHHHHHHHHHHHhC
+Confidence            46789999998754
+
+

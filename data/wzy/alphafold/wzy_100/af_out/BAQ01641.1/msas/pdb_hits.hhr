@@ -1,0 +1,158 @@
+Query         BAQ01641.1 O-antigen polymerase [Escherichia coli]
+Match_columns 434
+No_of_seqs    38 out of 44
+Neff          5.47684
+Searched_HMMs 80799
+Date          Fri Feb  4 04:27:23 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp7vh_obic/query.a3m -o /tmp/tmp7vh_obic/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 5YQ7_H Beta subunit of light-h   5.1 6.3E+02  0.0078   19.9   0.0   18   10-27      2-19  (42)
+  2 3OPY_K 6-phosphofructo-1-kinas   3.8 9.1E+02   0.011   25.8   0.0   10   94-103    71-80  (351)
+  3 6NCL_a7 PBCV-1 capsid; tape-me   3.7 9.4E+02   0.012   23.7   0.0   18   89-106    11-28  (151)
+  4 5JYN_C Envelope glycoprotein g   3.3 1.1E+03   0.013   18.4   0.0   15  185-199    25-39  (40)
+  5 5OGL_A Peptide-binding protein   3.1 1.2E+03   0.014   27.5   0.0   44   91-136    54-97  (713)
+  6 5T7Z_A EpoB; epothilone, NRPS,   2.7 1.3E+03   0.017   24.6   0.0   18  410-427    21-38  (541)
+  7 5T81_A EpoB; epothilone, NRPS,   2.7 1.3E+03   0.017   24.6   0.0   18  410-427    21-38  (541)
+  8 4HMM_A Major prion protein; pr   2.7 1.4E+03   0.017   22.3   0.0   29   80-108    34-62  (132)
+  9 4HLS_A Major prion protein; pr   2.6 1.4E+03   0.017   22.3   0.0   29   80-108    34-62  (132)
+ 10 6P25_B Dolichyl-diphosphooligo   2.5 1.5E+03   0.018   27.4   0.0   17  189-205   198-214 (759)
+
+No 1
+>5YQ7_H Beta subunit of light-harvesting 1; Photosynthetic core complex, PHOTOSYNTHESIS; HET: BPH, MQE, BCL, HEM, KGD;{Roseiflexus castenholzii}
+Probab=5.06  E-value=6.3e+02  Score=19.89  Aligned_cols=18  Identities=11%  Similarity=-0.158  Sum_probs=14.0  Template_Neff=3.100
+
+Q BAQ01641.1       10 KNSIVDDRYNLLWLFAGL   27 (434)
+Q Consensus        10 ~~~~~~~~~~~~~lf~~~   27 (434)
+                      |+.+.|.|..++.++..+
+T Consensus         2 ~~~ifDPRr~lva~~~Fl   19 (42)
+T 5YQ7_H            2 KDRPFEFRTSVVVSTLLG   19 (42)
+T ss_pred             CCCCCCHHHHHHHHHHHH
+Confidence            678899999888777544
+
+
+No 2
+>3OPY_K 6-phosphofructo-1-kinase alpha-subunit (E.C.2.7.1.11), 6-phosphofructo-1-kinase beta-subunit; phosphofructokinase, ATP Binding, Fructose-6-phosphate Binding; HET: SO4, ATP; 3.05A {Pichia pastoris}
+Probab=3.76  E-value=9.1e+02  Score=25.77  Aligned_cols=10  Identities=60%  Similarity=1.042  Sum_probs=8.0  Template_Neff=1.200
+
+Q BAQ01641.1       94 FTTYYNNYLE  103 (434)
+Q Consensus        94 Ft~YYnNYl~  103 (434)
+                      .|.|||||+-
+T Consensus        71 lt~yynny~i   80 (351)
+T 3OPY_K           71 LTNYYNNYEV   80 (351)
+T ss_dssp             HHHHSCHHHH
+T ss_pred             HHHhhcchhh
+Confidence            5779999973
+
+
+No 3
+>6NCL_a7 PBCV-1 capsid; tape-measure protein, minor capsid proteins; 3.5A {Paramecium bursaria Chlorella virus 1}
+Probab=3.67  E-value=9.4e+02  Score=23.72  Aligned_cols=18  Identities=33%  Similarity=0.700  Sum_probs=14.4  Template_Neff=2.200
+
+Q BAQ01641.1       89 YREDDFTTYYNNYLELLN  106 (434)
+Q Consensus        89 ~~~DDFt~YYnNYl~~~~  106 (434)
+                      .++||--+|||.+.-+.-
+T Consensus        11 ~~~~~~~~~~~~~~~~~~   28 (151)
+T 6NCL_a7          11 VSSDDILTYYNTFIFFIY   28 (151)
+T ss_pred             CChHHHHHHhceeEEEEE
+Confidence            578999999998876643
+
+
+No 4
+>5JYN_C Envelope glycoprotein gp160; transmembrane domain, lipid bilayer, transmembrane; NMR {Human immunodeficiency virus 1}
+Probab=3.32  E-value=1.1e+03  Score=18.41  Aligned_cols=15  Identities=13%  Similarity=0.313  Sum_probs=10.5  Template_Neff=4.000
+
+Q BAQ01641.1      185 ITAMLTIERQAVASF  199 (434)
+Q Consensus       185 ~~~~~~l~RQ~yASv  199 (434)
+                      ..++.+-+||||+-.
+T Consensus        25 v~~~i~r~RqGY~pL   39 (40)
+T 5JYN_C           25 VLSLVNRVRQGYSPL   39 (40)
+T ss_dssp             HHHHHHHHHSCSCCC
+T ss_pred             HHHHHHHHHcCCCCC
+Confidence            335677789999753
+
+
+No 5
+>5OGL_A Peptide-binding protein, Substrate mimicking peptide; Oligosaccharyltransferase, Complex, Protein N-glycosylation, Bacteria; HET: 9UB, PPN; 2.7A {Campylobacter lari (strain RM2100 / D67 / ATCC BAA-1060)}
+Probab=3.10  E-value=1.2e+03  Score=27.54  Aligned_cols=44  Identities=11%  Similarity=0.024  Sum_probs=24.2  Template_Neff=9.900
+
+Q BAQ01641.1       91 EDDFTTYYNNYLELLNGNYEFLFQFGGGAEIGLPALNYIFSFFIGN  136 (434)
+Q Consensus        91 ~DDFt~YYnNYl~~~~G~~~~lF~fGgG~EiGLPlln~~lS~~i~~  136 (434)
+                      ++|--.|...=.++.+|+...  +.....+-+.|.+...++.+.|.
+T Consensus        54 ~~D~~~~~~~a~~~~~~~~~~--~~~~~~~p~~~~l~~~~~~~~g~   97 (713)
+T 5OGL_A           54 TNDGYAFAEGARDMIAGFHQP--NDLSYFGSSLSTLTYWLYSILPF   97 (713)
+T ss_dssp             STTHHHHHHHHHHHHHTCCCT--TSCCCTTCHHHHHHHHHHHHSCS
+T ss_pred             ccCHHHHHHHHHHHHhcCCCC--CccccccchHHHHHHHHHHHCCC
+Confidence            556666666666676665321  01112346666666666666653
+
+
+No 6
+>5T7Z_A EpoB; epothilone, NRPS, thiazoline, cyclization, BIOSYNTHETIC; 2.03A {Sorangium cellulosum}
+Probab=2.73  E-value=1.3e+03  Score=24.62  Aligned_cols=18  Identities=11%  Similarity=-0.082  Sum_probs=0.0  Template_Neff=12.100
+
+Q BAQ01641.1      410 DKYGYVERYSLPYSSDIN  427 (434)
+Q Consensus       410 ~~~~~i~R~~LP~~~~i~  427 (434)
+                      ...|+|+|+.||..+.-.
+T Consensus        21 t~ngKid~~~L~~~~~~~   38 (541)
+T 5T7Z_A           21 TAAAKFERQHMDSPDLGT   38 (541)
+T ss_dssp             ------------------
+T ss_pred             CCCchhhhhhCCCCCCCC
+Confidence            457899999999976543
+
+
+No 7
+>5T81_A EpoB; epothilone, NRPS, thiazoline, cyclization, BIOSYNTHETIC; 2.604A {Sorangium cellulosum}
+Probab=2.73  E-value=1.3e+03  Score=24.62  Aligned_cols=18  Identities=11%  Similarity=-0.082  Sum_probs=0.0  Template_Neff=12.100
+
+Q BAQ01641.1      410 DKYGYVERYSLPYSSDIN  427 (434)
+Q Consensus       410 ~~~~~i~R~~LP~~~~i~  427 (434)
+                      ...|+|+|+.||..+.-.
+T Consensus        21 t~ngKid~~~L~~~~~~~   38 (541)
+T 5T81_A           21 TAAAKFERQHMDSPDLGT   38 (541)
+T ss_dssp             ------------------
+T ss_pred             CCCchhhhhhCCCCCCCC
+Confidence            457899999999976543
+
+
+No 8
+>4HMM_A Major prion protein; prp, prion, membrane, MEMBRANE PROTEIN; HET: GOL; 1.5A {Oryctolagus cuniculus}
+Probab=2.66  E-value=1.4e+03  Score=22.27  Aligned_cols=29  Identities=14%  Similarity=0.131  Sum_probs=23.8  Template_Neff=2.500
+
+Q BAQ01641.1       80 NENSIQRFIYREDDFTTYYNNYLELLNGN  108 (434)
+Q Consensus        80 ~~~s~~~f~~~~DDFt~YYnNYl~~~~G~  108 (434)
+                      ++.|.++|.+.+++=.+|||+|..-..|+
+T Consensus        34 r~~Srp~f~F~np~Eeryyn~ym~Rypnq   62 (132)
+T 4HMM_A           34 SAMSRPLIHFGNDYEDRYYRENMYRYPNQ   62 (132)
+T ss_dssp             CCCCCCCCCCSSHHHHHHHHHHGGGSCSS
+T ss_pred             cccCCCCCCCCChhHHHHHHHhhhhCCCc
+Confidence            44568899999999999999998877663
+
+
+No 9
+>4HLS_A Major prion protein; prp, prion, membrane, MEMBRANE PROTEIN; HET: GOL; 1.45A {Oryctolagus cuniculus}
+Probab=2.64  E-value=1.4e+03  Score=22.25  Aligned_cols=29  Identities=14%  Similarity=0.131  Sum_probs=23.8  Template_Neff=2.500
+
+Q BAQ01641.1       80 NENSIQRFIYREDDFTTYYNNYLELLNGN  108 (434)
+Q Consensus        80 ~~~s~~~f~~~~DDFt~YYnNYl~~~~G~  108 (434)
+                      ++.|.++|.+.+++=.+|||+|..-..|+
+T Consensus        34 r~~srp~f~F~np~Eeryyn~ym~Rypnq   62 (132)
+T 4HLS_A           34 SAMSRPLIHFGNDYEDRYYRENMYRYPNQ   62 (132)
+T ss_dssp             CCCCCCCCCCSSHHHHHHHHHHGGGSCSS
+T ss_pred             cccCCCCCCCCChhHHHHHHHhhhhCCCc
+Confidence            44568899999999999999998877664
+
+
+No 10
+>6P25_B Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunits (E.C.2.4.99.18); complex, TRANSFERASE, glycosylation; HET: NAG, NNM, CPL; 3.2A {Saccharomyces cerevisiae W303}
+Probab=2.51  E-value=1.5e+03  Score=27.41  Aligned_cols=17  Identities=18%  Similarity=0.198  Sum_probs=7.7  Template_Neff=8.800
+
+Q BAQ01641.1      189 LTIERQAVASFFILYAI  205 (434)
+Q Consensus       189 ~~l~RQ~yASvFIL~Al  205 (434)
+                      ...+-.+.+..|++.|+
+T Consensus       198 ~~~~~d~~~~~f~~lal  214 (759)
+T 6P25_B          198 RFILLDSMLLFFTVASF  214 (759)
+T ss_dssp             SSSCSHHHHHHHH----
+T ss_pred             hHHHHHHHHHHHHHHHH
+Confidence            33555666677776665
+
+

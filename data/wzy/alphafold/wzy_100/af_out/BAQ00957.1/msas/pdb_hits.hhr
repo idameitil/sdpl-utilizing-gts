@@ -1,0 +1,160 @@
+Query         BAQ00957.1 O-antigen polymerase [Escherichia coli]
+Match_columns 379
+No_of_seqs    23 out of 25
+Neff          4.4071
+Searched_HMMs 80799
+Date          Thu Feb  3 23:42:58 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpcr34wps2/query.a3m -o /tmp/tmpcr34wps2/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6PL5_A Peptidoglycan glycosylt  61.3     6.4 7.9E-05   40.8   0.0   52  264-316   234-295 (377)
+  2 6BAR_A Rod shape determining p  38.2      27 0.00033   35.8   0.0   53  263-316   215-277 (359)
+  3 5OGL_A Peptide-binding protein   6.9 4.2E+02  0.0052   30.0   0.0   19  141-159   147-165 (713)
+  4 3WAJ_A Transmembrane oligosacc   3.8 8.9E+02   0.011   29.3   0.0   20  141-160   154-173 (875)
+  5 3WAK_A Transmembrane oligosacc   3.8 8.9E+02   0.011   29.3   0.0   20  141-160   154-173 (875)
+  6 3GD0_A Laminaripentaose-produc   3.3 1.1E+03   0.013   26.1   0.0   45  258-305    75-126 (367)
+  7 3GD9_A Laminaripentaose-produc   3.3 1.1E+03   0.013   26.1   0.0   45  258-305    75-126 (367)
+  8 2MFR_A Insulin receptor (E.C.2   2.8 1.3E+03   0.016   18.7   0.0   18  353-370    35-52  (57)
+  9 1RKL_A Dolichyl-diphosphooligo   2.7 1.3E+03   0.017   17.6   0.0   32   32-63      3-35  (36)
+ 10 5H9Y_A beta-1,3-glucanase (E.C   2.7 1.4E+03   0.017   26.3   0.0   47  257-305   212-265 (444)
+
+No 1
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=61.31  E-value=6.4  Score=40.77  Aligned_cols=52  Identities=19%  Similarity=0.286  Sum_probs=29.9  Template_Neff=8.900
+
+Q BAQ00957.1      264 GRIWFSSQLTSQLWPVPYFHGVNIN-------DYLP---IDFFYVAYFYNLGIFIGSWFIYLF  316 (379)
+Q Consensus       264 GRiwfS~~Lyq~lG~P~lf~G~nIe-------~Y~P---IDFFFi~~~Ys~G~l~sl~li~ly  316 (379)
+                      ||.+.-.+....++--+++ |....       +|.|   -|+.|.+..+..|++....++.++
+T Consensus       234 ~~g~~~~~~~~~i~~~~~~-G~G~g~~~~~~~~~~p~~h~d~i~~~i~~e~G~ig~~~~l~l~  295 (377)
+T 6PL5_A          234 GQGFQVIQSTIAIGSGGLF-GKGYGQGTQAQLGFIPFRHTDFVFSVWAEEWGFVGVVGLLGLY  295 (377)
+T ss_dssp             HHHHHHHHHHHTTCCCC-----------------CCSCSSTTHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             CCcHHHHHHHHHHHhcCCc-CcCCCCcccchhhcCcCCCCCcHHHHHHHHccHHHHHHHHHHH
+Confidence            6655545555455444444 43322       2344   699999999999988887777554
+
+
+No 2
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=38.16  E-value=27  Score=35.83  Aligned_cols=53  Identities=17%  Similarity=0.176  Sum_probs=24.6  Template_Neff=9.300
+
+Q BAQ00957.1      263 SGRIWFSSQLTSQLWPVPYFHGVNIN----------DYLPIDFFYVAYFYNLGIFIGSWFIYLF  316 (379)
+Q Consensus       263 SGRiwfS~~Lyq~lG~P~lf~G~nIe----------~Y~PIDFFFi~~~Ys~G~l~sl~li~ly  316 (379)
+                      +||.+.-.+..+.++--+++ |...+          +..-=|+.|.+..+..|++....++.++
+T Consensus       215 ~~~~~~~~~~~~~i~~~~~~-G~G~g~~~~~~~~~~~~~h~d~i~~~i~~e~G~ig~~~~l~l~  277 (359)
+T 6BAR_A          215 LGQGFQVIQSTIAIGSGGLF-GKGYGQGTQAQLGFIPFRHTDFVFSVWAEEWGFVGVVGLLGLY  277 (359)
+T ss_dssp             -------------CTTTCCS-CC---------------CCTTTTHHHHHHHSHHHHHHHHHHHH
+T ss_pred             CCCCHHHHHHHHHHHhcCcc-cccCCcccccccccCccccCccHHHHHHHHcchHHHHHHHHHH
+Confidence            36655555555555444444 44333          2234689999999999988777776544
+
+
+No 3
+>5OGL_A Peptide-binding protein, Substrate mimicking peptide; Oligosaccharyltransferase, Complex, Protein N-glycosylation, Bacteria; HET: 9UB, PPN; 2.7A {Campylobacter lari (strain RM2100 / D67 / ATCC BAA-1060)}
+Probab=6.89  E-value=4.2e+02  Score=30.03  Aligned_cols=19  Identities=21%  Similarity=0.266  Sum_probs=12.1  Template_Neff=9.900
+
+Q BAQ00957.1      141 RYTFGFHNPNTFSQYLISL  159 (379)
+Q Consensus       141 RlT~GF~NPNt~a~yll~l  159 (379)
+                      |...|+..|+..+.....+
+T Consensus       147 ~~~~~~~~~~~l~~~~~~l  165 (713)
+T 5OGL_A          147 RTMSGYYDTDMLVLVLPML  165 (713)
+T ss_dssp             TTSTTCCSGGGGTTHHHHH
+T ss_pred             hhhccCCCCHHHHHHHHHH
+Confidence            4456677788877765433
+
+
+No 4
+>3WAJ_A Transmembrane oligosaccharyl transferase (E.C.2.4.1.119); oligosaccharyltransferase, N-glycosylation, Archaeoglobus fulgidus, GT-C; 2.501A {Archaeoglobus fulgidus}
+Probab=3.84  E-value=8.9e+02  Score=29.26  Aligned_cols=20  Identities=15%  Similarity=0.360  Sum_probs=11.0  Template_Neff=8.300
+
+Q BAQ00957.1      141 RYTFGFHNPNTFSQYLISLY  160 (379)
+Q Consensus       141 RlT~GF~NPNt~a~yll~l~  160 (379)
+                      |...|+..|...+.....+.
+T Consensus       154 ~s~~g~~d~~~~~~lf~~l~  173 (875)
+T 3WAJ_A          154 RSILGFNDHHIWEAFWQVSA  173 (875)
+T ss_dssp             TTSTTCCCSHHHHHHHHHHH
+T ss_pred             HHhccCCchHHHHHHHHHHH
+Confidence            44556666665555554443
+
+
+No 5
+>3WAK_A Transmembrane oligosaccharyl transferase (E.C.2.4.1.119); oligosaccharyltransferase, N-glycosylation, Archaeoglobus fulgidus, GT-C; 3.413A {Archaeoglobus fulgidus}
+Probab=3.84  E-value=8.9e+02  Score=29.26  Aligned_cols=20  Identities=15%  Similarity=0.360  Sum_probs=11.0  Template_Neff=8.300
+
+Q BAQ00957.1      141 RYTFGFHNPNTFSQYLISLY  160 (379)
+Q Consensus       141 RlT~GF~NPNt~a~yll~l~  160 (379)
+                      |...|+..|...+.....+.
+T Consensus       154 ~s~~g~~d~~~~~~lf~~l~  173 (875)
+T 3WAK_A          154 RSILGFNDHHIWEAFWQVSA  173 (875)
+T ss_dssp             TTSTTCCCSHHHHHHHHHHH
+T ss_pred             HHhccCCchHHHHHHHHHHH
+Confidence            44556666665555554443
+
+
+No 6
+>3GD0_A Laminaripentaose-producing beta-1,3-guluase (LPHase) (E.C.3.2.1.39); Glycoside hydrolase, Laminaripentaose-producing beta-1, 3-glucnase; 1.62A {Streptomyces matensis}
+Probab=3.28  E-value=1.1e+03  Score=26.13  Aligned_cols=45  Identities=29%  Similarity=0.297  Sum_probs=24.0  Template_Neff=6.400
+
+Q BAQ00957.1      258 INTILSGRIWFSSQ--LTS-----QLWPVPYFHGVNINDYLPIDFFYVAYFYNLG  305 (379)
+Q Consensus       258 lN~~LSGRiwfS~~--Lyq-----~lG~P~lf~G~nIe~Y~PIDFFFi~~~Ys~G  305 (379)
+                      +..+ |||||+|..  |+=     ++-.|+.--..|-+  ..+++=|+++-|..+
+T Consensus        75 ip~~-sgRIy~S~g~~L~f~~~~~g~v~Ps~~Np~DPn--~~~~~df~EfT~~~~  126 (367)
+T 3GD0_A           75 IPKF-SGRIYFSYGRKMEFRLTTGGLVQPAVQNPTDPN--RDILFNWSEYTLNDS  126 (367)
+T ss_dssp             EESE-EEEEEEEESSCCCCEEETTEECCCCTTSTTCTT--TTSCEEEEEEEEETT
+T ss_pred             ecCC-ceeEEEEeCCCcEEEEcCCcccCCCCCCCCCCC--ccccccEEEEEeCCC
+Confidence            4677 999999976  321     12233332222222  245555667777654
+
+
+No 7
+>3GD9_A Laminaripentaose-producing beta-1,3-guluase (LPHase) (E.C.3.2.1.39); Glycoside hydrolases, Laminaripentaose-producing beta-1, 3-glucnase; HET: GLC, BGC; 1.8A {Streptomyces matensis}
+Probab=3.28  E-value=1.1e+03  Score=26.13  Aligned_cols=45  Identities=29%  Similarity=0.297  Sum_probs=24.0  Template_Neff=6.400
+
+Q BAQ00957.1      258 INTILSGRIWFSSQ--LTS-----QLWPVPYFHGVNINDYLPIDFFYVAYFYNLG  305 (379)
+Q Consensus       258 lN~~LSGRiwfS~~--Lyq-----~lG~P~lf~G~nIe~Y~PIDFFFi~~~Ys~G  305 (379)
+                      +..+ |||||+|..  |+=     ++-.|+.--..|-+  ..+++=|+++-|..+
+T Consensus        75 ip~~-sgRIy~S~g~~L~f~~~~~g~v~Ps~~Np~DPn--~~~~~df~EfT~~~~  126 (367)
+T 3GD9_A           75 IPKF-SGRIYFSYGRKMEFRLTTGGLVQPAVQNPTDPN--RDILFNWSEYTLNDS  126 (367)
+T ss_dssp             EESE-EEEEEEEESSCCCCEEETTEEECCCTTSTTCTT--TTSCEEEEEEEEETT
+T ss_pred             ecCC-ceeEEEEeCCCcEEEEcCCcccCCCCCCCCCCC--ccccccEEEEEeCCC
+Confidence            4677 999999976  321     12233332222222  245555667777654
+
+
+No 8
+>2MFR_A Insulin receptor (E.C.2.7.10.1); insulin recepotr, membrane protein, detergent; NMR {Homo sapiens}
+Probab=2.82  E-value=1.3e+03  Score=18.72  Aligned_cols=18  Identities=17%  Similarity=0.178  Sum_probs=12.4  Template_Neff=5.900
+
+Q BAQ00957.1      353 ISLFIVFSSRYVINENEN  370 (379)
+Q Consensus       353 ~~Lfil~skr~~~n~~~~  370 (379)
+                      .++|+..+||+.++.+|.
+T Consensus        35 ~~~~~~~kKr~~~~~~~~   52 (57)
+T 2MFR_A           35 GSIYLFLRKRQPDGPLEH   52 (57)
+T ss_dssp             HHHHHHHTSSCCCCSSSC
+T ss_pred             HHHHHHHhccCCCCCCCC
+Confidence            456677778777777664
+
+
+No 9
+>1RKL_A Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 4 kDa subunit; membrane protein, TRANSFERASE; NMR {N/A} SCOP: f.23.30.1
+Probab=2.73  E-value=1.3e+03  Score=17.60  Aligned_cols=32  Identities=6%  Similarity=0.044  Sum_probs=17.5  Template_Neff=3.800
+
+Q BAQ00957.1       32 PEDLIGGVSNIINAL-ILAILSPVILLSNKKQC   63 (379)
+Q Consensus        32 ~~d~i~~~~~~~n~l-~l~~v~~~~~~~~~ke~   63 (379)
+                      .|+....+.+++.+. +++++.+=+.-.|.|+|
+T Consensus         3 sD~qL~~lan~lG~~~~~LIV~YH~v~~n~~~k   35 (36)
+T 1RKL_A            3 SDEQLNSLAITFGIVMMTLIVIYHAVDSTMSPK   35 (36)
+T ss_dssp             SSCGGGHHHHHHHHHHHHHHHHHHHHTSCCCCC
+T ss_pred             CHHHHHHHHHHHHHHHHHHHHHHHHHHhcCCCC
+Confidence            344555566666654 44456665665655544
+
+
+No 10
+>5H9Y_A beta-1,3-glucanase (E.C.3.2.1.39); beta-1, 3-glucan recognition, glycoside hydrolase; HET: BGC, TLA; 1.969A {Paenibacillus barengoltzii}
+Probab=2.72  E-value=1.4e+03  Score=26.28  Aligned_cols=47  Identities=26%  Similarity=0.287  Sum_probs=25.1  Template_Neff=5.800
+
+Q BAQ00957.1      257 NINTILSGRIWFSSQ--LT-----SQLWPVPYFHGVNINDYLPIDFFYVAYFYNLG  305 (379)
+Q Consensus       257 ~lN~~LSGRiwfS~~--Ly-----q~lG~P~lf~G~nIe~Y~PIDFFFi~~~Ys~G  305 (379)
+                      .+.++-+||||+|..  |+     .++.-|..---.  |+=.-+++=|+++-|..+
+T Consensus       212 tiP~i~sGRIYfS~G~pL~f~~~~~glv~Ps~~NPt--DPN~~i~wdf~EfT~~~~  265 (444)
+T 5H9Y_A          212 NLPKIESGRLFLSVGSPLYMKTFDDGFAGPDLNNPT--DPNLNIIFDFVAFTVDKD  265 (444)
+T ss_dssp             -CCSEEEEEEEEEESSCCCCE-----------ECTT--CTTTTSEEEEEEEEEETT
+T ss_pred             ecCCCceEEEEEEeCCCcEEEeCCcccCCCCCCCCC--CCCCCCceeEEEEEeCCC
+Confidence            457889999999976  43     122233332222  233356677778777754
+
+

@@ -1,0 +1,156 @@
+Query         AKA20981.1 Wzy [Yersinia pseudotuberculosis]
+Match_columns 404
+No_of_seqs    8 out of 9
+Neff          2.48152
+Searched_HMMs 80799
+Date          Fri Feb  4 14:51:14 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp10ac3rct/query.a3m -o /tmp/tmp10ac3rct/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 2E1B_A 216aa long hypothetical   7.3 3.9E+02  0.0048   25.3   0.0   20  290-309    29-49  (216)
+  2 1QGE_E TRIACYLGLYCEROL HYDROLA   6.3 4.7E+02  0.0058   23.3   0.0   12  302-313    36-47  (97)
+  3 4CY4_E MAGNESIUM TRANSPORT PRO   4.8 6.7E+02  0.0083   24.3   0.0   23  106-128   260-282 (317)
+  4 5JRW_E Cobalt/magnesium transp   4.0 8.5E+02    0.01   25.2   0.0   30  105-134   315-345 (373)
+  5 6CFW_D Monovalent cation/H+ an   3.8   9E+02   0.011   21.5   0.0   59   13-71     16-74  (96)
+  6 4EV6_B Magnesium transport pro   3.7 9.4E+02   0.012   24.0   0.0   23  106-128   282-304 (339)
+  7 1L4A_A SYNAPTOBREVIN/S-SYNTAXI   3.6 9.5E+02   0.012   19.8   0.0   11  300-310     3-13  (80)
+  8 3JCF_C Magnesium transport pro   3.4   1E+03   0.013   23.9   0.0   31  105-135   293-324 (351)
+  9 4I0U_F Magnesium transport pro   3.4   1E+03   0.013   23.9   0.0   64   96-164   284-348 (351)
+ 10 3KDQ_C uncharacterized conserv   3.2 1.1E+03   0.014   21.8   0.0   12  126-137   141-152 (154)
+
+No 1
+>2E1B_A 216aa long hypothetical alanyl-tRNA synthetase(E.C.6.1.1.7; zinc-binding motif, trans-editing enzyme, Structural; 2.7A {Pyrococcus horikoshii} SCOP: b.43.3.6, d.67.1.2
+Probab=7.34  E-value=3.9e+02  Score=25.28  Aligned_cols=20  Identities=35%  Similarity=0.521  Sum_probs=13.1  Template_Neff=8.800
+
+Q AKA20981.1      290 LLARFSDISYPPHGG-PNDSI  309 (404)
+Q Consensus       290 ilA~~~~y~YPe~GG-PNDSl  309 (404)
+                      -+.-.+..-||+.|| |+|.-
+T Consensus        29 ~v~ld~T~Fyp~gGGQ~~D~G   49 (216)
+T 2E1B_A           29 AILLDQTIFYPTGGGQPHDRG   49 (216)
+T ss_dssp             CCCBSCCCSCCCCTTCCCCCE
+T ss_pred             EEEEeccceecCCCCCCCCeE
+Confidence            333445567899888 77753
+
+
+No 2
+>1QGE_E TRIACYLGLYCEROL HYDROLASE; PSEUDOMONADACEAE, CIS-PEPTIDE, CLOSED CONFORMATION, HYDROLASE; 1.7A {Burkholderia glumae}
+Probab=6.33  E-value=4.7e+02  Score=23.28  Aligned_cols=12  Identities=33%  Similarity=0.531  Sum_probs=10.0  Template_Neff=6.200
+
+Q AKA20981.1      302 HGGPNDSIVNYI  313 (404)
+Q Consensus       302 ~GGPNDSlvNY~  313 (404)
+                      .++|||-+||-.
+T Consensus        36 ~~g~NDGlVsv~   47 (97)
+T 1QGE_E           36 ASGQNDGLVSRC   47 (97)
+T ss_dssp             TCCSBSSSSBHH
+T ss_pred             cCCCCCceeeHH
+Confidence            568999999864
+
+
+No 3
+>4CY4_E MAGNESIUM TRANSPORT PROTEIN CORA; MEMBRANE PROTEIN, MAGNESIUM ION CHANNEL; 21.6A {METHANOCALDOCOCCUS JANNASCHII}
+Probab=4.81  E-value=6.7e+02  Score=24.30  Aligned_cols=23  Identities=13%  Similarity=0.312  Sum_probs=17.0  Template_Neff=10.100
+
+Q AKA20981.1      106 MTMLLFYIIIITYIYSVFSTDSK  128 (404)
+Q Consensus       106 ~~~vl~y~l~~t~i~s~Fs~~~k  128 (404)
+                      .+++-+-.+..+++-+.|+++.+
+T Consensus       260 LTivt~iflP~t~iagifGMN~~  282 (317)
+T 4CY4_E          260 LTMVTTIFAVPMWITGIYGMNFS  282 (317)
+T ss_pred             HHHHHHHHHHHHHHHHHhccCCC
+Confidence            44444556777899999999975
+
+
+No 4
+>5JRW_E Cobalt/magnesium transport protein CorA; Transport Protein; 3.3A {Thermotoga maritima}
+Probab=3.99  E-value=8.5e+02  Score=25.22  Aligned_cols=30  Identities=17%  Similarity=0.505  Sum_probs=20.1  Template_Neff=8.800
+
+Q AKA20981.1      105 GMTMLLFYIIIITYIYSVFSTDSK-VDKLTW  134 (404)
+Q Consensus       105 ~~~~vl~y~l~~t~i~s~Fs~~~k-vdKl~W  134 (404)
+                      ..+++-+-.+..|++-+.|+++.. ....+|
+T Consensus       315 ~LTivt~iflPlTfiag~fGMNf~~~p~~~~  345 (373)
+T 5JRW_E          315 VLTIIATIFMPLTFIAGIYGMNFEYMPELRW  345 (373)
+T ss_dssp             HHHHHHHHHHHHHHHHHHTTCCCSCCHHHHS
+T ss_pred             HHHHHHHHHHHHHHHHHHhcCCCCCCHHhcc
+Confidence            344444556678999999999987 344444
+
+
+No 5
+>6CFW_D Monovalent cation/H+ antiporter subunit D; respiratory, hydrogenase, ion translocation, MEMBRANE; HET: SF4; 3.7A {Pyrococcus furiosus COM1}
+Probab=3.79  E-value=9e+02  Score=21.53  Aligned_cols=59  Identities=15%  Similarity=0.086  Sum_probs=43.8  Template_Neff=6.300
+
+Q AKA20981.1       13 PVAFYIVFSFFILTFSALYGIKNILGPTLLSSVFFFMPASLALILADPIDKFFVFLGCV   71 (404)
+Q Consensus        13 p~~FY~~~~f~l~~~s~l~Gik~~lGP~~lsSi~f~~~~~L~l~~~~~~~~~~~~L~~i   71 (404)
+                      ...+|+.....+.......--|+.+-..+..+..+++.+.+-..++.|.....++++-.
+T Consensus        16 ~~~~~~~~~~~i~~ai~~v~~~~~~~s~l~l~~~~~~~a~l~~ll~ApdvA~~qi~V~~   74 (96)
+T 6CFW_D           16 MIIQFIVLGGIILSSVLMIVTRDLLVAVLASAAMSLLLSLEFYMLHAPDVAIAEAAVGA   74 (96)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHCcCHHHHHHHHHHHHHHHHHHHHHcCCchHHHHHHHHHH
+Confidence            45566666666666666777899998888888888888877777787777776666555
+
+
+No 6
+>4EV6_B Magnesium transport protein CorA; MEMBRANE PROTEIN, CORA, MAGNESIUM, ION; HET: UMQ, MG; 3.2A {Methanocaldococcus jannaschii}
+Probab=3.67  E-value=9.4e+02  Score=24.00  Aligned_cols=23  Identities=13%  Similarity=0.312  Sum_probs=16.6  Template_Neff=9.600
+
+Q AKA20981.1      106 MTMLLFYIIIITYIYSVFSTDSK  128 (404)
+Q Consensus       106 ~~~vl~y~l~~t~i~s~Fs~~~k  128 (404)
+                      .+++-+-.+-.+++-+.|+++.+
+T Consensus       282 LTilt~iflP~t~iagifGMN~~  304 (339)
+T 4EV6_B          282 LTMVTTIFAVPMWITGIYGMNFS  304 (339)
+T ss_dssp             HHHHHHHSSHHHHHHHHTTCCCS
+T ss_pred             HHHHHHHHHHHHHHHHHhccCCC
+Confidence            44444446677899999999975
+
+
+No 7
+>1L4A_A SYNAPTOBREVIN/S-SYNTAXIN/S-SNAP25 FUSION PROTEIN/SYNAPHIN A; SNARE, SNARE complex, membrane fusion; 2.95A {Loligo pealei} SCOP: h.1.15.1
+Probab=3.65  E-value=9.5e+02  Score=19.80  Aligned_cols=11  Identities=36%  Similarity=0.745  Sum_probs=2.9  Template_Neff=7.800
+
+Q AKA20981.1      300 PPHGGPNDSIV  310 (404)
+Q Consensus       300 Pe~GGPNDSlv  310 (404)
+                      |+.||||++--
+T Consensus         3 ~~~~~~~~~~~   13 (80)
+T 1L4A_A            3 PPQGPPQPVQQ   13 (80)
+T ss_dssp             ------CCCCC
+T ss_pred             CCCCCCCCHHH
+Confidence            66677776653
+
+
+No 8
+>3JCF_C Magnesium transport protein CorA; membrane protein, ion channel, magnesium; HET: MG; 3.8A {Thermotoga maritima}
+Probab=3.39  E-value=1e+03  Score=23.92  Aligned_cols=31  Identities=16%  Similarity=0.490  Sum_probs=21.0  Template_Neff=9.500
+
+Q AKA20981.1      105 GMTMLLFYIIIITYIYSVFSTDSK-VDKLTWT  135 (404)
+Q Consensus       105 ~~~~vl~y~l~~t~i~s~Fs~~~k-vdKl~Wt  135 (404)
+                      .++++-+-.+-.|++-+.|+++.+ ....+|.
+T Consensus       293 ~LTivt~iflPltfiag~fGMNf~~~p~~~~~  324 (351)
+T 3JCF_C          293 VLTIIATIFMPLTFIAGIYGMNFEYMPELRWK  324 (351)
+T ss_dssp             HHHHHHTTTHHHHHHHHHHHSCCSCCTTTTST
+T ss_pred             HHHHHHHHHHHHHHHHHHhcCCCCCCHHhccc
+Confidence            344555556778999999999987 4444443
+
+
+No 9
+>4I0U_F Magnesium transport protein CorA; magnesium/cobalt transport, METAL TRANSPORT, MEMBRANE; HET: CL, PEG, LMT, MG; 2.7A {Thermotoga maritima}
+Probab=3.39  E-value=1e+03  Score=23.92  Aligned_cols=64  Identities=13%  Similarity=0.301  Sum_probs=0.0  Template_Neff=9.500
+
+Q AKA20981.1       96 NQSSSHNLFGMTMLLFYIIIITYIYSVFSTDSK-VDKLTWTLESGGVHYLFECLSMVILVISFDFLERRK  164 (404)
+Q Consensus        96 ~~s~~~n~~~~~~vl~y~l~~t~i~s~Fs~~~k-vdKl~Wt~eaG~L~Yl~~~L~m~~l~~~f~fLe~r~  164 (404)
+                      ++........++++-+-.+-.|++-+.|+++.+ ....+|...     |..-+..++++++...+.-+||
+T Consensus       284 s~~~n~~mk~LTivt~iflPltfiag~fGMNf~~~p~~~~~~~-----~~~~~~~~~~~~~~~~~~fk~k  348 (351)
+T 4I0U_F          284 SNKTNEVMKVLTIIATIFMPLTFIAGIYGMNFEYMPELRWKWG-----YPVVLAVMGVIAVIMVVYFKKK  348 (351)
+T ss_dssp             HHHHHHHHHHHHHHHHHTTHHHHHHHHTSCCCCCCCSSSSSCH-----HHHHHHHHHHHHHHHHHHGGGT
+T ss_pred             hHHHHHHHHHHHHHHHHHHHHHHHHHHhcCCCCCCHHhccccH-----HHHHHHHHHHHHHHHHHHHHHc
+
+
+No 10
+>3KDQ_C uncharacterized conserved protein; functionally unknown protein,Corynebacterium diphtheriae, structural; 3.0A {Corynebacterium diphtheriae}
+Probab=3.19  E-value=1.1e+03  Score=21.77  Aligned_cols=12  Identities=33%  Similarity=0.886  Sum_probs=0.0  Template_Neff=7.900
+
+Q AKA20981.1      126 DSKVDKLTWTLE  137 (404)
+Q Consensus       126 ~~kvdKl~Wt~e  137 (404)
+                      |.++|+.||+++
+T Consensus       141 d~~I~~~N~~t~  152 (154)
+T 3KDQ_C          141 DVDIQRLNWQTE  152 (154)
+T ss_dssp             HHHHHHHHTTCB
+T ss_pred             HHHHHHHHhhhh
+
+

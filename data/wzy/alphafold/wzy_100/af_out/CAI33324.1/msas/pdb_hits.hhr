@@ -1,0 +1,158 @@
+Query         CAI33324.1 oligosaccharide repeat unit polymerase Wzy [Streptococcus pneumoniae]
+Match_columns 390
+No_of_seqs    28 out of 34
+Neff          4.77095
+Searched_HMMs 80799
+Date          Wed Feb  2 09:08:12 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp38z6sxih/query.a3m -o /tmp/tmp38z6sxih/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6PL5_A Peptidoglycan glycosylt  94.0   0.011 1.4E-07   60.8   0.0   65  271-337   234-303 (377)
+  2 6BAR_A Rod shape determining p  93.3   0.022 2.7E-07   57.9   0.0   65  271-337   216-285 (359)
+  3 5FMF_X DNA REPAIR HELICASE RAD  10.0 2.6E+02  0.0032   23.3   0.0   12  358-369    29-40  (63)
+  4 2JNJ_B TFIIH basal transcripti   8.3 3.3E+02  0.0041   23.5   0.0   13  358-370    36-48  (74)
+  5 3DGP_B RNA polymerase II trans   8.1 3.4E+02  0.0042   23.2   0.0   13  358-370    29-41  (71)
+  6 5OQM_5 Mediator of RNA polymer   7.7 3.7E+02  0.0045   23.1   0.0   12  358-369    30-41  (72)
+  7 1YDL_A general transcription f   6.6 4.5E+02  0.0055   23.1   0.0   13  358-370    41-53  (79)
+  8 2RN0_A Integrin beta-3; transm   6.6 4.5E+02  0.0055   19.0   0.0   22  318-339    15-36  (43)
+  9 2XF7_B GP23.1; VIRAL PROTEIN;    5.1 6.2E+02  0.0076   20.8   0.0   12  305-316     1-12  (51)
+ 10 2XF5_A GP23.1; VIRAL PROTEIN,    5.1 6.2E+02  0.0077   20.8   0.0   12  305-316     1-12  (51)
+
+No 1
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=94.02  E-value=0.011  Score=60.76  Aligned_cols=65  Identities=15%  Similarity=0.105  Sum_probs=38.1  Template_Neff=8.900
+
+Q CAI33324.1      271 TRFRVYEESLKAINGMEMLLGAGVRIPST---VDILLGSHSMY--ISFIYRTGVLGSIIITVMFYYLFSKFL  337 (390)
+Q Consensus       271 tR~~iY~eSi~~~~~~spliG~GIK~~s~---~g~PLGSHSTy--IgffYKTGiiG~il~~~~fi~i~~k~l  337 (390)
+                      +|...+..+.+ +++++|++|.|......   ...| ..|+.|  ....+..|++|.++...++..+..+..
+T Consensus       234 ~~g~~~~~~~~-~i~~~~~~G~G~g~~~~~~~~~~p-~~h~d~i~~~i~~e~G~ig~~~~l~l~~~l~~~~~  303 (377)
+T 6PL5_A          234 GQGFQVIQSTI-AIGSGGLFGKGYGQGTQAQLGFIP-FRHTDFVFSVWAEEWGFVGVVGLLGLYGLLLARLF  303 (377)
+T ss_dssp             HHHHHHHHHHH-TTCCCC----------------CC-SCSSTTHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             CCcHHHHHHHH-HHHhcCCcCcCCCCcccchhhcCc-CCCCCcHHHHHHHHccHHHHHHHHHHHHHHHHHHH
+Confidence            56555555554 45579999999864211   2234 789999  999999999999988777766655543
+
+
+No 2
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=93.31  E-value=0.022  Score=57.89  Aligned_cols=65  Identities=17%  Similarity=0.122  Sum_probs=34.1  Template_Neff=9.300
+
+Q CAI33324.1      271 TRFRVYEESLKAINGMEMLLGAGVRIPST---VDILLGSHSMY--ISFIYRTGVLGSIIITVMFYYLFSKFL  337 (390)
+Q Consensus       271 tR~~iY~eSi~~~~~~spliG~GIK~~s~---~g~PLGSHSTy--IgffYKTGiiG~il~~~~fi~i~~k~l  337 (390)
+                      +|...+..+.+. ++++|++|.|......   ...| ..|+.|  ....+..|++|.++...++.....+..
+T Consensus       216 ~~~~~~~~~~~~-i~~~~~~G~G~g~~~~~~~~~~~-~~h~d~i~~~i~~e~G~ig~~~~l~l~~~l~~~~~  285 (359)
+T 6BAR_A          216 GQGFQVIQSTIA-IGSGGLFGKGYGQGTQAQLGFIP-FRHTDFVFSVWAEEWGFVGVVGLLGLYGLLLARLF  285 (359)
+T ss_dssp             -------------CTTTCCSCC----------------CCTTTTHHHHHHHSHHHHHHHHHHHHHHHHHHHH
+T ss_pred             CCCHHHHHHHHH-HHhcCcccccCCcccccccccCc-cccCccHHHHHHHHcchHHHHHHHHHHHHHHHHHH
+Confidence            466666555555 5579999999864211   2234 689997  999999999999988777766655544
+
+
+No 3
+>5FMF_X DNA REPAIR HELICASE RAD25, SSL2; TRANSCRIPTION, PRE-INITIATION COMPLEX, RNA POLYMERASE; 6.0A {SACCHAROMYCES CEREVISIAE}
+Probab=9.96  E-value=2.6e+02  Score=23.30  Aligned_cols=12  Identities=33%  Similarity=0.349  Sum_probs=9.6  Template_Neff=5.200
+
+Q CAI33324.1      358 WLFEELDPHYWC  369 (390)
+Q Consensus       358 ~ifEDiDg~nw~  369 (390)
+                      |++||+|..+..
+T Consensus        29 FIIedLDdthlf   40 (63)
+T 5FMF_X           29 IVLEELDDTHLL   40 (63)
+T ss_pred             eEEEeCCCCeEE
+Confidence            688999988754
+
+
+No 4
+>2JNJ_B TFIIH basal transcription factor complex; protein, TRANSCRIPTION; NMR {Homo sapiens}
+Probab=8.29  E-value=3.3e+02  Score=23.48  Aligned_cols=13  Identities=8%  Similarity=0.373  Sum_probs=10.1  Template_Neff=5.000
+
+Q CAI33324.1      358 WLFEELDPHYWCL  370 (390)
+Q Consensus       358 ~ifEDiDg~nw~i  370 (390)
+                      |++||+|..+..+
+T Consensus        36 FII~dLDdthLfI   48 (74)
+T 2JNJ_B           36 FIIQDIDDTHVFV   48 (74)
+T ss_dssp             CCSBCCTTTEEEE
+T ss_pred             cEEEECCCCeEEE
+Confidence            6889999887643
+
+
+No 5
+>3DGP_B RNA polymerase II transcription factor; PROTEIN-PROTEIN COMPLEX, BETA-ALPHA-BETA SPILT, HETERODIMER; 1.8A {Saccharomyces cerevisiae}
+Probab=8.15  E-value=3.4e+02  Score=23.23  Aligned_cols=13  Identities=31%  Similarity=0.368  Sum_probs=10.2  Template_Neff=5.000
+
+Q CAI33324.1      358 WLFEELDPHYWCL  370 (390)
+Q Consensus       358 ~ifEDiDg~nw~i  370 (390)
+                      |++||+|..+..+
+T Consensus        29 FIIedLDdthlfI   41 (71)
+T 3DGP_B           29 IVLEELDDTHLLV   41 (71)
+T ss_dssp             SEEEEEETTEEEE
+T ss_pred             eEEEeCCCCeEEE
+Confidence            6889999987643
+
+
+No 6
+>5OQM_5 Mediator of RNA polymerase II; transcription initiation, TRANSCRIPTION, macromolecular complex; HET: ZN; 5.8A {Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}
+Probab=7.66  E-value=3.7e+02  Score=23.06  Aligned_cols=12  Identities=33%  Similarity=0.349  Sum_probs=9.7  Template_Neff=5.100
+
+Q CAI33324.1      358 WLFEELDPHYWC  369 (390)
+Q Consensus       358 ~ifEDiDg~nw~  369 (390)
+                      |++||+|..+..
+T Consensus        30 FII~dLDdthlf   41 (72)
+T 5OQM_5           30 IVLEELDDTHLL   41 (72)
+T ss_pred             cEEEeCCCCeEE
+Confidence            688999987754
+
+
+No 7
+>1YDL_A general transcription factor IIH, polypeptide; alpha-beta protein, Structural Genomics, PSI; 2.3A {Homo sapiens} SCOP: d.295.1.1
+Probab=6.59  E-value=4.5e+02  Score=23.08  Aligned_cols=13  Identities=8%  Similarity=0.373  Sum_probs=9.8  Template_Neff=4.700
+
+Q CAI33324.1      358 WLFEELDPHYWCL  370 (390)
+Q Consensus       358 ~ifEDiDg~nw~i  370 (390)
+                      |++||+|..+..+
+T Consensus        41 FIIeDLDdthLfI   53 (79)
+T 1YDL_A           41 FIIQDIDDTHVFV   53 (79)
+T ss_dssp             CEEEECSSSEEEE
+T ss_pred             cEEEECCCCeEEE
+Confidence            5889999877543
+
+
+No 8
+>2RN0_A Integrin beta-3; transmembrane helix, Alternative splicing, Cell; NMR {Homo sapiens}
+Probab=6.58  E-value=4.5e+02  Score=18.97  Aligned_cols=22  Identities=27%  Similarity=0.404  Sum_probs=10.9  Template_Neff=8.000
+
+Q CAI33324.1      318 GVLGSIIITVMFYYLFSKFLKC  339 (390)
+Q Consensus       318 GiiG~il~~~~fi~i~~k~lk~  339 (390)
+                      |++|.+++..+...+..++.+.
+T Consensus        15 gvvggiv~~~l~~~~~~~~~~~   36 (43)
+T 2RN0_A           15 SVMGAILLIGLAALLIWKLLIT   36 (43)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHH
+Confidence            5666555444444444444433
+
+
+No 9
+>2XF7_B GP23.1; VIRAL PROTEIN; 1.61A {BACILLUS PHAGE SPP1}
+Probab=5.14  E-value=6.2e+02  Score=20.77  Aligned_cols=12  Identities=25%  Similarity=0.548  Sum_probs=8.8  Template_Neff=2.600
+
+Q CAI33324.1      305 GSHSMYISFIYR  316 (390)
+Q Consensus       305 GSHSTyIgffYK  316 (390)
+                      ||-|.|.++||-
+T Consensus         1 ~~~S~lY~~F~~   12 (51)
+T 2XF7_B            1 GSESLLYGYFLD   12 (51)
+T ss_dssp             -CCCTTHHHHHH
+T ss_pred             CCcchhhHHHHH
+Confidence            788888888874
+
+
+No 10
+>2XF5_A GP23.1; VIRAL PROTEIN, CHAPERONE; HET: MSE; 2.0A {BACILLUS PHAGE SPP1}
+Probab=5.12  E-value=6.2e+02  Score=20.76  Aligned_cols=12  Identities=25%  Similarity=0.548  Sum_probs=8.8  Template_Neff=2.700
+
+Q CAI33324.1      305 GSHSMYISFIYR  316 (390)
+Q Consensus       305 GSHSTyIgffYK  316 (390)
+                      ||-|.|.++||-
+T Consensus         1 ~~~S~lY~~F~~   12 (51)
+T 2XF5_A            1 GSESLLYGYFLD   12 (51)
+T ss_dssp             -CCCTTHHHHHH
+T ss_pred             CCcchhhHHHHH
+Confidence            788888888874
+
+

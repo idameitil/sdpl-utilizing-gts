@@ -1,0 +1,159 @@
+Query         WP_001757498.1 O167 family O-antigen polymerase [Escherichia coli] >ACD37046.1 Wzy [Escherichia coli] >EFJ5916574.1 O167 family O-antigen polymerase [Escherichia coli] >EGM8942643.1 O167 family O-antigen polymerase [Escherichia coli] >EHK8246556.1 O167 family O-antigen polymerase [Escherichia coli] >EHW4716723.1 O167 family O-antigen polymerase [Escherichia coli]
+Match_columns 416
+No_of_seqs    134 out of 195
+Neff          7.45016
+Searched_HMMs 80799
+Date          Thu Apr 28 03:00:41 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpmupv5b_v/query.a3m -o /tmp/tmpmupv5b_v/output.hhr -maxseq 1000000 -d /mnt/disks/data/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 3VSM_A Occlusion-derived virus  15.0 1.4E+02  0.0018   34.7   0.0   17  320-338   234-250 (659)
+  2 3VSN_A Occlusion-derived virus  14.5 1.5E+02  0.0019   34.5   0.0   17  320-338   234-250 (659)
+  3 2AU5_A conserved domain protei  14.3 1.5E+02  0.0019   26.5   0.0   46  291-336    34-83  (139)
+  4 6JK2_A Lectin; PhoSL, core-fuc  12.3 1.9E+02  0.0024   20.6   0.0   11  317-327    21-31  (40)
+  5 6JK3_C Lectin; PhoSL, core-fuc  12.3 1.9E+02  0.0024   20.6   0.0   11  317-327    21-31  (40)
+  6 6A87_A lectin; Lectin, Trimer,  11.6 2.1E+02  0.0026   20.4   0.0   11  317-327    21-31  (40)
+  7 2JUB_A Internal protein I; IpI   9.9 2.6E+02  0.0032   22.4   0.0   15  315-329    30-44  (76)
+  8 4GVB_B KP6 killer toxin subuni   7.0 4.1E+02  0.0051   21.0   0.0    9  321-329    36-44  (81)
+  9 1I8Q_A HYALURONATE LYASE (E.C.   5.9 5.2E+02  0.0064   31.1   0.0   18  320-339   297-314 (814)
+ 10 2DKO_A Caspase-3 (E.C.3.4.22.-   5.8 5.3E+02  0.0065   22.9   0.0   47  299-345     2-51  (146)
+
+No 1
+>3VSM_A Occlusion-derived virus envelope protein E66; alpha/alpha troid, beta-sandwich, LYASE ACTIVATOR; 2.0A {Autographa californica nucleopolyhedrovirus}
+Probab=15.02  E-value=1.4e+02  Score=34.70  Aligned_cols=17  Identities=41%  Similarity=0.608  Sum_probs=15.7  Template_Neff=5.800
+
+Q WP_001757498.1  320 GDGKYTNHDGSYYMHTDVG  338 (416)
+Q Consensus       320 GDG~ytn~dG~YYm~TDvG  338 (416)
+                      |||-|.  ||+|.+|+|+|
+T Consensus       234 GDGIy~--DGSFiqH~~v~  250 (659)
+T 3VSM_A          234 GNGLHV--DSIYIDHIDVR  250 (659)
+T ss_dssp             SSEEET--TSCEEETTTEE
+T ss_pred             CCcccC--CCcccccCCcc
+Confidence            999996  89999999985
+
+
+No 2
+>3VSN_A Occlusion-derived virus envelope protein E66; alpha/alpha troid, beta-sandwich, LYASE ACTIVATOR; HET: GOL, IOD; 2.0A {Autographa californica nucleopolyhedrovirus}
+Probab=14.46  E-value=1.5e+02  Score=34.51  Aligned_cols=17  Identities=41%  Similarity=0.608  Sum_probs=10.8  Template_Neff=5.800
+
+Q WP_001757498.1  320 GDGKYTNHDGSYYMHTDVG  338 (416)
+Q Consensus       320 GDG~ytn~dG~YYm~TDvG  338 (416)
+                      |||-|.  ||+|.+|+|+|
+T Consensus       234 GDGIy~--DgSFiqH~~v~  250 (659)
+T 3VSN_A          234 GNGLHV--DSIYIDHIDVR  250 (659)
+T ss_dssp             SSECEE--E-----TTTEE
+T ss_pred             CCcccc--CCCccccCCCc
+Confidence            999996  89999999985
+
+
+No 3
+>2AU5_A conserved domain protein; Enterococcus faecalis, Structural Genomics, PSI; 2.1A {Enterococcus faecalis} SCOP: a.244.1.1
+Probab=14.34  E-value=1.5e+02  Score=26.50  Aligned_cols=46  Identities=15%  Similarity=0.050  Sum_probs=35.2  Template_Neff=1.900
+
+Q WP_001757498.1  291 FINEGQFTSHSTNDLSSMYIMPNE--NTMLLGDGKYTNH--DGSYYMHTD  336 (416)
+Q Consensus       291 ~~~~G~~~t~ST~~L~~Myf~p~~--~T~l~GDG~ytn~--dG~YYm~TD  336 (416)
+                      -..+|..+|=|-++|++|=-.|+|  ++.-+|.|.-.+.  ||.-|..+|
+T Consensus        34 ~l~T~DyStFsPeVL~~ME~~PeWL~e~~~w~Q~~iv~Sll~~~Ny~s~~   83 (139)
+T 2AU5_A           34 GHFTGDISHFSPIVLAEMEKDPNWLEEAAGGMQGVIVQSLLEDENFSSVE   83 (139)
+T ss_dssp             HHHHCCCTTCCHHHHHHHHHCTTHHHHHHHHHHHHHHHHHTTCTTCSSHH
+T ss_pred             hhhcCCcccCCHHHHHHHHhCCcHHHHHHHHhHHHHHHHHhcCCCCCCHH
+Confidence            345788889999999999999988  5677777777663  555676665
+
+
+No 4
+>6JK2_A Lectin; PhoSL, core-fucosylated chitobiose, SUGAR BINDING; HET: SO4; 1.06A {Pholiota squarrosa}
+Probab=12.27  E-value=1.9e+02  Score=20.59  Aligned_cols=11  Identities=27%  Similarity=0.800  Sum_probs=8.4  Template_Neff=2.200
+
+Q WP_001757498.1  317 MLLGDGKYTNH  327 (416)
+Q Consensus       317 ~l~GDG~ytn~  327 (416)
+                      +-+|||++..+
+T Consensus        21 L~FGDG~W~A~   31 (40)
+T 6JK2_A           21 LDFGDGRWVAQ   31 (40)
+T ss_dssp             ESSTTTTCEEE
+T ss_pred             eEecCCcEEEE
+Confidence            45899999754
+
+
+No 5
+>6JK3_C Lectin; PhoSL, core-fucosylated chitobiose, SUGAR BINDING; HET: NAG, FUC, GOL; 1.12A {Pholiota squarrosa}
+Probab=12.27  E-value=1.9e+02  Score=20.59  Aligned_cols=11  Identities=27%  Similarity=0.800  Sum_probs=8.4  Template_Neff=2.200
+
+Q WP_001757498.1  317 MLLGDGKYTNH  327 (416)
+Q Consensus       317 ~l~GDG~ytn~  327 (416)
+                      +-+|||++..+
+T Consensus        21 L~FGDG~W~A~   31 (40)
+T 6JK3_C           21 LDFGDGRWVAQ   31 (40)
+T ss_dssp             ECSTTSCEEEE
+T ss_pred             eEecCCcEEEE
+Confidence            45899999754
+
+
+No 6
+>6A87_A lectin; Lectin, Trimer, Fucose, SUGAR BINDING; HET: NAG, FUC; 2.41A {N/A}
+Probab=11.64  E-value=2.1e+02  Score=20.44  Aligned_cols=11  Identities=36%  Similarity=0.755  Sum_probs=8.4  Template_Neff=2.200
+
+Q WP_001757498.1  317 MLLGDGKYTNH  327 (416)
+Q Consensus       317 ~l~GDG~ytn~  327 (416)
+                      +-+|||++..+
+T Consensus        21 L~FGDG~W~A~   31 (40)
+T 6A87_A           21 LDYGDGKWVAQ   31 (40)
+T ss_dssp             ESSTTTTEEEE
+T ss_pred             eEecCCcEEEE
+Confidence            45899999754
+
+
+No 7
+>2JUB_A Internal protein I; IpI*, T4 phage, solution, Endonuclease; NMR {Enterobacteria phage T4}
+Probab=9.91  E-value=2.6e+02  Score=22.42  Aligned_cols=15  Identities=47%  Similarity=0.762  Sum_probs=12.3  Template_Neff=1.600
+
+Q WP_001757498.1  315 NTMLLGDGKYTNHDG  329 (416)
+Q Consensus       315 ~T~l~GDG~ytn~dG  329 (416)
+                      .|+..|||.|...||
+T Consensus        30 GtvYLGDG~~AkKdG   44 (76)
+T 2JUB_A           30 GTVYLGDGWSAKKDG   44 (76)
+T ss_dssp             TCSSTTTTCEEEECS
+T ss_pred             EEEEEcCcceeeecC
+Confidence            478899999987776
+
+
+No 8
+>4GVB_B KP6 killer toxin subunit alpha; Antifungal protein, Secreted, TOXIN; 1.8A {Ustilago maydis virus P6}
+Probab=7.00  E-value=4.1e+02  Score=21.03  Aligned_cols=9  Identities=67%  Similarity=1.195  Sum_probs=5.1  Template_Neff=1.000
+
+Q WP_001757498.1  321 DGKYTNHDG  329 (416)
+Q Consensus       321 DG~ytn~dG  329 (416)
+                      ||+|+..||
+T Consensus        36 dgyytekdg   44 (81)
+T 4GVB_B           36 DGYYTEKDG   44 (81)
+T ss_dssp             -CEECTTTC
+T ss_pred             cceeecCCC
+Confidence            677766554
+
+
+No 9
+>1I8Q_A HYALURONATE LYASE (E.C.4.2.2.1); beta-alpha-beta, LYASE; HET: NAG, GC4; 2.2A {Streptococcus agalactiae} SCOP: b.24.1.1, a.102.3.2, b.1.18.2, b.30.5.2
+Probab=5.88  E-value=5.2e+02  Score=31.13  Aligned_cols=18  Identities=50%  Similarity=0.966  Sum_probs=15.8  Template_Neff=7.500
+
+Q WP_001757498.1  320 GDGKYTNHDGSYYMHTDVGF  339 (416)
+Q Consensus       320 GDG~ytn~dG~YYm~TDvGy  339 (416)
+                      |||-|.  ||+|++|++.-|
+T Consensus       297 gdGf~~--DGSf~qH~~~~Y  314 (814)
+T 1I8Q_A          297 AEGFYA--DGSYIDHTNVAY  314 (814)
+T ss_pred             CCcccc--CCCEeccCCccC
+Confidence            999985  899999998755
+
+
+No 10
+>2DKO_A Caspase-3 (E.C.3.4.22.-), DEVD; LOW BARRIER HYDROGEN BOND, CASPASE; 1.06A {Homo sapiens}
+Probab=5.81  E-value=5.3e+02  Score=22.89  Aligned_cols=47  Identities=13%  Similarity=0.109  Sum_probs=32.2  Template_Neff=9.500
+
+Q WP_001757498.1  299 SHSTNDLSSMYIMPNENTMLLGDGKYTNH---DGSYYMHTDVGFLRPVFF  345 (416)
+Q Consensus       299 t~ST~~L~~Myf~p~~~T~l~GDG~ytn~---dG~YYm~TDvGymR~ilf  345 (416)
+                      +.|.++..+|.-.|.-..+++|.++|.+.   +..-.-..|+--|+..+=
+T Consensus         2 ~~~~~~~y~~~~~~~~~~lii~~~~~~~~~~~~~l~~~~~D~~~l~~~l~   51 (146)
+T 2DKO_A            2 GISLDNSYKMDYPEMGLCIIINNKNFHKSTGMTSRSGTDVDAANLRETFR   51 (146)
+T ss_dssp             CCCCCCBCCCCSSEEEEEEEEECCCCCGGGTCCCCTTHHHHHHHHHHHHH
+T ss_pred             CCCcccCCCCCCCCCeEEEEEEcCCCccccCCCCCCCHHHHHHHHHHHHH
+Confidence            34455555666556667999999999863   223456788888887774
+
+

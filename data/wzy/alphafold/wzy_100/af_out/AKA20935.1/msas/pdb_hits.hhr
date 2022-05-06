@@ -1,0 +1,159 @@
+Query         AKA20935.1 Wzy [Yersinia pseudotuberculosis]
+Match_columns 432
+No_of_seqs    19 out of 30
+Neff          2.70161
+Searched_HMMs 80799
+Date          Fri Feb  4 14:04:32 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp859jzuhi/query.a3m -o /tmp/tmp859jzuhi/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 5JYN_C Envelope glycoprotein g  12.0   2E+02  0.0025   23.0   0.0   21  246-266    17-37  (40)
+  2 5FGN_A Phosphoethanolamine tra  10.3 2.4E+02   0.003   29.1   0.0   45  124-169    75-119 (550)
+  3 4HZ9_A Putative cytoplasmic pr   6.4 4.7E+02  0.0058   23.1   0.0   13  150-162    76-88  (119)
+  4 5I5D_B Inner membrane protein    6.3 4.7E+02  0.0058   27.6   0.0   34  122-155    89-122 (586)
+  5 3DH4_B Sodium/glucose cotransp   5.9 5.1E+02  0.0064   28.1   0.0   14   95-108   453-466 (530)
+  6 6V8Q_A Inner membrane protein    5.2 6.1E+02  0.0076   27.0   0.0   33  120-152    87-119 (592)
+  7 2L09_A Asr4154 protein; proto-   4.5 7.2E+02  0.0089   21.1   0.0   16  161-176     8-23  (62)
+  8 2KRU_A Light-independent proto   4.4 7.5E+02  0.0092   21.2   0.0   16  161-176     9-24  (63)
+  9 1HF2_B SEPTUM SITE-DETERMINING   4.2 7.9E+02  0.0098   24.5   0.0   25  323-347   112-136 (210)
+ 10 3P20_A V-type ATP synthase alp   3.7 9.2E+02   0.011   28.3   0.0   40  248-293   306-346 (588)
+
+No 1
+>5JYN_C Envelope glycoprotein gp160; transmembrane domain, lipid bilayer, transmembrane; NMR {Human immunodeficiency virus 1}
+Probab=11.97  E-value=2e+02  Score=22.97  Aligned_cols=21  Identities=43%  Similarity=0.763  Sum_probs=16.8  Template_Neff=4.000
+
+Q AKA20935.1      246 IPIVILFIILSTVSYFREGYT  266 (432)
+Q Consensus       246 ~~l~i~Fi~fS~VSYfREGye  266 (432)
+                      .-+=++|.+.|+++-.|+||.
+T Consensus        17 IgLRIv~~v~~~i~r~RqGY~   37 (40)
+T 5JYN_C           17 IGLRIVFAVLSLVNRVRQGYS   37 (40)
+T ss_dssp             HHHGGGHHHHHHHHHHHSCSC
+T ss_pred             HHHHHHHHHHHHHHHHHcCCC
+Confidence            334467888999999999996
+
+
+No 2
+>5FGN_A Phosphoethanolamine transferase EptA specific for; Endotoxin Biosynthesis, EptA, Membrane protein; HET: LMT, BGL; 2.75A {Neisseria meningitidis serogroup B}
+Probab=10.33  E-value=2.4e+02  Score=29.14  Aligned_cols=45  Identities=11%  Similarity=0.164  Sum_probs=24.4  Template_Neff=11.000
+
+Q AKA20935.1      124 NTFYFLFFIVLLCQVYKIILYLIFILNSGAGHLAIYTEGDALRGSV  169 (432)
+Q Consensus       124 ~~F~~vF~iV~lcQ~yKi~~Yf~fi~~Sg~GHLAIytEge~L~s~V  169 (432)
+                      .....++.+...+..++...| +..++-+.-.....|+.+|..+-.
+T Consensus        75 ~~~~~l~~~l~~~~~~~~~~~-g~~~~~~~l~~i~~t~~~e~~~~l  119 (550)
+T 5FGN_A           75 KVLIPLILVISAAVSYQEIFF-NIYFNKSMLNNVLQTTAAESARLI  119 (550)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHH-CCCCCHHHHHHHHccCHHHHHHhc
+Confidence            455566677777777777766 433333333333445444444333
+
+
+No 3
+>4HZ9_A Putative cytoplasmic protein, Putative periplasmic; protein-protein complex, endopeptidase, periplasmic space; 2.4A {Ralstonia pickettii}
+Probab=6.40  E-value=4.7e+02  Score=23.12  Aligned_cols=13  Identities=38%  Similarity=0.693  Sum_probs=10.9  Template_Neff=8.300
+
+Q AKA20935.1      150 NSGAGHLAIYTEG  162 (432)
+Q Consensus       150 ~Sg~GHLAIytEg  162 (432)
+                      .++.||.||++++
+T Consensus        76 ~~~~gHVgI~~g~   88 (119)
+T 4HZ9_A           76 GHPHGHMAIYDGS   88 (119)
+T ss_dssp             TBTTCEEEEECSS
+T ss_pred             CCCCCeEEEEECC
+Confidence            4689999999865
+
+
+No 4
+>5I5D_B Inner membrane protein YejM; Salmonella 245-586, membrane protein; HET: MSE; 1.64A {Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720)}
+Probab=6.33  E-value=4.7e+02  Score=27.65  Aligned_cols=34  Identities=9%  Similarity=-0.076  Sum_probs=0.0  Template_Neff=10.800
+
+Q AKA20935.1      122 LNNTFYFLFFIVLLCQVYKIILYLIFILNSGAGH  155 (432)
+Q Consensus       122 ~n~~F~~vF~iV~lcQ~yKi~~Yf~fi~~Sg~GH  155 (432)
+                      ....+.+++.+...++.++...|-..+-.+-...
+T Consensus        89 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  122 (586)
+T 5I5D_B           89 LSAILATAGMTLLLIDSEVFTRFHLHLNPIVWEL  122 (586)
+T ss_dssp             ----------------------------------
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHhcccccHHHHHH
+Confidence            4456677777788888888776655555444443
+
+
+No 5
+>3DH4_B Sodium/glucose cotransporter; Membrane protein, symporter, sugar transport; HET: GAL; 2.7A {Vibrio parahaemolyticus}
+Probab=5.92  E-value=5.1e+02  Score=28.09  Aligned_cols=14  Identities=0%  Similarity=0.280  Sum_probs=7.6  Template_Neff=9.400
+
+Q AKA20935.1       95 VLIFVIQINTMLYF  108 (432)
+Q Consensus        95 v~l~~~lln~iLy~  108 (432)
+                      ..++.+.++.+.|.
+T Consensus       453 ~~~~~~~~~~v~~~  466 (530)
+T 3DH4_B          453 QMLYTLLFTMVVIA  466 (530)
+T ss_dssp             HHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHH
+Confidence            34555556665554
+
+
+No 6
+>6V8Q_A Inner membrane protein YejM; PbgA, CL transport, PhoPQ, outer; HET: QSR, LMT, PO4; 2.69958498172A {Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S}
+Probab=5.17  E-value=6.1e+02  Score=27.00  Aligned_cols=33  Identities=9%  Similarity=-0.032  Sum_probs=21.6  Template_Neff=10.700
+
+Q AKA20935.1      120 YVLNNTFYFLFFIVLLCQVYKIILYLIFILNSG  152 (432)
+Q Consensus       120 ~~~n~~F~~vF~iV~lcQ~yKi~~Yf~fi~~Sg  152 (432)
+                      +....++..++.+..+++.+|...|-..+-.+-
+T Consensus        87 ~~~~~i~~~l~~~l~~~~~~~~~~~~~~l~~~~  119 (592)
+T 6V8Q_A           87 RFLSAILATAGMTLLLIDSEVFTRFHLHLNPIV  119 (592)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHSCCSCHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHhcccccHHH
+Confidence            334456677777888888888776655554443
+
+
+No 7
+>2L09_A Asr4154 protein; proto-chlorophyllide reductase 57 kD subunit; NMR {Nostoc sp.}
+Probab=4.53  E-value=7.2e+02  Score=21.15  Aligned_cols=16  Identities=19%  Similarity=0.351  Sum_probs=12.8  Template_Neff=5.400
+
+Q AKA20935.1      161 EGDALRGSVPLIIRGI  176 (432)
+Q Consensus       161 Ege~L~s~VPf~IR~I  176 (432)
+                      |.++++.++|+.+|.-
+T Consensus         8 eA~~~L~~vP~fvR~~   23 (62)
+T 2L09_A            8 EAKTKLKNIPFFARSQ   23 (62)
+T ss_dssp             HHHHHHHTSCGGGHHH
+T ss_pred             HHHHHHHcCChHHHHH
+Confidence            5677888999999963
+
+
+No 8
+>2KRU_A Light-independent protochlorophyllide reductase subunit B; NESG, PSI, bchB, Bacteriochlorophyll biosynthesis; NMR {Chlorobaculum tepidum}
+Probab=4.42  E-value=7.5e+02  Score=21.23  Aligned_cols=16  Identities=31%  Similarity=0.673  Sum_probs=12.8  Template_Neff=5.200
+
+Q AKA20935.1      161 EGDALRGSVPLIIRGI  176 (432)
+Q Consensus       161 Ege~L~s~VPf~IR~I  176 (432)
+                      |.++++..+|+.+|..
+T Consensus         9 eA~~~L~~vP~fvR~~   24 (63)
+T 2KRU_A            9 EAEKMLGKVPFFVRKK   24 (63)
+T ss_dssp             HHHHHHTTSCHHHHHH
+T ss_pred             HHHHHHhcCCHHHHHH
+Confidence            5577888999999864
+
+
+No 9
+>1HF2_B SEPTUM SITE-DETERMINING PROTEIN MINC; CELL DIVISION PROTEIN, FTSZ, SEPTUM; 2.2A {THERMOTOGA MARITIMA} SCOP: b.80.3.1, c.102.1.1
+Probab=4.20  E-value=7.9e+02  Score=24.52  Aligned_cols=25  Identities=12%  Similarity=0.306  Sum_probs=20.8  Template_Neff=7.400
+
+Q AKA20935.1      323 NGIAKVYSLLVLGDLSSGLGLSSSI  347 (432)
+Q Consensus       323 ~qI~k~fs~ivlG~~S~GiaLSSS~  347 (432)
+                      +++..+=+++++||+++|--+-+++
+T Consensus       112 Q~i~~~gdvvilGdVn~GAeV~A~G  136 (210)
+T 1HF2_B          112 QTVVHSGDVIVFGNVNKGAEILAGG  136 (210)
+T ss_dssp             CEEEESSCEEESSCBCTTCEEEESS
+T ss_pred             CEEEECCCEEEECCCCCCCEEEeCC
+Confidence            4677788999999999998777665
+
+
+No 10
+>3P20_A V-type ATP synthase alpha chain; HYDROLASE, ATP Binding; HET: ACY, VO4, MPD; 2.85A {Pyrococcus horikoshii, Pyrococcus horikoshii}
+Probab=3.72  E-value=9.2e+02  Score=28.27  Aligned_cols=40  Identities=23%  Similarity=0.341  Sum_probs=33.7  Template_Neff=6.700
+
+Q AKA20935.1      248 IVILFIILSTVSYFR-EGYTIDFYSYIFIVLDSISSTIAGLERLFII  293 (432)
+Q Consensus       248 l~i~Fi~fS~VSYfR-EGyeI~F~~Yl~IVLDSLsStl~GLq~lf~~  293 (432)
+                      ....+.+.++..|+| +||++      +++.||++..-..++.+...
+T Consensus       306 ~~s~~~a~tiAEy~rd~G~~V------ll~~Ds~sr~a~A~rEis~~  346 (588)
+T 3P20_A          306 EASIYTGITIAEYFRDMGYDV------ALMADSTSRWAEALREISGR  346 (588)
+T ss_dssp             HHHHHHHHHHHHHHHHHTCEE------EEEECCCSCCCCSTTCCSCC
+T ss_pred             HHHHHHHHHHHHHHHHcCCcE------EEEeccHHHHHHHHHHHHhh
+Confidence            467889999999999 67765      78899999999999888754
+
+

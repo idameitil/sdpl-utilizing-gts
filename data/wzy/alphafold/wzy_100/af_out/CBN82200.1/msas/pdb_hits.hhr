@@ -1,0 +1,160 @@
+Query         CBN82200.1 putative O antigen polymerase [Escherichia coli]
+Match_columns 426
+No_of_seqs    44 out of 50
+Neff          5.07473
+Searched_HMMs 80799
+Date          Thu Feb  3 12:02:23 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpdsh0zi4z/query.a3m -o /tmp/tmpdsh0zi4z/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 2MPK_A Chitin synthase 1 (E.C.   7.3 3.9E+02  0.0048   23.5   0.0   50  260-316     4-53  (74)
+  2 2K3C_A TMIX_peptide; membrane    4.4 7.4E+02  0.0091   17.6   0.0   18  331-348     6-23  (33)
+  3 1GH9_A 8.3 KDA PROTEIN (GENE M   4.4 7.5E+02  0.0093   21.3   0.0   30  131-161    33-62  (71)
+  4 5ZM5_A Oxysterol-binding prote   3.4   1E+03   0.013   26.7   0.0   23  135-157   346-368 (426)
+  5 4IC4_A Oxysterol-binding prote   3.3 1.1E+03   0.013   26.5   0.0   23  136-158   328-350 (397)
+  6 1P4Q_A Cbp/p300-interacting tr   3.0 1.2E+03   0.015   19.3   0.0   11  269-279    37-47  (52)
+  7 6CFZ_H Ask1, Dad3, Dad2, Duo1,   2.9 1.2E+03   0.015   19.3   0.0   13  387-399    34-46  (56)
+  8 4JCH_A Protein KES1; oxysterol   2.9 1.3E+03   0.016   26.4   0.0   23  135-157   323-345 (436)
+  9 1ZHX_A KES1 protein; oxysterol   2.8 1.3E+03   0.016   26.3   0.0   24  135-158   325-348 (438)
+ 10 3LAZ_A D-galactarate dehydrata   2.6 1.5E+03   0.018   21.0   0.0   42  294-336    49-98  (99)
+
+No 1
+>2MPK_A Chitin synthase 1 (E.C.2.4.1.16); MIT domain, three-helix bundle, Saprolegnia; NMR {Saprolegnia monoica}
+Probab=7.33  E-value=3.9e+02  Score=23.53  Aligned_cols=50  Identities=10%  Similarity=0.203  Sum_probs=37.9  Template_Neff=2.800
+
+Q CBN82200.1      260 MSEVFDSVFARLFIGQTEGSFMIYQALTPDISRIAYGMPLAGLFGISSVDPAAEIIT  316 (426)
+Q Consensus       260 ~~~~~~si~~RlflGQnqG~y~I~~~i~Pd~~~~~~g~pf~~lfgi~~~~p~~~Ii~  316 (426)
+                      ..|+++++ +|...+-++|.|.      ...|.++.|-...-..+.++.+|.+..++
+T Consensus         4 ~eea~~~I-er~~~a~~~~ry~------~Alk~~ldgge~~~~vae~ea~~~irnLl   53 (74)
+T 2MPK_A            4 IDDAFRAI-ERAIQAENEGRYR------EALKHFLDGGEMIVTAAEKEASQKVRNLL   53 (74)
+T ss_dssp             HHHHHHHH-HHHHHHCSSSTHH------HHHHHHHHHHHHHHHHHHHCCSCHHHHHH
+T ss_pred             HHHHHHHH-HHHHHHHHhchHH------HHHHHHHhhchhheehhhhhcCHhHHHHH
+Confidence            46777676 9999999999774      34455667777777788888888877665
+
+
+No 2
+>2K3C_A TMIX_peptide; membrane peptide, dodecylphosphocholine micelle, NHE1; NMR {N/A}
+Probab=4.45  E-value=7.4e+02  Score=17.56  Aligned_cols=18  Identities=28%  Similarity=0.549  Sum_probs=13.0  Template_Neff=6.700
+
+Q CBN82200.1      331 SYFQAHAWSIFGDLSLIL  348 (426)
+Q Consensus       331 SyflgeAWs~FG~~glii  348 (426)
+                      +|..||+...-|..+++.
+T Consensus         6 ~y~~ae~l~~SGv~avv~   23 (33)
+T 2K3C_A            6 AYLSAELFHLSGIMALIA   23 (33)
+T ss_dssp             TTGGGSSSTTTTTTTTTT
+T ss_pred             HHHHHHHhChHHHHHHHH
+Confidence            788999877667666543
+
+
+No 3
+>1GH9_A 8.3 KDA PROTEIN (GENE MTH1184); BETA+ALPHA COMPLEX STRUCTURE, STRUCTURAL GENOMICS; NMR {Methanothermobacter thermautotrophicus} SCOP: g.41.6.1
+Probab=4.39  E-value=7.5e+02  Score=21.31  Aligned_cols=30  Identities=13%  Similarity=0.137  Sum_probs=21.7  Template_Neff=5.400
+
+Q CBN82200.1      131 GNIPFLMVLHGDFDGAALAKAQILKNEVGFG  161 (426)
+Q Consensus       131 ~~~Pll~aL~GD~~~Aalar~~Iq~n~~g~~  161 (426)
+                      ++.+.+.- ..|.++|..+|.++|.+..|-+
+T Consensus        33 ~kl~v~~~-~~~~~eA~e~v~~l~a~~~g~~   62 (71)
+T 1GH9_A           33 KDRRIFGR-ADDFEEASELVRKLQEEKYGSC   62 (71)
+T ss_dssp             CSSSCBSC-CSSHHHHHHHHHHHSSCCCSCT
+T ss_pred             eeceEEEE-eCCHHHHHHHHHHHHHHHhCCC
+Confidence            34444433 5689999999999999887654
+
+
+No 4
+>5ZM5_A Oxysterol-binding protein-related protein 1; Transporter, Complex, LIPID TRANSPORT; HET: CLR, CAS; 2.6A {Homo sapiens}
+Probab=3.36  E-value=1e+03  Score=26.66  Aligned_cols=23  Identities=17%  Similarity=0.303  Sum_probs=18.9  Template_Neff=7.900
+
+Q CBN82200.1      135 FLMVLHGDFDGAALAKAQILKNE  157 (426)
+Q Consensus       135 ll~aL~GD~~~Aalar~~Iq~n~  157 (426)
+                      .-.+-+||.++|...|.+++..|
+T Consensus       346 ~~aLe~Gd~~~A~~eK~~LEe~Q  368 (426)
+T 5ZM5_A          346 IRAMENGEIDQASEEKKRLEEKQ  368 (426)
+T ss_dssp             HHHHHTTCHHHHHHHHHHHHHHH
+T ss_pred             HHHHHhCCHHHHHHHHHHHHHHH
+Confidence            45778999999999998886555
+
+
+No 5
+>4IC4_A Oxysterol-binding protein homolog 3; beta barrel, lipid transport, PI(4)P; 1.5A {Saccharomyces cerevisiae}
+Probab=3.34  E-value=1.1e+03  Score=26.48  Aligned_cols=23  Identities=17%  Similarity=0.057  Sum_probs=18.7  Template_Neff=7.600
+
+Q CBN82200.1      136 LMVLHGDFDGAALAKAQILKNEV  158 (426)
+Q Consensus       136 l~aL~GD~~~Aalar~~Iq~n~~  158 (426)
+                      -.+.+||.++|...|.+++..|.
+T Consensus       328 ~ale~Gd~~~A~~eK~~lEe~QR  350 (397)
+T 4IC4_A          328 RAYEEGNVDKAEEWKLKLEQLQR  350 (397)
+T ss_dssp             HHHHTTCHHHHHHHHHHHHHHHH
+T ss_pred             HHHHhCChHHHHHHHHHHHHHHH
+Confidence            34578999999999999977664
+
+
+No 6
+>1P4Q_A Cbp/p300-interacting transactivator 2, E1A-associated protein; helix, protein-protein complex, TRANSCRIPTION-TRANSFERASE COMPLEX; HET: ZN; NMR {Homo sapiens} SCOP: j.96.1.1
+Probab=3.04  E-value=1.2e+03  Score=19.34  Aligned_cols=11  Identities=36%  Similarity=0.600  Sum_probs=8.1  Template_Neff=2.000
+
+Q CBN82200.1      269 ARLFIGQTEGS  279 (426)
+Q Consensus       269 ~RlflGQnqG~  279 (426)
+                      -.+++||||--
+T Consensus        37 PELwLgqnEfd   47 (52)
+T 1P4Q_A           37 PELWLGQNEFD   47 (52)
+T ss_dssp             CCCCSCCSTTG
+T ss_pred             cHHhccccccc
+Confidence            34799999953
+
+
+No 7
+>6CFZ_H Ask1, Dad3, Dad2, Duo1, Dad4; DASH, Dam1 complex, Ask1, Dad1;{Chaetomium thermophilum}
+Probab=2.94  E-value=1.2e+03  Score=19.28  Aligned_cols=13  Identities=23%  Similarity=0.398  Sum_probs=9.1  Template_Neff=4.900
+
+Q CBN82200.1      387 PIVNDFSYFLFFK  399 (426)
+Q Consensus       387 pi~~~Ft~FLy~K  399 (426)
+                      .+|.+|+-|||+-
+T Consensus        34 ~FNesFasfLygl   46 (56)
+T 6CFZ_H           34 RFSESFASFLYGL   46 (56)
+T ss_dssp             HHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHH
+Confidence            4677777777764
+
+
+No 8
+>4JCH_A Protein KES1; oxysterol, sterol binding protein, lipid; HET: 1KG; 1.7A {Saccharomyces cerevisiae}
+Probab=2.87  E-value=1.3e+03  Score=26.37  Aligned_cols=23  Identities=22%  Similarity=0.245  Sum_probs=18.8  Template_Neff=7.300
+
+Q CBN82200.1      135 FLMVLHGDFDGAALAKAQILKNE  157 (426)
+Q Consensus       135 ll~aL~GD~~~Aalar~~Iq~n~  157 (426)
+                      .-.+-+||.++|...|.++++.|
+T Consensus       323 ~~aL~~Gd~~~A~~eK~~LEe~Q  345 (436)
+T 4JCH_A          323 AGAIKLGDFNLIAKTKTELEETQ  345 (436)
+T ss_dssp             HHHHHHTCHHHHHHHHHHHHHHH
+T ss_pred             HHHHHhCChHHHHHHHHHHHHHH
+Confidence            45677899999999999987655
+
+
+No 9
+>1ZHX_A KES1 protein; oxysterol, sterol binding protein, LIPID; HET: HC3; 1.5A {Saccharomyces cerevisiae} SCOP: d.338.1.1
+Probab=2.84  E-value=1.3e+03  Score=26.35  Aligned_cols=24  Identities=21%  Similarity=0.207  Sum_probs=18.9  Template_Neff=7.300
+
+Q CBN82200.1      135 FLMVLHGDFDGAALAKAQILKNEV  158 (426)
+Q Consensus       135 ll~aL~GD~~~Aalar~~Iq~n~~  158 (426)
+                      .-.+-+||.++|...|.++++.|.
+T Consensus       325 ~~aL~~Gd~~~A~~eK~~LEe~QR  348 (438)
+T 1ZHX_A          325 AGAIKLGDFNLIAKTKTELEETQR  348 (438)
+T ss_dssp             HHHHHHTCHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHhCCHHHHHHHHHHHHHHHH
+Confidence            345678999999999999876553
+
+
+No 10
+>3LAZ_A D-galactarate dehydratase (E.C.4.2.1.42); structural genomics, PSI-2, protein structure; 1.921A {Escherichia coli}
+Probab=2.56  E-value=1.5e+03  Score=20.99  Aligned_cols=42  Identities=17%  Similarity=0.244  Sum_probs=31.0  Template_Neff=5.200
+
+Q CBN82200.1      294 AYGMPLAGLFGISSVDPAAEIITIFFP--------TAGDAWINSNSYFQAH  336 (426)
+Q Consensus       294 ~~g~pf~~lfgi~~~~p~~~Ii~~~fp--------~~g~~~VNsNSyflge  336 (426)
+                      ..++|..+-+-++...++++|+.|=.+        .+| +||++...-.++
+T Consensus        49 ~~~Ip~GHKiAl~~I~~Ge~VikYG~~IG~A~~dI~~G-~~Vh~~Nl~~~~   98 (99)
+T 3LAZ_A           49 IEHIPQGHKVALLDIPANGEIIRYGEVIGYAVRAIPRG-SWIDESMVVLPE   98 (99)
+T ss_dssp             SSCBCTTCEEESSCBCTTCEEEETTEEEEEESSCBCTT-CBCCGGGEECCC
+T ss_pred             cccCCCCcEEEeeecCCCCEEEECCceeEEecCCcCCC-CeeehhhcCCCC
+Confidence            468999999999999999999997544        244 378765544433
+
+

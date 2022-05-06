@@ -1,0 +1,155 @@
+Query         BAQ01894.1 O-antigen polymerase [Escherichia coli]
+Match_columns 383
+No_of_seqs    81 out of 84
+Neff          6.10217
+Searched_HMMs 80799
+Date          Fri Feb  4 09:54:03 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp6zowkfoa/query.a3m -o /tmp/tmp6zowkfoa/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6BAR_A Rod shape determining p  29.4      46 0.00057   34.5   0.0   40  285-324   232-274 (359)
+  2 6PL5_A Peptidoglycan glycosylt  25.3      61 0.00076   34.1   0.0   40  285-324   250-292 (377)
+  3 5XXF_D Protection of telomeres  19.6      94  0.0012   21.7   0.0   15  301-315     7-21  (31)
+  4 5WE0_E Protection of telomeres  18.6   1E+02  0.0013   21.8   0.0   15  301-315     9-23  (33)
+  5 3FBL_A Putative uncharacterize  12.7 1.8E+02  0.0023   23.8   0.0   42  257-300    35-77  (82)
+  6 6AHU_D Ribonucleases P/MRP pro   7.1 4.1E+02   0.005   26.9   0.0   38  267-304   100-148 (220)
+  7 6HIV_BO ms48, ms51, ms56, ms59   5.0 6.4E+02   0.008   26.1   0.0   48  243-295    35-83  (262)
+  8 6HIX_BO ?; mitoribosome, trans   5.0 6.4E+02   0.008   26.1   0.0   48  243-295    35-83  (262)
+  9 5W7G_F ORF140, ORF132/DNA Comp   4.5 7.3E+02   0.009   22.6   0.0   34  267-300    93-127 (132)
+ 10 2KIQ_A Transcription elongatio   4.2   8E+02  0.0099   18.5   0.0   16  266-281    46-61  (62)
+
+No 1
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=29.42  E-value=46  Score=34.53  Aligned_cols=40  Identities=23%  Similarity=0.326  Sum_probs=19.4  Template_Neff=9.300
+
+Q BAQ01894.1      285 LLLGTNFLFSPLI-TSFDGNPHNSF--IMFQARFGIFAVLFLL  324 (383)
+Q Consensus       285 ~l~G~d~~~~~~i-~~f~gNPHNSF--I~~Hs~fGi~~ilf~~  324 (383)
+                      -++|....+.+.. ..+-.++||.|  ...=..+|+.+.+..+
+T Consensus       232 ~~~G~G~g~~~~~~~~~~~~~h~d~i~~~i~~e~G~ig~~~~l  274 (359)
+T 6BAR_A          232 GLFGKGYGQGTQAQLGFIPFRHTDFVFSVWAEEWGFVGVVGLL  274 (359)
+T ss_dssp             CCSCC---------------CCTTTTHHHHHHHSHHHHHHHHH
+T ss_pred             CcccccCCcccccccccCccccCccHHHHHHHHcchHHHHHHH
+Confidence            4577766543221 23456899998  7788889987765443
+
+
+No 2
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=25.28  E-value=61  Score=34.12  Aligned_cols=40  Identities=23%  Similarity=0.326  Sum_probs=18.9  Template_Neff=8.900
+
+Q BAQ01894.1      285 LLLGTNFLFSPLI-TSFDGNPHNSF--IMFQARFGIFAVLFLL  324 (383)
+Q Consensus       285 ~l~G~d~~~~~~i-~~f~gNPHNSF--I~~Hs~fGi~~ilf~~  324 (383)
+                      -++|....+.+.. ..+-.++||.|  ...=..+|+.+.+.++
+T Consensus       250 ~~~G~G~g~~~~~~~~~~p~~h~d~i~~~i~~e~G~ig~~~~l  292 (377)
+T 6PL5_A          250 GLFGKGYGQGTQAQLGFIPFRHTDFVFSVWAEEWGFVGVVGLL  292 (377)
+T ss_dssp             C----------------CCSCSSTTHHHHHHHHHHHHHHHHHH
+T ss_pred             CCcCcCCCCcccchhhcCcCCCCCcHHHHHHHHccHHHHHHHH
+Confidence            3577766543221 23456899999  7788899997765443
+
+
+No 3
+>5XXF_D Protection of telomeres protein poz1; telomere, sheterin, hub, DNA BINDING; 3.1A {Schizosaccharomyces pombe (strain 972 / ATCC 24843)}
+Probab=19.65  E-value=94  Score=21.67  Aligned_cols=15  Identities=33%  Similarity=0.554  Sum_probs=11.8  Template_Neff=2.200
+
+Q BAQ01894.1      301 DGNPHNSFIMFQARF  315 (383)
+Q Consensus       301 ~gNPHNSFI~~Hs~f  315 (383)
+                      -+-|||||..+|..+
+T Consensus         7 ~~~~egaF~~l~kdW   21 (31)
+T 5XXF_D            7 LGLPHGSFFELLRDW   21 (31)
+T ss_pred             cCCCCchHHHHHHHH
+Confidence            367999999988653
+
+
+No 4
+>5WE0_E Protection of telomeres protein poz1; Telomere, Shelterin, Cooperativity, GENE REGULATION; 2.3A {Schizosaccharomyces pombe (strain 972 / ATCC 24843)}
+Probab=18.56  E-value=1e+02  Score=21.75  Aligned_cols=15  Identities=33%  Similarity=0.554  Sum_probs=12.0  Template_Neff=2.100
+
+Q BAQ01894.1      301 DGNPHNSFIMFQARF  315 (383)
+Q Consensus       301 ~gNPHNSFI~~Hs~f  315 (383)
+                      -+-|||||..+|..+
+T Consensus         9 ~~~~egaF~~l~kdW   23 (33)
+T 5WE0_E            9 LGLPHGSFFELLRDW   23 (33)
+T ss_dssp             TTCCCSHHHHHHHHH
+T ss_pred             hCCCCchHHHHHHHH
+Confidence            468999999988653
+
+
+No 5
+>3FBL_A Putative uncharacterized protein; AFV1, archaeal virus, extremophiles, lipothrixviridae; 1.95A {Acidianus filamentous virus 1}
+Probab=12.70  E-value=1.8e+02  Score=23.79  Aligned_cols=42  Identities=21%  Similarity=0.219  Sum_probs=26.7  Template_Neff=1.000
+
+Q BAQ01894.1      257 SHTNLQSGFDTPRIQMWYDYIVN-FDYKILLLGTNFLFSPLITSF  300 (383)
+Q Consensus       257 ~~tn~~~GleS~R~~i~~~Yl~~-id~~~~l~G~d~~~~~~i~~f  300 (383)
+                      ++.+..+|  |..++|+.||+++ ++..+-=.|..-+..+-|+.|
+T Consensus        35 sylkmkag--sassdmiaeyinnaisafssrtgisqetaqkiadf   77 (82)
+T 3FBL_A           35 SYLKMKAG--SASSDMIAEYINNAISAFSSRTGISQETAQKIADF   77 (82)
+T ss_dssp             HHHHHHHT--TCCHHHHHHHHHHHHHHHHTSTTCCHHHHHHHHHH
+T ss_pred             HHhhhhcC--CCCHHHHHHHHHHHHHHHhccCCCCHHHHHHHHHH
+Confidence            44455666  7778999999987 555444456555544445544
+
+
+No 6
+>6AHU_D Ribonucleases P/MRP protein subunit POP1; Ribonuclease P, RNA-protein complex, HYDROLASE-RNA; 3.66A {Homo sapiens}
+Probab=7.09  E-value=4.1e+02  Score=26.86  Aligned_cols=38  Identities=18%  Similarity=0.346  Sum_probs=23.9  Template_Neff=6.000
+
+Q BAQ01894.1      267 TPRIQMWYDYIVNF-D----------YKILLLGTNFLFSPLITSFDGNP  304 (383)
+Q Consensus       267 S~R~~i~~~Yl~~i-d----------~~~~l~G~d~~~~~~i~~f~gNP  304 (383)
+                      .|=.++|.+|++++ +          ...-+...|+.++..-..-..||
+T Consensus       100 ~pLh~LW~~Yi~~ll~~~~~~~~~~~~~~~l~kaDl~Ga~v~V~~s~~p  148 (220)
+T 6AHU_D          100 LPLHELWKQYIRDLCSGLKPDTQPQMIQAKLLKADLHGAIISVTKSKCP  148 (220)
+T ss_dssp             HHHHHHHHHHHHTTTCCCSSCCCHHHHHHHTTSSCCTTCEEEEEEESSS
+T ss_pred             HHHHHHHHHHHHHHhcCCCCCCChHHHHHHHHhhhhcCCEEEEEECCCc
+Confidence            35678999999885 2          12346666666665544445566
+
+
+No 7
+>6HIV_BO ms48, ms51, ms56, ms59, ms60; mitoribosome, translation, Trypanosoma, large ribosomal; HET: GTP, ZN, UTP, SPD, NAD, SPM, MG; 7.8A {Trypanosoma brucei brucei}
+Probab=4.97  E-value=6.4e+02  Score=26.13  Aligned_cols=48  Identities=17%  Similarity=0.300  Sum_probs=32.3  Template_Neff=2.500
+
+Q BAQ01894.1      243 LYTGFTDNMVSAILSHTNL-QSGFDTPRIQMWYDYIVNFDYKILLLGTNFLFSP  295 (383)
+Q Consensus       243 ~~~~~~~~~~~~l~~~tn~-~~GleS~R~~i~~~Yl~~id~~~~l~G~d~~~~~  295 (383)
+                      .++.+.++++-.=.+.+.| ++|.-|.|..+++||-=+     =+||...-+|.
+T Consensus        35 YyWPynedfVP~gAtTS~FQSS~~PsvReRIlrEYALs-----PLFGaRtPCC~   83 (262)
+T 6HIV_BO          35 YYWPYNEDFVPEGAETSRFQSSGSPGTRRRVLQEYALS-----PLFGARVPCCV   83 (262)
+T ss_pred             eeCCCCcccCCCCCCcCccccCCCchHHHHHHHHHhch-----hhcCCCCCcch
+Confidence            4566777766544444445 577899999999999422     35777776654
+
+
+No 8
+>6HIX_BO ?; mitoribosome, translation, Trypanosoma, large ribosomal; HET: NAD; 3.39A {Trypanosoma equiperdum}
+Probab=4.97  E-value=6.4e+02  Score=26.13  Aligned_cols=48  Identities=17%  Similarity=0.300  Sum_probs=32.3  Template_Neff=2.500
+
+Q BAQ01894.1      243 LYTGFTDNMVSAILSHTNL-QSGFDTPRIQMWYDYIVNFDYKILLLGTNFLFSP  295 (383)
+Q Consensus       243 ~~~~~~~~~~~~l~~~tn~-~~GleS~R~~i~~~Yl~~id~~~~l~G~d~~~~~  295 (383)
+                      .++.+.++++-.=.+.+.| ++|.-|.|..+++||-=+     =+||...-+|.
+T Consensus        35 YyWPynedfVP~gAtTS~FQSS~~PsvReRIlrEYALs-----PLFGaRtPCC~   83 (262)
+T 6HIX_BO          35 YYWPYNEDFVPEGAETSRFQSSGSPGTRRRVLQEYALS-----PLFGARVPCCV   83 (262)
+T ss_pred             eeCCCCcccCCCCCCcCccccCCCchHHHHHHHHHhch-----hhcCCCCCcch
+Confidence            4566777766544444445 577899999999999422     35777776654
+
+
+No 9
+>5W7G_F ORF140, ORF132/DNA Complex; AFV1, hyperthermophile, filamentous virus, A-form; 4.5A {Acidianus filamentous virus 1}
+Probab=4.51  E-value=7.3e+02  Score=22.62  Aligned_cols=34  Identities=21%  Similarity=0.158  Sum_probs=21.9  Template_Neff=1.400
+
+Q BAQ01894.1      267 TPRIQMWYDYIVN-FDYKILLLGTNFLFSPLITSF  300 (383)
+Q Consensus       267 S~R~~i~~~Yl~~-id~~~~l~G~d~~~~~~i~~f  300 (383)
+                      ||-..|+.||+++ ++..+-=.|..-+..+-|+.|
+T Consensus        93 S~~~~miaeyinnaisafssrtgisqetaqkiadf  127 (132)
+T 5W7G_F           93 SASSDMIAEYINNAISAFSSRTGISQETAQKIADF  127 (132)
+T ss_dssp             CCHHHHHHHHHHHHHHSCCCCCSSCHHHHHHHHHH
+T ss_pred             CCCHHHHHHHHHHHHHHHhhccCCCHHHHHHHHHH
+Confidence            7888999999987 454444456555444444444
+
+
+No 10
+>2KIQ_A Transcription elongation regulator 1; Human transcription elongation factor CA150; NMR {Homo sapiens}
+Probab=4.16  E-value=8e+02  Score=18.47  Aligned_cols=16  Identities=6%  Similarity=0.237  Sum_probs=0.0  Template_Neff=8.700
+
+Q BAQ01894.1      266 DTPRIQMWYDYIVNFD  281 (383)
+Q Consensus       266 eS~R~~i~~~Yl~~id  281 (383)
+                      +++|.++++||+.++.
+T Consensus        46 ~~eR~~lF~~~~~~l~   61 (62)
+T 2KIQ_A           46 MKDREALFNEFVAAAR   61 (62)
+T ss_pred             HHHHHHHHHHHHHHhh
+
+

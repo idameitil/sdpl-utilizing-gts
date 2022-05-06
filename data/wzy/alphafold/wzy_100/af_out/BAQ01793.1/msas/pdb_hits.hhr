@@ -1,0 +1,159 @@
+Query         BAQ01793.1 O-antigen polymerase [Escherichia coli]
+Match_columns 401
+No_of_seqs    40 out of 42
+Neff          5.02624
+Searched_HMMs 80799
+Date          Fri Feb  4 08:03:43 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp4csoqwmf/query.a3m -o /tmp/tmp4csoqwmf/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6BAR_A Rod shape determining p  15.1 1.4E+02  0.0017   31.3   0.0   64  277-342   215-280 (359)
+  2 6PL5_A Peptidoglycan glycosylt   9.3 2.8E+02  0.0035   29.6   0.0   61  278-340   234-296 (377)
+  3 3M1F_V Actin, alpha skeletal m   8.6 3.1E+02  0.0039   19.9   0.0   13  276-288     3-15  (31)
+  4 1T6U_F Superoxide dismutase [N   7.2   4E+02  0.0049   25.1   0.0    9  177-185     5-13  (117)
+  5 4BWS_B THIOREDOXIN-LIKE PROTEI   6.7 4.4E+02  0.0054   20.1   0.0   11  360-370     9-19  (37)
+  6 4BWS_E THIOREDOXIN-LIKE PROTEI   6.7 4.4E+02  0.0054   20.1   0.0   11  360-370     9-19  (37)
+  7 1Q0F_C Superoxide dismutase [N   6.6 4.5E+02  0.0055   24.7   0.0    9  177-185     5-13  (117)
+  8 6BEH_B Scaffold protein D13; p   6.6 4.5E+02  0.0056   31.0   0.0   34  270-304   405-439 (553)
+  9 3SAM_C Rifampicin resistance p   6.6 4.5E+02  0.0056   31.1   0.0   34  270-304   428-462 (576)
+ 10 6BEB_A Scaffold protein D13; p   6.6 4.5E+02  0.0056   31.1   0.0   34  270-304   428-462 (576)
+
+No 1
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=15.15  E-value=1.4e+02  Score=31.25  Aligned_cols=64  Identities=5%  Similarity=-0.075  Sum_probs=20.9  Template_Neff=9.300
+
+Q BAQ01793.1      277 DNRSMQISNYLNVVNENMFLLGDYKCHDNINQRCESHGDISSS--IVTPIYKGGILQLLLQIITHAII  342 (401)
+Q Consensus       277 dNRS~~i~n~~~~v~~~~~l~G~~~c~~~~~~~~~~~g~ig~n--pltpl~~~Gil~~~~y~~~~~ll  342 (401)
+                      ++|..|..++.+.++++.+ +|......... ..+..++...+  +.......|+++...+...+..+
+T Consensus       215 ~~~~~~~~~~~~~i~~~~~-~G~G~g~~~~~-~~~~~~~~h~d~i~~~i~~e~G~ig~~~~l~l~~~l  280 (359)
+T 6BAR_A          215 LGQGFQVIQSTIAIGSGGL-FGKGYGQGTQA-QLGFIPFRHTDFVFSVWAEEWGFVGVVGLLGLYGLL  280 (359)
+T ss_dssp             -------------CTTTCC-SCC----------------CCTTTTHHHHHHHSHHHHHHHHHHHHHHH
+T ss_pred             CCCCHHHHHHHHHHHhcCc-ccccCCccccc-ccccCccccCccHHHHHHHHcchHHHHHHHHHHHHH
+Confidence            3578888999999998875 55321111000 00111121122  25556788888876554444333
+
+
+No 2
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=9.31  E-value=2.8e+02  Score=29.56  Aligned_cols=61  Identities=5%  Similarity=-0.088  Sum_probs=28.8  Template_Neff=8.900
+
+Q BAQ01793.1      278 NRSMQISNYLNVVNENMFLLGDYKCHDNINQRCESHGDISSSI--VTPIYKGGILQLLLQIITHA  340 (401)
+Q Consensus       278 NRS~~i~n~~~~v~~~~~l~G~~~c~~~~~~~~~~~g~ig~np--ltpl~~~Gil~~~~y~~~~~  340 (401)
+                      .|..|..++.+.++++.+ +|......... ..+..++...+.  .......|+++.......+.
+T Consensus       234 ~~g~~~~~~~~~i~~~~~-~G~G~g~~~~~-~~~~~p~~h~d~i~~~i~~e~G~ig~~~~l~l~~  296 (377)
+T 6PL5_A          234 GQGFQVIQSTIAIGSGGL-FGKGYGQGTQA-QLGFIPFRHTDFVFSVWAEEWGFVGVVGLLGLYG  296 (377)
+T ss_dssp             HHHHHHHHHHHTTCCCC------------------CCSCSSTTHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             CCcHHHHHHHHHHHhcCC-cCcCCCCcccc-hhhcCcCCCCCcHHHHHHHHccHHHHHHHHHHHH
+Confidence            578888999999998875 45321111000 000111111112  44557888888765544443
+
+
+No 3
+>3M1F_V Actin, alpha skeletal muscle, Putative; ACTIN, ACTIN-BINDING PROTEIN, CROSSLINKING, NUCLEATOR; HET: ATP; 2.89A {Oryctolagus cuniculus}
+Probab=8.65  E-value=3.1e+02  Score=19.91  Aligned_cols=13  Identities=8%  Similarity=0.164  Sum_probs=9.8  Template_Neff=1.500
+
+Q BAQ01793.1      276 GDNRSMQISNYLN  288 (401)
+Q Consensus       276 GdNRS~~i~n~~~  288 (401)
+                      .||||.+|+..-+
+T Consensus         3 ~d~rSKLMEqIRq   15 (31)
+T 3M1F_V            3 NEDHSKLMEQIRQ   15 (31)
+T ss_pred             chHHHHHHHHHHH
+Confidence            5899999976543
+
+
+No 4
+>1T6U_F Superoxide dismutase [Ni] (E.C.1.15.1.1); Nickel, 4-helix bundle, hexamer, superoxide; HET: NI; 1.3A {Streptomyces coelicolor} SCOP: a.24.22.1
+Probab=7.24  E-value=4e+02  Score=25.09  Aligned_cols=9  Identities=33%  Similarity=0.626  Sum_probs=6.9  Template_Neff=4.700
+
+Q BAQ01793.1      177 PSFIYDEPG  185 (401)
+Q Consensus       177 pSGifDEPG  185 (401)
+                      |.||||-|.
+T Consensus         5 PCGIYDp~~   13 (117)
+T 1T6U_F            5 PCGVYDPAQ   13 (117)
+T ss_dssp             CCCCCCTHH
+T ss_pred             CCCCCChHH
+Confidence            788999653
+
+
+No 5
+>4BWS_B THIOREDOXIN-LIKE PROTEIN 4A, POLYGLUTAMINE-BINDING PROTEIN; TRANSCRIPTION, NEURODEGENERATIVE DISORDERS; 2.5A {HOMO SAPIENS}
+Probab=6.72  E-value=4.4e+02  Score=20.10  Aligned_cols=11  Identities=36%  Similarity=0.531  Sum_probs=7.3  Template_Neff=2.000
+
+Q BAQ01793.1      360 TILLLQRPFFD  370 (401)
+Q Consensus       360 ~LllLQRPy~~  370 (401)
+                      +-|+=||||=.
+T Consensus         9 GpLfQqRPYPs   19 (37)
+T 4BWS_B            9 GPLFQQRPYPS   19 (37)
+T ss_dssp             -CTTCCCCCCC
+T ss_pred             CcccccCCCCC
+Confidence            45778999843
+
+
+No 6
+>4BWS_E THIOREDOXIN-LIKE PROTEIN 4A, POLYGLUTAMINE-BINDING PROTEIN; TRANSCRIPTION, NEURODEGENERATIVE DISORDERS; 2.5A {HOMO SAPIENS}
+Probab=6.72  E-value=4.4e+02  Score=20.10  Aligned_cols=11  Identities=36%  Similarity=0.531  Sum_probs=7.3  Template_Neff=2.000
+
+Q BAQ01793.1      360 TILLLQRPFFD  370 (401)
+Q Consensus       360 ~LllLQRPy~~  370 (401)
+                      +-|+=||||=.
+T Consensus         9 GpLfQqRPYPs   19 (37)
+T 4BWS_E            9 GPLFQQRPYPS   19 (37)
+T ss_dssp             -CCSCCCCCCC
+T ss_pred             CcccccCCCCC
+Confidence            45778999843
+
+
+No 7
+>1Q0F_C Superoxide dismutase [Ni] (E.C.1.15.1.1); HOMOHEXAMER OF FOUR-HELIX BUNDLES, OXIDOREDUCTASE; HET: SO4, 3NI; 2.2A {Streptomyces seoulensis} SCOP: a.24.22.1
+Probab=6.61  E-value=4.5e+02  Score=24.75  Aligned_cols=9  Identities=33%  Similarity=0.626  Sum_probs=6.6  Template_Neff=4.800
+
+Q BAQ01793.1      177 PSFIYDEPG  185 (401)
+Q Consensus       177 pSGifDEPG  185 (401)
+                      |.||||-|.
+T Consensus         5 PCGIYDp~~   13 (117)
+T 1Q0F_C            5 PCGVYDPAQ   13 (117)
+T ss_dssp             CCCCCCTHH
+T ss_pred             CCCCCChHH
+Confidence            788888644
+
+
+No 8
+>6BEH_B Scaffold protein D13; poxvirus, scaffolding protein, Rifampicin resistance; HET: RPT, EDO, FMT; 3.0A {Vaccinia virus (strain Western Reserve)}
+Probab=6.56  E-value=4.5e+02  Score=30.98  Aligned_cols=34  Identities=26%  Similarity=0.544  Sum_probs=23.3  Template_Neff=4.900
+
+Q BAQ01793.1      270 ENGTFSGDNRSMQISNYLNVVNENMFLLG-DYKCHD  304 (401)
+Q Consensus       270 ~~G~~~GdNRS~~i~n~~~~v~~~~~l~G-~~~c~~  304 (401)
+                      +..+-.|||||...++ -+..-+++++.| |-.|.+
+T Consensus       405 ~~n~~~gd~rs~~~k~-~d~~v~dpf~~g~df~~k~  439 (553)
+T 6BEH_B          405 QRNVYNGDNRSAESKA-KDLFINDPFIKGIDFKNKT  439 (553)
+T ss_dssp             TTCSSCCBCSCHHHHH-TCEECCCTTCCSSSTTCCC
+T ss_pred             cCCCCCCCCCCHHHHh-cceEecChhhcceecCCCC
+Confidence            4456789999998876 344445677788 655543
+
+
+No 9
+>3SAM_C Rifampicin resistance protein; Double-barrel, jelly-roll, Scaffolding protein, structural; HET: FMT; 2.55A {Vaccinia virus}
+Probab=6.55  E-value=4.5e+02  Score=31.14  Aligned_cols=34  Identities=26%  Similarity=0.544  Sum_probs=23.3  Template_Neff=4.800
+
+Q BAQ01793.1      270 ENGTFSGDNRSMQISNYLNVVNENMFLLG-DYKCHD  304 (401)
+Q Consensus       270 ~~G~~~GdNRS~~i~n~~~~v~~~~~l~G-~~~c~~  304 (401)
+                      +..+-.|||||...++ -+..-+++++.| |-.|.+
+T Consensus       428 ~~n~~~gd~rs~~sk~-~d~~v~dpf~~g~df~~k~  462 (576)
+T 3SAM_C          428 QRNVYNGDNRSAESKA-KDLFINDPFIKGIDFKNKT  462 (576)
+T ss_dssp             TTCSSCCBCCCHHHHH-TCEECCCTTCCTTSTTCCS
+T ss_pred             cCCCCCCCCCCHHHHh-cceEecChhhcceecCCCC
+Confidence            4456789999998876 344445677788 655543
+
+
+No 10
+>6BEB_A Scaffold protein D13; poxvirus, assembly, scaffolding protein, Rifampicin; HET: RFV, EDO, FMT; 2.55A {Vaccinia virus WR}
+Probab=6.55  E-value=4.5e+02  Score=31.14  Aligned_cols=34  Identities=26%  Similarity=0.544  Sum_probs=23.3  Template_Neff=4.800
+
+Q BAQ01793.1      270 ENGTFSGDNRSMQISNYLNVVNENMFLLG-DYKCHD  304 (401)
+Q Consensus       270 ~~G~~~GdNRS~~i~n~~~~v~~~~~l~G-~~~c~~  304 (401)
+                      +..+-.|||||...++ -+..-+++++.| |-.|.+
+T Consensus       428 ~~n~~~gd~rs~~sk~-~d~~v~dpf~~g~df~~k~  462 (576)
+T 6BEB_A          428 QRNVYNGDNRSAESKA-KDLFINDPFIKGIDFKNKT  462 (576)
+T ss_dssp             TTCSSCCBCCCHHHHH-TCEEECCTTCCTTSTTCCS
+T ss_pred             cCCCCCCCCCCHHHHh-cceEecChhhcceecCCCC
+Confidence            4456789999998876 344445677788 655543
+
+

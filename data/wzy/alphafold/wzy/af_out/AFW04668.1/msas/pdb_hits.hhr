@@ -1,0 +1,178 @@
+Query         AFW04668.1 O-antigen polymerase [Salmonella enterica]
+Match_columns 397
+No_of_seqs    10 out of 13
+Neff          2.84447
+Searched_HMMs 80799
+Date          Wed Apr 27 15:45:14 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp4tn0fl5l/query.a3m -o /tmp/tmp4tn0fl5l/output.hhr -maxseq 1000000 -d /mnt/disks/data/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 2LX0_A Membrane fusion protein  31.3      41 0.00051   25.4   0.0   15  373-387    15-29  (32)
+  2 6QDV_Z Eukaryotic initiation f   8.5 3.2E+02   0.004   20.7   0.0    8  198-205    23-30  (30)
+  3 5AWZ_A Rhodopsin I; PROTON TRA   7.1 4.1E+02   0.005   26.4   0.0   82  201-284    17-101 (244)
+  4 5AX0_A Rhodopsin I; PROTON TRA   7.1 4.1E+02   0.005   26.4   0.0   82  201-284    17-101 (244)
+  5 2NDJ_A Potassium voltage-gated   6.3 4.7E+02  0.0058   25.0   0.0   23  302-324    63-85  (112)
+  6 5AOX_E SIGNAL RECOGNITION PART   5.8 5.3E+02  0.0066   22.8   0.0   22  148-169    57-78  (94)
+  7 4UE5_B SRP14, SIGNAL RECOGNITI   5.0 6.4E+02  0.0079   21.9   0.0   22  148-169    38-59  (75)
+  8 3FWB_B Cell division control p   4.8 6.7E+02  0.0083   20.6   0.0   34  357-390    10-46  (55)
+  9 4UYK_B SIGNAL RECOGNITION PART   4.6 7.1E+02  0.0088   22.7   0.0   21  148-168    58-78  (107)
+ 10 5AOX_B SIGNAL RECOGNITION PART   4.4 7.4E+02  0.0092   22.0   0.0   21  148-168    57-77  (94)
+
+No 1
+>2LX0_A Membrane fusion protein p14; Membrane fusion protein transmembrane domain; NMR {N/A}
+Probab=31.30  E-value=41  Score=25.37  Aligned_cols=15  Identities=33%  Similarity=0.910  Sum_probs=13.3  Template_Neff=1.500
+
+Q AFW04668.1      373 QLFFISCGYYVYKYN  387 (397)
+Q Consensus       373 QlFFIS~G~~v~k~~  387 (397)
+                      -+||++.|+++|||.
+T Consensus        15 LL~~iA~GF~L~~Y~   29 (32)
+T 2LX0_A           15 LLTFLAFGFWLFKYL   29 (32)
+T ss_dssp             HHHHHHHHHHCCCCC
+T ss_pred             HHHHHHHHHHHHHHH
+Confidence            479999999999985
+
+
+No 2
+>6QDV_Z Eukaryotic initiation factor 4A-III, RNA-binding; spliceosome, RNA, complex, SPLICING; HET: GTP, I6P, ATP, SEP; 3.3A {Homo sapiens}
+Probab=8.47  E-value=3.2e+02  Score=20.72  Aligned_cols=8  Identities=50%  Similarity=0.679  Sum_probs=5.3  Template_Neff=3.000
+
+Q AFW04668.1      198 TLISSGSR  205 (397)
+Q Consensus       198 ~li~SGSR  205 (397)
+                      +-+|||||
+T Consensus        23 GyvMSgsr   30 (30)
+T 6QDV_Z           23 GYVMSGSR   30 (30)
+T ss_pred             ccccccCC
+Confidence            45677776
+
+
+No 3
+>5AWZ_A Rhodopsin I; PROTON TRANSPORT, MEMBRANE PROTEIN, RETINAL; HET: D12, OLB, RET, C14, D10, OCT; 1.57A {Acetabularia acetabulum}
+Probab=7.10  E-value=4.1e+02  Score=26.42  Aligned_cols=82  Identities=16%  Similarity=0.267  Sum_probs=36.1  Template_Neff=8.000
+
+Q AFW04668.1      201 SSGSRTAWLSLALTL---LLTVLLNDKASIRLRKKILAIAGIGAICGVLYVAFYMSSISGIQSQHRGLDTYTASIRVENF  277 (397)
+Q Consensus       201 ~SGSRTAwlSL~i~l---ll~~ll~~~a~i~ir~~il~va~i~~~~gv~~~~fy~~~i~~i~~q~Rgld~yTA~IR~enf  277 (397)
+                      ..||.+.|+..++-.   ++......+.+.+.|..-...+.+..+.++.|..  |....|........++.+-.+=..+|
+T Consensus        17 ~~g~~~lw~~~~~~~~~~~~~~~~~~~~~~~~r~~~~l~~~i~~ia~v~Y~~--ma~~~g~~~~~~~~~~~~r~v~~~RY   94 (244)
+T 5AWZ_A           17 TLGTDAQWVVFAVMALAAIVFSIAVQFRPLPLRLTYYVNIAICTIAATAYYA--MAVNGGDNKPTAGTGADERQVIYARY   94 (244)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHGGGSCHHHHHHHHHHHHHHHHHHHHHHH--HHHHGGGCCCEESCGGGCEECCCHHH
+T ss_pred             hHHHHHHHHHHHHHHHHHHHHHHHHccCCCChhHHHHHHHHHHHHHHHHHHH--HHhcCCCCCCCCCCCCCceeehHHHH
+Confidence            457777777664443   2222333343333333222233333445555542  22222221221112345555666677
+
+
+Q AFW04668.1      278 ITYMNSI  284 (397)
+Q Consensus       278 ~~Yl~~i  284 (397)
+                      .+++-..
+T Consensus        95 v~W~iTt  101 (244)
+T 5AWZ_A           95 IDWVFTT  101 (244)
+T ss_dssp             HHHHHHH
+T ss_pred             HHHHHHH
+Confidence            7776443
+
+
+No 4
+>5AX0_A Rhodopsin I; PROTON TRANSPORT, MEMBRANE PROTEIN, RETINAL; HET: D12, OLB, RET, C14, D10, R16; 1.521A {Acetabularia acetabulum}
+Probab=7.10  E-value=4.1e+02  Score=26.42  Aligned_cols=82  Identities=16%  Similarity=0.267  Sum_probs=36.1  Template_Neff=8.000
+
+Q AFW04668.1      201 SSGSRTAWLSLALTL---LLTVLLNDKASIRLRKKILAIAGIGAICGVLYVAFYMSSISGIQSQHRGLDTYTASIRVENF  277 (397)
+Q Consensus       201 ~SGSRTAwlSL~i~l---ll~~ll~~~a~i~ir~~il~va~i~~~~gv~~~~fy~~~i~~i~~q~Rgld~yTA~IR~enf  277 (397)
+                      ..||.+.|+..++-.   ++......+.+.+.|..-...+.+..+.++.|..  |....|........++.+-.+=..+|
+T Consensus        17 ~~g~~~lw~~~~~~~~~~~~~~~~~~~~~~~~r~~~~l~~~i~~ia~v~Y~~--ma~~~g~~~~~~~~~~~~r~v~~~RY   94 (244)
+T 5AX0_A           17 TLGTDAQWVVFAVMALAAIVFSIAVQFRPLPLRLTYYVNIAICTIAATAYYA--MAVNGGDNKPTAGTGADERQVIYARY   94 (244)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHTTSCHHHHHHHHHHHHHHHHHHHHHHH--HHHHGGGCCCEESCGGGCEECCCHHH
+T ss_pred             hHHHHHHHHHHHHHHHHHHHHHHHHccCCCChhHHHHHHHHHHHHHHHHHHH--HHhcCCCCCCCCCCCCCceeehHHHH
+Confidence            457777777664443   2222333343333333222233333445555542  22222221221112345555666677
+
+
+Q AFW04668.1      278 ITYMNSI  284 (397)
+Q Consensus       278 ~~Yl~~i  284 (397)
+                      .+++-..
+T Consensus        95 v~W~iTt  101 (244)
+T 5AX0_A           95 IDWVFTT  101 (244)
+T ss_dssp             HHHHHHH
+T ss_pred             HHHHHHH
+Confidence            7776443
+
+
+No 5
+>2NDJ_A Potassium voltage-gated channel subfamily E; Estrogen, Membrane protein, Ion channel; NMR {Homo sapiens}
+Probab=6.32  E-value=4.7e+02  Score=25.05  Aligned_cols=23  Identities=22%  Similarity=0.245  Sum_probs=18.4  Template_Neff=3.100
+
+Q AFW04668.1      302 SDNFYLVLLNYFGIIGGYIVFFI  324 (397)
+Q Consensus       302 sds~Ylv~lNsfG~ig~~~l~~~  324 (397)
+                      .||+|++++=..|..+++.+.++
+T Consensus        63 ~dn~ylYIL~vm~ff~ff~~gim   85 (112)
+T 2NDJ_A           63 DDNSYMYILFVMFLFAVTVGSLI   85 (112)
+T ss_dssp             CHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             CchHHHHHHHHHHHHHHHHHHHH
+Confidence            79999999999998886655543
+
+
+No 6
+>5AOX_E SIGNAL RECOGNITION PARTICLE 9 KDA; TRANSLATION, RETROTRANSPOSITION, PROTEIN TARGETING, RNA; HET: GDP, SO4, ACT; 2.04A {HOMO SAPIENS}
+Probab=5.75  E-value=5.3e+02  Score=22.81  Aligned_cols=22  Identities=18%  Similarity=0.401  Sum_probs=18.3  Template_Neff=6.400
+
+Q AFW04668.1      148 WVSTGGVRSISSLLNPTNSGAY  169 (397)
+Q Consensus       148 W~aTGgiRSISTLlNPnNlGlY  169 (397)
+                      -|||.|-+.|||...|+++.-+
+T Consensus        57 iRAt~G~~KiST~V~~~~l~~F   78 (94)
+T 5AOX_E           57 LRATDGKKKISTVVSSKEVNKF   78 (94)
+T ss_dssp             EEEESSSSEEEEEEEHHHHHHH
+T ss_pred             EEEecCCceEEEEecHHHHHHH
+Confidence            4678888999999999998543
+
+
+No 7
+>4UE5_B SRP14, SIGNAL RECOGNITION PARTICLE SUBUNIT; TRANSLATION, STALLED RIBOSOME; 9.0A {CANIS LUPUS FAMILIARIS}
+Probab=4.98  E-value=6.4e+02  Score=21.87  Aligned_cols=22  Identities=18%  Similarity=0.401  Sum_probs=18.0  Template_Neff=5.600
+
+Q AFW04668.1      148 WVSTGGVRSISSLLNPTNSGAY  169 (397)
+Q Consensus       148 W~aTGgiRSISTLlNPnNlGlY  169 (397)
+                      -+||.|-+.|||...|++..-+
+T Consensus        38 iRAt~G~~KiST~V~~~~l~~F   59 (75)
+T 4UE5_B           38 LRATDGKKKISTVVSSKEVNKF   59 (75)
+T ss_dssp             EEEESSSSEEEEEEETTTHHHH
+T ss_pred             EEEecCCcEEEEecCHHHHHHH
+Confidence            4678888999999999987543
+
+
+No 8
+>3FWB_B Cell division control protein 31; gene gating, complex, Cell cycle; 2.5A {Saccharomyces cerevisiae}
+Probab=4.79  E-value=6.7e+02  Score=20.62  Aligned_cols=34  Identities=18%  Similarity=0.309  Sum_probs=26.6  Template_Neff=5.400
+
+Q AFW04668.1      357 LISGLSNSFINSFPVNQLFFISCGY---YVYKYNLIK  390 (397)
+Q Consensus       357 ~ISglses~inSFPnNQlFFIS~G~---~v~k~~~~~  390 (397)
+                      +|..+++...+.|=..|++++.+-.   ..|.+.+.|
+T Consensus        10 iI~sLs~eLy~AFi~E~iY~~~leskA~~~~~~~lkk   46 (55)
+T 3FWB_B           10 FIDTMTRELYDAFLHERLYLIYMDSRAELKRNSTLKK   46 (55)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            5788999999999999999999983   444444444
+
+
+No 9
+>4UYK_B SIGNAL RECOGNITION PARTICLE 9 KDA; SIGNALING PROTEIN, SIGNAL RECOGNITION PARTICLE; 3.22A {HOMO SAPIENS}
+Probab=4.58  E-value=7.1e+02  Score=22.73  Aligned_cols=21  Identities=19%  Similarity=0.340  Sum_probs=17.8  Template_Neff=6.100
+
+Q AFW04668.1      148 WVSTGGVRSISSLLNPTNSGA  168 (397)
+Q Consensus       148 W~aTGgiRSISTLlNPnNlGl  168 (397)
+                      -+||.|-+.|||+..|+++.-
+T Consensus        58 iRAt~G~kKiST~V~~~~l~~   78 (107)
+T 4UYK_B           58 LRATDGKKKISTVVSSKEVNK   78 (107)
+T ss_dssp             EEEESSSCEEEEEEEHHHHHH
+T ss_pred             EEEecCCceEEEecCHHHHHH
+Confidence            467888899999999998854
+
+
+No 10
+>5AOX_B SIGNAL RECOGNITION PARTICLE 9 KDA; TRANSLATION, RETROTRANSPOSITION, PROTEIN TARGETING, RNA; HET: GDP, SO4, ACT; 2.04A {HOMO SAPIENS}
+Probab=4.43  E-value=7.4e+02  Score=21.96  Aligned_cols=21  Identities=19%  Similarity=0.340  Sum_probs=17.5  Template_Neff=6.400
+
+Q AFW04668.1      148 WVSTGGVRSISSLLNPTNSGA  168 (397)
+Q Consensus       148 W~aTGgiRSISTLlNPnNlGl  168 (397)
+                      -|||.|-+.|||...|+++.-
+T Consensus        57 iRAt~G~~KiST~V~~~~l~~   77 (94)
+T 5AOX_B           57 LRATDGKKKISTVVSSKEVNK   77 (94)
+T ss_dssp             EEEESSSSEEEEEEETTTHHH
+T ss_pred             EEEecCCcEEEEeeCHHHHHH
+Confidence            467888899999999998753
+
+

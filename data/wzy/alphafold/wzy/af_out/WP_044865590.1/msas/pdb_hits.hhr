@@ -1,0 +1,155 @@
+Query         WP_044865590.1 MULTISPECIES: O45 family O-antigen polymerase [Escherichia] >EFN6762252.1 O45 family O-antigen flippase [Escherichia coli O45:H11] >AFC91458.1 wzy [Escherichia coli] >EEW2153151.1 O45 family O-antigen flippase [Escherichia coli] >EEW2238052.1 O45 family O-antigen flippase [Escherichia coli] >EEW2469750.1 O45 family O-antigen flippase [Escherichia coli]
+Match_columns 382
+No_of_seqs    112 out of 149
+Neff          6.75523
+Searched_HMMs 80799
+Date          Thu Apr 28 06:47:43 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpwgngyjz8/query.a3m -o /tmp/tmpwgngyjz8/output.hhr -maxseq 1000000 -d /mnt/disks/data/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 4HR6_A LECTIN; Type II RIP, Le  20.6      87  0.0011   21.9   0.0   14  106-119    25-38  (41)
+  2 6JLU_I PsbA, PsbB, PsbC, PsbD,  11.8   2E+02  0.0025   20.1   0.0   23  184-206     4-26  (34)
+  3 6KAC_i Photosystem II protein   11.7 2.1E+02  0.0026   20.4   0.0   23  184-206     4-26  (37)
+  4 4RVY_I Photosystem II protein   11.7 2.1E+02  0.0026   20.6   0.0   23  184-206     4-26  (38)
+  5 5B66_i Photosystem II protein   11.7 2.1E+02  0.0026   20.6   0.0   23  184-206     4-26  (38)
+  6 5V2C_I Photosystem II protein   11.7 2.1E+02  0.0026   20.6   0.0   23  184-206     4-26  (38)
+  7 6PL5_A Peptidoglycan glycosylt   3.8   9E+02   0.011   25.6   0.0   20  295-314   274-293 (377)
+  8 2LOT_A Apelin receptor; MEMBRA   3.7 9.3E+02   0.011   18.9   0.0   13  195-207    35-47  (64)
+  9 6IYC_E Nicastrin, Presenilin-1   3.7 9.4E+02   0.012   21.4   0.0   29  243-272    63-91  (104)
+ 10 6BAR_A Rod shape determining p   3.5 9.9E+02   0.012   24.9   0.0   20  295-314   256-275 (359)
+
+No 1
+>4HR6_A LECTIN; Type II RIP, Lectin, Beta-Trefoil; HET: AMG; 2.25A {Trichosanthes anguina}
+Probab=20.58  E-value=87  Score=21.87  Aligned_cols=14  Identities=36%  Similarity=0.797  Sum_probs=11.0  Template_Neff=1.000
+
+Q WP_044865590.1  106 GGYNYTEFGIPTYH  119 (382)
+Q Consensus       106 G~~~Y~dFGIPtlH  119 (382)
+                      |+..|.-+|||++.
+T Consensus        25 gsetyrlygipvlk   38 (41)
+T 4HR6_A           25 GSETYRLYGIPVLK   38 (41)
+T ss_dssp             EEEEEEETTEEEEC
+T ss_pred             CCceeeeccccccc
+Confidence            55778889999873
+
+
+No 2
+>6JLU_I PsbA, PsbB, PsbC, PsbD, PsbE; PSII-FCP supercomplex, PLANT PROTEIN; HET: KC2, LMG, HEM, DGD, SQD, DD6, BCR, CLA, OEX, PHO, KC1, PL9, LHG, A86; 3.02A {Chaetoceros gracilis}
+Probab=11.82  E-value=2e+02  Score=20.11  Aligned_cols=23  Identities=22%  Similarity=0.540  Sum_probs=16.1  Template_Neff=2.500
+
+Q WP_044865590.1  184 KKMFIYTVFSVITIVLLFGAVGD  206 (382)
+Q Consensus       184 ~k~~i~~~~~~i~~i~lFG~iGn  206 (382)
+                      .|..+..++...+-+++||.+-|
+T Consensus         4 LK~~Vy~vV~ffvslFifGFLSn   26 (34)
+T 6JLU_I            4 LKILVYTTVIFFVSLFIFGFLSS   26 (34)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHTTT
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHcC
+Confidence            45556666666667889998866
+
+
+No 3
+>6KAC_i Photosystem II protein D1 (E.C.1.10.3.9); PhotosystemII, supercomplex, PHOTOSYNTHESIS; HET: OEX, SQD, DGD, LHG, BCR, NEX, LMG, LUT, CLA, PHO, CHL, PL9, HEM, LMU, XAT; 2.7A {Chlamydomonas reinhardtii}
+Probab=11.67  E-value=2.1e+02  Score=20.44  Aligned_cols=23  Identities=30%  Similarity=0.743  Sum_probs=16.4  Template_Neff=2.400
+
+Q WP_044865590.1  184 KKMFIYTVFSVITIVLLFGAVGD  206 (382)
+Q Consensus       184 ~k~~i~~~~~~i~~i~lFG~iGn  206 (382)
+                      .|..+..+++..+-+++||.+-|
+T Consensus         4 LK~~Vy~vV~ffvsLFiFGFLSn   26 (37)
+T 6KAC_i            4 LKIFVYTVVTFFVCLFIFGFLSN   26 (37)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHcC
+Confidence            45556666666667889998876
+
+
+No 4
+>4RVY_I Photosystem II protein D1 1; Photosystem II, Time resolved, Free; HET: LMG, CLA, LHG, BCR, HEM, PHO, OEX, SQD, DGD, PL9; 5.5A {Thermosynechococcus elongatus}
+Probab=11.66  E-value=2.1e+02  Score=20.56  Aligned_cols=23  Identities=22%  Similarity=0.577  Sum_probs=16.6  Template_Neff=2.400
+
+Q WP_044865590.1  184 KKMFIYTVFSVITIVLLFGAVGD  206 (382)
+Q Consensus       184 ~k~~i~~~~~~i~~i~lFG~iGn  206 (382)
+                      .|..+..+++..+-+++||.+-|
+T Consensus         4 LK~~Vy~vV~ffvsLFiFGFLSn   26 (38)
+T 4RVY_I            4 LKITVYIVVTFFVLLFVFGFLSG   26 (38)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHcC
+Confidence            45566666666667889999877
+
+
+No 5
+>5B66_i Photosystem II protein D1 (E.C.1.10.3.9); psii, photosystem, oxygen evolving, water; HET: HEM, HEC, SQD, LHG, LMT, PHO, UNL, DMS, CLA, LMG, OEX, FME, DGD, RRX, PL9, HTG, BCR; 1.85A {Thermosynechococcus vulcanus}
+Probab=11.66  E-value=2.1e+02  Score=20.56  Aligned_cols=23  Identities=22%  Similarity=0.577  Sum_probs=16.6  Template_Neff=2.400
+
+Q WP_044865590.1  184 KKMFIYTVFSVITIVLLFGAVGD  206 (382)
+Q Consensus       184 ~k~~i~~~~~~i~~i~lFG~iGn  206 (382)
+                      .|..+..+++..+-+++||.+-|
+T Consensus         4 LK~~Vy~vV~ffvsLFiFGFLSn   26 (38)
+T 5B66_i            4 LKITVYIVVTFFVLLFVFGFLSG   26 (38)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHcC
+Confidence            45566666666667889999877
+
+
+No 6
+>5V2C_I Photosystem II protein D1 (E.C.1.10.3.9); ELECTRON TRANSPORT, PHOTOSYNTHESIS; HET: LHG, PHO, EDO, PL9, OEX, 1PE, LMT, BCT, DGD, GOL, P6G, LMG, PGE, FME, MHS, SQD, 2PE, BCR, CLA, PG4, HEM, HTG; 1.9A {Thermosynechococcus vulcanus}
+Probab=11.66  E-value=2.1e+02  Score=20.56  Aligned_cols=23  Identities=22%  Similarity=0.577  Sum_probs=16.6  Template_Neff=2.400
+
+Q WP_044865590.1  184 KKMFIYTVFSVITIVLLFGAVGD  206 (382)
+Q Consensus       184 ~k~~i~~~~~~i~~i~lFG~iGn  206 (382)
+                      .|..+..+++..+-+++||.+-|
+T Consensus         4 LK~~Vy~vV~ffvsLFiFGFLSn   26 (38)
+T 5V2C_I            4 LKITVYIVVTFFVLLFVFGFLSG   26 (38)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHcC
+Confidence            45566666666667889999877
+
+
+No 7
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=3.80  E-value=9e+02  Score=25.56  Aligned_cols=20  Identities=15%  Similarity=0.303  Sum_probs=14.8  Template_Neff=8.900
+
+Q WP_044865590.1  295 TMFEKLMPDLGIAGSLIVVT  314 (382)
+Q Consensus       295 T~y~~~~~~~G~~G~~i~~~  314 (382)
+                      -.+.....++|+.|..++..
+T Consensus       274 ~i~~~i~~e~G~ig~~~~l~  293 (377)
+T 6PL5_A          274 FVFSVWAEEWGFVGVVGLLG  293 (377)
+T ss_dssp             THHHHHHHHHHHHHHHHHHH
+T ss_pred             cHHHHHHHHccHHHHHHHHH
+Confidence            34478888999999876544
+
+
+No 8
+>2LOT_A Apelin receptor; MEMBRANE PROTEIN; NMR {Homo sapiens}
+Probab=3.70  E-value=9.3e+02  Score=18.87  Aligned_cols=13  Identities=31%  Similarity=0.626  Sum_probs=10.0  Template_Neff=6.700
+
+Q WP_044865590.1  195 ITIVLLFGAVGDI  207 (382)
+Q Consensus       195 i~~i~lFG~iGn~  207 (382)
+                      ..++++.|..||.
+T Consensus        35 y~lifvlGl~gN~   47 (64)
+T 2LOT_A           35 YMLVFLLGTTGNG   47 (64)
+T ss_dssp             HHHTTTTTTTSSS
+T ss_pred             HHHHHHHHHHHHH
+Confidence            3457789999995
+
+
+No 9
+>6IYC_E Nicastrin, Presenilin-1 (E.C.3.4.23.-), Gamma-secretase subunit; Complex, MEMBRANE PROTEIN; HET: NAG, PC1, CLR, BMA;{Homo sapiens}
+Probab=3.67  E-value=9.4e+02  Score=21.45  Aligned_cols=29  Identities=21%  Similarity=0.186  Sum_probs=18.5  Template_Neff=3.500
+
+Q WP_044865590.1  243 LANLAYNFVHIVPVYDFTSFQDLFPSVIRN  272 (382)
+Q Consensus       243 laNL~~n~~~~~p~~~~~~~~~llP~fi~~  272 (382)
+                      ++|.|.|. ..+|+|-+..-..-.|..+++
+T Consensus        63 v~~MQ~NG-YENPTYKyFE~~~~~~~~~~~   91 (104)
+T 6IYC_E           63 LSKMQQNG-YENPTYKFFEQMQNEQKLISE   91 (104)
+T ss_pred             HHHhHHcC-ccCCcccchhhcccHHhhcCH
+Confidence            67888653 456788665445566766654
+
+
+No 10
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=3.50  E-value=9.9e+02  Score=24.88  Aligned_cols=20  Identities=15%  Similarity=0.303  Sum_probs=14.8  Template_Neff=9.300
+
+Q WP_044865590.1  295 TMFEKLMPDLGIAGSLIVVT  314 (382)
+Q Consensus       295 T~y~~~~~~~G~~G~~i~~~  314 (382)
+                      -.+.....++|+.|..++..
+T Consensus       256 ~i~~~i~~e~G~ig~~~~l~  275 (359)
+T 6BAR_A          256 FVFSVWAEEWGFVGVVGLLG  275 (359)
+T ss_dssp             TTHHHHHHHSHHHHHHHHHH
+T ss_pred             cHHHHHHHHcchHHHHHHHH
+Confidence            34578888999999776544
+
+

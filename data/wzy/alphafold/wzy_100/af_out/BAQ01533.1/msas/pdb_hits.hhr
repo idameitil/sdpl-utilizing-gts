@@ -1,0 +1,160 @@
+Query         BAQ01533.1 O-antigen polymerase [Escherichia coli]
+Match_columns 401
+No_of_seqs    62 out of 65
+Neff          5.69323
+Searched_HMMs 80799
+Date          Fri Feb  4 03:53:02 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpwlzmoowz/query.a3m -o /tmp/tmpwlzmoowz/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6PL5_A Peptidoglycan glycosylt  33.5      36 0.00044   36.1   0.0   26  323-349   270-295 (377)
+  2 6BAR_A Rod shape determining p  20.3      90  0.0011   32.7   0.0   26  323-349   252-277 (359)
+  3 5A4R_A METHYLMALONIC ACIDURIA   12.1   2E+02  0.0024   28.1   0.0   40  143-183    91-132 (170)
+  4 5CV0_A Methylmalonic aciduria    9.5 2.8E+02  0.0034   27.7   0.0   39  144-183   114-154 (192)
+  5 2M0Q_A Potassium voltage-gated   5.7 5.4E+02  0.0067   24.3   0.0   34  320-353    40-73  (123)
+  6 5OEK_B Growth hormone receptor   4.4 7.4E+02  0.0091   19.2   0.0   24  324-347     9-32  (43)
+  7 6EA6_C Protein B2; Vaccina vir   4.4 7.6E+02  0.0094   25.6   0.0   21  139-160    89-109 (220)
+  8 6EA8_E Protein B2; Vaccina vir   4.4 7.6E+02  0.0094   25.6   0.0   21  139-160    89-109 (220)
+  9 2K21_A Potassium voltage-gated   4.2 7.9E+02  0.0098   23.7   0.0   25  329-353    52-76  (138)
+ 10 6P8H_C G1/S-specific cyclin-D1   3.5 9.9E+02   0.012   20.4   0.0   25  152-179    52-77  (80)
+
+No 1
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=33.47  E-value=36  Score=36.10  Aligned_cols=26  Identities=19%  Similarity=0.226  Sum_probs=16.9  Template_Neff=8.900
+
+Q BAQ01533.1      323 ALNDNGLWLFFIIKVGLVGLFILIIIM  349 (401)
+Q Consensus       323 slNDaGL~~f~iikfGl~Gl~i~~~~~  349 (401)
+                      +-||.- +..+..++|++|.++++.++
+T Consensus       270 ~h~d~i-~~~i~~e~G~ig~~~~l~l~  295 (377)
+T 6PL5_A          270 RHTDFV-FSVWAEEWGFVGVVGLLGLY  295 (377)
+T ss_dssp             CSSTTH-HHHHHHHHHHHHHHHHHHHH
+T ss_pred             CCCCcH-HHHHHHHccHHHHHHHHHHH
+Confidence            446653 34667999999876665544
+
+
+No 2
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=20.27  E-value=90  Score=32.74  Aligned_cols=26  Identities=19%  Similarity=0.226  Sum_probs=16.5  Template_Neff=9.300
+
+Q BAQ01533.1      323 ALNDNGLWLFFIIKVGLVGLFILIIIM  349 (401)
+Q Consensus       323 slNDaGL~~f~iikfGl~Gl~i~~~~~  349 (401)
+                      .-||.- +..+..++|++|.+.++.++
+T Consensus       252 ~h~d~i-~~~i~~e~G~ig~~~~l~l~  277 (359)
+T 6BAR_A          252 RHTDFV-FSVWAEEWGFVGVVGLLGLY  277 (359)
+T ss_dssp             CCTTTT-HHHHHHHSHHHHHHHHHHHH
+T ss_pred             ccCccH-HHHHHHHcchHHHHHHHHHH
+Confidence            345653 34567999998876655443
+
+
+No 3
+>5A4R_A METHYLMALONIC ACIDURIA AND HOMOCYSTINURIA TYPE; TRANSPORT PROTEIN; 2.25A {MUS MUSCULUS}
+Probab=12.13  E-value=2e+02  Score=28.10  Aligned_cols=40  Identities=25%  Similarity=0.416  Sum_probs=24.2  Template_Neff=6.300
+
+Q BAQ01533.1      143 LTGYYIDLLYPVTGEL--QRYESLFFLPWIGAVYRPTGLYVEP  183 (401)
+Q Consensus       143 ~tg~YID~v~p~TGe~--SRY~~~~~~~~i~~~yRpTGlfvEP  183 (401)
+                      --||..|++-|.||.+  |++.+.-. .-....+|.-|+-+|.
+T Consensus        91 ~~GyWADfIDP~SG~P~~s~~~~~~~-~e~d~~~~~Lgf~i~~  132 (170)
+T 5A4R_A           91 AEGYWADFIDPSSGVAFFGPYTNNTL-FETDERYRHLGFSVDD  132 (170)
+T ss_dssp             TTTCCEEEBCSSSCSC--------------CCGGGGGTCEEEE
+T ss_pred             HcCCeEEEEcCCCCcccCCCCCCCCc-hHHHHHHHHcCCeeEe
+Confidence            4899999999999975  33322111 1122358888888887
+
+
+No 4
+>5CV0_A Methylmalonic aciduria and homocystinuria type; Vitamin B12, Nitro-FMN-reductase, OXIDOREDUCTASE; 1.9A {Homo sapiens}
+Probab=9.48  E-value=2.8e+02  Score=27.75  Aligned_cols=39  Identities=26%  Similarity=0.429  Sum_probs=26.4  Template_Neff=6.000
+
+Q BAQ01533.1      144 TGYYIDLLYPVTGEL--QRYESLFFLPWIGAVYRPTGLYVEP  183 (401)
+Q Consensus       144 tg~YID~v~p~TGe~--SRY~~~~~~~~i~~~yRpTGlfvEP  183 (401)
+                      -||..|+.-|.||.+  |++.+.-. .-....+|.-|+-+|.
+T Consensus       114 ~GyWADfIDP~SG~P~~s~~~~~~l-~e~d~~~~~Lgf~i~~  154 (192)
+T 5CV0_A          114 EGYWADFIDPSSGLAFFGPYTNNTL-FETDERYRHLGFSVDD  154 (192)
+T ss_dssp             TTCCEEEEETTTTEESSSCCCSCCC-CTTCGGGGGTTCEEEE
+T ss_pred             cCceEEEEccCCCccccCCCCCCCh-hHHHHHHHHcCCEEee
+Confidence            899999999999975  33322111 1122348888999887
+
+
+No 5
+>2M0Q_A Potassium voltage-gated channel subfamily E; Transmembrane helix, detergent micelle, Membrane; NMR {Homo sapiens}
+Probab=5.69  E-value=5.4e+02  Score=24.30  Aligned_cols=34  Identities=18%  Similarity=0.390  Sum_probs=24.7  Template_Neff=3.400
+
+Q BAQ01533.1      320 GIAALNDNGLWLFFIIKVGLVGLFILIIIMLLIT  353 (401)
+Q Consensus       320 ~iAslNDaGL~~f~iikfGl~Gl~i~~~~~~~~~  353 (401)
+                      +.++-||.--.+|+.+-.|+.|++...+++-..+
+T Consensus        40 ~~~~~~~~~aylYILlmmgffgff~~gImLsYiR   73 (123)
+T 2M0Q_A           40 KVDAENFYYVILYLMVMIGMFSFIIVAILVSTVK   73 (123)
+T ss_dssp             TCCSSCHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             hhcccccchHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            3444466667888889999999888886654444
+
+
+No 6
+>5OEK_B Growth hormone receptor; Dimer, GHR, Growth hormone receptor; NMR {Homo sapiens}
+Probab=4.45  E-value=7.4e+02  Score=19.19  Aligned_cols=24  Identities=25%  Similarity=0.412  Sum_probs=17.8  Template_Neff=3.900
+
+Q BAQ01533.1      324 LNDNGLWLFFIIKVGLVGLFILII  347 (401)
+Q Consensus       324 lNDaGL~~f~iikfGl~Gl~i~~~  347 (401)
+                      -.|...-..++.-||.+|+.+++.
+T Consensus         9 ~~es~fP~~lvliFg~~gl~i~l~   32 (43)
+T 5OEK_B            9 EEDFYFPWLLIIIFGIFGLTVMLF   32 (43)
+T ss_dssp             SSCSCSCHHHHHHHHHHHHHHHHH
+T ss_pred             hhhchHHHHHHHHHHHHHHHHHHH
+Confidence            356666677888999999777664
+
+
+No 7
+>6EA6_C Protein B2; Vaccina virus, nuclease, cGAS, cGAMP; HET: MSE; 1.703A {Vaccinia virus WR}
+Probab=4.35  E-value=7.6e+02  Score=25.60  Aligned_cols=21  Identities=19%  Similarity=0.146  Sum_probs=16.0  Template_Neff=3.200
+
+Q BAQ01533.1      139 AIVYLTGYYIDLLYPVTGELQR  160 (401)
+Q Consensus       139 i~~y~tg~YID~v~p~TGe~SR  160 (401)
+                      .+-.+|.+|.|. -|+||+.+|
+T Consensus        89 LVSVVT~ry~dy-~PVTG~r~~  109 (220)
+T 6EA6_C           89 QISIITYRHKNY-YALSGIGYE  109 (220)
+T ss_dssp             EEEECCCEETTE-EECCSBCSS
+T ss_pred             EEEEEEeeEccE-EEeccCCcc
+Confidence            344567888885 899999877
+
+
+No 8
+>6EA8_E Protein B2; Vaccina virus, nuclease, cGAS, cGAMP; HET: J2B, J2A; 2.6A {Vaccinia virus WR}
+Probab=4.35  E-value=7.6e+02  Score=25.60  Aligned_cols=21  Identities=19%  Similarity=0.146  Sum_probs=16.0  Template_Neff=3.200
+
+Q BAQ01533.1      139 AIVYLTGYYIDLLYPVTGELQR  160 (401)
+Q Consensus       139 i~~y~tg~YID~v~p~TGe~SR  160 (401)
+                      .+-.+|.+|.|. -|+||+.+|
+T Consensus        89 LVSVVT~ry~dy-~PVTG~r~~  109 (220)
+T 6EA8_E           89 QISIITYRHKNY-YALSGIGYE  109 (220)
+T ss_dssp             EEEECCCEETTE-EECCSBCSS
+T ss_pred             EEEEEEeeEccE-EEeccCCcc
+Confidence            344567888885 899999877
+
+
+No 9
+>2K21_A Potassium voltage-gated channel subfamily E; KCNE1, membrane protein, potassium channel; NMR {Homo sapiens}
+Probab=4.21  E-value=7.9e+02  Score=23.74  Aligned_cols=25  Identities=28%  Similarity=0.566  Sum_probs=18.3  Template_Neff=3.500
+
+Q BAQ01533.1      329 LWLFFIIKVGLVGLFILIIIMLLIT  353 (401)
+Q Consensus       329 L~~f~iikfGl~Gl~i~~~~~~~~~  353 (401)
+                      =.+|+.+-.|++|++...+++-.++
+T Consensus        52 a~lYILlvmgffgff~~gimLsyiR   76 (138)
+T 2K21_A           52 EALYVLMVLGFFGFFTLGIMLSYIR   76 (138)
+T ss_dssp             TTCHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            4667778889999888776554444
+
+
+No 10
+>6P8H_C G1/S-specific cyclin-D1, Cyclin-dependent kinase 4; Cyclin-dependent kinase, kinase inhibitor, CELL; 3.19A {Homo sapiens}
+Probab=3.50  E-value=9.9e+02  Score=20.37  Aligned_cols=25  Identities=24%  Similarity=0.317  Sum_probs=6.6  Template_Neff=6.300
+
+Q BAQ01533.1      152 YPVTGELQRYESLFFL-PWIGAVYRPTGL  179 (401)
+Q Consensus       152 ~p~TGe~SRY~~~~~~-~~i~~~yRpTGl  179 (401)
+                      +|+.|   ||+|..-. ...+..||+|+.
+T Consensus        52 ~Pl~g---ry~We~v~~~~vP~fY~~~~~   77 (80)
+T 6P8H_C           52 TPLEG---DFAWERVRGLGLPKLYLPTGP   77 (80)
+T ss_dssp             CCCCS---SCCCCC---------------
+T ss_pred             ccCCC---ccEEEEcCCCCCCcccCCCCC
+Confidence            45554   88764332 234456888763
+
+

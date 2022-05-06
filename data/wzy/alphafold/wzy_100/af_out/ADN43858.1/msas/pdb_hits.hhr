@@ -1,0 +1,178 @@
+Query         ADN43858.1 Wzy [Escherichia coli]
+Match_columns 408
+No_of_seqs    112 out of 150
+Neff          6.48689
+Searched_HMMs 80799
+Date          Thu Feb  3 09:50:51 2022
+Command       /usr/bin/hhsearch -i /tmp/tmptes9hgup/query.a3m -o /tmp/tmptes9hgup/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6BAR_A Rod shape determining p  86.1    0.41 5.1E-06   49.7   0.0   82  250-340   197-284 (359)
+  2 6PL5_A Peptidoglycan glycosylt  82.7    0.77 9.5E-06   48.3   0.0   80  251-339   216-301 (377)
+  3 3O0G_D Cell division protein k   4.8 6.7E+02  0.0082   24.1   0.0    9  158-166    92-100 (149)
+  4 6TDU_S ATPTB1, ATPTB6, ATPTB12   4.5 7.3E+02   0.009   20.1   0.0   27    5-31     31-57  (74)
+  5 6TDV_S ATPTB1, ATPTB3, ATPTB6,   4.5 7.3E+02   0.009   20.1   0.0   27    5-31     31-57  (74)
+  6 4EV6_B Magnesium transport pro   4.2 7.9E+02  0.0098   25.6   0.0   39  120-158   278-317 (339)
+  7 5JRW_E Cobalt/magnesium transp   4.0 8.6E+02   0.011   26.1   0.0   31  120-150   312-342 (373)
+  8 1SCF_B STEM CELL FACTOR, PENTA   3.9 8.7E+02   0.011   25.6   0.0   26  376-401   221-246 (273)
+  9 3JCF_C Magnesium transport pro   3.9 8.8E+02   0.011   25.4   0.0   30  120-149   290-319 (351)
+ 10 4I0U_F Magnesium transport pro   3.9 8.8E+02   0.011   25.4   0.0   30  120-149   290-319 (351)
+
+No 1
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=86.06  E-value=0.41  Score=49.73  Aligned_cols=82  Identities=12%  Similarity=0.058  Sum_probs=27.1  Template_Neff=9.300
+
+Q ADN43858.1      250 TSNLVLRIVHFYEV-GGWSKMLFSDRDLFLKYNIDQFLNSDPVSLLIGIGYAGINA---FPKPLTEIDI--ADITIIYGM  323 (408)
+Q Consensus       250 ~~~l~~R~~~fY~~-~g~~~~IlSgR~~f~~~~~~~~~~~~~~~~lfGvG~~~~~~---~~~~~iEiD~--~Di~~~yG~  323 (408)
+                      .....+|+..+.+. .|-     ++|....++..+...+.    -++|.|.+...+   ...+..+-|+  .++..-+|.
+T Consensus       197 ~~~~~~Rl~~~~~p~~d~-----~~~~~~~~~~~~~i~~~----~~~G~G~g~~~~~~~~~~~~~h~d~i~~~i~~e~G~  267 (359)
+T 6BAR_A          197 KPYQRERVLIVLDPYRDP-----LGQGFQVIQSTIAIGSG----GLFGKGYGQGTQAQLGFIPFRHTDFVFSVWAEEWGF  267 (359)
+T ss_dssp             ------------------------------------CTTT----CCSCC---------------CCTTTTHHHHHHHSHH
+T ss_pred             CchHHHHhhhHhCCCCCC-----CCCCHHHHHHHHHHHhc----CcccccCCcccccccccCccccCccHHHHHHHHcch
+Confidence            34466787765432 221     35555554444444333    356777654321   1224556675  999999999
+
+
+Q ADN43858.1      324 LTTSAYISFYIGILFYS  340 (408)
+Q Consensus       324 ~g~~~~~~f~i~~l~~~  340 (408)
+                      +|.++++..+...+.+.
+T Consensus       268 ig~~~~l~l~~~l~~~~  284 (359)
+T 6BAR_A          268 VGVVGLLGLYGLLLARL  284 (359)
+T ss_dssp             HHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHH
+Confidence            99887766655444433
+
+
+No 2
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=82.70  E-value=0.77  Score=48.32  Aligned_cols=80  Identities=13%  Similarity=0.068  Sum_probs=39.4  Template_Neff=8.900
+
+Q ADN43858.1      251 SNLVLRIVHFYEV-GGWSKMLFSDRDLFLKYNIDQFLNSDPVSLLIGIGYAGINA---FPKPLTEIDI--ADITIIYGML  324 (408)
+Q Consensus       251 ~~l~~R~~~fY~~-~g~~~~IlSgR~~f~~~~~~~~~~~~~~~~lfGvG~~~~~~---~~~~~iEiD~--~Di~~~yG~~  324 (408)
+                      ....+|+..+.+. .+-     ++|.....++.+...+.    -++|.|.+...+   ...+..+-|+  ..+..-+|++
+T Consensus       216 ~~~~~Ri~~~~~p~~~~-----~~~g~~~~~~~~~i~~~----~~~G~G~g~~~~~~~~~~p~~h~d~i~~~i~~e~G~i  286 (377)
+T 6PL5_A          216 PYQRERVLIVLDPYRDP-----LGQGFQVIQSTIAIGSG----GLFGKGYGQGTQAQLGFIPFRHTDFVFSVWAEEWGFV  286 (377)
+T ss_dssp             HHHHHHHHHHHSCCCHH-----HHHHHHHHHHHHTTCCC----C----------------CCSCSSTTHHHHHHHHHHHH
+T ss_pred             chHHHHHHHhhCCCCCC-----CCCcHHHHHHHHHHHhc----CCcCcCCCCcccchhhcCcCCCCCcHHHHHHHHccHH
+Confidence            3456787766542 221     25554444444443333    356777654321   1123456676  9999999999
+
+
+Q ADN43858.1      325 TTSAYISFYIGILFY  339 (408)
+Q Consensus       325 g~~~~~~f~i~~l~~  339 (408)
+                      |.++++..+...+.+
+T Consensus       287 g~~~~l~l~~~l~~~  301 (377)
+T 6PL5_A          287 GVVGLLGLYGLLLAR  301 (377)
+T ss_dssp             HHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHH
+Confidence            988777665544333
+
+
+No 3
+>3O0G_D Cell division protein kinase 5; kinase, Kinase activator complex, kinase; HET: 3O0; 1.95A {Homo sapiens}
+Probab=4.83  E-value=6.7e+02  Score=24.06  Aligned_cols=9  Identities=33%  Similarity=0.394  Sum_probs=7.3  Template_Neff=2.900
+
+Q ADN43858.1      158 YAANALSGV  166 (408)
+Q Consensus       158 yAgNElSal  166 (408)
+                      |.|||+|.-
+T Consensus        92 YmGNEISYP  100 (149)
+T 3O0G_D           92 YMGNEISYP  100 (149)
+T ss_dssp             HHCSSSCCC
+T ss_pred             hcCCcccCC
+Confidence            788999964
+
+
+No 4
+>6TDU_S ATPTB1, ATPTB6, ATPTB12, ATP synthase; mitochondria, ATP synthase, MEMBRANE PROTEIN; HET: CDL, ATP, LPP, MG, LMT, TRT, ADP; 4.32A {Euglena gracilis}
+Probab=4.50  E-value=7.3e+02  Score=20.09  Aligned_cols=27  Identities=15%  Similarity=0.435  Sum_probs=18.2  Template_Neff=1.000
+
+Q ADN43858.1        5 IKKNVELLILFLVLNQLVIDTFNGYFI   31 (408)
+Q Consensus         5 ~k~~ld~~i~~l~~~~llvD~lNG~l~   31 (408)
+                      +||+...+-.+.++..+++|-++-=..
+T Consensus        31 qkkdrpfiamwilfplllvdhltreyy   57 (74)
+T 6TDU_S           31 QKKDRPFIAMWILFPLLLVDHLTREYY   57 (74)
+T ss_pred             ccCCCcchHHHHHHHHHHHHHHhHHHH
+Confidence            455555555677777889999876433
+
+
+No 5
+>6TDV_S ATPTB1, ATPTB3, ATPTB6, ATPTB12, subunit; mitochondria, ATP synthase, MEMBRANE PROTEIN; HET: TRT, CDL, LMT, LPP; 2.8A {Euglena gracilis}
+Probab=4.50  E-value=7.3e+02  Score=20.09  Aligned_cols=27  Identities=15%  Similarity=0.435  Sum_probs=18.2  Template_Neff=1.000
+
+Q ADN43858.1        5 IKKNVELLILFLVLNQLVIDTFNGYFI   31 (408)
+Q Consensus         5 ~k~~ld~~i~~l~~~~llvD~lNG~l~   31 (408)
+                      +||+...+-.+.++..+++|-++-=..
+T Consensus        31 qkkdrpfiamwilfplllvdhltreyy   57 (74)
+T 6TDV_S           31 QKKDRPFIAMWILFPLLLVDHLTREYY   57 (74)
+T ss_pred             ccCCCcchHHHHHHHHHHHHHHhHHHH
+Confidence            455555555677777889999876433
+
+
+No 6
+>4EV6_B Magnesium transport protein CorA; MEMBRANE PROTEIN, CORA, MAGNESIUM, ION; HET: UMQ, MG; 3.2A {Methanocaldococcus jannaschii}
+Probab=4.21  E-value=7.9e+02  Score=25.55  Aligned_cols=39  Identities=13%  Similarity=0.215  Sum_probs=26.6  Template_Neff=9.600
+
+Q ADN43858.1      120 FIKYLSVYSFCIILFNILLSAFGVGETSYSDF-GYKGFFY  158 (408)
+Q Consensus       120 ~~~~~~~~sf~vl~~Ni~lg~~G~G~~sY~~~-G~KGFFy  158 (408)
+                      ..+.+...+.+++-.+++.|++|.-...-... ...||+.
+T Consensus       278 ~m~~LTilt~iflP~t~iagifGMN~~~~p~~~~~~~f~~  317 (339)
+T 4EV6_B          278 IMKILTMVTTIFAVPMWITGIYGMNFSYLPLANNPQGFWL  317 (339)
+T ss_dssp             HHHHHHHHHHHSSHHHHHHHHTTCCCSCCTTTTSTTHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHhccCCCCCcccCCccHHHH
+Confidence            34556667788889999999999887644433 3445544
+
+
+No 7
+>5JRW_E Cobalt/magnesium transport protein CorA; Transport Protein; 3.3A {Thermotoga maritima}
+Probab=3.95  E-value=8.6e+02  Score=26.07  Aligned_cols=31  Identities=10%  Similarity=0.292  Sum_probs=23.5  Template_Neff=8.800
+
+Q ADN43858.1      120 FIKYLSVYSFCIILFNILLSAFGVGETSYSD  150 (408)
+Q Consensus       120 ~~~~~~~~sf~vl~~Ni~lg~~G~G~~sY~~  150 (408)
+                      ..+.+...+.+++-.+++.|++|..+..-..
+T Consensus       312 ~mk~LTivt~iflPlTfiag~fGMNf~~~p~  342 (373)
+T 5JRW_E          312 VMKVLTIIATIFMPLTFIAGIYGMNFEYMPE  342 (373)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHTTCCCSCCHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHhcCCCCCCHH
+Confidence            4455666778888899999999998875443
+
+
+No 8
+>1SCF_B STEM CELL FACTOR, PENTAETHYLENE GLYCOL; HUMAN STEM CELL FACTOR, STEEL; HET: 1PE; 2.2A {Homo sapiens} SCOP: a.26.1.2
+Probab=3.91  E-value=8.7e+02  Score=25.65  Aligned_cols=26  Identities=15%  Similarity=0.379  Sum_probs=0.0  Template_Neff=3.100
+
+Q ADN43858.1      376 NGMVTLYLGIAMALPWWMANYRTRHI  401 (408)
+Q Consensus       376 SGm~~i~~g~~~al~~~~~n~~~~~~  401 (408)
+                      .+..+..+|++++-.||+|-|++-.+
+T Consensus       221 ~sl~sLviGF~lGal~WkKk~~~~~~  246 (273)
+T 1SCF_B          221 PALFSLIIGFAFGALYWKKRQPSLTR  246 (273)
+T ss_dssp             --------------------------
+T ss_pred             HHHHHHHHHHHHHHHHHHHhCCcccc
+Confidence            34667889999999999996665433
+
+
+No 9
+>3JCF_C Magnesium transport protein CorA; membrane protein, ion channel, magnesium; HET: MG; 3.8A {Thermotoga maritima}
+Probab=3.86  E-value=8.8e+02  Score=25.41  Aligned_cols=30  Identities=10%  Similarity=0.271  Sum_probs=23.1  Template_Neff=9.500
+
+Q ADN43858.1      120 FIKYLSVYSFCIILFNILLSAFGVGETSYS  149 (408)
+Q Consensus       120 ~~~~~~~~sf~vl~~Ni~lg~~G~G~~sY~  149 (408)
+                      ..+.+...+.+++-.+++.|++|..+....
+T Consensus       290 ~mk~LTivt~iflPltfiag~fGMNf~~~p  319 (351)
+T 3JCF_C          290 VMKVLTIIATIFMPLTFIAGIYGMNFEYMP  319 (351)
+T ss_dssp             HHHHHHHHHTTTHHHHHHHHHHHSCCSCCT
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHhcCCCCCCH
+Confidence            455566677888899999999998876443
+
+
+No 10
+>4I0U_F Magnesium transport protein CorA; magnesium/cobalt transport, METAL TRANSPORT, MEMBRANE; HET: CL, PEG, LMT, MG; 2.7A {Thermotoga maritima}
+Probab=3.86  E-value=8.8e+02  Score=25.41  Aligned_cols=30  Identities=10%  Similarity=0.271  Sum_probs=23.1  Template_Neff=9.500
+
+Q ADN43858.1      120 FIKYLSVYSFCIILFNILLSAFGVGETSYS  149 (408)
+Q Consensus       120 ~~~~~~~~sf~vl~~Ni~lg~~G~G~~sY~  149 (408)
+                      ..+.+...+.+++-.+++.|++|..+....
+T Consensus       290 ~mk~LTivt~iflPltfiag~fGMNf~~~p  319 (351)
+T 4I0U_F          290 VMKVLTIIATIFMPLTFIAGIYGMNFEYMP  319 (351)
+T ss_dssp             HHHHHHHHHHHTTHHHHHHHHTSCCCCCCC
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHhcCCCCCCH
+Confidence            455566677888899999999998876443
+
+

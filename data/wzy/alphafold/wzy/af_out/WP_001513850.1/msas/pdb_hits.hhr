@@ -1,0 +1,158 @@
+Query         WP_001513850.1 O2/O50 family O-antigen polymerase [Escherichia coli] >EFN7211167.1 hypothetical protein [Escherichia coli O2] >HAJ6414120.1 hypothetical protein [Escherichia coli HVH 54 (4-2723514)] >ACD75809.1 O-antigen polymerase [Escherichia coli] >ADC54941.1 Wzy [Escherichia coli] >AUG93752.1 hypothetical protein MS8345_02153 [Escherichia coli]
+Match_columns 320
+No_of_seqs    9 out of 13
+Neff          2.14025
+Searched_HMMs 80799
+Date          Thu Apr 28 02:32:51 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp_ll1fe5b/query.a3m -o /tmp/tmp_ll1fe5b/output.hhr -maxseq 1000000 -d /mnt/disks/data/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6SNH_X Dolichyl pyrophosphate   12.3 1.9E+02  0.0024   31.0   0.0   63  101-163   193-256 (562)
+  2 5UJR_A Bacteriocin; Antimicrob   7.9 3.5E+02  0.0044   20.2   0.0   14  203-216    10-24  (33)
+  3 2LWF_A Monothiol glutaredoxin-   6.6 4.5E+02  0.0056   24.1   0.0   12   34-45     37-48  (119)
+  4 6RQF_G PROTEIN; Plastoquinol-p   6.3 4.8E+02  0.0059   20.2   0.0   27  102-128     8-34  (37)
+  5 6RQF_O PROTEIN; Plastoquinol-p   6.3 4.8E+02  0.0059   20.2   0.0   27  102-128     8-34  (37)
+  6 1Q90_G Apocytochrome f, Cytoch   6.1   5E+02  0.0062   20.1   0.0   27  102-128     8-34  (37)
+  7 4OGQ_G Cytochrome b6, Cytochro   5.8 5.2E+02  0.0065   20.0   0.0   26  102-127     8-33  (37)
+  8 2E74_G Cytochrome b6, Cytochro   5.8 5.2E+02  0.0065   20.0   0.0   26  102-127     8-33  (37)
+  9 3F9K_i Integrase (E.C.3.4.23.4   5.8 5.3E+02  0.0065   22.3   0.0   22   43-64     73-94  (95)
+ 10 6UCU_E Mitochondrial import re   5.7 5.4E+02  0.0066   21.2   0.0   19  154-172    25-43  (60)
+
+No 1
+>6SNH_X Dolichyl pyrophosphate Man9GlcNAc2 alpha-1,3-glucosyltransferase (E.C.2.4.1.267); Glycosyltransferase, Glucosyltransferase, GT-C, N-Glycosylation, MEMBRANE; HET: LMH;{Saccharomyces cerevisiae}
+Probab=12.28  E-value=1.9e+02  Score=31.00  Aligned_cols=63  Identities=13%  Similarity=0.080  Sum_probs=45.5  Template_Neff=7.300
+
+Q WP_001513850.1  101 SGLTLFFIYYASVALWVLDYTQF-RNGLCISILMFSVYYLFINKPTYFYFSVLCAIATHWSALP  163 (320)
+Q Consensus       101 ~~l~lf~iYy~~va~wVldYTQf-RnglcIsIlmfSvyylf~~~p~~fy~sv~~AiatHwSAlp  163 (320)
+                      .+.....++-..=++...|.-.+ -|+.....++.|++.+.++|+..--+...+|+++-..++.
+T Consensus       193 ~~~~a~~l~l~~P~lIl~~~~~gQ~d~i~l~l~llsl~~l~~~~~~la~v~fglal~~K~~~l~  256 (562)
+T 6SNH_X          193 GQSIAASAILFQPSLMLIDHGHFQYNSVMLGLTAYAINNLLDEYYAMAAVCFVLSICFKQMALY  256 (562)
+T ss_dssp             HHHHHHHHHHTCHHHHHHHTTTCCCHHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHCGGGGG
+T ss_pred             HHHHHHHHHHhCHHHHHHhccccchHHHHHHHHHHHHHHHHccChHHHHHHHHHHHHhhHHHHH
+Confidence            34455666666666667776543 3888899999999999888777666777778888877743
+
+
+No 2
+>5UJR_A Bacteriocin; Antimicrobial protein; NMR {Carnobacterium maltaromaticum}
+Probab=7.91  E-value=3.5e+02  Score=20.23  Aligned_cols=14  Identities=43%  Similarity=0.686  Sum_probs=10.6  Template_Neff=1.000
+
+Q WP_001513850.1  203 IRN-FGVGQKIGNEA  216 (320)
+Q Consensus       203 ir~-~gig~KiGnda  216 (320)
+                      =++ ++-|||.||--
+T Consensus        10 gqtifsagqklgnmv   24 (33)
+T 5UJR_A           10 GQTIFSAGQKLGNMV   24 (33)
+T ss_dssp             HHHHHTHHHHTTHHH
+T ss_pred             Cceeehhhhhhhccc
+Confidence            344 88899999865
+
+
+No 3
+>2LWF_A Monothiol glutaredoxin-S16, chloroplastic; Nuclease, Glutaredoxin, HYDROLASE; NMR {Arabidopsis thaliana}
+Probab=6.56  E-value=4.5e+02  Score=24.14  Aligned_cols=12  Identities=42%  Similarity=0.650  Sum_probs=8.8  Template_Neff=4.500
+
+Q WP_001513850.1   34 NTQFLGRSRDYD   45 (320)
+Q Consensus        34 ntqflG~srDY~   45 (320)
+                      +-||+|.|||-.
+T Consensus        37 ~LQYVG~SRdv~   48 (119)
+T 2LWF_A           37 ELQFVGISRNIA   48 (119)
+T ss_dssp             CEEEEEEESCHH
+T ss_pred             cEEEEEEeccHH
+Confidence            458888888854
+
+
+No 4
+>6RQF_G PROTEIN; Plastoquinol-plastocyanin oxido-reductase Cytochrome b6f Photosynthesis; HET: BCR, PGV, SQD, 6PL, HEM, CLA, LMG, PL9, HEC; 3.58A {Spinacia oleracea}
+Probab=6.27  E-value=4.8e+02  Score=20.20  Aligned_cols=27  Identities=33%  Similarity=0.475  Sum_probs=19.2  Template_Neff=2.500
+
+Q WP_001513850.1  102 GLTLFFIYYASVALWVLDYTQFRNGLC  128 (320)
+Q Consensus       102 ~l~lf~iYy~~va~wVldYTQfRnglc  128 (320)
+                      |.++-++--....++|..|-|.|.|.-
+T Consensus         8 GIVlGli~iTlaGLfv~AY~QyrRg~q   34 (37)
+T 6RQF_G            8 GIVLGLIPITLAGLFVTAYLQYRRGDQ   34 (37)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHTTCSS
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHcccc
+Confidence            445555555566788999999998853
+
+
+No 5
+>6RQF_O PROTEIN; Plastoquinol-plastocyanin oxido-reductase Cytochrome b6f Photosynthesis; HET: 6PL, SQD, BCR, LMG, CLA, PL9, HEM, PGV, HEC; 3.58A {Spinacia oleracea}
+Probab=6.27  E-value=4.8e+02  Score=20.20  Aligned_cols=27  Identities=33%  Similarity=0.475  Sum_probs=19.2  Template_Neff=2.500
+
+Q WP_001513850.1  102 GLTLFFIYYASVALWVLDYTQFRNGLC  128 (320)
+Q Consensus       102 ~l~lf~iYy~~va~wVldYTQfRnglc  128 (320)
+                      |.++-++--....++|..|-|.|.|.-
+T Consensus         8 GIVlGli~iTlaGLfv~AY~QyrRg~q   34 (37)
+T 6RQF_O            8 GIVLGLIPITLAGLFVTAYLQYRRGDQ   34 (37)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHTSSCS
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHcccc
+Confidence            445555555566788999999998853
+
+
+No 6
+>1Q90_G Apocytochrome f, Cytochrome b6, Cytochrome; MEMBRANE PROTEIN COMPLEX, PHOTOSYNTHESIS, ELECTRON; HET: LFA, CLA, BCR, SQD, LMG, HEM, TDS; 3.1A {Chlamydomonas reinhardtii} SCOP: f.23.26.1
+Probab=6.08  E-value=5e+02  Score=20.12  Aligned_cols=27  Identities=26%  Similarity=0.389  Sum_probs=19.0  Template_Neff=2.400
+
+Q WP_001513850.1  102 GLTLFFIYYASVALWVLDYTQFRNGLC  128 (320)
+Q Consensus       102 ~l~lf~iYy~~va~wVldYTQfRnglc  128 (320)
+                      |.++-++--....++|..|-|.|.|.-
+T Consensus         8 GIVlGli~iTlaGLfv~AY~QyrRg~~   34 (37)
+T 1Q90_G            8 GIVLGLVPVTIAGLFVTAYLQYLRGDL   34 (37)
+T ss_pred             HHHHHhHHHHHHHHHHHHHHHHHhccc
+Confidence            444555555566788999999998753
+
+
+No 7
+>4OGQ_G Cytochrome b6, Cytochrome b6-f complex; Electron transfer, Plastocyanin, cytochrome c6; HET: HEM, 2WD, SQD, OPC, CLA, 1O2, 2WM, 2WA, 8K6, 7PH, 3WM, UMQ, MYS, BCR; 2.501A {Nostoc sp.}
+Probab=5.85  E-value=5.2e+02  Score=20.00  Aligned_cols=26  Identities=23%  Similarity=0.388  Sum_probs=18.4  Template_Neff=2.500
+
+Q WP_001513850.1  102 GLTLFFIYYASVALWVLDYTQFRNGL  127 (320)
+Q Consensus       102 ~l~lf~iYy~~va~wVldYTQfRngl  127 (320)
+                      |.++-++--....++|..|-|.|.|.
+T Consensus         8 GIVlGli~iTlaGLfv~AY~QyrRg~   33 (37)
+T 4OGQ_G            8 GIVLGLIVVTLAGLFYAAYKQYKRPN   33 (37)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHSCC
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHhCcc
+Confidence            44455555556678899999999875
+
+
+No 8
+>2E74_G Cytochrome b6, Cytochrome b6-f complex; photosynthesis, cytochrome F, rieske iron-sulfur; HET: OPC, HEM, SQD, BCR, CLA, UMQ; 3.0A {Mastigocladus laminosus} SCOP: f.23.26.1
+Probab=5.83  E-value=5.2e+02  Score=19.99  Aligned_cols=26  Identities=23%  Similarity=0.413  Sum_probs=18.4  Template_Neff=2.500
+
+Q WP_001513850.1  102 GLTLFFIYYASVALWVLDYTQFRNGL  127 (320)
+Q Consensus       102 ~l~lf~iYy~~va~wVldYTQfRngl  127 (320)
+                      |.++-++--....++|..|-|.|.|.
+T Consensus         8 GIVlGli~iTlaGLfv~AY~QyrRg~   33 (37)
+T 2E74_G            8 GLVLGLVFATLGGLFYAAYQQYKRPN   33 (37)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHTTSCC
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHCcc
+Confidence            44455555556678899999999875
+
+
+No 9
+>3F9K_i Integrase (E.C.3.4.23.47), PC4 and SFRS1-interacting; Protein-protein complex, AIDS, DNA integration; HET: ZN, MG; 3.2A {Human immunodeficiency virus type 2}
+Probab=5.81  E-value=5.3e+02  Score=22.30  Aligned_cols=22  Identities=32%  Similarity=0.708  Sum_probs=17.8  Template_Neff=5.700
+
+Q WP_001513850.1   43 DYDNYIQIFSGKEGEGVLELFY   64 (320)
+Q Consensus        43 DY~nYi~iFSG~E~~~vlElfY   64 (320)
+                      =|+++..+|.+.|++.+.+-+|
+T Consensus        73 iYnkFK~~F~~~~~~~~~~~~~   94 (95)
+T 3F9K_i           73 LYNKFKNMFLVGEGDSVLEVLF   94 (95)
+T ss_pred             HHHHHHHHhccCCCCchHHHhc
+Confidence            4888999999888888776655
+
+
+No 10
+>6UCU_E Mitochondrial import receptor subunit TOM40; Membrane protein, mitochondrial protein import; HET: LMT; 3.06A {Saccharomyces cerevisiae (strain ATCC 204508 / S288c)}
+Probab=5.73  E-value=5.4e+02  Score=21.17  Aligned_cols=19  Identities=21%  Similarity=0.476  Sum_probs=14.3  Template_Neff=4.400
+
+Q WP_001513850.1  154 AIATHWSALPFLLLYPFVY  172 (320)
+Q Consensus       154 AiatHwSAlpfl~Lyp~v~  172 (320)
+                      -+++||.-+|+++.--+-.
+T Consensus        25 k~~~H~GfIP~IIylG~~~   43 (60)
+T 6UCU_E           25 HNVAHYGWIPFVLYLGWAH   43 (60)
+T ss_dssp             HHHHHHHHHHHHHHHHHHS
+T ss_pred             HHHHHhhHHhhHHHhhhcc
+Confidence            4789999999987655443
+
+

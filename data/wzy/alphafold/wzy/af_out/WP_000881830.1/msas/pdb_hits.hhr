@@ -1,0 +1,160 @@
+Query         WP_000881830.1 MULTISPECIES: O53 family O-antigen polymerase [Shigella] >EFH7886363.1 O53 family O-antigen polymerase [Escherichia coli] >EIB6649251.1 O53 family O-antigen polymerase [Shigella sonnei] >AAL27318.1 O-antigen polymerase [Shigella boydii] >ABB65530.1 O-antigen polymerase [Shigella boydii Sb227] >AKI66101.1 polymerase [Shigella boydii]
+Match_columns 430
+No_of_seqs    6 out of 7
+Neff          2.37959
+Searched_HMMs 80799
+Date          Wed Apr 27 22:56:45 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp3_2vh61o/query.a3m -o /tmp/tmp3_2vh61o/output.hhr -maxseq 1000000 -d /mnt/disks/data/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6BAR_A Rod shape determining p  15.2 1.4E+02  0.0017   30.0   0.0   38  329-366   251-290 (359)
+  2 6PL5_A Peptidoglycan glycosylt  13.9 1.6E+02   0.002   30.2   0.0   38  330-367   270-309 (377)
+  3 5DNI_A Putative L(+)-tartrate   13.2 1.7E+02  0.0021   29.3   0.0   54  291-347    80-133 (179)
+  4 2ISB_A Crystal structure of Fu  13.2 1.7E+02  0.0021   29.6   0.0   52  291-346    94-145 (192)
+  5 1HGZ_A PH75 INOVIRUS MAJOR COA  10.4 2.4E+02   0.003   23.3   0.0   24  223-246    22-45  (46)
+  6 1HH0_A PH75 INOVIRUS MAJOR COA  10.4 2.4E+02   0.003   23.3   0.0   24  223-246    22-45  (46)
+  7 6UQ8_A Fumarate hydratase 2 (E   8.7 3.1E+02  0.0038   32.5   0.0   54  291-347   503-556 (604)
+  8 2JO1_A Phospholemman; FXYD1, N   8.5 3.2E+02   0.004   24.5   0.0   28  327-357     8-36  (72)
+  9 6UNZ_A fumarate hydratase (E.C   8.0 3.5E+02  0.0043   32.1   0.0   54  291-347   503-556 (604)
+ 10 6MSO_A fumarate hydratase (E.C   7.2   4E+02  0.0049   31.5   0.0   54  291-347   486-539 (585)
+
+No 1
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=15.23  E-value=1.4e+02  Score=30.03  Aligned_cols=38  Identities=8%  Similarity=0.180  Sum_probs=30.3  Template_Neff=9.300
+
+Q WP_000881830.1  329 YVDNGY--LYLLHQSGLIALVLYIATWSYMFISLSKNLKK  366 (430)
+Q Consensus       329 YlDNgy--yy~i~Q~Glf~Llly~~~~s~~fikl~k~~n~  366 (430)
+                      ..+|++  .+...+-|+.+.++++........++.|..++
+T Consensus       251 ~~h~d~i~~~i~~e~G~ig~~~~l~l~~~l~~~~~~~~~~  290 (359)
+T 6BAR_A          251 FRHTDFVFSVWAEEWGFVGVVGLLGLYGLLLARLFALALA  290 (359)
+T ss_dssp             -CCTTTTHHHHHHHSHHHHHHHHHHHHHHHHHHHHHHHTT
+T ss_pred             cccCccHHHHHHHHcchHHHHHHHHHHHHHHHHHHHHHHh
+Confidence            345665  89999999999999998888888888777655
+
+
+No 2
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=13.93  E-value=1.6e+02  Score=30.19  Aligned_cols=38  Identities=8%  Similarity=0.116  Sum_probs=30.8  Template_Neff=8.900
+
+Q WP_000881830.1  330 VDNGY--LYLLHQSGLIALVLYIATWSYMFISLSKNLKKR  367 (430)
+Q Consensus       330 lDNgy--yy~i~Q~Glf~Llly~~~~s~~fikl~k~~n~~  367 (430)
+                      .+|+|  .+...+-|+.+.++++........++.|..++.
+T Consensus       270 ~h~d~i~~~i~~e~G~ig~~~~l~l~~~l~~~~~~~~~~~  309 (377)
+T 6PL5_A          270 RHTDFVFSVWAEEWGFVGVVGLLGLYGLLLARLFALALAC  309 (377)
+T ss_dssp             CSSTTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHC
+T ss_pred             CCCCcHHHHHHHHccHHHHHHHHHHHHHHHHHHHHHHHhC
+Confidence            45666  899999999999999988888888887776553
+
+
+No 3
+>5DNI_A Putative L(+)-tartrate dehydratase subunit beta; alpha beta barrel, LYASE; HET: GOL, EDO; 2.3A {Methanocaldococcus jannaschii DSM 2661}
+Probab=13.23  E-value=1.7e+02  Score=29.25  Aligned_cols=54  Identities=22%  Similarity=0.334  Sum_probs=40.5  Template_Neff=5.100
+
+Q WP_000881830.1  291 TLFSRIDAWLQVLNINDVSRLLFGSGLVQGLGEDDMNFYVDNGYLYLLHQSGLIALV  347 (430)
+Q Consensus       291 TL~sR~dAW~~~l~~~~~~dlL~G~GfVQGLg~td~~FYlDNgyyy~i~Q~Glf~Ll  347 (430)
+                      |-..|.|.|..-+=.+--...+.|||   |.++...+=--++|-.|+...||--.|+
+T Consensus        80 TTS~Rmd~~~~~~~~~~Gv~~iIGKG---~~~~~~~~a~k~~g~vYl~~~GGaaall  133 (179)
+T 5DNI_A           80 TTSARMNDVEEEFIKLTNISAIVGKG---GMKKELLKTFEDYGVVYLAAPGGCAALL  133 (179)
+T ss_dssp             CBGGGGTTTHHHHHHHHCCCEEEEBS---CCCTTHHHHHHHHTCEEEECCSSCHHHH
+T ss_pred             ccccchhHHHHHHHHHhCcEEEEeCC---cCCHHHHHHHHHhCCEEEEcChHHHHHH
+Confidence            56789999997665556678899999   3444334456789999999999986654
+
+
+No 4
+>2ISB_A Crystal structure of Fumarase of; NP_069927.1, Fumarase of FUM-1, Structural; 1.66A {Archaeoglobus fulgidus} SCOP: c.8.9.1
+Probab=13.17  E-value=1.7e+02  Score=29.62  Aligned_cols=52  Identities=17%  Similarity=0.169  Sum_probs=37.6  Template_Neff=4.900
+
+Q WP_000881830.1  291 TLFSRIDAWLQVLNINDVSRLLFGSGLVQGLGEDDMNFYVDNGYLYLLHQSGLIAL  346 (430)
+Q Consensus       291 TL~sR~dAW~~~l~~~~~~dlL~G~GfVQGLg~td~~FYlDNgyyy~i~Q~Glf~L  346 (430)
+                      |-..|.|.|..-+=.+--.....|||-   .++...+=-- +|-.|+...||--.|
+T Consensus        94 TTS~Rmd~~~~~ll~~~Gv~~iIGKG~---~s~~~~~a~k-~gavYl~~~GGaaal  145 (192)
+T 2ISB_A           94 TTSARMNPFTPKILEKVECMGIIGKGG---MSEEVVEAMR-GKAAYFAFTGGAGAL  145 (192)
+T ss_dssp             CBGGGGTTTHHHHHHHCSCEEEEEBSC---CCHHHHHHHT-TTEEEEEECSCSSTT
+T ss_pred             cccccccccHHHHHHhcCCeEEEecCC---CCHHHHHHhc-cCcEEEEecchHHHH
+Confidence            667899999986655567788999993   3332222334 799999999997644
+
+
+No 5
+>1HGZ_A PH75 INOVIRUS MAJOR COAT PROTEIN; VIRUS, VIRUS COAT PROTEIN, HELICAL; 2.4A {BACTERIOPHAGE PH75} SCOP: h.1.4.1
+Probab=10.35  E-value=2.4e+02  Score=23.31  Aligned_cols=24  Identities=17%  Similarity=0.268  Sum_probs=17.7  Template_Neff=1.500
+
+Q WP_000881830.1  223 NGMLAFAVTSLFIMIHTYLRRYYL  246 (430)
+Q Consensus       223 NGi~v~~is~~f~~v~~ylr~~~~  246 (430)
+                      -|..+.++++-.--.|||.|||.+
+T Consensus        22 AGVgvL~LtiGLsAAWrYA~rFLk   45 (46)
+T 1HGZ_A           22 AGVGVLALAIGLSAAWKYAKRFLK   45 (46)
+T ss_dssp             CCCCCTHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHhc
+Confidence            355556667777788999999864
+
+
+No 6
+>1HH0_A PH75 INOVIRUS MAJOR COAT PROTEIN; VIRUS, VIRUS COAT PROTEIN, HELICAL; 2.4A {BACTERIOPHAGE PH75} SCOP: h.1.4.1
+Probab=10.35  E-value=2.4e+02  Score=23.31  Aligned_cols=24  Identities=17%  Similarity=0.268  Sum_probs=17.7  Template_Neff=1.500
+
+Q WP_000881830.1  223 NGMLAFAVTSLFIMIHTYLRRYYL  246 (430)
+Q Consensus       223 NGi~v~~is~~f~~v~~ylr~~~~  246 (430)
+                      -|..+.++++-.--.|||.|||.+
+T Consensus        22 AGVgvL~LtiGLsAAWrYA~rFLk   45 (46)
+T 1HH0_A           22 AGVGVLALAIGLSAAWKYAKRFLK   45 (46)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHGGG
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHhc
+Confidence            355556667777788999999864
+
+
+No 7
+>6UQ8_A Fumarate hydratase 2 (E.C.4.2.1.2); fumarate hydratase, fumarase, Leishmania major; HET: GOL, LMR, MLA, SF4; 1.339A {Leishmania major strain Friedlin}
+Probab=8.74  E-value=3.1e+02  Score=32.46  Aligned_cols=54  Identities=19%  Similarity=0.279  Sum_probs=42.0  Template_Neff=4.600
+
+Q WP_000881830.1  291 TLFSRIDAWLQVLNINDVSRLLFGSGLVQGLGEDDMNFYVDNGYLYLLHQSGLIALV  347 (430)
+Q Consensus       291 TL~sR~dAW~~~l~~~~~~dlL~G~GfVQGLg~td~~FYlDNgyyy~i~Q~Glf~Ll  347 (430)
+                      |-..|+|.|.+-+=.+--.....|||-   .++...+=--++|-.|+.+.||.-+++
+T Consensus       503 TTS~RMd~y~~~l~~~~Gv~~~IGKG~---rs~~v~~A~kk~g~vYl~~iGG~aAll  556 (604)
+T 6UQ8_A          503 TTAGRMDSYVDLFQSHGGSYITLAKGN---RSKQVTDACKKHGGFYLGSIGGPAAIL  556 (604)
+T ss_dssp             CBGGGGHHHHHHHHTTTCCSEEEEBSC---CCHHHHHHHHHHTCEEEEECSSCHHHC
+T ss_pred             ccccchhHHHHHHHHccCcEEEEecCc---CCHHHHHHHHHhCcEEEEecChHHHHH
+Confidence            667899999987766667888999993   444344466789999999999986654
+
+
+No 8
+>2JO1_A Phospholemman; FXYD1, Na,K-ATPase, Micelle, HYDROLASE REGULATOR; NMR {Homo sapiens}
+Probab=8.50  E-value=3.2e+02  Score=24.45  Aligned_cols=28  Identities=32%  Similarity=0.396  Sum_probs=19.5  Template_Neff=3.400
+
+Q WP_000881830.1  327 NFYVDNGYLYLLHQSGL-IALVLYIATWSYMF  357 (430)
+Q Consensus       327 ~FYlDNgyyy~i~Q~Gl-f~Llly~~~~s~~f  357 (430)
+                      .||.|   |.-+..||+ ++.++|+.-+.+.+
+T Consensus         8 pF~YD---Y~tLRigGLi~A~vLfi~GIliil   36 (72)
+T 2JO1_A            8 PFTYD---YQSLQIGGLVIAGILFILGILIVL   36 (72)
+T ss_dssp             GGGCS---THHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             CcCCC---HHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            47776   677889999 57777766555544
+
+
+No 9
+>6UNZ_A fumarate hydratase (E.C.4.2.1.2); fumarate hydratase, fumarase, Leishmania major; HET: SF4, GOL; 3.195A {Leishmania major strain Friedlin}
+Probab=8.00  E-value=3.5e+02  Score=32.08  Aligned_cols=54  Identities=19%  Similarity=0.279  Sum_probs=41.7  Template_Neff=4.600
+
+Q WP_000881830.1  291 TLFSRIDAWLQVLNINDVSRLLFGSGLVQGLGEDDMNFYVDNGYLYLLHQSGLIALV  347 (430)
+Q Consensus       291 TL~sR~dAW~~~l~~~~~~dlL~G~GfVQGLg~td~~FYlDNgyyy~i~Q~Glf~Ll  347 (430)
+                      |-..|.|.|.+-+=.+--.....|||-   .++...+=--++|-.|+.+.||.-+++
+T Consensus       503 TTS~RMd~y~~~l~~~~Gv~~~IGKG~---rs~~v~~A~kk~g~vYl~~iGG~aAll  556 (604)
+T 6UNZ_A          503 TTAGRMDSYVDLFQSHGGSYITLAKGN---RSKQVTDACKKHGGFYLGSIGGPAAIL  556 (604)
+T ss_dssp             CBGGGGHHHHHHHHHTTCCCEEEEBSC---CCHHHHHHHHHHTCEEEECCSSCHHHC
+T ss_pred             ccCcchhHHHHHHHHccCcEEEEecCc---CCHHHHHHHHHhCcEEEEecChHHHHH
+Confidence            667899999987766667789999993   344334456789999999999986654
+
+
+No 10
+>6MSO_A fumarate hydratase (E.C.4.2.1.2); inhibitor, mitochondrial, fumarate hydratase, LYASE; HET: 1PE, GOL, JYD, SF4; 2.053A {Leishmania major}
+Probab=7.24  E-value=4e+02  Score=31.51  Aligned_cols=54  Identities=19%  Similarity=0.258  Sum_probs=41.0  Template_Neff=4.700
+
+Q WP_000881830.1  291 TLFSRIDAWLQVLNINDVSRLLFGSGLVQGLGEDDMNFYVDNGYLYLLHQSGLIALV  347 (430)
+Q Consensus       291 TL~sR~dAW~~~l~~~~~~dlL~G~GfVQGLg~td~~FYlDNgyyy~i~Q~Glf~Ll  347 (430)
+                      |-..|.|.|.+-+-..--.....|||-   .++...+=--++|-.|+.+.||.-.++
+T Consensus       486 TTS~RMd~y~~~~~~~~Gv~~~IGKG~---rs~~v~~A~k~~g~vYl~aiGGaaAll  539 (585)
+T 6MSO_A          486 TTAGRMDPFVDLFQSHGGSMVMLAKGN---RSKQVTKACHKYGGFYLGSIGGPAAVL  539 (585)
+T ss_dssp             CBGGGGGGGHHHHHHTTCCCEEEEBSC---CCHHHHHHHHHHTCEEEECCSSCHHHH
+T ss_pred             ccCccccHHHHHHHHccCcEEEEecCc---CCHHHHHHHHHhCcEEEEeccHHHHHH
+Confidence            667899999987666677889999993   344333456789999999999986553
+
+

@@ -1,0 +1,177 @@
+Query         ADN43871.1 Wzy [Escherichia coli]
+Match_columns 383
+No_of_seqs    4 out of 6
+Neff          2.29822
+Searched_HMMs 80799
+Date          Thu Feb  3 10:41:00 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpgunctccf/query.a3m -o /tmp/tmpgunctccf/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6PL5_A Peptidoglycan glycosylt  95.2  0.0021 2.6E-08   61.8   0.0   80  255-337   215-299 (377)
+  2 6BAR_A Rod shape determining p  95.0  0.0029 3.6E-08   59.8   0.0   81  254-337   196-281 (359)
+  3 3U3Y_A Three prime repair exon  10.3 2.5E+02   0.003   28.1   0.0   23   16-38    286-308 (314)
+  4 3U3Y_B Three prime repair exon  10.2 2.5E+02  0.0031   28.1   0.0   23   16-38    286-308 (314)
+  5 6HIW_DW Uncharacterized protei   9.8 2.6E+02  0.0033   27.9   0.0   21  133-153    49-69  (179)
+  6 6HIZ_DW Uncharacterized protei   9.8 2.6E+02  0.0033   27.9   0.0   21  133-153    49-69  (179)
+  7 4PB2_A vcCNT-7C8C; membrane pr   4.5 7.3E+02   0.009   27.6   0.0   52  218-269    21-76  (424)
+  8 4PD6_A vcCNT-7C8C; membrane pr   4.5 7.3E+02   0.009   27.6   0.0   52  218-269    21-76  (424)
+  9 4PD8_A vcCNT-7C8C; membrane pr   4.5 7.3E+02   0.009   27.6   0.0   52  218-269    21-76  (424)
+ 10 1WPL_R GTP cyclohydrolase I(E.   4.0 8.4E+02    0.01   21.5   0.0    9    1-9       1-9   (84)
+
+No 1
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=95.21  E-value=0.0021  Score=61.80  Aligned_cols=80  Identities=11%  Similarity=-0.005  Sum_probs=48.7  Template_Neff=8.900
+
+Q ADN43871.1      255 INYISNKLDGFITGNASNASASERNKLLLIGVNAFLENPIFGGGLASFYNY---VDTGLVNFH--LQTLQQLGIFGYLLF  329 (383)
+Q Consensus       255 In~I~~Kl~gfi~~~~~naS~~~Rs~~l~igvd~f~dn~ifG~G~a~FYn~---~dtgLvtly--~~llvQfGIfGfL~f  329 (383)
+                      -++..++++.+.....+  + ++|.++...+.+.+.++|.+|.|...+.+.   .-+..-|=|  ..+.+|+|+.|-+.+
+T Consensus       215 ~~~~~~Ri~~~~~p~~~--~-~~~g~~~~~~~~~i~~~~~~G~G~g~~~~~~~~~~p~~h~d~i~~~i~~e~G~ig~~~~  291 (377)
+T 6PL5_A          215 KPYQRERVLIVLDPYRD--P-LGQGFQVIQSTIAIGSGGLFGKGYGQGTQAQLGFIPFRHTDFVFSVWAEEWGFVGVVGL  291 (377)
+T ss_dssp             CHHHHHHHHHHHSCCCH--H-HHHHHHHHHHHHTTCCCC----------------CCSCSSTTHHHHHHHHHHHHHHHHH
+T ss_pred             cchHHHHHHHhhCCCCC--C-CCCcHHHHHHHHHHHhcCCcCcCCCCcccchhhcCcCCCCCcHHHHHHHHccHHHHHHH
+Confidence            45666777776654432  2 378999999999999999999887655321   123344444  899999999999998
+
+
+Q ADN43871.1      330 LTFLLYPL  337 (383)
+Q Consensus       330 ltfflf~i  337 (383)
+                      +..+...+
+T Consensus       292 l~l~~~l~  299 (377)
+T 6PL5_A          292 LGLYGLLL  299 (377)
+T ss_dssp             HHHHHHHH
+T ss_pred             HHHHHHHH
+Confidence            88554443
+
+
+No 2
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=95.02  E-value=0.0029  Score=59.82  Aligned_cols=81  Identities=12%  Similarity=0.012  Sum_probs=29.4  Template_Neff=9.300
+
+Q ADN43871.1      254 LINYISNKLDGFITGNASNASASERNKLLLIGVNAFLENPIFGGGLASFYNY---VDTGLVNF--HLQTLQQLGIFGYLL  328 (383)
+Q Consensus       254 ~In~I~~Kl~gfi~~~~~naS~~~Rs~~l~igvd~f~dn~ifG~G~a~FYn~---~dtgLvtl--y~~llvQfGIfGfL~  328 (383)
+                      .-++..+++..+.....+  + ++|.+...-+.+...|+|.+|.|...+...   .-+..-|-  +..+.+|+|+.|.+.
+T Consensus       196 ~~~~~~~Rl~~~~~p~~d--~-~~~~~~~~~~~~~i~~~~~~G~G~g~~~~~~~~~~~~~h~d~i~~~i~~e~G~ig~~~  272 (359)
+T 6BAR_A          196 LKPYQRERVLIVLDPYRD--P-LGQGFQVIQSTIAIGSGGLFGKGYGQGTQAQLGFIPFRHTDFVFSVWAEEWGFVGVVG  272 (359)
+T ss_dssp             -----------------------------------CTTTCCSCC---------------CCTTTTHHHHHHHSHHHHHHH
+T ss_pred             CCchHHHHhhhHhCCCCC--C-CCCCHHHHHHHHHHHhcCcccccCCcccccccccCccccCccHHHHHHHHcchHHHHH
+Confidence            345666777776654422  2 368999999999999999999887554321   11333343  489999999999998
+
+
+Q ADN43871.1      329 FLTFLLYPL  337 (383)
+Q Consensus       329 fltfflf~i  337 (383)
+                      ++..+...+
+T Consensus       273 ~l~l~~~l~  281 (359)
+T 6BAR_A          273 LLGLYGLLL  281 (359)
+T ss_dssp             HHHHHHHHH
+T ss_pred             HHHHHHHHH
+Confidence            888554433
+
+
+No 3
+>3U3Y_A Three prime repair exonuclease 1; Rnase H fold, 3' exonuclease; HET: BU1; 2.28A {Mus musculus}
+Probab=10.29  E-value=2.5e+02  Score=28.10  Aligned_cols=23  Identities=39%  Similarity=0.658  Sum_probs=0.0  Template_Neff=8.300
+
+Q ADN43871.1       16 SFLSTLGTLSFFSLIIANLYFYF   38 (383)
+Q Consensus        16 ~f~~~l~t~~~~~~~i~~lyf~~   38 (383)
+                      +-++||+++.++|++++.||-..
+T Consensus       286 ~~~~~~~~~~~~~~~~~~~~~~~  308 (314)
+T 3U3Y_A          286 GLLAPLSLLTLLTLAIATLYGLF  308 (314)
+T ss_dssp             -----------------------
+T ss_pred             ccchhHHHHHHHHHHHHHHHHHH
+Confidence            56899999999999999999653
+
+
+No 4
+>3U3Y_B Three prime repair exonuclease 1; Rnase H fold, 3' exonuclease; HET: BU1; 2.28A {Mus musculus}
+Probab=10.23  E-value=2.5e+02  Score=28.07  Aligned_cols=23  Identities=39%  Similarity=0.658  Sum_probs=20.2  Template_Neff=8.300
+
+Q ADN43871.1       16 SFLSTLGTLSFFSLIIANLYFYF   38 (383)
+Q Consensus        16 ~f~~~l~t~~~~~~~i~~lyf~~   38 (383)
+                      +-++||+++.++|++++.||-..
+T Consensus       286 ~~~~~~~~~~~~~~~~~~~~~~~  308 (314)
+T 3U3Y_B          286 GLLAPLSLLTLLTLAIATLYGLF  308 (314)
+T ss_pred             ccchhHHHHHHHHHHHHHHHHHH
+Confidence            56899999999999999999653
+
+
+No 5
+>6HIW_DW Uncharacterized protein, mS74, uS3m, 30S; mitoribosome, translation, Trypanosoma, small ribosomal; HET: SPM, GTP, MG, UTP, SPD; 3.37A {Trypanosoma brucei brucei}
+Probab=9.82  E-value=2.6e+02  Score=27.85  Aligned_cols=21  Identities=29%  Similarity=0.588  Sum_probs=17.8  Template_Neff=1.500
+
+Q ADN43871.1      133 NNGYISWVPRFERPDYASNSF  153 (383)
+Q Consensus       133 ~k~~~dyvPrpdrl~Y~~~t~  153 (383)
+                      -||+-.|+|||.|++|....-
+T Consensus        49 dkgpVEWlPRPvrLty~~lD~   69 (179)
+T 6HIW_DW          49 DKGPVEWLPRPVRLTYDHLDQ   69 (179)
+T ss_pred             ccCCccccCcceeccHHHHHH
+Confidence            478999999999999987654
+
+
+No 6
+>6HIZ_DW Uncharacterized protein, uS3m, UNK/RNA Complex; mitoribosome, translation, Trypanosoma, small ribosomal; HET: GTP, SPD, UTP; 3.08A {Trypanosoma brucei brucei}
+Probab=9.82  E-value=2.6e+02  Score=27.85  Aligned_cols=21  Identities=29%  Similarity=0.588  Sum_probs=17.8  Template_Neff=1.500
+
+Q ADN43871.1      133 NNGYISWVPRFERPDYASNSF  153 (383)
+Q Consensus       133 ~k~~~dyvPrpdrl~Y~~~t~  153 (383)
+                      -||+-.|+|||.|++|....-
+T Consensus        49 dkgpVEWlPRPvrLty~~lD~   69 (179)
+T 6HIZ_DW          49 DKGPVEWLPRPVRLTYDHLDQ   69 (179)
+T ss_pred             ccCCccccCcceeccHHHHHH
+Confidence            478999999999999987654
+
+
+No 7
+>4PB2_A vcCNT-7C8C; membrane protein, sodium-coupled transporter, drug; HET: 5UD, DMU; 2.302A {Vibrio cholerae serotype O1}
+Probab=4.51  E-value=7.3e+02  Score=27.60  Aligned_cols=52  Identities=19%  Similarity=0.129  Sum_probs=31.8  Template_Neff=5.700
+
+Q ADN43871.1      218 IIAQFFSSNLIS-RKAKI--FLLILVLVGIVVASHEV-GILINYISNKLDGFITGN  269 (383)
+Q Consensus       218 ~i~~fF~~n~ks-~~~~i--fLliL~lfg~vv~~~e~-~~~In~I~~Kl~gfi~~~  269 (383)
+                      .+...++.|+|+ |+..+  .+.+=+.+|.++++.+. ....+.+.++++.+..-+
+T Consensus        21 ~ia~l~S~~rk~I~wr~V~~gL~LQ~i~a~lvLrt~~G~~~~~~i~~~v~~ll~~a   76 (424)
+T 4PB2_A           21 GIAVLLSSNRKAINLRTVGGAFAIQFSLGAFILYVPWGQELLRGFSDAVSNVINYG   76 (424)
+T ss_dssp             HHHHHTCSCGGGCCHHHHHHHHHHHHHHHHHHHTSHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHCCChhcCChHHHHHHHHHHHHHHHHHhcChHHHHHHHHHHHHHHHHHHhh
+Confidence            344445555443 22222  23333489999999996 677788888777666443
+
+
+No 8
+>4PD6_A vcCNT-7C8C; membrane protein, sodium-coupled transporter, drug; HET: URI, DMU; 2.08A {Vibrio cholerae serotype O1}
+Probab=4.51  E-value=7.3e+02  Score=27.60  Aligned_cols=52  Identities=19%  Similarity=0.129  Sum_probs=31.8  Template_Neff=5.700
+
+Q ADN43871.1      218 IIAQFFSSNLIS-RKAKI--FLLILVLVGIVVASHEV-GILINYISNKLDGFITGN  269 (383)
+Q Consensus       218 ~i~~fF~~n~ks-~~~~i--fLliL~lfg~vv~~~e~-~~~In~I~~Kl~gfi~~~  269 (383)
+                      .+...++.|+|+ |+..+  .+.+=+.+|.++++.+. ....+.+.++++.+..-+
+T Consensus        21 ~ia~l~S~~rk~I~wr~V~~gL~LQ~i~a~lvLrt~~G~~~~~~i~~~v~~ll~~a   76 (424)
+T 4PD6_A           21 GIAVLLSSNRKAINLRTVGGAFAIQFSLGAFILYVPWGQELLRGFSDAVSNVINYG   76 (424)
+T ss_dssp             HHHHHTCSCGGGCCHHHHHHHHHHHHHHHHHHHTSHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHCCChhcCChHHHHHHHHHHHHHHHHHhcChHHHHHHHHHHHHHHHHHHhh
+Confidence            344445555443 22222  23333489999999996 677788888777666443
+
+
+No 9
+>4PD8_A vcCNT-7C8C; membrane protein, sodium-coupled transporter, pyrrolo-cytidine; HET: P0C, DMU; 2.75A {Vibrio cholerae serotype O1}
+Probab=4.51  E-value=7.3e+02  Score=27.60  Aligned_cols=52  Identities=19%  Similarity=0.129  Sum_probs=31.8  Template_Neff=5.700
+
+Q ADN43871.1      218 IIAQFFSSNLIS-RKAKI--FLLILVLVGIVVASHEV-GILINYISNKLDGFITGN  269 (383)
+Q Consensus       218 ~i~~fF~~n~ks-~~~~i--fLliL~lfg~vv~~~e~-~~~In~I~~Kl~gfi~~~  269 (383)
+                      .+...++.|+|+ |+..+  .+.+=+.+|.++++.+. ....+.+.++++.+..-+
+T Consensus        21 ~ia~l~S~~rk~I~wr~V~~gL~LQ~i~a~lvLrt~~G~~~~~~i~~~v~~ll~~a   76 (424)
+T 4PD8_A           21 GIAVLLSSNRKAINLRTVGGAFAIQFSLGAFILYVPWGQELLRGFSDAVSNVINYG   76 (424)
+T ss_dssp             HHHHHTCSCGGGCCHHHHHHHHHHHHHHHHHHHTSHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHCCChhcCChHHHHHHHHHHHHHHHHHhcChHHHHHHHHHHHHHHHHHHhh
+Confidence            344445555443 22222  23333489999999996 677788888777666443
+
+
+No 10
+>1WPL_R GTP cyclohydrolase I(E.C.3.5.4.16)/GTP cyclohydrolase I; ENZYME-REGULATORY PROTEIN COMPLEX, HYDROLASE-PROTEIN BINDING; HET: 3PO, NA, HBI, ZN; 2.8A {Rattus norvegicus} SCOP: d.205.1.1
+Probab=4.01  E-value=8.4e+02  Score=21.50  Aligned_cols=9  Identities=56%  Similarity=1.088  Sum_probs=5.4  Template_Neff=5.300
+
+Q ADN43871.1        1 MPYIVISLS    9 (383)
+Q Consensus         1 ~~~~~~~~~    9 (383)
+                      ||||.||-+
+T Consensus         1 MPYilvs~~    9 (84)
+T 1WPL_R            1 MPYLLISTQ    9 (84)
+T ss_dssp             CCEEEEEEE
+T ss_pred             CCeEEEEee
+Confidence            666666544
+
+

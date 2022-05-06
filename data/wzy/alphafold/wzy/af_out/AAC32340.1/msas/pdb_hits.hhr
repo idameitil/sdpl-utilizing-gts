@@ -1,0 +1,159 @@
+Query         AAC32340.1 O antigen polymerase Wzy [Escherichia coli]
+Match_columns 394
+No_of_seqs    3 out of 10
+Neff          1.41043
+Searched_HMMs 80799
+Date          Wed Apr 27 10:15:46 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpfiamkw54/query.a3m -o /tmp/tmpfiamkw54/output.hhr -maxseq 1000000 -d /mnt/disks/data/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 2RDD_B Acriflavine resistance   50.6      13 0.00016   25.8   0.0   26   41-66      6-31  (37)
+  2 2GCD_A Serine/threonine-protei  31.2      41 0.00051   29.2   0.0   49  225-273   257-305 (309)
+  3 3ZTA_A ANTI-SIGMA-FACTOR ANTAG  14.2 1.6E+02  0.0019   27.9   0.0   41  220-260    13-65  (146)
+  4 2WSS_V ATP SYNTHASE SUBUNIT AL  13.9 1.6E+02   0.002   25.4   0.0   18  249-266    31-48  (76)
+  5 6J5K_Cc ATP synthase F1 subuni  13.6 1.7E+02  0.0021   24.9   0.0   18  249-266    25-42  (70)
+  6 4B2Q_V ATP SYNTHASE SUBUNIT AL  13.4 1.7E+02  0.0021   24.6   0.0   19  248-266    27-45  (66)
+  7 2CLY_F ATP SYNTHASE B CHAIN, M  12.4 1.9E+02  0.0023   25.0   0.0   18  249-266    32-49  (77)
+  8 6QEQ_A Bacterial mobilisation   11.6 2.1E+02  0.0026   23.2   0.0   31  241-271    88-118 (118)
+  9 6QEQ_C Bacterial mobilisation   11.6 2.1E+02  0.0026   23.2   0.0   31  241-271    88-118 (118)
+ 10 4HPM_A BCL-6 corepressor-like   11.1 2.2E+02  0.0028   26.1   0.0   13  373-385    34-46  (122)
+
+No 1
+>2RDD_B Acriflavine resistance protein B, UPF0092; DRUG RESISTANCE, MULTIDRUG EFFLUX, TRANSPORTER; HET: AIC; 3.5A {Escherichia coli}
+Probab=50.58  E-value=13  Score=25.81  Aligned_cols=26  Identities=15%  Similarity=0.582  Sum_probs=19.2  Template_Neff=6.900
+
+Q AAC32340.1       41 IIIFQIFFVLLFYLTIINERKQQKKF   66 (394)
+Q Consensus        41 ~i~fqi~~vl~~~l~i~~~~~~q~~~   66 (394)
+                      ++++-++++++|.+.+++++++|++.
+T Consensus         6 ll~~~~~~~~~~~~~~rpqkK~~k~~   31 (37)
+T 2RDD_B            6 ILMLVVFGLIFYFMILRPQQKRTKEH   31 (37)
+T ss_dssp             HHHHHHHHHHHHHHTHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHCHHHHHHHHH
+Confidence            34455677778888999998887754
+
+
+No 2
+>2GCD_A Serine/threonine-protein kinase TAO2 (E.C.2.7.1.37); TAO2, MAP3K, inhibitor, staurosporine, TRANSFERASE; HET: STU, SEP; 2.55A {Rattus norvegicus} SCOP: d.144.1.7
+Probab=31.19  E-value=41  Score=29.24  Aligned_cols=49  Identities=16%  Similarity=0.142  Sum_probs=36.1  Template_Neff=10.800
+
+Q AAC32340.1      225 NRLTIEQVEGVPYVVSESIKNDFFPTPELEKELKAIINRIQGIKHQDLF  273 (394)
+Q Consensus       225 nrltieqvesvpyiises~k~dlfpt~el~keinai~nr~qgik~q~lf  273 (394)
+                      +|.|.+|+-..||+..+..+.-+-|+.+--+++++.+...|-.+.-.+|
+T Consensus       257 ~Rps~~eil~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  305 (309)
+T 2GCD_A          257 DRPTSEVLLKHRFVLRERPPTVIMDLIQRTKDAVRELDNLQYRKMKKIL  305 (309)
+T ss_dssp             GSCCHHHHTTCHHHHSCCCTTHHHHHHHHHHHHHHTSSSGGGCGGGGGG
+T ss_pred             hCCCHHHHhcCHHHhcCCCCeeeeeecHHHHHHHHHHHHHHHHHHHHHh
+Confidence            5788999999999999988888888887777776666555544433333
+
+
+No 3
+>3ZTA_A ANTI-SIGMA-FACTOR ANTAGONIST (STAS) DOMAIN PROTEIN; SIGNALING, SIGNAL TRANSDUCTION, PHOSPHORYLATION, PROTEIN-PROTEIN; 2.7A {MOORELLA THERMOACETICA}
+Probab=14.18  E-value=1.6e+02  Score=27.90  Aligned_cols=41  Identities=32%  Similarity=0.404  Sum_probs=28.7  Template_Neff=1.000
+
+Q AAC32340.1      220 MLRIINRLTIEQVEGVPYVVS------------ESIKNDFFPTPELEKELKAI  260 (394)
+Q Consensus       220 ~~ri~nrltieqvesvpyiis------------es~k~dlfpt~el~keinai  260 (394)
+                      +.+-+|-|+-|+-.+|.+---            ..++..-|.|+|++|||..-
+T Consensus        13 vekainllskedqagvhfneisaltrdfcrailsdleqsgfttselekeiadk   65 (146)
+T 3ZTA_A           13 VEKAINLLSKEDQAGVHFNEISALTRDFCRAILSDLEQSGFTTSELEKEIADK   65 (146)
+T ss_dssp             HHHHHHHHHTSCCTTCCHHHHHHHHHHHHHHHHHHHTSSSCCCHHHHHHHHHH
+T ss_pred             HHHHHHHcchhHhcCCCHHHHHHHhHHHHHHHHHHHHHcCCChHHHHHHHHHH
+Confidence            566788888888777765322            23445569999999998654
+
+
+No 4
+>2WSS_V ATP SYNTHASE SUBUNIT ALPHA, MITOCHONDRIAL; HYDROGEN ION TRANSPORT, ATP SYNTHESIS; HET: MSE, MG, ANP, ADP; 3.2A {BOS TAURUS}
+Probab=13.95  E-value=1.6e+02  Score=25.36  Aligned_cols=18  Identities=17%  Similarity=0.431  Sum_probs=16.3  Template_Neff=4.100
+
+Q AAC32340.1      249 PTPELEKELKAIINRIQG  266 (394)
+Q Consensus       249 pt~el~keinai~nr~qg  266 (394)
+                      |+||+.||++.-++|++-
+T Consensus        31 ~~Pe~~kel~~el~kL~r   48 (76)
+T 2WSS_V           31 AGPEYQQDLDRELFKLKQ   48 (76)
+T ss_dssp             CCSHHHHHHHHHHHGGGT
+T ss_pred             CCHHHHHHHHHHHHHHHH
+Confidence            899999999999999864
+
+
+No 5
+>6J5K_Cc ATP synthase F1 subunit alpha; membrane protein; HET: ADP, ATP, MG; 6.2A {Sus scrofa}
+Probab=13.58  E-value=1.7e+02  Score=24.93  Aligned_cols=18  Identities=17%  Similarity=0.431  Sum_probs=16.2  Template_Neff=4.100
+
+Q AAC32340.1      249 PTPELEKELKAIINRIQG  266 (394)
+Q Consensus       249 pt~el~keinai~nr~qg  266 (394)
+                      |+||..||++.-++|++-
+T Consensus        25 ~~pe~~kel~~el~kL~r   42 (70)
+T 6J5K_Cc          25 AGPEYQQDLDRELFKLKQ   42 (70)
+T ss_pred             CCHHHHHHHHHHHHHHHH
+Confidence            899999999999998864
+
+
+No 6
+>4B2Q_V ATP SYNTHASE SUBUNIT ALPHA, MITOCHONDRIAL; HYDROLASE, SUBTOMOGRAM AVERAGE; HET: ADP, ATP, MG; 37.0A {SACCHAROMYCES CEREVISIAE}
+Probab=13.39  E-value=1.7e+02  Score=24.58  Aligned_cols=19  Identities=16%  Similarity=0.329  Sum_probs=16.6  Template_Neff=4.200
+
+Q AAC32340.1      248 FPTPELEKELKAIINRIQG  266 (394)
+Q Consensus       248 fpt~el~keinai~nr~qg  266 (394)
+                      =|+||..||++.-++|++-
+T Consensus        27 D~~pe~~kel~~el~kl~r   45 (66)
+T 4B2Q_V           27 DAGPEYQQDLDRELFKLKQ   45 (66)
+T ss_dssp             SCCTHHHHHHHHHHHHHHH
+T ss_pred             CCCHHHHHHHHHHHHHHHH
+Confidence            3899999999999998864
+
+
+No 7
+>2CLY_F ATP SYNTHASE B CHAIN, MITOCHONDRIAL; MITOCHONDRIA, MITOCHONDRION, ION TRANSPORT, CF(0); 2.8A {BOS TAURUS} SCOP: f.45.1.1
+Probab=12.39  E-value=1.9e+02  Score=24.99  Aligned_cols=18  Identities=17%  Similarity=0.431  Sum_probs=16.2  Template_Neff=4.100
+
+Q AAC32340.1      249 PTPELEKELKAIINRIQG  266 (394)
+Q Consensus       249 pt~el~keinai~nr~qg  266 (394)
+                      |+||..||++.-++|++-
+T Consensus        32 a~Pe~~kel~~el~kL~r   49 (77)
+T 2CLY_F           32 AGPEYQQDLDRELFKLKQ   49 (77)
+T ss_dssp             CCTHHHHHHHHHHHHHHH
+T ss_pred             CCHHHHHHHHHHHHHHHH
+Confidence            899999999999999864
+
+
+No 8
+>6QEQ_A Bacterial mobilisation protein (MobC); Accessory factor, DNA BINDING PROTEIN; HET: MSE; 1.9A {Enterococcus faecalis}
+Probab=11.58  E-value=2.1e+02  Score=23.16  Aligned_cols=31  Identities=23%  Similarity=0.207  Sum_probs=21.8  Template_Neff=8.800
+
+Q AAC32340.1      241 ESIKNDFFPTPELEKELKAIINRIQGIKHQD  271 (394)
+Q Consensus       241 es~k~dlfpt~el~keinai~nr~qgik~q~  271 (394)
+                      +.++...-...++.+++..+.++..+-|||+
+T Consensus        88 ~~~~~~~~~~~~l~~~~~~~l~~~~~~~~~~  118 (118)
+T 6QEQ_A           88 EDIKDLTDKVQSLNALVQSELNKLIKRKDQS  118 (118)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHC-
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHhhhcCC
+Confidence            4444445555778888888888888888874
+
+
+No 9
+>6QEQ_C Bacterial mobilisation protein (MobC); Accessory factor, DNA BINDING PROTEIN; HET: MSE; 1.9A {Enterococcus faecalis}
+Probab=11.58  E-value=2.1e+02  Score=23.16  Aligned_cols=31  Identities=23%  Similarity=0.207  Sum_probs=16.9  Template_Neff=8.800
+
+Q AAC32340.1      241 ESIKNDFFPTPELEKELKAIINRIQGIKHQD  271 (394)
+Q Consensus       241 es~k~dlfpt~el~keinai~nr~qgik~q~  271 (394)
+                      +.++...-...++.+++..+.++..+-|||+
+T Consensus        88 ~~~~~~~~~~~~l~~~~~~~l~~~~~~~~~~  118 (118)
+T 6QEQ_C           88 EDIKDLTDKVQSLNALVQSELNKLIKRKDQS  118 (118)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHCC-------
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHhhhcCC
+Confidence            4444445555778888888888888888874
+
+
+No 10
+>4HPM_A BCL-6 corepressor-like protein 1, Polycomb; POLYCOMB, BCORL1, PCGF1, RAWUL, NSPC1; HET: PO4; 1.85A {Homo sapiens}
+Probab=11.07  E-value=2.2e+02  Score=26.12  Aligned_cols=13  Identities=46%  Similarity=0.672  Sum_probs=10.5  Template_Neff=4.700
+
+Q AAC32340.1      373 ILLHDTLKRLSRN  385 (394)
+Q Consensus       373 ~llhd~lkrlsrn  385 (394)
+                      +||+|++|||.-.
+T Consensus        34 ~LLsDvl~rLk~s   46 (122)
+T 4HPM_A           34 FLFSDVLKRLKLS   46 (122)
+T ss_dssp             EEHHHHHHHHTCC
+T ss_pred             EEHHHHHHHhCCC
+Confidence            6899999998643
+
+

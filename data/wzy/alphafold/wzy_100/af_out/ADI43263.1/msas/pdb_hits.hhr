@@ -1,0 +1,179 @@
+Query         ADI43263.1 Wzy [Escherichia coli]
+Match_columns 353
+No_of_seqs    116 out of 126
+Neff          6.0835
+Searched_HMMs 80799
+Date          Thu Feb  3 06:16:48 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp8i8c1r4q/query.a3m -o /tmp/tmp8i8c1r4q/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6BAR_A Rod shape determining p  95.2  0.0021 2.6E-08   64.7   0.0   96  238-348   196-294 (359)
+  2 6PL5_A Peptidoglycan glycosylt  95.2  0.0022 2.8E-08   65.3   0.0   95  239-348   215-312 (377)
+  3 1R4T_A exoenzyme S; EXOS, PSEU  26.2      57 0.00071   30.5   0.0   43  252-296    58-103 (153)
+  4 1HE1_B EXOENZYME S, RAS-RELATE  25.7      60 0.00074   29.9   0.0   45  252-298    56-103 (135)
+  5 5Z7L_D Calcium-binding and coi  21.4      82   0.001   23.2   0.0    9  158-166     3-11  (43)
+  6 2MKA_C Toll-like receptor 3; t  19.6      95  0.0012   21.9   0.0    9  256-264    25-33  (34)
+  7 3O0G_D Cell division protein k   8.8 3.1E+02  0.0038   25.8   0.0   19  316-334    72-90  (149)
+  8 1J5W_A Glycyl-tRNA synthetase    8.7 3.1E+02  0.0038   28.7   0.0   47  252-300   128-177 (298)
+  9 1J5W_B Glycyl-tRNA synthetase    8.5 3.2E+02  0.0039   28.7   0.0   41  258-300   134-177 (298)
+ 10 5F5W_A Glycine--tRNA ligase al   8.3 3.3E+02  0.0041   28.6   0.0   34  258-300   143-179 (299)
+
+No 1
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=95.21  E-value=0.0021  Score=64.66  Aligned_cols=96  Identities=13%  Similarity=0.188  Sum_probs=37.0  Template_Neff=9.300
+
+Q ADI43263.1      238 DISYYTSRLDFK-N-TTNLSVLVYLSGIERAFLNFITSYGLGIGFQQMGVNGEVGVYQQILADLDAPMLNIYDGSFISSK  315 (353)
+Q Consensus       238 ~~~Yf~~RL~~s-~-s~NLStLV~LQGwe~A~~sl~~T~GlGlGFQqlG~~~~~g~~~~ii~~l~g~~lN~~DGGflAsK  315 (353)
+                      ..+|..+|+..- | +++-+.=-|  =|+++.+.+++..-+|.|.++.....             ..+....+--+..+.
+T Consensus       196 ~~~~~~~Rl~~~~~p~~d~~~~~~--~~~~~~~~i~~~~~~G~G~g~~~~~~-------------~~~~~~~h~d~i~~~  260 (359)
+T 6BAR_A          196 LKPYQRERVLIVLDPYRDPLGQGF--QVIQSTIAIGSGGLFGKGYGQGTQAQ-------------LGFIPFRHTDFVFSV  260 (359)
+T ss_dssp             ----------------------------------CTTTCCSCC----------------------------CCTTTTHHH
+T ss_pred             CCchHHHHhhhHhCCCCCCCCCCH--HHHHHHHHHHhcCcccccCCcccccc-------------cccCccccCccHHHH
+Confidence            357999998641 1 111111111  14788888999888899986533210             011223444567789
+
+
+Q ADI43263.1      316 LISEFGFIGAIMCI-FYLFIFFDFICVSKKIRDI  348 (353)
+Q Consensus       316 iIsEFGi~Gi~l~~-~yl~~~~~~i~~~kk~~~~  348 (353)
+                      +..|+|++|.++++ .+...+.+..+..+|.||.
+T Consensus       261 i~~e~G~ig~~~~l~l~~~l~~~~~~~~~~~~~~  294 (359)
+T 6BAR_A          261 WAEEWGFVGVVGLLGLYGLLLARLFALALACPRL  294 (359)
+T ss_dssp             HHHHSHHHHHHHHHHHHHHHHHHHHHHHTTCSSH
+T ss_pred             HHHHcchHHHHHHHHHHHHHHHHHHHHHHhCCCH
+Confidence            99999999976555 4545566666666665554
+
+
+No 2
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=95.18  E-value=0.0022  Score=65.28  Aligned_cols=95  Identities=13%  Similarity=0.201  Sum_probs=49.6  Template_Neff=8.900
+
+Q ADI43263.1      239 ISYYTSRLDFK-N-TTNLSVLVYLSGIERAFLNFITSYGLGIGFQQMGVNGEVGVYQQILADLDAPMLNIYDGSFISSKL  316 (353)
+Q Consensus       239 ~~Yf~~RL~~s-~-s~NLStLV~LQGwe~A~~sl~~T~GlGlGFQqlG~~~~~g~~~~ii~~l~g~~lN~~DGGflAsKi  316 (353)
+                      .+|..+|++.- | .++-+.--|.  |.++.+++++..-+|.|..+.....             ..+....+--+..+.+
+T Consensus       215 ~~~~~~Ri~~~~~p~~~~~~~g~~--~~~~~~~i~~~~~~G~G~g~~~~~~-------------~~~~p~~h~d~i~~~i  279 (377)
+T 6PL5_A          215 KPYQRERVLIVLDPYRDPLGQGFQ--VIQSTIAIGSGGLFGKGYGQGTQAQ-------------LGFIPFRHTDFVFSVW  279 (377)
+T ss_dssp             CHHHHHHHHHHHSCCCHHHHHHHH--HHHHHHTTCCCC-----------------------------CCSCSSTTHHHHH
+T ss_pred             cchHHHHHHHhhCCCCCCCCCcHH--HHHHHHHHHhcCCcCcCCCCcccch-------------hhcCcCCCCCcHHHHH
+Confidence            57899998641 2 1111111111  4688899999888898875432110             0112233445777899
+
+
+Q ADI43263.1      317 ISEFGFIGAIMCI-FYLFIFFDFICVSKKIRDI  348 (353)
+Q Consensus       317 IsEFGi~Gi~l~~-~yl~~~~~~i~~~kk~~~~  348 (353)
+                      ..|+|++|.++++ .+...+.+..+..+|.||.
+T Consensus       280 ~~e~G~ig~~~~l~l~~~l~~~~~~~~~~~~~~  312 (377)
+T 6PL5_A          280 AEEWGFVGVVGLLGLYGLLLARLFALALACPRL  312 (377)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCSH
+T ss_pred             HHHccHHHHHHHHHHHHHHHHHHHHHHHhCCCH
+Confidence            9999999976555 4545566666666666554
+
+
+No 3
+>1R4T_A exoenzyme S; EXOS, PSEUDOMONAS AERUGINOSA, GAP, TOXIN; NMR {Pseudomonas aeruginosa}
+Probab=26.24  E-value=57  Score=30.52  Aligned_cols=43  Identities=28%  Similarity=0.265  Sum_probs=27.4  Template_Neff=3.300
+
+Q ADI43263.1      252 TNLSVLVYLSGIE---RAFLNFITSYGLGIGFQQMGVNGEVGVYQQIL  296 (353)
+Q Consensus       252 ~NLStLV~LQGwe---~A~~sl~~T~GlGlGFQqlG~~~~~g~~~~ii  296 (353)
+                      |||..++-..|-+   .+..+|.+..=-|+=|||+|+.+  |...+.+
+T Consensus        58 TaLqgi~~~s~~~~~~~~A~~LL~~~IGGiPFsQWGT~G--G~a~~wV  103 (153)
+T 1R4T_A           58 TALAGIRAGSQVEESRIQAGRLLERSIGGIALQQWGTTG--GAASQLV  103 (153)
+T ss_dssp             HHHHHHHH----------HHHHHTSEETTEEGGGTTSSS--SHHHHHH
+T ss_pred             HHHHHHHhccCCHHHHHHHHHHHhCccCCeehhhcCCcc--hHHHHHH
+Confidence            6777777776655   66778888888999999999864  4444444
+
+
+No 4
+>1HE1_B EXOENZYME S, RAS-RELATED C3 BOTULINUM; SIGNALING PROTEIN, SIGNALLING COMPLEX, EXOS; HET: GDP; 2.0A {PSEUDOMONAS AERUGINOSA} SCOP: a.24.11.1
+Probab=25.71  E-value=60  Score=29.86  Aligned_cols=45  Identities=29%  Similarity=0.279  Sum_probs=33.3  Template_Neff=3.600
+
+Q ADI43263.1      252 TNLSVLVYLSGIE---RAFLNFITSYGLGIGFQQMGVNGEVGVYQQILAD  298 (353)
+Q Consensus       252 ~NLStLV~LQGwe---~A~~sl~~T~GlGlGFQqlG~~~~~g~~~~ii~~  298 (353)
+                      |||..++...|-+   .+..+|.+..=-|+=|||+|+.+  |...+.+..
+T Consensus        56 TaLqgi~~~s~~~~~~~~a~~Ll~~~IGgiPFsQwGT~g--G~a~~wV~~  103 (135)
+T 1HE1_B           56 TALAGIRAGSQVEESRIQAGRLLERSIGGIALQQWGTTG--GAASQLVLD  103 (135)
+T ss_dssp             HHHHHHHHHCSCHHHHHHHHHHHHCEETTEEHHHHTCSS--SHHHHHHHH
+T ss_pred             HHHHHHHhcCCCHHHHHHHHHHhhcccCceeccccccCc--hHHHHHHHh
+Confidence            6777788777655   66778888888999999999864  455454443
+
+
+No 5
+>5Z7L_D Calcium-binding and coiled-coil domain-containing protein; NDP52, NAP1, SKICH, Autophagy, SIGNALING; HET: GOL; 2.02A {Homo sapiens}
+Probab=21.44  E-value=82  Score=23.24  Aligned_cols=9  Identities=56%  Similarity=0.534  Sum_probs=7.0  Template_Neff=2.100
+
+Q ADI43263.1      158 EPSAFALVF  166 (353)
+Q Consensus       158 EPSHfAL~~  166 (353)
+                      -+|||||+.
+T Consensus         3 vaShFALvt   11 (43)
+T 5Z7L_D            3 VASHFALVT   11 (43)
+T ss_dssp             CHHHHHHHH
+T ss_pred             hhhhHHHHH
+Confidence            369999984
+
+
+No 6
+>2MKA_C Toll-like receptor 3; transmembrane domain, trimer, IMMUNE SYSTEM; NMR {Homo sapiens}
+Probab=19.56  E-value=95  Score=21.86  Aligned_cols=9  Identities=22%  Similarity=0.523  Sum_probs=5.1  Template_Neff=4.100
+
+Q ADI43263.1      256 VLVYLSGIE  264 (353)
+Q Consensus       256 tLV~LQGwe  264 (353)
+                      .+++.|||+
+T Consensus        25 ~lv~~~~W~   33 (34)
+T 2MKA_C           25 LLIHFEGWR   33 (34)
+T ss_dssp             HHHHHHHCC
+T ss_pred             HHHHHhccC
+Confidence            455566664
+
+
+No 7
+>3O0G_D Cell division protein kinase 5; kinase, Kinase activator complex, kinase; HET: 3O0; 1.95A {Homo sapiens}
+Probab=8.77  E-value=3.1e+02  Score=25.84  Aligned_cols=19  Identities=16%  Similarity=0.287  Sum_probs=13.0  Template_Neff=2.900
+
+Q ADI43263.1      316 LISEFGFIGAIMCIFYLFI  334 (353)
+Q Consensus       316 iIsEFGi~Gi~l~~~yl~~  334 (353)
+                      +-+|-..=++++...|+-+
+T Consensus        72 ~~s~~eLqa~vLtCLYlsY   90 (149)
+T 3O0G_D           72 VGSDHELQAVLLTCLYLSY   90 (149)
+T ss_dssp             CCSHHHHHHHHHHHHHHHH
+T ss_pred             CCCHHHHHHHHHHHHHHHH
+Confidence            3477777777777777643
+
+
+No 8
+>1J5W_A Glycyl-tRNA synthetase alpha chain; structural genomics, TM0216, JCSG, Glycyl-tRNA; HET: MSE; 1.95A {Thermotoga maritima} SCOP: d.104.1.1
+Probab=8.70  E-value=3.1e+02  Score=28.73  Aligned_cols=47  Identities=15%  Similarity=-0.014  Sum_probs=24.9  Template_Neff=3.500
+
+Q ADI43263.1      252 TNLSVLVYLSGIERAFLNFITSYGLGIGFQQMG---VNGEVGVYQQILADLD  300 (353)
+Q Consensus       252 ~NLStLV~LQGwe~A~~sl~~T~GlGlGFQqlG---~~~~~g~~~~ii~~l~  300 (353)
+                      +|=|-=-+=-|||--.+..+-|+--  =|||+|   +.|..++.++=++++.
+T Consensus       128 EsPtLGAwGlGWEVwldGmEITQfT--YFQQvGGi~c~pv~~EITYGLERia  177 (298)
+T 1J5W_A          128 ESPTLGAWGVGWEVWLDGMEITQFT--YFQQIGGISLKDIPLEITYGLERIA  177 (298)
+T ss_dssp             EEGGGTEEEEEEEEEETTEEEEEEE--EEEEBTTBCCSSCCEEEEEEHHHHH
+T ss_pred             CCCCccceecceEEEeCCeEEeeee--eeeecCCccCCCCCeehhhhHHHHH
+Confidence            3333333444555444444433211  289998   4566677777666654
+
+
+No 9
+>1J5W_B Glycyl-tRNA synthetase alpha chain; structural genomics, TM0216, JCSG, Glycyl-tRNA; 1.95A {Thermotoga maritima} SCOP: d.104.1.1
+Probab=8.53  E-value=3.2e+02  Score=28.65  Aligned_cols=41  Identities=17%  Similarity=0.005  Sum_probs=22.7  Template_Neff=3.500
+
+Q ADI43263.1      258 VYLSGIERAFLNFITSYGLGIGFQQMG---VNGEVGVYQQILADLD  300 (353)
+Q Consensus       258 V~LQGwe~A~~sl~~T~GlGlGFQqlG---~~~~~g~~~~ii~~l~  300 (353)
+                      -+=-|||--.+..+-|+--  =|||+|   +.|..++.++=++++.
+T Consensus       134 AwGlGWEVwldGmEITQfT--YFQQvGGi~c~pv~~EITYGLERla  177 (298)
+T 1J5W_B          134 AWGVGWEVWLDGMEITQFT--YFQQIGGISLKDIPLEITYGLERIA  177 (298)
+T ss_dssp             EEEEEEEEEESSSEEEEEE--EEEEBTTBCCSSCCEEEEEEHHHHH
+T ss_pred             ceecceEEEeCCeeEeeee--eeeecCCccCccceEehhhhHHHHH
+Confidence            3444555444444433211  289998   4566677777666654
+
+
+No 10
+>5F5W_A Glycine--tRNA ligase alpha subunit (E.C.6.1.1.14); class II tRNA synthetase, LIGASE; HET: G5A; 2.81A {Aquifex aeolicus (strain VF5)}
+Probab=8.32  E-value=3.3e+02  Score=28.55  Aligned_cols=34  Identities=26%  Similarity=0.391  Sum_probs=0.0  Template_Neff=3.400
+
+Q ADI43263.1      258 VYLSGIERAFLNFITSYGLGIGFQQMG---VNGEVGVYQQILADLD  300 (353)
+Q Consensus       258 V~LQGwe~A~~sl~~T~GlGlGFQqlG---~~~~~g~~~~ii~~l~  300 (353)
+                      |++.|.|-.+-+-         |||+|   +.|..++.++=++++.
+T Consensus       143 VWldGMEITQfTY---------FQQvGGi~~~pv~~EITYGLERla  179 (299)
+T 5F5W_A          143 VWLDGMEITQFTY---------FQQAGGLDLDEISVEITYGLERIA  179 (299)
+T ss_dssp             EEETTEEEEEEEE---------EEEETTEECSSCCEEEEEEHHHHH
+T ss_pred             EEeCCeEEeeeeh---------hhhcCCccCccceeehhhhHHHHH
+
+

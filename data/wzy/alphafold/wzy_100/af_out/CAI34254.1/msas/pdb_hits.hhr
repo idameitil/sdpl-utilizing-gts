@@ -1,0 +1,157 @@
+Query         CAI34254.1 oligosaccharide repeat unit polymerase Wzy [Streptococcus pneumoniae]
+Match_columns 407
+No_of_seqs    113 out of 168
+Neff          6.65652
+Searched_HMMs 80799
+Date          Wed Feb  2 14:58:56 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpenk_otte/query.a3m -o /tmp/tmpenk_otte/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6BAR_A Rod shape determining p  34.4      34 0.00042   35.8   0.0   62  280-346   216-277 (359)
+  2 6PL5_A Peptidoglycan glycosylt  22.3      76 0.00094   33.7   0.0   61  280-345   234-294 (377)
+  3 3BO1_B 23S RIBOSOMAL RNA/RNA C   8.0 3.5E+02  0.0043   21.4   0.0   32  112-143    24-55  (65)
+  4 4V7I_AB Ribosome; RIBOSOME-SEC   8.0 3.5E+02  0.0043   21.4   0.0   32  112-143    24-55  (65)
+  5 5DHM_A Immunoreactive 32 kDa a   7.0 4.1E+02  0.0051   20.0   0.0   10  277-286    36-45  (53)
+  6 5DHM_B Immunoreactive 32 kDa a   7.0 4.1E+02  0.0051   20.0   0.0   10  277-286    36-45  (53)
+  7 3MMY_B mRNA export factor, Nuc   4.8 6.7E+02  0.0083   19.5   0.0   10  279-288    45-54  (56)
+  8 2KX2_A Putative uncharacterize   4.7 6.9E+02  0.0086   22.0   0.0   14  274-287    67-80  (96)
+  9 4OWR_B mRNA export factor, Nuc   4.5 7.3E+02   0.009   19.4   0.0   13  276-288    45-57  (59)
+ 10 3JBU_z PROTEIN/RNA Complex; si   3.4   1E+03   0.013   19.9   0.0   20  152-171    22-41  (87)
+
+No 1
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=34.37  E-value=34  Score=35.81  Aligned_cols=62  Identities=11%  Similarity=-0.053  Sum_probs=22.2  Template_Neff=9.300
+
+Q CAI34254.1      280 IRFDDYKAGFLAWQKSPIWGLGISDGLRTIEQHMDRTVRYNLGYSNSFFVVLAQGGIMLASYYFYPV  346 (407)
+Q Consensus       280 iR~dD~~aG~~aw~~~Pi~G~G~~n~~~~i~~~m~~~~~~n~G~Sngi~~vLa~GGI~l~~~Y~~p~  346 (407)
+                      -|-.....+.+++++||++|+|.++....-+.+.+     +.....-+.++..+-|+.-.+.++.-+
+T Consensus       216 ~~~~~~~~~~~~i~~~~~~G~G~g~~~~~~~~~~~-----~~h~d~i~~~i~~e~G~ig~~~~l~l~  277 (359)
+T 6BAR_A          216 GQGFQVIQSTIAIGSGGLFGKGYGQGTQAQLGFIP-----FRHTDFVFSVWAEEWGFVGVVGLLGLY  277 (359)
+T ss_dssp             ------------CTTTCCSCC--------------------CCTTTTHHHHHHHSHHHHHHHHHHHH
+T ss_pred             CCCHHHHHHHHHHHhcCcccccCCcccccccccCc-----cccCccHHHHHHHHcchHHHHHHHHHH
+Confidence            36777889999999999999999864221001111     111112247777787776555444333
+
+
+No 2
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=22.32  E-value=76  Score=33.70  Aligned_cols=61  Identities=11%  Similarity=-0.048  Sum_probs=27.5  Template_Neff=8.900
+
+Q CAI34254.1      280 IRFDDYKAGFLAWQKSPIWGLGISDGLRTIEQHMDRTVRYNLGYSNSFFVVLAQGGIMLASYYFYP  345 (407)
+Q Consensus       280 iR~dD~~aG~~aw~~~Pi~G~G~~n~~~~i~~~m~~~~~~n~G~Sngi~~vLa~GGI~l~~~Y~~p  345 (407)
+                      -|-.....+.++++++|++|+|.++....-.++.+     +.....-+.++..+-|+.-.+.++.-
+T Consensus       234 ~~g~~~~~~~~~i~~~~~~G~G~g~~~~~~~~~~p-----~~h~d~i~~~i~~e~G~ig~~~~l~l  294 (377)
+T 6PL5_A          234 GQGFQVIQSTIAIGSGGLFGKGYGQGTQAQLGFIP-----FRHTDFVFSVWAEEWGFVGVVGLLGL  294 (377)
+T ss_dssp             HHHHHHHHHHHTTCCCC----------------CC-----SCSSTTHHHHHHHHHHHHHHHHHHHH
+T ss_pred             CCcHHHHHHHHHHHhcCCcCcCCCCcccchhhcCc-----CCCCCcHHHHHHHHccHHHHHHHHHH
+Confidence            35666789999999999999999864221001111     11112224677777776655544433
+
+
+No 3
+>3BO1_B 23S RIBOSOMAL RNA/RNA Complex; Ribosome-SecY complex, Membrane, Protein transport; 9.6A {Escherichia coli}
+Probab=7.99  E-value=3.5e+02  Score=21.38  Aligned_cols=32  Identities=19%  Similarity=0.356  Sum_probs=26.8  Template_Neff=7.200
+
+Q CAI34254.1      112 EIANLIRKFVRIIFLLAIGSLLFWLIGSVFHI  143 (407)
+Q Consensus       112 ~~~~ll~~~~niv~iiA~iSL~fWl~gsil~i  143 (407)
+                      ..++..+.+..++.+.++.++++|++..+++.
+T Consensus        24 ~~k~~~~~t~~Vi~~~~i~~~~~~~~D~~~~~   55 (65)
+T 3BO1_B           24 TRKPTKDEYLAVAKVTALGISLLGIIGYIIHV   55 (65)
+T ss_dssp             TTTTCTTHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             CCchHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            35667888999999999999999999887654
+
+
+No 4
+>4V7I_AB Ribosome; RIBOSOME-SECY COMPLEX, PROTEIN TRANSLOCATION, Cell; 9.6A {Escherichia coli}
+Probab=7.99  E-value=3.5e+02  Score=21.38  Aligned_cols=32  Identities=19%  Similarity=0.356  Sum_probs=26.8  Template_Neff=7.200
+
+Q CAI34254.1      112 EIANLIRKFVRIIFLLAIGSLLFWLIGSVFHI  143 (407)
+Q Consensus       112 ~~~~ll~~~~niv~iiA~iSL~fWl~gsil~i  143 (407)
+                      ..++..+.+..++.+.++.++++|++..+++.
+T Consensus        24 ~~k~~~~~t~~Vi~~~~i~~~~~~~~D~~~~~   55 (65)
+T 4V7I_AB          24 TRKPTKDEYLAVAKVTALGISLLGIIGYIIHV   55 (65)
+T ss_pred             CCchHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            35667888999999999999999999887654
+
+
+No 5
+>5DHM_A Immunoreactive 32 kDa antigen; Fimbria, adhesin, periodontitis, cell adhesion; HET: MSE; 1.9A {Porphyromonas gingivalis ATCC 33277}
+Probab=7.00  E-value=4.1e+02  Score=19.98  Aligned_cols=10  Identities=40%  Similarity=0.810  Sum_probs=5.7  Template_Neff=1.000
+
+Q CAI34254.1      277 SATIRFDDYK  286 (407)
+Q Consensus       277 S~siR~dD~~  286 (407)
+                      -.++|.||+.
+T Consensus        36 eisirvddft   45 (53)
+T 5DHM_A           36 EISIRVDDFT   45 (53)
+T ss_dssp             EEEEEECCEE
+T ss_pred             EEEEEecccc
+Confidence            3456666653
+
+
+No 6
+>5DHM_B Immunoreactive 32 kDa antigen; Fimbria, adhesin, periodontitis, cell adhesion; HET: MSE; 1.9A {Porphyromonas gingivalis ATCC 33277}
+Probab=7.00  E-value=4.1e+02  Score=19.98  Aligned_cols=10  Identities=40%  Similarity=0.810  Sum_probs=5.7  Template_Neff=1.000
+
+Q CAI34254.1      277 SATIRFDDYK  286 (407)
+Q Consensus       277 S~siR~dD~~  286 (407)
+                      -.++|.||+.
+T Consensus        36 eisirvddft   45 (53)
+T 5DHM_B           36 EISIRVDDFT   45 (53)
+T ss_pred             EEEEEecccc
+Confidence            3456666653
+
+
+No 7
+>3MMY_B mRNA export factor, Nuclear pore; Nuclear Pore Complex, mRNA export; HET: MES; 1.65A {Homo sapiens}
+Probab=4.81  E-value=6.7e+02  Score=19.46  Aligned_cols=10  Identities=40%  Similarity=0.963  Sum_probs=7.2  Template_Neff=6.300
+
+Q CAI34254.1      279 TIRFDDYKAG  288 (407)
+Q Consensus       279 siR~dD~~aG  288 (407)
+                      .+|++|+..|
+T Consensus        45 ELR~~dY~~g   54 (56)
+T 3MMY_B           45 ELRLEDYQAN   54 (56)
+T ss_dssp             HHHHHHHHTT
+T ss_pred             HhHHHHHHhc
+Confidence            4788887765
+
+
+No 8
+>2KX2_A Putative uncharacterized protein; methanobacterium thermoautotrophicum, structural genomics, UNKNOWN; NMR {Methanobacterium thermoautotrophicum}
+Probab=4.68  E-value=6.9e+02  Score=22.02  Aligned_cols=14  Identities=21%  Similarity=0.617  Sum_probs=11.0  Template_Neff=2.500
+
+Q CAI34254.1      274 GTGSATIRFDDYKA  287 (407)
+Q Consensus       274 ~t~S~siR~dD~~a  287 (407)
+                      +|+-...|+|||+|
+T Consensus        67 gS~~ak~r~dDfiA   80 (96)
+T 2KX2_A           67 GSEESKVKMADFIA   80 (96)
+T ss_dssp             CCHHHHTSTHHHHH
+T ss_pred             CChhhhhcHHHHHh
+Confidence            56667789999987
+
+
+No 9
+>4OWR_B mRNA export factor, Nuclear pore; mRNA export, virus, TRANSPORT PROTEIN; 3.15A {Homo sapiens}
+Probab=4.49  E-value=7.3e+02  Score=19.42  Aligned_cols=13  Identities=31%  Similarity=0.698  Sum_probs=8.8  Template_Neff=6.500
+
+Q CAI34254.1      276 GSATIRFDDYKAG  288 (407)
+Q Consensus       276 ~S~siR~dD~~aG  288 (407)
+                      +.-.+|++||..|
+T Consensus        45 SfEELR~~dY~~~   57 (59)
+T 4OWR_B           45 SLEELRLEDYQAN   57 (59)
+T ss_dssp             CHHHHHHHHHHTT
+T ss_pred             ChHHHHHHHHHhc
+Confidence            3445788888776
+
+
+No 10
+>3JBU_z PROTEIN/RNA Complex; single particle analysis, ribosome stalling; 3.64A {Escherichia coli K-12}
+Probab=3.44  E-value=1e+03  Score=19.86  Aligned_cols=20  Identities=25%  Similarity=0.546  Sum_probs=15.4  Template_Neff=1.100
+
+Q CAI34254.1      152 NYWNGGGIVEGYYNLHFEAQ  171 (407)
+Q Consensus       152 ~~Wg~~~~i~sY~~lyFetQ  171 (407)
+                      -.|+.+.+-.++-|+|++.-
+T Consensus        22 gswshpqfekgfenly~qkM   41 (87)
+T 3JBU_z           22 GSWSHPQFEKGFENLYFQGM   41 (87)
+T ss_pred             ccCCChhHHHHHHHHHHHhh
+Confidence            45877778888999998654
+
+

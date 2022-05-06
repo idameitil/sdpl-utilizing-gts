@@ -1,0 +1,159 @@
+Query         WP_050260163.1 O-antigen ligase family protein [Streptococcus pneumoniae] >MBW8124602.1 O-antigen ligase family protein [Streptococcus pneumoniae] >CAI33537.1 oligosaccharide repeat unit polymerase Wzy [Streptococcus pneumoniae] >CEV62832.1 O-Antigen ligase [Streptococcus pneumoniae] >CEY85304.1 O-Antigen ligase [Streptococcus pneumoniae] >CIT68214.1 O-Antigen ligase [Streptococcus pneumoniae]
+Match_columns 423
+No_of_seqs    79 out of 85
+Neff          6.27134
+Searched_HMMs 80799
+Date          Thu Apr 28 07:32:34 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpg28elypm/query.a3m -o /tmp/tmpg28elypm/output.hhr -maxseq 1000000 -d /mnt/disks/data/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6BAR_A Rod shape determining p  21.3      82   0.001   33.3   0.0   65  334-398   251-323 (359)
+  2 6PL5_A Peptidoglycan glycosylt  17.8 1.1E+02  0.0014   32.8   0.0   65  334-398   269-341 (377)
+  3 2PR1_B Uncharacterized N-acety   8.0 3.5E+02  0.0043   23.5   0.0   50  297-352    86-135 (163)
+  4 1I1D_D GLUCOSAMINE-PHOSPHATE N   8.0 3.5E+02  0.0043   22.7   0.0   15  298-312   101-115 (161)
+  5 3T9Y_A Acetyltransferase, GNAT   7.7 3.7E+02  0.0045   22.0   0.0   14  299-312    86-99  (150)
+  6 1GHE_A ACETYLTRANSFERASE (E.C.   7.4 3.8E+02  0.0048   23.0   0.0   53  298-351    95-149 (177)
+  7 1YSY_A Replicase polyprotein 1   7.2   4E+02  0.0049   23.4   0.0    9  333-341    35-43  (85)
+  8 2AHM_C Replicase polyprotein 1   7.1   4E+02   0.005   23.5   0.0    9  333-341    38-46  (88)
+  9 5F22_A Non-structural protein    7.1   4E+02   0.005   23.5   0.0    9  333-341    38-46  (88)
+ 10 1GHE_B ACETYLTRANSFERASE (E.C.   6.9 4.2E+02  0.0052   22.7   0.0   48  301-348    98-146 (177)
+
+No 1
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=21.30  E-value=82  Score=33.28  Aligned_cols=65  Identities=15%  Similarity=0.119  Sum_probs=34.7  Template_Neff=9.300
+
+Q WP_050260163.1  334 GLHNDI--LKYYIEIGFVGLFIYFYTL--LYRNAKRIFVKIGHKESF----IYFVLIMFQMLIWFTDNISTYH  398 (423)
+Q Consensus       334 ~lHNDi--Lk~YIElGFiGf~iW~~~~--~~~~~~~i~~k~g~~~~~----ly~~~~iY~fitY~TDNt~~Y~  398 (423)
+                      ..|||.  +..-.|.|.+|..+.+..+  +..+.-+..+|..++.+.    ..........+.....|+...+
+T Consensus       251 ~~h~d~i~~~i~~e~G~ig~~~~l~l~~~l~~~~~~~~~~~~~~~~~~l~~g~~~~~~~q~~~~i~~~~g~~P  323 (359)
+T 6BAR_A          251 FRHTDFVFSVWAEEWGFVGVVGLLGLYGLLLARLFALALACPRLSDRLFLSGFAGMLGFQVVVNLGVALGVMP  323 (359)
+T ss_dssp             -CCTTTTHHHHHHHSHHHHHHHHHHHHHHHHHHHHHHHTTCSSHHHHHHHHHHHHHHHHHHHHHHHHHHC-CC
+T ss_pred             cccCccHHHHHHHHcchHHHHHHHHHHHHHHHHHHHHHHhCCCHHHHHHHHHHHHHHHHHHHHHHHHHhCCCc
+Confidence            689997  9999999999988764222  222222333333333222    1223333444555666665444
+
+
+No 2
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=17.76  E-value=1.1e+02  Score=32.79  Aligned_cols=65  Identities=15%  Similarity=0.121  Sum_probs=36.1  Template_Neff=8.900
+
+Q WP_050260163.1  334 GLHNDI--LKYYIEIGFVGLFIYFYTL--LYRNAKRIFVKIGHKES----FIYFVLIMFQMLIWFTDNISTYH  398 (423)
+Q Consensus       334 ~lHNDi--Lk~YIElGFiGf~iW~~~~--~~~~~~~i~~k~g~~~~----~ly~~~~iY~fitY~TDNt~~Y~  398 (423)
+                      ..|||.  ...-.|.|++|..+-+..+  +..+.-+..+|..++.+    ...........+.....|+...+
+T Consensus       269 ~~h~d~i~~~i~~e~G~ig~~~~l~l~~~l~~~~~~~~~~~~~~~~~~l~~g~~~~~~~q~~~ni~~~~g~~P  341 (377)
+T 6PL5_A          269 FRHTDFVFSVWAEEWGFVGVVGLLGLYGLLLARLFALALACPRLSDRLFLSGFAGMLGFQVVVNLGVALGVMP  341 (377)
+T ss_dssp             SCSSTTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCSHHHHHHHHHHHHHHHHHHHHHHHHHTTCSC
+T ss_pred             CCCCCcHHHHHHHHccHHHHHHHHHHHHHHHHHHHHHHHhCCCHHHHHHHHHHHHHHHHHHHHHHHHHcCCCC
+Confidence            689999  9999999999887653222  22222223333333322    22233334445566667765554
+
+
+No 3
+>2PR1_B Uncharacterized N-acetyltransferase ylbP (E.C.2.3.1.-); N-acetyltransferase, YibP protein, Coenzyme A; HET: SO4, COA, SUC; 3.2A {Bacillus subtilis}
+Probab=8.03  E-value=3.5e+02  Score=23.48  Aligned_cols=50  Identities=12%  Similarity=0.132  Sum_probs=27.2  Template_Neff=11.800
+
+Q WP_050260163.1  297 STYSFAPIFMGRGIGFVTKWMDNNWMTLNINGLTESTGLHNDILKYYIEIGFVGLF  352 (423)
+Q Consensus       297 ~yY~fSp~ylG~G~gfv~~~~~~~~~~~~~~g~~~~~~lHNDiLk~YIElGFiGf~  352 (423)
+                      ...-..|.++|+|++-.  .+.......    ......-.|+-.+.|-+.||--.-
+T Consensus        86 ~~~~v~~~~r~~Gig~~--l~~~~~~~~----~~~~~~~~~~~~~~~~~~Gf~~~~  135 (163)
+T 2PR1_B           86 WKLEVLPGYQNRGYGRA--LVEFAKSFK----MPIRTNPRMKSAEFWNKMNFKTVK  135 (163)
+T ss_dssp             EEEEECTTSTTSSHHHH--HHHHHHTTC----CCEEECCCGGGHHHHHHTTCEECC
+T ss_pred             EEEEeCHHHCCCCHHHH--HHHHHHHcC----CccccCCCChhHHHHHhcCCEEee
+Confidence            34556899999998632  222111100    111122344567888899988533
+
+
+No 4
+>1I1D_D GLUCOSAMINE-PHOSPHATE N-ACETYLTRANSFERASE (E.C.2.3.1.4); ALPHA/BETA, DOMAIN SWAPPING, GNAT CONSERVED; HET: COA, 16G; 1.8A {Saccharomyces cerevisiae} SCOP: d.108.1.1
+Probab=7.97  E-value=3.5e+02  Score=22.69  Aligned_cols=15  Identities=20%  Similarity=0.521  Sum_probs=11.8  Template_Neff=12.700
+
+Q WP_050260163.1  298 TYSFAPIFMGRGIGF  312 (423)
+Q Consensus       298 yY~fSp~ylG~G~gf  312 (423)
+                      ..-..|.++|+|++-
+T Consensus       101 ~~~v~~~~rg~Gi~~  115 (161)
+T 1I1D_D          101 DIAVNSKYQGQGLGK  115 (161)
+T ss_dssp             EEEECGGGTTSSHHH
+T ss_pred             EEEECHHHCCCCHHH
+Confidence            456789999999765
+
+
+No 5
+>3T9Y_A Acetyltransferase, GNAT family; PSI-BIOLOGY, Structural genomics, Midwest center; HET: PGE; 2.0A {Staphylococcus aureus}
+Probab=7.67  E-value=3.7e+02  Score=22.05  Aligned_cols=14  Identities=21%  Similarity=0.432  Sum_probs=10.6  Template_Neff=12.900
+
+Q WP_050260163.1  299 YSFAPIFMGRGIGF  312 (423)
+Q Consensus       299 Y~fSp~ylG~G~gf  312 (423)
+                      .-..|.++|+|++-
+T Consensus        86 ~~v~~~~r~~g~~~   99 (150)
+T 3T9Y_A           86 FVIHSEFRKKGYGK   99 (150)
+T ss_dssp             EEECGGGCSSSHHH
+T ss_pred             EEECHHHccCCHHH
+Confidence            35688899998764
+
+
+No 6
+>1GHE_A ACETYLTRANSFERASE (E.C.2.3.1.-); Acyl Coenzyme A complex, TRANSFERASE; HET: ACO, MSE; 1.55A {Pseudomonas syringae pv. tabaci} SCOP: d.108.1.1
+Probab=7.40  E-value=3.8e+02  Score=22.96  Aligned_cols=53  Identities=15%  Similarity=0.115  Sum_probs=26.9  Template_Neff=12.600
+
+Q WP_050260163.1  298 TYSFAPIFMGRGIGFVTK--WMDNNWMTLNINGLTESTGLHNDILKYYIEIGFVGL  351 (423)
+Q Consensus       298 yY~fSp~ylG~G~gfv~~--~~~~~~~~~~~~g~~~~~~lHNDiLk~YIElGFiGf  351 (423)
+                      ..-.+|.|+|+|++-.-.  .++... ..+.........-.|.-.+.|-++||-..
+T Consensus        95 ~~~v~~~~r~~g~~~~l~~~~~~~~~-~~g~~~i~~~~~~~n~~~~~~~k~Gf~~~  149 (177)
+T 1GHE_A           95 KLMVLPSARGRGLGRQLMDEVEQVAV-KHKRGLLHLDTEAGSVAEAFYSALAYTRV  149 (177)
+T ss_dssp             EEEECGGGTTSSHHHHHHHHHHHHHH-HTTCCEEEEEEETTSHHHHHHHHTTCEEE
+T ss_pred             EEEECHHHCCCCHHHHHHHHHHHHHH-HCCCcEEEEecCCCchHHHHHHHcCCEEe
+Confidence            456789999999875321  211111 11111111111122357788889988643
+
+
+No 7
+>1YSY_A Replicase polyprotein 1ab (pp1ab) (ORF1AB); helix bundle, Structural Genomics, PSI; NMR {SARS coronavirus} SCOP: a.8.9.1
+Probab=7.23  E-value=4e+02  Score=23.41  Aligned_cols=9  Identities=67%  Similarity=0.866  Sum_probs=7.4  Template_Neff=3.200
+
+Q WP_050260163.1  333 TGLHNDILK  341 (423)
+Q Consensus       333 ~~lHNDiLk  341 (423)
+                      -.+||||++
+T Consensus        35 V~LHN~il~   43 (85)
+T 1YSY_A           35 VQLHNDILL   43 (85)
+T ss_dssp             HTHHHHHTT
+T ss_pred             HHHHHHHHc
+Confidence            379999986
+
+
+No 8
+>2AHM_C Replicase polyprotein 1ab, light chain; SARS-CoV, coronavirus, non-structural protein, nsp7; HET: GOL; 2.4A {SARS coronavirus} SCOP: a.8.9.1
+Probab=7.15  E-value=4e+02  Score=23.51  Aligned_cols=9  Identities=67%  Similarity=0.866  Sum_probs=7.3  Template_Neff=3.100
+
+Q WP_050260163.1  333 TGLHNDILK  341 (423)
+Q Consensus       333 ~~lHNDiLk  341 (423)
+                      -.+||||++
+T Consensus        38 V~LHN~il~   46 (88)
+T 2AHM_C           38 VQLHNDILL   46 (88)
+T ss_dssp             HHHHHHHHT
+T ss_pred             HHHHHHHHc
+Confidence            379999986
+
+
+No 9
+>5F22_A Non-structural protein 7, Non-structural protein; Complex, primase, HYDROLASE; 2.155A {SARS coronavirus}
+Probab=7.15  E-value=4e+02  Score=23.51  Aligned_cols=9  Identities=67%  Similarity=0.866  Sum_probs=7.3  Template_Neff=3.100
+
+Q WP_050260163.1  333 TGLHNDILK  341 (423)
+Q Consensus       333 ~~lHNDiLk  341 (423)
+                      -.+||||++
+T Consensus        38 V~LHN~il~   46 (88)
+T 5F22_A           38 VQLHNDILL   46 (88)
+T ss_dssp             HHHHHHHHH
+T ss_pred             HHHHHHHHc
+Confidence            379999986
+
+
+No 10
+>1GHE_B ACETYLTRANSFERASE (E.C.2.3.1.-); Acyl Coenzyme A complex, TRANSFERASE; HET: ACO; 1.55A {Pseudomonas syringae pv. tabaci} SCOP: d.108.1.1
+Probab=6.90  E-value=4.2e+02  Score=22.71  Aligned_cols=48  Identities=17%  Similarity=0.207  Sum_probs=0.0  Template_Neff=12.600
+
+Q WP_050260163.1  301 FAPIFMGRGIGF-VTKWMDNNWMTLNINGLTESTGLHNDILKYYIEIGF  348 (423)
+Q Consensus       301 fSp~ylG~G~gf-v~~~~~~~~~~~~~~g~~~~~~lHNDiLk~YIElGF  348 (423)
+                      .+|.|+|+|++- .-+.+.+.....+.........-.|.-.+.|-++||
+T Consensus        98 v~~~~r~~g~~~~l~~~~~~~~~~~g~~~~~~~~~~~n~~~~~~~k~Gf  146 (177)
+T 1GHE_B           98 VLPSARGRGLGRQLMDEVEQVAVKHKRGLLHLDTEAGSVAEAFYSALAY  146 (177)
+T ss_dssp             ECGGGTTSSHHHHHHHHHHHHHHHTTCCEEEEEEETTSHHHHHHHHTTC
+T ss_pred             ECHHHCCCCHHHHHHHHHHHHHHHCCCcEEEEEcCCCcHHHHHHHHcCC
+
+

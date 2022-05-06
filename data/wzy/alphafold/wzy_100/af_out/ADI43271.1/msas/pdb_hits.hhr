@@ -1,0 +1,160 @@
+Query         ADI43271.1 Wzy [Escherichia coli]
+Match_columns 410
+No_of_seqs    44 out of 57
+Neff          5.43733
+Searched_HMMs 80799
+Date          Thu Feb  3 06:59:18 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpfw5xxpu3/query.a3m -o /tmp/tmpfw5xxpu3/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 4IEJ_A DNA methyltransferase 1  24.6      65  0.0008   28.5   0.0   24  380-407    14-37  (93)
+  2 4MJS_P Protein kinase C zeta t  14.1 1.6E+02   0.002   26.1   0.0   13  393-405    66-78  (104)
+  3 1Y0K_A hypothetical protein PA  13.9 1.6E+02   0.002   30.1   0.0   39   54-92    110-148 (209)
+  4 6JM4_C Sequestosome-1; PB1, P6  13.1 1.7E+02  0.0022   25.6   0.0   13  393-405    64-76  (102)
+  5 1PQS_A Cell division control p  12.2 1.9E+02  0.0024   23.4   0.0   12  393-404    38-49  (77)
+  6 6TGN_A Protein NBR1 homolog; A  12.1   2E+02  0.0024   24.2   0.0   13  393-405    55-67  (94)
+  7 1WMH_B Protein kinase C, iota   11.0 2.3E+02  0.0028   23.6   0.0   13  393-405    49-61  (86)
+  8 1VD2_A Protein kinase C, iota   10.9 2.3E+02  0.0028   23.3   0.0   14  392-405    47-60  (89)
+  9 1WMH_A Protein kinase C, iota   10.9 2.3E+02  0.0028   23.3   0.0   14  392-405    47-60  (89)
+ 10 4UF8_A SEQUESTOSOME-1; SIGNALI  10.0 2.6E+02  0.0032   24.6   0.0   14  392-405    61-74  (100)
+
+No 1
+>4IEJ_A DNA methyltransferase 1-associated protein 1; DNA methylation, chromatin regulator, repressor; 1.45A {Homo sapiens}
+Probab=24.58  E-value=65  Score=28.50  Aligned_cols=24  Identities=29%  Similarity=0.634  Sum_probs=19.3  Template_Neff=5.700
+
+Q ADI43271.1      380 AFSLLYSMRDFDNYLKEIDNDGNWVKNR  407 (410)
+Q Consensus       380 ~~~l~ys~~df~~yL~~Id~DG~Wik~~  407 (410)
+                      +....|++++|+++|+    |+.|-+.|
+T Consensus        14 ~~v~~yt~e~Y~~~L~----~~~WT~eE   37 (93)
+T 4IEJ_A           14 VQVPVYSEQEYQLYLH----DDAWTKAE   37 (93)
+T ss_dssp             CCCCCCCHHHCCCCCC----BTTBCHHH
+T ss_pred             CcCCccCHHHHHHHhc----CCCCCHHH
+Confidence            3456799999999997    67898765
+
+
+No 2
+>4MJS_P Protein kinase C zeta type; PB1 domain, PB1 heterodimer and; HET: EDO; 2.5A {Rattus norvegicus}
+Probab=14.06  E-value=1.6e+02  Score=26.15  Aligned_cols=13  Identities=15%  Similarity=0.105  Sum_probs=11.0  Template_Neff=7.200
+
+Q ADI43271.1      393 YLKEIDNDGNWVK  405 (410)
+Q Consensus       393 yL~~Id~DG~Wik  405 (410)
+                      .++..|+||||+.
+T Consensus        66 ~l~Y~DedgD~V~   78 (104)
+T 4MJS_P           66 QAHYRAERGDLVA   78 (104)
+T ss_dssp             EEECCCTTSCCCE
+T ss_pred             EEEEECCCCCEEE
+Confidence            5888999999974
+
+
+No 3
+>1Y0K_A hypothetical protein PA4535; structural genomics, Midwest Center for; 1.75A {Pseudomonas aeruginosa} SCOP: c.52.1.31
+Probab=13.87  E-value=1.6e+02  Score=30.08  Aligned_cols=39  Identities=13%  Similarity=0.042  Sum_probs=29.9  Template_Neff=3.200
+
+Q ADI43271.1       54 PYQDLYRRYISTYYIYNSQTTLWEALENKVDFLFYLCSW   92 (410)
+Q Consensus        54 P~~DLYRryl~~y~~y~~~tt~~~~i~~~~Dil~Y~~~~   92 (410)
+                      |.+|++.|-..+-.....|........++.|+++|++.-
+T Consensus       110 ~~~el~~r~~~~l~k~a~n~~y~~~~~~~LDLL~yvnlk  148 (209)
+T 1Y0K_A          110 AAAELQARLAPTLRKKAHNYSERGIDHGELDLLAFVNLK  148 (209)
+T ss_dssp             EHHHHHHTTHHHHHHHHHHHHHHTCCGGGCEEEEEEECS
+T ss_pred             cHHHHHHHHHHHHHHHHhhcccCCCCcccceEEEEEEcc
+Confidence            678888888776555544556677788999999999875
+
+
+No 4
+>6JM4_C Sequestosome-1; PB1, P62/SQSTM1, autophagy, PB1 dimer; 3.20014839602A {Homo sapiens}
+Probab=13.13  E-value=1.7e+02  Score=25.65  Aligned_cols=13  Identities=15%  Similarity=0.105  Sum_probs=10.8  Template_Neff=7.500
+
+Q ADI43271.1      393 YLKEIDNDGNWVK  405 (410)
+Q Consensus       393 yL~~Id~DG~Wik  405 (410)
+                      .++..|+||||+.
+T Consensus        64 ~l~Y~D~dgD~V~   76 (102)
+T 6JM4_C           64 QAHYRAERGDLVA   76 (102)
+T ss_dssp             EEEEECTTSCEEE
+T ss_pred             EEEEEcCCCCEEE
+Confidence            5788899999984
+
+
+No 5
+>1PQS_A Cell division control protein 24; Alpha and Beta protein, CELL; NMR {Saccharomyces cerevisiae} SCOP: d.15.2.2
+Probab=12.16  E-value=1.9e+02  Score=23.39  Aligned_cols=12  Identities=42%  Similarity=0.706  Sum_probs=8.3  Template_Neff=8.600
+
+Q ADI43271.1      393 YLKEIDNDGNWV  404 (410)
+Q Consensus       393 yL~~Id~DG~Wi  404 (410)
+                      -++..|+||+|+
+T Consensus        38 ~l~YkDedgD~v   49 (77)
+T 1PQS_A           38 KIKYQDEDGDFV   49 (77)
+T ss_dssp             CCEEEETTTEEE
+T ss_pred             eEEEECCCCCEE
+Confidence            466667777776
+
+
+No 6
+>6TGN_A Protein NBR1 homolog; Autophagy, helical filament, SIGNALING PROTEIN; 4.0A {Arabidopsis thaliana}
+Probab=12.07  E-value=2e+02  Score=24.23  Aligned_cols=13  Identities=38%  Similarity=0.442  Sum_probs=10.0  Template_Neff=8.800
+
+Q ADI43271.1      393 YLKEIDNDGNWVK  405 (410)
+Q Consensus       393 yL~~Id~DG~Wik  405 (410)
+                      -++..|+||+|+.
+T Consensus        55 ~l~y~Dedgd~v~   67 (94)
+T 6TGN_A           55 SLTYSDEDGDVVA   67 (94)
+T ss_dssp             EEECBCTTSCBCC
+T ss_pred             EEEEECCCCCEEE
+Confidence            4677888898874
+
+
+No 7
+>1WMH_B Protein kinase C, iota type(E.C.2.7.1.37)/Partitioning; KINASE, PB1 DOMAIN, OPCA MOTIF; 1.5A {Homo sapiens} SCOP: d.15.2.2
+Probab=10.98  E-value=2.3e+02  Score=23.62  Aligned_cols=13  Identities=23%  Similarity=0.353  Sum_probs=9.9  Template_Neff=8.500
+
+Q ADI43271.1      393 YLKEIDNDGNWVK  405 (410)
+Q Consensus       393 yL~~Id~DG~Wik  405 (410)
+                      .++..|+||+|+.
+T Consensus        49 ~l~y~DedgD~v~   61 (86)
+T 1WMH_B           49 LLGYTDAHGDLLP   61 (86)
+T ss_dssp             EEEEECTTSCEEE
+T ss_pred             EEEEECCCCCEEE
+Confidence            4677788898874
+
+
+No 8
+>1VD2_A Protein kinase C, iota type(E.C.2.7.1.37); Kinase, PB1 domain, OPCA motif; NMR {Homo sapiens} SCOP: d.15.2.2
+Probab=10.93  E-value=2.3e+02  Score=23.29  Aligned_cols=14  Identities=29%  Similarity=0.309  Sum_probs=9.4  Template_Neff=9.300
+
+Q ADI43271.1      392 NYLKEIDNDGNWVK  405 (410)
+Q Consensus       392 ~yL~~Id~DG~Wik  405 (410)
+                      -.++..|+||+|+.
+T Consensus        47 ~~i~Y~D~dgd~i~   60 (89)
+T 1VD2_A           47 FTMKWIDEEGDPCT   60 (89)
+T ss_dssp             EEEEECCSSSCCEE
+T ss_pred             eEEEEECCCCCcce
+Confidence            34677777888763
+
+
+No 9
+>1WMH_A Protein kinase C, iota type(E.C.2.7.1.37)/Partitioning; KINASE, PB1 DOMAIN, OPCA MOTIF; 1.5A {Homo sapiens} SCOP: d.15.2.2
+Probab=10.93  E-value=2.3e+02  Score=23.29  Aligned_cols=14  Identities=29%  Similarity=0.309  Sum_probs=9.4  Template_Neff=9.300
+
+Q ADI43271.1      392 NYLKEIDNDGNWVK  405 (410)
+Q Consensus       392 ~yL~~Id~DG~Wik  405 (410)
+                      -.++..|+||+|+.
+T Consensus        47 ~~i~Y~D~dgd~i~   60 (89)
+T 1WMH_A           47 FTMKWIDEEGDPCT   60 (89)
+T ss_dssp             CEEEEECTTSCEEE
+T ss_pred             eEEEEECCCCCcce
+Confidence            34677777888763
+
+
+No 10
+>4UF8_A SEQUESTOSOME-1; SIGNALING PROTEIN, SELECTIVE AUTOPHAGY, AUTOPHAGY; 10.9A {HOMO SAPIENS}
+Probab=10.00  E-value=2.6e+02  Score=24.63  Aligned_cols=14  Identities=29%  Similarity=0.261  Sum_probs=10.4  Template_Neff=7.300
+
+Q ADI43271.1      392 NYLKEIDNDGNWVK  405 (410)
+Q Consensus       392 ~yL~~Id~DG~Wik  405 (410)
+                      -.++..|+||+|+.
+T Consensus        61 ~~l~Y~D~dGD~v~   74 (100)
+T 4UF8_A           61 FQAHYRDEDGDLVA   74 (100)
+T ss_dssp             EEEEEECTTCCEEE
+T ss_pred             eEEEEECCCCCEEE
+Confidence            34677888999874
+
+

@@ -1,0 +1,159 @@
+Query         BAQ01207.1 O-antigen polymerase [Escherichia coli]
+Match_columns 391
+No_of_seqs    10 out of 11
+Neff          2.83818
+Searched_HMMs 80799
+Date          Fri Feb  4 00:59:07 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpzs690phf/query.a3m -o /tmp/tmpzs690phf/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6PL5_A Peptidoglycan glycosylt  91.9   0.055 6.8E-07   53.6   0.0   60  262-324   234-296 (377)
+  2 6BAR_A Rod shape determining p  91.9   0.057   7E-07   52.6   0.0   61  261-324   215-278 (359)
+  3 3DA0_A Cleaved chimeric recept   7.1 4.1E+02   0.005   25.5   0.0   10  348-357   126-135 (136)
+  4 3DA0_B Cleaved chimeric recept   7.1 4.1E+02   0.005   25.5   0.0   10  348-357   126-135 (136)
+  5 6VQC_p ATPase H+-transporting    4.2 7.9E+02  0.0097   25.7   0.0    8  259-266   331-338 (350)
+  6 5L26_C Nucleoside permease; tr   3.9 8.7E+02   0.011   27.6   0.0   26  326-351    27-52  (431)
+  7 5L2A_A Nucleoside permease; tr   3.9 8.8E+02   0.011   27.5   0.0   26  326-351    27-52  (431)
+  8 4IOS_A BPP, Llama nanobody 11;   3.8   9E+02   0.011   22.6   0.0    6  169-174    73-78  (100)
+  9 3FGX_B RBSTP2171; STRUCTURAL G   3.7 9.2E+02   0.011   22.8   0.0   15  295-309    60-74  (114)
+ 10 4PB2_A vcCNT-7C8C; membrane pr   3.7 9.4E+02   0.012   27.2   0.0   26  326-351    27-52  (424)
+
+No 1
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=91.94  E-value=0.055  Score=53.62  Aligned_cols=60  Identities=20%  Similarity=0.079  Sum_probs=35.2  Template_Neff=8.900
+
+Q BAQ01207.1      262 GRDELYGASLSSIIDNP-FGYGLGMQNNILYSITGIDFPAHNIL--LSIGIELGLLYLFLLVAYII  324 (391)
+Q Consensus       262 ~Rd~lY~~AL~ai~dNp-fGYGlGsq~~Vi~~~sGinyPAHNf~--LSi~LElG~f~~~f~l~~i~  324 (391)
+                      +|..++..|++++.++| +|.|.|+..+.-.+  .. -.+||-+  ..++-|.|+.+.+.++....
+T Consensus       234 ~~g~~~~~~~~~i~~~~~~G~G~g~~~~~~~~--~~-p~~h~d~i~~~i~~e~G~ig~~~~l~l~~  296 (377)
+T 6PL5_A          234 GQGFQVIQSTIAIGSGGLFGKGYGQGTQAQLG--FI-PFRHTDFVFSVWAEEWGFVGVVGLLGLYG  296 (377)
+T ss_dssp             HHHHHHHHHHHTTCCCC------------------C-CSCSSTTHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             CCcHHHHHHHHHHHhcCCcCcCCCCcccchhh--cC-cCCCCCcHHHHHHHHccHHHHHHHHHHHH
+Confidence            56778899999999998 69999975442111  11 1357766  99999999997777766553
+
+
+No 2
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=91.89  E-value=0.057  Score=52.64  Aligned_cols=61  Identities=20%  Similarity=0.084  Sum_probs=26.6  Template_Neff=9.300
+
+Q BAQ01207.1      261 SGRDELYGASLSSIIDNP-FGYGLGMQNNILYSITGIDFPAHNIL--LSIGIELGLLYLFLLVAYII  324 (391)
+Q Consensus       261 s~Rd~lY~~AL~ai~dNp-fGYGlGsq~~Vi~~~sGinyPAHNf~--LSi~LElG~f~~~f~l~~i~  324 (391)
+                      ++|..++..+++++.|+| +|.|.|+..+.-.+  ..+ -+||-+  +.++-|.|+.+.+.++....
+T Consensus       215 ~~~~~~~~~~~~~i~~~~~~G~G~g~~~~~~~~--~~~-~~h~d~i~~~i~~e~G~ig~~~~l~l~~  278 (359)
+T 6BAR_A          215 LGQGFQVIQSTIAIGSGGLFGKGYGQGTQAQLG--FIP-FRHTDFVFSVWAEEWGFVGVVGLLGLYG  278 (359)
+T ss_dssp             -------------CTTTCCSCC------------------CCTTTTHHHHHHHSHHHHHHHHHHHHH
+T ss_pred             CCCCHHHHHHHHHHHhcCcccccCCcccccccc--cCc-cccCccHHHHHHHHcchHHHHHHHHHHH
+Confidence            357788899999999998 59999875442111  122 357765  99999999997777765553
+
+
+No 3
+>3DA0_A Cleaved chimeric receptor binding protein; lactococcal phage p2, lactococcal phage; 1.65A {Lactococcus phage TP901-1}
+Probab=7.09  E-value=4.1e+02  Score=25.51  Aligned_cols=10  Identities=60%  Similarity=1.089  Sum_probs=4.7  Template_Neff=5.300
+
+Q BAQ01207.1      348 GNAMYFYKFH  357 (391)
+Q Consensus       348 GN~mYFYKyH  357 (391)
+                      ||+|||-|-|
+T Consensus       126 G~~~Yf~k~~  135 (136)
+T 3DA0_A          126 GNGSYFIKHH  135 (136)
+T ss_dssp             EEEEEECC--
+T ss_pred             ceeeeeccCC
+Confidence            4566665554
+
+
+No 4
+>3DA0_B Cleaved chimeric receptor binding protein; lactococcal phage p2, lactococcal phage; 1.65A {Lactococcus phage TP901-1, Lactococcus lactis phage p2}
+Probab=7.09  E-value=4.1e+02  Score=25.51  Aligned_cols=10  Identities=60%  Similarity=1.089  Sum_probs=5.7  Template_Neff=5.300
+
+Q BAQ01207.1      348 GNAMYFYKFH  357 (391)
+Q Consensus       348 GN~mYFYKyH  357 (391)
+                      ||+|||-|-|
+T Consensus       126 G~~~Yf~k~~  135 (136)
+T 3DA0_B          126 GNGSYFIKHH  135 (136)
+T ss_dssp             EEEEEESSCC
+T ss_pred             ceeeeeccCC
+Confidence            4566665554
+
+
+No 5
+>6VQC_p ATPase H+-transporting V1 subunit D; membrane protein complex, rotary atpase; 3.8A {Rattus norvegicus}
+Probab=4.23  E-value=7.9e+02  Score=25.67  Aligned_cols=8  Identities=25%  Similarity=0.517  Sum_probs=7.1  Template_Neff=8.300
+
+Q BAQ01207.1      259 YASGRDEL  266 (391)
+Q Consensus       259 ~~s~Rd~l  266 (391)
+                      ++++||++
+T Consensus       331 mdpgrDSi  338 (350)
+T 6VQC_p          331 MDPGYDSI  338 (350)
+T ss_pred             CCCCCcch
+Confidence            88999986
+
+
+No 6
+>5L26_C Nucleoside permease; transporter, nucleoside, elevator-type alternate access; HET: 6ZL, URI; 3.4A {Neisseria wadsworthii 9715}
+Probab=3.90  E-value=8.7e+02  Score=27.56  Aligned_cols=26  Identities=12%  Similarity=0.114  Sum_probs=20.4  Template_Neff=5.500
+
+Q BAQ01207.1      326 WLLLGKVDYKIIFISFLVIGMFGNAM  351 (391)
+Q Consensus       326 ~~~~~~i~~k~~fiaf~iiG~FGN~m  351 (391)
+                      ...|++++||.+..+..++-.+|-.+
+T Consensus        27 S~~rk~I~wr~V~~gL~lQ~~~a~lv   52 (431)
+T 5L26_C           27 STDRKAINIRTVAGAFLIQVALGALV   52 (431)
+T ss_dssp             CSCGGGCCHHHHHHHHHHHHHHHHHH
+T ss_pred             CCChhcCCHHHHHHHHHHHHHHHHHH
+Confidence            45777888999999998887777443
+
+
+No 7
+>5L2A_A Nucleoside permease; transporter, elevator-type alternate access, TRANSPORT; HET: 6ZL; 3.45A {Neisseria wadsworthii 9715}
+Probab=3.88  E-value=8.8e+02  Score=27.54  Aligned_cols=26  Identities=12%  Similarity=0.114  Sum_probs=20.5  Template_Neff=5.500
+
+Q BAQ01207.1      326 WLLLGKVDYKIIFISFLVIGMFGNAM  351 (391)
+Q Consensus       326 ~~~~~~i~~k~~fiaf~iiG~FGN~m  351 (391)
+                      ...|++++||.+..++.++-.+|-.+
+T Consensus        27 S~~rk~I~wr~V~~gL~LQ~~~a~lv   52 (431)
+T 5L2A_A           27 STDRKAINIRTVAGAFLIQVALGALV   52 (431)
+T ss_dssp             CSCGGGCCHHHHHHHHHHHHHHHHHH
+T ss_pred             CCChhcCCHHHHHHHHHHHHHHHHHH
+Confidence            55778888999999998888777543
+
+
+No 8
+>4IOS_A BPP, Llama nanobody 11; all beta, jelly roll motif; 2.4A {Lactococcus phage TP901-1}
+Probab=3.79  E-value=9e+02  Score=22.62  Aligned_cols=6  Identities=17%  Similarity=0.401  Sum_probs=2.5  Template_Neff=4.200
+
+Q BAQ01207.1      169 VNTLGS  174 (391)
+Q Consensus       169 INt~gs  174 (391)
+                      +++-|+
+T Consensus        73 i~pdGs   78 (100)
+T 4IOS_A           73 IPSSGV   78 (100)
+T ss_dssp             ECTTCC
+T ss_pred             eCCCCc
+Confidence            344443
+
+
+No 9
+>3FGX_B RBSTP2171; STRUCTURAL GENOMICS  BACILLUS STEAROTHERMOPHILUS; 2.9A {BACILLUS STEAROTHERMOPHILUS}
+Probab=3.72  E-value=9.2e+02  Score=22.83  Aligned_cols=15  Identities=20%  Similarity=0.220  Sum_probs=10.8  Template_Neff=4.800
+
+Q BAQ01207.1      295 GIDFPAHNILLSIGI  309 (391)
+Q Consensus       295 GinyPAHNf~LSi~L  309 (391)
+                      +.--|+||+++...-
+T Consensus        60 nkvapa~NfL~~~V~   74 (114)
+T 3FGX_B           60 KPDMAMKNLTFSCIV   74 (114)
+T ss_dssp             CHHHHHHHHHHTTBC
+T ss_pred             CcchhHHHHHHhcCC
+Confidence            445799999987643
+
+
+No 10
+>4PB2_A vcCNT-7C8C; membrane protein, sodium-coupled transporter, drug; HET: 5UD, DMU; 2.302A {Vibrio cholerae serotype O1}
+Probab=3.66  E-value=9.4e+02  Score=27.18  Aligned_cols=26  Identities=8%  Similarity=-0.014  Sum_probs=20.4  Template_Neff=5.700
+
+Q BAQ01207.1      326 WLLLGKVDYKIIFISFLVIGMFGNAM  351 (391)
+Q Consensus       326 ~~~~~~i~~k~~fiaf~iiG~FGN~m  351 (391)
+                      ...|+|++||.+..++.++-.+|-.+
+T Consensus        27 S~~rk~I~wr~V~~gL~LQ~i~a~lv   52 (424)
+T 4PB2_A           27 SSNRKAINLRTVGGAFAIQFSLGAFI   52 (424)
+T ss_dssp             CSCGGGCCHHHHHHHHHHHHHHHHHH
+T ss_pred             CCChhcCChHHHHHHHHHHHHHHHHH
+Confidence            45777888999999999887776543
+
+

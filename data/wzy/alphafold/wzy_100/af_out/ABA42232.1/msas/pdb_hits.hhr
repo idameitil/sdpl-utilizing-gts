@@ -1,0 +1,158 @@
+Query         ABA42232.1 Wzy [Escherichia coli]
+Match_columns 380
+No_of_seqs    7 out of 8
+Neff          2.67893
+Searched_HMMs 80799
+Date          Wed Feb  2 17:59:29 2022
+Command       /usr/bin/hhsearch -i /tmp/tmphlyway1u/query.a3m -o /tmp/tmphlyway1u/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 1FLC_D HAEMAGGLUTININ-ESTERASE  23.4      70 0.00087   31.9   0.0   20  281-307    12-31  (175)
+  2 4BT1_A TRANSCRIPTIONAL REGULAT  15.6 1.3E+02  0.0017   22.3   0.0   16  280-295    30-45  (73)
+  3 6ITH_A Syndecan-2; membrane pr  15.1 1.4E+02  0.0018   23.8   0.0   22  304-325     3-24  (41)
+  4 2LWA_A Hemagglutinin Fusion Pe  10.4 2.4E+02   0.003   21.2   0.0   13  282-295     6-18  (30)
+  5 6BXD_A Variable Lymphocyte Rec   4.5 7.2E+02   0.009   21.7   0.0   22  283-304     2-23  (209)
+  6 5B66_A Photosystem II protein    4.5 7.4E+02  0.0091   27.6   0.0   56  297-352   100-170 (344)
+  7 5V2C_a Photosystem II protein    4.5 7.4E+02  0.0091   27.6   0.0   56  297-352   100-170 (344)
+  8 5ZZN_A Photosystem II protein    4.1 8.2E+02    0.01   27.2   0.0   56  297-352    90-160 (334)
+  9 5T42_A Envelope glycoprotein;    4.0 8.3E+02    0.01   20.1   0.0   29  288-318     6-34  (47)
+ 10 1A92_A DELTA ANTIGEN; LEUCINE    4.0 8.5E+02   0.011   20.5   0.0    8  287-295    36-43  (50)
+
+No 1
+>1FLC_D HAEMAGGLUTININ-ESTERASE-FUSION GLYCOPROTEIN; ESTERASE, RECEPTOR BINDING, MEMBRANE FUSION; HET: MAN, NAG, BMA, NDG; 3.2A {Influenza C virus (C/Johannesburg/1/66)} SCOP: h.3.1.1
+Probab=23.44  E-value=70  Score=31.88  Aligned_cols=20  Identities=10%  Similarity=0.009  Sum_probs=15.8  Template_Neff=2.700
+
+Q ABA42232.1      281 DILPWINTGVWDTNVYTAFAPWYQSLG  307 (380)
+Q Consensus       281 ~v~pwV~Tglw~GNVYTaf~pWy~~gG  307 (380)
+                      ...||||+| |+|.+      |+|.+|
+T Consensus        12 ~iaGFIEgG-w~Gmi------~~h~nG   31 (175)
+T 1FLC_D           12 LFVAIVETG-IGGYL------LGSRKE   31 (175)
+T ss_dssp             TSEEECTTS-CCEEE------EECCCT
+T ss_pred             HHHHHHhcc-cchhh------hccccc
+Confidence            445999999 99999      666664
+
+
+No 2
+>4BT1_A TRANSCRIPTIONAL REGULATOR; TRANSCRIPTION, AAAPLUS ATPASE, DNA TRANSPOSITION; HET: ADP; 16.0A {ENTEROBACTERIA PHAGE MU}
+Probab=15.64  E-value=1.3e+02  Score=22.34  Aligned_cols=16  Identities=19%  Similarity=0.210  Sum_probs=11.1  Template_Neff=9.800
+
+Q ABA42232.1      280 TDILPWINTGVWDTNV  295 (380)
+Q Consensus       280 ~~v~pwV~Tglw~GNV  295 (380)
+                      .+.......-.||||+
+T Consensus        30 ~~~~~~l~~~~wpgNi   45 (73)
+T 4BT1_A           30 KSAQELLLSYPWYGNV   45 (73)
+T ss_dssp             -CHHHHHHHSCCSSTH
+T ss_pred             HHHHHHHHCCCCCcHH
+Confidence            3455667777799996
+
+
+No 3
+>6ITH_A Syndecan-2; membrane protein, DPC, micelles; NMR {Homo sapiens}
+Probab=15.09  E-value=1.4e+02  Score=23.77  Aligned_cols=22  Identities=41%  Similarity=0.745  Sum_probs=17.4  Template_Neff=2.700
+
+Q ABA42232.1      304 QSLGLYAAIIIGILLGFYYGIW  325 (380)
+Q Consensus       304 ~~gG~ya~ii~g~liG~~~~~i  325 (380)
+                      +..+.++.+|.|.++|.+.+++
+T Consensus         3 ~~~evLaavIgG~vVGlL~AIl   24 (41)
+T 6ITH_A            3 QSTEVLAAVIAGGVIGFLFAIF   24 (41)
+T ss_dssp             SSHHHHHHHHHHHHHHHHHHHH
+T ss_pred             ccHHHHHHHHHHHHHHHHHHHH
+Confidence            4457789999999999887764
+
+
+No 4
+>2LWA_A Hemagglutinin Fusion Peptide G8A mutant; influenza virus, hemagglutinin, fusion peptide; NMR {Influenza A virus}
+Probab=10.35  E-value=2.4e+02  Score=21.21  Aligned_cols=13  Identities=31%  Similarity=0.797  Sum_probs=10.5  Template_Neff=1.500
+
+Q ABA42232.1      282 ILPWINTGVWDTNV  295 (380)
+Q Consensus       282 v~pwV~Tglw~GNV  295 (380)
+                      ..|++|-| |+||+
+T Consensus         6 IAGfIegg-w~G~i   18 (30)
+T 2LWA_A            6 IAAFIEGG-WTGMI   18 (30)
+T ss_dssp             HHHHHHSH-HHHHH
+T ss_pred             HHHHhhcc-cchhh
+Confidence            45888888 99997
+
+
+No 5
+>6BXD_A Variable Lymphocyte Receptor 2; VLR, LEUCINE-RICH REPEAT, lamprey antibody; HET: ETE; 1.103A {Petromyzon marinus}
+Probab=4.52  E-value=7.2e+02  Score=21.69  Aligned_cols=22  Identities=5%  Similarity=-0.186  Sum_probs=4.6  Template_Neff=11.000
+
+Q ABA42232.1      283 LPWINTGVWDTNVYTAFAPWYQ  304 (380)
+Q Consensus       283 ~pwV~Tglw~GNVYTaf~pWy~  304 (380)
+                      .+|+.|..||++-++..-||.-
+T Consensus         2 ~~~~~~~~~~~~~~~~~~~~~~   23 (209)
+T 6BXD_A            2 GHHHHHHGSENLYFQGACPSQC   23 (209)
+T ss_dssp             ----------------CCCTTS
+T ss_pred             CCcCCcCCCcccccCCCCCCCC
+Confidence            4789999999999999999943
+
+
+No 6
+>5B66_A Photosystem II protein D1 (E.C.1.10.3.9); psii, photosystem, oxygen evolving, water; HET: RRX, LMG, HEM, SQD, BCR, PL9, CLA, UNL, HEC, DMS, LMT, OEX, PHO, FME, HTG, DGD, LHG; 1.85A {Thermosynechococcus vulcanus}
+Probab=4.45  E-value=7.4e+02  Score=27.61  Aligned_cols=56  Identities=21%  Similarity=0.365  Sum_probs=38.6  Template_Neff=3.600
+
+Q ABA42232.1      297 TAFAPWYQSLGLYAAIIIGILLGFYYGIWFSFRQNLA---------------VGFYQTFLCFPLLMLFFQE  352 (380)
+Q Consensus       297 Taf~pWy~~gG~ya~ii~g~liG~~~~~i~s~rk~~~---------------~~F~~~~S~YPLImlIF~e  352 (380)
+                      ..+.+|-++||.+-++++.+.+|++.-..+..+...+               ..+..++--||+.|--+.|
+T Consensus       100 ~s~~~wL~~GG~w~li~f~~~~sv~~w~~R~~e~ar~LGmg~hia~AFsaaI~~~~~l~lIrPi~~Gsws~  170 (344)
+T 5B66_A          100 ASLDEWLYNGGPYQLIIFHFLLGASCYMGRQWELSYRLGMRPWICVAYSAPLASAFAVFLIYPIGQGSFSD  170 (344)
+T ss_dssp             SSHHHHHHTTHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCCSTHHHHHHHHHHHHHCCCCCHHHHHTCGGG
+T ss_pred             cChhHHHHcCHHHHHHHHHHHHHHHHHHHHHHHHHHHhCCCCcHHHHhHHHHHHHHHHHhhccccCCchhh
+Confidence            5678899999999999999999987766554332222               2244466778887654444
+
+
+No 7
+>5V2C_a Photosystem II protein D1 (E.C.1.10.3.9); ELECTRON TRANSPORT, PHOTOSYNTHESIS; HET: LHG, PHO, PGE, LMG, FME, DGD, BCT, HTG, P6G, MHS, CLA, OEX, HEM, 1PE, GOL, 2PE, EDO, PL9, PG4, SQD, LMT, BCR; 1.9A {Thermosynechococcus vulcanus}
+Probab=4.45  E-value=7.4e+02  Score=27.61  Aligned_cols=56  Identities=21%  Similarity=0.365  Sum_probs=38.6  Template_Neff=3.600
+
+Q ABA42232.1      297 TAFAPWYQSLGLYAAIIIGILLGFYYGIWFSFRQNLA---------------VGFYQTFLCFPLLMLFFQE  352 (380)
+Q Consensus       297 Taf~pWy~~gG~ya~ii~g~liG~~~~~i~s~rk~~~---------------~~F~~~~S~YPLImlIF~e  352 (380)
+                      ..+.+|-++||.+-++++.+.+|++.-..+..+...+               ..+..++--||+.|--+.|
+T Consensus       100 ~s~~~wL~~GG~w~li~f~~~~sv~~w~~R~~e~ar~LGmg~hia~AFsaaI~~~~~l~lIrPi~~Gsws~  170 (344)
+T 5V2C_a          100 ASLDEWLYNGGPYQLIIFHFLLGASCYMGRQWELSYRLGMRPWICVAYSAPLASAFAVFLIYPIGQGSFSD  170 (344)
+T ss_dssp             SSHHHHHHTTHHHHHHHHHHHHHHHHHHHHHHHHHHHHTCCSTHHHHHHHHHHHHHCCCCCHHHHHTCGGG
+T ss_pred             cChhHHHHcCHHHHHHHHHHHHHHHHHHHHHHHHHHHhCCCCcHHHHhHHHHHHHHHHHhhccccCCchhh
+Confidence            5678899999999999999999987766554332222               2244466778887654444
+
+
+No 8
+>5ZZN_A Photosystem II protein D1 1; PHOTOSYNTHESIS, ELECTRON TRANSPORT; HET: RRX, LMG, HEM, HEC, PL9, BCR, UNL, CLA, DMS, BCT, LMT, OEX, PHO, FME, HTG, HSK, DGD, LHG, GOL; 2.1A {Thermosynechococcus elongatus (strain BP-1)}
+Probab=4.10  E-value=8.2e+02  Score=27.20  Aligned_cols=56  Identities=21%  Similarity=0.365  Sum_probs=38.8  Template_Neff=3.600
+
+Q ABA42232.1      297 TAFAPWYQSLGLYAAIIIGILLGFYYGIWFSFRQNLA---------------VGFYQTFLCFPLLMLFFQE  352 (380)
+Q Consensus       297 Taf~pWy~~gG~ya~ii~g~liG~~~~~i~s~rk~~~---------------~~F~~~~S~YPLImlIF~e  352 (380)
+                      ..+.+|-++||.+-.+++.+.+|++.-..+-.+...+               ..+..++--||+.|--+.|
+T Consensus        90 ~s~~~wL~~GG~w~~i~f~~~~sv~~w~~R~~e~ar~LGmg~hia~AFsaaI~~~~~l~lIrPi~~Gswse  160 (334)
+T 5ZZN_A           90 ASLDEWLYNGGPYQLIIFHFLLGASCYMGRQWELSYRLGMRPWICVAYSAPLASAFAVFLIYPIGQGSFSD  160 (334)
+T ss_dssp             SSHHHHHHTTHHHHHHHHHHHHHHHHHHHHHHHHHHHHTCCSTHHHHHHHHHHHHHCCCCCHHHHHTCGGG
+T ss_pred             cChhHHHHcCHHHHHHHHHHHHHHHHHHHHHHHHHHHhCCCChHHHHhHHHHHHHhHhhccccccCCchhh
+Confidence            5678899999999999999999987766554332222               2344567778887654444
+
+
+No 9
+>5T42_A Envelope glycoprotein; Ebola virus, membrane protein, protein-protein; NMR {Zaire ebolavirus (strain Kikwit-95)}
+Probab=4.03  E-value=8.3e+02  Score=20.07  Aligned_cols=29  Identities=10%  Similarity=0.169  Sum_probs=0.0  Template_Neff=3.700
+
+Q ABA42232.1      288 TGVWDTNVYTAFAPWYQSLGLYAAIIIGILL  318 (380)
+Q Consensus       288 Tglw~GNVYTaf~pWy~~gG~ya~ii~g~li  318 (380)
+                      ||+ -||=+++-+.|-.+--. |++|+++++
+T Consensus         6 ~~~-~~~~~S~W~~WGRWV~l-gviI~~~il   34 (47)
+T 5T42_A            6 LPD-QGDNDNWWTGWRQWIPA-GIGVTGVVI   34 (47)
+T ss_dssp             SST-TTSSCGGGTSSSSSSSS-SSSTTTHHH
+T ss_pred             CCC-CCCCCChhHHHHHHHHH-HHHHHHHHH
+
+
+No 10
+>1A92_A DELTA ANTIGEN; LEUCINE ZIPPER, COILED-COIL, OLIGOMERIZATION, HEPATITIS; 1.8A {Hepatitis delta virus} SCOP: h.4.6.1
+Probab=3.97  E-value=8.5e+02  Score=20.46  Aligned_cols=8  Identities=25%  Similarity=0.713  Sum_probs=0.0  Template_Neff=2.800
+
+Q ABA42232.1      287 NTGVWDTNV  295 (380)
+Q Consensus       287 ~Tglw~GNV  295 (380)
+                      +-| |+||+
+T Consensus        36 enp-WlGNi   43 (50)
+T 1A92_A           36 DNP-WLGNI   43 (50)
+T ss_dssp             HCT-THHHH
+T ss_pred             cCC-cchhh
+
+

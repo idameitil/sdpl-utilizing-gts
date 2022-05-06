@@ -1,0 +1,188 @@
+Query         WP_000220864.1 O148 family O-antigen polymerase [Shigella dysenteriae]
+Match_columns 380
+No_of_seqs    6 out of 7
+Neff          2.44516
+Searched_HMMs 80799
+Date          Thu Feb  3 13:59:51 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpjrgxga8p/query.a3m -o /tmp/tmpjrgxga8p/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6ITH_A Syndecan-2; membrane pr  18.8   1E+02  0.0013   24.5   0.0   22  304-325     3-24  (41)
+  2 4BT1_A TRANSCRIPTIONAL REGULAT   9.8 2.6E+02  0.0033   20.7   0.0   16  281-296    31-46  (73)
+  3 6BXD_A Variable Lymphocyte Rec   5.2   6E+02  0.0075   22.0   0.0   22  283-304     2-23  (209)
+  4 5T42_A Envelope glycoprotein;    4.4 7.4E+02  0.0092   20.3   0.0   27  288-316     6-32  (47)
+  5 3F7C_A protein of unknown func   3.4   1E+03   0.013   23.1   0.0   21  120-140   178-198 (200)
+  6 5B66_A Photosystem II protein    3.2 1.1E+03   0.014   26.3   0.0   63  288-353    94-171 (344)
+  7 5V2C_a Photosystem II protein    3.2 1.1E+03   0.014   26.3   0.0   63  288-353    94-171 (344)
+  8 2NR9_A Protein glpG homolog (E   3.1 1.1E+03   0.014   21.2   0.0   21  312-332   169-189 (196)
+  9 2Q9R_A Protein of unknown func   2.9 1.3E+03   0.016   22.5   0.0   20  120-139   179-198 (200)
+ 10 5ZZN_A Photosystem II protein    2.9 1.3E+03   0.016   25.8   0.0   73  277-352    73-160 (334)
+
+No 1
+>6ITH_A Syndecan-2; membrane protein, DPC, micelles; NMR {Homo sapiens}
+Probab=18.80  E-value=1e+02  Score=24.54  Aligned_cols=22  Identities=41%  Similarity=0.745  Sum_probs=17.9  Template_Neff=2.700
+
+Q WP_000220864.1  304 QSLGLYAAIIIGILLGFYYGIW  325 (380)
+Q Consensus       304 ~~gGiYa~iI~G~~iGf~ygii  325 (380)
+                      +..+..+.+|.|.++|.+.++.
+T Consensus         3 ~~~evLaavIgG~vVGlL~AIl   24 (41)
+T 6ITH_A            3 QSTEVLAAVIAGGVIGFLFAIF   24 (41)
+T ss_dssp             SSHHHHHHHHHHHHHHHHHHHH
+T ss_pred             ccHHHHHHHHHHHHHHHHHHHH
+Confidence            4467789999999999988764
+
+
+No 2
+>4BT1_A TRANSCRIPTIONAL REGULATOR; TRANSCRIPTION, AAAPLUS ATPASE, DNA TRANSPOSITION; HET: ADP; 16.0A {ENTEROBACTERIA PHAGE MU}
+Probab=9.80  E-value=2.6e+02  Score=20.68  Aligned_cols=16  Identities=19%  Similarity=0.102  Sum_probs=11.9  Template_Neff=9.800
+
+Q WP_000220864.1  281 DILPWINIGVWDTNVY  296 (380)
+Q Consensus       281 d~~pwV~TglWlGNVY  296 (380)
+                      +.......-.||||+-
+T Consensus        31 ~~~~~l~~~~wpgNi~   46 (73)
+T 4BT1_A           31 SAQELLLSYPWYGNVR   46 (73)
+T ss_dssp             CHHHHHHHSCCSSTHH
+T ss_pred             HHHHHHHCCCCCcHHH
+Confidence            4456777888999963
+
+
+No 3
+>6BXD_A Variable Lymphocyte Receptor 2; VLR, LEUCINE-RICH REPEAT, lamprey antibody; HET: ETE; 1.103A {Petromyzon marinus}
+Probab=5.22  E-value=6e+02  Score=21.96  Aligned_cols=22  Identities=5%  Similarity=-0.215  Sum_probs=4.6  Template_Neff=11.000
+
+Q WP_000220864.1  283 LPWINIGVWDTNVYTAFAPWYQ  304 (380)
+Q Consensus       283 ~pwV~TglWlGNVYTaf~pWy~  304 (380)
+                      .+|+.++.|+++-++..-||.-
+T Consensus         2 ~~~~~~~~~~~~~~~~~~~~~~   23 (209)
+T 6BXD_A            2 GHHHHHHGSENLYFQGACPSQC   23 (209)
+T ss_dssp             ----------------CCCTTS
+T ss_pred             CCcCCcCCCcccccCCCCCCCC
+Confidence            4799999999999999999944
+
+
+No 4
+>5T42_A Envelope glycoprotein; Ebola virus, membrane protein, protein-protein; NMR {Zaire ebolavirus (strain Kikwit-95)}
+Probab=4.42  E-value=7.4e+02  Score=20.32  Aligned_cols=27  Identities=11%  Similarity=0.175  Sum_probs=13.7  Template_Neff=3.700
+
+Q WP_000220864.1  288 IGVWDTNVYTAFAPWYQSLGLYAAIIIGI  316 (380)
+Q Consensus       288 TglWlGNVYTaf~pWy~~gGiYa~iI~G~  316 (380)
+                      +|+ -||=+++-+.|-.+--. |++|+++
+T Consensus         6 ~~~-~~~~~S~W~~WGRWV~l-gviI~~~   32 (47)
+T 5T42_A            6 LPD-QGDNDNWWTGWRQWIPA-GIGVTGV   32 (47)
+T ss_dssp             SST-TTSSCGGGTSSSSSSSS-SSSTTTH
+T ss_pred             CCC-CCCCCChhHHHHHHHHH-HHHHHHH
+Confidence            455 46666655555555433 4444444
+
+
+No 5
+>3F7C_A protein of unknown function (DUF416); Structural genomics, Joint Center for; HET: CIT; 2.0A {Marinobacter aquaeolei VT8}
+Probab=3.41  E-value=1e+03  Score=23.10  Aligned_cols=21  Identities=24%  Similarity=0.540  Sum_probs=17.2  Template_Neff=7.300
+
+Q WP_000220864.1  120 SLKVMREGILDGSISGFGLGI  140 (380)
+Q Consensus       120 s~k~~re~lle~~~s~~~~g~  140 (380)
+                      ..+-.|+...++|+|.+|++.
+T Consensus       178 ~i~~Lr~~~~~~gvsnigi~~  198 (200)
+T 3F7C_A          178 FLAELRAGAANDGVSNLGISL  198 (200)
+T ss_dssp             HHHHHHHHHHGGGCCTTSCCC
+T ss_pred             HHHHHHHHHHhcCCCcccccc
+Confidence            578889999999999887654
+
+
+No 6
+>5B66_A Photosystem II protein D1 (E.C.1.10.3.9); psii, photosystem, oxygen evolving, water; HET: RRX, LMG, HEM, SQD, BCR, PL9, CLA, UNL, HEC, DMS, LMT, OEX, PHO, FME, HTG, DGD, LHG; 1.85A {Thermosynechococcus vulcanus}
+Probab=3.19  E-value=1.1e+03  Score=26.28  Aligned_cols=63  Identities=21%  Similarity=0.414  Sum_probs=42.3  Template_Neff=3.600
+
+Q WP_000220864.1  288 IGVWDTNVYTAFAPWYQSLGLYAAIIIGILLGFYYGIWFSFRQNLA---------------VGFYQTFLCFPLLMLFFQE  352 (380)
+Q Consensus       288 TglWlGNVYTaf~pWy~~gGiYa~iI~G~~iGf~ygiifsfrk~~~---------------~~fl~vfSyYPLImlIF~E  352 (380)
+                      -|.|..   ..+.+|-++||.|-.+.+-+.+|++.-.....+...+               ..+..++--||+.|--+.|
+T Consensus        94 ~Plw~~---~s~~~wL~~GG~w~li~f~~~~sv~~w~~R~~e~ar~LGmg~hia~AFsaaI~~~~~l~lIrPi~~Gsws~  170 (344)
+T 5B66_A           94 YPIWEA---ASLDEWLYNGGPYQLIIFHFLLGASCYMGRQWELSYRLGMRPWICVAYSAPLASAFAVFLIYPIGQGSFSD  170 (344)
+T ss_dssp             CCGGGS---SSHHHHHHTTHHHHHHHHHHHHHHHHHHHHHHHHHHHTTCCSTHHHHHHHHHHHHHCCCCCHHHHHTCGGG
+T ss_pred             CCcccc---cChhHHHHcCHHHHHHHHHHHHHHHHHHHHHHHHHHHhCCCCcHHHHhHHHHHHHHHHHhhccccCCchhh
+Confidence            455554   5678999999999999998888887655444222211               2355577788987755555
+
+
+Q WP_000220864.1  353 H  353 (380)
+Q Consensus       353 q  353 (380)
+                      -
+T Consensus       171 a  171 (344)
+T 5B66_A          171 G  171 (344)
+T ss_dssp             S
+T ss_pred             C
+Confidence            3
+
+
+No 7
+>5V2C_a Photosystem II protein D1 (E.C.1.10.3.9); ELECTRON TRANSPORT, PHOTOSYNTHESIS; HET: LHG, PHO, PGE, LMG, FME, DGD, BCT, HTG, P6G, MHS, CLA, OEX, HEM, 1PE, GOL, 2PE, EDO, PL9, PG4, SQD, LMT, BCR; 1.9A {Thermosynechococcus vulcanus}
+Probab=3.19  E-value=1.1e+03  Score=26.28  Aligned_cols=63  Identities=21%  Similarity=0.414  Sum_probs=42.3  Template_Neff=3.600
+
+Q WP_000220864.1  288 IGVWDTNVYTAFAPWYQSLGLYAAIIIGILLGFYYGIWFSFRQNLA---------------VGFYQTFLCFPLLMLFFQE  352 (380)
+Q Consensus       288 TglWlGNVYTaf~pWy~~gGiYa~iI~G~~iGf~ygiifsfrk~~~---------------~~fl~vfSyYPLImlIF~E  352 (380)
+                      -|.|..   ..+.+|-++||.|-.+.+-+.+|++.-.....+...+               ..+..++--||+.|--+.|
+T Consensus        94 ~Plw~~---~s~~~wL~~GG~w~li~f~~~~sv~~w~~R~~e~ar~LGmg~hia~AFsaaI~~~~~l~lIrPi~~Gsws~  170 (344)
+T 5V2C_a           94 YPIWEA---ASLDEWLYNGGPYQLIIFHFLLGASCYMGRQWELSYRLGMRPWICVAYSAPLASAFAVFLIYPIGQGSFSD  170 (344)
+T ss_dssp             CCGGGS---SSHHHHHHTTHHHHHHHHHHHHHHHHHHHHHHHHHHHHTCCSTHHHHHHHHHHHHHCCCCCHHHHHTCGGG
+T ss_pred             CCcccc---cChhHHHHcCHHHHHHHHHHHHHHHHHHHHHHHHHHHhCCCCcHHHHhHHHHHHHHHHHhhccccCCchhh
+Confidence            455554   5678999999999999998888887655444222211               2355577788987755555
+
+
+Q WP_000220864.1  353 H  353 (380)
+Q Consensus       353 q  353 (380)
+                      -
+T Consensus       171 a  171 (344)
+T 5V2C_a          171 G  171 (344)
+T ss_dssp             S
+T ss_pred             C
+Confidence            3
+
+
+No 8
+>2NR9_A Protein glpG homolog (E.C.3.4.21.105); intramembrane peptidase, rhomboid protease, membrane; HET: PQE, PA6; 2.2A {Haemophilus influenzae} SCOP: f.51.1.1
+Probab=3.12  E-value=1.1e+03  Score=21.19  Aligned_cols=21  Identities=24%  Similarity=0.371  Sum_probs=12.4  Template_Neff=9.600
+
+Q WP_000220864.1  312 IIIGILLGFYYGIWFSFRQNL  332 (380)
+Q Consensus       312 iI~G~~iGf~ygiifsfrk~~  332 (380)
+                      =+.|++.|.+++....++++.
+T Consensus       169 hl~g~l~G~~~~~~~~~~~~~  189 (196)
+T 2NR9_A          169 HISGLIVGLIWGFIDSKLRKN  189 (196)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHhhHhhhc
+Confidence            345666777777766644433
+
+
+No 9
+>2Q9R_A Protein of unknown function; STRUCTURAL GENOMICS, JOINT CENTER FOR; HET: SO4, GOL; 1.91A {Shewanella baltica}
+Probab=2.86  E-value=1.3e+03  Score=22.51  Aligned_cols=20  Identities=25%  Similarity=0.562  Sum_probs=16.4  Template_Neff=7.300
+
+Q WP_000220864.1  120 SLKVMREGILDGSISGFGLG  139 (380)
+Q Consensus       120 s~k~~re~lle~~~s~~~~g  139 (380)
+                      ..+-.|+-..++|+|.+|++
+T Consensus       179 ~i~~Lr~~~~~~gisnigi~  198 (200)
+T 2Q9R_A          179 LVKGLRKDIIETGVSNIGIS  198 (200)
+T ss_dssp             HHHHHHHHHHHHCCCTTSCC
+T ss_pred             HHHHHHHHHHHhCCCcchhh
+Confidence            56888999999999977654
+
+
+No 10
+>5ZZN_A Photosystem II protein D1 1; PHOTOSYNTHESIS, ELECTRON TRANSPORT; HET: RRX, LMG, HEM, HEC, PL9, BCR, UNL, CLA, DMS, BCT, LMT, OEX, PHO, FME, HTG, HSK, DGD, LHG, GOL; 2.1A {Thermosynechococcus elongatus (strain BP-1)}
+Probab=2.85  E-value=1.3e+03  Score=25.77  Aligned_cols=73  Identities=21%  Similarity=0.440  Sum_probs=0.0  Template_Neff=3.600
+
+Q WP_000220864.1  277 IPKTDILPWINIGVWDTNVYTAFAPWYQSLGLYAAIIIGILLGFYYGIWFSFRQNLAVG---------------FYQTFL  341 (380)
+Q Consensus       277 ip~~d~~pwV~TglWlGNVYTaf~pWy~~gGiYa~iI~G~~iGf~ygiifsfrk~~~~~---------------fl~vfS  341 (380)
+                      .|+...-|----|.|..   ..+.+|-+.||.|-.+.+-+.+|++.-.....+...+++               ++.++-
+T Consensus        73 ~Pps~~~Gl~~~Plw~~---~s~~~wL~~GG~w~~i~f~~~~sv~~w~~R~~e~ar~LGmg~hia~AFsaaI~~~~~l~l  149 (334)
+T 5ZZN_A           73 VPSSNAIGLHFYPIWEA---ASLDEWLYNGGPYQLIIFHFLLGASCYMGRQWELSYRLGMRPWICVAYSAPLASAFAVFL  149 (334)
+T ss_dssp             CCCCTTTTTCCCCGGGS---SSHHHHHHTTHHHHHHHHHHHHHHHHHHHHHHHHHHHHTCCSTHHHHHHHHHHHHHCCCC
+T ss_pred             CCCCCcccccCCCcccc---cChhHHHHcCHHHHHHHHHHHHHHHHHHHHHHHHHHHhCCCChHHHHhHHHHHHHhHhhc
+
+
+Q WP_000220864.1  342 CFPLLMLFFQE  352 (380)
+Q Consensus       342 yYPLImlIF~E  352 (380)
+                      -||+.|--+.|
+T Consensus       150 IrPi~~Gswse  160 (334)
+T 5ZZN_A          150 IYPIGQGSFSD  160 (334)
+T ss_dssp             CHHHHHTCGGG
+T ss_pred             cccccCCchhh
+
+

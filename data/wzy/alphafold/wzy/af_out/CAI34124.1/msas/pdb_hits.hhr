@@ -1,0 +1,184 @@
+Query         CAI34124.1 oligosaccharide repeat unit polymerase Wzy [Streptococcus pneumoniae] >CAI34150.1 oligosaccharide repeat unit polymerase Wzy [Streptococcus pneumoniae]
+Match_columns 411
+No_of_seqs    135 out of 317
+Neff          7.31921
+Searched_HMMs 80799
+Date          Wed Apr 27 18:42:49 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpjt3dav41/query.a3m -o /tmp/tmpjt3dav41/output.hhr -maxseq 1000000 -d /mnt/disks/data/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6BAR_A Rod shape determining p  95.8 0.00062 7.6E-09   70.0   0.0   74  265-358   215-288 (359)
+  2 6PL5_A Peptidoglycan glycosylt  95.5  0.0011 1.4E-08   68.8   0.0  125  265-409   233-375 (377)
+  3 2KX2_A Putative uncharacterize  28.3      50 0.00062   28.0   0.0   17  276-292    58-74  (96)
+  4 2RN0_A Integrin beta-3; transm   7.0 4.1E+02  0.0051   18.4   0.0   21  336-356    15-35  (43)
+  5 2N2A_A Receptor tyrosine-prote   6.2 4.9E+02   0.006   19.8   0.0    8  336-343    14-21  (58)
+  6 6RFR_c NUAM protein (E.C.1.6.9   6.1 4.9E+02  0.0061   20.2   0.0   15  282-296    32-46  (60)
+  7 5NRL_L U6 snRNA-associated Sm-   6.0   5E+02  0.0062   25.5   0.0    7  287-293   185-191 (194)
+  8 5ZWO_W Pre-mRNA-splicing facto   6.0   5E+02  0.0062   25.5   0.0    7  287-293   185-191 (194)
+  9 6AHD_8 Pre-mRNA-processing-spl   5.5 5.7E+02   0.007   25.2   0.0    7  287-293   188-194 (199)
+ 10 4C2M_N DNA-DIRECTED RNA POLYME   5.3 5.9E+02  0.0072   25.7   0.0   13  280-292   169-181 (233)
+
+No 1
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=95.79  E-value=0.00062  Score=69.98  Aligned_cols=74  Identities=12%  Similarity=0.039  Sum_probs=41.8  Template_Neff=9.300
+
+Q CAI34124.1      265 TPRLTLFKYGMLTMRRYFPLGSGFATYGSDIAAKNYSLLYYQYGFHNRYGMNPYDIRFLNDNFYPMIFAQFGFLGGILYV  344 (411)
+Q Consensus       265 saR~~L~~~g~~Ia~~yFPfGsGFgTfGS~~S~~~YSplY~~YG~~~i~GL~~~~~~fl~DtfWP~IigQfG~iG~ilfi  344 (411)
+                      ++|++++..+.+.+++++++|.|.|++....                    .+..|+.|||+.++++..|+|++|.++++
+T Consensus       215 ~~~~~~~~~~~~~i~~~~~~G~G~g~~~~~~--------------------~~~~~~~h~d~i~~~i~~e~G~ig~~~~l  274 (359)
+T 6BAR_A          215 LGQGFQVIQSTIAIGSGGLFGKGYGQGTQAQ--------------------LGFIPFRHTDFVFSVWAEEWGFVGVVGLL  274 (359)
+T ss_dssp             -------------CTTTCCSCC-----------------------------------CCTTTTHHHHHHHSHHHHHHHHH
+T ss_pred             CCCCHHHHHHHHHHHhcCcccccCCcccccc--------------------cccCccccCccHHHHHHHHcchHHHHHHH
+Confidence            3689999999999999999999999854321                    12457899999999999999999999999
+
+
+Q CAI34124.1      345 FLLLDYFRLLLRVA  358 (411)
+Q Consensus       345 ~~l~~~~~~~~~~~  358 (411)
+                      .++..++.+..|..
+T Consensus       275 ~l~~~l~~~~~~~~  288 (359)
+T 6BAR_A          275 GLYGLLLARLFALA  288 (359)
+T ss_dssp             HHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHH
+Confidence            88887777776654
+
+
+No 2
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=95.53  E-value=0.0011  Score=68.82  Aligned_cols=125  Identities=14%  Similarity=0.065  Sum_probs=72.4  Template_Neff=8.900
+
+Q CAI34124.1      265 TPRLTLFKYGMLTMRRYFPLGSGFATYGSDIAAKNYSLLYYQYGFHNRYGMNPYDIRFLNDNFYPMIFAQFGFLGGILYV  344 (411)
+Q Consensus       265 saR~~L~~~g~~Ia~~yFPfGsGFgTfGS~~S~~~YSplY~~YG~~~i~GL~~~~~~fl~DtfWP~IigQfG~iG~ilfi  344 (411)
+                      ++|++++..+.+.+++++++|.|.|++....                    ....|+.|||+.++.+.+|+|++|.++++
+T Consensus       233 ~~~g~~~~~~~~~i~~~~~~G~G~g~~~~~~--------------------~~~~p~~h~d~i~~~i~~e~G~ig~~~~l  292 (377)
+T 6PL5_A          233 LGQGFQVIQSTIAIGSGGLFGKGYGQGTQAQ--------------------LGFIPFRHTDFVFSVWAEEWGFVGVVGLL  292 (377)
+T ss_dssp             HHHHHHHHHHHHTTCCCC------------------------------------CCSCSSTTHHHHHHHHHHHHHHHHHH
+T ss_pred             CCCcHHHHHHHHHHHhcCCcCcCCCCcccch--------------------hhcCcCCCCCcHHHHHHHHccHHHHHHHH
+Confidence            3689999999999999999999999753311                    12357899999999999999999999999
+
+
+Q CAI34124.1      345 FLLLDYFRLLLRVASI-NDKVIK---TS-VFIYIFNVVLSSIQSS--YP-----------GTNSMVITTFLICLILRYSD  406 (411)
+Q Consensus       345 ~~l~~~~~~~~~~~~~-~~~~~~---~~-~~i~l~~~i~ss~~ss--~~-----------~~~~~~i~~~~~~li~~~~~  406 (411)
+                      .++..++.+..|..+. +++..+   .. ...+....+.+...+.  .|           +.+++...+++++++++..|
+T Consensus       293 ~l~~~l~~~~~~~~~~~~~~~~~~l~~g~~~~~~~q~~~ni~~~~g~~P~~gi~lPFiSyGgs~~~~~~~~~Gl~lsi~r  372 (377)
+T 6PL5_A          293 GLYGLLLARLFALALACPRLSDRLFLSGFAGMLGFQVVVNLGVALGVMPVTGLTLPLFSYGGSSLIATLAGLGLVLLVHR  372 (377)
+T ss_dssp             HHHHHHHHHHHHHHHHCCSHHHHHHHHHHHHHHHHHHHHHHHHHTTCSCCCCCCCTTTSCCSSHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHhCCCHHHHHHHHHHHHHHHHHHHHHHHHHcCCCCCcCCCccccccChHHHHHHHHHHHHHHHHHH
+Confidence            8887777777665432 232211   11 1111111111111111  11           23455667788888888877
+
+
+Q CAI34124.1      407 KWR  409 (411)
+Q Consensus       407 ~~~  409 (411)
+                      +.+
+T Consensus       373 ~~~  375 (377)
+T 6PL5_A          373 DRY  375 (377)
+T ss_dssp             TSS
+T ss_pred             hhc
+Confidence            654
+
+
+No 3
+>2KX2_A Putative uncharacterized protein; methanobacterium thermoautotrophicum, structural genomics, UNKNOWN; NMR {Methanobacterium thermoautotrophicum}
+Probab=28.29  E-value=50  Score=27.97  Aligned_cols=17  Identities=35%  Similarity=0.602  Sum_probs=12.6  Template_Neff=2.500
+
+Q CAI34124.1      276 LTMRRYFPLGSGFATYG  292 (411)
+Q Consensus       276 ~Ia~~yFPfGsGFgTfG  292 (411)
+                      .--.+|+|||++-+.+.
+T Consensus        58 ~fe~eyfPFgS~~ak~r   74 (96)
+T 2KX2_A           58 FYEREYFPFGSEESKVK   74 (96)
+T ss_dssp             CBCGGGCCSCCHHHHTS
+T ss_pred             EEeccccCCCChhhhhc
+Confidence            34568999999877654
+
+
+No 4
+>2RN0_A Integrin beta-3; transmembrane helix, Alternative splicing, Cell; NMR {Homo sapiens}
+Probab=7.04  E-value=4.1e+02  Score=18.40  Aligned_cols=21  Identities=29%  Similarity=0.268  Sum_probs=11.6  Template_Neff=8.000
+
+Q CAI34124.1      336 GFLGGILYVFLLLDYFRLLLR  356 (411)
+Q Consensus       336 G~iG~ilfi~~l~~~~~~~~~  356 (411)
+                      |.+|.++.+.++.....+..+
+T Consensus        15 gvvggiv~~~l~~~~~~~~~~   35 (43)
+T 2RN0_A           15 SVMGAILLIGLAALLIWKLLI   35 (43)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHH
+Confidence            777766665555444444443
+
+
+No 5
+>2N2A_A Receptor tyrosine-protein kinase erbB-2; HER2, ErbB2, Tyrosine kinase, Activation; NMR {Homo sapiens}
+Probab=6.16  E-value=4.9e+02  Score=19.81  Aligned_cols=8  Identities=25%  Similarity=0.426  Sum_probs=3.8  Template_Neff=7.000
+
+Q CAI34124.1      336 GFLGGILY  343 (411)
+Q Consensus       336 G~iG~ilf  343 (411)
+                      |.+|.++.
+T Consensus        14 ~Vvg~l~~   21 (58)
+T 2N2A_A           14 AVVGILLV   21 (58)
+T ss_dssp             HHHHHHHH
+T ss_pred             HHHHHHHH
+Confidence            45554443
+
+
+No 6
+>6RFR_c NUAM protein (E.C.1.6.99.3), NADH dehydrogenase; Complex I, NADH dehydrogenase, Mitochondrion; HET: FMN, 3PE, LMN, ZMP, SF4, CDL, PLC, UQ9, T7X, CPL, NDP; 4.32A {Yarrowia lipolytica}
+Probab=6.12  E-value=4.9e+02  Score=20.22  Aligned_cols=15  Identities=20%  Similarity=0.399  Sum_probs=9.7  Template_Neff=6.100
+
+Q CAI34124.1      282 FPLGSGFATYGSDIA  296 (411)
+Q Consensus       282 FPfGsGFgTfGS~~S  296 (411)
+                      +-||.|.+.++...+
+T Consensus        32 pG~~~g~~af~vyv~   46 (60)
+T 6RFR_c           32 PGFGIAVVAFGAYLA   46 (60)
+T ss_pred             cchHHHHHHHHHHHH
+Confidence            337778777766543
+
+
+No 7
+>5NRL_L U6 snRNA-associated Sm-like protein LSm3; Spliceosome, Splicing, Ribonucleoprotein; HET: PSU, GTP; 7.2A {Saccharomyces cerevisiae}
+Probab=6.05  E-value=5e+02  Score=25.55  Aligned_cols=7  Identities=29%  Similarity=1.061  Sum_probs=4.1  Template_Neff=5.300
+
+Q CAI34124.1      287 GFATYGS  293 (411)
+Q Consensus       287 GFgTfGS  293 (411)
+                      ||++|||
+T Consensus       185 GF~~FGs  191 (194)
+T 5NRL_L          185 GFSNFAT  191 (194)
+T ss_pred             ccccccc
+Confidence            5666654
+
+
+No 8
+>5ZWO_W Pre-mRNA-splicing factor 8, U4/U6 small; spliceosome, assembly, B complex, SPLICING; HET: GTP; 3.9A {Saccharomyces cerevisiae S288c}
+Probab=6.05  E-value=5e+02  Score=25.55  Aligned_cols=7  Identities=29%  Similarity=1.061  Sum_probs=4.1  Template_Neff=5.300
+
+Q CAI34124.1      287 GFATYGS  293 (411)
+Q Consensus       287 GFgTfGS  293 (411)
+                      ||++|||
+T Consensus       185 GF~~FGs  191 (194)
+T 5ZWO_W          185 GFSNFAT  191 (194)
+T ss_pred             ccccccc
+Confidence            5666654
+
+
+No 9
+>6AHD_8 Pre-mRNA-processing-splicing factor 8, Thioredoxin-like protein; Spliceosome, SPLICING; HET: IHP, GTP; 3.8A {Homo sapiens}
+Probab=5.48  E-value=5.7e+02  Score=25.22  Aligned_cols=7  Identities=57%  Similarity=1.308  Sum_probs=3.9  Template_Neff=5.900
+
+Q CAI34124.1      287 GFATYGS  293 (411)
+Q Consensus       287 GFgTfGS  293 (411)
+                      |||.||+
+T Consensus       188 GF~gFGs  194 (199)
+T 6AHD_8          188 GFSGFGS  194 (199)
+T ss_pred             CccccCc
+Confidence            5555554
+
+
+No 10
+>4C2M_N DNA-DIRECTED RNA POLYMERASES I, II; TRANSCRIPTION, RIBOSOME BIOGENESIS; HET: SO4, ZN; 2.8A {SACCHAROMYCES CEREVISIAE}
+Probab=5.35  E-value=5.9e+02  Score=25.69  Aligned_cols=13  Identities=15%  Similarity=0.268  Sum_probs=0.0  Template_Neff=6.500
+
+Q CAI34124.1      280 RYFPLGSGFATYG  292 (411)
+Q Consensus       280 ~yFPfGsGFgTfG  292 (411)
+                      +|+|+|+|-+.|+
+T Consensus       169 Rf~P~G~~~~~~~  181 (233)
+T 4C2M_N          169 EHFATGYDAEDFH  181 (233)
+T ss_pred             eecCCCCCccccc
+
+

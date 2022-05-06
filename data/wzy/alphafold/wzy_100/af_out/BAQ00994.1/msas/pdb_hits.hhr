@@ -1,0 +1,156 @@
+Query         BAQ00994.1 O-antigen polymerase [Escherichia coli]
+Match_columns 384
+No_of_seqs    75 out of 84
+Neff          5.65271
+Searched_HMMs 80799
+Date          Fri Feb  4 00:16:46 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp0_8tcu36/query.a3m -o /tmp/tmp0_8tcu36/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6PL5_A Peptidoglycan glycosylt  45.6      17 0.00021   38.1   0.0   25  168-192   119-143 (377)
+  2 6BAR_A Rod shape determining p  40.2      24 0.00029   36.6   0.0   25  168-192   101-125 (359)
+  3 5NKZ_D Ubiquitin-conjugating e   9.8 2.6E+02  0.0033   26.5   0.0   13  165-177    10-22  (138)
+  4 6TCL_A Photosystem I P700 chlo   6.7 4.4E+02  0.0054   31.6   0.0   25  161-185   134-158 (740)
+  5 1VF6_B PALS1-associated tight    6.6 4.4E+02  0.0055   23.0   0.0   31  255-285     9-40  (83)
+  6 6KMW_aA PROTEIN; Photosystem I   5.4 5.7E+02  0.0071   30.8   0.0   26  161-186   144-169 (764)
+  7 1JB0_A PHOTOSYSTEM I SUBUNIT P   5.4 5.8E+02  0.0072   30.7   0.0   26  161-186   144-169 (755)
+  8 6M17_B Sodium-dependent neutra   5.1 6.2E+02  0.0076   30.5   0.0   31  293-329   734-764 (814)
+  9 6M17_D Sodium-dependent neutra   5.1 6.2E+02  0.0076   30.5   0.0   31  293-329   734-764 (814)
+ 10 6RHZ_B Chlorophyll a-b binding   4.2 7.9E+02  0.0097   29.6   0.0   25  160-184   116-140 (730)
+
+No 1
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=45.64  E-value=17  Score=38.13  Aligned_cols=25  Identities=20%  Similarity=0.195  Sum_probs=15.8  Template_Neff=8.900
+
+Q BAQ00994.1      168 GIFNEPAEYSSAITVLVVSSYLINR  192 (384)
+Q Consensus       168 Glf~EPsiYs~~i~~Ll~l~y~~nk  192 (384)
+                      |..-.|+..+-....+....++-++
+T Consensus       119 ~~~~qpse~~k~~~i~~~a~~l~~~  143 (377)
+T 6PL5_A          119 PLQFQPLELAKLGLLLALAKALEGR  143 (377)
+T ss_dssp             SCCBCHHHHHHHHHHHHHHHHTTSC
+T ss_pred             CcCCCHHHHHHHHHHHHHHHHHcCC
+Confidence            3667788877666666555555444
+
+
+No 2
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=40.19  E-value=24  Score=36.61  Aligned_cols=25  Identities=20%  Similarity=0.195  Sum_probs=15.6  Template_Neff=9.300
+
+Q BAQ00994.1      168 GIFNEPAEYSSAITVLVVSSYLINR  192 (384)
+Q Consensus       168 Glf~EPsiYs~~i~~Ll~l~y~~nk  192 (384)
+                      |..-.|+..+-....+....++-++
+T Consensus       101 ~~~~qpse~~k~~~i~~~a~~l~~~  125 (359)
+T 6BAR_A          101 PLQFQPLELAKLGLLLALAKALEGR  125 (359)
+T ss_dssp             TEEECHHHHHHHHHHHHHHHHTCCS
+T ss_pred             CccCCHHHHHHHHHHHHHHHHHcCC
+Confidence            3667788877666666555555444
+
+
+No 3
+>5NKZ_D Ubiquitin-conjugating enzyme E2-21 kDa (E.C.2.3.2.23); Pex4, Pex22, Ubiquitin conjugating enzyme; 2.85A {Pichia angusta}
+Probab=9.78  E-value=2.6e+02  Score=26.52  Aligned_cols=13  Identities=46%  Similarity=0.772  Sum_probs=11.0  Template_Neff=4.600
+
+Q BAQ00994.1      165 RASGIFNEPAEYS  177 (384)
+Q Consensus       165 RpTGlf~EPsiYs  177 (384)
+                      |-.|+|+||+++.
+T Consensus        10 ~~~~~~~~~~~~~   22 (138)
+T 5NKZ_D           10 INPGLFEEPAKTS   22 (138)
+T ss_pred             cCccccCCccccc
+Confidence            5679999999875
+
+
+No 4
+>6TCL_A Photosystem I P700 chlorophyll a; photosynthesis, tetramer, anabaena, PSI; HET: CL0, SF4, DGD, LHG, PQN, BCR, LMG, CLA, ECH, AJP;{Nostoc sp. PCC 7120}
+Probab=6.67  E-value=4.4e+02  Score=31.58  Aligned_cols=25  Identities=36%  Similarity=0.388  Sum_probs=21.6  Template_Neff=3.400
+
+Q BAQ00994.1      161 GSLYRASGIFNEPAEYSSAITVLVV  185 (384)
+Q Consensus       161 g~~yRpTGlf~EPsiYs~~i~~Ll~  185 (384)
+                      -++.|+.|+++|...|++.+.+|+.
+T Consensus       134 f~~Wrt~Gi~t~~qLy~~ai~~lil  158 (740)
+T 6TCL_A          134 FQVWRGWGITNSFQLYCTAIGGLVL  158 (740)
+T ss_dssp             HHHHHHHTCCSHHHHHHHHHHHHHH
+T ss_pred             HHHHHHcCCCCHHHHHHHHHHHHHH
+Confidence            4689999999999999999877753
+
+
+No 5
+>1VF6_B PALS1-associated tight junction protein/MAGUK p55; L27 domain, heterodimer, four-helical bundle; 2.1A {Homo sapiens} SCOP: a.194.1.1
+Probab=6.63  E-value=4.4e+02  Score=23.02  Aligned_cols=31  Identities=26%  Similarity=0.279  Sum_probs=23.6  Template_Neff=4.000
+
+Q BAQ00994.1      255 IDRYEAF-INGSDGSNNTKLDTLNFFLTHTEY  285 (384)
+Q Consensus       255 ~~R~~~f-~~G~DgSnn~K~~~i~~f~~~~~~  285 (384)
+                      .+|+..- -+.+|.+++.+++.+...+++|-.
+T Consensus         9 LErlq~kL~e~GD~~~~edL~~L~svLqSPLF   40 (83)
+T 1VF6_B            9 LDRLKMKLQEKGDTSQNEKLSMFYETLKSPLF   40 (83)
+T ss_dssp             HHHHHHHHHHTTCCTTHHHHHHHHHHHHCHHH
+T ss_pred             HHHHHHHHHhcCCCcHHHHHHHHHHHHhChHH
+Confidence            4566654 346788999999999999988753
+
+
+No 6
+>6KMW_aA PROTEIN; Photosystem I, ELECTRON TRANSPORT; HET: PQN, LMG, CL0, BCR, CLA, UNL, LMT, SF4, LHG; 2.35A {Halomicronema hongdechloris C2206}
+Probab=5.45  E-value=5.7e+02  Score=30.81  Aligned_cols=26  Identities=38%  Similarity=0.521  Sum_probs=22.2  Template_Neff=3.300
+
+Q BAQ00994.1      161 GSLYRASGIFNEPAEYSSAITVLVVS  186 (384)
+Q Consensus       161 g~~yRpTGlf~EPsiYs~~i~~Ll~l  186 (384)
+                      -++.|+.|+++|...|++.+.+|+..
+T Consensus       144 f~~Wra~Gi~t~~qLy~~ai~~lila  169 (764)
+T 6KMW_aA         144 FQMWRANGITNSFELYCTAIGALVMA  169 (764)
+T ss_pred             HHHHHHcCCCCHHHHHHHHHHHHHHH
+Confidence            45899999999999999998777543
+
+
+No 7
+>1JB0_A PHOTOSYSTEM I SUBUNIT PSAA, PHOTOSYSTEM; MEMBRANE PROTEIN, MULTIPROTEIN-PIGMENT COMPLEX, PHOTOSYNTHESIS; HET: LHG, CLA, LMG, BCR, SF4, PQN; 2.5A {Synechococcus elongatus} SCOP: f.29.1.1
+Probab=5.37  E-value=5.8e+02  Score=30.74  Aligned_cols=26  Identities=50%  Similarity=0.551  Sum_probs=22.1  Template_Neff=3.400
+
+Q BAQ00994.1      161 GSLYRASGIFNEPAEYSSAITVLVVS  186 (384)
+Q Consensus       161 g~~yRpTGlf~EPsiYs~~i~~Ll~l  186 (384)
+                      -++.|+.|+++|...|++.+.+|+..
+T Consensus       144 fq~Wra~Gi~t~~qLy~~ai~~lila  169 (755)
+T 1JB0_A          144 FQLWRASGITNEFQLYCTAIGGLVMA  169 (755)
+T ss_dssp             HHHHHHHTCCSHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHcCCCCHHHHHHHHHHHHHHH
+Confidence            45899999999999999988777643
+
+
+No 8
+>6M17_B Sodium-dependent neutral amino acid transporter; 2019-nCoV RBD, ACE2-B0AT1 complex, MEMBRANE; HET: LEU, NAG; 2.9A {Homo sapiens}
+Probab=5.13  E-value=6.2e+02  Score=30.55  Aligned_cols=31  Identities=23%  Similarity=0.613  Sum_probs=19.0  Template_Neff=7.700
+
+Q BAQ00994.1      293 IGYDPETMPLFMQGLYDLTFFGSCISIFGIVIGSFIA  329 (384)
+Q Consensus       293 ig~~~~~~p~~y~aLyDlT~f~~~i~ifGi~iG~~i~  329 (384)
+                      +|..+.-+|.+-.   +.|.|   +++||++.|.+++
+T Consensus       734 ~~~~~~~~~~~~~---~~~~~---~~~~~~~~~~~~~  764 (814)
+T 6M17_B          734 LGIQPTLGPPNQP---PVSIW---LIVFGVVMGVIVV  764 (814)
+T ss_dssp             TTCCCCCCCCCCC---SSCHH---HHHHHHHHHHHHH
+T ss_pred             cccCCCCCCCCCC---CcchH---HHHHHHHHHHHHH
+Confidence            3444445555332   45555   7889999986554
+
+
+No 9
+>6M17_D Sodium-dependent neutral amino acid transporter; 2019-nCoV RBD, ACE2-B0AT1 complex, MEMBRANE; HET: NAG, LEU; 2.9A {Homo sapiens}
+Probab=5.13  E-value=6.2e+02  Score=30.55  Aligned_cols=31  Identities=23%  Similarity=0.613  Sum_probs=19.0  Template_Neff=7.700
+
+Q BAQ00994.1      293 IGYDPETMPLFMQGLYDLTFFGSCISIFGIVIGSFIA  329 (384)
+Q Consensus       293 ig~~~~~~p~~y~aLyDlT~f~~~i~ifGi~iG~~i~  329 (384)
+                      +|..+.-+|.+-.   +.|.|   +++||++.|.+++
+T Consensus       734 ~~~~~~~~~~~~~---~~~~~---~~~~~~~~~~~~~  764 (814)
+T 6M17_D          734 LGIQPTLGPPNQP---PVSIW---LIVFGVVMGVIVV  764 (814)
+T ss_pred             cccCCCCCCCCCC---CcchH---HHHHHHHHHHHHH
+Confidence            3444445555332   45555   7889999986554
+
+
+No 10
+>6RHZ_B Chlorophyll a-b binding protein, chloroplastic; photosystem I, photosynthesis, green algae; HET: PQN, CHL, LMG, CL0, BCR, CLA, LUT, XAT, DGD, SF4, LHG; 3.2A {Dunaliella salina}
+Probab=4.23  E-value=7.9e+02  Score=29.62  Aligned_cols=25  Identities=12%  Similarity=0.187  Sum_probs=21.5  Template_Neff=3.300
+
+Q BAQ00994.1      160 YGSLYRASGIFNEPAEYSSAITVLV  184 (384)
+Q Consensus       160 yg~~yRpTGlf~EPsiYs~~i~~Ll  184 (384)
+                      .-++.|+.|+++|...|++.+..++
+T Consensus       116 ~f~~Wrt~Gi~t~~qLy~~ai~~li  140 (730)
+T 6RHZ_B          116 VYQWWYTIGLRSNQELYVSSVFLAL  140 (730)
+T ss_pred             hHHHHHHcCCCCHHHHHHHHHHHHH
+Confidence            3468999999999999999887664
+
+

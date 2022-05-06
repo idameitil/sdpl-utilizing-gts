@@ -1,0 +1,177 @@
+Query         ABK27355.1 putative O-antigen polymerase [Escherichia coli]
+Match_columns 382
+No_of_seqs    37 out of 44
+Neff          4.88425
+Searched_HMMs 80799
+Date          Wed Apr 27 12:57:10 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpq0p32dck/query.a3m -o /tmp/tmpq0p32dck/output.hhr -maxseq 1000000 -d /mnt/disks/data/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6P25_B Dolichyl-diphosphooligo  11.2 2.2E+02  0.0027   33.3   0.0   92   91-183   156-265 (759)
+  2 1XZY_A Alpha-hemoglobin stabil  10.7 2.3E+02  0.0029   25.2   0.0   11   48-58     42-52  (90)
+  3 1Z8U_C Alpha-hemoglobin stabil  10.3 2.5E+02   0.003   25.5   0.0   11   48-58     42-52  (102)
+  4 5EZM_A 4-amino-4-deoxy-L-arabi   8.3 3.3E+02  0.0041   29.5   0.0   21  160-180   198-218 (578)
+  5 5F15_A 4-amino-4-deoxy-L-arabi   8.3 3.3E+02  0.0041   29.5   0.0   21  160-180   198-218 (578)
+  6 3M1F_V Actin, alpha skeletal m   7.4 3.9E+02  0.0048   19.4   0.0    9  128-136     9-17  (31)
+  7 6S7T_A Dolichyl-diphosphooligo   5.3 5.9E+02  0.0073   30.4   0.0   21  281-301   451-471 (826)
+  8 3PMK_N Nucleocapsid protein, P   5.3   6E+02  0.0074   21.7   0.0   27  355-381    35-61  (68)
+  9 3PMK_P Nucleocapsid protein, P   5.3   6E+02  0.0074   21.7   0.0   27  355-381    35-61  (68)
+ 10 6P2R_A Dolichyl-diphosphooligo   3.7 9.3E+02   0.011   29.3   0.0   89   91-180   142-246 (817)
+
+No 1
+>6P25_B Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunits (E.C.2.4.99.18); complex, TRANSFERASE, glycosylation; HET: NAG, NNM, CPL; 3.2A {Saccharomyces cerevisiae W303}
+Probab=11.25  E-value=2.2e+02  Score=33.29  Aligned_cols=92  Identities=15%  Similarity=0.256  Sum_probs=36.1  Template_Neff=8.800
+
+Q ABK27355.1       91 LLYYFLCFVLLSLILKKYKVNE-PLFLGWLLLLFGYNLFLEQLRQLL----A---CIIVFYAMLLYNQNKN-------LI  155 (382)
+Q Consensus        91 ~ify~i~f~~l~~~l~k~k~N~-p~fl~~lil~~Gy~LileQlRQfi----A---~~Ivf~all~y~~~k~-------~~  155 (382)
+                      .++..++...+++.+++...+. ...++++++.+. +....+-|...    +   ++..++.+....++++       .+
+T Consensus       156 ~l~~~l~~~~ly~i~r~l~~~~~~a~laall~~~~-p~~~~~s~~~~~d~~~~~f~~lal~~l~~~~~~~~~~~~~~~~~  234 (759)
+T 6P25_B          156 ASFSALCVPLAYFTAKAIGFSLPTVWLMTVLVLFE-NSYSTLGRFILLDSMLLFFTVASFFSFVMFHNQRSKPFSRKWWK  234 (759)
+T ss_dssp             HHHHHHHHHHHHHHHH------------HHHH-SC-HHHHHHTSSSCSHHHHHHHH------------HSSSTTSHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHC-HHHHHHHhHHHHHHHHHHHHHHHHHHHHHHHHhCCCCCChhHHH
+Confidence            4444555666677777765444 344444433333 33333334322    2   2233333333333321       11
+
+
+Q ABK27355.1      156 ES---CILVITASTFHVSAVIILPTIFLISF  183 (382)
+Q Consensus       156 ~~---~ilviiAs~FH~SAiivlp~~fL~~i  183 (382)
+                      ..   .+...+|.+.|..+++.+++..+...
+T Consensus       235 ~l~l~gl~lgla~~~K~~~l~~~~~i~l~~l  265 (759)
+T 6P25_B          235 WLLITGISLGCTISVKMVGLFIITMVGIYTV  265 (759)
+T ss_dssp             HHHHHHHHHHHHHHHCGGGHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHhchhHHHHHHHHHHHHH
+Confidence            11   23457788899999988877765543
+
+
+No 2
+>1XZY_A Alpha-hemoglobin stabilizing protein; helical bundle, three-helix bundle, CHAPERONE; NMR {Homo sapiens} SCOP: a.7.11.1
+Probab=10.73  E-value=2.3e+02  Score=25.21  Aligned_cols=11  Identities=36%  Similarity=1.189  Sum_probs=9.0  Template_Neff=2.100
+
+Q ABK27355.1       48 EDWSVYYLRFI   58 (382)
+Q Consensus        48 ~DW~nYY~~F~   58 (382)
+                      +||+|.|.++.
+T Consensus        42 ~DWvnfYinYy   52 (90)
+T 1XZY_A           42 EDWMNFYINYY   52 (90)
+T ss_dssp             HHHHHHHHHHH
+T ss_pred             HHHHHHHHHHH
+Confidence            69999888874
+
+
+No 3
+>1Z8U_C Alpha-hemoglobin stabilizing protein, Hemoglobin alpha; alpha haemoglobin, AHSP, oxidation, interaction; HET: HEM; 2.4A {Homo sapiens} SCOP: a.7.11.1
+Probab=10.33  E-value=2.5e+02  Score=25.55  Aligned_cols=11  Identities=36%  Similarity=1.189  Sum_probs=9.0  Template_Neff=2.000
+
+Q ABK27355.1       48 EDWSVYYLRFI   58 (382)
+Q Consensus        48 ~DW~nYY~~F~   58 (382)
+                      +||+|.|.++.
+T Consensus        42 ~DWvnfYinYY   52 (102)
+T 1Z8U_C           42 EDWMNFYINYY   52 (102)
+T ss_dssp             HHHHHHHHHHH
+T ss_pred             HHHHHHHHHHH
+Confidence            69999888873
+
+
+No 4
+>5EZM_A 4-amino-4-deoxy-L-arabinose (L-Ara4N) transferase; membrane protein, lipid glycosyltransferase, zinc; HET: EPE, PC, PO4, MPG, DSL; 2.7A {Cupriavidus metallidurans (strain ATCC 43123 / DSM 2839 / NBRC 102507 / CH34)}
+Probab=8.29  E-value=3.3e+02  Score=29.50  Aligned_cols=21  Identities=24%  Similarity=0.091  Sum_probs=15.1  Template_Neff=10.800
+
+Q ABK27355.1      160 LVITASTFHVSAVIILPTIFL  180 (382)
+Q Consensus       160 lviiAs~FH~SAiivlp~~fL  180 (382)
+                      ...+|.+.|..+.+++|...+
+T Consensus       198 ~~gl~~l~k~~~~~~~~~~~~  218 (578)
+T 5EZM_A          198 AMGVAILTKGLVGIALPGLVL  218 (578)
+T ss_dssp             HHHHHHHHHTTHHHHHHHHHH
+T ss_pred             HHHHHHHhchhHHHHHHHHHH
+Confidence            457788899888777665543
+
+
+No 5
+>5F15_A 4-amino-4-deoxy-L-arabinose (L-Ara4N) transferase; membrane protein, lipid glycosyltransferase, GT-C; HET: EPE, MPG, 5TR; 3.2A {Cupriavidus metallidurans (strain ATCC 43123 / DSM 2839 / NBRC 102507 / CH34)}
+Probab=8.29  E-value=3.3e+02  Score=29.50  Aligned_cols=21  Identities=24%  Similarity=0.091  Sum_probs=15.1  Template_Neff=10.800
+
+Q ABK27355.1      160 LVITASTFHVSAVIILPTIFL  180 (382)
+Q Consensus       160 lviiAs~FH~SAiivlp~~fL  180 (382)
+                      ...+|.+.|..+.+++|...+
+T Consensus       198 ~~gl~~l~k~~~~~~~~~~~~  218 (578)
+T 5F15_A          198 AMGVAILTKGLVGIALPGLVL  218 (578)
+T ss_dssp             HHHHHHHHHTTHHHHHHHHHH
+T ss_pred             HHHHHHHhchhHHHHHHHHHH
+Confidence            457788899888777665543
+
+
+No 6
+>3M1F_V Actin, alpha skeletal muscle, Putative; ACTIN, ACTIN-BINDING PROTEIN, CROSSLINKING, NUCLEATOR; HET: ATP; 2.89A {Oryctolagus cuniculus}
+Probab=7.38  E-value=3.9e+02  Score=19.43  Aligned_cols=9  Identities=44%  Similarity=0.693  Sum_probs=6.1  Template_Neff=1.500
+
+Q ABK27355.1      128 FLEQLRQLL  136 (382)
+Q Consensus       128 ileQlRQfi  136 (382)
+                      ..||+||-.
+T Consensus         9 LMEqIRqGV   17 (31)
+T 3M1F_V            9 LMEQIRQGV   17 (31)
+T ss_pred             HHHHHHHhh
+Confidence            358888853
+
+
+No 7
+>6S7T_A Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3B (E.C.2.4.99.18); N-glycosylation, Oligosaccharyltransferase, OSTB, TRANSFERASE; HET: MAN, EGY, KZB, BMA, 0K3, NAG; 3.5A {Homo sapiens}
+Probab=5.31  E-value=5.9e+02  Score=30.38  Aligned_cols=21  Identities=10%  Similarity=-0.020  Sum_probs=14.4  Template_Neff=8.600
+
+Q ABK27355.1      281 SGTITFLARVCFYFYFVGVYI  301 (382)
+Q Consensus       281 ~~~ipfl~R~~yYf~~i~i~~  301 (382)
+                      .|+.-.++|+..+..++.+.+
+T Consensus       451 ~yfs~~~vRl~l~~ap~~~il  471 (826)
+T 6S7T_A          451 VYFAGVMVRLMLTLTPVVCML  471 (826)
+T ss_dssp             HHHHTTCSTTHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHH
+Confidence            444567789988888765554
+
+
+No 8
+>3PMK_N Nucleocapsid protein, Phosphoprotein; chaperone, VIRAL PROTEIN; 3.03A {Recombinant vesicular stomatitis Indiana virus rVSV-G/GFP}
+Probab=5.28  E-value=6e+02  Score=21.70  Aligned_cols=27  Identities=11%  Similarity=0.389  Sum_probs=21.7  Template_Neff=1.900
+
+Q ABK27355.1      355 QFFNTFNDNYLRTNAYDKYFKGMQGNV  381 (382)
+Q Consensus       355 ~~~~~~~~~~~~~~~~~~~~~~~~~~~  381 (382)
+                      .-+++|+++.++..+.-.|+.+.+++.
+T Consensus        35 tnfdLFqEeg~e~k~~PSYYq~~ed~~   61 (68)
+T 3PMK_N           35 SNYELFQEDGVEEHTKPSYFQAADDSL   61 (68)
+T ss_pred             hhhHHHHhcCCccccCCcchhhhhhhh
+Confidence            456788999888888888998888764
+
+
+No 9
+>3PMK_P Nucleocapsid protein, Phosphoprotein; chaperone, VIRAL PROTEIN; 3.03A {Recombinant vesicular stomatitis Indiana virus rVSV-G/GFP}
+Probab=5.28  E-value=6e+02  Score=21.70  Aligned_cols=27  Identities=11%  Similarity=0.389  Sum_probs=21.7  Template_Neff=1.900
+
+Q ABK27355.1      355 QFFNTFNDNYLRTNAYDKYFKGMQGNV  381 (382)
+Q Consensus       355 ~~~~~~~~~~~~~~~~~~~~~~~~~~~  381 (382)
+                      .-+++|+++.++..+.-.|+.+.+++.
+T Consensus        35 tnfdLFqEeg~e~k~~PSYYq~~ed~~   61 (68)
+T 3PMK_P           35 SNYELFQEDGVEEHTKPSYFQAADDSL   61 (68)
+T ss_pred             hhhHHHHhcCCccccCCcchhhhhhhh
+Confidence            456788999888888888998888764
+
+
+No 10
+>6P2R_A Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunits (E.C.2.4.99.18); complex, TRANSFERASE, glycosylation; HET: NNM, CPL, NAG;{Saccharomyces cerevisiae W303}
+Probab=3.70  E-value=9.3e+02  Score=29.31  Aligned_cols=89  Identities=16%  Similarity=0.120  Sum_probs=43.7  Template_Neff=7.300
+
+Q ABK27355.1       91 LLYYFLCFVLLSLILKKYKVNE-PLFLGWLLLLFGYNLFLEQLRQLL-------ACIIVFYAMLLYNQNKN----LIESC  158 (382)
+Q Consensus        91 ~ify~i~f~~l~~~l~k~k~N~-p~fl~~lil~~Gy~LileQlRQfi-------A~~Ivf~all~y~~~k~----~~~~~  158 (382)
+                      .++..++..++++.+++...+. .+.++++++.+. +....|-|...       .++..++++..+.++++    .++..
+T Consensus       142 al~g~l~v~llylllr~l~~s~~~Allaallla~~-p~~i~~Sr~il~D~~llfF~llal~~l~~~~~~~~~~~~~~~~l  220 (817)
+T 6P2R_A          142 ASLGALTVILMYMTLRYSGVRMWVALMSAICFAVE-NSYVTISRYILLDAPLMFFIAAAVYSFKKYEMYPANSLNAYKSL  220 (817)
+T ss_dssp             HHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHSC-HHHHHHHHSSCSHHHHHHHHHHHHHHHHHHHTSCSSSHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHhCCCHHHHHHHHHHHHHc-HHHHHHHHHHhcHHHHHHHHHHHHHHHHHHhhCCCCCchHHHHH
+Confidence            3444555556667777665544 334444443333 33344555432       22333333333333322    01111
+
+
+Q ABK27355.1      159 ----ILVITASTFHVSAVIILPTIFL  180 (382)
+Q Consensus       159 ----ilviiAs~FH~SAiivlp~~fL  180 (382)
+                          +...+|+..+.+++..++...+
+T Consensus       221 ll~Gl~lGLa~stK~~gl~~i~~v~l  246 (817)
+T 6P2R_A          221 LATGIALGMASSSKWVGLFTVTWVGL  246 (817)
+T ss_dssp             HHHHHHHHHHHTTCTTHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHhhhHHHHHHHHHHH
+Confidence                2346778889988888776554
+
+

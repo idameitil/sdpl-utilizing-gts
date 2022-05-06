@@ -1,0 +1,167 @@
+Query         BAQ00893.1 O-antigen polymerase [Escherichia coli]
+Match_columns 398
+No_of_seqs    4 out of 4
+Neff          1.71244
+Searched_HMMs 80799
+Date          Thu Feb  3 23:06:55 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpdgp5n9n7/query.a3m -o /tmp/tmpdgp5n9n7/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 2AKH_B Protein-export membrane  14.9 1.5E+02  0.0018   30.7   0.0   51  128-182   118-173 (400)
+  2 4V6M_BA PROTEIN/RNA Complex; R  13.0 1.8E+02  0.0022   30.4   0.0   51  128-182   147-202 (435)
+  3 2DO7_A Cullin-4B; helix-turn-h  12.8 1.8E+02  0.0022   24.8   0.0   21   68-90     76-96  (101)
+  4 3DL8_H SecA, SecG, SecY, SecE;  11.6 2.1E+02  0.0026   29.8   0.0   52  128-183   152-208 (429)
+  5 5GAE_g 50S ribosomal protein L  11.6 2.1E+02  0.0026   30.1   0.0   51  128-182   154-209 (443)
+  6 1IUY_A cullin-3 homologue; win  10.9 2.3E+02  0.0028   23.4   0.0   21   67-89     72-92  (92)
+  7 1RH5_A Preprotein translocase    9.4 2.8E+02  0.0035   29.3   0.0   85  130-232   139-236 (436)
+  8 3TDU_D DCN1-like protein 1, Cu   9.3 2.8E+02  0.0035   21.8   0.0   20   68-89     58-77  (77)
+  9 5V89_C DCN1-like protein 4, Cu   9.3 2.8E+02  0.0035   21.8   0.0   20   68-89     58-77  (77)
+ 10 5EUL_Y SecA, SecY, SecE, AYC08   8.4 3.3E+02   0.004   28.5   0.0   45  132-180   150-199 (424)
+
+No 1
+>2AKH_B Protein-export membrane protein secG, Preprotein; Protein transport, Translocation, Transmembrane, Transport; 14.9A {Escherichia coli}
+Probab=14.86  E-value=1.5e+02  Score=30.67  Aligned_cols=51  Identities=25%  Similarity=0.277  Sum_probs=37.4  Template_Neff=7.500
+
+Q BAQ00893.1      128 VNINVILLLQVFCWTTCLMVLAIKISERYAM-----IILCIGICFFSYTIPYTFFHLFRQ  182 (398)
+Q Consensus       128 ~~iNvIl~iQv~~W~~clm~~A~kiSeRy~~-----~ilcIGICFFsYTiPYTFfHLyRQ  182 (398)
+                      ....+....|....+..+|.+++.++| |+.     ++.+.+||--.   |-++.|...+
+T Consensus       118 ~~~~~~~v~~l~~Gs~il~wL~e~It~-~GiG~G~sliI~~~I~~~l---~~~l~~~~~~  173 (400)
+T 2AKH_B          118 FAFYFTAVVSLVTGTMFLMWLGEQITE-RGIGNGISIIIFAGIVAGL---PPAIAHTIEQ  173 (400)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHH-cCcccHHHHHHHHHHHcCc---cHHHHHHHHH
+Confidence            344567788999999999999999999 665     35566776543   6666666544
+
+
+No 2
+>4V6M_BA PROTEIN/RNA Complex; RIBOSOMAL PROTEIN, RIBONUCLEOPROTEIN, NUCLEOTIDE-BINDING, PROTEIN; HET: PGV, PEV; 7.1A {Escherichia coli}
+Probab=12.99  E-value=1.8e+02  Score=30.43  Aligned_cols=51  Identities=25%  Similarity=0.277  Sum_probs=37.4  Template_Neff=7.500
+
+Q BAQ00893.1      128 VNINVILLLQVFCWTTCLMVLAIKISERYAM-----IILCIGICFFSYTIPYTFFHLFRQ  182 (398)
+Q Consensus       128 ~~iNvIl~iQv~~W~~clm~~A~kiSeRy~~-----~ilcIGICFFsYTiPYTFfHLyRQ  182 (398)
+                      ...-+....|...++..+|.+++.++| |+.     ++.+.+||--.   |-++.|...+
+T Consensus       147 ~~~~~~~~~~l~~Gs~il~wL~e~It~-~GiGnG~sliI~~~I~~~l---~~~l~~~~~~  202 (435)
+T 4V6M_BA         147 FAFYFTAVVSLVTGTMFLMWLGEQITE-RGIGNGISIIIFAGIVAGL---PPAIAHTIEQ  202 (435)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHH-cCccchHHHHHHHHHHCCC---cHHHHHHHHH
+Confidence            334566788999999999999999999 765     35677777543   6666666544
+
+
+No 3
+>2DO7_A Cullin-4B; helix-turn-helix motif, structural genomics, NPPSFA; NMR {Homo sapiens}
+Probab=12.76  E-value=1.8e+02  Score=24.81  Aligned_cols=21  Identities=19%  Similarity=0.651  Sum_probs=13.6  Template_Neff=6.900
+
+Q BAQ00893.1       68 VNREYLIEFNERSGDDTFRYIPF   90 (398)
+Q Consensus        68 VNREYlirF~E~sGDDT~RYIPF   90 (398)
+                      ++|||+-| +|.+. ++..|+|-
+T Consensus        76 Iekeyl~R-~~~~~-~~~~Yv~~   96 (101)
+T 2DO7_A           76 IDRDYMER-DKENP-NQYNYIAS   96 (101)
+T ss_dssp             HHTTSEEE-CSSCT-TEEEECCC
+T ss_pred             HHcCCeee-CCCCC-CceEEeec
+Confidence            57888876 33332 38999883
+
+
+No 4
+>3DL8_H SecA, SecG, SecY, SecE; RecA-type ATPase membrane protein translocation; 7.5A {Bacillus subtilis}
+Probab=11.64  E-value=2.1e+02  Score=29.77  Aligned_cols=52  Identities=21%  Similarity=0.418  Sum_probs=37.4  Template_Neff=7.700
+
+Q BAQ00893.1      128 VNINVILLLQVFCWTTCLMVLAIKISERYAM-----IILCIGICFFSYTIPYTFFHLFRQA  183 (398)
+Q Consensus       128 ~~iNvIl~iQv~~W~~clm~~A~kiSeRy~~-----~ilcIGICFFsYTiPYTFfHLyRQA  183 (398)
+                      ...-....+|...++..+|.+++.++| |+.     ++.+.+||-   .+|.+++++.++.
+T Consensus       152 ~~~~~~~~l~l~~Gs~il~wL~e~it~-~GiGnG~SliI~~~I~~---~~~~~~~~~~~~~  208 (429)
+T 3DL8_H          152 ISFILITVLTLVAGTMFLVWIADRITE-KGIGNGASLIIFAGIVA---NFPNAVIQFYEKV  208 (429)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHH-cCCCccHHHHHHHHHHh---hchHHHHHHHHHH
+Confidence            334566778999999999999999998 765     356666665   5666666554443
+
+
+No 5
+>5GAE_g 50S ribosomal protein L2, 50S; ribosome, translocon; HET: MG; 3.33A {Escherichia coli}
+Probab=11.58  E-value=2.1e+02  Score=30.09  Aligned_cols=51  Identities=25%  Similarity=0.277  Sum_probs=37.5  Template_Neff=7.400
+
+Q BAQ00893.1      128 VNINVILLLQVFCWTTCLMVLAIKISERYAM-----IILCIGICFFSYTIPYTFFHLFRQ  182 (398)
+Q Consensus       128 ~~iNvIl~iQv~~W~~clm~~A~kiSeRy~~-----~ilcIGICFFsYTiPYTFfHLyRQ  182 (398)
+                      ...-+....|...++..+|.+++.++| |+.     ++.+.+||--.   |-++.|...+
+T Consensus       154 ~~~~~~~~l~l~~Gs~il~wL~e~It~-~GiGnG~SliI~~~I~~~l---~~~l~~~~~~  209 (443)
+T 5GAE_g          154 FAFYFTAVVSLVTGTMFLMWLGEQITE-RGIGNGISIIIFAGIVAGL---PPAIAHTIEQ  209 (443)
+T ss_dssp             CHHHHHHHHHHHHHHHHHHHHHHSTTT-TSSSCHHHHHHHHHHHTTC---HHHHHHHHHT
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHH-cCccchHHHHHHHHHhcCc---cHHHHHHHHH
+Confidence            334466788999999999999999999 765     35677777543   6666666544
+
+
+No 6
+>1IUY_A cullin-3 homologue; winged helix, STRUCTURAL GENOMICS, RIKEN; NMR {Mus musculus} SCOP: a.4.5.34
+Probab=10.88  E-value=2.3e+02  Score=23.41  Aligned_cols=21  Identities=24%  Similarity=0.683  Sum_probs=11.9  Template_Neff=7.500
+
+Q BAQ00893.1       67 IVNREYLIEFNERSGDDTFRYIP   89 (398)
+Q Consensus        67 IVNREYlirF~E~sGDDT~RYIP   89 (398)
+                      .++|||+-| +|.++ ++..|+|
+T Consensus        72 LI~k~yi~R-~~~~~-~~~~Yv~   92 (92)
+T 1IUY_A           72 LIEREYLAR-TPEDR-KVYTYVA   92 (92)
+T ss_dssp             HHHTTSEEE-CSSCS-SEEEEC-
+T ss_pred             HHHCCCeEe-CCCCC-CceEecC
+Confidence            457888766 22222 2788876
+
+
+No 7
+>1RH5_A Preprotein translocase secY subunit/ Preprotein; Protein translocation, SecY, Membrane Protein; 3.2A {Methanocaldococcus jannaschii} SCOP: f.41.1.1
+Probab=9.36  E-value=2.8e+02  Score=29.29  Aligned_cols=85  Identities=14%  Similarity=0.316  Sum_probs=52.6  Template_Neff=7.200
+
+Q BAQ00893.1      130 INVILLLQVFCWTTCLMVLAIKISERYAM-----IILCIGICFFSYT--------IPYTFFHLFRQAWGLSFFILYLCNW  196 (398)
+Q Consensus       130 iNvIl~iQv~~W~~clm~~A~kiSeRy~~-----~ilcIGICFFsYT--------iPYTFfHLyRQAWgLSFFiLYl~~w  196 (398)
+                      .-....+|....+..+|.+++.++| |+.     ++.+.+||--...        ++ ..+|.+++            . 
+T Consensus       139 ~~~~~v~~l~~Gs~i~~wL~e~i~~-~GiG~G~sliI~~~I~~~i~~~~~~~~~~l~-~~~~~~~~------------~-  203 (436)
+T 1RH5_A          139 LAFLVIIQIAFGSIILIYLDEIVSK-YGIGSGIGLFIAAGVSQTIFVGALGPEGYLW-KFLNSLIQ------------G-  203 (436)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHH-HSSSCHHHHHHHHHHHHHHHHHHHSTTCHHH-HHHHHTTT------------T-
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHH-hCccchHHHHHHHHHHhhhhhHhhCcchHHH-HHHHHHhc------------C-
+Confidence            3466788999999999999999999 776     3567777754433        33 23444433            0 
+
+
+Q BAQ00893.1      197 DKPGRFAFILLAGLSHLMFIPLLIFMEISRKGILIL  232 (398)
+Q Consensus       197 ~~~~Rf~fl~La~LSHLmfIP~~I~mE~srkgi~i~  232 (398)
+                       ...  ...++..+.-+.++-+.+..|-.++++.+.
+T Consensus       204 -~~~--l~~l~~li~~l~i~~~vv~~~~~~~~IPi~  236 (436)
+T 1RH5_A          204 -VPN--IEYIAPIIGTIIVFLMVVYAECMRVEIPLA  236 (436)
+T ss_dssp             -CCC--GGGTHHHHHHHHHHHHHHHHTTCEEEEECC
+T ss_pred             -CCC--HHHHHHHHHHHHHHHHHHHHHhcccccccc
+Confidence             011  111222333445555667888888887776
+
+
+No 8
+>3TDU_D DCN1-like protein 1, Cullin-1, NEDD8-conjugating; E2:E3, Ligase-protein binding complex; 1.5A {Homo sapiens}
+Probab=9.30  E-value=2.8e+02  Score=21.78  Aligned_cols=20  Identities=30%  Similarity=0.728  Sum_probs=12.4  Template_Neff=8.000
+
+Q BAQ00893.1       68 VNREYLIEFNERSGDDTFRYIP   89 (398)
+Q Consensus        68 VNREYlirF~E~sGDDT~RYIP   89 (398)
+                      ++|||+-|- |.+. ++..|+|
+T Consensus        58 i~r~yi~r~-~~~~-~~~~Y~~   77 (77)
+T 3TDU_D           58 IEKEYLERV-DGEK-DTYSYLA   77 (77)
+T ss_dssp             HHTTSEEEE-TTEE-EEEEECC
+T ss_pred             HHCCCeEEe-CCCC-CeEEEcC
+Confidence            568887762 2222 3888886
+
+
+No 9
+>5V89_C DCN1-like protein 4, Cullin-1; E3 Ligase, Ligase - protein; 1.55A {Homo sapiens}
+Probab=9.30  E-value=2.8e+02  Score=21.78  Aligned_cols=20  Identities=30%  Similarity=0.728  Sum_probs=11.9  Template_Neff=8.000
+
+Q BAQ00893.1       68 VNREYLIEFNERSGDDTFRYIP   89 (398)
+Q Consensus        68 VNREYlirF~E~sGDDT~RYIP   89 (398)
+                      ++|||+-|- |.+. ++..|+|
+T Consensus        58 i~r~yi~r~-~~~~-~~~~Y~~   77 (77)
+T 5V89_C           58 IEKEYLERV-DGEK-DTYSYLA   77 (77)
+T ss_dssp             HHTTSEEEC-C--C-CEEEECC
+T ss_pred             HHCCCeEEe-CCCC-CeEEEcC
+Confidence            568887762 2222 3888886
+
+
+No 10
+>5EUL_Y SecA, SecY, SecE, AYC08; SecY, SecA, ATPase, channel, PROTEIN; HET: ADP, TBR; 3.7A {Bacillus subtilis (strain 168)}
+Probab=8.37  E-value=3.3e+02  Score=28.46  Aligned_cols=45  Identities=24%  Similarity=0.389  Sum_probs=32.7  Template_Neff=7.600
+
+Q BAQ00893.1      132 VILLLQVFCWTTCLMVLAIKISERYAM-----IILCIGICFFSYTIPYTFFHLF  180 (398)
+Q Consensus       132 vIl~iQv~~W~~clm~~A~kiSeRy~~-----~ilcIGICFFsYTiPYTFfHLy  180 (398)
+                      +...+|....+..+|.+++.++| |+.     ++.+.+||-   .+|.++....
+T Consensus       150 ~~~~l~l~~Gs~il~wl~e~it~-~GiG~G~sliI~~~I~~---~l~~~~~~~~  199 (424)
+T 5EUL_Y          150 LLIAVVLTAGTAFLMWLGEQITA-KGVGNGISIIIFAGIVS---GIPTILNQIY  199 (424)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHTT-TSSSCHHHHHHHHHHHT---TTHHHHHTSC
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHh-hCccchHHHHHHHHHHc---hHhHHHHHHH
+Confidence            45667889999999999999998 766     456666664   4555554443
+
+

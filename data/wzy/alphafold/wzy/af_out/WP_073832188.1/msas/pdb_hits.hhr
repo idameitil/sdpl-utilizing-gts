@@ -1,0 +1,178 @@
+Query         WP_073832188.1 O32 family O-antigen polymerase [Shigella boydii] >ACD37051.1 Wzy [Shigella boydii] >EAA1659542.1 hypothetical protein [Shigella boydii] >EAA4885244.1 hypothetical protein [Shigella boydii] >EAC1011686.1 hypothetical protein [Shigella boydii] >EFP6889137.1 O32 family O-antigen polymerase [Shigella boydii]
+Match_columns 403
+No_of_seqs    11 out of 15
+Neff          3.09226
+Searched_HMMs 80799
+Date          Thu Apr 28 09:02:25 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpihoxxxh5/query.a3m -o /tmp/tmpihoxxxh5/output.hhr -maxseq 1000000 -d /mnt/disks/data/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6BAR_A Rod shape determining p  85.2    0.49 6.1E-06   47.0   0.0   76  250-339   198-275 (359)
+  2 6PL5_A Peptidoglycan glycosylt  81.3    0.95 1.2E-05   45.8   0.0   76  250-339   216-293 (377)
+  3 6BUH_H D-alanyl carrier protei  12.9 1.8E+02  0.0022   30.8   0.0   27  152-178    12-38  (425)
+  4 6BUI_B D-alanyl transfer prote  12.9 1.8E+02  0.0022   30.8   0.0   27  152-178    12-38  (425)
+  5 2L95_A Crammer (E.C.3.4.-.-);    6.7 4.3E+02  0.0054   20.8   0.0   45  271-315    25-77  (80)
+  6 2LV4_A Putative outer membrane   5.8 5.3E+02  0.0065   25.7   0.0   16  154-170    13-28  (146)
+  7 2HAC_B T-cell surface glycopro   3.8   9E+02   0.011   18.9   0.0   13  325-337    11-23  (33)
+  8 2KI9_A Cannabinoid receptor 2;   3.7 9.2E+02   0.011   14.1   0.0   12  162-173    14-25  (33)
+  9 4CDG_D BLOOM SYNDROME PROTEIN    3.3 1.1E+03   0.013   19.0   0.0   30  127-156   113-142 (147)
+ 10 4B9G_B CS6 FIMBRIAL SUBUNIT B,   3.1 1.2E+03   0.014   23.1   0.0   30  124-158   114-143 (161)
+
+No 1
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=85.16  E-value=0.49  Score=46.96  Aligned_cols=76  Identities=14%  Similarity=-0.106  Sum_probs=24.8  Template_Neff=9.300
+
+Q WP_073832188.1  250 EKVLYRFSGLIDFLSGTGGDNSSNERFEIYTSVFSFLANNIDMIFFGFGSFSYYESVFLREYSLRIADFHNMY--LELLT  327 (403)
+Q Consensus       250 ~~~~~r~~g~~df~~~~~~d~sTsERl~IY~~~~s~L~~~~~~~~fG~G~F~syes~~i~~yglrv~EfHN~h--lEmit  327 (403)
+                      +....|+.++.|-.    .| ++ +|...+..+.+.++++   -.||.|..+..+.     +...+.+.||.+  .++..
+T Consensus       198 ~~~~~Rl~~~~~p~----~d-~~-~~~~~~~~~~~~i~~~---~~~G~G~g~~~~~-----~~~~~~~~h~d~i~~~i~~  263 (359)
+T 6BAR_A          198 PYQRERVLIVLDPY----RD-PL-GQGFQVIQSTIAIGSG---GLFGKGYGQGTQA-----QLGFIPFRHTDFVFSVWAE  263 (359)
+T ss_dssp             ------------------------------------CTTT---CCSCC--------------------CCTTTTHHHHHH
+T ss_pred             chHHHHhhhHhCCC----CC-CC-CCCHHHHHHHHHHHhc---CcccccCCccccc-----ccccCccccCccHHHHHHH
+Confidence            55667777654432    12 22 5677788888999777   3456665543221     112355899997  99999
+
+
+Q WP_073832188.1  328 LFGSFVYVFILI  339 (403)
+Q Consensus       328 ~yGivfyvl~~~  339 (403)
+                      ++|++.-+++..
+T Consensus       264 e~G~ig~~~~l~  275 (359)
+T 6BAR_A          264 EWGFVGVVGLLG  275 (359)
+T ss_dssp             HSHHHHHHHHHH
+T ss_pred             HcchHHHHHHHH
+Confidence            999998886544
+
+
+No 2
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=81.31  E-value=0.95  Score=45.79  Aligned_cols=76  Identities=14%  Similarity=-0.106  Sum_probs=42.8  Template_Neff=8.900
+
+Q WP_073832188.1  250 EKVLYRFSGLIDFLSGTGGDNSSNERFEIYTSVFSFLANNIDMIFFGFGSFSYYESVFLREYSLRIADFHNMY--LELLT  327 (403)
+Q Consensus       250 ~~~~~r~~g~~df~~~~~~d~sTsERl~IY~~~~s~L~~~~~~~~fG~G~F~syes~~i~~yglrv~EfHN~h--lEmit  327 (403)
+                      +....|+.++.|-.    .| ++ +|...+..+.+.++++   -+||.|..+..+.     +...+.+.||.+  .++..
+T Consensus       216 ~~~~~Ri~~~~~p~----~~-~~-~~g~~~~~~~~~i~~~---~~~G~G~g~~~~~-----~~~~~p~~h~d~i~~~i~~  281 (377)
+T 6PL5_A          216 PYQRERVLIVLDPY----RD-PL-GQGFQVIQSTIAIGSG---GLFGKGYGQGTQA-----QLGFIPFRHTDFVFSVWAE  281 (377)
+T ss_dssp             HHHHHHHHHHHSCC----CH-HH-HHHHHHHHHHHTTCCC---C---------------------CCSCSSTTHHHHHHH
+T ss_pred             chHHHHHHHhhCCC----CC-CC-CCcHHHHHHHHHHHhc---CCcCcCCCCcccc-----hhhcCcCCCCCcHHHHHHH
+Confidence            45667777554432    12 22 5677778888888777   3566665544221     111245889999  99999
+
+
+Q WP_073832188.1  328 LFGSFVYVFILI  339 (403)
+Q Consensus       328 ~yGivfyvl~~~  339 (403)
+                      ++|++.-+++..
+T Consensus       282 e~G~ig~~~~l~  293 (377)
+T 6PL5_A          282 EWGFVGVVGLLG  293 (377)
+T ss_dssp             HHHHHHHHHHHH
+T ss_pred             HccHHHHHHHHH
+Confidence            999998886644
+
+
+No 3
+>6BUH_H D-alanyl carrier protein, D-alanyl transfer; Membrane protein; HET: SEP; 3.15A {Streptococcus thermophilus}
+Probab=12.92  E-value=1.8e+02  Score=30.84  Aligned_cols=27  Identities=19%  Similarity=0.240  Sum_probs=22.2  Template_Neff=8.800
+
+Q WP_073832188.1  152 AFYYNENDMLYFIILFIPFVCQTIKNN  178 (403)
+Q Consensus       152 aFyyNeNDML~FlV~FLPf~~~~~k~~  178 (403)
+                      +.|-|..|+....+.++|.......++
+T Consensus        12 ~~~~~~~~~~~~~~~~~~~~~~~~~~~   38 (425)
+T 6BUH_H           12 EPYGNPFYFIYLGIALLPIFIGLFFKK   38 (425)
+T ss_dssp             CTTCSTTHHHHHHHHHHHHHHHHTTTC
+T ss_pred             ccCCCHHHHHHHHHHHHHHHHHHhchh
+Confidence            568899999999999999997666443
+
+
+No 4
+>6BUI_B D-alanyl transfer protein DltB; Membrane protein; 3.27A {Streptococcus thermophilus}
+Probab=12.92  E-value=1.8e+02  Score=30.84  Aligned_cols=27  Identities=19%  Similarity=0.240  Sum_probs=22.2  Template_Neff=8.800
+
+Q WP_073832188.1  152 AFYYNENDMLYFIILFIPFVCQTIKNN  178 (403)
+Q Consensus       152 aFyyNeNDML~FlV~FLPf~~~~~k~~  178 (403)
+                      +.|-|..|+....+.++|.......++
+T Consensus        12 ~~~~~~~~~~~~~~~~~~~~~~~~~~~   38 (425)
+T 6BUI_B           12 EPYGNPFYFIYLGIALLPIFIGLFFKK   38 (425)
+T ss_dssp             CTTCSSTHHHHHHHHHHHHHHHHTTTC
+T ss_pred             ccCCCHHHHHHHHHHHHHHHHHHhchh
+Confidence            568899999999999999997666443
+
+
+No 5
+>2L95_A Crammer (E.C.3.4.-.-); CRAMMER, CYSTEINE PROTEINASE INHIBITOR, INTRINSIC; NMR {Drosophila melanogaster}
+Probab=6.75  E-value=4.3e+02  Score=20.78  Aligned_cols=45  Identities=11%  Similarity=0.097  Sum_probs=31.6  Template_Neff=9.400
+
+Q WP_073832188.1  271 SSNERFEIYTSVFSFLANNI-------DMIFFGFGSFSY-YESVFLREYSLRI  315 (403)
+Q Consensus       271 sTsERl~IY~~~~s~L~~~~-------~~~~fG~G~F~s-yes~~i~~yglrv  315 (403)
+                      ...+|..+|.++...+.+|-       ....+|...|++ ...|+.+.+|.+.
+T Consensus        25 e~~~r~~~f~~n~~~I~~~N~~~~~~~~~~~~~~N~fsdlt~~E~~~~~~~~~   77 (80)
+T 2L95_A           25 EDLMRRRIYAESKARIEEHNRKFEKGEVTWKMGINHLADLTPEEFAQRSGKKV   77 (80)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHTTGGGTSCCCCCCCCGGGTSSHHHHHHHHTSCC
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHhhcCCCCceeecccccCCCHHHHHHHhCCCC
+Confidence            45789999999998888762       234567777777 4466666666543
+
+
+No 6
+>2LV4_A Putative outer membrane or exported; Antivirulence, Adhesion, PROTEIN BINDING; NMR {Salmonella enterica subsp. enterica serovar Typhimurium str. LT2}
+Probab=5.79  E-value=5.3e+02  Score=25.69  Aligned_cols=16  Identities=38%  Similarity=0.513  Sum_probs=10.1  Template_Neff=2.100
+
+Q WP_073832188.1  154 YYNENDMLYFIILFIPF  170 (403)
+Q Consensus       154 yyNeNDML~FlV~FLPf  170 (403)
+                      -|||-||++-- -|.|.
+T Consensus        13 ~YNETDmaSAS-GYtPV   28 (146)
+T 2LV4_A           13 IYNETDMASAS-GYTPV   28 (146)
+T ss_dssp             CSCCCCCCCCC-CCCCC
+T ss_pred             EeccCccccCC-CcccC
+Confidence            48888888742 34443
+
+
+No 7
+>2HAC_B T-cell surface glycoprotein CD3 zeta; transmembrane, alpha helix, MEMBRANE PROTEIN; NMR {Homo sapiens}
+Probab=3.80  E-value=9e+02  Score=18.95  Aligned_cols=13  Identities=15%  Similarity=0.567  Sum_probs=8.9  Template_Neff=2.500
+
+Q WP_073832188.1  325 LLTLFGSFVYVFI  337 (403)
+Q Consensus       325 mit~yGivfyvl~  337 (403)
+                      ++.+||++...++
+T Consensus        11 iL~iYgiiiT~l~   23 (33)
+T 2HAC_B           11 ILFIYGVILTALF   23 (33)
+T ss_dssp             HHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHH
+Confidence            4567888777654
+
+
+No 8
+>2KI9_A Cannabinoid receptor 2; Human cannabinoid receptor-2, GPCR, G-protein; NMR {N/A}
+Probab=3.74  E-value=9.2e+02  Score=14.08  Aligned_cols=12  Identities=17%  Similarity=0.534  Sum_probs=8.2  Template_Neff=11.200
+
+Q WP_073832188.1  162 YFIILFIPFVCQ  173 (403)
+Q Consensus       162 ~FlV~FLPf~~~  173 (403)
+                      .|.+|++|+...
+T Consensus        14 ~~~~~w~p~~~~   25 (33)
+T 2KI9_A           14 VLLICWFPVLAL   25 (33)
+T ss_dssp             HHTTTSSHHHHH
+T ss_pred             HHHHHHHHHHHH
+Confidence            466788887654
+
+
+No 9
+>4CDG_D BLOOM SYNDROME PROTEIN (E.C.3.6.4.12), NANOBODY; HYDROLASE; HET: ADP; 2.794A {HOMO SAPIENS}
+Probab=3.26  E-value=1.1e+03  Score=19.03  Aligned_cols=30  Identities=3%  Similarity=-0.176  Sum_probs=0.0  Template_Neff=11.900
+
+Q WP_073832188.1  127 HVNTGSSRFEDPTNMFYLSDNRVPTAFYYN  156 (403)
+Q Consensus       127 ~~~~~ssr~sd~~n~~~l~s~~~PTaFyyN  156 (403)
+                      +...-.....+..+..+.++..+|++++||
+T Consensus       113 g~y~C~~~~~~~~~~~~~~~~g~~~~~~~~  142 (147)
+T 4CDG_D          113 AVYYCNLVADYDMGFQSFWGRGTQVTVSSH  142 (147)
+T ss_dssp             EEEEEEEECCTTTTCCEEECCCEEEEEESS
+T ss_pred             EEEEEEEEecCCceeEEEeeCceEEEecCC
+
+
+No 10
+>4B9G_B CS6 FIMBRIAL SUBUNIT B, CS6; CELL ADHESION, DIARRHEAL DISEASE, FIMBRIAE; 1.04A {ESCHERICHIA COLI}
+Probab=3.08  E-value=1.2e+03  Score=23.15  Aligned_cols=30  Identities=23%  Similarity=0.198  Sum_probs=0.0  Template_Neff=1.000
+
+Q WP_073832188.1  124 YILHVNTGSSRFEDPTNMFYLSDNRVPTAFYYNEN  158 (403)
+Q Consensus       124 ~~~~~~~~ssr~sd~~n~~~l~s~~~PTaFyyNeN  158 (403)
+                      +++|-..|.|-|++.+-...|     ...||.|+|
+T Consensus       114 iytggeypnsgyssgtyaghl-----tvsfysndn  143 (161)
+T 4B9G_B          114 IYTGGEYPNSGYSSGTYAGHL-----TVSFYSNDN  143 (161)
+T ss_dssp             EEEEEECCTTCCCSEEEEEEE-----EEEEEEEET
+T ss_pred             EEeCccCCCCCCCCCceeeEE-----EEEEEeCCC
+
+

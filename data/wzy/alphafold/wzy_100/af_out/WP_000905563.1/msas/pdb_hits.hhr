@@ -1,0 +1,157 @@
+Query         WP_000905563.1 MULTISPECIES: O-antigen polymerase [Salmonella]
+Match_columns 407
+No_of_seqs    38 out of 49
+Neff          4.97266
+Searched_HMMs 80799
+Date          Thu Feb  3 14:32:29 2022
+Command       /usr/bin/hhsearch -i /tmp/tmptf4pc76r/query.a3m -o /tmp/tmptf4pc76r/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 5GNF_A Uncharacterized protein  16.9 1.2E+02  0.0015   28.6   0.0   27  297-325    70-98  (140)
+  2 5XOJ_F GTP-binding nuclear pro   7.7 3.7E+02  0.0045   19.8   0.0   15  300-314    20-34  (35)
+  3 6BAR_A Rod shape determining p   6.7 4.4E+02  0.0054   27.8   0.0   21  180-200   146-166 (359)
+  4 6HAW_D Cytochrome b-c1 complex   5.0 6.3E+02  0.0078   26.3   0.0   25  121-146   186-210 (239)
+  5 5T42_A Envelope glycoprotein;    5.0 6.3E+02  0.0079   20.3   0.0   27  306-332     3-30  (47)
+  6 2YIU_E CYTOCHROME B (E.C.1.10.   4.3 7.7E+02  0.0096   26.3   0.0   22  122-144   214-235 (263)
+  7 3J45_E Protein translocase sub   3.9 8.7E+02   0.011   19.4   0.0   19  273-291     3-21  (56)
+  8 6NBQ_P PROTEIN; photosynthesis   3.6 9.5E+02   0.012   19.2   0.0   12  178-189    19-30  (44)
+  9 6PL5_A Peptidoglycan glycosylt   3.6 9.6E+02   0.012   25.8   0.0   21  180-200   164-184 (377)
+ 10 2QJY_B Cytochrome b, Cytochrom   3.6 9.8E+02   0.012   25.8   0.0   21  122-143   213-233 (269)
+
+No 1
+>5GNF_A Uncharacterized protein AcrF3; anti-CRISPR, phage, UNKNOWN FUNCTION; 1.5A {Pseudomonas phage JBD5}
+Probab=16.90  E-value=1.2e+02  Score=28.58  Aligned_cols=27  Identities=22%  Similarity=0.092  Sum_probs=18.7  Template_Neff=1.500
+
+Q WP_000905563.1  297 VFFPDAFYRNQGAPAFG--YGELYADFGLFT  325 (407)
+Q Consensus       297 ~~fPe~~~~d~GaPsFG--~G~~yADFG~~~  325 (407)
+                      .+|-+|.|  +-.|+=|  -|..|||||++-
+T Consensus        70 ~~~k~wee--~~~~~~~~~t~~~FaD~GWW~   98 (140)
+T 5GNF_A           70 REFKAWEE--ALLNADGRVASSPFADWGWWY   98 (140)
+T ss_dssp             HHHHHHHH--HHHTTSSSSCCCTTSTTSHHH
+T ss_pred             HHHHHHHH--HHhCCCCCcCCCcccchhHHH
+Confidence            34566666  3567777  468899999863
+
+
+No 2
+>5XOJ_F GTP-binding nuclear protein, Exportin-1, cAMP-dependent; exportin, nucleoporin, GTP BINDING PROTEIN; HET: GTP; 2.2A {Saccharomyces cerevisiae (strain AWRI796)}
+Probab=7.69  E-value=3.7e+02  Score=19.84  Aligned_cols=15  Identities=40%  Similarity=0.671  Sum_probs=9.4  Template_Neff=1.000
+
+Q WP_000905563.1  300 PDAFYRNQGAPAFGY  314 (407)
+Q Consensus       300 Pe~~~~d~GaPsFG~  314 (407)
+                      |.+....-|+|+||.
+T Consensus        20 ppsttsafgapsfgs   34 (35)
+T 5XOJ_F           20 PPSTTSAFGAPSFGS   34 (35)
+T ss_pred             CCCcccccCCCCcCC
+Confidence            444444578888874
+
+
+No 3
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=6.70  E-value=4.4e+02  Score=27.82  Aligned_cols=21  Identities=14%  Similarity=0.415  Sum_probs=13.4  Template_Neff=9.300
+
+Q WP_000905563.1  180 LIFLHGNKGPIFSIFIAFILY  200 (407)
+Q Consensus       180 l~~~~GSKg~il~~~i~~~iy  200 (407)
+                      ++...++.|..+.+....+..
+T Consensus       146 l~~~~~dlg~~~i~~~~~~~~  166 (359)
+T 6BAR_A          146 LLLLQPDLGGALVVLFGVFVV  166 (359)
+T ss_dssp             HHHTTTCHHHHHHHHHHHHHH
+T ss_pred             HHHcCCCHHHHHHHHHHHHHH
+Confidence            344558888887777654443
+
+
+No 4
+>6HAW_D Cytochrome b-c1 complex subunit 1; cytochrome bc1, malaria, ELECTRON TRANSPORT; HET: PX4, FX2, PO4, LMT, PEE, CDL, 6PE, HEC, PG4, HEM, PGE, PX6; 3.45A {Bos taurus}
+Probab=5.03  E-value=6.3e+02  Score=26.32  Aligned_cols=25  Identities=16%  Similarity=0.315  Sum_probs=18.1  Template_Neff=6.400
+
+Q WP_000905563.1  121 MEFREYILSPRRIYELTRTGYGIYFY  146 (407)
+Q Consensus       121 ~ef~~~ll~PR~iYe~tRtGyG~~ff  146 (407)
+                      .+|.+|+.+|-+. +.+|.|.+..-+
+T Consensus       186 vayL~~ia~p~~~-~R~~~g~~vl~~  210 (239)
+T 6HAW_D          186 CTFLRWAAEPEHD-HRKRMGLKMLLM  210 (239)
+T ss_dssp             HHHHHHHHCTTHH-HHHHHHHHHHHH
+T ss_pred             HHHHHHHcCcchH-HHHHHHHHHHHH
+Confidence            4778899999877 667777664444
+
+
+No 5
+>5T42_A Envelope glycoprotein; Ebola virus, membrane protein, protein-protein; NMR {Zaire ebolavirus (strain Kikwit-95)}
+Probab=5.02  E-value=6.3e+02  Score=20.33  Aligned_cols=27  Identities=11%  Similarity=0.336  Sum_probs=18.8  Template_Neff=3.700
+
+Q WP_000905563.1  306 NQGAPAFGYG-ELYADFGLFTPVWLVIS  332 (407)
+Q Consensus       306 d~GaPsFG~G-~~yADFG~~~i~~l~~~  332 (407)
+                      |++.|+.|.+ ..+-|+|=+..+.+++.
+T Consensus         3 ~~~~~~~~~~~S~W~~WGRWV~lgviI~   30 (47)
+T 5T42_A            3 DKTLPDQGDNDNWWTGWRQWIPAGIGVT   30 (47)
+T ss_dssp             SSSSSTTTSSCGGGTSSSSSSSSSSSTT
+T ss_pred             CCCCCCCCCCCChhHHHHHHHHHHHHHH
+Confidence            6788999964 66789996655544433
+
+
+No 6
+>2YIU_E CYTOCHROME B (E.C.1.10.2.2), CYTOCHROME C1; OXIDOREDUCTASE; HET: HEM, HEC, SMA; 2.7A {PARACOCCUS DENITRIFICANS}
+Probab=4.29  E-value=7.7e+02  Score=26.31  Aligned_cols=22  Identities=14%  Similarity=0.365  Sum_probs=16.7  Template_Neff=5.700
+
+Q WP_000905563.1  122 EFREYILSPRRIYELTRTGYGIY  144 (407)
+Q Consensus       122 ef~~~ll~PR~iYe~tRtGyG~~  144 (407)
+                      +|.+|+.+|-+. +..|.|.+..
+T Consensus       214 ayL~~ia~P~~~-~R~~~G~~vl  235 (263)
+T 2YIU_E          214 AFLMWTAEPKMM-DRKQVGFVSV  235 (263)
+T ss_dssp             HHHHHHHCTTHH-HHHHHHHHHH
+T ss_pred             HHHHHHcCcchh-hHHHHHHHHH
+Confidence            778899999877 6678876643
+
+
+No 7
+>3J45_E Protein translocase subunit SecY, Preprotein; 70S, SECYEG, protein translocation channel; 9.5A {Escherichia coli}
+Probab=3.90  E-value=8.7e+02  Score=19.38  Aligned_cols=19  Identities=21%  Similarity=0.672  Sum_probs=12.1  Template_Neff=6.600
+
+Q WP_000905563.1  273 VYSRIPRAIWPDKPEDFGA  291 (407)
+Q Consensus       273 fysrIPRal~PdKP~~FG~  291 (407)
+                      ....+=|.-||+|++..+.
+T Consensus         3 ~~~ElkkVtWPt~~e~~~~   21 (56)
+T 3J45_E            3 ARTEVRKVIWPTRQETLHT   21 (56)
+T ss_pred             hHHHHhhcCCCCHHHHHHH
+Confidence            4455567778888765544
+
+
+No 8
+>6NBQ_P PROTEIN; photosynthesis, bioenergetics, membrane protein complex; HET: SF4; 3.1A {Thermosynechococcus elongatus (strain BP-1)}
+Probab=3.63  E-value=9.5e+02  Score=19.22  Aligned_cols=12  Identities=17%  Similarity=0.476  Sum_probs=9.1  Template_Neff=2.400
+
+Q WP_000905563.1  178 CILIFLHGNKGP  189 (407)
+Q Consensus       178 ~~l~~~~GSKg~  189 (407)
+                      ++.+.++|.|+-
+T Consensus        19 ~v~~lfFGTrnG   30 (44)
+T 6NBQ_P           19 ILLCLFFGTRNG   30 (44)
+T ss_pred             HHHHHHhcccCC
+Confidence            567888999873
+
+
+No 9
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=3.60  E-value=9.6e+02  Score=25.79  Aligned_cols=21  Identities=14%  Similarity=0.415  Sum_probs=13.5  Template_Neff=8.900
+
+Q WP_000905563.1  180 LIFLHGNKGPIFSIFIAFILY  200 (407)
+Q Consensus       180 l~~~~GSKg~il~~~i~~~iy  200 (407)
+                      ++...++.|..+.+....+..
+T Consensus       164 l~~~q~dlg~~~i~~~~~~~~  184 (377)
+T 6PL5_A          164 LLLLQPDLGGALVVLFGVFVV  184 (377)
+T ss_dssp             HHHTTTCHHHHHHHHHHHHHH
+T ss_pred             HHHcCCCHHHHHHHHHHHHHH
+Confidence            344558888887777664443
+
+
+No 10
+>2QJY_B Cytochrome b, Cytochrome c1, Ubiquinol-cytochrome; Cytochrome B, 8 TM helixces; HET: FES, BGL, SMA, HEM, UQ2, LOP; 2.4A {Rhodobacter sphaeroides}
+Probab=3.55  E-value=9.8e+02  Score=25.77  Aligned_cols=21  Identities=14%  Similarity=0.406  Sum_probs=14.1  Template_Neff=5.400
+
+Q WP_000905563.1  122 EFREYILSPRRIYELTRTGYGI  143 (407)
+Q Consensus       122 ef~~~ll~PR~iYe~tRtGyG~  143 (407)
+                      +|.+|..+|-+. +..|.|.+.
+T Consensus       213 aFL~waaeP~~~-~Rk~lG~~v  233 (269)
+T 2QJY_B          213 AFLMWAAEPKLM-ARKQAGFTA  233 (269)
+T ss_dssp             HHHHHHHCTTHH-HHHHHHHHH
+T ss_pred             HHHHHHhCchhH-HHHHHHHHH
+Confidence            677888888765 445666553
+
+

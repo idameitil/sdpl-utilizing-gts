@@ -1,0 +1,156 @@
+Query         CAI33412.1 oligosaccharide repeat unit polymerase Wzy [Streptococcus pneumoniae]
+Match_columns 403
+No_of_seqs    16 out of 18
+Neff          3.94087
+Searched_HMMs 80799
+Date          Wed Apr 27 17:49:41 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpi7h6fr8l/query.a3m -o /tmp/tmpi7h6fr8l/output.hhr -maxseq 1000000 -d /mnt/disks/data/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6PL5_A Peptidoglycan glycosylt  92.5   0.039 4.9E-07   56.4   0.0   51  299-349   249-308 (377)
+  2 6BAR_A Rod shape determining p  91.9   0.058 7.2E-07   54.4   0.0   51  299-349   231-290 (359)
+  3 2ZUQ_A Disulfide bond formatio  28.7      49  0.0006   31.7   0.0   55  295-350   117-171 (176)
+  4 2K74_A Disulfide bond formatio  11.4 2.1E+02  0.0026   27.9   0.0   57  295-352   117-173 (183)
+  5 2KNC_B Integrin alpha-IIb, Int   9.1 2.9E+02  0.0036   23.1   0.0   18  325-342    16-33  (79)
+  6 2ZUP_B Thiol:disulfide interch   8.9   3E+02  0.0037   26.8   0.0   56  295-351   117-172 (176)
+  7 2RN0_A Integrin beta-3; transm   8.8   3E+02  0.0038   20.0   0.0   28  325-352    15-42  (43)
+  8 2N5S_A Epidermal growth factor   8.8 3.1E+02  0.0038   20.6   0.0   31  325-355    11-41  (54)
+  9 2M20_A Epidermal growth factor   8.0 3.5E+02  0.0043   21.3   0.0   31  325-355     8-38  (60)
+ 10 2RDD_B Acriflavine resistance    7.8 3.6E+02  0.0044   19.7   0.0   31  325-355     1-31  (37)
+
+No 1
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=92.50  E-value=0.039  Score=56.38  Aligned_cols=51  Identities=24%  Similarity=0.359  Sum_probs=27.2  Template_Neff=8.900
+
+Q CAI33412.1      299 SAIFGKGLGSYSV---NYI------YELGKMLADGGFISVILLYSFLLSLFIRGTITRGK  349 (403)
+Q Consensus       299 ~~LFG~GLGs~s~---~y~------y~lgk~f~e~G~iGv~l~~~f~l~~f~~~~~~R~k  349 (403)
+                      ..+||.|.|+...   ++.      |-...+..|.|.+|..+++..+..++.+..+..+|
+T Consensus       249 ~~~~G~G~g~~~~~~~~~~p~~h~d~i~~~i~~e~G~ig~~~~l~l~~~l~~~~~~~~~~  308 (377)
+T 6PL5_A          249 GGLFGKGYGQGTQAQLGFIPFRHTDFVFSVWAEEWGFVGVVGLLGLYGLLLARLFALALA  308 (377)
+T ss_dssp             CC----------------CCSCSSTTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             cCCcCcCCCCcccchhhcCcCCCCCcHHHHHHHHccHHHHHHHHHHHHHHHHHHHHHHHh
+Confidence            4578999997532   222      22246789999999999888887777777665444
+
+
+No 2
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=91.85  E-value=0.058  Score=54.39  Aligned_cols=51  Identities=22%  Similarity=0.308  Sum_probs=30.0  Template_Neff=9.300
+
+Q CAI33412.1      299 SAIFGKGLGSYSV---NY------IYELGKMLADGGFISVILLYSFLLSLFIRGTITRGK  349 (403)
+Q Consensus       299 ~~LFG~GLGs~s~---~y------~y~lgk~f~e~G~iGv~l~~~f~l~~f~~~~~~R~k  349 (403)
+                      ..+||.|.|+...   ++      -|-..+...|.|.+|..+.+..+..++.+..+..+|
+T Consensus       231 ~~~~G~G~g~~~~~~~~~~~~~h~d~i~~~i~~e~G~ig~~~~l~l~~~l~~~~~~~~~~  290 (359)
+T 6BAR_A          231 GGLFGKGYGQGTQAQLGFIPFRHTDFVFSVWAEEWGFVGVVGLLGLYGLLLARLFALALA  290 (359)
+T ss_dssp             TCCSCC---------------CCTTTTHHHHHHHSHHHHHHHHHHHHHHHHHHHHHHHTT
+T ss_pred             cCcccccCCcccccccccCccccCccHHHHHHHHcchHHHHHHHHHHHHHHHHHHHHHHh
+Confidence            4578999997532   12      122246789999999998887777777776555444
+
+
+No 3
+>2ZUQ_A Disulfide bond formation protein B; disulfide bond, membrane protein, Fab; HET: UQ1; 3.3A {mus musculus}
+Probab=28.71  E-value=49  Score=31.75  Aligned_cols=55  Identities=13%  Similarity=0.081  Sum_probs=30.2  Template_Neff=7.600
+
+Q CAI33412.1      295 YDYISAIFGKGLGSYSVNYIYELGKMLADGGFISVILLYSFLLSLFIRGTITRGKN  350 (403)
+Q Consensus       295 ~n~i~~LFG~GLGs~s~~y~y~lgk~f~e~G~iGv~l~~~f~l~~f~~~~~~R~k~  350 (403)
+                      +++..++| .|-|+|+...-+.+|-.+++...++...+....+-.+.+..++|+|+
+T Consensus       117 ~~~~~~lf-~~~~~C~~~~w~~lGlsma~w~~i~f~~~~~l~~~~~~~~~~~~~~~  171 (176)
+T 2ZUQ_A          117 DKWVPQVF-VASGDCAERQWDFLGLEMPQWLLGIFIAYLIVAVLVVISQPFKAKKR  171 (176)
+T ss_dssp             STTCSTTT-CCCCCCCSCCCCSTTSCHHHHHHHHHHHHHHHCCCCCC---------
+T ss_pred             HHHHHHHc-ccCCCcccccHHhcCCCHHHHHHHHHHHHHHHHHHHHHHchhhhhch
+Confidence            57778888 88899998777778866666655555544333333344433444443
+
+
+No 4
+>2K74_A Disulfide bond formation protein B; membrane protein, disulfide bond, redox; HET: UQ2; NMR {Escherichia coli}
+Probab=11.44  E-value=2.1e+02  Score=27.94  Aligned_cols=57  Identities=12%  Similarity=0.063  Sum_probs=33.1  Template_Neff=7.300
+
+Q CAI33412.1      295 YDYISAIFGKGLGSYSVNYIYELGKMLADGGFISVILLYSFLLSLFIRGTITRGKNKQ  352 (403)
+Q Consensus       295 ~n~i~~LFG~GLGs~s~~y~y~lgk~f~e~G~iGv~l~~~f~l~~f~~~~~~R~k~~~  352 (403)
+                      .++...+|- |.|+|+...-+.+|-.+++.-.++........+-.+++...|++|++-
+T Consensus       117 ~~~~p~lf~-~~~~C~~~~w~~lGlSma~ws~l~f~~~l~~~~~~~~~~l~~~~~~~~  173 (183)
+T 2K74_A          117 DKWVPQVFV-ASGDCAERQWDFLGLEMPQWLLGIFIAYLIVAVLVVISQPFKAKKRDL  173 (183)
+T ss_dssp             HHSCGGGTC-CCSCSSCCSCEETTEEHHHHHHHHHHHHHHHHHHHHHTCCTTCCCSSC
+T ss_pred             hhhhhHHhc-CCCCcccccHHhcCCCHHHHHHHHHHHHHHHHHHHHHHchhccccccc
+Confidence            455566665 679998765556676555555555444444444455555556666543
+
+
+No 5
+>2KNC_B Integrin alpha-IIb, Integrin beta-3; integrin, transmembrane signaling, protein structure; NMR {Homo sapiens}
+Probab=9.10  E-value=2.9e+02  Score=23.07  Aligned_cols=18  Identities=22%  Similarity=0.346  Sum_probs=5.3  Template_Neff=7.700
+
+Q CAI33412.1      325 GFISVILLYSFLLSLFIR  342 (403)
+Q Consensus       325 G~iGv~l~~~f~l~~f~~  342 (403)
+                      |.+|.++.++.+..++++
+T Consensus        16 ~vvggiv~l~ll~~~i~~   33 (79)
+T 2KNC_B           16 SVMGAILLIGLAALLIWK   33 (79)
+T ss_dssp             ----SHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHH
+Confidence            444444343333333333
+
+
+No 6
+>2ZUP_B Thiol:disulfide interchange protein dsbA (E.C.1.8.4.-); disulfide bond, membrane protein, E.; HET: UQ1; 3.7A {Escherichia coli}
+Probab=8.91  E-value=3e+02  Score=26.78  Aligned_cols=56  Identities=13%  Similarity=0.074  Sum_probs=25.8  Template_Neff=7.300
+
+Q CAI33412.1      295 YDYISAIFGKGLGSYSVNYIYELGKMLADGGFISVILLYSFLLSLFIRGTITRGKNK  351 (403)
+Q Consensus       295 ~n~i~~LFG~GLGs~s~~y~y~lgk~f~e~G~iGv~l~~~f~l~~f~~~~~~R~k~~  351 (403)
+                      ++++.++| .|-|+|+...-+.+|-.+++-..++.+......+..++....||+|++
+T Consensus       117 ~~~~~~~f-~~~g~C~~~~w~llGlsma~w~l~~f~~~~~~~~~~l~~~~~~~~~~~  172 (176)
+T 2ZUP_B          117 DKWVPQVF-VASGDSAERQWDFLGLEMPQWLLGIFIAYLIVAVLVVISQPFKAKKRD  172 (176)
+T ss_dssp             HHHSTTTS-CCCCCC----CCBTTBCTTHHHHHHHTHHHHHHHHHHC----------
+T ss_pred             HHhHhhhc-cccCCcccccHHhcCCCHHHHHHHHHHHHHHHHHHHHHHhHhhhhchh
+Confidence            35566666 367888876667778666666666655554545445555445555543
+
+
+No 7
+>2RN0_A Integrin beta-3; transmembrane helix, Alternative splicing, Cell; NMR {Homo sapiens}
+Probab=8.81  E-value=3e+02  Score=20.02  Aligned_cols=28  Identities=25%  Similarity=0.255  Sum_probs=0.0  Template_Neff=8.000
+
+Q CAI33412.1      325 GFISVILLYSFLLSLFIRGTITRGKNKQ  352 (403)
+Q Consensus       325 G~iGv~l~~~f~l~~f~~~~~~R~k~~~  352 (403)
+                      |.+|-+..+..+..+.++..++|+++++
+T Consensus        15 gvvggiv~~~l~~~~~~~~~~~~~~~~~   42 (43)
+T 2RN0_A           15 SVMGAILLIGLAALLIWKLLITIHDRKE   42 (43)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHTTCCSC
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHhccC
+
+
+No 8
+>2N5S_A Epidermal growth factor receptor (E.C.2.7.10.1); transmembrane, TRANSFERASE; NMR {Homo sapiens}
+Probab=8.79  E-value=3.1e+02  Score=20.58  Aligned_cols=31  Identities=13%  Similarity=0.016  Sum_probs=0.0  Template_Neff=8.700
+
+Q CAI33412.1      325 GFISVILLYSFLLSLFIRGTITRGKNKQSER  355 (403)
+Q Consensus       325 G~iGv~l~~~f~l~~f~~~~~~R~k~~~~e~  355 (403)
+                      |.+|.+.....+...++.+.++|+++++.+.
+T Consensus        11 gvv~~~~~~~~i~l~~~~~~r~r~~~~~~~~   41 (54)
+T 2N5S_A           11 GMVGALLLLLVVALGIGLFMRRRHIVRKRTL   41 (54)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHTTSCHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHhHHHHHHHH
+
+
+No 9
+>2M20_A Epidermal growth factor receptor (E.C.2.7.10.1); Transmembrane, Cell Signaling, Juxtamembrane, SIGNALING; NMR {Homo sapiens}
+Probab=7.97  E-value=3.5e+02  Score=21.28  Aligned_cols=31  Identities=13%  Similarity=0.021  Sum_probs=0.0  Template_Neff=7.900
+
+Q CAI33412.1      325 GFISVILLYSFLLSLFIRGTITRGKNKQSER  355 (403)
+Q Consensus       325 G~iGv~l~~~f~l~~f~~~~~~R~k~~~~e~  355 (403)
+                      |.+|-+..+..+...++...++|+++++.+.
+T Consensus         8 ~vvg~~~~~~~i~~~~~~~~rrr~~~~~~~~   38 (60)
+T 2M20_A            8 GLVGALLLLLVVALGIGLFIRRRHIVRKRTL   38 (60)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHTHHHHSCTTT
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHhhHHHH
+
+
+No 10
+>2RDD_B Acriflavine resistance protein B, UPF0092; DRUG RESISTANCE, MULTIDRUG EFFLUX, TRANSPORTER; HET: AIC; 3.5A {Escherichia coli}
+Probab=7.83  E-value=3.6e+02  Score=19.66  Aligned_cols=31  Identities=16%  Similarity=0.220  Sum_probs=0.0  Template_Neff=6.900
+
+Q CAI33412.1      325 GFISVILLYSFLLSLFIRGTITRGKNKQSER  355 (403)
+Q Consensus       325 G~iGv~l~~~f~l~~f~~~~~~R~k~~~~e~  355 (403)
+                      |..+..+.+..++.+++....++.|+++.|+
+T Consensus         1 ~~~~~ll~~~~~~~~~~~~~~rpqkK~~k~~   31 (37)
+T 2RDD_B            1 SPMSLILMLVVFGLIFYFMILRPQQKRTKEH   31 (37)
+T ss_dssp             CCCHHHHHHHHHHHHHHHHTHHHHHHHHHHH
+T ss_pred             ChHHHHHHHHHHHHHHHHHHHCHHHHHHHHH
+
+

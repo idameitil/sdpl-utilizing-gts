@@ -1,0 +1,158 @@
+Query         WP_079801064.1 hypothetical protein [Salmonella enterica] >AFW04837.1 O-antigen polymerase [Salmonella enterica]
+Match_columns 372
+No_of_seqs    63 out of 70
+Neff          5.0778
+Searched_HMMs 80799
+Date          Thu Apr 28 10:40:09 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpvtalcoh8/query.a3m -o /tmp/tmpvtalcoh8/output.hhr -maxseq 1000000 -d /mnt/disks/data/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6PL5_A Peptidoglycan glycosylt  55.3     9.5 0.00012   39.7   0.0   25  157-181   119-143 (377)
+  2 6BAR_A Rod shape determining p  22.9      73  0.0009   32.9   0.0   16  234-249   196-211 (359)
+  3 5NKZ_D Ubiquitin-conjugating e   9.3 2.8E+02  0.0035   26.4   0.0   14  154-167    10-23  (138)
+  4 6NHW_D Tumor necrosis factor r   6.4 4.7E+02  0.0058   19.6   0.0   26  302-327     6-34  (36)
+  5 1VF6_B PALS1-associated tight    5.0 6.3E+02  0.0078   22.3   0.0   31  238-268     8-39  (83)
+  6 3A04_A tryptophanyl-tRNA synth   4.9 6.5E+02   0.008   26.9   0.0   45  141-192    67-111 (372)
+  7 3A05_A tryptophanyl-tRNA synth   4.9 6.5E+02   0.008   26.9   0.0   45  141-192    67-111 (372)
+  8 2K1K_B Ephrin type-A receptor    4.7 6.9E+02  0.0085   18.5   0.0   18  300-317    16-33  (38)
+  9 1JB0_B PHOTOSYSTEM I SUBUNIT P   4.4 7.4E+02  0.0092   30.0   0.0   25  149-173   119-143 (740)
+ 10 6RHZ_B Chlorophyll a-b binding   4.4 7.6E+02  0.0094   29.8   0.0   25  149-173   116-140 (730)
+
+No 1
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=55.34  E-value=9.5  Score=39.69  Aligned_cols=25  Identities=12%  Similarity=0.049  Sum_probs=15.1  Template_Neff=8.900
+
+Q WP_079801064.1  157 GFFDEPAVYSLHMVALTVMLYMQER  181 (372)
+Q Consensus       157 Gl~~EPsiYsg~m~~Ll~l~Y~~~k  181 (372)
+                      ++.-.|+..+-....+....++.++
+T Consensus       119 ~~~~qpse~~k~~~i~~~a~~l~~~  143 (377)
+T 6PL5_A          119 PLQFQPLELAKLGLLLALAKALEGR  143 (377)
+T ss_dssp             SCCBCHHHHHHHHHHHHHHHHTTSC
+T ss_pred             CcCCCHHHHHHHHHHHHHHHHHcCC
+Confidence            3667788776666655555555443
+
+
+No 2
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=22.92  E-value=73  Score=32.91  Aligned_cols=16  Identities=25%  Similarity=0.117  Sum_probs=0.0  Template_Neff=9.300
+
+Q WP_079801064.1  234 FKDNIYERYLQFVSGG  249 (372)
+Q Consensus       234 ~~~~i~~R~~~f~sG~  249 (372)
+                      ..++..+|++.+.+.+
+T Consensus       196 ~~~~~~~Rl~~~~~p~  211 (359)
+T 6BAR_A          196 LKPYQRERVLIVLDPY  211 (359)
+T ss_dssp             ----------------
+T ss_pred             CCchHHHHhhhHhCCC
+Confidence            3466788998887754
+
+
+No 3
+>5NKZ_D Ubiquitin-conjugating enzyme E2-21 kDa (E.C.2.3.2.23); Pex4, Pex22, Ubiquitin conjugating enzyme; 2.85A {Pichia angusta}
+Probab=9.29  E-value=2.8e+02  Score=26.43  Aligned_cols=14  Identities=43%  Similarity=0.603  Sum_probs=11.5  Template_Neff=4.600
+
+Q WP_079801064.1  154 RAAGFFDEPAVYSL  167 (372)
+Q Consensus       154 RpTGl~~EPsiYsg  167 (372)
+                      |-.|+++||+++..
+T Consensus        10 ~~~~~~~~~~~~~~   23 (138)
+T 5NKZ_D           10 INPGLFEEPAKTSE   23 (138)
+T ss_pred             cCccccCCcccccc
+Confidence            56799999998753
+
+
+No 4
+>6NHW_D Tumor necrosis factor receptor superfamily; Death Receptor 5, transmembrane helix; NMR {Homo sapiens}
+Probab=6.38  E-value=4.7e+02  Score=19.64  Aligned_cols=26  Identities=23%  Similarity=0.432  Sum_probs=14.1  Template_Neff=2.200
+
+Q WP_079801064.1  302 YGIVLGLIINV---TVLFFLLKFTMRDFL  327 (372)
+Q Consensus       302 fGi~iG~ii~i---~~~~~l~k~~~~~kl  327 (372)
+                      -|+.+|...++   ....+..|.+.++|.
+T Consensus         6 a~iIiGv~v~ilv~vvaV~i~kt~lwKk~   34 (36)
+T 6NHW_D            6 SGIIIGVTVAAVVLIVAVFVCKSLLWKKV   34 (36)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHTTCC
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHhhh
+Confidence            45666654333   233556677666654
+
+
+No 5
+>1VF6_B PALS1-associated tight junction protein/MAGUK p55; L27 domain, heterodimer, four-helical bundle; 2.1A {Homo sapiens} SCOP: a.194.1.1
+Probab=5.04  E-value=6.3e+02  Score=22.29  Aligned_cols=31  Identities=26%  Similarity=0.424  Sum_probs=23.2  Template_Neff=4.000
+
+Q WP_079801064.1  238 IYERYLQ-FVSGGDGSNNTKLDTIYNLFQGVK  268 (372)
+Q Consensus       238 i~~R~~~-f~sG~DgSnn~K~~~i~~~~~~~~  268 (372)
+                      +.+|+.. +-+.+|.+++-|++.+...++++.
+T Consensus         8 ~LErlq~kL~e~GD~~~~edL~~L~svLqSPL   39 (83)
+T 1VF6_B            8 VLDRLKMKLQEKGDTSQNEKLSMFYETLKSPL   39 (83)
+T ss_dssp             HHHHHHHHHHHTTCCTTHHHHHHHHHHHHCHH
+T ss_pred             HHHHHHHHHHhcCCCcHHHHHHHHHHHHhChH
+Confidence            4566665 445788999999999988877653
+
+
+No 6
+>3A04_A tryptophanyl-tRNA synthetase (E.C.6.1.1.2); TRYPTOPHANYL-TRNA SYNTHETASE, LIGASE, Aminoacyl-tRNA synthetase; 1.97A {Aeropyrum pernix}
+Probab=4.93  E-value=6.5e+02  Score=26.89  Aligned_cols=45  Identities=18%  Similarity=0.330  Sum_probs=30.0  Template_Neff=8.300
+
+Q WP_079801064.1  141 GGLGGRFYWGDLFRAAGFFDEPAVYSLHMVALTVMLYMQERKFSILIIVTLL  192 (372)
+Q Consensus       141 GG~~sR~~~g~~yRpTGl~~EPsiYsg~m~~Ll~l~Y~~~kk~d~~~~igl~  192 (372)
+                      .|.+.+-|.|  .+|||     +.+-|+.+++..+.++.+...+..+.++=.
+T Consensus        67 ~~~~~~i~tG--~~PTg-----~lHLGh~~~l~~~~~lq~~G~~~~i~I~D~  111 (372)
+T 3A04_A           67 RGERVAVLTG--FMPSG-----KFHFGHKLTVDQLIYLQKNGFKVFVAIADA  111 (372)
+T ss_dssp             TTCCCEEEEE--ECCCS-----CCBHHHHHHHHHHHHHHHTTCEEEEEECHH
+T ss_pred             cCCCeEEEEE--eCCCC-----ccccchHhHHHHHHHHHHCCCcEEEEECcH
+Confidence            5566566666  79999     378898888777776666445555555443
+
+
+No 7
+>3A05_A tryptophanyl-tRNA synthetase (E.C.6.1.1.2); TRYPTOPHANYL-TRNA SYNTHETASE, Aminoacyl-tRNA synthetase, ATP-binding; HET: TRP; 2.2A {Aeropyrum pernix}
+Probab=4.93  E-value=6.5e+02  Score=26.89  Aligned_cols=45  Identities=18%  Similarity=0.330  Sum_probs=30.0  Template_Neff=8.300
+
+Q WP_079801064.1  141 GGLGGRFYWGDLFRAAGFFDEPAVYSLHMVALTVMLYMQERKFSILIIVTLL  192 (372)
+Q Consensus       141 GG~~sR~~~g~~yRpTGl~~EPsiYsg~m~~Ll~l~Y~~~kk~d~~~~igl~  192 (372)
+                      .|.+.+-|.|  .+|||     +.+-|+.+++..+.++.+...+..+.++=.
+T Consensus        67 ~~~~~~i~tG--~~PTg-----~lHLGh~~~l~~~~~lq~~G~~~~i~I~D~  111 (372)
+T 3A05_A           67 RGERVAVLTG--FMPSG-----KFHFGHKLTVDQLIYLQKNGFKVFVAIADA  111 (372)
+T ss_dssp             TTCCCEEEEE--ECCCS-----CCBHHHHHHHHHHHHHHHTTCEEEEEECHH
+T ss_pred             cCCCeEEEEE--eCCCC-----ccccchHhHHHHHHHHHHCCCcEEEEECcH
+Confidence            5566566666  79999     378898888777776666445555555443
+
+
+No 8
+>2K1K_B Ephrin type-A receptor 1; EphA1, receptor tyrosine kinase, dimeric; NMR {Homo sapiens}
+Probab=4.70  E-value=6.9e+02  Score=18.52  Aligned_cols=18  Identities=28%  Similarity=0.766  Sum_probs=13.0  Template_Neff=1.000
+
+Q WP_079801064.1  300 SLYGIVLGLIINVTVLFF  317 (372)
+Q Consensus       300 ~ifGi~iG~ii~i~~~~~  317 (372)
+                      .+||+.+|..+++.++.|
+T Consensus        16 vifglllgaalllgilvf   33 (38)
+T 2K1K_B           16 VIFGLLLGAALLLGILVF   33 (38)
+T ss_dssp             HHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHH
+Confidence            578888888777665544
+
+
+No 9
+>1JB0_B PHOTOSYSTEM I SUBUNIT PSAA, PHOTOSYSTEM; MEMBRANE PROTEIN, MULTIPROTEIN-PIGMENT COMPLEX, PHOTOSYNTHESIS; HET: LMG, PQN, SF4, CLA, BCR, LHG; 2.5A {Synechococcus elongatus} SCOP: f.29.1.1
+Probab=4.43  E-value=7.4e+02  Score=29.95  Aligned_cols=25  Identities=12%  Similarity=0.110  Sum_probs=21.6  Template_Neff=3.400
+
+Q WP_079801064.1  149 WGDLFRAAGFFDEPAVYSLHMVALT  173 (372)
+Q Consensus       149 ~g~~yRpTGl~~EPsiYsg~m~~Ll  173 (372)
+                      ..+..|+.|+++|...|++.+..++
+T Consensus       119 ~fq~Wrt~Gi~t~~qLy~~ai~~li  143 (740)
+T 1JB0_B          119 VYHWWYTIGMRTNGDLYQGAIFLLI  143 (740)
+T ss_dssp             HHHHHHHTTCCSHHHHHHHHHHHHH
+T ss_pred             HHHHHHHcCCCCHHHHHHHHHHHHH
+Confidence            3358999999999999999987765
+
+
+No 10
+>6RHZ_B Chlorophyll a-b binding protein, chloroplastic; photosystem I, photosynthesis, green algae; HET: PQN, CHL, LMG, CL0, BCR, CLA, LUT, XAT, DGD, SF4, LHG; 3.2A {Dunaliella salina}
+Probab=4.35  E-value=7.6e+02  Score=29.81  Aligned_cols=25  Identities=8%  Similarity=0.084  Sum_probs=21.3  Template_Neff=3.300
+
+Q WP_079801064.1  149 WGDLFRAAGFFDEPAVYSLHMVALT  173 (372)
+Q Consensus       149 ~g~~yRpTGl~~EPsiYsg~m~~Ll  173 (372)
+                      ..+..|+.|+++|...|++.+.+++
+T Consensus       116 ~f~~Wrt~Gi~t~~qLy~~ai~~li  140 (730)
+T 6RHZ_B          116 VYQWWYTIGLRSNQELYVSSVFLAL  140 (730)
+T ss_pred             hHHHHHHcCCCCHHHHHHHHHHHHH
+Confidence            3358999999999999999987663
+
+

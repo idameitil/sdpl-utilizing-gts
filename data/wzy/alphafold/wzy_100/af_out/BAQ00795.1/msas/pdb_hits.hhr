@@ -1,0 +1,159 @@
+Query         BAQ00795.1 O-antigen polymerase [Escherichia coli]
+Match_columns 400
+No_of_seqs    138 out of 151
+Neff          5.38706
+Searched_HMMs 80799
+Date          Thu Feb  3 22:22:42 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpu450algm/query.a3m -o /tmp/tmpu450algm/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 3VSM_A Occlusion-derived virus  13.3 1.7E+02  0.0021   34.7   0.0   17  296-314   234-250 (659)
+  2 3VSN_A Occlusion-derived virus  12.9 1.8E+02  0.0022   34.6   0.0   17  296-314   234-250 (659)
+  3 2K3M_A Rv1761c; PROTEIN, integ  12.7 1.8E+02  0.0023   27.5   0.0   25  282-306    66-91  (151)
+  4 2JUB_A Internal protein I; IpI  12.6 1.8E+02  0.0023   24.7   0.0   15  292-306    31-45  (76)
+  5 1I8Q_A HYALURONATE LYASE (E.C.   8.7 3.1E+02  0.0039   33.2   0.0   19  295-315   296-314 (814)
+  6 1F1S_A HYALURONATE LYASE (E.C.   7.6 3.7E+02  0.0046   32.6   0.0   19  295-315   296-314 (814)
+  7 1LOH_A Hyaluronate Lyase (E.C.   7.4 3.8E+02  0.0047   31.8   0.0   20  295-316   217-236 (721)
+  8 4GVB_B KP6 killer toxin subuni   7.3 3.9E+02  0.0048   22.6   0.0   10  296-305    35-44  (81)
+  9 2X03_B PUTATIVE SECRETED LYASE   6.6 4.5E+02  0.0055   31.7   0.0   20  295-316   231-250 (765)
+ 10 2BRP_A HYALURONATE LYASE (E.C.   6.4 4.6E+02  0.0057   31.2   0.0   19  295-315   219-237 (731)
+
+No 1
+>3VSM_A Occlusion-derived virus envelope protein E66; alpha/alpha troid, beta-sandwich, LYASE ACTIVATOR; 2.0A {Autographa californica nucleopolyhedrovirus}
+Probab=13.30  E-value=1.7e+02  Score=34.70  Aligned_cols=17  Identities=35%  Similarity=0.542  Sum_probs=15.3  Template_Neff=5.800
+
+Q BAQ00795.1      296 GDGVYYNDDGSYYMHTDSG  314 (400)
+Q Consensus       296 GDG~Y~n~dGsYYm~TDsG  314 (400)
+                      |||.|  +||+|.+|+|.|
+T Consensus       234 GDGIy--~DGSFiqH~~v~  250 (659)
+T 3VSM_A          234 GNGLH--VDSIYIDHIDVR  250 (659)
+T ss_dssp             SSEEE--TTSCEEETTTEE
+T ss_pred             CCccc--CCCcccccCCcc
+Confidence            99998  689999999974
+
+
+No 2
+>3VSN_A Occlusion-derived virus envelope protein E66; alpha/alpha troid, beta-sandwich, LYASE ACTIVATOR; HET: GOL, IOD; 2.0A {Autographa californica nucleopolyhedrovirus}
+Probab=12.91  E-value=1.8e+02  Score=34.56  Aligned_cols=17  Identities=35%  Similarity=0.542  Sum_probs=10.3  Template_Neff=5.800
+
+Q BAQ00795.1      296 GDGVYYNDDGSYYMHTDSG  314 (400)
+Q Consensus       296 GDG~Y~n~dGsYYm~TDsG  314 (400)
+                      |||.|  +||+|.+|+|.|
+T Consensus       234 GDGIy--~DgSFiqH~~v~  250 (659)
+T 3VSN_A          234 GNGLH--VDSIYIDHIDVR  250 (659)
+T ss_dssp             SSECE--EE-----TTTEE
+T ss_pred             CCccc--cCCCccccCCCc
+Confidence            99998  689999999974
+
+
+No 3
+>2K3M_A Rv1761c; PROTEIN, integral membrane protein, MEMBRANE; HET: MTN; NMR {Mycobacterium tuberculosis}
+Probab=12.70  E-value=1.8e+02  Score=27.53  Aligned_cols=25  Identities=24%  Similarity=0.337  Sum_probs=19.9  Template_Neff=1.600
+
+Q BAQ00795.1      282 EKMLFIPDFSALVVGDGVYYN-DDGS  306 (400)
+Q Consensus       282 ~~myF~P~~~t~l~GDG~Y~n-~dGs  306 (400)
+                      .+=+|..++.++-+||++|.- .||.
+T Consensus        66 Rrg~fRs~PErvqIGdWRYEvt~DgR   91 (151)
+T 2K3M_A           66 RRGFFRCNPERIQIGDWRYEVAHDGR   91 (151)
+T ss_dssp             SSSCCSCCSSCCSCCCCSSHHHHHGG
+T ss_pred             hcccccCCcceeEecceeeEEccCCc
+Confidence            566788888999999999974 4663
+
+
+No 4
+>2JUB_A Internal protein I; IpI*, T4 phage, solution, Endonuclease; NMR {Enterobacteria phage T4}
+Probab=12.62  E-value=1.8e+02  Score=24.66  Aligned_cols=15  Identities=33%  Similarity=0.623  Sum_probs=12.5  Template_Neff=1.600
+
+Q BAQ00795.1      292 ALVVGDGVYYNDDGS  306 (400)
+Q Consensus       292 t~l~GDG~Y~n~dGs  306 (400)
+                      |+..|||.|...||.
+T Consensus        31 tvYLGDG~~AkKdGg   45 (76)
+T 2JUB_A           31 TVYLGDGWSAKKDGA   45 (76)
+T ss_dssp             CSSTTTTCEEEECSS
+T ss_pred             EEEEcCcceeeecCC
+Confidence            788999999887773
+
+
+No 5
+>1I8Q_A HYALURONATE LYASE (E.C.4.2.2.1); beta-alpha-beta, LYASE; HET: NAG, GC4; 2.2A {Streptococcus agalactiae} SCOP: b.24.1.1, a.102.3.2, b.1.18.2, b.30.5.2
+Probab=8.67  E-value=3.1e+02  Score=33.18  Aligned_cols=19  Identities=42%  Similarity=0.751  Sum_probs=15.7  Template_Neff=7.500
+
+Q BAQ00795.1      295 VGDGVYYNDDGSYYMHTDSGI  315 (400)
+Q Consensus       295 ~GDG~Y~n~dGsYYm~TDsGy  315 (400)
+                      .|||.|  +||+|++|++.-|
+T Consensus       296 ~gdGf~--~DGSf~qH~~~~Y  314 (814)
+T 1I8Q_A          296 KAEGFY--ADGSYIDHTNVAY  314 (814)
+T ss_pred             cCCccc--cCCCEeccCCccC
+Confidence            399988  7999999987644
+
+
+No 6
+>1F1S_A HYALURONATE LYASE (E.C.4.2.2.1); The structure consists of three; 2.1A {Streptococcus agalactiae} SCOP: b.1.18.2, b.30.5.2, b.24.1.1, a.102.3.2
+Probab=7.56  E-value=3.7e+02  Score=32.55  Aligned_cols=19  Identities=42%  Similarity=0.751  Sum_probs=15.7  Template_Neff=7.500
+
+Q BAQ00795.1      295 VGDGVYYNDDGSYYMHTDSGI  315 (400)
+Q Consensus       295 ~GDG~Y~n~dGsYYm~TDsGy  315 (400)
+                      .|||.|  +||+|+.|++.-|
+T Consensus       296 ~gdGf~--~DGSf~qH~~~~Y  314 (814)
+T 1F1S_A          296 KAEGFY--ADGSYIDHTNVAY  314 (814)
+T ss_dssp             SSSEEB--TTSCEEETTTEEC
+T ss_pred             cCCcee--cCCcEEeecCeec
+Confidence            399988  7999999987543
+
+
+No 7
+>1LOH_A Hyaluronate Lyase (E.C.4.2.2.1); PROTEIN-CARBOHYDRATE COMPLEX, LYASE; HET: NAG, BDP; 2.0A {Streptococcus pneumoniae} SCOP: b.30.5.2, a.102.3.2, b.24.1.1
+Probab=7.42  E-value=3.8e+02  Score=31.83  Aligned_cols=20  Identities=45%  Similarity=0.828  Sum_probs=16.5  Template_Neff=7.900
+
+Q BAQ00795.1      295 VGDGVYYNDDGSYYMHTDSGII  316 (400)
+Q Consensus       295 ~GDG~Y~n~dGsYYm~TDsGym  316 (400)
+                      .|||.|  +||++.+|.+..|+
+T Consensus       217 ~~dG~~--~DGSf~qH~~~~Y~  236 (721)
+T 1LOH_A          217 QGEGFY--QDGSYIDHTNVAYT  236 (721)
+T ss_dssp             SSSEEB--TTSCEEETTTEECC
+T ss_pred             cCCcee--cCCceEEecCeecC
+Confidence            399987  79999999887544
+
+
+No 8
+>4GVB_B KP6 killer toxin subunit alpha; Antifungal protein, Secreted, TOXIN; 1.8A {Ustilago maydis virus P6}
+Probab=7.35  E-value=3.9e+02  Score=22.61  Aligned_cols=10  Identities=50%  Similarity=0.810  Sum_probs=6.3  Template_Neff=1.000
+
+Q BAQ00795.1      296 GDGVYYNDDG  305 (400)
+Q Consensus       296 GDG~Y~n~dG  305 (400)
+                      =||+|+..||
+T Consensus        35 idgyytekdg   44 (81)
+T 4GVB_B           35 IDGYYTEKDG   44 (81)
+T ss_dssp             --CEECTTTC
+T ss_pred             hcceeecCCC
+Confidence            3888887776
+
+
+No 9
+>2X03_B PUTATIVE SECRETED LYASE (E.C.4.2.2.1); HYALURONATE LYASE, LYASE, CHONDROITIN LYASE; 2.3A {STREPTOMYCES COELICOLOR}
+Probab=6.59  E-value=4.5e+02  Score=31.74  Aligned_cols=20  Identities=45%  Similarity=0.705  Sum_probs=16.1  Template_Neff=7.300
+
+Q BAQ00795.1      295 VGDGVYYNDDGSYYMHTDSGII  316 (400)
+Q Consensus       295 ~GDG~Y~n~dGsYYm~TDsGym  316 (400)
+                      .|||.|  +||++.+|++..|.
+T Consensus       231 ~~dG~~--~DGSf~qH~~~~Y~  250 (765)
+T 2X03_B          231 KGDGLY--ADGSFVQHTWVAYS  250 (765)
+T ss_dssp             SSSEEC--TTSCEEETTTEECT
+T ss_pred             cCCcee--cCCCeEeeeceecC
+Confidence            399987  79999999865444
+
+
+No 10
+>2BRP_A HYALURONATE LYASE (E.C.4.2.2.1); (ALFA5/ALFA5) BARREL, LYASE, PEPTIDOGLYCAN-ANCHOR; HET: XLS, SO4, SIE; 2.0A {STREPTOCOCCUS PNEUMONIAE} SCOP: b.24.1.1, a.102.3.2, b.30.5.2
+Probab=6.41  E-value=4.6e+02  Score=31.24  Aligned_cols=19  Identities=47%  Similarity=0.882  Sum_probs=15.7  Template_Neff=7.900
+
+Q BAQ00795.1      295 VGDGVYYNDDGSYYMHTDSGI  315 (400)
+Q Consensus       295 ~GDG~Y~n~dGsYYm~TDsGy  315 (400)
+                      -|||.|  +||++++|++.-|
+T Consensus       219 ~~dG~~--~DGSf~qH~~~~Y  237 (731)
+T 2BRP_A          219 QGEGFY--QDGSYIDHTNVAY  237 (731)
+T ss_dssp             SSSEEC--TTSCEEETTTEEC
+T ss_pred             cCCcee--cCCceEeccCeec
+Confidence            399987  7999999987644
+
+

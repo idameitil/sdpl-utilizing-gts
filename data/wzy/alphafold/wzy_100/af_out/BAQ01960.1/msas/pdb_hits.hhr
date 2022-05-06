@@ -1,0 +1,169 @@
+Query         BAQ01960.1 O-antigen polymerase [Escherichia coli]
+Match_columns 367
+No_of_seqs    8 out of 10
+Neff          2.45708
+Searched_HMMs 80799
+Date          Fri Feb  4 11:10:14 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp4b5prfmj/query.a3m -o /tmp/tmp4b5prfmj/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6PL5_A Peptidoglycan glycosylt  51.3      12 0.00015   37.0   0.0   96  263-358   235-369 (377)
+  2 6BAR_A Rod shape determining p  46.3      17  0.0002   35.5   0.0   53  262-314   216-277 (359)
+  3 2N7I_A Prolactin receptor; tra  20.7      87  0.0011   23.5   0.0   29  291-319     6-34  (37)
+  4 4CLC_C UPF0303 PROTEIN YBR137W  11.9   2E+02  0.0025   27.1   0.0   27  279-307   124-151 (179)
+  5 4NKP_B putative extracellular   11.6 2.1E+02  0.0026   25.8   0.0   26  279-307   105-130 (148)
+  6 4NKP_C putative extracellular   11.6 2.1E+02  0.0026   25.8   0.0   26  279-307   105-130 (148)
+  7 2A2L_B unknown; UNKNOWN, STRUC  11.1 2.2E+02  0.0027   25.5   0.0   25  280-307   101-125 (145)
+  8 4BMW_A EXTRACELLULAR HAEM-BIND   9.2 2.9E+02  0.0036   25.7   0.0   25  280-307   113-137 (156)
+  9 3QC1_A Immunoglobulin-binding    8.7 3.1E+02  0.0038   27.1   0.0   20  103-124    95-114 (243)
+ 10 5CX7_A PduOC; Bis-His, Heme bi   8.5 3.2E+02  0.0039   24.7   0.0   26  279-307   100-125 (147)
+
+No 1
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=51.29  E-value=12  Score=36.99  Aligned_cols=96  Identities=19%  Similarity=0.181  Sum_probs=49.5  Template_Neff=8.900
+
+Q BAQ01960.1      263 RINTWSTIINYFDSYQVAILGLGSFP---------LFADNIFIWLISGFGIFSFVIYMYLV--------SIGNK--SQK-  322 (367)
+Q Consensus       263 RfN~Wsti~~ifd~~~l~~fglGSFP---------vFaDNiFw~LiSGlGi~~~~i~~YL~--------~i~~r--n~~-  322 (367)
+                      |-..|....+.+.+..+.=-|.|.++         .-+|++|..+..-+|+.|.++++.++        +...|  |+. 
+T Consensus       235 ~g~~~~~~~~~i~~~~~~G~G~g~~~~~~~~~~p~~h~d~i~~~i~~e~G~ig~~~~l~l~~~l~~~~~~~~~~~~~~~~  314 (377)
+T 6PL5_A          235 QGFQVIQSTIAIGSGGLFGKGYGQGTQAQLGFIPFRHTDFVFSVWAEEWGFVGVVGLLGLYGLLLARLFALALACPRLSD  314 (377)
+T ss_dssp             HHHHHHHHHHTTCCCC----------------CCSCSSTTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCSHHH
+T ss_pred             CcHHHHHHHHHHHhcCCcCcCCCCcccchhhcCcCCCCCcHHHHHHHHccHHHHHHHHHHHHHHHHHHHHHHHhCCCHHH
+Confidence            34444444455555444444555432         35889999999999988877766544        22223  321 
+
+
+Q BAQ01960.1      323 ---SALFISLLLWQGV--------LFP--GFIMPYML------MTTFITLGILSN  358 (367)
+Q Consensus       323 ---~s~~i~~v~~QGi--------LFP--GfIMPYfI------~llffllG~~~~  358 (367)
+                         ...+..+...|.+        +.|  |.-+|.+=      ....+.+|....
+T Consensus       315 ~~l~~g~~~~~~~q~~~ni~~~~g~~P~~gi~lPFiSyGgs~~~~~~~~~Gl~ls  369 (377)
+T 6PL5_A          315 RLFLSGFAGMLGFQVVVNLGVALGVMPVTGLTLPLFSYGGSSLIATLAGLGLVLL  369 (377)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHTTCSCCCCCCCTTTSCCSSHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHcCCCCCcCCCccccccChHHHHHHHHHHHHHHH
+Confidence               1224455566665        455  66666543      345566666543
+
+
+No 2
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=46.34  E-value=17  Score=35.49  Aligned_cols=53  Identities=15%  Similarity=-0.011  Sum_probs=25.2  Template_Neff=9.300
+
+Q BAQ01960.1      262 NRINTWSTIINYFDSYQVAILGLGSFP---------LFADNIFIWLISGFGIFSFVIYMYLV  314 (367)
+Q Consensus       262 NRfN~Wsti~~ifd~~~l~~fglGSFP---------vFaDNiFw~LiSGlGi~~~~i~~YL~  314 (367)
+                      +|-..|....+...+..+.=.|.|.++         .-+|.+|..+..-+|+.|.++++.++
+T Consensus       216 ~~~~~~~~~~~~i~~~~~~G~G~g~~~~~~~~~~~~~h~d~i~~~i~~e~G~ig~~~~l~l~  277 (359)
+T 6BAR_A          216 GQGFQVIQSTIAIGSGGLFGKGYGQGTQAQLGFIPFRHTDFVFSVWAEEWGFVGVVGLLGLY  277 (359)
+T ss_dssp             ------------CTTTCCSCC---------------CCTTTTHHHHHHHSHHHHHHHHHHHH
+T ss_pred             CCCHHHHHHHHHHHhcCcccccCCcccccccccCccccCccHHHHHHHHcchHHHHHHHHHH
+Confidence            345556666666666665555666553         25788889999999988877666543
+
+
+No 3
+>2N7I_A Prolactin receptor; transmembrane domain, membrane protein, receptor; NMR {Homo sapiens}
+Probab=20.70  E-value=87  Score=23.47  Aligned_cols=29  Identities=10%  Similarity=0.149  Sum_probs=24.3  Template_Neff=5.000
+
+Q BAQ01960.1      291 ADNIFIWLISGFGIFSFVIYMYLVSIGNK  319 (367)
+Q Consensus       291 aDNiFw~LiSGlGi~~~~i~~YL~~i~~r  319 (367)
+                      .|+..|.++++++...+++..+.....++
+T Consensus         6 ~~~~vWIlv~v~s~~i~Lii~w~l~~k~~   34 (37)
+T 2N7I_A            6 NDTTVWISVAVLSAVICLIIVWAVALKGY   34 (37)
+T ss_dssp             CHHHHHHHHHHHHHHHHHHHHHTTTSSSS
+T ss_pred             chHHHHHHHHHHHHHHHHHHHHHHHHhcc
+Confidence            68889999999999999888887766554
+
+
+No 4
+>4CLC_C UPF0303 PROTEIN YBR137W; PROTEIN TRANSPORT, GET, GET PATHWAY; 2.8A {SACCHAROMYCES CEREVISIAE}
+Probab=11.87  E-value=2e+02  Score=27.14  Aligned_cols=27  Identities=7%  Similarity=0.052  Sum_probs=20.5  Template_Neff=7.100
+
+Q BAQ01960.1      279 VAILGLGSFPLFADNIFI-WLISGFGIFSF  307 (367)
+Q Consensus       279 l~~fglGSFPvFaDNiFw-~LiSGlGi~~~  307 (367)
+                      -|..-=|++|++.++  . -++.++|+||.
+T Consensus       124 ~~~~~gGGvPI~~~g--~~~~VGaIgVSG~  151 (179)
+T 4CLC_C          124 EYAFHGGAVLIQSER--SDYPYACLTISGL  151 (179)
+T ss_pred             CceeecCeeEEEECC--CCcEEEEEEEeCC
+Confidence            445566999999987  3 57888888874
+
+
+No 5
+>4NKP_B putative extracellular heme-binding protein; PF03928 family protein, DUF336, putative; HET: GOL, SO4, MSE; 1.24A {Desulfovibrio piger}
+Probab=11.65  E-value=2.1e+02  Score=25.84  Aligned_cols=26  Identities=23%  Similarity=0.373  Sum_probs=20.3  Template_Neff=7.700
+
+Q BAQ01960.1      279 VAILGLGSFPLFADNIFIWLISGFGIFSF  307 (367)
+Q Consensus       279 l~~fglGSFPvFaDNiFw~LiSGlGi~~~  307 (367)
+                      -+..-=|++|++.|+   -++.++|+||.
+T Consensus       105 ~~~~~gGG~PI~~~g---~~vGaigVSG~  130 (148)
+T 4NKP_B          105 NFSLMEGGIPIILEN---VVVGGIGVGGA  130 (148)
+T ss_dssp             TCCCSSCEEEEEETT---EEEEEEEEESS
+T ss_pred             CeeeeeCeEEEEECC---EEEEEEEEcCC
+Confidence            345556999999985   68899999874
+
+
+No 6
+>4NKP_C putative extracellular heme-binding protein; PF03928 family protein, DUF336, putative; HET: SO4, GOL; 1.24A {Desulfovibrio piger}
+Probab=11.65  E-value=2.1e+02  Score=25.84  Aligned_cols=26  Identities=23%  Similarity=0.373  Sum_probs=20.3  Template_Neff=7.700
+
+Q BAQ01960.1      279 VAILGLGSFPLFADNIFIWLISGFGIFSF  307 (367)
+Q Consensus       279 l~~fglGSFPvFaDNiFw~LiSGlGi~~~  307 (367)
+                      -+..-=|++|++.|+   -++.++|+||.
+T Consensus       105 ~~~~~gGG~PI~~~g---~~vGaigVSG~  130 (148)
+T 4NKP_C          105 NFSLMEGGIPIILEN---VVVGGIGVGGA  130 (148)
+T ss_dssp             TCCCSSCEEEEEETT---EEEEEEEEESS
+T ss_pred             CeeeeeCeEEEEECC---EEEEEEEEcCC
+Confidence            345556999999985   68899999874
+
+
+No 7
+>2A2L_B unknown; UNKNOWN, STRUCTURAL GENOMICS, PSI, PROTEIN; 2.2A {Klebsiella pneumoniae} SCOP: d.110.9.1
+Probab=11.09  E-value=2.2e+02  Score=25.50  Aligned_cols=25  Identities=20%  Similarity=0.305  Sum_probs=20.0  Template_Neff=7.800
+
+Q BAQ01960.1      280 AILGLGSFPLFADNIFIWLISGFGIFSF  307 (367)
+Q Consensus       280 ~~fglGSFPvFaDNiFw~LiSGlGi~~~  307 (367)
+                      +..-=|++|++.|+   -++.++|+||.
+T Consensus       101 ~~~~~GG~PI~~~g---~~vGaIgVSG~  125 (145)
+T 2A2L_B          101 IIIFGGGLPVIFNE---QVIGAVGVSGG  125 (145)
+T ss_dssp             CCCSSCEEEEEETT---EEEEEEEEESS
+T ss_pred             eEEecCeEEEEECC---EEEEEEEEeCC
+Confidence            45566999999985   78889999884
+
+
+No 8
+>4BMW_A EXTRACELLULAR HAEM-BINDING PROTEIN; METAL BINDING PROTEIN, OXIDATIVE STRESS; 1.99A {STREPTOMYCES RETICULI}
+Probab=9.21  E-value=2.9e+02  Score=25.68  Aligned_cols=25  Identities=20%  Similarity=0.355  Sum_probs=19.6  Template_Neff=7.000
+
+Q BAQ01960.1      280 AILGLGSFPLFADNIFIWLISGFGIFSF  307 (367)
+Q Consensus       280 ~~fglGSFPvFaDNiFw~LiSGlGi~~~  307 (367)
+                      +..-=|++|++.|+   -++.++|+||-
+T Consensus       113 ~~~~~GG~PI~~~g---~vVGaIGVSG~  137 (156)
+T 4BMW_A          113 TLFLAGGTPVTAKG---APVAGIGVAGA  137 (156)
+T ss_dssp             CCCSSSEEEEEETT---EEEEEEEEECS
+T ss_pred             ceeecCeEEEEECC---EEEEEEEEeCC
+Confidence            34556999999985   67889998874
+
+
+No 9
+>3QC1_A Immunoglobulin-binding protein 1; PP2A, SIGNALING PROTEIN; 2.35A {Mus musculus}
+Probab=8.68  E-value=3.1e+02  Score=27.13  Aligned_cols=20  Identities=30%  Similarity=0.453  Sum_probs=14.5  Template_Neff=7.200
+
+Q BAQ01960.1      103 IYTRYLLIPFYFWMGLYYSKLV  124 (367)
+Q Consensus       103 IYlRYlLiP~YF~vG~~~~~~~  124 (367)
+                      -.+||+++|.|  +|....+..
+T Consensus        95 ~~LkyLlipy~--lg~l~~~~~  114 (243)
+T 3QC1_A           95 TDLKYLMVPAL--QGALTMKQV  114 (243)
+T ss_dssp             TTGGGGGHHHH--HHHHHTTCC
+T ss_pred             chHHHHHHHHH--HHHHHhhCC
+Confidence            47899999988  566555543
+
+
+No 10
+>5CX7_A PduOC; Bis-His, Heme binding domain, PduOC; HET: NA, HEM, GOL; 1.97A {Salmonella enterica subsp. enterica serovar Livingstone}
+Probab=8.53  E-value=3.2e+02  Score=24.69  Aligned_cols=26  Identities=31%  Similarity=0.428  Sum_probs=20.2  Template_Neff=7.700
+
+Q BAQ01960.1      279 VAILGLGSFPLFADNIFIWLISGFGIFSF  307 (367)
+Q Consensus       279 l~~fglGSFPvFaDNiFw~LiSGlGi~~~  307 (367)
+                      -+..-=|.+|++.|+   -.+.++|+||.
+T Consensus       100 ~~~~~gGG~PI~~~g---~~vGaigVSG~  125 (147)
+T 5CX7_A          100 KVVTFGGGYALWRDG---ILIGGLGISGG  125 (147)
+T ss_dssp             CCCCSSSEEEEEETT---EEEEEEEEESS
+T ss_pred             CeeEeeCeEEEEECC---EEEEEEEEcCC
+Confidence            345566999999975   68889999883
+
+

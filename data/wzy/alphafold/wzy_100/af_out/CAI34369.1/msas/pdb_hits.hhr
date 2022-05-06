@@ -1,0 +1,159 @@
+Query         CAI34369.1 oligosaccharide repeat unit polymerase Wzy [Streptococcus pneumoniae]
+Match_columns 398
+No_of_seqs    179 out of 605
+Neff          7.6929
+Searched_HMMs 80799
+Date          Wed Feb  2 15:43:14 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp9ctbmrao/query.a3m -o /tmp/tmp9ctbmrao/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6BAR_A Rod shape determining p  79.4     1.2 1.5E-05   45.7   0.0   28  308-335   255-282 (359)
+  2 6PL5_A Peptidoglycan glycosylt  72.9     2.5 3.1E-05   43.9   0.0   27  308-334   273-299 (377)
+  3 5JRW_E Cobalt/magnesium transp  11.1 2.2E+02  0.0027   29.9   0.0   66  109-180   306-371 (373)
+  4 4CY4_E MAGNESIUM TRANSPORT PRO  10.5 2.4E+02   0.003   28.3   0.0   30  109-138   250-279 (317)
+  5 3JCF_C Magnesium transport pro  10.0 2.6E+02  0.0032   28.8   0.0   30  109-138   284-313 (351)
+  6 4I0U_F Magnesium transport pro  10.0 2.6E+02  0.0032   28.8   0.0   30  109-138   284-313 (351)
+  7 4EV6_B Magnesium transport pro   8.5 3.2E+02  0.0039   28.0   0.0   33  109-143   272-304 (339)
+  8 2HAC_B T-cell surface glycopro   7.9 3.5E+02  0.0044   18.3   0.0   13  314-326    11-23  (33)
+  9 5N9Y_B Zinc transport protein    6.0   5E+02  0.0062   26.3   0.0   29  110-138   261-289 (327)
+ 10 2NDJ_A Potassium voltage-gated   5.3   6E+02  0.0074   22.4   0.0   20  307-326    63-82  (112)
+
+No 1
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=79.44  E-value=1.2  Score=45.67  Aligned_cols=28  Identities=18%  Similarity=0.292  Sum_probs=20.5  Template_Neff=9.300
+
+Q CAI34369.1      308 DSSYVQMLFTYGVIPLVLLICMYVVISR  335 (398)
+Q Consensus       308 DssYl~iLl~yGiI~~vl~i~~~~~~~~  335 (398)
+                      |.-+.+...++|++..++++.++.....
+T Consensus       255 d~i~~~i~~e~G~ig~~~~l~l~~~l~~  282 (359)
+T 6BAR_A          255 DFVFSVWAEEWGFVGVVGLLGLYGLLLA  282 (359)
+T ss_dssp             TTTHHHHHHHSHHHHHHHHHHHHHHHHH
+T ss_pred             ccHHHHHHHHcchHHHHHHHHHHHHHHH
+Confidence            4445999999999988777766654433
+
+
+No 2
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=72.92  E-value=2.5  Score=43.91  Aligned_cols=27  Identities=19%  Similarity=0.310  Sum_probs=20.0  Template_Neff=8.900
+
+Q CAI34369.1      308 DSSYVQMLFTYGVIPLVLLICMYVVIS  334 (398)
+Q Consensus       308 DssYl~iLl~yGiI~~vl~i~~~~~~~  334 (398)
+                      |.-+.++..++|++..++++.++....
+T Consensus       273 d~i~~~i~~e~G~ig~~~~l~l~~~l~  299 (377)
+T 6PL5_A          273 DFVFSVWAEEWGFVGVVGLLGLYGLLL  299 (377)
+T ss_dssp             TTHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             CcHHHHHHHHccHHHHHHHHHHHHHHH
+Confidence            444499999999998887776664433
+
+
+No 3
+>5JRW_E Cobalt/magnesium transport protein CorA; Transport Protein; 3.3A {Thermotoga maritima}
+Probab=11.13  E-value=2.2e+02  Score=29.86  Aligned_cols=66  Identities=26%  Similarity=0.414  Sum_probs=37.7  Template_Neff=8.800
+
+Q CAI34369.1      109 NVDMKVVLKTYLIVAGILVLSVFLLSLLGAVPNLQYNREGVIRNSFGFIYPTDFASHCFYLFLAFSYLLKDK  180 (398)
+Q Consensus       109 ~i~~~kI~K~~l~~~~i~~~~ii~ls~~GiI~n~~~~r~g~iR~slGf~ypt~~~~~if~l~l~~~yl~~~k  180 (398)
+                      +-+-.+.+|...+++.+.+..+++.+.+|.  |.....+.  ....||  |-..+..+...+..++|+||++
+T Consensus       306 s~~~N~~mk~LTivt~iflPlTfiag~fGM--Nf~~~p~~--~~~~~~--~~~~~~~~l~~~~~~~~fkrk~  371 (373)
+T 5JRW_E          306 SNKTNEVMKVLTIIATIFMPLTFIAGIYGM--NFEYMPEL--RWKWGY--PVVLAVMGVIAVIMVVYFKKKK  371 (373)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHHHTTC--CCSCCHHH--HSSSSH--HHHHHHHHHHHHHHHHHTSSCC
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHhcC--CCCCCHHh--ccccHH--HHHHHHHHHHHHHHHHHHHHcC
+Confidence            344567888888888888888888899997  54321111  123444  3333333333334455666554
+
+
+No 4
+>4CY4_E MAGNESIUM TRANSPORT PROTEIN CORA; MEMBRANE PROTEIN, MAGNESIUM ION CHANNEL; 21.6A {METHANOCALDOCOCCUS JANNASCHII}
+Probab=10.47  E-value=2.4e+02  Score=28.29  Aligned_cols=30  Identities=20%  Similarity=0.531  Sum_probs=23.6  Template_Neff=10.100
+
+Q CAI34369.1      109 NVDMKVVLKTYLIVAGILVLSVFLLSLLGA  138 (398)
+Q Consensus       109 ~i~~~kI~K~~l~~~~i~~~~ii~ls~~Gi  138 (398)
+                      +.+-.+.+|..-+++.+.+..+++.+.+|.
+T Consensus       250 ~~~~n~~m~~LTivt~iflP~t~iagifGM  279 (317)
+T 4CY4_E          250 NIKMNQIMKILTMVTTIFAVPMWITGIYGM  279 (317)
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHhcc
+Confidence            344567788877888888888888899998
+
+
+No 5
+>3JCF_C Magnesium transport protein CorA; membrane protein, ion channel, magnesium; HET: MG; 3.8A {Thermotoga maritima}
+Probab=9.96  E-value=2.6e+02  Score=28.83  Aligned_cols=30  Identities=23%  Similarity=0.389  Sum_probs=24.2  Template_Neff=9.500
+
+Q CAI34369.1      109 NVDMKVVLKTYLIVAGILVLSVFLLSLLGA  138 (398)
+Q Consensus       109 ~i~~~kI~K~~l~~~~i~~~~ii~ls~~Gi  138 (398)
+                      +.+-.+.+|..-+++.+.+..+++.+.+|.
+T Consensus       284 s~~~n~~mk~LTivt~iflPltfiag~fGM  313 (351)
+T 3JCF_C          284 SNKTNEVMKVLTIIATIFMPLTFIAGIYGM  313 (351)
+T ss_dssp             HHHHHHHHHHHHHHHTTTHHHHHHHHHHHS
+T ss_pred             hHHHHHHHHHHHHHHHHHHHHHHHHHHhcC
+Confidence            445667888888888888888888899997
+
+
+No 6
+>4I0U_F Magnesium transport protein CorA; magnesium/cobalt transport, METAL TRANSPORT, MEMBRANE; HET: CL, PEG, LMT, MG; 2.7A {Thermotoga maritima}
+Probab=9.96  E-value=2.6e+02  Score=28.83  Aligned_cols=30  Identities=23%  Similarity=0.389  Sum_probs=24.2  Template_Neff=9.500
+
+Q CAI34369.1      109 NVDMKVVLKTYLIVAGILVLSVFLLSLLGA  138 (398)
+Q Consensus       109 ~i~~~kI~K~~l~~~~i~~~~ii~ls~~Gi  138 (398)
+                      +.+-.+.+|..-+++.+.+..+++.+.+|.
+T Consensus       284 s~~~n~~mk~LTivt~iflPltfiag~fGM  313 (351)
+T 4I0U_F          284 SNKTNEVMKVLTIIATIFMPLTFIAGIYGM  313 (351)
+T ss_dssp             HHHHHHHHHHHHHHHHHTTHHHHHHHHTSC
+T ss_pred             hHHHHHHHHHHHHHHHHHHHHHHHHHHhcC
+Confidence            445667888888888888888888899997
+
+
+No 7
+>4EV6_B Magnesium transport protein CorA; MEMBRANE PROTEIN, CORA, MAGNESIUM, ION; HET: UMQ, MG; 3.2A {Methanocaldococcus jannaschii}
+Probab=8.52  E-value=3.2e+02  Score=27.97  Aligned_cols=33  Identities=21%  Similarity=0.543  Sum_probs=24.1  Template_Neff=9.600
+
+Q CAI34369.1      109 NVDMKVVLKTYLIVAGILVLSVFLLSLLGAVPNLQ  143 (398)
+Q Consensus       109 ~i~~~kI~K~~l~~~~i~~~~ii~ls~~GiI~n~~  143 (398)
+                      +.+-.+.+|..-+++.+.+..+++.+.+|.  |..
+T Consensus       272 ~~~~n~~m~~LTilt~iflP~t~iagifGM--N~~  304 (339)
+T 4EV6_B          272 NIKMNQIMKILTMVTTIFAVPMWITGIYGM--NFS  304 (339)
+T ss_dssp             HHHHHHHHHHHHHHHHHSSHHHHHHHHTTC--CCS
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHhcc--CCC
+Confidence            334566778777777888888888888888  543
+
+
+No 8
+>2HAC_B T-cell surface glycoprotein CD3 zeta; transmembrane, alpha helix, MEMBRANE PROTEIN; NMR {Homo sapiens}
+Probab=7.92  E-value=3.5e+02  Score=18.31  Aligned_cols=13  Identities=54%  Similarity=0.953  Sum_probs=9.0  Template_Neff=2.500
+
+Q CAI34369.1      314 MLFTYGVIPLVLL  326 (398)
+Q Consensus       314 iLl~yGiI~~vl~  326 (398)
+                      +|+-||+|...++
+T Consensus        11 iL~iYgiiiT~l~   23 (33)
+T 2HAC_B           11 ILFIYGVILTALF   23 (33)
+T ss_dssp             HHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHH
+Confidence            5677888776554
+
+
+No 9
+>5N9Y_B Zinc transport protein ZntB; ZntB, zinc transport, CorA, membrane;{Escherichia coli (strain K12)}
+Probab=6.01  E-value=5e+02  Score=26.35  Aligned_cols=29  Identities=24%  Similarity=0.328  Sum_probs=21.8  Template_Neff=9.700
+
+Q CAI34369.1      110 VDMKVVLKTYLIVAGILVLSVFLLSLLGA  138 (398)
+Q Consensus       110 i~~~kI~K~~l~~~~i~~~~ii~ls~~Gi  138 (398)
+                      ..-.+.+|...+++.+.+..+++.+.+|.
+T Consensus       261 ~~~n~~mk~LTivt~iflP~t~iagifGM  289 (327)
+T 5N9Y_B          261 ENLARRTYTMSLMAMVFLPSTFLTGLFGV  289 (327)
+T ss_dssp             HHHHHHHHHHHHHHHHTHHHHHHHHHHSC
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHhcC
+Confidence            34456677777777888888888888888
+
+
+No 10
+>2NDJ_A Potassium voltage-gated channel subfamily E; Estrogen, Membrane protein, Ion channel; NMR {Homo sapiens}
+Probab=5.28  E-value=6e+02  Score=22.37  Aligned_cols=20  Identities=25%  Similarity=0.384  Sum_probs=15.0  Template_Neff=3.100
+
+Q CAI34369.1      307 VDSSYVQMLFTYGVIPLVLL  326 (398)
+Q Consensus       307 IDssYl~iLl~yGiI~~vl~  326 (398)
+                      -|++|+++|+.-|.-.+...
+T Consensus        63 ~dn~ylYIL~vm~ff~ff~~   82 (112)
+T 2NDJ_A           63 DDNSYMYILFVMFLFAVTVG   82 (112)
+T ss_dssp             CHHHHHHHHHHHHHHHHHHH
+T ss_pred             CchHHHHHHHHHHHHHHHHH
+Confidence            49999999998886554443
+
+

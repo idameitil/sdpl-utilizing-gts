@@ -1,0 +1,159 @@
+Query         BAQ02088.1 O-antigen polymerase [Escherichia coli]
+Match_columns 425
+No_of_seqs    125 out of 182
+Neff          7.09913
+Searched_HMMs 80799
+Date          Fri Feb  4 12:43:56 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpsxw35p7r/query.a3m -o /tmp/tmpsxw35p7r/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6JK2_A Lectin; PhoSL, core-fuc  13.7 1.6E+02   0.002   21.3   0.0   12  322-333    20-31  (40)
+  2 6JK3_C Lectin; PhoSL, core-fuc  13.7 1.6E+02   0.002   21.3   0.0   12  322-333    20-31  (40)
+  3 6A87_A lectin; Lectin, Trimer,  13.3 1.7E+02  0.0021   21.2   0.0   12  322-333    20-31  (40)
+  4 3VSM_A Occlusion-derived virus   7.5 3.8E+02  0.0047   31.8   0.0   17  326-345   234-250 (659)
+  5 3VSN_A Occlusion-derived virus   7.3 3.9E+02  0.0049   31.6   0.0   17  326-345   234-250 (659)
+  6 2J0U_T ATP-DEPENDENT RNA HELIC   6.4 4.6E+02  0.0057   23.8   0.0   17  327-344    42-58  (114)
+  7 2DKO_A Caspase-3 (E.C.3.4.22.-   6.2 4.9E+02   0.006   23.3   0.0   48  305-352     2-51  (146)
+  8 3MMP_F Elongation factor Tu 2,   5.5 5.7E+02   0.007   29.3   0.0   40  304-345   364-408 (589)
+  9 4R71_B Elongation factor Ts, E   5.3   6E+02  0.0074   29.1   0.0   40  304-345   370-414 (595)
+ 10 2KN8_A DNA cleavage and packag   5.1 6.2E+02  0.0077   20.8   0.0   18  288-305    17-34  (68)
+
+No 1
+>6JK2_A Lectin; PhoSL, core-fucosylated chitobiose, SUGAR BINDING; HET: SO4; 1.06A {Pholiota squarrosa}
+Probab=13.71  E-value=1.6e+02  Score=21.27  Aligned_cols=12  Identities=25%  Similarity=0.667  Sum_probs=9.2  Template_Neff=2.200
+
+Q BAQ02088.1      322 TMLIGDGKYTGD  333 (425)
+Q Consensus       322 T~l~GDG~Y~~~  333 (425)
+                      .+-+|||+|..+
+T Consensus        20 nL~FGDG~W~A~   31 (40)
+T 6JK2_A           20 YLDFGDGRWVAQ   31 (40)
+T ss_dssp             EESSTTTTCEEE
+T ss_pred             EeEecCCcEEEE
+Confidence            356899999864
+
+
+No 2
+>6JK3_C Lectin; PhoSL, core-fucosylated chitobiose, SUGAR BINDING; HET: NAG, FUC, GOL; 1.12A {Pholiota squarrosa}
+Probab=13.71  E-value=1.6e+02  Score=21.27  Aligned_cols=12  Identities=25%  Similarity=0.667  Sum_probs=9.2  Template_Neff=2.200
+
+Q BAQ02088.1      322 TMLIGDGKYTGD  333 (425)
+Q Consensus       322 T~l~GDG~Y~~~  333 (425)
+                      .+-+|||+|..+
+T Consensus        20 nL~FGDG~W~A~   31 (40)
+T 6JK3_C           20 YLDFGDGRWVAQ   31 (40)
+T ss_dssp             EECSTTSCEEEE
+T ss_pred             EeEecCCcEEEE
+Confidence            356899999864
+
+
+No 3
+>6A87_A lectin; Lectin, Trimer, Fucose, SUGAR BINDING; HET: NAG, FUC; 2.41A {N/A}
+Probab=13.27  E-value=1.7e+02  Score=21.17  Aligned_cols=12  Identities=33%  Similarity=0.634  Sum_probs=9.2  Template_Neff=2.200
+
+Q BAQ02088.1      322 TMLIGDGKYTGD  333 (425)
+Q Consensus       322 T~l~GDG~Y~~~  333 (425)
+                      .+-+|||+|..+
+T Consensus        20 nL~FGDG~W~A~   31 (40)
+T 6A87_A           20 YLDYGDGKWVAQ   31 (40)
+T ss_dssp             EESSTTTTEEEE
+T ss_pred             EeEecCCcEEEE
+Confidence            356899999864
+
+
+No 4
+>3VSM_A Occlusion-derived virus envelope protein E66; alpha/alpha troid, beta-sandwich, LYASE ACTIVATOR; 2.0A {Autographa californica nucleopolyhedrovirus}
+Probab=7.51  E-value=3.8e+02  Score=31.78  Aligned_cols=17  Identities=24%  Similarity=0.317  Sum_probs=15.3  Template_Neff=5.800
+
+Q BAQ02088.1      326 GDGKYTGDTPGTYYMGTDAG  345 (425)
+Q Consensus       326 GDG~Y~~~~~g~YYm~TDvG  345 (425)
+                      |||.|.   ||+|.+|+|+|
+T Consensus       234 GDGIy~---DGSFiqH~~v~  250 (659)
+T 3VSM_A          234 GNGLHV---DSIYIDHIDVR  250 (659)
+T ss_dssp             SSEEET---TSCEEETTTEE
+T ss_pred             CCcccC---CCcccccCCcc
+Confidence            999997   48999999985
+
+
+No 5
+>3VSN_A Occlusion-derived virus envelope protein E66; alpha/alpha troid, beta-sandwich, LYASE ACTIVATOR; HET: GOL, IOD; 2.0A {Autographa californica nucleopolyhedrovirus}
+Probab=7.26  E-value=3.9e+02  Score=31.62  Aligned_cols=17  Identities=24%  Similarity=0.317  Sum_probs=10.4  Template_Neff=5.800
+
+Q BAQ02088.1      326 GDGKYTGDTPGTYYMGTDAG  345 (425)
+Q Consensus       326 GDG~Y~~~~~g~YYm~TDvG  345 (425)
+                      |||.|.   ||+|.+|+|+|
+T Consensus       234 GDGIy~---DgSFiqH~~v~  250 (659)
+T 3VSN_A          234 GNGLHV---DSIYIDHIDVR  250 (659)
+T ss_dssp             SSECEE---E-----TTTEE
+T ss_pred             CCcccc---CCCccccCCCc
+Confidence            999997   48999999985
+
+
+No 6
+>2J0U_T ATP-DEPENDENT RNA HELICASE DDX48, PROTEIN; HYDROLASE, ATP-BINDING, DNA-BINDING, NUCLEAR PROTEIN; 3.0A {HOMO SAPIENS}
+Probab=6.42  E-value=4.6e+02  Score=23.80  Aligned_cols=17  Identities=12%  Similarity=0.264  Sum_probs=11.7  Template_Neff=4.400
+
+Q BAQ02088.1      327 DGKYTGDTPGTYYMGTDA  344 (425)
+Q Consensus       327 DG~Y~~~~~g~YYm~TDv  344 (425)
+                      +..|. +..|.||||-|-
+T Consensus        42 nPayI-Pr~G~FymHDdR   58 (114)
+T 2J0U_T           42 NPAYI-PRKGLFFEHDLR   58 (114)
+T ss_pred             CCCcC-CCCCccCccccc
+Confidence            34455 456999999874
+
+
+No 7
+>2DKO_A Caspase-3 (E.C.3.4.22.-), DEVD; LOW BARRIER HYDROGEN BOND, CASPASE; 1.06A {Homo sapiens}
+Probab=6.16  E-value=4.9e+02  Score=23.31  Aligned_cols=48  Identities=17%  Similarity=0.194  Sum_probs=34.3  Template_Neff=9.500
+
+Q BAQ02088.1      305 TASTDELKSMYFSLNEITMLIGDGKYTGD--TPGTYYMGTDAGYMRPTLF  352 (425)
+Q Consensus       305 T~STd~L~~MYf~~~~~T~l~GDG~Y~~~--~~g~YYm~TDvGYmR~ilf  352 (425)
+                      |.|.++..+|.-++.-..+++|.++|.+.  .+..-.-..|+.-|+.++-
+T Consensus         2 ~~~~~~~y~~~~~~~~~~lii~~~~~~~~~~~~~l~~~~~D~~~l~~~l~   51 (146)
+T 2DKO_A            2 GISLDNSYKMDYPEMGLCIIINNKNFHKSTGMTSRSGTDVDAANLRETFR   51 (146)
+T ss_dssp             CCCCCCBCCCCSSEEEEEEEEECCCCCGGGTCCCCTTHHHHHHHHHHHHH
+T ss_pred             CCCcccCCCCCCCCCeEEEEEEcCCCccccCCCCCCCHHHHHHHHHHHHH
+Confidence            45566666677666667999999999863  1233456789998888884
+
+
+No 8
+>3MMP_F Elongation factor Tu 2, Elongation; RdRp, host-factor complex, translation, TRANSFERASE; HET: PXN; 2.5A {Escherichia coli}
+Probab=5.48  E-value=5.7e+02  Score=29.33  Aligned_cols=40  Identities=25%  Similarity=0.557  Sum_probs=28.8  Template_Neff=2.700
+
+Q BAQ02088.1      304 STASTDELKSM--Y--FSLNE-ITMLIGDGKYTGDTPGTYYMGTDAG  345 (425)
+Q Consensus       304 sT~STd~L~~M--Y--f~~~~-~T~l~GDG~Y~~~~~g~YYm~TDvG  345 (425)
+                      .|...+.+.+-  |  |.+|. ||+  ++|.+...=++.||.+.||-
+T Consensus       364 P~~~a~~l~~~lsy~GF~~N~kKTF--~tG~FRESCG~h~f~G~DVt  408 (589)
+T 3MMP_F          364 PSCAVPALREVFKYVGFTTNTKKTF--SEGPFRESCGKHYYSGVDVT  408 (589)
+T ss_dssp             EGGGHHHHHHHHHHTTCCBCGGGCB--SSSSEEEETTEEEETTEECC
+T ss_pred             chhhHHHHHHHHhhcccccCCCCcc--ccCccchhcCcceeCCcccc
+Confidence            45566666443  2  76765 687  89999975567899999984
+
+
+No 9
+>4R71_B Elongation factor Ts, Elongation factor; OB FOLD, TRANSLATION, VIRAL PROTEIN-RIBOSOMAL; 3.21A {Escherichia coli}
+Probab=5.27  E-value=6e+02  Score=29.14  Aligned_cols=40  Identities=25%  Similarity=0.557  Sum_probs=28.8  Template_Neff=2.600
+
+Q BAQ02088.1      304 STASTDELKSM--Y--FSLNE-ITMLIGDGKYTGDTPGTYYMGTDAG  345 (425)
+Q Consensus       304 sT~STd~L~~M--Y--f~~~~-~T~l~GDG~Y~~~~~g~YYm~TDvG  345 (425)
+                      .|...+.+.+-  |  |.+|. ||+  ++|.+...=++.||.+.||-
+T Consensus       370 P~~~a~~l~~~lsyvGF~~N~kKTF--~tG~FRESCG~h~f~G~DVt  414 (595)
+T 4R71_B          370 PSCAVPALREVFKYVGFTTNTKKTF--SEGPFRESCGKHYYSGVDVT  414 (595)
+T ss_dssp             EGGGHHHHHHHHHHTTCCBCSTTCB--SSSSEEEETTEEEETTEECC
+T ss_pred             ehHHHHHHHHHHHhcccccCCCCcc--ccCCcchhcCcceeCCeecc
+Confidence            45566666443  2  77765 687  89999975567899999984
+
+
+No 10
+>2KN8_A DNA cleavage and packaging protein; NHCMV, pUL89, Terminase, PROTEIN BINDING; NMR {N/A}
+Probab=5.09  E-value=6.2e+02  Score=20.82  Aligned_cols=18  Identities=17%  Similarity=0.158  Sum_probs=16.0  Template_Neff=2.900
+
+Q BAQ02088.1      288 PWAFELIYRYSETGSFST  305 (425)
+Q Consensus       288 ~~aFE~~~ny~~~G~~sT  305 (425)
+                      .-|||.|+.-.++|.+..
+T Consensus        17 ~~Afe~FI~~fNSg~v~A   34 (68)
+T 2KN8_A           17 ALAVEQFISRFNSGYIKA   34 (68)
+T ss_dssp             HHHHHHHHHHHTTHHHHH
+T ss_pred             HHHHHHHHHHHhcCceee
+Confidence            689999999999999873
+
+

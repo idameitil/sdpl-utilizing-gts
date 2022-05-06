@@ -1,0 +1,170 @@
+Query         ADJ19217.1 Wzy [Escherichia coli]
+Match_columns 385
+No_of_seqs    16 out of 17
+Neff          3.91449
+Searched_HMMs 80799
+Date          Thu Feb  3 09:05:05 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpjwoo76f_/query.a3m -o /tmp/tmpjwoo76f_/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 5MIY_A Uncharacterised protein  15.5 1.4E+02  0.0017   28.0   0.0   10  291-300     2-11  (128)
+  2 5MIY_B Uncharacterised protein  15.5 1.4E+02  0.0017   28.0   0.0   10  291-300     2-11  (128)
+  3 4CLV_B NICKEL-COBALT-CADMIUM R   5.9 5.1E+02  0.0063   23.1   0.0   21  170-190     3-23  (148)
+  4 6BTM_F Cytochrome C, Chain B:    5.6 5.5E+02  0.0068   29.0   0.0   84  143-233   357-448 (464)
+  5 5JTO_F Protein-export protein    5.4 5.8E+02  0.0072   20.2   0.0   15  290-304    11-25  (40)
+  6 1HN3_A P19 ARF PROTEIN; Arf, p   5.2 6.1E+02  0.0075   20.1   0.0   11  245-255     2-12  (40)
+  7 3ZG1_C NICKEL AND COBALT RESIS   4.8 6.6E+02  0.0082   22.3   0.0   15  171-185     4-18  (148)
+  8 2N2J_A Epstein-Barr nuclear an   4.5 7.2E+02   0.009   21.4   0.0    8  294-301     4-11  (62)
+  9 3QUA_A Putative uncharacterize   4.2 7.9E+02  0.0098   23.2   0.0   14  291-304     1-16  (199)
+ 10 1XEZ_A hemolysin; Pore-forming   3.9 8.8E+02   0.011   29.6   0.0   36  276-311   583-621 (721)
+
+No 1
+>5MIY_A Uncharacterised protein; Legionella effector, E3 ubiquitin ligase; HET: SO4, EDO; 1.717A {Legionella pneumophila}
+Probab=15.51  E-value=1.4e+02  Score=28.02  Aligned_cols=10  Identities=40%  Similarity=0.942  Sum_probs=8.2  Template_Neff=1.300
+
+Q ADJ19217.1      291 SPGSMPLFYT  300 (385)
+Q Consensus       291 spGSmP~~f~  300 (385)
+                      ..|||||||-
+T Consensus         2 amgsmptyfd   11 (128)
+T 5MIY_A            2 AMGSMPTYFD   11 (128)
+T ss_dssp             CSCCCCEEEE
+T ss_pred             CCCCCCcccc
+Confidence            4799999984
+
+
+No 2
+>5MIY_B Uncharacterised protein; Legionella effector, E3 ubiquitin ligase; HET: SO4, EDO; 1.717A {Legionella pneumophila}
+Probab=15.51  E-value=1.4e+02  Score=28.02  Aligned_cols=10  Identities=40%  Similarity=0.942  Sum_probs=5.2  Template_Neff=1.300
+
+Q ADJ19217.1      291 SPGSMPLFYT  300 (385)
+Q Consensus       291 spGSmP~~f~  300 (385)
+                      ..|||||||-
+T Consensus         2 amgsmptyfd   11 (128)
+T 5MIY_B            2 AMGSMPTYFD   11 (128)
+T ss_dssp             ----CCEEEE
+T ss_pred             CCCCCCcccc
+Confidence            4799999984
+
+
+No 3
+>4CLV_B NICKEL-COBALT-CADMIUM RESISTANCE PROTEIN NCCX; METAL BINDING PROTEIN, MEMBRANE PROTEIN; HET: PC, ZN, PO4; 3.12A {CUPRIAVIDUS METALLIDURANS}
+Probab=5.94  E-value=5.1e+02  Score=23.15  Aligned_cols=21  Identities=24%  Similarity=0.097  Sum_probs=12.3  Template_Neff=9.300
+
+Q ADJ19217.1      170 KGKLFNLLFFIFVCFSMVVSG  190 (385)
+Q Consensus       170 k~~~~~~~lf~~v~f~L~iGG  190 (385)
+                      ++++.++++.+++++.+.++|
+T Consensus         3 ~~~~~~~~l~~~l~~~l~~~~   23 (148)
+T 4CLV_B            3 KSRTFRLSVSTLVGALVGVLM   23 (148)
+T ss_dssp             -CCTTHHHHHHHHHHHHHHHH
+T ss_pred             cchhHHHHHHHHHHHHHHHHH
+Confidence            455666666666666665555
+
+
+No 4
+>6BTM_F Cytochrome C, Chain B: Alternative; Electron transport chain, triacylated cysteine; HET: E87, HEC; 3.4A {Flavobacterium johnsoniae (strain ATCC 17061 / DSM 2064 / UW101)}
+Probab=5.60  E-value=5.5e+02  Score=29.00  Aligned_cols=84  Identities=13%  Similarity=0.188  Sum_probs=44.0  Template_Neff=6.800
+
+Q ADJ19217.1      143 GTFQGFFIYSLFTSIIIPGIYFHLKDK-KGKL-FNLLFFIF------VCFSMVVSGNKGVFLYFIIFNVLFEWKKIRLST  214 (385)
+Q Consensus       143 G~~k~fFtfS~i~~iiiPs~ffyf~~~-k~~~-~~~~lf~~------v~f~L~iGGNKGi~~yFiIF~~~F~~kKi~i~~  214 (385)
+                      |+.+..|....+.++++|.+.+..++. ++.. ......+.      -..-++.+|..+..       +..-+-.+-...
+T Consensus       357 g~~~~~f~~~l~l~fviPfllLl~~~~Kr~~~~l~~~ai~vLvG~~~d~y~lV~Pg~~~~~-------~~p~~~Ei~~~l  429 (464)
+T 6BTM_F          357 QLYNLPFFGAVVMNFVFPLLILINTDFKRLNWVVVMAGIVILLGHYVDFFNMIMPGTVGDK-------WFIGVPEIASIL  429 (464)
+T ss_dssp             TTSHHHHHHHHCCCCCHHHTTTTCTTGGGCHHHHHHHHHHHHHHHHHHHHHHHHHHHTGGG-------CCCSHHHHHHHH
+T ss_pred             ccccHHHHHHHHHHHHHHHHHHHCcccccCHHHHHHHHHHHHHHHHHHHHHHHccCCCCCc-------cCCCHHHHHHHH
+Confidence            445555588889999999888877653 3332 22222111      12346677777654       111112222322
+
+
+Q ADJ19217.1      215 YLIIIVGLMAIYALIRLPF  233 (385)
+Q Consensus       215 ~liiii~li~~Yal~Kg~~  233 (385)
+                      ..+.+..+++..++.|.|-
+T Consensus       430 g~~gl~~~~~~~~l~k~~l  448 (464)
+T 6BTM_F          430 FFLGLFIFVVFTALTKSPL  448 (464)
+T ss_dssp             HHHHHHHHHHHHHGGGSCS
+T ss_pred             HHHHHHHHHHHHHHhcCCc
+Confidence            2222333556777888763
+
+
+No 5
+>5JTO_F Protein-export protein SecB, Alkaline phosphatase; Molecular chaperone, CHAPERONE-HYDROLASE complex; NMR {Escherichia coli O157:H7}
+Probab=5.40  E-value=5.8e+02  Score=20.19  Aligned_cols=15  Identities=20%  Similarity=0.490  Sum_probs=11.6  Template_Neff=3.400
+
+Q ADJ19217.1      290 YSPGSMPLFYTAELY  304 (385)
+Q Consensus       290 yspGSmP~~f~~ei~  304 (385)
+                      .++|.||+-|.+-.-
+T Consensus        11 f~~GNmPt~f~~~~A   25 (40)
+T 5JTO_F           11 FADGNMPVRWLGPKA   25 (40)
+T ss_dssp             STTTCCCCCCSCGGG
+T ss_pred             ecCCCCCeeecCCcc
+Confidence            479999999877543
+
+
+No 6
+>1HN3_A P19 ARF PROTEIN; Arf, p19Arf, Tumor Suppressor, p53; NMR {Mus musculus} SCOP: j.91.1.1
+Probab=5.20  E-value=6.1e+02  Score=20.13  Aligned_cols=11  Identities=18%  Similarity=0.419  Sum_probs=8.1  Template_Neff=2.000
+
+Q ADJ19217.1      245 ESISERIFLTQ  255 (385)
+Q Consensus       245 eS~~rR~FVTQ  255 (385)
+                      |++.||+-||-
+T Consensus         2 ~~MvRrflVTV   12 (40)
+T 1HN3_A            2 SHMGRRFLVTV   12 (40)
+T ss_dssp             CCCSCHHHHHH
+T ss_pred             CccceeEEEEE
+Confidence            67788888774
+
+
+No 7
+>3ZG1_C NICKEL AND COBALT RESISTANCE PROTEIN; METAL BINDING PROTEIN, SENSOR PROTEIN; HET: PGE, PEG, GOL; 1.85A {CUPRIAVIDUS METALLIDURANS}
+Probab=4.84  E-value=6.6e+02  Score=22.31  Aligned_cols=15  Identities=7%  Similarity=-0.106  Sum_probs=0.0  Template_Neff=9.500
+
+Q ADJ19217.1      171 GKLFNLLFFIFVCFS  185 (385)
+Q Consensus       171 ~~~~~~~lf~~v~f~  185 (385)
+                      ++|.+.++.+++++.
+T Consensus         4 ~~~~~~~l~~~l~~~   18 (148)
+T 3ZG1_C            4 SRTRRLSLSTLFGAL   18 (148)
+T ss_dssp             ---------------
+T ss_pred             chHHHHHHHHHHHHH
+Confidence            344444444443333
+
+
+No 8
+>2N2J_A Epstein-Barr nuclear antigen 2; HOMODIMER, END DOMAIN, VIRAL PROTEIN; NMR {Human herpesvirus 4}
+Probab=4.52  E-value=7.2e+02  Score=21.41  Aligned_cols=8  Identities=63%  Similarity=1.111  Sum_probs=6.5  Template_Neff=2.100
+
+Q ADJ19217.1      294 SMPLFYTA  301 (385)
+Q Consensus       294 SmP~~f~~  301 (385)
+                      .|||||+|
+T Consensus         4 ~MPTyYvA   11 (62)
+T 2N2J_A            4 EMPTFYLA   11 (62)
+T ss_dssp             SSCEEEEE
+T ss_pred             cCceEEEE
+Confidence            58999876
+
+
+No 9
+>3QUA_A Putative uncharacterized protein; Structural Genomics, Seattle Structural Genomics; 2.1A {Mycobacterium smegmatis str. MC2 155}
+Probab=4.20  E-value=7.9e+02  Score=23.17  Aligned_cols=14  Identities=36%  Similarity=0.759  Sum_probs=0.0  Template_Neff=9.300
+
+Q ADJ19217.1      291 SPGSMPL--FYTAELY  304 (385)
+Q Consensus       291 spGSmP~--~f~~ei~  304 (385)
+                      +|||||.  +|.|++-
+T Consensus         1 ~~~~~~~~l~~~G~~~   16 (199)
+T 3QUA_A            1 GPGSMVVARVYVGDVK   16 (199)
+T ss_dssp             ----------------
+T ss_pred             CCCceEEEEEEecCcc
+Confidence            4888885  4555544
+
+
+No 10
+>1XEZ_A hemolysin; Pore-forming toxin, hemolysin, cytolysin, pro-toxin; HET: BOG; 2.3A {Vibrio cholerae}
+Probab=3.87  E-value=8.8e+02  Score=29.63  Aligned_cols=36  Identities=25%  Similarity=0.352  Sum_probs=28.0  Template_Neff=5.100
+
+Q ADJ19217.1      276 SNDLKYTLFNFVYGYSPGSMPLFYT---AELYVRYGWLM  311 (385)
+Q Consensus       276 s~~IK~~vF~~vYGyspGSmP~~f~---~ei~vryG~~~  311 (385)
+                      ++..+.+-.+.+|||..|++-..=+   .++|+|.|..+
+T Consensus       583 t~Vfn~se~S~v~G~~~~~~~~~~~~~~~~l~irsg~~i  621 (721)
+T 1XEZ_A          583 TDVFNAQESSPILGYTQGKMNQQRVGQDNRLYVRAGAAI  621 (721)
+T ss_dssp             SSCCCCCCBCCCEECCCSEEEEEECCTTCEEEEEESSSE
+T ss_pred             ccccCcccccceeeecCCCcceEEecCCCcEEEEeeeeh
+Confidence            3455667788999999998855555   78999999755
+
+

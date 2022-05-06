@@ -1,0 +1,158 @@
+Query         ABI98986.1 Wzy [Escherichia coli]
+Match_columns 395
+No_of_seqs    45 out of 50
+Neff          4.36421
+Searched_HMMs 80799
+Date          Wed Feb  2 22:13:58 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp2yfta6d9/query.a3m -o /tmp/tmp2yfta6d9/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6PL5_A Peptidoglycan glycosylt  85.6    0.45 5.6E-06   49.2   0.0   68  273-346   234-301 (377)
+  2 6BAR_A Rod shape determining p  84.8    0.53 6.5E-06   48.0   0.0   69  273-347   216-284 (359)
+  3 5GRS_L Sterol regulatory eleme  13.6 1.7E+02   0.002   27.1   0.0   28  294-321    53-80  (103)
+  4 2JPL_A Bacteriocin lactococcin   9.9 2.6E+02  0.0032   21.5   0.0   21  289-309    12-32  (39)
+  5 4H62_V Mediator of RNA polymer   9.0   3E+02  0.0037   20.2   0.0   19  270-288     4-24  (31)
+  6 1ED7_A SOLUTION STRUCTURE OF T   5.3   6E+02  0.0074   17.8   0.0   15  153-167    10-24  (45)
+  7 5FGN_A Phosphoethanolamine tra   4.9 6.5E+02  0.0081   27.0   0.0   18  151-168   110-127 (550)
+  8 1AUU_A SACY; ANTITERMINATION,    4.2   8E+02  0.0099   20.2   0.0   14  290-303    20-33  (55)
+  9 3NJC_A YSLB protein; NESG, PSI   4.2   8E+02  0.0099   23.7   0.0   31  141-171    68-100 (158)
+ 10 3NJC_B YSLB protein; NESG, PSI   4.2   8E+02  0.0099   23.7   0.0   31  141-171    68-100 (158)
+
+No 1
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=85.60  E-value=0.45  Score=49.15  Aligned_cols=68  Identities=13%  Similarity=0.066  Sum_probs=34.2  Template_Neff=8.900
+
+Q ABI98986.1      273 VRWDQFTVLINDLTESVSNFVIGSGLGNVIKIQTPIRDYSAYIYYELQSVYFLNQLGVILFTLFLLINLLLTIK  346 (395)
+Q Consensus       273 ~R~DQ~~vLi~dl~~~~~~~lfG~GLGntv~v~t~~RdYsg~iYfELQslYilnQlGii~~~lFi~~~~~~~~k  346 (395)
+                      .|..|.+...+.+.   ...++|+|.|+.-..   .++|-++.+-|---.++..+.|+++.++++.+-..+..+
+T Consensus       234 ~~g~~~~~~~~~i~---~~~~~G~G~g~~~~~---~~~~~p~~h~d~i~~~i~~e~G~ig~~~~l~l~~~l~~~  301 (377)
+T 6PL5_A          234 GQGFQVIQSTIAIG---SGGLFGKGYGQGTQA---QLGFIPFRHTDFVFSVWAEEWGFVGVVGLLGLYGLLLAR  301 (377)
+T ss_dssp             HHHHHHHHHHHTTC---CCC-------------------CCSCSSTTHHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             CCcHHHHHHHHHHH---hcCCcCcCCCCcccc---hhhcCcCCCCCcHHHHHHHHccHHHHHHHHHHHHHHHHH
+Confidence            45666666666666   458999999986331   223444445555557788899999988877766555444
+
+
+No 2
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=84.84  E-value=0.53  Score=47.98  Aligned_cols=69  Identities=12%  Similarity=0.069  Sum_probs=30.0  Template_Neff=9.300
+
+Q ABI98986.1      273 VRWDQFTVLINDLTESVSNFVIGSGLGNVIKIQTPIRDYSAYIYYELQSVYFLNQLGVILFTLFLLINLLLTIKI  347 (395)
+Q Consensus       273 ~R~DQ~~vLi~dl~~~~~~~lfG~GLGntv~v~t~~RdYsg~iYfELQslYilnQlGii~~~lFi~~~~~~~~k~  347 (395)
+                      .|..|.....+.+.+   ..++|+|.|+.-..   .+++-++.+-|---.++..+.|+++.++++.+...+..+.
+T Consensus       216 ~~~~~~~~~~~~i~~---~~~~G~G~g~~~~~---~~~~~~~~h~d~i~~~i~~e~G~ig~~~~l~l~~~l~~~~  284 (359)
+T 6BAR_A          216 GQGFQVIQSTIAIGS---GGLFGKGYGQGTQA---QLGFIPFRHTDFVFSVWAEEWGFVGVVGLLGLYGLLLARL  284 (359)
+T ss_dssp             ------------CTT---TCCSCC------------------CCTTTTHHHHHHHSHHHHHHHHHHHHHHHHHHH
+T ss_pred             CCCHHHHHHHHHHHh---cCcccccCCccccc---ccccCccccCccHHHHHHHHcchHHHHHHHHHHHHHHHHH
+Confidence            367777777776664   57999999986332   2234444555555577889999999888777665554443
+
+
+No 3
+>5GRS_L Sterol regulatory element-binding protein 1; protein complex, PROTEIN TRANSPORT; 5.4A {Schizosaccharomyces pombe (strain 972 / ATCC 24843)}
+Probab=13.63  E-value=1.7e+02  Score=27.07  Aligned_cols=28  Identities=18%  Similarity=0.095  Sum_probs=22.5  Template_Neff=4.400
+
+Q ABI98986.1      294 IGSGLGNVIKIQTPIRDYSAYIYYELQS  321 (395)
+Q Consensus       294 fG~GLGntv~v~t~~RdYsg~iYfELQs  321 (395)
+                      .--|+||++.+.+..++.-++-|++-|+
+T Consensus        53 VAVgFGNvIKVi~~G~e~f~dly~~~~~   80 (103)
+T 5GRS_L           53 VAIVLGNYVALVGYGSEIFRDFYQIRNS   80 (103)
+T ss_pred             EEEEeCCEEEEEEecchhhccceeccCc
+Confidence            3458999999999888888888886654
+
+
+No 4
+>2JPL_A Bacteriocin lactococcin-G subunit alpha; Antimicrobial, Membrane bound, ANTIMICROBIAL PROTEIN; NMR {Lactococcus lactis}
+Probab=9.89  E-value=2.6e+02  Score=21.55  Aligned_cols=21  Identities=24%  Similarity=0.499  Sum_probs=16.2  Template_Neff=1.400
+
+Q ABI98986.1      289 VSNFVIGSGLGNVIKIQTPIR  309 (395)
+Q Consensus       289 ~~~~lfG~GLGntv~v~t~~R  309 (395)
+                      +...+.|+||||--+|+...|
+T Consensus        12 ~aaywv~k~lgnmsdvnqa~r   32 (39)
+T 2JPL_A           12 RVAYWVGKALGNLSDVNQASR   32 (39)
+T ss_dssp             SHHHHHHHHHTCCHHHHHHHH
+T ss_pred             HHHHHHHHHHcChhhhhHHHH
+Confidence            356789999999988876555
+
+
+No 5
+>4H62_V Mediator of RNA polymerase II; TRANSCRIPTION, MEDIATOR COMPLEX, NUCLEUS; HET: MES; 3.0A {Saccharomyces cerevisiae}
+Probab=9.01  E-value=3e+02  Score=20.17  Aligned_cols=19  Identities=32%  Similarity=0.412  Sum_probs=9.7  Template_Neff=1.100
+
+Q ABI98986.1      270 SLGVRWD--QFTVLINDLTES  288 (395)
+Q Consensus       270 S~g~R~D--Q~~vLi~dl~~~  288 (395)
+                      |--+|+|  |++.|+||--|.
+T Consensus         4 s~vtrfdekqieelldnciet   24 (31)
+T 4H62_V            4 SGVTRFDEKQIEELLDNCIET   24 (31)
+T ss_dssp             ------CHHHHHHHHHHHHHH
+T ss_pred             CCCccCCHHHHHHHHHHHHHH
+Confidence            5677886  888898876553
+
+
+No 6
+>1ED7_A SOLUTION STRUCTURE OF THE CHITIN-BINDING; twisted beta-sandwich, HYDROLASE; NMR {Bacillus circulans} SCOP: b.72.2.1
+Probab=5.25  E-value=6e+02  Score=17.85  Aligned_cols=15  Identities=27%  Similarity=0.505  Sum_probs=10.7  Template_Neff=9.200
+
+Q ABI98986.1      153 YGDVYTYGSGFYRVQ  167 (395)
+Q Consensus       153 wGDVYtyng~fyrIQ  167 (395)
+                      -||+-+++|..|+-.
+T Consensus        10 ~G~~V~~~g~~y~~~   24 (45)
+T 1ED7_A           10 AGQLVTYNGKTYKCL   24 (45)
+T ss_dssp             TTCCEEETTEEE--C
+T ss_pred             CCCEEEECCEEEEEE
+Confidence            389999999888644
+
+
+No 7
+>5FGN_A Phosphoethanolamine transferase EptA specific for; Endotoxin Biosynthesis, EptA, Membrane protein; HET: LMT, BGL; 2.75A {Neisseria meningitidis serogroup B}
+Probab=4.92  E-value=6.5e+02  Score=27.00  Aligned_cols=18  Identities=11%  Similarity=-0.049  Sum_probs=8.8  Template_Neff=11.000
+
+Q ABI98986.1      151 NDYGDVYTYGSGFYRVQI  168 (395)
+Q Consensus       151 ~gwGDVYtyng~fyrIQI  168 (395)
+                      .+++.+-.+-+....+.+
+T Consensus       110 t~~~e~~~~l~~~~~~~~  127 (550)
+T 5FGN_A          110 TTAAESARLITPGYVLWI  127 (550)
+T ss_pred             cCHHHHHHhcCHHHHHHH
+Confidence            356665555444444333
+
+
+No 8
+>1AUU_A SACY; ANTITERMINATION, RNA BINDING DOMAIN, TRANSCRIPTION; NMR {Bacillus subtilis} SCOP: b.35.2.1
+Probab=4.19  E-value=8e+02  Score=20.19  Aligned_cols=14  Identities=21%  Similarity=0.477  Sum_probs=10.1  Template_Neff=5.100
+
+Q ABI98986.1      290 SNFVIGSGLGNVIK  303 (395)
+Q Consensus       290 ~~~lfG~GLGntv~  303 (395)
+                      -..++|+|+|-.-.
+T Consensus        20 E~Iv~GkGIGF~kk   33 (55)
+T 1AUU_A           20 EKILLGAGIAFNKK   33 (55)
+T ss_dssp             EEEEECTTSSTTCC
+T ss_pred             EEEEEeccccCCCC
+Confidence            34689999986543
+
+
+No 9
+>3NJC_A YSLB protein; NESG, PSI, Structural Genomics, Protein; 1.693A {Bacillus subtilis subsp. subtilis}
+Probab=4.17  E-value=8e+02  Score=23.66  Aligned_cols=31  Identities=13%  Similarity=0.324  Sum_probs=24.3  Template_Neff=7.000
+
+Q ABI98986.1      141 YSALRHYFLENDYG--DVYTYGSGFYRVQIKGN  171 (395)
+Q Consensus       141 Y~~iR~~f~~~gwG--DVYtyng~fyrIQIkGN  171 (395)
+                      ...+.+++.+.|||  ++..-+...+++++.|+
+T Consensus        68 ~e~l~~~f~~~G~G~l~i~~~~~~~~~i~v~~~  100 (158)
+T 3NJC_A           68 WEEFPAFFEEAGWGTLTNVSAKKQELEFELEGP  100 (158)
+T ss_dssp             GGGHHHHHHHTTSCEEEEEEEETTEEEEEEECH
+T ss_pred             hhHHHHHHHHcCCCEEEEEEccCCEEEEEEECC
+Confidence            56678999999999  55544567788888887
+
+
+No 10
+>3NJC_B YSLB protein; NESG, PSI, Structural Genomics, Protein; HET: MSE; 1.693A {Bacillus subtilis subsp. subtilis}
+Probab=4.17  E-value=8e+02  Score=23.66  Aligned_cols=31  Identities=13%  Similarity=0.324  Sum_probs=24.3  Template_Neff=7.000
+
+Q ABI98986.1      141 YSALRHYFLENDYG--DVYTYGSGFYRVQIKGN  171 (395)
+Q Consensus       141 Y~~iR~~f~~~gwG--DVYtyng~fyrIQIkGN  171 (395)
+                      ...+.+++.+.|||  ++..-+...+++++.|+
+T Consensus        68 ~e~l~~~f~~~G~G~l~i~~~~~~~~~i~v~~~  100 (158)
+T 3NJC_B           68 WEEFPAFFEEAGWGTLTNVSAKKQELEFELEGP  100 (158)
+T ss_dssp             GGGHHHHHHHTTSCEEEEEECCTTEEEEEEECH
+T ss_pred             hhHHHHHHHHcCCCEEEEEEccCCEEEEEEECC
+Confidence            56678999999999  55544567788888887
+
+

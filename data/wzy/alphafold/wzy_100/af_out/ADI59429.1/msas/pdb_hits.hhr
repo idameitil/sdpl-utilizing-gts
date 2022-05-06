@@ -1,0 +1,178 @@
+Query         ADI59429.1 O-unit polymerase [Yersinia pseudotuberculosis]
+Match_columns 450
+No_of_seqs    4 out of 5
+Neff          2.18153
+Searched_HMMs 80799
+Date          Thu Feb  3 07:34:36 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpykkh78ca/query.a3m -o /tmp/tmpykkh78ca/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6PL5_A Peptidoglycan glycosylt  37.7      28 0.00034   35.2   0.0   85  349-433   248-342 (377)
+  2 6BAR_A Rod shape determining p  10.8 2.3E+02  0.0029   28.5   0.0   86  348-433   228-324 (359)
+  3 6BPZ_C Piezo-type mechanosensi   4.9 6.6E+02  0.0082   32.5   0.0   31  405-444  1047-1077(1423)
+  4 4RMO_I CptN Toxin; protein-RNA   4.8 6.7E+02  0.0083   25.1   0.0    9  425-433    42-50  (155)
+  5 6N4X_A Metabotropic glutamate    4.8 6.8E+02  0.0084   28.1   0.0   60   64-123   581-640 (877)
+  6 6N4V_C Coat protein; T4, icosa   4.7 6.9E+02  0.0085   26.3   0.0   16  346-361   118-133 (258)
+  7 3D5S_B Complement C3 , Fibrino   4.6 7.1E+02  0.0088   23.4   0.0   18  337-355     3-20  (297)
+  8 6N51_B Metabotropic glutamate    4.5 7.3E+02  0.0091   27.2   0.0   59   64-122   553-611 (804)
+  9 2RN0_A Integrin beta-3; transm   4.1 8.2E+02    0.01   17.8   0.0    6  371-376     7-12  (43)
+ 10 2ROZ_A peptide from Amyloid be   3.8 9.1E+02   0.011   18.9   0.0   10   62-71     17-26  (32)
+
+No 1
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=37.67  E-value=28  Score=35.25  Aligned_cols=85  Identities=16%  Similarity=0.111  Sum_probs=37.9  Template_Neff=8.900
+
+Q ADI59429.1      349 NLYPYGFGYGGSTFRTVYSLPEINMGI--YTMFTQISIITFLFYL----YLLTCSVITIRHSKTVVEKILCGGVLLMPF-  421 (450)
+Q Consensus       349 n~YP~G~gYgGStlRti~~lp~InmG~--y~m~tQ~si~~~~f~~----~li~~~~~~vr~sk~vv~kiL~gGvil~~~-  421 (450)
+                      +.--+|-|.|.++.+....+|+.+---  -.+..+.+++....++    .++....+..+|.|+--.|.+..|+..+.. 
+T Consensus       248 ~~~~~G~G~g~~~~~~~~~~p~~h~d~i~~~i~~e~G~ig~~~~l~l~~~l~~~~~~~~~~~~~~~~~~l~~g~~~~~~~  327 (377)
+T 6PL5_A          248 SGGLFGKGYGQGTQAQLGFIPFRHTDFVFSVWAEEWGFVGVVGLLGLYGLLLARLFALALACPRLSDRLFLSGFAGMLGF  327 (377)
+T ss_dssp             CCC----------------CCSCSSTTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHCCSHHHHHHHHHHHHHHHH
+T ss_pred             hcCCcCcCCCCcccchhhcCcCCCCCcHHHHHHHHccHHHHHHHHHHHHHHHHHHHHHHHhCCCHHHHHHHHHHHHHHHH
+Confidence            333468888877544323455443322  4455555555443333    333445555566677777877776665543 
+
+
+Q ADI59429.1      422 ---VFSADILWFVPT  433 (450)
+Q Consensus       422 ---if~~DILWFvPt  433 (450)
+                         .-....+..+|.
+T Consensus       328 q~~~ni~~~~g~~P~  342 (377)
+T 6PL5_A          328 QVVVNLGVALGVMPV  342 (377)
+T ss_dssp             HHHHHHHHHTTCSCC
+T ss_pred             HHHHHHHHHcCCCCC
+Confidence               345567778884
+
+
+No 2
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=10.77  E-value=2.3e+02  Score=28.54  Aligned_cols=86  Identities=15%  Similarity=0.099  Sum_probs=36.9  Template_Neff=9.300
+
+Q ADI59429.1      348 VNLYP-YGFGYGGSTFRTVYSLPEINMG--IYTMFTQISIITFLFY----LYLLTCSVITIRHSKTVVEKILCGGVLLMP  420 (450)
+Q Consensus       348 ln~YP-~G~gYgGStlRti~~lp~InmG--~y~m~tQ~si~~~~f~----~~li~~~~~~vr~sk~vv~kiL~gGvil~~  420 (450)
+                      ++.+| +|.|.|.+..+....+|+.+--  ...+..+.+++....+    ..++....+..+|.|+--.|.++.|+..+.
+T Consensus       228 i~~~~~~G~G~g~~~~~~~~~~~~~h~d~i~~~i~~e~G~ig~~~~l~l~~~l~~~~~~~~~~~~~~~~~~l~~g~~~~~  307 (359)
+T 6BAR_A          228 IGSGGLFGKGYGQGTQAQLGFIPFRHTDFVFSVWAEEWGFVGVVGLLGLYGLLLARLFALALACPRLSDRLFLSGFAGML  307 (359)
+T ss_dssp             CTTTCCSCC---------------CCTTTTHHHHHHHSHHHHHHHHHHHHHHHHHHHHHHHTTCSSHHHHHHHHHHHHHH
+T ss_pred             HHhcCcccccCCcccccccccCccccCccHHHHHHHHcchHHHHHHHHHHHHHHHHHHHHHHhCCCHHHHHHHHHHHHHH
+Confidence            33444 6888887654322334543332  2445555555543333    233445555556666777777766665443
+
+
+Q ADI59429.1      421 F----VFSADILWFVPT  433 (450)
+Q Consensus       421 ~----if~~DILWFvPt  433 (450)
+                      .    .-....+..+|.
+T Consensus       308 ~~q~~~~i~~~~g~~P~  324 (359)
+T 6BAR_A          308 GFQVVVNLGVALGVMPV  324 (359)
+T ss_dssp             HHHHHHHHHHHHC-CCC
+T ss_pred             HHHHHHHHHHHhCCCcC
+Confidence            2    334556667784
+
+
+No 3
+>6BPZ_C Piezo-type mechanosensitive ion channel component; mechanosensitive ion channel, MEMBRANE PROTEIN;{Mus musculus}
+Probab=4.85  E-value=6.6e+02  Score=32.45  Aligned_cols=31  Identities=26%  Similarity=0.576  Sum_probs=22.7  Template_Neff=6.200
+
+Q ADI59429.1      405 KTVVEKILCGGVLLMPFVFSADILWFVPTYWAPLILVSWF  444 (450)
+Q Consensus       405 k~vv~kiL~gGvil~~~if~~DILWFvPt~Waplil~~~~  444 (450)
+                      |....|...||.++..++.         ++|+||++.|..
+T Consensus      1047 k~~~vK~~~Gg~~ll~Li~---------iIw~PLllfS~~ 1077 (1423)
+T 6BPZ_C         1047 KKKIVKYGMGGLIILFLIA---------IIWFPLLFMSLI 1077 (1423)
+T ss_dssp             CCHHHCCCCCHHHHHHHHH---------HHHHHHHHHC--
+T ss_pred             CChHHHHHHHHHHHHHHHH---------HHHHHHHHHHhh
+Confidence            4567799999988776655         478999988764
+
+
+No 4
+>4RMO_I CptN Toxin; protein-RNA complex, pseudoknot, RNA twist; HET: A23, CA, MSE; 2.2A {Eubacterium rectale DSM 17629}
+Probab=4.81  E-value=6.7e+02  Score=25.10  Aligned_cols=9  Identities=33%  Similarity=1.073  Sum_probs=7.3  Template_Neff=4.700
+
+Q ADI59429.1      425 ADILWFVPT  433 (450)
+Q Consensus       425 ~DILWFvPt  433 (450)
+                      -||+|++|.
+T Consensus        42 ~~i~W~IPi   50 (155)
+T 4RMO_I           42 NGIYWMIPL   50 (155)
+T ss_dssp             TTCEEEEEE
+T ss_pred             CceEEEeec
+Confidence            479999996
+
+
+No 5
+>6N4X_A Metabotropic glutamate receptor 5; Cell Surface Receptor, MEMBRANE PROTEIN; HET: NAG; 4.0A {Homo sapiens}
+Probab=4.76  E-value=6.8e+02  Score=28.10  Aligned_cols=60  Identities=18%  Similarity=0.161  Sum_probs=0.0  Template_Neff=10.300
+
+Q ADI59429.1       64 FTNPAYIYILSVSEFFLIVNFFYLIYERCKFKTGFVFVQFVILCTLILIHFIIINIYFFV  123 (450)
+Q Consensus        64 ytNPaf~~~~s~aeF~~I~n~~~~i~~~~s~~~~l~~~~~~l~~~l~ii~~iml~~~~f~  123 (450)
+                      +++|..+.+..++-+..++..+.+++....+++...+.+...++.+++++.++.....+.
+T Consensus       581 ~~~~~~i~~~~~~~~~i~~~~~~~~~~~~~r~~~~ik~~~~~~~~~~l~g~~l~~~~~~~  640 (877)
+T 6N4X_A          581 WGDPEPIAAVVFACLGLLATLFVTVVFIIYRDTPVVKSSSRELCYIILAGICLGYLCTFC  640 (877)
+T ss_dssp             ------------------------------------------------------------
+T ss_pred             CCCHHHHHHHHHHHHHHHHHHHHHHHHHHccCCchhhcCCHHHHHHHHHHHHHHHHHHHH
+Confidence            455666555555555555566666666677777777777777777777776655544444
+
+
+No 6
+>6N4V_C Coat protein; T4, icosahedral, PP7, biotechnology, vaccine; 3.0A {Pseudomonas phage PP7}
+Probab=4.70  E-value=6.9e+02  Score=26.31  Aligned_cols=16  Identities=56%  Similarity=0.879  Sum_probs=13.9  Template_Neff=1.000
+
+Q ADI59429.1      346 QYVNLYPYGFGYGGST  361 (450)
+Q Consensus       346 ~Yln~YP~G~gYgGSt  361 (450)
+                      --+|+-|.|-.||||.
+T Consensus       118 lvvnlvplgrayggsk  133 (258)
+T 6N4V_C          118 LVVNLVPLGRAYGGSK  133 (258)
+T ss_dssp             HHHSCCCSCEESSBSE
+T ss_pred             heeeeeecccccCCcc
+Confidence            3578999999999996
+
+
+No 7
+>3D5S_B Complement C3 , Fibrinogen-binding protein; Protein-protein complex, cell adhesion-toxin complex; 2.3A {Homo sapiens} SCOP: a.102.4.4
+Probab=4.59  E-value=7.1e+02  Score=23.37  Aligned_cols=18  Identities=17%  Similarity=0.124  Sum_probs=13.3  Template_Neff=10.800
+
+Q ADI59429.1      337 GGRTVSLLMQYVNLYPYGF  355 (450)
+Q Consensus       337 GGR~~S~l~~Yln~YP~G~  355 (450)
+                      -||.++.+. ||..||+|-
+T Consensus         3 ~~~~~~~l~-~l~~yp~~c   20 (297)
+T 3D5S_B            3 RSTDAERLK-HLIVTPSGA   20 (297)
+T ss_pred             ccccchhHH-HHhcCCCCC
+Confidence            467777766 688899873
+
+
+No 8
+>6N51_B Metabotropic glutamate receptor 5, Nanobody; Cell Surface Receptor, MEMBRANE PROTEIN; HET: NAG, QUS; 4.0A {Homo sapiens}
+Probab=4.47  E-value=7.3e+02  Score=27.20  Aligned_cols=59  Identities=19%  Similarity=0.164  Sum_probs=36.7  Template_Neff=10.700
+
+Q ADI59429.1       64 FTNPAYIYILSVSEFFLIVNFFYLIYERCKFKTGFVFVQFVILCTLILIHFIIINIYFF  122 (450)
+Q Consensus        64 ytNPaf~~~~s~aeF~~I~n~~~~i~~~~s~~~~l~~~~~~l~~~l~ii~~iml~~~~f  122 (450)
+                      +++|..+.+..++-...++..+.+++....+++...+.+-..++.+++++.+++....+
+T Consensus       553 ~~~~~~i~~~~~~~~~i~~~~~~~~~~~~~~~~~~i~~~~~~~~~~~l~g~~~~~~~~~  611 (804)
+T 6N51_B          553 WGDPEPIAAVVFACLGLLATLFVTVVFIIYRDTPVVKSSSRELCYIILAGICLGYLCTF  611 (804)
+T ss_pred             CCcHHHHHHHHHHHHHHHHHHHHHHHHHHCCCCcccccCCHHHHHHHHHHHHHHHHHHH
+Confidence            56666666555555555555556666666777777777777777766666555544433
+
+
+No 9
+>2RN0_A Integrin beta-3; transmembrane helix, Alternative splicing, Cell; NMR {Homo sapiens}
+Probab=4.10  E-value=8.2e+02  Score=17.77  Aligned_cols=6  Identities=0%  Similarity=-0.014  Sum_probs=2.4  Template_Neff=8.000
+
+Q ADI59429.1      371 INMGIY  376 (450)
+Q Consensus       371 InmG~y  376 (450)
+                      .|.+.+
+T Consensus         7 ~~~~~i   12 (43)
+T 2RN0_A            7 PDILVV   12 (43)
+T ss_dssp             SCHHHH
+T ss_pred             CcHHHH
+Confidence            344433
+
+
+No 10
+>2ROZ_A peptide from Amyloid beta A4; Fe65L1, PID domain, amyloid precursor; NMR {Mus musculus}
+Probab=3.76  E-value=9.1e+02  Score=18.94  Aligned_cols=10  Identities=30%  Similarity=0.753  Sum_probs=7.9  Template_Neff=3.400
+
+Q ADI59429.1       62 WPFTNPAYIY   71 (450)
+Q Consensus        62 ~~ytNPaf~~   71 (450)
+                      --|.||+|.+
+T Consensus        17 nGYENPtYky   26 (32)
+T 2ROZ_A           17 NGYENPTYKF   26 (32)
+T ss_dssp             TCCBCSTTCC
+T ss_pred             cCCCCchhHh
+Confidence            3589999976
+
+

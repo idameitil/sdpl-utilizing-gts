@@ -1,0 +1,157 @@
+Query         CAI33309.1 oligosaccharide repeat unit polymerase Wzy [Streptococcus pneumoniae]
+Match_columns 386
+No_of_seqs    190 out of 562
+Neff          7.89254
+Searched_HMMs 80799
+Date          Wed Feb  2 08:25:21 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpl1yx1di6/query.a3m -o /tmp/tmpl1yx1di6/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6PL5_A Peptidoglycan glycosylt  42.2      21 0.00026   36.9   0.0   23  304-326   273-295 (377)
+  2 6BAR_A Rod shape determining p  41.6      22 0.00027   36.4   0.0   23  304-326   255-277 (359)
+  3 2HAC_B T-cell surface glycopro  12.2 1.9E+02  0.0024   19.2   0.0   12  310-321    11-22  (33)
+  4 2K1N_C Transition state regula   5.9 5.1E+02  0.0063   18.3   0.0   26  264-290    13-38  (55)
+  5 2NDJ_A Potassium voltage-gated   5.7 5.4E+02  0.0066   22.4   0.0   26  303-328    63-90  (112)
+  6 5ITJ_A AbrB family transcripti   4.4 7.5E+02  0.0093   17.3   0.0   25  264-289    12-36  (54)
+  7 2L35_A DAP12-NKG2C_TM, TYRO pr   4.0 8.4E+02    0.01   19.0   0.0   28  184-211    16-43  (63)
+  8 6JXR_a T-cell surface glycopro   3.3 1.1E+03   0.013   22.1   0.0   14  310-323    38-51  (164)
+  9 6N2Z_b2 Bacterial ATP synthase   3.0 1.2E+03   0.015   20.9   0.0   20  152-171     3-22  (168)
+ 10 2L66_B Transcriptional regulat   3.0 1.2E+03   0.015   16.0   0.0   24  264-288    11-34  (53)
+
+No 1
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=42.18  E-value=21  Score=36.93  Aligned_cols=23  Identities=17%  Similarity=0.145  Sum_probs=17.2  Template_Neff=8.900
+
+Q CAI33309.1      304 DSSYLNILFGFGIIILLLILVGY  326 (386)
+Q Consensus       304 DssYi~iLl~yGiI~~~lili~~  326 (386)
+                      |.-+.++..++|++..++++..+
+T Consensus       273 d~i~~~i~~e~G~ig~~~~l~l~  295 (377)
+T 6PL5_A          273 DFVFSVWAEEWGFVGVVGLLGLY  295 (377)
+T ss_dssp             TTHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             CcHHHHHHHHccHHHHHHHHHHH
+Confidence            44449999999999877665544
+
+
+No 2
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=41.64  E-value=22  Score=36.41  Aligned_cols=23  Identities=17%  Similarity=0.145  Sum_probs=17.2  Template_Neff=9.300
+
+Q CAI33309.1      304 DSSYLNILFGFGIIILLLILVGY  326 (386)
+Q Consensus       304 DssYi~iLl~yGiI~~~lili~~  326 (386)
+                      |.-+.+...++|++..++++..+
+T Consensus       255 d~i~~~i~~e~G~ig~~~~l~l~  277 (359)
+T 6BAR_A          255 DFVFSVWAEEWGFVGVVGLLGLY  277 (359)
+T ss_dssp             TTTHHHHHHHSHHHHHHHHHHHH
+T ss_pred             ccHHHHHHHHcchHHHHHHHHHH
+Confidence            44459999999999876665544
+
+
+No 3
+>2HAC_B T-cell surface glycoprotein CD3 zeta; transmembrane, alpha helix, MEMBRANE PROTEIN; NMR {Homo sapiens}
+Probab=12.16  E-value=1.9e+02  Score=19.18  Aligned_cols=12  Identities=50%  Similarity=0.932  Sum_probs=8.5  Template_Neff=2.500
+
+Q CAI33309.1      310 ILFGFGIIILLL  321 (386)
+Q Consensus       310 iLl~yGiI~~~l  321 (386)
+                      +|+.||+|.+.+
+T Consensus        11 iL~iYgiiiT~l   22 (33)
+T 2HAC_B           11 ILFIYGVILTAL   22 (33)
+T ss_dssp             HHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHH
+Confidence            567788887754
+
+
+No 4
+>2K1N_C Transition state regulatory protein abrB/DNA; AbrB, abrB8, DNA bound, Transition; NMR {Bacillus subtilis}
+Probab=5.95  E-value=5.1e+02  Score=18.31  Aligned_cols=26  Identities=12%  Similarity=0.078  Sum_probs=21.8  Template_Neff=8.600
+
+Q CAI33309.1      264 TGRLRLGSAAFNNFHITFFGQKIRWIY  290 (386)
+Q Consensus       264 S~RL~lg~~al~~Ygi~lfGq~I~~~~  290 (386)
+                      +||+.+.....++.|++- |+.++...
+T Consensus        13 ~~~i~iP~~~~~~~~l~~-g~~v~v~~   38 (55)
+T 2K1N_C           13 LGRVVIPIELRRTLGIAE-KDALEIYV   38 (55)
+T ss_dssp             TBCBCCCHHHCCCCCCCT-TSEEEEEE
+T ss_pred             CCeEEcCHHHHHHhCCCC-CCEEEEEE
+Confidence            789999999999999988 88876543
+
+
+No 5
+>2NDJ_A Potassium voltage-gated channel subfamily E; Estrogen, Membrane protein, Ion channel; NMR {Homo sapiens}
+Probab=5.72  E-value=5.4e+02  Score=22.37  Aligned_cols=26  Identities=31%  Similarity=0.577  Sum_probs=16.6  Template_Neff=3.100
+
+Q CAI33309.1      303 VDSSYLNILFGFGIIILLL--ILVGYYI  328 (386)
+Q Consensus       303 IDssYi~iLl~yGiI~~~l--ili~~~~  328 (386)
+                      -|++|+.+|+.-|.-.+..  ++++|+.
+T Consensus        63 ~dn~ylYIL~vm~ff~ff~~gimL~y~R   90 (112)
+T 2NDJ_A           63 DDNSYMYILFVMFLFAVTVGSLILGYTR   90 (112)
+T ss_dssp             CHHHHHHHHHHHHHHHHHHHHHHHCCCC
+T ss_pred             CchHHHHHHHHHHHHHHHHHHHHHHHHh
+Confidence            5889999998776655433  3344443
+
+
+No 6
+>5ITJ_A AbrB family transcriptional regulator; Histone-like protein, Complex, DNA-binding fold; HET: SO4, PG4; 1.63A {Sulfolobus solfataricus}
+Probab=4.40  E-value=7.5e+02  Score=17.31  Aligned_cols=25  Identities=12%  Similarity=0.219  Sum_probs=21.2  Template_Neff=8.700
+
+Q CAI33309.1      264 TGRLRLGSAAFNNFHITFFGQKIRWI  289 (386)
+Q Consensus       264 S~RL~lg~~al~~Ygi~lfGq~I~~~  289 (386)
+                      +|++.+-....++.|++- |+.+++.
+T Consensus        12 ~~~i~lP~~i~~~l~l~~-g~~v~i~   36 (54)
+T 5ITJ_A           12 NYQVTIPAKVRQKFQIKE-GDLVKVT   36 (54)
+T ss_dssp             GGEEECCHHHHTTSCCCT-TCEEEEE
+T ss_pred             CCeEEeCHHHHHHcCCCC-CCEEEEE
+Confidence            688999999999999987 8887654
+
+
+No 7
+>2L35_A DAP12-NKG2C_TM, TYRO protein tyrosine kinase-binding; Immunoreceptor, transmembrane assembly, DAP12-NKG2C complex; NMR {Homo sapiens}
+Probab=4.01  E-value=8.4e+02  Score=19.02  Aligned_cols=28  Identities=18%  Similarity=0.228  Sum_probs=17.4  Template_Neff=3.600
+
+Q CAI33309.1      184 EIITLFLINLYLYALTDTRAVFYYSTAA  211 (386)
+Q Consensus       184 ~~i~l~~i~~~iy~~TdsR~~f~l~~l~  211 (386)
+                      |.+.-..+...+|+.++-|.+-.+.++.
+T Consensus        16 Div~Tl~Ial~VY~~ak~~~ag~lgiic   43 (63)
+T 2L35_A           16 DLVLTVLIALAVYFLGRLGTAEVLGIIS   43 (63)
+T ss_dssp             HHHHHHHHHHHHHHHCCSSSCCTHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHhhhHHHHHHHHH
+Confidence            3444556667778888777765554433
+
+
+No 8
+>6JXR_a T-cell surface glycoprotein CD3 zeta; IMMUNE SYSTEM;{Homo sapiens}
+Probab=3.27  E-value=1.1e+03  Score=22.15  Aligned_cols=14  Identities=50%  Similarity=0.918  Sum_probs=10.6  Template_Neff=3.500
+
+Q CAI33309.1      310 ILFGFGIIILLLIL  323 (386)
+Q Consensus       310 iLl~yGiI~~~lil  323 (386)
+                      +|+.||||++.+++
+T Consensus        38 ~l~~ygii~t~l~~   51 (164)
+T 6JXR_a           38 ILFIYGVILTALFL   51 (164)
+T ss_pred             HHHHHHHHHHHHHH
+Confidence            67889998886544
+
+
+No 9
+>6N2Z_b2 Bacterial ATP synthase; Bacterial ATP synthase, HYDROLASE; HET: ADP, ATP; 3.0A {Bacillus sp. PS3}
+Probab=3.03  E-value=1.2e+03  Score=20.87  Aligned_cols=20  Identities=15%  Similarity=0.238  Sum_probs=12.4  Template_Neff=9.300
+
+Q CAI33309.1      152 ALGYKYSTFSSNYFFHVTIF  171 (386)
+Q Consensus       152 slGf~ypt~~a~~~f~i~l~  171 (386)
+                      |+|-.+++.+...+.++++.
+T Consensus         3 ~~~~~~~~~~~~~i~F~il~   22 (168)
+T 6N2Z_b2           3 AHGISGGTIIYQLLMFIILL   22 (168)
+T ss_pred             cccCCHHHHHHHHHHHHHHH
+Confidence            56777777666665554443
+
+
+No 10
+>2L66_B Transcriptional regulator, AbrB family; DNA binding protein, TRANSCRIPTION REGULATOR; NMR {Sulfolobus solfataricus}
+Probab=2.96  E-value=1.2e+03  Score=16.03  Aligned_cols=24  Identities=13%  Similarity=0.236  Sum_probs=0.0  Template_Neff=8.900
+
+Q CAI33309.1      264 TGRLRLGSAAFNNFHITFFGQKIRW  288 (386)
+Q Consensus       264 S~RL~lg~~al~~Ygi~lfGq~I~~  288 (386)
+                      +||+.+-.+..++.|++- |+.+.+
+T Consensus        11 ~g~v~iP~~~~~~l~~~~-g~~v~i   34 (53)
+T 2L66_B           11 NYQVTIPAKVRQKFQIKE-GDLVKV   34 (53)
+T ss_dssp             SSCBCCCHHHHHHSCCCT-TCEEEE
+T ss_pred             CCeEEeCHHHHHHcCCCC-CCEEEE
+
+

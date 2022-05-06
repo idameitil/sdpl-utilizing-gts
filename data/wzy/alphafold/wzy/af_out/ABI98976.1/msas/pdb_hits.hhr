@@ -1,0 +1,198 @@
+Query         ABI98976.1 Wzy [Escherichia coli]
+Match_columns 368
+No_of_seqs    138 out of 185
+Neff          7.09666
+Searched_HMMs 80799
+Date          Wed Apr 27 12:29:58 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpwn_ars3u/query.a3m -o /tmp/tmpwn_ars3u/output.hhr -maxseq 1000000 -d /mnt/disks/data/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 3M1F_V Actin, alpha skeletal m  69.5     3.4 4.3E-05   26.6   0.0   10  123-132     9-18  (31)
+  2 5EZM_A 4-amino-4-deoxy-L-arabi  48.5      15 0.00018   39.6   0.0  105   65-170    89-214 (578)
+  3 5F15_A 4-amino-4-deoxy-L-arabi  48.5      15 0.00018   39.6   0.0  105   65-170    89-214 (578)
+  4 5OGL_A Peptide-binding protein  22.8      74 0.00091   35.8   0.0  103   63-165    79-199 (713)
+  5 6P25_B Dolichyl-diphosphooligo  14.4 1.5E+02  0.0019   34.1   0.0   87   85-171   154-259 (759)
+  6 6S7T_A Dolichyl-diphosphooligo  12.3 1.9E+02  0.0024   33.8   0.0   42  128-169   222-270 (826)
+  7 6SNH_X Dolichyl pyrophosphate   10.1 2.5E+02  0.0031   31.5   0.0   49  126-174   215-263 (562)
+  8 6GVW_E BRCA1-A complex subunit   8.9   3E+02  0.0037   21.4   0.0    8  361-368     8-15  (64)
+  9 6QDV_F Eukaryotic initiation f   6.8 4.3E+02  0.0053   23.7   0.0   15   37-51     13-28  (122)
+ 10 6P25_A Dolichyl-diphosphooligo   5.1 6.2E+02  0.0076   30.1   0.0   17  155-171   227-243 (817)
+
+No 1
+>3M1F_V Actin, alpha skeletal muscle, Putative; ACTIN, ACTIN-BINDING PROTEIN, CROSSLINKING, NUCLEATOR; HET: ATP; 2.89A {Oryctolagus cuniculus}
+Probab=69.45  E-value=3.4  Score=26.65  Aligned_cols=10  Identities=70%  Similarity=0.953  Sum_probs=8.3  Template_Neff=1.500
+
+Q ABI98976.1      123 FAEQIRQGVA  132 (368)
+Q Consensus       123 ~~~~iRQ~iA  132 (368)
+                      .|||||||+-
+T Consensus         9 LMEqIRqGVk   18 (31)
+T 3M1F_V            9 LMEQIRQGVK   18 (31)
+T ss_pred             HHHHHHHhhh
+Confidence            4899999974
+
+
+No 2
+>5EZM_A 4-amino-4-deoxy-L-arabinose (L-Ara4N) transferase; membrane protein, lipid glycosyltransferase, zinc; HET: EPE, PC, PO4, MPG, DSL; 2.7A {Cupriavidus metallidurans (strain ATCC 43123 / DSM 2839 / NBRC 102507 / CH34)}
+Probab=48.46  E-value=15  Score=39.55  Aligned_cols=105  Identities=10%  Similarity=-0.066  Sum_probs=51.8  Template_Neff=10.800
+
+Q ABI98976.1       65 EPGFTFILFVNKL-LNLDY---HWVVVTCTLILSVNVYKYIKVK-NHP-N-FC-LLFVFSIFGFMEF-AEQIRQGVAISF  135 (368)
+Q Consensus        65 EPGf~~l~~i~~~-l~~~~---~~~~~~~~li~~~~iy~f~k~~-~~~-~-~~-~~~~f~~~~~~~~-~~~iRQ~iAisi  135 (368)
+                      -|++.++...... .|.+.   .....+.+......+|+..|+. +.. . .+ +++.++ ..+... ........+..+
+T Consensus        89 ppl~~~l~~~~~~l~g~~~~~~rl~~~l~~~l~~~~~y~~~~~~~~~~~a~~a~~l~~~~-p~~~~~~~~~~~d~~~~~~  167 (578)
+T 5EZM_A           89 PPFHMWVTVVGYELFGLGEWQARLAVALSGLLGIGVSMMAARRWFGARAAAFTGLALLAA-PMWSVAAHFNTLDMTLAGV  167 (578)
+T ss_dssp             CSHHHHHHHHHHHHHCSSHHHHTHHHHHHHHHHHHHHHHHHHHHHCHHHHHHHHHHHHHC-HHHHHHHTSCCHHHHHHHH
+T ss_pred             CHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHHHHHHHHHcCHHHHHHHHHHHHHh-HHHHHHHhHHchHHHHHHH
+Confidence            4788877765444 34332   2334444445555667777653 222 1 11 122222 122222 234566677766
+
+
+Q ABI98976.1      136 ILLAVDNLLV---KK------NKKF---IFYVICAAMFHISAIVCLL  170 (368)
+Q Consensus       136 iLla~~~l~~---~k------~~kf---~~~v~lA~~FH~SAii~Ll  170 (368)
+                      .++++..+.+   ++      ++..   .+...+|.+.|..+.+.++
+T Consensus       168 ~~l~l~~~~~~~~~~~~~~~~~~~~~~~g~~~gl~~l~k~~~~~~~~  214 (578)
+T 5EZM_A          168 MSCVLAFMLMGQHPDASVAARRGWMVACWAAMGVAILTKGLVGIALP  214 (578)
+T ss_dssp             HHHHHHHHHHHTCTTSCHHHHHHHHHHHHHHHHHHHHHHTTHHHHHH
+T ss_pred             HHHHHHHHHHhhCCCcchhhchHHHHHHHHHHHHHHHhchhHHHHHH
+Confidence            6666655432   11      2222   2345568889988766543
+
+
+No 3
+>5F15_A 4-amino-4-deoxy-L-arabinose (L-Ara4N) transferase; membrane protein, lipid glycosyltransferase, GT-C; HET: EPE, MPG, 5TR; 3.2A {Cupriavidus metallidurans (strain ATCC 43123 / DSM 2839 / NBRC 102507 / CH34)}
+Probab=48.46  E-value=15  Score=39.55  Aligned_cols=105  Identities=10%  Similarity=-0.066  Sum_probs=51.8  Template_Neff=10.800
+
+Q ABI98976.1       65 EPGFTFILFVNKL-LNLDY---HWVVVTCTLILSVNVYKYIKVK-NHP-N-FC-LLFVFSIFGFMEF-AEQIRQGVAISF  135 (368)
+Q Consensus        65 EPGf~~l~~i~~~-l~~~~---~~~~~~~~li~~~~iy~f~k~~-~~~-~-~~-~~~~f~~~~~~~~-~~~iRQ~iAisi  135 (368)
+                      -|++.++...... .|.+.   .....+.+......+|+..|+. +.. . .+ +++.++ ..+... ........+..+
+T Consensus        89 ppl~~~l~~~~~~l~g~~~~~~rl~~~l~~~l~~~~~y~~~~~~~~~~~a~~a~~l~~~~-p~~~~~~~~~~~d~~~~~~  167 (578)
+T 5F15_A           89 PPFHMWVTVVGYELFGLGEWQARLAVALSGLLGIGVSMMAARRWFGARAAAFTGLALLAA-PMWSVAAHFNTLDMTLAGV  167 (578)
+T ss_dssp             CSHHHHHHHHHHHHHCSSHHHHSHHHHHHHHHHHHHHHHHHHHHHCHHHHHHHHHHHHHC-HHHHHHTTSCSHHHHHHHH
+T ss_pred             CHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHHHHHHHHHcCHHHHHHHHHHHHHh-HHHHHHHhHHchHHHHHHH
+Confidence            4788877765444 34332   2334444445555667777653 222 1 11 122222 122222 234566677766
+
+
+Q ABI98976.1      136 ILLAVDNLLV---KK------NKKF---IFYVICAAMFHISAIVCLL  170 (368)
+Q Consensus       136 iLla~~~l~~---~k------~~kf---~~~v~lA~~FH~SAii~Ll  170 (368)
+                      .++++..+.+   ++      ++..   .+...+|.+.|..+.+.++
+T Consensus       168 ~~l~l~~~~~~~~~~~~~~~~~~~~~~~g~~~gl~~l~k~~~~~~~~  214 (578)
+T 5F15_A          168 MSCVLAFMLMGQHPDASVAARRGWMVACWAAMGVAILTKGLVGIALP  214 (578)
+T ss_dssp             HHHHHHHHHHHTCTTSCHHHHHHHHHHHHHHHHHHHHHHTTHHHHHH
+T ss_pred             HHHHHHHHHHhhCCCcchhhchHHHHHHHHHHHHHHHhchhHHHHHH
+Confidence            6666655432   11      2222   2345568889988766543
+
+
+No 4
+>5OGL_A Peptide-binding protein, Substrate mimicking peptide; Oligosaccharyltransferase, Complex, Protein N-glycosylation, Bacteria; HET: 9UB, PPN; 2.7A {Campylobacter lari (strain RM2100 / D67 / ATCC BAA-1060)}
+Probab=22.75  E-value=74  Score=35.83  Aligned_cols=103  Identities=7%  Similarity=0.070  Sum_probs=48.9  Template_Neff=9.900
+
+Q ABI98976.1       63 IYEPGFTFILFVNK-LLNLDY----HWVVVTCTLILSVNVYKYIKVKNHPNFC--LLFVFSIFGFMEFA-E--QI-RQGV  131 (368)
+Q Consensus        63 ~~EPGf~~l~~i~~-~l~~~~----~~~~~~~~li~~~~iy~f~k~~~~~~~~--~~~~f~~~~~~~~~-~--~i-RQ~i  131 (368)
+                      .++|++..+..... ..|.+.    .+...+.+.+..+.+|...|+...+..+  ...++......... .  .. -+.+
+T Consensus        79 ~~~p~~~~l~~~~~~~~g~~~~~~~~~~~~l~~~l~~~~~~~l~~~l~~~~~~~~a~ll~~~~p~~~~~~~~~~~~~~~l  158 (713)
+T 5OGL_A           79 YFGSSLSTLTYWLYSILPFSFESIILYMSTFFASLIVVPIILIAREYKLTTYGFIAALLGSIANSYYNRTMSGYYDTDML  158 (713)
+T ss_dssp             CTTCHHHHHHHHHHHHSCSCHHHHHHHHHHHHGGGGHHHHHHHHHHTTCHHHHHHHHHHHHHCHHHHHTTSTTCCSGGGG
+T ss_pred             cccchHHHHHHHHHHHCCCCHHHHHHHHHHHHHHHHHHHHHHHHHHhcCchHHHHHHHHHHHcHHHHHhhhccCCCCHHH
+Confidence            35688887775433 345442    2334445555556667776643322222  11222222222211 1  11 2566
+
+
+Q ABI98976.1      132 AISFILLAVDNLLV---KKNKKF----IFYVICAAMFHISA  165 (368)
+Q Consensus       132 AisiiLla~~~l~~---~k~~kf----~~~v~lA~~FH~SA  165 (368)
+                      +..+.++++..+.+   ++.++.    .+...++...|.++
+T Consensus       159 ~~~~~~l~l~~~~~~~~~~~~~~~~~~~l~~~l~~~~~~~~  199 (713)
+T 5OGL_A          159 VLVLPMLILLTFIRLTINKDIFTLLLSPVFIMIYLWWYPSS  199 (713)
+T ss_dssp             TTHHHHHHHHHHHHHHHHCCTTHHHHHHHHHHHHHHHCGGG
+T ss_pred             HHHHHHHHHHHHHHHHhCcchHHHHHHHHHHHHHHhhCcch
+Confidence            67666666655543   222222    22344567788766
+
+
+No 5
+>6P25_B Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunits (E.C.2.4.99.18); complex, TRANSFERASE, glycosylation; HET: NAG, NNM, CPL; 3.2A {Saccharomyces cerevisiae W303}
+Probab=14.38  E-value=1.5e+02  Score=34.13  Aligned_cols=87  Identities=7%  Similarity=-0.012  Sum_probs=33.6  Template_Neff=8.800
+
+Q ABI98976.1       85 VVVTCTLILSVNVYKYIKVKN-HPNFCLL--FVFSIF--GFMEFAEQIRQGVAISFILLAVDNLLVK---KN-------K  149 (368)
+Q Consensus        85 ~~~~~~li~~~~iy~f~k~~~-~~~~~~~--~~f~~~--~~~~~~~~iRQ~iAisiiLla~~~l~~~---k~-------~  149 (368)
+                      +.+++++.....+|...|+.. .+..+++  .++.+.  .........-.+.+..++++++..+.+.   +.       +
+T Consensus       154 ~s~l~~~l~~~~ly~i~r~l~~~~~~a~laall~~~~p~~~~~s~~~~~d~~~~~f~~lal~~l~~~~~~~~~~~~~~~~  233 (759)
+T 6P25_B          154 FNASFSALCVPLAYFTAKAIGFSLPTVWLMTVLVLFENSYSTLGRFILLDSMLLFFTVASFFSFVMFHNQRSKPFSRKWW  233 (759)
+T ss_dssp             HHHHHHHHHHHHHHHHHH------------HHHH-SCHHHHHHTSSSCSHHHHHHHH------------HSSSTTSHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHCHHHHHHHhHHHHHHHHHHHHHHHHHHHHHHHHhCCCCCChhHH
+Confidence            334445555566777777543 3322221  111111  1111122444566666676666554432   11       1
+
+
+Q ABI98976.1      150 KF----IFYVICAAMFHISAIVCLLF  171 (368)
+Q Consensus       150 kf----~~~v~lA~~FH~SAii~Ll~  171 (368)
+                      +.    -+...+|...|.++++.++.
+T Consensus       234 ~~l~l~gl~lgla~~~K~~~l~~~~~  259 (759)
+T 6P25_B          234 KWLLITGISLGCTISVKMVGLFIITM  259 (759)
+T ss_dssp             HHHHHHHHHHHHHHHHCGGGHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHhchhHHHHHHH
+Confidence            22    23345578889998876643
+
+
+No 6
+>6S7T_A Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3B (E.C.2.4.99.18); N-glycosylation, Oligosaccharyltransferase, OSTB, TRANSFERASE; HET: MAN, EGY, KZB, BMA, 0K3, NAG; 3.5A {Homo sapiens}
+Probab=12.28  E-value=1.9e+02  Score=33.79  Aligned_cols=42  Identities=7%  Similarity=-0.001  Sum_probs=22.4  Template_Neff=8.600
+
+Q ABI98976.1      128 RQGVAISFILLAVDNLLVKK---NKKFI----FYVICAAMFHISAIVCL  169 (368)
+Q Consensus       128 RQ~iAisiiLla~~~l~~~k---~~kf~----~~v~lA~~FH~SAii~L  169 (368)
+                      -+++++.++++++..+.+..   .++..    +...++...|...++.+
+T Consensus       222 ~e~~~i~~l~l~ly~~~r~~~~~~~~~~~l~gl~~~l~~~~~~~~~~~~  270 (826)
+T 6S7T_A          222 NEGIAIFALQFTYYLWVKSVKTGSVFWTMCCCLSYFYMVSAWGGYVFII  270 (826)
+T ss_dssp             SHHHHHHHHHHHHHHHHHHHHHCCHHHHHHHHHHHHHHHHHCTTHHHHH
+T ss_pred             hHHHHHHHHHHHHHHHHHHhhcCCHHHHHHHHHHHHHHHHhhccHHHHH
+Confidence            36777777777776554432   12221    22333555677775544
+
+
+No 7
+>6SNH_X Dolichyl pyrophosphate Man9GlcNAc2 alpha-1,3-glucosyltransferase (E.C.2.4.1.267); Glycosyltransferase, Glucosyltransferase, GT-C, N-Glycosylation, MEMBRANE; HET: LMH;{Saccharomyces cerevisiae}
+Probab=10.05  E-value=2.5e+02  Score=31.49  Aligned_cols=49  Identities=14%  Similarity=0.154  Sum_probs=39.2  Template_Neff=7.300
+
+Q ABI98976.1      126 QIRQGVAISFILLAVDNLLVKKNKKFIFYVICAAMFHISAIVCLLFLYL  174 (368)
+Q Consensus       126 ~iRQ~iAisiiLla~~~l~~~k~~kf~~~v~lA~~FH~SAii~Ll~~~l  174 (368)
+                      .-=.++..++.++|+..+.+++.....+...+|..+-..++..++.++.
+T Consensus       215 gQ~d~i~l~l~llsl~~l~~~~~~la~v~fglal~~K~~~l~~~P~~~~  263 (562)
+T 6SNH_X          215 FQYNSVMLGLTAYAINNLLDEYYAMAAVCFVLSICFKQMALYYAPIFFA  263 (562)
+T ss_dssp             CCCHHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHCGGGGGGHHHHHH
+T ss_pred             cchHHHHHHHHHHHHHHHHccChHHHHHHHHHHHHhhHHHHHHHHHHHH
+Confidence            3457899999999999987777777777888899999999887765543
+
+
+No 8
+>6GVW_E BRCA1-A complex subunit Abraxas 1; Deubiquitinase complex, DUB, Lysine-63 linkage; 3.75A {Mus musculus}
+Probab=8.86  E-value=3e+02  Score=21.44  Aligned_cols=8  Identities=38%  Similarity=1.028  Sum_probs=5.7  Template_Neff=1.900
+
+Q ABI98976.1      361 HGIQYCRR  368 (368)
+Q Consensus       361 ~~~~fc~~  368 (368)
+                      -|++||++
+T Consensus         8 WGvPFCP~   15 (64)
+T 6GVW_E            8 WGIPFCPA   15 (64)
+T ss_dssp             TCCSSCCT
+T ss_pred             eeCccCCC
+Confidence            47888875
+
+
+No 9
+>6QDV_F Eukaryotic initiation factor 4A-III, RNA-binding; spliceosome, RNA, complex, SPLICING; HET: GTP, I6P, ATP, SEP; 3.3A {Homo sapiens}
+Probab=6.84  E-value=4.3e+02  Score=23.75  Aligned_cols=15  Identities=27%  Similarity=0.862  Sum_probs=11.4  Template_Neff=3.500
+
+Q ABI98976.1       37 YSWGYDWIRYRE-YYE   51 (368)
+Q Consensus        37 y~~G~Dwi~Y~~-~Y~   51 (368)
+                      -..|+||..|.+ +||
+T Consensus        13 V~tGyeWnkYNqtHYD   28 (122)
+T 6QDV_F           13 VHTGFAWNKYNQTHYD   28 (122)
+T ss_pred             eeccchhhhhhccccC
+Confidence            357999999987 454
+
+
+No 10
+>6P25_A Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunits (E.C.2.4.99.18); complex, TRANSFERASE, glycosylation; HET: NNM, NAG, CPL; 3.2A {Saccharomyces cerevisiae W303}
+Probab=5.13  E-value=6.2e+02  Score=30.08  Aligned_cols=17  Identities=6%  Similarity=0.012  Sum_probs=11.5  Template_Neff=7.300
+
+Q ABI98976.1      155 VICAAMFHISAIVCLLF  171 (368)
+Q Consensus       155 v~lA~~FH~SAii~Ll~  171 (368)
+                      ..+|+..+.++++.++.
+T Consensus       227 lGLa~stK~~gl~~i~~  243 (817)
+T 6P25_A          227 LGMASSSKWVGLFTVTW  243 (817)
+T ss_dssp             HHHHHTTCTTHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHH
+Confidence            44577778888776643
+
+

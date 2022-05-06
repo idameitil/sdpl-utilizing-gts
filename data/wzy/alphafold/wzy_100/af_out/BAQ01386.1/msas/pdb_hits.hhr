@@ -1,0 +1,155 @@
+Query         BAQ01386.1 O-antigen polymerase [Escherichia coli]
+Match_columns 503
+No_of_seqs    16 out of 16
+Neff          3.99207
+Searched_HMMs 80799
+Date          Fri Feb  4 01:47:51 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp392lo1la/query.a3m -o /tmp/tmp392lo1la/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6BAR_A Rod shape determining p  10.9 2.3E+02  0.0028   30.5   0.0   39  413-451   251-291 (359)
+  2 6PL5_A Peptidoglycan glycosylt  10.0 2.6E+02  0.0032   30.6   0.0   39  413-451   269-309 (377)
+  3 3WGU_G Sodium/potassium-transp   7.8 3.6E+02  0.0044   24.1   0.0   29   96-124    17-45  (65)
+  4 3WGV_E Sodium/potassium-transp   7.8 3.6E+02  0.0044   24.1   0.0   29   96-124    17-45  (65)
+  5 4HYT_E Sodium/potassium-transp   7.8 3.6E+02  0.0044   24.1   0.0   29   96-124    17-45  (65)
+  6 4XE5_G Sodium/potassium-transp   7.2   4E+02  0.0049   23.4   0.0   30   93-122     6-35  (58)
+  7 2JO1_A Phospholemman; FXYD1, N   6.8 4.3E+02  0.0054   24.1   0.0   30   95-124     6-35  (72)
+  8 2MKV_A Sodium/potassium-transp   5.9 5.2E+02  0.0064   23.2   0.0   30   96-125    15-44  (64)
+  9 6HWH_S Ubiquinol-cytochrome c    5.5 5.6E+02   0.007   25.7   0.0   48  374-423    45-96  (139)
+ 10 1CF7_A TRANSCRIPTION FACTOR E2   5.2 6.1E+02  0.0075   22.1   0.0   14  354-367    44-57  (76)
+
+No 1
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=10.92  E-value=2.3e+02  Score=30.51  Aligned_cols=39  Identities=13%  Similarity=0.115  Sum_probs=28.1  Template_Neff=9.300
+
+Q BAQ01386.1      413 RPHSF--TNYIFLKGGLIFLIYYLGVILLFMNQSYKMMKKT  451 (503)
+Q Consensus       413 ~PHsF--in~iLLK~GligL~~Y~~~il~~~~k~~~~~k~~  451 (503)
+                      ++|+-  ...+....|+++.+.++........+..+..++.
+T Consensus       251 ~~h~d~i~~~i~~e~G~ig~~~~l~l~~~l~~~~~~~~~~~  291 (359)
+T 6BAR_A          251 FRHTDFVFSVWAEEWGFVGVVGLLGLYGLLLARLFALALAC  291 (359)
+T ss_dssp             -CCTTTTHHHHHHHSHHHHHHHHHHHHHHHHHHHHHHHTTC
+T ss_pred             cccCccHHHHHHHHcchHHHHHHHHHHHHHHHHHHHHHHhC
+Confidence            45554  3778899999999988888777777776655543
+
+
+No 2
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=10.03  E-value=2.6e+02  Score=30.64  Aligned_cols=39  Identities=13%  Similarity=0.115  Sum_probs=28.0  Template_Neff=8.900
+
+Q BAQ01386.1      413 RPHSFT--NYIFLKGGLIFLIYYLGVILLFMNQSYKMMKKT  451 (503)
+Q Consensus       413 ~PHsFi--n~iLLK~GligL~~Y~~~il~~~~k~~~~~k~~  451 (503)
+                      ++|+--  ..+....|+++.+.++........+..+..++.
+T Consensus       269 ~~h~d~i~~~i~~e~G~ig~~~~l~l~~~l~~~~~~~~~~~  309 (377)
+T 6PL5_A          269 FRHTDFVFSVWAEEWGFVGVVGLLGLYGLLLARLFALALAC  309 (377)
+T ss_dssp             SCSSTTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHC
+T ss_pred             CCCCCcHHHHHHHHccHHHHHHHHHHHHHHHHHHHHHHHhC
+Confidence            345443  788899999999888888777766666655443
+
+
+No 3
+>3WGU_G Sodium/potassium-transporting ATPase subunit alpha-1 (E.C.3.6.3.9); membrane protein, ion pump, ATPase; HET: ADP, NAG, CLR, PC1, ALF; 2.8A {Sus scrofa}
+Probab=7.80  E-value=3.6e+02  Score=24.13  Aligned_cols=29  Identities=24%  Similarity=0.294  Sum_probs=21.1  Template_Neff=3.600
+
+Q BAQ01386.1       96 VGSFYSFHSVQLWGLGLSVVAIIYIGLIA  124 (503)
+Q Consensus        96 ~~~f~s~~sV~i~~ltL~~~~~i~i~li~  124 (503)
+                      ...+|-++|++++|+....++.+.-.++.
+T Consensus        17 ~pF~YDY~tLRiGGLi~A~vLf~~GIlii   45 (65)
+T 3WGU_G           17 DPFYYDYETVRNGGLIFAALAFIVGLIII   45 (65)
+T ss_pred             CCCCCCHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            45678999999999988777755443333
+
+
+No 4
+>3WGV_E Sodium/potassium-transporting ATPase subunit alpha-1 (E.C.3.6.3.9); membrane protein, ion pump, ATPase; HET: NAG, ADP, EFO, ALF, PC1, CLR; 2.8A {Sus scrofa}
+Probab=7.80  E-value=3.6e+02  Score=24.13  Aligned_cols=29  Identities=24%  Similarity=0.294  Sum_probs=21.1  Template_Neff=3.600
+
+Q BAQ01386.1       96 VGSFYSFHSVQLWGLGLSVVAIIYIGLIA  124 (503)
+Q Consensus        96 ~~~f~s~~sV~i~~ltL~~~~~i~i~li~  124 (503)
+                      ...+|-++|++++|+....++.+.-.++.
+T Consensus        17 ~pF~YDY~tLRiGGLi~A~vLf~~GIlii   45 (65)
+T 3WGV_E           17 DPFYYDYETVRNGGLIFAALAFIVGLIII   45 (65)
+T ss_pred             CCCCCCHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            45678999999999988777755443333
+
+
+No 5
+>4HYT_E Sodium/potassium-transporting ATPase subunit alpha-1 (E.C.3.6.3.9); membrane transporter, HYDROLASE-MEMBRANE PROTEIN complex; HET: 17F, OBN, 1DS, NAG, 1AT, CE1, CLR, PHD; 3.404A {Sus scrofa}
+Probab=7.80  E-value=3.6e+02  Score=24.13  Aligned_cols=29  Identities=24%  Similarity=0.294  Sum_probs=21.1  Template_Neff=3.600
+
+Q BAQ01386.1       96 VGSFYSFHSVQLWGLGLSVVAIIYIGLIA  124 (503)
+Q Consensus        96 ~~~f~s~~sV~i~~ltL~~~~~i~i~li~  124 (503)
+                      ...+|-++|++++|+....++.+.-.++.
+T Consensus        17 ~pF~YDY~tLRiGGLi~A~vLf~~GIlii   45 (65)
+T 4HYT_E           17 DPFYYDYETVRNGGLIFAALAFIVGLIII   45 (65)
+T ss_pred             CCCCCCHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            45678999999999988777755443333
+
+
+No 6
+>4XE5_G Sodium/potassium-transporting ATPase subunit alpha-1 (E.C.3.6.3.9); alpha-helical transmembrane protein, ATPase, sodium; HET: CLR, BFD, OBN; 3.901A {Bos taurus}
+Probab=7.20  E-value=4e+02  Score=23.38  Aligned_cols=30  Identities=23%  Similarity=0.283  Sum_probs=21.7  Template_Neff=3.500
+
+Q BAQ01386.1       93 NQEVGSFYSFHSVQLWGLGLSVVAIIYIGL  122 (503)
+Q Consensus        93 ~~~~~~f~s~~sV~i~~ltL~~~~~i~i~l  122 (503)
+                      .+....+|-++|++++|+....++.+.-.+
+T Consensus         6 ~e~~pF~YDY~tLRiGGLi~A~vLfi~Gil   35 (58)
+T 4XE5_G            6 GTEDPFYYDYETVRNGGLIFAALAFIVGLV   35 (58)
+T ss_pred             CCCCCCCCCHHHHHHHHHHHHHHHHHHHHH
+Confidence            344567789999999999887777544433
+
+
+No 7
+>2JO1_A Phospholemman; FXYD1, Na,K-ATPase, Micelle, HYDROLASE REGULATOR; NMR {Homo sapiens}
+Probab=6.76  E-value=4.3e+02  Score=24.11  Aligned_cols=30  Identities=27%  Similarity=0.278  Sum_probs=21.5  Template_Neff=3.400
+
+Q BAQ01386.1       95 EVGSFYSFHSVQLWGLGLSVVAIIYIGLIA  124 (503)
+Q Consensus        95 ~~~~f~s~~sV~i~~ltL~~~~~i~i~li~  124 (503)
+                      ....+|-++|+.++|+....++.+.-.+++
+T Consensus         6 ~~pF~YDY~tLRigGLi~A~vLfi~GIlii   35 (72)
+T 2JO1_A            6 HDPFTYDYQSLQIGGLVIAGILFILGILIV   35 (72)
+T ss_dssp             HSGGGCSTHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             CCCcCCCHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            345678999999999988777755443333
+
+
+No 8
+>2MKV_A Sodium/potassium-transporting ATPase subunit gamma; FXYD2b, Na,K-ATPase, FXYD, micelle, TRANSPORT; NMR {Homo sapiens}
+Probab=5.89  E-value=5.2e+02  Score=23.17  Aligned_cols=30  Identities=30%  Similarity=0.300  Sum_probs=21.6  Template_Neff=3.400
+
+Q BAQ01386.1       96 VGSFYSFHSVQLWGLGLSVVAIIYIGLIAL  125 (503)
+Q Consensus        96 ~~~f~s~~sV~i~~ltL~~~~~i~i~li~~  125 (503)
+                      ...+|-++|++++|+....++.+.-.++++
+T Consensus        15 dpF~YDY~tLRiGGLi~A~vLfi~GIliil   44 (64)
+T 2MKV_A           15 DPFYYDYETVRNGGLIFAGLAFIVGLLILL   44 (64)
+T ss_dssp             CCTHHHHTTHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             CCCCCCHHHHHHHHHHHHHHHHHHHHHHHH
+Confidence            456779999999999888777554433333
+
+
+No 9
+>6HWH_S Ubiquinol-cytochrome c reductase iron-sulfur subunit; Membrane Protein, Cryo-EM, Respiratory supercomplex; HET: HEM, MQ9, HAS, HEC, CDL; 3.3A {Mycobacterium smegmatis (strain ATCC 700084 / mc(2)155)}
+Probab=5.51  E-value=5.6e+02  Score=25.73  Aligned_cols=48  Identities=23%  Similarity=0.311  Sum_probs=32.1  Template_Neff=5.200
+
+Q BAQ01386.1      374 PIFVGFGFGGYFDFSLTGFPINLGISDYSFNEILQNK----FVRPHSFTNYIFL  423 (503)
+Q Consensus       374 ~il~G~GlgGyF~F~~~~~Pi~Ldl~sYs~~ei~~~~----fy~PHsFin~iLL  423 (503)
+                      ....+.-.|+|+.+......  ...+|.++.|++++.    |+.|||.+=..+-
+T Consensus        45 ~~~l~~mi~~yl~~~~rr~~--~~PeD~~daeI~d~ag~~GfFsp~SwWPl~~a   96 (139)
+T 6HWH_S           45 TTGLTLITGTFFRFVARRLD--TRPEDYEDAEISDGAGELGFFAPHSWWPILIS   96 (139)
+T ss_pred             HHHHHHHHHHHHHHHHhccC--CCcccCCCccccccCCccccCCCcccHHHHHH
+Confidence            34455567888888876654  355567776774443    7999999876553
+
+
+No 10
+>1CF7_A TRANSCRIPTION FACTOR E2F-4 DP-2/DNA TERNARY; E2F, DP, WINGED-HELIX, DNA-BINDING DOMAIN; 2.6A {Homo sapiens} SCOP: a.4.5.17
+Probab=5.19  E-value=6.1e+02  Score=22.13  Aligned_cols=14  Identities=29%  Similarity=0.610  Sum_probs=11.3  Template_Neff=7.100
+
+Q BAQ01386.1      354 VLVRLYEIRNIIGA  367 (503)
+Q Consensus       354 ~~VR~yE~~NIl~~  367 (503)
+                      ..=|+||+.|++.+
+T Consensus        44 ~rRRlYDi~NVLe~   57 (76)
+T 1CF7_A           44 QKRRIYDITNVLEG   57 (76)
+T ss_dssp             CTHHHHHHHHHHHH
+T ss_pred             chhHHHHHHHHHHH
+Confidence            35799999999854
+
+

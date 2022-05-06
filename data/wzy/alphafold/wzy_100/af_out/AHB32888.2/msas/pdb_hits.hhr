@@ -1,0 +1,159 @@
+Query         AHB32888.2 Wzy [Acinetobacter baumannii]
+Match_columns 310
+No_of_seqs    88 out of 102
+Neff          6.29837
+Searched_HMMs 80799
+Date          Fri Feb  4 18:52:40 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp7ly75wqy/query.a3m -o /tmp/tmp7ly75wqy/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 3M1F_V Actin, alpha skeletal m  51.6      12 0.00015   24.5   0.0   11   83-93      8-18  (31)
+  2 6SNH_X Dolichyl pyrophosphate   14.2 1.6E+02  0.0019   32.5   0.0   50   89-138   217-266 (562)
+  3 4PN8_E CC-Pent; alpha-helical    6.3 4.7E+02  0.0058   17.2   0.0   12   80-91     20-31  (31)
+  4 2LOM_A HIG1 domain family memb   5.2 6.1E+02  0.0076   21.1   0.0   18   83-100    58-78  (93)
+  5 3LKU_F UPF0363 protein YOR164C   5.1 6.3E+02  0.0078   19.4   0.0   12  299-310    23-34  (54)
+  6 6P25_B Dolichyl-diphosphooligo   4.8 6.7E+02  0.0083   28.5   0.0   19  116-134   243-261 (759)
+  7 2WPV_D UPF0363 PROTEIN YOR164C   4.6 7.1E+02  0.0088   19.5   0.0   12  299-310    25-36  (59)
+  8 2LON_A HIG1 domain family memb   4.1 8.2E+02    0.01   20.7   0.0   17   83-99     59-78  (99)
+  9 5EZM_A 4-amino-4-deoxy-L-arabi   4.0 8.4E+02    0.01   25.7   0.0   16  116-131   199-214 (578)
+ 10 5F15_A 4-amino-4-deoxy-L-arabi   4.0 8.4E+02    0.01   25.7   0.0   16  116-131   199-214 (578)
+
+No 1
+>3M1F_V Actin, alpha skeletal muscle, Putative; ACTIN, ACTIN-BINDING PROTEIN, CROSSLINKING, NUCLEATOR; HET: ATP; 2.89A {Oryctolagus cuniculus}
+Probab=51.61  E-value=12  Score=24.52  Aligned_cols=11  Identities=45%  Similarity=0.604  Sum_probs=8.7  Template_Neff=1.500
+
+Q AHB32888.2       83 QQFMQIRQGFA   93 (310)
+Q Consensus        83 ~~~mQIRqGlA   93 (310)
+                      |-|.|||||.-
+T Consensus         8 KLMEqIRqGVk   18 (31)
+T 3M1F_V            8 KLMEQIRQGVK   18 (31)
+T ss_pred             HHHHHHHHhhh
+Confidence            55889999973
+
+
+No 2
+>6SNH_X Dolichyl pyrophosphate Man9GlcNAc2 alpha-1,3-glucosyltransferase (E.C.2.4.1.267); Glycosyltransferase, Glucosyltransferase, GT-C, N-Glycosylation, MEMBRANE; HET: LMH;{Saccharomyces cerevisiae}
+Probab=14.23  E-value=1.6e+02  Score=32.46  Aligned_cols=50  Identities=28%  Similarity=0.435  Sum_probs=30.8  Template_Neff=7.300
+
+Q AHB32888.2       89 RQGFAIPLVIYGSVLYLSGKKYISLVFFILAILFHQSSLAFILIFISYLF  138 (310)
+Q Consensus        89 RqGlA~ai~l~~~~~yl~~kk~~~~lf~llA~~fH~ssl~~il~~~~~l~  138 (310)
+                      -.++..++.+.+.....++|.....+++.+|..+-+.++...+.+..++.
+T Consensus       217 ~d~i~l~l~llsl~~l~~~~~~la~v~fglal~~K~~~l~~~P~~~~~ll  266 (562)
+T 6SNH_X          217 YNSVMLGLTAYAINNLLDEYYAMAAVCFVLSICFKQMALYYAPIFFAYLL  266 (562)
+T ss_dssp             CHHHHHHHHHHHHHHHHTTCHHHHHHHHHHHHHHCGGGGGGHHHHHHHHC
+T ss_pred             hHHHHHHHHHHHHHHHHccChHHHHHHHHHHHHhhHHHHHHHHHHHHHHH
+Confidence            34455555555333333454555677788999999998777766555443
+
+
+No 3
+>4PN8_E CC-Pent; alpha-helical barrel, coiled coil, protein; HET: ACE; 2.0A {N/A}
+Probab=6.33  E-value=4.7e+02  Score=17.22  Aligned_cols=12  Identities=42%  Similarity=0.720  Sum_probs=8.0  Template_Neff=1.000
+
+Q AHB32888.2       80 FMMQQFMQIRQG   91 (310)
+Q Consensus        80 fl~~~~mQIRqG   91 (310)
+                      +++|...||.||
+T Consensus        20 wilqkieqilqg   31 (31)
+T 4PN8_E           20 WILQKIEQILQG   31 (31)
+T ss_dssp             HHHHHHHHHHHC
+T ss_pred             HHHHHHHHHHcC
+Confidence            455677777776
+
+
+No 4
+>2LOM_A HIG1 domain family member 1A; Membrane protein, Helical bundle; NMR {Homo sapiens}
+Probab=5.17  E-value=6.1e+02  Score=21.07  Aligned_cols=18  Identities=28%  Similarity=0.656  Sum_probs=11.0  Template_Neff=6.400
+
+Q AHB32888.2       83 QQFMQIR---QGFAIPLVIYG  100 (310)
+Q Consensus        83 ~~~mQIR---qGlA~ai~l~~  100 (310)
+                      |.+||-|   ||.+++..+-+
+T Consensus        58 qk~mr~RV~aQg~Tv~~l~~~   78 (93)
+T 2LOM_A           58 IHLIHMRVAAQGFVVGAMTVG   78 (93)
+T ss_dssp             CSSCCCSHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHH
+Confidence            4556654   78887665543
+
+
+No 5
+>3LKU_F UPF0363 protein YOR164C, Ubiquitin-like protein; ALPHA HELICAL REPEAT, TPR-LIKE, PROTEIN; HET: PRO; 2.8A {Saccharomyces cerevisiae}
+Probab=5.05  E-value=6.3e+02  Score=19.39  Aligned_cols=12  Identities=25%  Similarity=0.426  Sum_probs=9.3  Template_Neff=2.700
+
+Q AHB32888.2      299 EFIKNNYFLPLS  310 (310)
+Q Consensus       299 ~~~~~~yf~pl~  310 (310)
+                      +-+..||.+||+
+T Consensus        23 p~l~~dy~KpL~   34 (54)
+T 3LKU_F           23 PKLPKSYTKPLK   34 (54)
+T ss_dssp             CSSCTTCBCCGG
+T ss_pred             CCCCcccCCCHH
+Confidence            367789999984
+
+
+No 6
+>6P25_B Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunits (E.C.2.4.99.18); complex, TRANSFERASE, glycosylation; HET: NAG, NNM, CPL; 3.2A {Saccharomyces cerevisiae W303}
+Probab=4.83  E-value=6.7e+02  Score=28.48  Aligned_cols=19  Identities=16%  Similarity=0.022  Sum_probs=12.7  Template_Neff=8.800
+
+Q AHB32888.2      116 FILAILFHQSSLAFILIFI  134 (310)
+Q Consensus       116 ~llA~~fH~ssl~~il~~~  134 (310)
+                      ..+|.+.|..++..++...
+T Consensus       243 lgla~~~K~~~l~~~~~i~  261 (759)
+T 6P25_B          243 LGCTISVKMVGLFIITMVG  261 (759)
+T ss_dssp             HHHHHHHCGGGHHHHHHHH
+T ss_pred             HHHHHHhchhHHHHHHHHH
+Confidence            3478889998776555443
+
+
+No 7
+>2WPV_D UPF0363 PROTEIN YOR164C, UBIQUITIN-LIKE PROTEIN; GOLGI-ER TRAFFICKING, TAIL-ANCHORED PROTEIN, PROTEIN; 1.99A {SACCHAROMYCES CEREVISIAE}
+Probab=4.59  E-value=7.1e+02  Score=19.49  Aligned_cols=12  Identities=25%  Similarity=0.426  Sum_probs=9.3  Template_Neff=2.900
+
+Q AHB32888.2      299 EFIKNNYFLPLS  310 (310)
+Q Consensus       299 ~~~~~~yf~pl~  310 (310)
+                      +-+..||.+||+
+T Consensus        25 p~l~~dy~KpL~   36 (59)
+T 2WPV_D           25 PKLPKSYTKPLK   36 (59)
+T ss_dssp             CSSCTTCBCCGG
+T ss_pred             CCCCcccCCCHH
+Confidence            367789999984
+
+
+No 8
+>2LON_A HIG1 domain family member 1B; Membrane protein, Helical bundle; NMR {Homo sapiens}
+Probab=4.11  E-value=8.2e+02  Score=20.67  Aligned_cols=17  Identities=18%  Similarity=0.389  Sum_probs=9.8  Template_Neff=6.200
+
+Q AHB32888.2       83 QQFMQIR---QGFAIPLVIY   99 (310)
+Q Consensus        83 ~~~mQIR---qGlA~ai~l~   99 (310)
+                      |.+||-|   ||++++..+.
+T Consensus        59 qklmr~RV~aQg~Tv~al~~   78 (99)
+T 2LON_A           59 IHLIHTRVAAQACAVGAIML   78 (99)
+T ss_dssp             SSCSSCSHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHH
+Confidence            3455554   7777665544
+
+
+No 9
+>5EZM_A 4-amino-4-deoxy-L-arabinose (L-Ara4N) transferase; membrane protein, lipid glycosyltransferase, zinc; HET: EPE, PC, PO4, MPG, DSL; 2.7A {Cupriavidus metallidurans (strain ATCC 43123 / DSM 2839 / NBRC 102507 / CH34)}
+Probab=4.03  E-value=8.4e+02  Score=25.74  Aligned_cols=16  Identities=19%  Similarity=-0.068  Sum_probs=10.5  Template_Neff=10.800
+
+Q AHB32888.2      116 FILAILFHQSSLAFIL  131 (310)
+Q Consensus       116 ~llA~~fH~ssl~~il  131 (310)
+                      ..+|.+.|..+...++
+T Consensus       199 ~gl~~l~k~~~~~~~~  214 (578)
+T 5EZM_A          199 MGVAILTKGLVGIALP  214 (578)
+T ss_dssp             HHHHHHHHTTHHHHHH
+T ss_pred             HHHHHHhchhHHHHHH
+Confidence            3478889977655443
+
+
+No 10
+>5F15_A 4-amino-4-deoxy-L-arabinose (L-Ara4N) transferase; membrane protein, lipid glycosyltransferase, GT-C; HET: EPE, MPG, 5TR; 3.2A {Cupriavidus metallidurans (strain ATCC 43123 / DSM 2839 / NBRC 102507 / CH34)}
+Probab=4.03  E-value=8.4e+02  Score=25.74  Aligned_cols=16  Identities=19%  Similarity=-0.068  Sum_probs=10.5  Template_Neff=10.800
+
+Q AHB32888.2      116 FILAILFHQSSLAFIL  131 (310)
+Q Consensus       116 ~llA~~fH~ssl~~il  131 (310)
+                      ..+|.+.|..+...++
+T Consensus       199 ~gl~~l~k~~~~~~~~  214 (578)
+T 5F15_A          199 MGVAILTKGLVGIALP  214 (578)
+T ss_dssp             HHHHHHHHTTHHHHHH
+T ss_pred             HHHHHHhchhHHHHHH
+Confidence            3478889977655443
+
+

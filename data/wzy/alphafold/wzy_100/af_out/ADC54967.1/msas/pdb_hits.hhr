@@ -1,0 +1,178 @@
+Query         ADC54967.1 Wzy [Escherichia coli]
+Match_columns 357
+No_of_seqs    117 out of 299
+Neff          7.43788
+Searched_HMMs 80799
+Date          Thu Feb  3 05:44:23 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp337qe2_t/query.a3m -o /tmp/tmp337qe2_t/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 3M1F_V Actin, alpha skeletal m  74.0     2.3 2.8E-05   26.9   0.0   11  136-146     8-18  (31)
+  2 5L6N_I Prothrombin (E.C.3.4.21  17.8 1.1E+02  0.0014   20.4   0.0   12   45-56      6-18  (35)
+  3 5EZM_A 4-amino-4-deoxy-L-arabi  11.1 2.2E+02  0.0027   30.5   0.0   77   78-154    89-172 (578)
+  4 5F15_A 4-amino-4-deoxy-L-arabi  11.1 2.2E+02  0.0027   30.5   0.0   77   78-154    89-172 (578)
+  5 5EH4_A Glycophorin-A; Receptor   8.1 3.4E+02  0.0042   17.8   0.0   10  348-357     1-10  (30)
+  6 5EH6_A Glycophorin-A; Receptor   8.1 3.4E+02  0.0042   17.8   0.0   10  348-357     1-10  (30)
+  7 6K1H_C PTS system mannose-spec   7.9 3.5E+02  0.0044   27.4   0.0   31  180-210   248-278 (283)
+  8 4BOH_M THROMBIN HEAVY CHAIN (E   7.4 3.8E+02  0.0047   20.1   0.0   13   44-56     24-37  (60)
+  9 4AAI_A ORF E73; VIRAL PROTEIN,   6.4 4.7E+02  0.0058   20.0   0.0   14  130-143    27-40  (73)
+ 10 5A1Q_A AF1502; STAC, STAC DOMA   5.3   6E+02  0.0074   19.3   0.0   19   43-61     32-50  (71)
+
+No 1
+>3M1F_V Actin, alpha skeletal muscle, Putative; ACTIN, ACTIN-BINDING PROTEIN, CROSSLINKING, NUCLEATOR; HET: ATP; 2.89A {Oryctolagus cuniculus}
+Probab=74.04  E-value=2.3  Score=26.91  Aligned_cols=11  Identities=36%  Similarity=0.546  Sum_probs=8.9  Template_Neff=1.500
+
+Q ADC54967.1      136 RDLIQIRAGLA  146 (357)
+Q Consensus       136 ~dm~QIR~glA  146 (357)
+                      +-|.|||||+-
+T Consensus         8 KLMEqIRqGVk   18 (31)
+T 3M1F_V            8 KLMEQIRQGVK   18 (31)
+T ss_pred             HHHHHHHHhhh
+Confidence            45899999974
+
+
+No 2
+>5L6N_I Prothrombin (E.C.3.4.21.5), Thrombin inhibitor madanin; Hydrolase, Anticoagulant Sulfotyrosine; HET: NAG, TYS; 1.627A {Homo sapiens}
+Probab=17.82  E-value=1.1e+02  Score=20.35  Aligned_cols=12  Identities=50%  Similarity=0.960  Sum_probs=8.1  Template_Neff=1.600
+
+Q ADC54967.1       45 RMN-DSDYIEYKK   56 (357)
+Q Consensus        45 R~~-~~Dy~~Y~~   56 (357)
+                      |.+ +.||+.|.+
+T Consensus         6 R~~~~~DYDeYd~   18 (35)
+T 5L6N_I            6 RTDGDADYDEYEE   18 (35)
+T ss_dssp             C--CBCCCCCCCS
+T ss_pred             cCCCCCchhhhhc
+Confidence            555 689999876
+
+
+No 3
+>5EZM_A 4-amino-4-deoxy-L-arabinose (L-Ara4N) transferase; membrane protein, lipid glycosyltransferase, zinc; HET: EPE, PC, PO4, MPG, DSL; 2.7A {Cupriavidus metallidurans (strain ATCC 43123 / DSM 2839 / NBRC 102507 / CH34)}
+Probab=11.14  E-value=2.2e+02  Score=30.54  Aligned_cols=77  Identities=8%  Similarity=0.010  Sum_probs=37.7  Template_Neff=10.800
+
+Q ADC54967.1       78 EVGYLFLSSIFKTL-CLP---FQVFLFFIAFLSLLLTYFSFRKISL--IPILSLVFYLS-HAFIVRDLIQIRAGLAVSIS  150 (357)
+Q Consensus        78 E~gy~~l~~i~k~l-~~~---f~~fl~~~A~lsi~l~~~~~~K~S~--~~~lsll~Y~s-~~f~~~dm~QIR~glA~ai~  150 (357)
+                      -|++..+......+ |.+   ....-.+.+.+++...+...+|...  ...++.+++.. ..+............+..+.
+T Consensus        89 ppl~~~l~~~~~~l~g~~~~~~rl~~~l~~~l~~~~~y~~~~~~~~~~~a~~a~~l~~~~p~~~~~~~~~~~d~~~~~~~  168 (578)
+T 5EZM_A           89 PPFHMWVTVVGYELFGLGEWQARLAVALSGLLGIGVSMMAARRWFGARAAAFTGLALLAAPMWSVAAHFNTLDMTLAGVM  168 (578)
+T ss_dssp             CSHHHHHHHHHHHHHCSSHHHHTHHHHHHHHHHHHHHHHHHHHHHCHHHHHHHHHHHHHCHHHHHHHTSCCHHHHHHHHH
+T ss_pred             CHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHHHHHHHHHcCHHHHHHHHHHHHHhHHHHHHHhHHchHHHHHHHH
+Confidence            36777766665554 333   2333344456666777777777642  22344444433 23333322334455555554
+
+
+Q ADC54967.1      151 LYSI  154 (357)
+Q Consensus       151 l~si  154 (357)
+                      +.++
+T Consensus       169 ~l~l  172 (578)
+T 5EZM_A          169 SCVL  172 (578)
+T ss_dssp             HHHH
+T ss_pred             HHHH
+Confidence            4443
+
+
+No 4
+>5F15_A 4-amino-4-deoxy-L-arabinose (L-Ara4N) transferase; membrane protein, lipid glycosyltransferase, GT-C; HET: EPE, MPG, 5TR; 3.2A {Cupriavidus metallidurans (strain ATCC 43123 / DSM 2839 / NBRC 102507 / CH34)}
+Probab=11.14  E-value=2.2e+02  Score=30.54  Aligned_cols=77  Identities=8%  Similarity=0.010  Sum_probs=37.7  Template_Neff=10.800
+
+Q ADC54967.1       78 EVGYLFLSSIFKTL-CLP---FQVFLFFIAFLSLLLTYFSFRKISL--IPILSLVFYLS-HAFIVRDLIQIRAGLAVSIS  150 (357)
+Q Consensus        78 E~gy~~l~~i~k~l-~~~---f~~fl~~~A~lsi~l~~~~~~K~S~--~~~lsll~Y~s-~~f~~~dm~QIR~glA~ai~  150 (357)
+                      -|++..+......+ |.+   ....-.+.+.+++...+...+|...  ...++.+++.. ..+............+..+.
+T Consensus        89 ppl~~~l~~~~~~l~g~~~~~~rl~~~l~~~l~~~~~y~~~~~~~~~~~a~~a~~l~~~~p~~~~~~~~~~~d~~~~~~~  168 (578)
+T 5F15_A           89 PPFHMWVTVVGYELFGLGEWQARLAVALSGLLGIGVSMMAARRWFGARAAAFTGLALLAAPMWSVAAHFNTLDMTLAGVM  168 (578)
+T ss_dssp             CSHHHHHHHHHHHHHCSSHHHHSHHHHHHHHHHHHHHHHHHHHHHCHHHHHHHHHHHHHCHHHHHHTTSCSHHHHHHHHH
+T ss_pred             CHHHHHHHHHHHHHHCCCHHHHHHHHHHHHHHHHHHHHHHHHHHcCHHHHHHHHHHHHHhHHHHHHHhHHchHHHHHHHH
+Confidence            36777766665554 333   2333344456666777777777642  22344444433 23333322334455555554
+
+
+Q ADC54967.1      151 LYSI  154 (357)
+Q Consensus       151 l~si  154 (357)
+                      +.++
+T Consensus       169 ~l~l  172 (578)
+T 5F15_A          169 SCVL  172 (578)
+T ss_dssp             HHHH
+T ss_pred             HHHH
+Confidence            4443
+
+
+No 5
+>5EH4_A Glycophorin-A; Receptor, lipidic cubic phase, peptides; HET: SCH, OLB; 2.81A {Homo sapiens}
+Probab=8.06  E-value=3.4e+02  Score=17.78  Aligned_cols=10  Identities=80%  Similarity=1.414  Sum_probs=7.3  Template_Neff=2.200
+
+Q ADC54967.1      348 HPELTLIIFG  357 (357)
+Q Consensus       348 ~~~~~~~~~~  357 (357)
+                      +|+.++|++|
+T Consensus         1 ep~I~lII~~   10 (30)
+T 5EH4_A            1 EPEITLIIFG   10 (30)
+T ss_dssp             CHHHHHHHHH
+T ss_pred             CccHHHHHHH
+Confidence            5788888764
+
+
+No 6
+>5EH6_A Glycophorin-A; Receptor, lipidic cubic phase, peptides; 1.918A {Homo sapiens}
+Probab=8.06  E-value=3.4e+02  Score=17.78  Aligned_cols=10  Identities=80%  Similarity=1.414  Sum_probs=6.8  Template_Neff=2.200
+
+Q ADC54967.1      348 HPELTLIIFG  357 (357)
+Q Consensus       348 ~~~~~~~~~~  357 (357)
+                      +|+.++|++|
+T Consensus         1 ep~I~lII~~   10 (30)
+T 5EH6_A            1 EPEITLIIFG   10 (30)
+T ss_dssp             -CTHHHHHHH
+T ss_pred             CccHHHHHHH
+Confidence            5788888764
+
+
+No 7
+>6K1H_C PTS system mannose-specific EIID component; PTS, ManYZ, transporter, Mannose, PROTEIN; HET: MAN; 3.52A {Escherichia coli (strain K12)}
+Probab=7.86  E-value=3.5e+02  Score=27.41  Aligned_cols=31  Identities=16%  Similarity=0.210  Sum_probs=17.3  Template_Neff=5.900
+
+Q ADC54967.1      180 IALCYPFFKKKYITLKMMLFLFLVSVIFSYL  210 (357)
+Q Consensus       180 ~l~~y~~~~~k~~~~k~~~~~~l~~~~~~~i  210 (357)
+                      .+.+|++.+||....+.++.+++++++.+.+
+T Consensus       248 ~l~~y~ll~K~~~~~~li~~~~vi~iv~~~~  278 (283)
+T 6K1H_C          248 TFACMWLLRKKVNPLWIIVGFFVIGIAGYAC  278 (283)
+T ss_dssp             HHHHHHHTTTTCCGGGTHHHHHHHHHHHHHC
+T ss_pred             HHHHHHHHhCCCCHHHHHHHHHHHHHHHHHh
+Confidence            3456777776654445555444555555444
+
+
+No 8
+>4BOH_M THROMBIN HEAVY CHAIN (E.C.3.4.21.5), THROMBIN; HYDROLASE-INHIBITOR COMPLEX, COAGULATION INHIBITOR, PROTEASE; HET: NAG, SO4; 2.595A {HOMO SAPIENS}
+Probab=7.41  E-value=3.8e+02  Score=20.12  Aligned_cols=13  Identities=46%  Similarity=0.833  Sum_probs=10.0  Template_Neff=1.600
+
+Q ADC54967.1       44 LRMN-DSDYIEYKK   56 (357)
+Q Consensus        44 lR~~-~~Dy~~Y~~   56 (357)
+                      =|.+ +.||+.|.+
+T Consensus        24 eR~~~~~DYDeYd~   37 (60)
+T 4BOH_M           24 KRTDGDADYDEYEE   37 (60)
+T ss_pred             hccCCCCCchhccc
+Confidence            4665 689999987
+
+
+No 9
+>4AAI_A ORF E73; VIRAL PROTEIN, EXTREMOPHILE, ARCHAEA, RIBBON-HELIX-HELIX; NMR {SULFOLOBUS VIRUS RAGGED HILLS}
+Probab=6.38  E-value=4.7e+02  Score=20.03  Aligned_cols=14  Identities=21%  Similarity=0.465  Sum_probs=10.7  Template_Neff=1.100
+
+Q ADC54967.1      130 SHAFIVRDLIQIRA  143 (357)
+Q Consensus       130 s~~f~~~dm~QIR~  143 (357)
+                      ...|++|||++|-.
+T Consensus        27 vsvylnrdmteiie   40 (73)
+T 4AAI_A           27 VSVYLNRDMTEIIE   40 (73)
+T ss_dssp             HHHHTTCCHHHHHH
+T ss_pred             HHHHhCCChHHHHH
+Confidence            34689999999754
+
+
+No 10
+>5A1Q_A AF1502; STAC, STAC DOMAIN, UNKNOWN FUNCTION; HET: MSE; 1.6A {ARCHAEOGLOBUS FULGIDUS}
+Probab=5.26  E-value=6e+02  Score=19.28  Aligned_cols=19  Identities=26%  Similarity=0.450  Sum_probs=14.2  Template_Neff=1.000
+
+Q ADC54967.1       43 GLRMNDSDYIEYKKMYNEV   61 (357)
+Q Consensus        43 GlR~~~~Dy~~Y~~~f~~~   61 (357)
+                      .+.++|.|..||+++-...
+T Consensus        32 slgyddvddsnykeilsvl   50 (71)
+T 5A1Q_A           32 SLGYDDVDDSNYKEILSVL   50 (71)
+T ss_dssp             HHTCSSCCTTTHHHHHHHH
+T ss_pred             HcCCCCCCCccHHHHHHHH
+Confidence            3456788999999986654
+
+

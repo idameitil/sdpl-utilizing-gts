@@ -1,0 +1,157 @@
+Query         ACD37111.1 Wzy [Shigella dysenteriae]
+Match_columns 401
+No_of_seqs    3 out of 4
+Neff          1.38505
+Searched_HMMs 80799
+Date          Wed Apr 27 14:24:00 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpbtwfqrb9/query.a3m -o /tmp/tmpbtwfqrb9/output.hhr -maxseq 1000000 -d /mnt/disks/data/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 4U9B_A Protein; H-NOX, hemopro  15.8 1.3E+02  0.0016   25.0   0.0   27  142-168     1-27  (187)
+  2 2O8S_A AGR_C_984p; all alpha-h  11.9   2E+02  0.0025   29.9   0.0   32  280-311    90-121 (323)
+  3 5OGL_A Peptide-binding protein  10.7 2.3E+02  0.0029   29.1   0.0   14  224-237   204-217 (713)
+  4 2BN5_A PSI, U1 SMALL NUCLEAR R   9.9 2.6E+02  0.0032   21.1   0.0   13  318-330     4-16  (33)
+  5 4U99_A Protein; H-NOX, hemopro   9.8 2.6E+02  0.0033   23.2   0.0   25  142-166     1-25  (187)
+  6 4U9G_A Protein, protein; H-NOX   9.8 2.6E+02  0.0033   23.2   0.0   25  142-166     1-25  (187)
+  7 3SJ5_B Methyl-accepting chemot   8.8 3.1E+02  0.0038   23.8   0.0   24  142-165     1-24  (188)
+  8 6QPH_E Chlorophyll a-b binding   8.3 3.3E+02  0.0041   23.5   0.0   11  157-167    13-23  (64)
+  9 6RHZ_E Chlorophyll a-b binding   8.3 3.3E+02  0.0041   23.5   0.0   11  157-167    13-23  (64)
+ 10 6TCL_E1 Photosystem I P700 chl   7.9 3.5E+02  0.0043   23.1   0.0   10  158-167    11-20  (60)
+
+No 1
+>4U9B_A Protein; H-NOX, hemoprotein, gas sensor; HET: GOL, HEM; 1.65A {Shewanella oneidensis}
+Probab=15.81  E-value=1.3e+02  Score=25.03  Aligned_cols=27  Identities=15%  Similarity=0.310  Sum_probs=22.4  Template_Neff=10.000
+
+Q ACD37111.1      142 MRGFFLSARSEHLYENFSDSYWYRDAT  168 (401)
+Q Consensus       142 ~r~fflsar~~hl~enf~~s~wyrdat  168 (401)
+                      |+|+++.+..+++.+.+|+.-|.+--+
+T Consensus         1 m~G~i~~~~~~~v~~~~G~~~~~~i~~   27 (187)
+T 4U9B_A            1 MKGIIFNVLEDMVVAQCGMSVWNELLE   27 (187)
+T ss_dssp             CBHHHHHHHHHHHHHHHCHHHHHHHHH
+T ss_pred             CcchHHHHHHHHHHHhhCHHHHHHHHH
+Confidence            688888889999999999999876443
+
+
+No 2
+>2O8S_A AGR_C_984p; all alpha-helical protein, Structural Genomics; HET: SO4, MSE; 2.4A {Agrobacterium tumefaciens} SCOP: a.295.1.1
+Probab=11.89  E-value=2e+02  Score=29.92  Aligned_cols=32  Identities=22%  Similarity=0.458  Sum_probs=27.7  Template_Neff=5.200
+
+Q ACD37111.1      280 DKSYGIDSVDDLMYNHTILHFDITLFGLGKYL  311 (401)
+Q Consensus       280 d~~~g~dsv~dll~nh~~l~fdvt~fglgqym  311 (401)
+                      ++-+.+.|||||+.|..-+.|=.+.+||..-.
+T Consensus        90 ~~I~~I~SvDDLl~D~RLl~~aL~AfGLd~~~  121 (323)
+T 2O8S_A           90 EKIGSVKSIDDFMADTRLYNYALKAHGLEDMA  121 (323)
+T ss_dssp             HHGGGCCSHHHHHTCHHHHHHHHHHTTGGGST
+T ss_pred             HHhcCCCCHHHHhcChhHHHHHHHHCCCChHH
+Confidence            45678999999999999999999999997543
+
+
+No 3
+>5OGL_A Peptide-binding protein, Substrate mimicking peptide; Oligosaccharyltransferase, Complex, Protein N-glycosylation, Bacteria; HET: 9UB, PPN; 2.7A {Campylobacter lari (strain RM2100 / D67 / ATCC BAA-1060)}
+Probab=10.75  E-value=2.3e+02  Score=29.07  Aligned_cols=14  Identities=29%  Similarity=0.622  Sum_probs=8.2  Template_Neff=9.900
+
+Q ACD37111.1      224 FLFIPLYMIYLMLR  237 (401)
+Q Consensus       224 fl~iplymlyl~lk  237 (401)
+                      +++++++.++..++
+T Consensus       204 ~~~~~~~~~~~~~~  217 (713)
+T 5OGL_A          204 FAMIGLFGLYTLVF  217 (713)
+T ss_dssp             HHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHh
+Confidence            45556666666554
+
+
+No 4
+>2BN5_A PSI, U1 SMALL NUCLEAR RIBONUCLEOPROTEIN; NUCLEAR PROTEIN, SPLICING, PROTEIN-PROTEIN INTERACTION; NMR {DROSOPHILA MELANOGASTER}
+Probab=9.88  E-value=2.6e+02  Score=21.10  Aligned_cols=13  Identities=31%  Similarity=0.657  Sum_probs=9.4  Template_Neff=3.600
+
+Q ACD37111.1      318 FVRSDIGYYRQMG  330 (401)
+Q Consensus       318 ~vksdigyyrq~g  330 (401)
+                      |----+.|||+.|
+T Consensus         4 YSaqWaEYYrs~g   16 (33)
+T 2BN5_A            4 YSAQWAEYYRSVG   16 (33)
+T ss_dssp             THHHHHHHHHHHT
+T ss_pred             cHHHHHHHHHHHh
+Confidence            3344578999998
+
+
+No 5
+>4U99_A Protein; H-NOX, hemoprotein, gas sensor, SIGNALING; HET: HEM; 2.0A {Shewanella oneidensis}
+Probab=9.79  E-value=2.6e+02  Score=23.15  Aligned_cols=25  Identities=16%  Similarity=0.352  Sum_probs=19.9  Template_Neff=10.200
+
+Q ACD37111.1      142 MRGFFLSARSEHLYENFSDSYWYRD  166 (401)
+Q Consensus       142 ~r~fflsar~~hl~enf~~s~wyrd  166 (401)
+                      |+|+++.+..+.+.|.+|+.-|-+-
+T Consensus         1 m~G~i~~~~~~~v~~~~G~~~~~~i   25 (187)
+T 4U99_A            1 MKGIIFNVLEDMVVAQCGMSVWNEL   25 (187)
+T ss_dssp             CBHHHHHHHHHHHHHHTCHHHHHHH
+T ss_pred             CCchHHHHHHHHHHHhhCHHHHHHH
+Confidence            6788888888888888888888653
+
+
+No 6
+>4U9G_A Protein, protein; H-NOX, hemoprotein, gas sensor, SIGNALING; HET: HEM; 2.25A {Shewanella oneidensis}
+Probab=9.79  E-value=2.6e+02  Score=23.15  Aligned_cols=25  Identities=16%  Similarity=0.352  Sum_probs=19.9  Template_Neff=10.200
+
+Q ACD37111.1      142 MRGFFLSARSEHLYENFSDSYWYRD  166 (401)
+Q Consensus       142 ~r~fflsar~~hl~enf~~s~wyrd  166 (401)
+                      |+|+++.+..+.+.|.+|+.-|-+-
+T Consensus         1 m~G~i~~~~~~~v~~~~G~~~~~~i   25 (187)
+T 4U9G_A            1 MKGIIFNVLEDMVVAQCGMSVWNEL   25 (187)
+T ss_dssp             CBHHHHHHHHHHHHHHTCHHHHHHH
+T ss_pred             CCchHHHHHHHHHHHhhCHHHHHHH
+Confidence            6788888888888888888888653
+
+
+No 7
+>3SJ5_B Methyl-accepting chemotaxis protein; NO or O2-sensing protein, SIGNALING; HET: HEM; 1.673A {Caldanaerobacter subterraneus}
+Probab=8.78  E-value=3.1e+02  Score=23.82  Aligned_cols=24  Identities=17%  Similarity=0.317  Sum_probs=21.4  Template_Neff=9.100
+
+Q ACD37111.1      142 MRGFFLSARSEHLYENFSDSYWYR  165 (401)
+Q Consensus       142 ~r~fflsar~~hl~enf~~s~wyr  165 (401)
+                      |+|++..+..+.+.+.+|+..|-+
+T Consensus         1 M~G~i~~~l~~~v~~~~G~~~~~~   24 (188)
+T 3SJ5_B            1 MKGTFVGTWIKTLRDLYGNDVVDE   24 (188)
+T ss_dssp             CBHHHHHHHHHHHHHHHCHHHHHH
+T ss_pred             CcchHHHHHHHHHHHHHCHHHHHH
+Confidence            788999999999999999999954
+
+
+No 8
+>6QPH_E Chlorophyll a-b binding protein, chloroplastic; Photosystem I, Dunaliella, Electron Transport; HET: CAC, BCR, LMG, SF4, LHG, XAT, LMT, DGD, CL0, LUT, CHL, PQN, GSH, SQD, CLA; 3.4A {Dunaliella salina}
+Probab=8.29  E-value=3.3e+02  Score=23.46  Aligned_cols=11  Identities=36%  Similarity=0.915  Sum_probs=8.3  Template_Neff=2.500
+
+Q ACD37111.1      157 NFSDSYWYRDA  167 (401)
+Q Consensus       157 nf~~s~wyrda  167 (401)
+                      --..||||.|.
+T Consensus        13 lR~ESYWy~~v   23 (64)
+T 6QPH_E           13 LRPESYWYNQV   23 (64)
+T ss_pred             eccccccccCC
+Confidence            34679999984
+
+
+No 9
+>6RHZ_E Chlorophyll a-b binding protein, chloroplastic; photosystem I, photosynthesis, green algae; HET: XAT, LHG, BCR, CLA, LUT, CL0, DGD, SF4, PQN, CHL, LMG; 3.2A {Dunaliella salina}
+Probab=8.29  E-value=3.3e+02  Score=23.46  Aligned_cols=11  Identities=36%  Similarity=0.915  Sum_probs=8.3  Template_Neff=2.500
+
+Q ACD37111.1      157 NFSDSYWYRDA  167 (401)
+Q Consensus       157 nf~~s~wyrda  167 (401)
+                      --..||||.|.
+T Consensus        13 lR~ESYWy~~v   23 (64)
+T 6RHZ_E           13 LRPESYWYNQV   23 (64)
+T ss_pred             eccccccccCC
+Confidence            34679999984
+
+
+No 10
+>6TCL_E1 Photosystem I P700 chlorophyll a; photosynthesis, tetramer, anabaena, PSI; HET: PQN, LMG, CL0, BCR, CLA, ECH, AJP, DGD, SF4, LHG;{Nostoc sp. PCC 7120}
+Probab=7.95  E-value=3.5e+02  Score=23.07  Aligned_cols=10  Identities=40%  Similarity=1.182  Sum_probs=7.8  Template_Neff=2.600
+
+Q ACD37111.1      158 FSDSYWYRDA  167 (401)
+Q Consensus       158 f~~s~wyrda  167 (401)
+                      -..||||.|.
+T Consensus        11 R~ESYWy~~v   20 (60)
+T 6TCL_E1          11 RPESYWFQDV   20 (60)
+T ss_pred             ccccccccCc
+Confidence            3579999984
+
+

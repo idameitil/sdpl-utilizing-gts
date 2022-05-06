@@ -1,0 +1,155 @@
+Query         AAD45264.1 putative O-antigen polymerase [Pseudomonas aeruginosa PA103]
+Match_columns 411
+No_of_seqs    28 out of 42
+Neff          4.60163
+Searched_HMMs 80799
+Date          Wed Feb  2 00:40:11 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpde537uae/query.a3m -o /tmp/tmpde537uae/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6PL5_A Peptidoglycan glycosylt  94.1    0.01 1.3E-07   61.4   0.0   35  304-339   266-302 (377)
+  2 6BAR_A Rod shape determining p  93.8   0.014 1.7E-07   59.6   0.0   35  304-339   248-284 (359)
+  3 2KNC_B Integrin alpha-IIb, Int  21.2      83   0.001   26.3   0.0   15  322-336    17-31  (79)
+  4 2RN0_A Integrin beta-3; transm  13.2 1.7E+02  0.0021   21.3   0.0   12  322-333    16-27  (43)
+  5 6TDU_AX ATPTB1, ATPTB6, ATPTB1   9.6 2.7E+02  0.0034   25.5   0.0   35  290-324    52-96  (104)
+  6 6TDY_P ATP synthase subunit al   9.6 2.7E+02  0.0034   25.5   0.0   35  290-324    52-96  (104)
+  7 2GNU_H Reaction center protein   8.7 3.1E+02  0.0039   28.7   0.0   23  383-405     9-31  (235)
+  8 4V8K_BH Photosynthetic reactio   8.4 3.2E+02   0.004   28.9   0.0   23  383-405    18-40  (259)
+  9 5Y5S_H Photosynthetic reaction   8.4 3.2E+02   0.004   28.9   0.0   23  383-405    18-40  (259)
+ 10 3ZO6_D ATP SYNTHASE ROTOR RING   8.3 3.3E+02  0.0041   22.2   0.0   41  289-329    19-69  (69)
+
+No 1
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=94.11  E-value=0.01  Score=61.38  Aligned_cols=35  Identities=20%  Similarity=0.242  Sum_probs=22.9  Template_Neff=8.900
+
+Q AAD45264.1      304 QYPMAHNGI--VELLCIYGFIFGGLAVLLLLLLFVYSV  339 (411)
+Q Consensus       304 ~~PMAHNq~--~Eli~v~G~~~ggi~i~~ll~~~~~~i  339 (411)
+                      ..|.+||.+  .+...-+|++.+ +.++.++.....+.
+T Consensus       266 ~~p~~h~d~i~~~i~~e~G~ig~-~~~l~l~~~l~~~~  302 (377)
+T 6PL5_A          266 FIPFRHTDFVFSVWAEEWGFVGV-VGLLGLYGLLLARL  302 (377)
+T ss_dssp             -CCSCSSTTHHHHHHHHHHHHHH-HHHHHHHHHHHHHH
+T ss_pred             cCcCCCCCcHHHHHHHHccHHHH-HHHHHHHHHHHHHH
+Confidence            468999999  999999997744 43444443334333
+
+
+No 2
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=93.82  E-value=0.014  Score=59.61  Aligned_cols=35  Identities=20%  Similarity=0.242  Sum_probs=20.2  Template_Neff=9.300
+
+Q AAD45264.1      304 QYPMAHNGI--VELLCIYGFIFGGLAVLLLLLLFVYSV  339 (411)
+Q Consensus       304 ~~PMAHNq~--~Eli~v~G~~~ggi~i~~ll~~~~~~i  339 (411)
+                      ..|.+||.+  .|...-.|++.+ +.++.+......+.
+T Consensus       248 ~~~~~h~d~i~~~i~~e~G~ig~-~~~l~l~~~l~~~~  284 (359)
+T 6BAR_A          248 FIPFRHTDFVFSVWAEEWGFVGV-VGLLGLYGLLLARL  284 (359)
+T ss_dssp             ----CCTTTTHHHHHHHSHHHHH-HHHHHHHHHHHHHH
+T ss_pred             cCccccCccHHHHHHHHcchHHH-HHHHHHHHHHHHHH
+Confidence            468999997  999999997744 43344443334333
+
+
+No 3
+>2KNC_B Integrin alpha-IIb, Integrin beta-3; integrin, transmembrane signaling, protein structure; NMR {Homo sapiens}
+Probab=21.21  E-value=83  Score=26.29  Aligned_cols=15  Identities=20%  Similarity=0.541  Sum_probs=5.0  Template_Neff=7.700
+
+Q AAD45264.1      322 IFGGLAVLLLLLLFV  336 (411)
+Q Consensus       322 ~~ggi~i~~ll~~~~  336 (411)
+                      ++|+++.+.++.+.+
+T Consensus        17 vvggiv~l~ll~~~i   31 (79)
+T 2KNC_B           17 VMGAILLIGLAALLI   31 (79)
+T ss_dssp             ---SHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHH
+Confidence            344444444443333
+
+
+No 4
+>2RN0_A Integrin beta-3; transmembrane helix, Alternative splicing, Cell; NMR {Homo sapiens}
+Probab=13.23  E-value=1.7e+02  Score=21.30  Aligned_cols=12  Identities=17%  Similarity=0.423  Sum_probs=4.8  Template_Neff=8.000
+
+Q AAD45264.1      322 IFGGLAVLLLLL  333 (411)
+Q Consensus       322 ~~ggi~i~~ll~  333 (411)
+                      +.|+++.+.++.
+T Consensus        16 vvggiv~~~l~~   27 (43)
+T 2RN0_A           16 VMGAILLIGLAA   27 (43)
+T ss_dssp             HHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHH
+Confidence            334444333333
+
+
+No 5
+>6TDU_AX ATPTB1, ATPTB6, ATPTB12, ATP synthase; mitochondria, ATP synthase, MEMBRANE PROTEIN; HET: ADP, LPP, CDL, TRT, ATP, LMT, MG; 4.32A {Euglena gracilis}
+Probab=9.61  E-value=2.7e+02  Score=25.55  Aligned_cols=35  Identities=17%  Similarity=0.293  Sum_probs=24.5  Template_Neff=5.600
+
+Q AAD45264.1      290 GAGVFGGGGVLGYAQYPMAHNG----------IVELLCIYGFIFG  324 (411)
+Q Consensus       290 GvG~~GgsGtLg~~~~PMAHNq----------~~Eli~v~G~~~g  324 (411)
+                      |.|..+.++..+....|.++++          +.|...++|++++
+T Consensus        52 g~G~v~aaai~aiaR~P~~~~ki~~~~li~~al~Et~aI~glvia   96 (104)
+T 6TDU_AX          52 GVAMCFSSYMLAAARQPNMSAKLLPYCILGFALSEALALFTLLIA   96 (104)
+T ss_pred             HHHHHHHHHHHHHHhChhHhhchHHHHHHHHHHHHHHHHHHHHHH
+Confidence            4555566666677788999988          6777777775543
+
+
+No 6
+>6TDY_P ATP synthase subunit alpha, ATP; mitochondria, ATP synthase, MEMBRANE PROTEIN; HET: ADP, ATP, TRT; 3.04A {Euglena gracilis}
+Probab=9.61  E-value=2.7e+02  Score=25.55  Aligned_cols=35  Identities=17%  Similarity=0.293  Sum_probs=24.5  Template_Neff=5.600
+
+Q AAD45264.1      290 GAGVFGGGGVLGYAQYPMAHNG----------IVELLCIYGFIFG  324 (411)
+Q Consensus       290 GvG~~GgsGtLg~~~~PMAHNq----------~~Eli~v~G~~~g  324 (411)
+                      |.|..+.++..+....|.++++          +.|...++|++++
+T Consensus        52 g~G~v~aaai~aiaR~P~~~~ki~~~~li~~al~Et~aI~glvia   96 (104)
+T 6TDY_P           52 GVAMCFSSYMLAAARQPNMSAKLLPYCILGFALSEALALFTLLIA   96 (104)
+T ss_dssp             HHHHHHHHHHHHHHHCGGGHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHhChhHhhchHHHHHHHHHHHHHHHHHHHHHH
+Confidence            4555566666677788999988          6777777775543
+
+
+No 7
+>2GNU_H Reaction center protein H chain; Reaction centre, Ubiquinone B, PHOTOSYNTHESIS; HET: BPH, LDA, U10, BCL, CDL; 2.2A {Rhodobacter sphaeroides}
+Probab=8.66  E-value=3.1e+02  Score=28.66  Aligned_cols=23  Identities=22%  Similarity=0.524  Sum_probs=17.7  Template_Neff=5.800
+
+Q AAD45264.1      383 LFWLVVFRFLYILRRKRDVEHIS  405 (411)
+Q Consensus       383 IFwl~~f~~~~~~~~~~~~~~~~  405 (411)
+                      .||++...+.|.||||+..|--.
+T Consensus         9 ~f~~ff~~li~yl~~e~~regyp   31 (235)
+T 2GNU_H            9 SFWIFLAGLIYYLQTENMREGYP   31 (235)
+T ss_pred             HHHHHHHHHHHHHHHhccCCCCC
+Confidence            48887777788999998877543
+
+
+No 8
+>4V8K_BH Photosynthetic reaction center cytochrome c; photosynthesis; HET: MQ8, CA, HEM, PEF, UQ8, PO4, BPH, CRT, BCL; 3.006A {Thermochromatium tepidum}
+Probab=8.42  E-value=3.2e+02  Score=28.93  Aligned_cols=23  Identities=35%  Similarity=0.700  Sum_probs=17.6  Template_Neff=5.900
+
+Q AAD45264.1      383 LFWLVVFRFLYILRRKRDVEHIS  405 (411)
+Q Consensus       383 IFwl~~f~~~~~~~~~~~~~~~~  405 (411)
+                      .||++...+.|.||||+..|--.
+T Consensus        18 ~f~~ff~~li~yl~~e~~regyp   40 (259)
+T 4V8K_BH          18 AFWLFFFGLIIYLRREDKREGYP   40 (259)
+T ss_pred             HHHHHHHHHHHHHHHhccccCCC
+Confidence            48887777788999998877543
+
+
+No 9
+>5Y5S_H Photosynthetic reaction center cytochrome c; LH1-RC, photosynthesis, purple bacteria; HET: BCL, GOL, BPH, HEM, LDA, UQ8, LMT, CA, PEF, MQ8, CDL, UNL, SO4, CRT, PGV; 1.9A {Thermochromatium tepidum}
+Probab=8.42  E-value=3.2e+02  Score=28.93  Aligned_cols=23  Identities=35%  Similarity=0.700  Sum_probs=17.6  Template_Neff=5.900
+
+Q AAD45264.1      383 LFWLVVFRFLYILRRKRDVEHIS  405 (411)
+Q Consensus       383 IFwl~~f~~~~~~~~~~~~~~~~  405 (411)
+                      .||++...+.|.||||+..|--.
+T Consensus        18 ~f~~ff~~li~yl~~e~~regyp   40 (259)
+T 5Y5S_H           18 AFWLFFFGLIIYLRREDKREGYP   40 (259)
+T ss_pred             HHHHHHHHHHHHHHHhccccCCC
+Confidence            48887777788999998877543
+
+
+No 10
+>3ZO6_D ATP SYNTHASE ROTOR RING; HYDROLASE; HET: FME; 4.104A {Bacillus pseudofirmus OF4}
+Probab=8.29  E-value=3.3e+02  Score=22.20  Aligned_cols=41  Identities=15%  Similarity=0.284  Sum_probs=0.0  Template_Neff=7.700
+
+Q AAD45264.1      289 LGAGVFGGGGVLGYAQYPMAHNG----------IVELLCIYGFIFGGLAVL  329 (411)
+Q Consensus       289 ~GvG~~GgsGtLg~~~~PMAHNq----------~~Eli~v~G~~~ggi~i~  329 (411)
+                      .|.|..+.++.-+....|.++++          +.|...++|++.+.+...
+T Consensus        19 ~g~g~~~~~~~~~~~r~P~~~~~i~~~~ii~~a~~E~~~i~g~vi~~~i~~   69 (69)
+T 3ZO6_D           19 IGVAIIVKATIEGTTRQPELRGTLQTLMFIGVPLAEAVPIIAIVISLLILF   69 (69)
+T ss_dssp             HHHHHHHHHHHHHHHHCSTTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHC
+T ss_pred             HHHHHHHHHHHHHHhhCHHHHhHHHHHHHHHHHHHHHHHHHHHHHHHHHhC
+
+

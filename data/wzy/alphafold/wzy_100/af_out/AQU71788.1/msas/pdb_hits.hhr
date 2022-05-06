@@ -1,0 +1,156 @@
+Query         AQU71788.1 O-antigen polymerase [Escherichia coli O2:H49]
+Match_columns 348
+No_of_seqs    129 out of 210
+Neff          7.40209
+Searched_HMMs 80799
+Date          Fri Feb  4 16:13:34 2022
+Command       /usr/bin/hhsearch -i /tmp/tmpawpsjy42/query.a3m -o /tmp/tmpawpsjy42/output.hhr -maxseq 1000000 -d /mnt/pdb70_database_path/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 5L6N_I Prothrombin (E.C.3.4.21  13.8 1.6E+02   0.002   19.6   0.0   13   46-58      6-18  (35)
+  2 6QDV_F Eukaryotic initiation f  10.0 2.6E+02  0.0032   24.6   0.0   20   46-65     12-31  (122)
+  3 1UF2_K Core protein P3/Outer c   6.5 4.6E+02  0.0057   28.2   0.0   16   49-64    304-319 (506)
+  4 4BOH_M THROMBIN HEAVY CHAIN (E   5.7 5.4E+02  0.0067   19.3   0.0   14   45-58     24-37  (60)
+  5 5VLA_Z Proprotein convertase s   4.5 7.2E+02  0.0089   15.8   0.0   10   51-60      4-13  (30)
+  6 4KT6_D Nicotine adenine dinucl   4.1 8.2E+02    0.01   22.8   0.0   38   47-85      2-39  (161)
+  7 2NUD_C Avirulence B protein, R   3.6 9.5E+02   0.012   16.1   0.0   18   47-64     13-32  (35)
+  8 3QB2_B Immunity factor for SPN   3.4   1E+03   0.013   22.7   0.0   38   47-85      2-39  (187)
+  9 5Z08_D Cenp-I, Cenp-K, Cenp-H;   3.2 1.1E+03   0.014   16.9   0.0   19   42-60     19-37  (45)
+ 10 6ITH_A Syndecan-2; membrane pr   3.1 1.2E+03   0.014   16.7   0.0   15  144-158    21-35  (41)
+
+No 1
+>5L6N_I Prothrombin (E.C.3.4.21.5), Thrombin inhibitor madanin; Hydrolase, Anticoagulant Sulfotyrosine; HET: NAG, TYS; 1.627A {Homo sapiens}
+Probab=13.78  E-value=1.6e+02  Score=19.57  Aligned_cols=13  Identities=31%  Similarity=0.473  Sum_probs=8.5  Template_Neff=1.600
+
+Q AQU71788.1       46 RWERGTDWVSYYE   58 (348)
+Q Consensus        46 Rwe~GtDw~~Y~~   58 (348)
+                      |.+..+||+.|.+
+T Consensus         6 R~~~~~DYDeYd~   18 (35)
+T 5L6N_I            6 RTDGDADYDEYEE   18 (35)
+T ss_dssp             C--CBCCCCCCCS
+T ss_pred             cCCCCCchhhhhc
+Confidence            6677888888864
+
+
+No 2
+>6QDV_F Eukaryotic initiation factor 4A-III, RNA-binding; spliceosome, RNA, complex, SPLICING; HET: GTP, I6P, ATP, SEP; 3.3A {Homo sapiens}
+Probab=9.96  E-value=2.6e+02  Score=24.59  Aligned_cols=20  Identities=25%  Similarity=0.398  Sum_probs=15.1  Template_Neff=3.500
+
+Q AQU71788.1       46 RWERGTDWVSYYEIYQAAKN   65 (348)
+Q Consensus        46 Rwe~GtDw~~Y~~~f~~~~~   65 (348)
+                      |-.+|-||+.|.+.--+.+|
+T Consensus        12 rV~tGyeWnkYNqtHYD~dn   31 (122)
+T 6QDV_F           12 RVHTGFAWNKYNQTHYDFDN   31 (122)
+T ss_pred             eeeccchhhhhhccccCCCC
+Confidence            56799999999887654444
+
+
+No 3
+>1UF2_K Core protein P3/Outer capsid protein; VIRUS COMPONENTS, Icosahedral virus, Virus; 3.5A {Rice dwarf virus}
+Probab=6.45  E-value=4.6e+02  Score=28.18  Aligned_cols=16  Identities=25%  Similarity=0.405  Sum_probs=13.0  Template_Neff=2.400
+
+Q AQU71788.1       49 RGTDWVSYYEIYQAAK   64 (348)
+Q Consensus        49 ~GtDw~~Y~~~f~~~~   64 (348)
+                      -.|||++|+.+|++..
+T Consensus       304 k~~~~~~y~~~fn~~v  319 (506)
+T 1UF2_K          304 KRTDSDAYEKLYSETI  319 (506)
+T ss_pred             hhcCHHHHHHHhHHHH
+Confidence            4589999999997654
+
+
+No 4
+>4BOH_M THROMBIN HEAVY CHAIN (E.C.3.4.21.5), THROMBIN; HYDROLASE-INHIBITOR COMPLEX, COAGULATION INHIBITOR, PROTEASE; HET: NAG, SO4; 2.595A {HOMO SAPIENS}
+Probab=5.68  E-value=5.4e+02  Score=19.34  Aligned_cols=14  Identities=29%  Similarity=0.406  Sum_probs=11.5  Template_Neff=1.600
+
+Q AQU71788.1       45 MRWERGTDWVSYYE   58 (348)
+Q Consensus        45 lRwe~GtDw~~Y~~   58 (348)
+                      =|.+..+||+.|.+
+T Consensus        24 eR~~~~~DYDeYd~   37 (60)
+T 4BOH_M           24 KRTDGDADYDEYEE   37 (60)
+T ss_pred             hccCCCCCchhccc
+Confidence            58888899999865
+
+
+No 5
+>5VLA_Z Proprotein convertase subtilisin/kexin type 9; proprotein convertase, subtilisin, HYDROLASE; 2.4A {Homo sapiens}
+Probab=4.53  E-value=7.2e+02  Score=15.79  Aligned_cols=10  Identities=30%  Similarity=0.770  Sum_probs=6.1  Template_Neff=1.000
+
+Q AQU71788.1       51 TDWVSYYEIY   60 (348)
+Q Consensus        51 tDw~~Y~~~f   60 (348)
+                      |.|+.|.+.-
+T Consensus         4 tsweeyldwv   13 (30)
+T 5VLA_Z            4 TSWEEYLDWV   13 (30)
+T ss_dssp             SSHHHHHHHC
+T ss_pred             ccHHHHHhhh
+Confidence            5677666544
+
+
+No 6
+>4KT6_D Nicotine adenine dinucleotide glycohydrolase, Putative; Streptococcus pyogenes, ARTT motif, beta-NAD+; 1.71A {Streptococcus pyogenes}
+Probab=4.08  E-value=8.2e+02  Score=22.77  Aligned_cols=38  Identities=13%  Similarity=0.292  Sum_probs=26.9  Template_Neff=4.000
+
+Q AQU71788.1       47 WERGTDWVSYYEIYQAAKNSTVCSNIYCLGVEPGYYFLN   85 (348)
+Q Consensus        47 we~GtDw~~Y~~~f~~~~~~~~~~~~~~~~~E~Gy~~ln   85 (348)
+                      |++..|++.|..+|+..-+-+.... ...|.|++|.+=.
+T Consensus         2 ~~~p~~~~~y~~l~~ka~~~~el~~-~f~G~~~~Yr~~~   39 (161)
+T 4KT6_D            2 YKVPKGLEHYQKMFQKEVTVNDLKK-YLIGSDKEYRITR   39 (161)
+T ss_dssp             CCCCSSCHHHHHHTSSCCCHHHHHH-HHHCCSGGGCCCC
+T ss_pred             CCCCccHHHHHHHHHHhcchhHHHH-HHcCCCCceeeec
+Confidence            5677899999999987665444443 3466789988654
+
+
+No 7
+>2NUD_C Avirulence B protein, RPM1-interacting protein; AvrB RIN4 high-affinity crystal structure; HET: ETF, TRS; 2.3A {Pseudomonas syringae pv. glycinea}
+Probab=3.64  E-value=9.5e+02  Score=16.09  Aligned_cols=18  Identities=17%  Similarity=0.577  Sum_probs=9.9  Template_Neff=5.400
+
+Q AQU71788.1       47 WERGT--DWVSYYEIYQAAK   64 (348)
+Q Consensus        47 we~Gt--Dw~~Y~~~f~~~~   64 (348)
+                      ||...  ++.+|..+|+.+.
+T Consensus        13 Wd~~~~~~~~~yT~~F~~ar   32 (35)
+T 2NUD_C           13 WDENNPSSADGYTHIFNKVR   32 (35)
+T ss_dssp             GGTTCTTCCCSSCEEEECC-
+T ss_pred             CCCCCccccCCCchHHHHHH
+Confidence            55432  3667777776543
+
+
+No 8
+>3QB2_B Immunity factor for SPN; Glycohydrolase Inhibitor, Streptococcus pyogenes glycohydrolase; HET: SO4; 2.5A {Streptococcus pyogenes}
+Probab=3.37  E-value=1e+03  Score=22.69  Aligned_cols=38  Identities=13%  Similarity=0.292  Sum_probs=27.3  Template_Neff=3.700
+
+Q AQU71788.1       47 WERGTDWVSYYEIYQAAKNSTVCSNIYCLGVEPGYYFLN   85 (348)
+Q Consensus        47 we~GtDw~~Y~~~f~~~~~~~~~~~~~~~~~E~Gy~~ln   85 (348)
+                      |++..|++.|..+|+..-+-+.... +..|.|+||.+=.
+T Consensus         2 ~~~p~~~~~y~~l~~ka~~~~el~~-~f~G~~~~Yri~~   39 (187)
+T 3QB2_B            2 YKVPKGLEHYQKMFQKEVTVNDLKK-YLIGSDKEYRITR   39 (187)
+T ss_pred             CCCCCcHHHHHHHHHHHcccchHHH-HHcCCCCCeeecc
+Confidence            5678899999999987665444443 3466799998654
+
+
+No 9
+>5Z08_D Cenp-I, Cenp-K, Cenp-H; protein complex, kinetochore, centromere, CELL; 2.199A {Chaetomium thermophilum (strain DSM 1495 / CBS 144.50 / IMI 039719)}
+Probab=3.18  E-value=1.1e+03  Score=16.86  Aligned_cols=19  Identities=26%  Similarity=0.394  Sum_probs=14.0  Template_Neff=5.000
+
+Q AQU71788.1       42 ISSMRWERGTDWVSYYEIY   60 (348)
+Q Consensus        42 ~~glRwe~GtDw~~Y~~~f   60 (348)
+                      ++|+--+-|-||..-.+.-
+T Consensus        19 ~~~lI~~SgVdWa~D~~L~   37 (45)
+T 5Z08_D           19 ASAIVAGSGIDWVRDERLR   37 (45)
+T ss_dssp             HHHHHHTTTCCCSSCHHHH
+T ss_pred             HHHHHHhcCCCcccCHHHH
+Confidence            4777888999998765543
+
+
+No 10
+>6ITH_A Syndecan-2; membrane protein, DPC, micelles; NMR {Homo sapiens}
+Probab=3.10  E-value=1.2e+03  Score=16.68  Aligned_cols=15  Identities=27%  Similarity=0.647  Sum_probs=6.6  Template_Neff=2.700
+
+Q AQU71788.1      144 TSLCLLYFLIYKEHK  158 (348)
+Q Consensus       144 i~i~l~~~~~~~~~k  158 (348)
+                      .+++|..+..||-||
+T Consensus        21 ~AIlLVmflVYRMrk   35 (41)
+T 6ITH_A           21 FAIFLILLLVYRMRK   35 (41)
+T ss_dssp             HHHHHHHHHHHHHTC
+T ss_pred             HHHHHHHHHHHHHHh
+Confidence            344444444444433
+
+

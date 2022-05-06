@@ -1,0 +1,180 @@
+Query         CAI34475.1 oligosaccharide repeat unit polymerase Wzy [Streptococcus pneumoniae]
+Match_columns 419
+No_of_seqs    14 out of 15
+Neff          4.07454
+Searched_HMMs 80799
+Date          Wed Apr 27 19:47:33 2022
+Command       /usr/bin/hhsearch -i /tmp/tmp4rjtioaj/query.a3m -o /tmp/tmp4rjtioaj/output.hhr -maxseq 1000000 -d /mnt/disks/data/pdb70/pdb70 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 6BAR_A Rod shape determining p  92.9   0.031 3.8E-07   56.7   0.0   73  279-363   217-291 (359)
+  2 6PL5_A Peptidoglycan glycosylt  92.8   0.032   4E-07   57.5   0.0   92  260-364   217-310 (377)
+  3 5G0Z_A GRANULIN; STRUCTURAL PR   5.9 5.2E+02  0.0065   27.5   0.0   28  303-336     2-29  (248)
+  4 5G3X_A GRANULOVIRUS POLYHEDRIN   5.9 5.2E+02  0.0065   27.5   0.0   28  303-336     2-29  (248)
+  5 6P25_B Dolichyl-diphosphooligo   5.7 5.4E+02  0.0067   30.5   0.0   17  202-218   249-265 (759)
+  6 4MIW_A RNA-directed RNA polyme   4.8 6.7E+02  0.0082   25.9   0.0   39  124-165   109-149 (178)
+  7 5IZH_B RNA-directed RNA polyme   4.4 7.5E+02  0.0093   25.4   0.0   41  124-167   102-144 (171)
+  8 5J1N_A RNA-directed RNA polyme   4.1 8.1E+02    0.01   25.3   0.0   41  124-167   102-144 (175)
+  9 2L6W_B Beta-type platelet-deri   4.0 8.5E+02    0.01   19.1   0.0   14  173-186    24-37  (39)
+ 10 4I1T_A RNA-directed RNA polyme   3.4   1E+03   0.013   25.4   0.0   41  124-167   121-163 (215)
+
+No 1
+>6BAR_A Rod shape determining protein RodA; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; HET: OLC; 2.908A {Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579)}
+Probab=92.85  E-value=0.031  Score=56.74  Aligned_cols=73  Identities=10%  Similarity=0.041  Sum_probs=35.5  Template_Neff=9.300
+
+Q CAI34475.1      279 RVINAKTGLDVIFDQNVINIFIGNGYDFLPNFFEQYNVYVIRNGFYVIDNTY--ISFLADYGMIGLFLVLLYIINAIRKS  356 (419)
+Q Consensus       279 Rs~s~~~~L~~i~~~n~L~~l~GnG~~~L~~~~~~n~i~iv~~~FyvIDNqY--vTflyD~GivGLil~l~~iv~~I~~~  356 (419)
+                      |..-++...+.+.+.    -++|+|.+.......        ...-..+|+|  ....+|+|++|.++++......+.+.
+T Consensus       217 ~~~~~~~~~~~i~~~----~~~G~G~g~~~~~~~--------~~~~~~h~d~i~~~i~~e~G~ig~~~~l~l~~~l~~~~  284 (359)
+T 6BAR_A          217 QGFQVIQSTIAIGSG----GLFGKGYGQGTQAQL--------GFIPFRHTDFVFSVWAEEWGFVGVVGLLGLYGLLLARL  284 (359)
+T ss_dssp             -----------CTTT----CCSCC-----------------------CCTTTTHHHHHHHSHHHHHHHHHHHHHHHHHHH
+T ss_pred             CCHHHHHHHHHHHhc----CcccccCCccccccc--------ccCccccCccHHHHHHHHcchHHHHHHHHHHHHHHHHH
+Confidence            334445666665554    578888876432100        1122457777  99999999999888888777667676
+
+
+Q CAI34475.1      357 MTNIYKI  363 (419)
+Q Consensus       357 ~~~~~~i  363 (419)
+                      ++...|.
+T Consensus       285 ~~~~~~~  291 (359)
+T 6BAR_A          285 FALALAC  291 (359)
+T ss_dssp             HHHHTTC
+T ss_pred             HHHHHhC
+Confidence            6555543
+
+
+No 2
+>6PL5_A Peptidoglycan glycosyltransferase RodA (E.C.2.4.1.129), Penicillin-binding; Peptidoglycan Glycosyltransferase, transmembrane protein, Shape; 3.5A {Thermus thermophilus HB8}
+Probab=92.80  E-value=0.032  Score=57.47  Aligned_cols=92  Identities=10%  Similarity=0.019  Sum_probs=45.7  Template_Neff=8.900
+
+Q CAI34475.1      260 IIFSKFSALQDADSFSLNNRVINAKTGLDVIFDQNVINIFIGNGYDFLPNFFEQYNVYVIRNGFYVIDNTY--ISFLADY  337 (419)
+Q Consensus       260 ~i~~RFs~l~~~~s~s~~qRs~s~~~~L~~i~~~n~L~~l~GnG~~~L~~~~~~n~i~iv~~~FyvIDNqY--vTflyD~  337 (419)
+                      ...+|+.+..+....+. .|..-++...+.+.+.    -++|+|.+.......        ...-..+|+|  ....+|+
+T Consensus       217 ~~~~Ri~~~~~p~~~~~-~~g~~~~~~~~~i~~~----~~~G~G~g~~~~~~~--------~~~p~~h~d~i~~~i~~e~  283 (377)
+T 6PL5_A          217 YQRERVLIVLDPYRDPL-GQGFQVIQSTIAIGSG----GLFGKGYGQGTQAQL--------GFIPFRHTDFVFSVWAEEW  283 (377)
+T ss_dssp             HHHHHHHHHHSCCCHHH-HHHHHHHHHHHTTCCC----C------------------------CCSCSSTTHHHHHHHHH
+T ss_pred             hHHHHHHHhhCCCCCCC-CCcHHHHHHHHHHHhc----CCcCcCCCCcccchh--------hcCcCCCCCcHHHHHHHHc
+Confidence            34555554433211111 3333345566665544    578888876432100        0122457777  9999999
+
+
+Q CAI34475.1      338 GMIGLFLVLLYIINAIRKSMTNIYKIK  364 (419)
+Q Consensus       338 GivGLil~l~~iv~~I~~~~~~~~~i~  364 (419)
+                      |++|.++++......+.+.++...|.+
+T Consensus       284 G~ig~~~~l~l~~~l~~~~~~~~~~~~  310 (377)
+T 6PL5_A          284 GFVGVVGLLGLYGLLLARLFALALACP  310 (377)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHHHHCC
+T ss_pred             cHHHHHHHHHHHHHHHHHHHHHHHhCC
+Confidence            999988888877766666666555433
+
+
+No 3
+>5G0Z_A GRANULIN; STRUCTURAL PROTEIN, FEL, NATIVE CRYSTALS; 2.001A {CYDIA POMONELLA GRANULOVIRUS}
+Probab=5.86  E-value=5.2e+02  Score=27.52  Aligned_cols=28  Identities=25%  Similarity=0.311  Sum_probs=15.7  Template_Neff=2.000
+
+Q CAI34475.1      303 GYDFLPNFFEQYNVYVIRNGFYVIDNTYISFLAD  336 (419)
+Q Consensus       303 G~~~L~~~~~~n~i~iv~~~FyvIDNqYvTflyD  336 (419)
+                      |+++...|=+.+|.+      |++||+|..-+.+
+T Consensus         2 gy~~~~~Ys~~~G~T------yVyDNKyYKnLGa   29 (248)
+T 5G0Z_A            2 GYNKSLRYSRHDGTS------CVIDNHHLKSLGA   29 (248)
+T ss_dssp             ----CCSSTTCCCCE------EEETTEEEECHHH
+T ss_pred             CCccccCCCCCCCce------EEEccHHHHhHHH
+Confidence            455555553434544      8999999876543
+
+
+No 4
+>5G3X_A GRANULOVIRUS POLYHEDRIN; VIRAL PROTEIN, NATIVE CRYSTALS, NANO; 1.66A {CYDIA POMONELLA GRANULOVIRUS}
+Probab=5.86  E-value=5.2e+02  Score=27.52  Aligned_cols=28  Identities=25%  Similarity=0.311  Sum_probs=12.8  Template_Neff=2.000
+
+Q CAI34475.1      303 GYDFLPNFFEQYNVYVIRNGFYVIDNTYISFLAD  336 (419)
+Q Consensus       303 G~~~L~~~~~~n~i~iv~~~FyvIDNqYvTflyD  336 (419)
+                      |+++...|=+.+|.+      |++||+|..-+.+
+T Consensus         2 gy~~~~~Ys~~~G~T------yVyDNKyYKnLGa   29 (248)
+T 5G3X_A            2 GYNKSLRYSRHDGTS------CVIDNHHLKSLGA   29 (248)
+T ss_dssp             ----------CCSCE------EEETTEEEECHHH
+T ss_pred             CCccccCCCCCCCce------EEEccHHHHhHHH
+Confidence            455555553434544      8999999876543
+
+
+No 5
+>6P25_B Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunits (E.C.2.4.99.18); complex, TRANSFERASE, glycosylation; HET: NAG, NNM, CPL; 3.2A {Saccharomyces cerevisiae W303}
+Probab=5.67  E-value=5.4e+02  Score=30.45  Aligned_cols=17  Identities=6%  Similarity=0.100  Sum_probs=6.5  Template_Neff=8.800
+
+Q CAI34475.1      202 KRTAYILVSIGVVCFAL  218 (419)
+Q Consensus       202 sRS~yi~l~ia~v~~ll  218 (419)
+                      +|...+.+.++++++.+
+T Consensus       249 ~K~~~l~~~~~i~l~~l  265 (759)
+T 6P25_B          249 VKMVGLFIITMVGIYTV  265 (759)
+T ss_dssp             HCGGGHHHHHHHHHHHH
+T ss_pred             hchhHHHHHHHHHHHHH
+Confidence            34433333333333433
+
+
+No 6
+>4MIW_A RNA-directed RNA polymerase L (E.C.2.7.7.48); beta sheet, helix, Endoribonuclease type; 1.72A {Lassa virus}
+Probab=4.83  E-value=6.7e+02  Score=25.92  Aligned_cols=39  Identities=18%  Similarity=0.097  Sum_probs=28.8  Template_Neff=3.400
+
+Q CAI34475.1      124 FISLGQFNP--FKTFYAPRVLLDMSFKVGTPLYFLRSSLEHPLI  165 (419)
+Q Consensus       124 ~e~l~~~Np--F~~~f~~~~~~~~~~~~Gt~lyrv~G~~~HPIi  165 (419)
+                      .|+-++.||  |+|-|++|..-..+-+-+....   |.+.-|++
+T Consensus       109 LE~fvRs~p~~fe~K~~~D~~Kl~~lk~dL~~~---gitlIpiv  149 (178)
+T 4MIW_A          109 LECFVRSSPANFEQKYIEDFKKLEQLKEDLKSV---DINLIPLI  149 (178)
+T ss_dssp             EEEEECSSHHHHHHHHHHHHHHHHTTHHHHHTT---TCEEEEEE
+T ss_pred             EEeeecCChhHHHHHHHHHHHHHHHHHHHHhhC---CcEEEEee
+Confidence            788899999  9999999988766666544332   66555554
+
+
+No 7
+>5IZH_B RNA-directed RNA polymerase L (E.C.2.7.7.48); cap-snatching nuclease Lassa transcription, TRANSFERASE; 1.85A {Lassa mammarenavirus}
+Probab=4.40  E-value=7.5e+02  Score=25.43  Aligned_cols=41  Identities=17%  Similarity=0.083  Sum_probs=30.9  Template_Neff=3.400
+
+Q CAI34475.1      124 FISLGQFNP--FKTFYAPRVLLDMSFKVGTPLYFLRSSLEHPLITS  167 (419)
+Q Consensus       124 ~e~l~~~Np--F~~~f~~~~~~~~~~~~Gt~lyrv~G~~~HPIi~a  167 (419)
+                      .|+-++.||  |+|-|++|..-..+-+-+.   +-.|.+..|++-+
+T Consensus       102 LE~fvRs~p~~fe~K~~~D~~Kl~~lk~dL---~~~GitLvpivdg  144 (171)
+T 5IZH_B          102 LECFVRSSPANFEQKYIEDFKKLEQLKEDL---KTVNISLIPLIDG  144 (171)
+T ss_dssp             EEEEECSSHHHHHHHHHHHHHHHHHHHHHH---HTTTCEEEEEEEE
+T ss_pred             EEeeecCChhHHHHHHHHHHHHHHHHHHHH---HhcCcEEEEEeeC
+Confidence            788899999  9999999988766655533   4567777777644
+
+
+No 8
+>5J1N_A RNA-directed RNA polymerase L (E.C.2.7.7.48); cap-snatching nuclease Lassa transcription, TRANSFERASE; HET: MPD; 1.09A {Lassa mammarenavirus}
+Probab=4.13  E-value=8.1e+02  Score=25.29  Aligned_cols=41  Identities=17%  Similarity=0.083  Sum_probs=30.8  Template_Neff=3.400
+
+Q CAI34475.1      124 FISLGQFNP--FKTFYAPRVLLDMSFKVGTPLYFLRSSLEHPLITS  167 (419)
+Q Consensus       124 ~e~l~~~Np--F~~~f~~~~~~~~~~~~Gt~lyrv~G~~~HPIi~a  167 (419)
+                      .|+-++.||  |+|-|++|..-..+-+-+.   +-.|.+..|++-+
+T Consensus       102 LE~fvRs~p~~fe~K~~~D~~Kl~~lk~dL---~~~GitLvpivdg  144 (175)
+T 5J1N_A          102 LECFVRSSPANFEQKYIEDFKKLEQLKEDL---KTVNISLIPLIDG  144 (175)
+T ss_dssp             EEEEECCSHHHHHHHHHHHHHHHHTTHHHH---HHTTCEEEEEEEE
+T ss_pred             EEeeecCChhHHHHHHHHHHHHHHHHHHHH---HhcCcEEEEEeeC
+Confidence            788899999  9999999988766655433   3567777777654
+
+
+No 9
+>2L6W_B Beta-type platelet-derived growth factor receptor; transmembrane helix, receptor tyrosine kinase; NMR {Homo sapiens}
+Probab=3.99  E-value=8.5e+02  Score=19.06  Aligned_cols=14  Identities=29%  Similarity=0.159  Sum_probs=6.0  Template_Neff=4.700
+
+Q CAI34475.1      173 TGPFLFLLEKKWLR  186 (419)
+Q Consensus       173 t~~~~F~~~~k~~r  186 (419)
+                      ..+.+++..++..|
+T Consensus        24 ~liiLiyk~~qKPk   37 (39)
+T 2L6W_B           24 SLIILIMLWQKKPR   37 (39)
+T ss_dssp             HHHHHHHHHHCSCC
+T ss_pred             HHHHHHHHHHhCCC
+Confidence            33444454444443
+
+
+No 10
+>4I1T_A RNA-directed RNA polymerase L (E.C.2.7.7.48); Arenavirus, Pichinde virus, viral transcription; 2.8A {Pichinde virus}
+Probab=3.43  E-value=1e+03  Score=25.37  Aligned_cols=41  Identities=15%  Similarity=0.118  Sum_probs=31.1  Template_Neff=3.200
+
+Q CAI34475.1      124 FISLGQFNP--FKTFYAPRVLLDMSFKVGTPLYFLRSSLEHPLITS  167 (419)
+Q Consensus       124 ~e~l~~~Np--F~~~f~~~~~~~~~~~~Gt~lyrv~G~~~HPIi~a  167 (419)
+                      .|+-++.||  |+|-|++|..-..+-+-+.   +-.|.+..|++-+
+T Consensus       121 LE~fvRs~p~~fe~Ky~~D~~Kl~~lk~dL---~~~GitLvpivdg  163 (215)
+T 4I1T_A          121 LEVFVRTSQEAFEKKYNQDFLKLMQLSSDL---KRQNITLVPVIDG  163 (215)
+T ss_dssp             EEEEECCSHHHHHHHHHHHHHHHHTTHHHH---HHTTCEEEEEEEE
+T ss_pred             EEeEecCCHHHHHHHHHHHHHHHHhhHHHH---HhCCcEEEEEEeC
+Confidence            788899999  9999999988766665533   3567777777654
+
+
