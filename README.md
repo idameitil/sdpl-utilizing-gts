@@ -4,7 +4,7 @@
 
 Manually curated Wzys from papers are added to `data/selected-wzys.tsv`
 
-The DNA records for the Wzys were downloaded manually using NCBI batch entry. They are stored in `data/selected_OAGCs.gb` (Some are O-antigen gene clusters, some are whole genome sequences). This file is too big to store in GitHub, and is just stored locally.
+The DNA records for the Wzys were downloaded manually using NCBI batch entry (https://www.ncbi.nlm.nih.gov/sites/batchentrez). They are stored in `data/selected_OAGCs.gb` (Some are O-antigen gene clusters, some are whole genome sequences). This file is too big to store in GitHub, and is just stored locally.
 
 ### Enriching Wzy table with sugars and taxonomy
 To enrich the selected wzys with csdb sugars and taxonomy run `src/data-collection-and-preprocessing/enrich-wzys.py`
@@ -19,9 +19,7 @@ To generate fasta files run `src/data-collection-and-preprocessing/make-fastas`
 This will create the files `data/wzx.fasta`, `data/wzy.fasta` and `data/wzz.fasta`
 
 ### Expanding with Blast
-We use the HPC to 
 
-To create the job files required use `src/data-collection-and-preprocessing/gen_hpc_blast_jobs.py`
 
 ### Parsing Blast results
 To parse the blast expansion output files run `src/data-collection-and-preprocessing/parse-blast-results.py`
@@ -47,4 +45,11 @@ This will create the files `data/wzy/blast/unique-hits-min320max600.fasta` and `
 ## Explorations
 
 
-## Clustering 
+## Clustering
+Fragment sequences are manually added to the file `data/wzy/blast/ssn-clusterings/banned`. These will not be included in the clusters.
+
+`python src/ssn-clustering/all-vs-all.py/ 2205061246`
+
+`scp -r data/wzy/ssn-clusterings/2205061303 idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings`
+
+On the HPC, run: `sh /work3/idamei/ssn-clusterings/2205061303/submit.sh`

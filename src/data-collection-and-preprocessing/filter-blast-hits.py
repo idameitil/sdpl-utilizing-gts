@@ -12,9 +12,9 @@ for line in infile:
         # Save previous
         if not first:
             if len(seq) > 320 and len(seq) < 600 and seq.startswith("M"):
-                outfile.write(f'>{header}\n{seq}\n')
+                outfile.write(f'>{acc}\n{seq}\n')
                 #outfile_tsv.write(f'{acc}\t{seq}\n')
-        header = line.strip()
+        acc = line.split(' ')[0][1:]
         seq = ''
         first = False
     # Seq
