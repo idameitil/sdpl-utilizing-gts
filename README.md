@@ -46,6 +46,16 @@ This will create the files `data/wzy/blast/unique-hits-min320max600.fasta` and `
 
 
 ## Clustering
+
+### All-vs-all blast
+On the HPC, run `mkdir /work3/idamei/ssn-clusterings/[timestamp]`
+Locally, run `scp src/ssn-clustering/prepare-all-vs-all.py idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/[timestamp]/`
+And `scp data/wzy/blast/unique-hits.fasta idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/[timestamp]/`
+Then on the HPC, run `python3 /work3/idamei/ssn-clusterings/[timestamp]/prepare-all-vs-all.py [timestamp]`
+And `sh submit.sh`
+When all jobs are finished, run: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/[timestamp] data/wzy/ssn-clusterings/`
+
+###
 Fragment sequences are manually added to the file `data/wzy/blast/ssn-clusterings/banned`. These will not be included in the clusters.
 
 `python src/ssn-clustering/all-vs-all.py/ 2205061246`
