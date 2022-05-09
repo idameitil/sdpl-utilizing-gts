@@ -50,7 +50,7 @@ $BLASTDB/../current/bin/blastp -db {work_dir}/unique-hits.fasta -query {work_dir
 
 submit_file = open(f"{work_dir}/submit.sh", 'w')
 for i in range(chunk_number):
-    chunk_name = f"chunk{str(i).zfill(2)}"
+    chunk_name = f"chunk{str(i).zfill(3)}"
     fasta_path = f"{chunk_name}.fa"
     outdir = f"{work_dir}/run/{chunk_name}/"
     if not os.path.isdir(outdir):

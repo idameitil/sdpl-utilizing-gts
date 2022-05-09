@@ -53,13 +53,14 @@ Locally, run `scp src/ssn-clustering/prepare-all-vs-all.py idamei@transfer.gbar.
 And `scp data/wzy/blast/unique-hits.fasta idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/[timestamp]/`
 Then on the HPC, run `python3 /work3/idamei/ssn-clusterings/[timestamp]/prepare-all-vs-all.py [timestamp]`
 And `sh submit.sh`
-When all jobs are finished, run: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/[timestamp] data/wzy/ssn-clusterings/`
+When all jobs are finished, run locally: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/[timestamp] data/wzy/ssn-clusterings/all-vs-all-blast`
+This file is too big to store in GitHub, and is just stored locally.
 
-###
+### old
 Fragment sequences are manually added to the file `data/wzy/blast/ssn-clusterings/banned`. These will not be included in the clusters.
 
-`python src/ssn-clustering/all-vs-all.py/ 2205061246`
+`python src/ssn-clustering/all-vs-all.py/ [timestamp]`
 
-`scp -r data/wzy/ssn-clusterings/2205061303 idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings`
+`scp -r data/wzy/ssn-clusterings/[timestamp] idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings`
 
-On the HPC, run: `sh /work3/idamei/ssn-clusterings/2205061303/submit.sh`
+On the HPC, run: `sh /work3/idamei/ssn-clusterings/[timestamp]/submit.sh`
