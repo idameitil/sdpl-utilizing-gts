@@ -40,7 +40,7 @@ for line in seed_fasta:
 os.system(f"$BLASTDB/../current/bin/makeblastdb -in {work_dir}/seeds-and-unique-hits.fasta -dbtype prot -parse_seqids")
 
 # Chunkfastas
-os.system(f"chunkfasta -c {chunk_number} {work_dir}/seeds-and-unique-hits.fasta > {work_dir}chunkfasta.out")
+os.system(f"chunkfasta -c {chunk_number} -f {work_dir}/chunk%03d.fa {work_dir}/seeds-and-unique-hits.fasta > {work_dir}/chunkfasta.out")
 
 # Make run folder with jobscripts
 if not os.path.isdir(f"{work_dir}/run"):
@@ -80,7 +80,7 @@ $BLASTDB/../current/bin/blastp -db {work_dir}/seeds-and-unique-hits.fasta -query
 
 submit_file = open(f"{work_dir}/submit.sh", 'w')
 for i in range(chunk_number):
-    chunk_name = f"chunk{str(i).zfill(2)}"
+    chunk_name = f"chunk{str(i).zfill(3)}"
     fasta_path = f"{work_dir}/{chunk_name}.fa"
     outdir = f"{work_dir}/run/{chunk_name}/"
     if not os.path.isdir(outdir):
