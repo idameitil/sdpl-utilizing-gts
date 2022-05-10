@@ -1,16 +1,46 @@
 import os
 import sys
+import shutil
 
 timestamp = sys.argv[1]
 chunk_number = 200
 
 work_dir = f"/work3/idamei/ssn-clusterings/{timestamp}"
+
+# Make fasta with unique hits and seeds
+unique_hits_file = open(f'{work_dir}/unique-hits.fasta')
+#unique_hits_file = open(f'data/wzy/blast/unique-hits.fasta')
+accessions_hits = set()
+for line in unique_hits_file:
+    if line.startswith('>'):
+        accessions_hits.add(line.split(' ')[0][1:])
+        
+shutil.copy(f'{work_dir}/unique-hits.fasta', f'{work_dir}/seeds-and-unique-hits.fasta')
+#shutil.copy(f'data/wzy/blast/unique-hits.fasta', f'seeds-and-unique-hits.fasta')
+seeds_and_unique_hits_file = open(f'{work_dir}/seeds-and-unique-hits.fasta', 'a')
+#seeds_and_unique_hits_file = open(f'seeds-and-unique-hits.fasta', 'a')
+seed_fasta = open(f'{work_dir}/wzy.fasta')
+#seed_fasta = open(f'data/wzy/wzy.fasta')
+#count = 0
+for line in seed_fasta:
+    if line.startswith('>'):
+        accession = line.strip()[1:]
+        if accession not in accessions_hits:
+            new = True
+            seeds_and_unique_hits_file.write(line)
+            #count += 1
+        else:
+            new = False
+    else:
+        if new:
+            seeds_and_unique_hits_file.write(line)
+#print(count)
+
 # Make blastdb
-#os.system("export BLASTDB=/work3/garryg/blast/db")
-os.system(f"$BLASTDB/../current/bin/makeblastdb -in {work_dir}/unique-hits.fasta -dbtype prot -parse_seqids")
+os.system(f"$BLASTDB/../current/bin/makeblastdb -in {work_dir}/seeds-and-unique-hits.fasta -dbtype prot -parse_seqids")
 
 # Chunkfastas
-os.system(f"chunkfasta -c {chunk_number} unique-hits.fasta > chunkfasta.out")
+os.system(f"chunkfasta -c {chunk_number} {work_dir}/seeds-and-unique-hits.fasta > {work_dir}chunkfasta.out")
 
 # Make run folder with jobscripts
 if not os.path.isdir(f"{work_dir}/run"):
@@ -46,12 +76,12 @@ jobscript = f"""#! /bin/sh
 #BSUB -e {work_dir}/run/CHUNK/jobscript.err
 # here follow the commands you want to execute 
 export BLASTDB=/work3/garryg/blast/db
-$BLASTDB/../current/bin/blastp -db {work_dir}/unique-hits.fasta -query {work_dir}/run/CHUNK/sequences.fa -max_target_seqs 100000 -out {work_dir}/run/CHUNK/blast.out"""
+$BLASTDB/../current/bin/blastp -db {work_dir}/seeds-and-unique-hits.fasta -query {work_dir}/run/CHUNK/sequences.fa -max_target_seqs 100000 -out {work_dir}/run/CHUNK/blast.out"""
 
 submit_file = open(f"{work_dir}/submit.sh", 'w')
 for i in range(chunk_number):
-    chunk_name = f"chunk{str(i).zfill(3)}"
-    fasta_path = f"{chunk_name}.fa"
+    chunk_name = f"chunk{str(i).zfill(2)}"
+    fasta_path = f"{work_dir}/{chunk_name}.fa"
     outdir = f"{work_dir}/run/{chunk_name}/"
     if not os.path.isdir(outdir):
         os.makedirs(outdir)

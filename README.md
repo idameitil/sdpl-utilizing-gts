@@ -42,19 +42,33 @@ Then locally run:
 To filter blast hits by length and perform redundancy reduction with cd-hit run: `src/data-collection-and-preprocessing/filter-blast-hits.py`.
 This will create the files `data/wzy/blast/unique-hits-min320max600.fasta` and `data/wzy/blast/unique-hits-min320max600-cdhit99.fasta`.
 
-## Explorations
-
-
-## Clustering
+## SSN clustering
 
 ### All-vs-all blast
+To make all-vs-all alignments of seeds and blast hits:
+
 On the HPC, run `mkdir /work3/idamei/ssn-clusterings/[timestamp]`
+
 Locally, run `scp src/ssn-clustering/prepare-all-vs-all.py idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/[timestamp]/`
+
 And `scp data/wzy/blast/unique-hits.fasta idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/[timestamp]/`
+
+And `scp data/wzy/wzy.fasta idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/[timestamp]/`
+
 Then on the HPC, run `python3 /work3/idamei/ssn-clusterings/[timestamp]/prepare-all-vs-all.py [timestamp]`
+
 And `sh submit.sh`
+
 When all jobs are finished, run locally: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/[timestamp] data/wzy/ssn-clusterings/all-vs-all-blast`
-This file is too big to store in GitHub, and is just stored locally.
+
+This file is too big to store in GitHub, so is only stored locally.
+
+### Make network file
+To make the network file run `src/ssn-clustering/make-network-file.py [timestamp]`.
+This will create the file `data/wzy/ssn-clusterings/all-vs-all-blast/[timestamp]/network`.
+
+### Get clusters
+`src/ssn-clustering/get-clusters.py [timestamp]`
 
 ### old
 Fragment sequences are manually added to the file `data/wzy/blast/ssn-clusterings/banned`. These will not be included in the clusters.
