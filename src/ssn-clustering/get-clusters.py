@@ -1,20 +1,20 @@
-from cmath import exp
 import os
 import sys
 import random
 import pandas as pd
 sys.path.append("/Users/idamei/garryg/bioP/lib")
-from Fasta import read_fasta
 
 timestamp = sys.argv[1]
-expansion_threshold = 10**-30
+expansion_threshold = 10**-10
 ssn_threshold = 200
 
 def write_metadata():
-    """Global variables: outdir, expansion_threshold, ssn_threshold"""
+    """Writes file with metadata.
+    Global variables: outdir, expansion_threshold, ssn_threshold
+    """
     outfile = open(f"{outdir}/metadata.txt", "w")
     outfile.write(f"Expansion threshold: e-value {expansion_threshold}\n")
-    outfile.write(f"SSN threshold: e-value {ssn_threshold}\n")
+    outfile.write(f"SSN threshold: score {ssn_threshold}\n")
     outfile.close()
 
 def read_banned_list(banned_file):
@@ -26,6 +26,9 @@ def read_banned_list(banned_file):
     return banned_accessions
 
 def read_filtered_reduced_fasta(filtered_reduced_fasta):
+    """Reads fasta file with blast hits filtered by length and
+    redundancy reduced.
+    """
     fh = open(filtered_reduced_fasta)
     filtered_reduced_accessions = set()
     for line in fh:
@@ -35,6 +38,7 @@ def read_filtered_reduced_fasta(filtered_reduced_fasta):
     return filtered_reduced_accessions
 
 def read_seed_fasta(seed_fasta):
+    """Reads fasta file with seed sequences"""
     fh = open(seed_fasta)
     seed_accessions = set()
     for line in fh:
@@ -44,12 +48,15 @@ def read_seed_fasta(seed_fasta):
     return seed_accessions
 
 def read_unique_hits_tsv(unique_hits_tsv):
+    """Reads file with best e-value for each blast hit"""
     unique_hits_df = pd.read_csv(unique_hits_tsv, sep = '\t', names=['acc', 'evalue'])
     return unique_hits_df
 
 def find_accessions_to_include(banned_accessions, filtered_reduced_accessions, seed_accessions, unique_hits_df, expansion_threshold):
     """Finds accessions to include in SSN.
-    Filters based on expansion threshold, adds seeds, and removes banned."""
+    Filters based on expansion threshold, adds seeds, and removes banned.
+    """
+
     # Filter hits by expansion threshold
     print(f'Number of filtered, reduced hits: {len(filtered_reduced_accessions)}')
     print(f'Filtering hits based on expansion threshold')
@@ -69,7 +76,9 @@ def find_accessions_to_include(banned_accessions, filtered_reduced_accessions, s
     return accessions_include
 
 def write_included_accession_file(accessions_include):
-    """Global variables: outdir"""
+    """Writes file with list accessions included in the network.
+    Global variables: outdir
+    """
     outfile = open(f"{outdir}/included_accessions.txt", 'w')
     for acc in accessions_include:
         outfile.write(acc+'\n')
@@ -77,11 +86,13 @@ def write_included_accession_file(accessions_include):
 
 def parse_network_file(network_filename, accessions_include):
     """Parses the big network file.
-    Filters based on accessions_include.
+    Filters based on accessions_include and SSN threshold.
     Creates a dict with each accession as key and a list of all its neighbors as value.
     Writes new small network file.
     
-    Global variables: outdir, ssn_threshold"""
+    Global variables: outdir, ssn_threshold
+    """
+
     sys.stderr.write("Parsing network file\n\n")
     infile = open(network_filename)
     outfile = open(f"{outdir}/network", "w")
@@ -110,6 +121,7 @@ def parse_network_file(network_filename, accessions_include):
     return neighbor_dict
 
 def get_clusters(neighbor_dict):
+    """Gets all clusters in network."""
     sys.stderr.write("Getting clusters\n")
     to_visit = neighbor_dict
     to_visit_next = set()
@@ -142,26 +154,10 @@ def get_clusters(neighbor_dict):
         clusters.append(cluster)
     return clusters
 
-def get_total_count(accessions_include):
-    total_count = len(accessions_include)
-    return total_count
-
-def get_node_count(clusters):
-    count = 0
-    for cluster in clusters:
-        count += len(cluster)
-    return node_count
-
-def get_singleton_count(total_count, node_count):
-    singleton_count = total_count - node_count
-    return singleton_count
-
-def get_cluster_count(clusters):
-    cluster_count = len(clusters)
-    return cluster_count
-
 def write_info_file():
-    """Global variables: accessions_include, clusters"""
+    """ Writes info file.
+    Global variables: accessions_include, clusters
+    """
     def get_total_count(accessions_include):
         total_count = len(accessions_include)
         return total_count
@@ -191,10 +187,12 @@ def write_info_file():
     outfile.write(f"Number of nodes in clusters: {node_count} \n")
     outfile.write(f"Number of clusters: {len(clusters)} \n")
 
+# Make outdir
 outdir = f"data/wzy/ssn-clusterings/clustering/{timestamp}"
 if not os.path.isdir(outdir):
     os.makedirs(outdir)
 
+# Define file paths
 filtered_reduced_fasta = "data/wzy/blast/unique-hits-min320max600-cdhit99.fasta"
 banned_file = "data/wzy/ssn-clusterings/banned"
 unique_hits_tsv = "data/wzy/blast/unique-hits.tsv"

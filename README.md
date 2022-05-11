@@ -83,7 +83,9 @@ This will create the file `data/wzy/ssn-clusterings/all-vs-all-blast/[timestamp]
 ### Get clusters
 To get the clusters in the SSN run: `src/ssn-clustering/get-clusters.py [timestamp]`.
 
-This will create the folder `data/wzy/ssn-clusterings/clustering/[timestamp]` which contains a folder `clusters` with all the clusters, a `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt` and `network`.
+This will create the folder `data/wzy/ssn-clusterings/clustering/[timestamp]` which contains a folder `clusters` with fasta files for all the clusters, a `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt` and `network`.
+
+### Analyse clusters
 
 ### old
 Fragment sequences are manually added to the file `data/wzy/blast/ssn-clusterings/banned`. These will not be included in the clusters.
