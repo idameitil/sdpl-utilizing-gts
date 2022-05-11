@@ -7,8 +7,8 @@ sys.path.append("/Users/idamei/garryg/bioP/lib")
 from Fasta import read_fasta
 
 timestamp = sys.argv[1]
-expansion_threshold = 10**-10
-ssn_threshold = 300
+expansion_threshold = 10**-30
+ssn_threshold = 200
 
 def write_metadata():
     """Global variables: outdir, expansion_threshold, ssn_threshold"""
@@ -70,7 +70,7 @@ def find_accessions_to_include(banned_accessions, filtered_reduced_accessions, s
 
 def write_included_accession_file(accessions_include):
     """Global variables: outdir"""
-    outfile = open(f"{outdir}/included_accessions", 'w')
+    outfile = open(f"{outdir}/included_accessions.txt", 'w')
     for acc in accessions_include:
         outfile.write(acc+'\n')
     outfile.close()
@@ -81,8 +81,8 @@ def parse_network_file(network_filename, accessions_include):
     Creates a dict with each accession as key and a list of all its neighbors as value.
     Writes new small network file.
     
-    Global variables: outdir"""
-    sys.stderr.write("Parsing network file\n")
+    Global variables: outdir, ssn_threshold"""
+    sys.stderr.write("Parsing network file\n\n")
     infile = open(network_filename)
     outfile = open(f"{outdir}/network", "w")
     neighbor_dict = {}
@@ -91,7 +91,8 @@ def parse_network_file(network_filename, accessions_include):
             continue
         first_accession, second_accession, score, e_value = line.strip().split('\t')
         # Filter
-        if first_accession in accessions_include and second_accession in accessions_include:
+        if first_accession in accessions_include and second_accession in accessions_include \
+            and float(score) > ssn_threshold:
             # Add first accession to neighbor_dict
             if first_accession in neighbor_dict:
                 neighbor_dict[first_accession].append(second_accession)
@@ -190,36 +191,6 @@ def write_info_file():
     outfile.write(f"Number of nodes in clusters: {node_count} \n")
     outfile.write(f"Number of clusters: {len(clusters)} \n")
 
-def make_fastas(clusters):
-    """Writes fasta file for each cluster."""
-    # Make directory
-    fasta_dir = f"{output_directory(expansion_threshold, ssn_threshold)}/fastas"
-    if not os.path.isdir(fasta_dir):
-        os.makedirs(fasta_dir)
-    else:
-        sys.stderr.write("WARNING: Fasta directory already exists!\n")
-    count = 0
-    cluster_file = open(f"{output_directory(expansion_threshold, ssn_threshold)}/clusters.tsv", "w")
-    for cluster in clusters:
-        count += 1
-        # Filename
-        cluster_size = str(len(cluster)).zfill(4)
-        fasta_outfile = open(f"{fasta_dir}/{cluster_size}_{count}.fa", "w")
-        accessions_done = list()
-        # Write annotated
-        annotated_in_cluster = annotated_df.loc[annotated_df['protein_accession'].isin(cluster), ['protein_accession', 'sequence']]
-        for index, row in annotated_in_cluster.iterrows():
-            accessions_done.append(row.protein_accession)
-            fasta_outfile.write(f">{row.protein_accession}\n{row.sequence}\n")
-            cluster_file.write(f"{row.protein_accession}\t{count}\n")
-        # Write blast hits
-        blast_hits_in_cluster = blast_hits_df.loc[blast_hits_df['accession'].isin(cluster), ['accession', 'sequence']]
-        for index, row in blast_hits_in_cluster.iterrows():
-            if row.accession not in accessions_done:
-                fasta_outfile.write(f">{row.accession}\n{row.sequence}\n")
-                cluster_file.write(f"{row.accession}\t{count}\n")
-    return fasta_dir
-
 outdir = f"data/wzy/ssn-clusterings/clustering/{timestamp}"
 if not os.path.isdir(outdir):
     os.makedirs(outdir)
@@ -248,21 +219,6 @@ neighbor_dict = parse_network_file(network_file, accessions_include)
 clusters = get_clusters(neighbor_dict)
 # Write info file
 write_info_file()
-
-# # Read seed fasta file
-# annotated_fasta = "data/wzy/wzy.fasta"
-# result = read_fasta(annotated_fasta)
-# annotated = dict()
-# for entry in result:
-# 	annotated[entry['acc']] = entry['seq']
-
-# # Read filtered hits
-# result = read_fasta('data/wzy/blast/unique-hits-min320max600-cdhit99.fasta')
-# reduced = dict()
-# for entry in result:
-# 	reduced[entry['acc']] = entry['seq']
-# reduced_hit2seq = pd.Series(reduced)
-# reduced_hit2evalue_series = hit2evalue_series[reduced_hit2seq.index]
 
 # Read sequence files
 annotated_df = pd.read_csv("data/wzy/wzy.tsv", sep='\t')

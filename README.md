@@ -69,7 +69,7 @@ And `scp data/wzy/wzy.fasta idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-cluste
 
 Then on the HPC, run `python3 /work3/idamei/ssn-clusterings/[timestamp]/prepare-all-vs-all.py [timestamp]`
 
-And `sh submit.sh`
+And `sh /work3/idamei/ssn-clusterings/[timestamp]/submit.sh`
 
 When all jobs are finished, run locally: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/[timestamp] data/wzy/ssn-clusterings/all-vs-all-blast/[timestamp]`
 
@@ -81,7 +81,9 @@ To make the network file run `src/ssn-clustering/make-network-file.py [timestamp
 This will create the file `data/wzy/ssn-clusterings/all-vs-all-blast/[timestamp]/network`.
 
 ### Get clusters
-`src/ssn-clustering/get-clusters.py [timestamp]`
+To get the clusters in the SSN run: `src/ssn-clustering/get-clusters.py [timestamp]`.
+
+This will create the folder `data/wzy/ssn-clusterings/clustering/[timestamp]` which contains a folder `clusters` with all the clusters, a `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt` and `network`.
 
 ### old
 Fragment sequences are manually added to the file `data/wzy/blast/ssn-clusterings/banned`. These will not be included in the clusters.
