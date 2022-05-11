@@ -22,7 +22,15 @@ To generate fasta files run `src/data-collection-and-preprocessing/make-fastas`
 This will create the files `data/wzx.fasta`, `data/wzy.fasta` and `data/wzz.fasta`
 
 ### Expanding with Blast
+Copy fasta file with entries that need to be blasted to `/work3/idamei/wzy_blast/` on the HPC.
 
+On the HPC: `cd /work3/idamei/wzy_blast`
+
+Change inputfile to the name of the fasta in: `genscript.py`
+
+Then run `genscript.py > submit.sh`
+
+Check the generated folders in `run`and then run `sh submit.sh`
 
 ### Parsing Blast results
 To parse the blast expansion output files run `src/data-collection-and-preprocessing/parse-blast-results.py`
@@ -81,6 +89,8 @@ To make the network file run `src/ssn-clustering/make-network-file.py [timestamp
 This will create the file `data/wzy/ssn-clusterings/all-vs-all-blast/[timestamp]/network`.
 
 ### Get clusters
+Fragment sequences are manually added to the file `data/wzy/blast/ssn-clusterings/banned`. These will not be included in the clusters.
+
 To get the clusters in the SSN run: `src/ssn-clustering/get-clusters.py [timestamp]`.
 
 This will create the folder `data/wzy/ssn-clusterings/clustering/[timestamp]` which contains a folder `clusters` with fasta files for all the clusters, a `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt` and `network`.
@@ -88,7 +98,7 @@ This will create the folder `data/wzy/ssn-clusterings/clustering/[timestamp]` wh
 ### Analyse clusters
 
 ### old
-Fragment sequences are manually added to the file `data/wzy/blast/ssn-clusterings/banned`. These will not be included in the clusters.
+
 
 `python src/ssn-clustering/all-vs-all.py/ [timestamp]`
 
