@@ -13,7 +13,7 @@ def parse_blast_file(blast_file, outfile):
     for line in infile:
         # Query accession line
         if line.startswith("Query="):
-            query_accession = line.split(' ')[1]
+            query_accession = line.strip().split(' ')[1]
             done.append(query_accession)
         # Two lines before hit list section
         elif line.startswith('Sequences producing significant alignments:'):
