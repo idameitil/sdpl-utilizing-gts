@@ -46,7 +46,7 @@ Then, on the HPC run:
 
 `blastdbcmd -db nr -entry_batch /work3/idamei/unique-hits.tsv > /work3/idamei/unique-hits.fasta`
 
-`blastdbcmd -db nr -entry_batch /work3/idamei/unique-hits.tsv -outfmt "%a,%L,%T,%t,%s" > /work3/idamei/unique-hits.seq`
+`blastdbcmd -db nr -entry_batch /work3/idamei/unique-hits.tsv -outfmt "%a ,%L ,%T ,%t ,%s" > /work3/idamei/unique-hits.csv`
 
 Then locally run:
 `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/unique-hits.fasta data/wzy/blast/unique-hits.fasta`
@@ -75,6 +75,8 @@ And `scp data/wzy/blast/unique-hits.fasta idamei@transfer.gbar.dtu.dk:/work3/ida
 
 And `scp data/wzy/wzy.fasta idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/[timestamp]/`
 
+(instead of the previous three lines, run `download-all-vs-all.sh` - test this)
+
 Then on the HPC, run `python3 /work3/idamei/ssn-clusterings/[timestamp]/prepare-all-vs-all.py [timestamp]`
 
 And `sh /work3/idamei/ssn-clusterings/[timestamp]/submit.sh`
@@ -97,7 +99,7 @@ This will create the folder `data/wzy/ssn-clusterings/clustering/[timestamp]` wh
 
 ### Make MSAs and logos
 
-To make MSAs and logoplots of the clusters run `prepare-cluster-alignments.py [timestamp]`.
+To make MSAs and logoplots of the clusters run `src/ssn-clustering/prepare-cluster-alignments.py [timestamp]`.
 
 This will create a jobscript in each `data/wzy/ssn-clusterings/clustering/[timestamp]/clusters/[cluster_name]` folder, and it will create a `submit.sh`.
 
