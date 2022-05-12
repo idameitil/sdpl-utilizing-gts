@@ -105,7 +105,9 @@ Number of blast hits in cluster: 115
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0116_77/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/704.gif)
+![](../../../../csdb/images/704.gif)
+
+
 ### Cluster 18
 Total number of members in cluster: 116
 
@@ -465,7 +467,9 @@ Number of blast hits in cluster: 35
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0036_175/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/21859.gif)
+![](../../../../csdb/images/21859.gif)
+
+
 ### Cluster 97
 Total number of members in cluster: 35
 
@@ -483,7 +487,9 @@ Number of blast hits in cluster: 34
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0035_97/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/1443.gif)
+![](../../../../csdb/images/1443.gif)
+
+
 ### Cluster 330
 Total number of members in cluster: 34
 
@@ -537,7 +543,15 @@ Number of blast hits in cluster: 28
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0032_144/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/12129.gif)![alt text](data/csdb/images/nan.gif)![alt text](data/csdb/images/1583.gif)![alt text](data/csdb/images/1918.gif)
+![](../../../../csdb/images/12129.gif)
+
+![](../../../../csdb/images/nan.gif)
+
+![](../../../../csdb/images/1583.gif)
+
+![](../../../../csdb/images/1918.gif)
+
+
 ### Cluster 60
 Total number of members in cluster: 31
 
@@ -735,7 +749,11 @@ Number of blast hits in cluster: 22
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0024_89/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/nan.gif)![alt text](data/csdb/images/495.gif)
+![](../../../../csdb/images/nan.gif)
+
+![](../../../../csdb/images/495.gif)
+
+
 ### Cluster 245
 Total number of members in cluster: 24
 
@@ -753,7 +771,9 @@ Number of blast hits in cluster: 23
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0024_245/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/3367.gif)
+![](../../../../csdb/images/3367.gif)
+
+
 ### Cluster 234
 Total number of members in cluster: 24
 
@@ -1023,7 +1043,9 @@ Number of blast hits in cluster: 19
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0020_136/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/7052.gif)
+![](../../../../csdb/images/7052.gif)
+
+
 ### Cluster 37
 Total number of members in cluster: 19
 
@@ -1167,7 +1189,9 @@ Number of blast hits in cluster: 16
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0017_116/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/108660.gif)
+![](../../../../csdb/images/108660.gif)
+
+
 ### Cluster 78
 Total number of members in cluster: 16
 
@@ -1203,7 +1227,13 @@ Number of blast hits in cluster: 13
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0016_72/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/28331.gif)![alt text](data/csdb/images/nan.gif)![alt text](data/csdb/images/27410.gif)
+![](../../../../csdb/images/28331.gif)
+
+![](../../../../csdb/images/nan.gif)
+
+![](../../../../csdb/images/27410.gif)
+
+
 ### Cluster 67
 Total number of members in cluster: 16
 
@@ -1275,7 +1305,9 @@ Number of blast hits in cluster: 15
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0016_29/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/20645.gif)
+![](../../../../csdb/images/20645.gif)
+
+
 ### Cluster 262
 Total number of members in cluster: 16
 
@@ -1311,7 +1343,9 @@ Number of blast hits in cluster: 15
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0016_260/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/30404.gif)
+![](../../../../csdb/images/30404.gif)
+
+
 ### Cluster 237
 Total number of members in cluster: 16
 
@@ -1365,7 +1399,9 @@ Number of blast hits in cluster: 15
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0016_154/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/1870.gif)
+![](../../../../csdb/images/1870.gif)
+
+
 ### Cluster 48
 Total number of members in cluster: 15
 
@@ -1401,7 +1437,9 @@ Number of blast hits in cluster: 14
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0015_276/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/1885.gif)
+![](../../../../csdb/images/1885.gif)
+
+
 ### Cluster 255
 Total number of members in cluster: 15
 
@@ -1599,7 +1637,9 @@ Number of blast hits in cluster: 13
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0014_231/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/1842.gif)
+![](../../../../csdb/images/1842.gif)
+
+
 ### Cluster 12
 Total number of members in cluster: 14
 
@@ -1671,7 +1711,9 @@ Number of blast hits in cluster: 12
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0013_76/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/nan.gif)
+![](../../../../csdb/images/nan.gif)
+
+
 ### Cluster 68
 Total number of members in cluster: 13
 
@@ -1815,7 +1857,9 @@ Number of blast hits in cluster: 12
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0013_147/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/1931.gif)
+![](../../../../csdb/images/1931.gif)
+
+
 ### Cluster 118
 Total number of members in cluster: 13
 
@@ -1833,7 +1877,9 @@ Number of blast hits in cluster: 12
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0013_118/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/7061.gif)
+![](../../../../csdb/images/7061.gif)
+
+
 ### Cluster 53
 Total number of members in cluster: 12
 
@@ -1941,7 +1987,9 @@ Number of blast hits in cluster: 11
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0012_183/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/714.gif)
+![](../../../../csdb/images/714.gif)
+
+
 ### Cluster 179
 Total number of members in cluster: 12
 
@@ -2013,7 +2061,9 @@ Number of blast hits in cluster: 10
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_98/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/nan.gif)
+![](../../../../csdb/images/nan.gif)
+
+
 ### Cluster 96
 Total number of members in cluster: 11
 
@@ -2157,7 +2207,9 @@ Number of blast hits in cluster: 10
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_31/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/nan.gif)
+![](../../../../csdb/images/nan.gif)
+
+
 ### Cluster 301
 Total number of members in cluster: 11
 
@@ -2247,7 +2299,9 @@ Number of blast hits in cluster: 10
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_190/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/320.gif)
+![](../../../../csdb/images/320.gif)
+
+
 ### Cluster 180
 Total number of members in cluster: 11
 
@@ -2337,7 +2391,9 @@ Number of blast hits in cluster: 9
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0010_459/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/1908.gif)
+![](../../../../csdb/images/1908.gif)
+
+
 ### Cluster 320
 Total number of members in cluster: 10
 
@@ -2463,7 +2519,9 @@ Number of blast hits in cluster: 9
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0010_224/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/1562.gif)
+![](../../../../csdb/images/1562.gif)
+
+
 ### Cluster 164
 Total number of members in cluster: 10
 
@@ -2769,7 +2827,9 @@ Number of blast hits in cluster: 8
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_309/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/nan.gif)
+![](../../../../csdb/images/nan.gif)
+
+
 ### Cluster 216
 Total number of members in cluster: 9
 
@@ -3039,7 +3099,9 @@ Number of blast hits in cluster: 7
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_526/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/3359.gif)
+![](../../../../csdb/images/3359.gif)
+
+
 ### Cluster 514
 Total number of members in cluster: 8
 
@@ -3111,7 +3173,11 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_383/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/1552.gif)![alt text](data/csdb/images/1552.gif)
+![](../../../../csdb/images/1552.gif)
+
+![](../../../../csdb/images/1552.gif)
+
+
 ### Cluster 370
 Total number of members in cluster: 8
 
@@ -3345,7 +3411,9 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_657/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/nan.gif)
+![](../../../../csdb/images/nan.gif)
+
+
 ### Cluster 507
 Total number of members in cluster: 7
 
@@ -3759,7 +3827,11 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_221/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/695.gif)![alt text](data/csdb/images/nan.gif)
+![](../../../../csdb/images/695.gif)
+
+![](../../../../csdb/images/nan.gif)
+
+
 ### Cluster 22
 Total number of members in cluster: 7
 
@@ -3777,7 +3849,13 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_22/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/1883.gif)![alt text](data/csdb/images/nan.gif)![alt text](data/csdb/images/nan.gif)
+![](../../../../csdb/images/1883.gif)
+
+![](../../../../csdb/images/nan.gif)
+
+![](../../../../csdb/images/nan.gif)
+
+
 ### Cluster 205
 Total number of members in cluster: 7
 
@@ -3939,7 +4017,9 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_88/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/nan.gif)
+![](../../../../csdb/images/nan.gif)
+
+
 ### Cluster 747
 Total number of members in cluster: 6
 
@@ -4047,7 +4127,11 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_623/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/nan.gif)![alt text](data/csdb/images/30907.gif)
+![](../../../../csdb/images/nan.gif)
+
+![](../../../../csdb/images/30907.gif)
+
+
 ### Cluster 591
 Total number of members in cluster: 6
 
@@ -4137,7 +4221,9 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_49/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/3364.gif)
+![](../../../../csdb/images/3364.gif)
+
+
 ### Cluster 483
 Total number of members in cluster: 6
 
@@ -4407,7 +4493,9 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_321/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/1547.gif)
+![](../../../../csdb/images/1547.gif)
+
+
 ### Cluster 310
 Total number of members in cluster: 6
 
@@ -4497,7 +4585,9 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_288/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/1933.gif)
+![](../../../../csdb/images/1933.gif)
+
+
 ### Cluster 282
 Total number of members in cluster: 6
 
@@ -4551,7 +4641,9 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_220/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/1573.gif)
+![](../../../../csdb/images/1573.gif)
+
+
 ### Cluster 214
 Total number of members in cluster: 6
 
@@ -5019,7 +5111,9 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_584/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/1405.gif)
+![](../../../../csdb/images/1405.gif)
+
+
 ### Cluster 579
 Total number of members in cluster: 5
 
@@ -5397,7 +5491,9 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_396/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/1844.gif)
+![](../../../../csdb/images/1844.gif)
+
+
 ### Cluster 378
 Total number of members in cluster: 5
 
@@ -5433,7 +5529,9 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_360/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/nan.gif)
+![](../../../../csdb/images/nan.gif)
+
+
 ### Cluster 355
 Total number of members in cluster: 5
 
@@ -5505,7 +5603,9 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_334/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/nan.gif)
+![](../../../../csdb/images/nan.gif)
+
+
 ### Cluster 328
 Total number of members in cluster: 5
 
@@ -6261,7 +6361,9 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_555/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/1881.gif)
+![](../../../../csdb/images/1881.gif)
+
+
 ### Cluster 553
 Total number of members in cluster: 4
 
@@ -6783,7 +6885,9 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_410/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/1543.gif)
+![](../../../../csdb/images/1543.gif)
+
+
 ### Cluster 409
 Total number of members in cluster: 4
 
@@ -6837,7 +6941,9 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_393/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/nan.gif)
+![](../../../../csdb/images/nan.gif)
+
+
 ### Cluster 38
 Total number of members in cluster: 4
 
@@ -8097,7 +8203,9 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_625/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/1287.gif)
+![](../../../../csdb/images/1287.gif)
+
+
 ### Cluster 624
 Total number of members in cluster: 3
 
@@ -8889,7 +8997,9 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_438/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/12131.gif)
+![](../../../../csdb/images/12131.gif)
+
+
 ### Cluster 433
 Total number of members in cluster: 3
 
@@ -9069,7 +9179,9 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_392/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/nan.gif)
+![](../../../../csdb/images/nan.gif)
+
+
 ### Cluster 391
 Total number of members in cluster: 3
 
@@ -9249,7 +9361,9 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_316/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/nan.gif)
+![](../../../../csdb/images/nan.gif)
+
+
 ### Cluster 308
 Total number of members in cluster: 3
 
@@ -9321,7 +9435,9 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_292/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/12126.gif)
+![](../../../../csdb/images/12126.gif)
+
+
 ### Cluster 291
 Total number of members in cluster: 3
 
@@ -10779,7 +10895,9 @@ Number of blast hits in cluster: 1
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_720/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/25002.gif)
+![](../../../../csdb/images/25002.gif)
+
+
 ### Cluster 719
 Total number of members in cluster: 2
 
@@ -11355,7 +11473,9 @@ Number of blast hits in cluster: 1
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_654/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/1587.gif)
+![](../../../../csdb/images/1587.gif)
+
+
 ### Cluster 653
 Total number of members in cluster: 2
 
@@ -12021,7 +12141,9 @@ Number of blast hits in cluster: 1
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_573/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/1902.gif)
+![](../../../../csdb/images/1902.gif)
+
+
 ### Cluster 572
 Total number of members in cluster: 2
 
@@ -12633,7 +12755,9 @@ Number of blast hits in cluster: 1
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_491/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
-![alt text](data/csdb/images/1900.gif)
+![](../../../../csdb/images/1900.gif)
+
+
 ### Cluster 490
 Total number of members in cluster: 2
 
