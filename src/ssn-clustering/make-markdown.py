@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-timestamp = '2205111339'
+timestamp = sys.argv[1]
 
 github_url = 'https://github.com/idameitil/phd/tree/master'
 
