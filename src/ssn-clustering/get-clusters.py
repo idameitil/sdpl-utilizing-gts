@@ -7,12 +7,17 @@ sys.path.append("/Users/idamei/garryg/bioP/lib")
 timestamp = sys.argv[1]
 expansion_threshold = 10**-10
 ssn_threshold = 200
+cdhit_threshold = 99
+min_length_filter = 320
+max_length_filter = 600
 
 def write_metadata():
     """Writes file with metadata.
     Global variables: outdir, expansion_threshold, ssn_threshold
     """
     outfile = open(f"{outdir}/metadata.txt", "w")
+    outfile.write(f"CD-HIT threshold: {cdhit_threshold}%\n")
+    outfile.write(f"Length filter: min {min_length_filter}, max {max_length_filter}")
     outfile.write(f"Expansion threshold: e-value {expansion_threshold}\n")
     outfile.write(f"SSN threshold: score {ssn_threshold}\n")
     outfile.close()
@@ -193,7 +198,7 @@ if not os.path.isdir(outdir):
     os.makedirs(outdir)
 
 # Define file paths
-filtered_reduced_fasta = "data/wzy/blast/unique-hits-min320max600-cdhit99.fasta"
+filtered_reduced_fasta = f"data/wzy/blast/unique-hits-min{min_length_filter}max{max_length_filter}-cdhit{cdhit_threshold}.fasta"
 banned_file = "data/wzy/ssn-clusterings/banned"
 unique_hits_tsv = "data/wzy/blast/unique-hits.tsv"
 seed_fasta = "data/wzy/wzy.fasta"
