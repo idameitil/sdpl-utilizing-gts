@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import sys
 
 timestamp = sys.argv[1]
 
@@ -25,9 +26,12 @@ for line in info_file:
 info_file.close()
 
 cluster_tsv_url = f"{github_url}/{resultsdir}/clusters.tsv"
-outfile.write(f"File with accessions in each cluster: {cluster_tsv_url}\n\n")
+outfile.write(f"[File with accessions in each cluster]({cluster_tsv_url})\n\n")
 
-seed_df = pd.read_csv("data/wzy/wzy.tsv", sep = '\t')
+seed_df = pd.read_csv("data/wzy/wzy.tsv", sep = '\t', dtype=object)
+
+# image_github_url = 'https://github.com/idameitil/phd/blob/master'
+image_github_url = 'https://github.com/idameitil/phd/raw/master'
 
 # Clusters
 outfile.write('## Clusters\n')
@@ -63,17 +67,31 @@ for cluster in clusters:
     #outfile.write(f"Blast hits in cluster: {', '.join(hit_accessions)}\n\n")
     # Alignment
     fasta_msa_url = f"{github_url}/{dir}/sequences.afa"
-    outfile.write(f"MSA fasta: {fasta_msa_url}\n\n")
+    outfile.write(f"[MSA fasta]({fasta_msa_url})\n\n")
     malign_url = f"{github_url}/{dir}/sequences.malign"
-    outfile.write(f"Malign view: {malign_url}\n\n")
+    outfile.write(f"[Malign view]({malign_url})\n\n")
     # Fasta
     fasta_url = f"{github_url}/{dir}/sequences.fa"
-    outfile.write(f"Fasta of members: {fasta_url}\n\n")
+    outfile.write(f"[Fasta of members]({fasta_url})\n\n")
     # Logoplot
     logo_url = f"{github_url}/{dir}/sequences.logo-001.jpg"
-    outfile.write(f"Logoplot (OBS: this is still the old tool): {logo_url}\n\n")
+    outfile.write(f"[Logoplot]({logo_url}) (OBS: this is still the old tool)\n\n")
     # Taxonomy
 
+    # Sugar images
+    for seed in seed_accessions:
+        CSDB_record_id = seed_df.loc[seed_df.protein_accession == seed, 'CSDB_record_ID'].item()
+        images = dict()
+        if CSDB_record_id is not None:
+            if CSDB_record_id in images:
+                images[CSDB_record_id] += 1
+            else:
+                images[CSDB_record_id] = 1
+        for image in images:
+            image_path = f"../../../../csdb/images/{image}.gif"
+            # outfile.write(f"![alt text]({image_github_url}/{image_path})")
+            outfile.write(f"![]({image_path})\n\n")
+            # outfile.write(f"X{images[image]}\n")
     outfile.write('\n')
 outfile.close()
 
