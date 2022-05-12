@@ -51,11 +51,11 @@ Then, on the HPC run:
 Then locally run:
 `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/unique-hits.fasta data/wzy/blast/unique-hits.fasta`
 
-`scp idamei@transfer.gbar.dtu.dk:/work3/idamei/unique-hits.seq data/wzy/blast/unique-hits.seq`
+`scp idamei@transfer.gbar.dtu.dk:/work3/idamei/unique-hits.csv data/wzy/blast/unique-hits.csv`
 
 `data/wzy/blast/unique-hits.fasta` is a fasta file with exactly the entries in `data/wzy/blast/unique-hits.tsv`.
 
-`data/wzy/blast/unique-hits.seq` is a csv file containing taxids along with other info. It also includes identical sequences and therefore has more lines than `data/wzy/blast/unique-hits.tsv`.
+`data/wzy/blast/unique-hits.csv` is a csv file containing taxids along with other info. It also includes identical sequences and therefore has more lines than `data/wzy/blast/unique-hits.tsv`.
 
 ### Filtering and redundancy reducing Blast hits
 To filter blast hits by length and perform redundancy reduction with cd-hit run: `src/data-collection-and-preprocessing/filter-blast-hits.py`.
@@ -69,13 +69,7 @@ To make all-vs-all alignments of seeds and blast hits:
 
 On the HPC, run `mkdir /work3/idamei/ssn-clusterings/[timestamp]`
 
-Locally, run `scp src/ssn-clustering/prepare-all-vs-all.py idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/[timestamp]/`
-
-And `scp data/wzy/blast/unique-hits.fasta idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/[timestamp]/`
-
-And `scp data/wzy/wzy.fasta idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/[timestamp]/`
-
-(instead of the previous three lines, run `download-all-vs-all.sh` - test this)
+Locally, run `sh src/ssn-clustering/download-all-vs-all.sh [timestamp]`
 
 Then on the HPC, run `python3 /work3/idamei/ssn-clusterings/[timestamp]/prepare-all-vs-all.py [timestamp]`
 
