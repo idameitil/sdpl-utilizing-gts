@@ -1,7 +1,4 @@
-![alt text](/Users/idamei/wzy_polymerases/wzcomplex.png)
-
-
-# 
+# Analysis of O-antigen synthesis enzymes
 
 ## Collecting data and preprocessing
 
@@ -49,7 +46,7 @@ Then, on the HPC run:
 
 `blastdbcmd -db nr -entry_batch /work3/idamei/unique-hits.tsv > /work3/idamei/unique-hits.fasta`
 
-`blastdbcmd -db nr -entry_batch /work3/idamei/unique-hits.tsv -outfmt "%a ,%L ,%T ,%t ,%s" > /work3/idamei/unique-hits.csv`
+`blastdbcmd -db nr -entry_batch /work3/idamei/unique-hits.tsv -outfmt "%a ,%L ,%T ,%t ,%s" > /work3/idamei/unique-hits.csv` 
 
 Then locally run:
 `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/unique-hits.fasta data/wzy/blast/unique-hits.fasta`
@@ -69,37 +66,16 @@ This will create the files `data/wzy/blast/unique-hits-min320max600.fasta` and `
 
 ### All-vs-all blast
 
-*** New TRY THIS AND REMOVE OLD *** 
 run `sh src/ssn-clustering/all-vs-all.sh [timestamp]`
 
-When all jobs are finished, run: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/[timestamp] data/wzy/ssn-clusterings/all-vs-all-blast/[timestamp]`
+When all jobs are finished, run: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/[timestamp] data/wzy/ssn-clusterings/all-vs-all-blast/`
 
 This file is too big to store in GitHub, so is only stored locally.
-
-*** New end ***
-
-*** Old ***
-To make all-vs-all alignments of seeds and blast hits:
-
-On the HPC, run `mkdir /work3/idamei/ssn-clusterings/[timestamp]`
-
-Locally, run `sh src/ssn-clustering/download-all-vs-all.sh [timestamp]`
-
-Then on the HPC, run `python3 /work3/idamei/ssn-clusterings/[timestamp]/prepare-all-vs-all.py [timestamp]`
-
-And `sh /work3/idamei/ssn-clusterings/[timestamp]/submit.sh`
-
-When all jobs are finished, run locally: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/[timestamp] data/wzy/ssn-clusterings/all-vs-all-blast/[timestamp]`
-
-This file is too big to store in GitHub, so is only stored locally.
-*** Old end ***
 
 ### Make network file
 To make the network file run `src/ssn-clustering/make-network-file.py [timestamp]`.
 
 This will create the file `data/wzy/ssn-clusterings/all-vs-all-blast/[timestamp]/network`.
-
-*** New TRY THIS AND REMOVE OLD ***
 
 ### Cluster
 
@@ -110,28 +86,3 @@ To get the clusters in the SSN, change the thresholds in `src/ssn-clustering/get
 This will create the folder `data/wzy/ssn-clusterings/clustering/[timestamp]` which contains a folder `clusters` with fasta files for all the clusters and jobscripts for making MSAs, a `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt`, `network`, `report.md` and `submit.sh`. Then, it copies all this to the HPC and submits the jobs.
 
 When all jobs are finished (check with bstat), run locally: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/clustering/[timestamp]/clusters/ data/wzy/ssn-clusterings/clustering/[timestamp]`
-
-*** New end ***
-
-*** Old ***
-
-### Get clusters
-Fragment sequences are manually added to the file `data/wzy/blast/ssn-clusterings/banned`. These will not be included in the clusters.
-
-To get the clusters in the SSN, change the thresholds in `src/ssn-clustering/get-clusters.py` to the desired ones and run `src/ssn-clustering/get-clusters.py [timestamp]`.
-
-This will create the folder `data/wzy/ssn-clusterings/clustering/[timestamp]` which contains a folder `clusters` with fasta files for all the clusters, a `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt` and `network`.
-
-### Make MSAs and logos
-
-To make MSAs and logoplots of the clusters run `src/ssn-clustering/prepare-cluster-alignments.py [timestamp]`.
-
-This will create a jobscript in each `data/wzy/ssn-clusterings/clustering/[timestamp]/clusters/[cluster_name]` folder, and it will create a `submit.sh`.
-
-Then, run `scp -r data/wzy/ssn-clusterings/clustering/[timestamp] idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/clustering/`
-
-On the HPC, run `sh /work3/idamei/ssn-clusterings/clustering/[timestamp]/submit.sh`
-
-When all jobs are finished, run locally: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/clustering/[timestamp]/clusters/ data/wzy/ssn-clusterings/clustering/[timestamp]`
-
-*** old end ***
