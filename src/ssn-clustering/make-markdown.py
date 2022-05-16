@@ -79,6 +79,7 @@ for cluster in clusters:
     # Taxonomy
 
     # Sugar images
+    outfile.write("Sugars in cluster:\n\n")
     for seed in seed_accessions:
         CSDB_record_id = seed_df.loc[seed_df.protein_accession == seed, 'CSDB_record_ID'].item()
         images = dict()
@@ -90,6 +91,7 @@ for cluster in clusters:
         for image in images:
             image_path = f"../../../../csdb/images/{image}.gif"
             # outfile.write(f"![alt text]({image_github_url}/{image_path})")
+            outfile.write(f"{seed}:\n\n")
             outfile.write(f"![]({image_path})\n\n")
             # outfile.write(f"X{images[image]}\n")
     outfile.write('\n')

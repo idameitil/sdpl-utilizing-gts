@@ -79,10 +79,14 @@ This will create the file `data/wzy/ssn-clusterings/all-vs-all-blast/[timestamp]
 
 ### Cluster
 
-Fragment sequences are manually added to the file `data/wzy/blast/ssn-clusterings/banned`. These will not be included in the clusters.
+Fragment sequences are manually added to the file `data/wzy/blast/ssn-clusterings/banned`.
 
 To get the clusters in the SSN, change the thresholds in `src/ssn-clustering/get-clusters.py` to the desired ones and run `sh src/ssn-clustering/cluster.sh [timestamp]`.
 
-This will create the folder `data/wzy/ssn-clusterings/clustering/[timestamp]` which contains a folder `clusters` with fasta files for all the clusters and jobscripts for making MSAs, a `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt`, `network`, `report.md` and `submit.sh`. Then, it copies all this to the HPC and submits the jobs.
+This will create the folder `data/wzy/ssn-clusterings/clustering/[timestamp]` which contains a folder `clusters` with fasta files for all the clusters and jobscripts for making MSAs, a `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt`, `network`, `report.md` and `submit.sh`. Then, it copies all this to the HPC.
+
+On the HPC, run sh /work3/idamei/ssn-clusterings/clustering/[timestamp]/submit.sh.
 
 When all jobs are finished (check with bstat), run locally: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/clustering/[timestamp]/clusters/ data/wzy/ssn-clusterings/clustering/[timestamp]`
+
+To make the markdown report, run `src/ssn-clustering/make-markdown.py [timestamp]`. (push changes to see files)

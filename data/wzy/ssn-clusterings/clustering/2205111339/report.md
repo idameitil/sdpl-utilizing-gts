@@ -33,6 +33,8 @@ Number of blast hits in cluster: 521
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0521_10/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 19
 Total number of members in cluster: 191
@@ -50,6 +52,8 @@ Number of blast hits in cluster: 191
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0191_19/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0191_19/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 2
@@ -69,6 +73,8 @@ Number of blast hits in cluster: 183
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0183_2/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 62
 Total number of members in cluster: 127
@@ -87,6 +93,8 @@ Number of blast hits in cluster: 127
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0127_62/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 77
 Total number of members in cluster: 116
@@ -104,6 +112,10 @@ Number of blast hits in cluster: 115
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0116_77/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0116_77/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+AFN02899.1:
 
 ![](../../../../csdb/images/704.gif)
 
@@ -125,6 +137,8 @@ Number of blast hits in cluster: 116
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0116_18/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 1
 Total number of members in cluster: 111
@@ -142,6 +156,8 @@ Number of blast hits in cluster: 111
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0111_1/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0111_1/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 21
@@ -161,6 +177,8 @@ Number of blast hits in cluster: 105
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0105_21/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 70
 Total number of members in cluster: 87
@@ -178,6 +196,8 @@ Number of blast hits in cluster: 87
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0087_70/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0087_70/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 32
@@ -197,6 +217,8 @@ Number of blast hits in cluster: 87
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0087_32/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 58
 Total number of members in cluster: 70
@@ -214,6 +236,8 @@ Number of blast hits in cluster: 70
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0070_58/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0070_58/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 101
@@ -233,6 +257,8 @@ Number of blast hits in cluster: 61
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0061_101/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 39
 Total number of members in cluster: 58
@@ -250,6 +276,8 @@ Number of blast hits in cluster: 58
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0058_39/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0058_39/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 201
@@ -269,6 +297,8 @@ Number of blast hits in cluster: 56
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0056_201/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 3
 Total number of members in cluster: 50
@@ -286,6 +316,8 @@ Number of blast hits in cluster: 50
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0050_3/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0050_3/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 7
@@ -305,6 +337,8 @@ Number of blast hits in cluster: 48
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0048_7/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 66
 Total number of members in cluster: 48
@@ -322,6 +356,8 @@ Number of blast hits in cluster: 48
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0048_66/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0048_66/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 181
@@ -341,6 +377,8 @@ Number of blast hits in cluster: 48
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0048_181/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 105
 Total number of members in cluster: 47
@@ -358,6 +396,8 @@ Number of blast hits in cluster: 47
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0047_105/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0047_105/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 13
@@ -377,6 +417,8 @@ Number of blast hits in cluster: 46
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0046_13/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 40
 Total number of members in cluster: 42
@@ -394,6 +436,8 @@ Number of blast hits in cluster: 42
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0042_40/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0042_40/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 287
@@ -413,6 +457,8 @@ Number of blast hits in cluster: 40
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0040_287/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 185
 Total number of members in cluster: 40
@@ -430,6 +476,8 @@ Number of blast hits in cluster: 40
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0040_185/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0040_185/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 41
@@ -449,6 +497,8 @@ Number of blast hits in cluster: 37
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0037_41/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 175
 Total number of members in cluster: 36
@@ -466,6 +516,10 @@ Number of blast hits in cluster: 35
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0036_175/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0036_175/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+WP_000905563.1:
 
 ![](../../../../csdb/images/21859.gif)
 
@@ -487,6 +541,10 @@ Number of blast hits in cluster: 34
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0035_97/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
+AAM27615.1:
+
 ![](../../../../csdb/images/1443.gif)
 
 
@@ -507,6 +565,8 @@ Number of blast hits in cluster: 34
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0034_330/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 337
 Total number of members in cluster: 32
@@ -524,6 +584,8 @@ Number of blast hits in cluster: 32
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0032_337/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0032_337/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 144
@@ -543,11 +605,21 @@ Number of blast hits in cluster: 28
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0032_144/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
+AKA20966.1:
+
 ![](../../../../csdb/images/12129.gif)
+
+AKL88154.1:
 
 ![](../../../../csdb/images/nan.gif)
 
+AAY23739.1:
+
 ![](../../../../csdb/images/1583.gif)
+
+BAQ01935.1:
 
 ![](../../../../csdb/images/1918.gif)
 
@@ -569,6 +641,8 @@ Number of blast hits in cluster: 31
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0031_60/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 191
 Total number of members in cluster: 31
@@ -586,6 +660,8 @@ Number of blast hits in cluster: 31
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0031_191/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0031_191/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 120
@@ -605,6 +681,8 @@ Number of blast hits in cluster: 30
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0030_120/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 290
 Total number of members in cluster: 28
@@ -622,6 +700,8 @@ Number of blast hits in cluster: 28
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0028_290/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0028_290/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 129
@@ -641,6 +721,8 @@ Number of blast hits in cluster: 28
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0028_129/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 71
 Total number of members in cluster: 27
@@ -658,6 +740,8 @@ Number of blast hits in cluster: 27
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0027_71/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0027_71/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 114
@@ -677,6 +761,8 @@ Number of blast hits in cluster: 27
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0027_114/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 4
 Total number of members in cluster: 26
@@ -694,6 +780,8 @@ Number of blast hits in cluster: 26
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0026_4/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0026_4/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 170
@@ -713,6 +801,8 @@ Number of blast hits in cluster: 26
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0026_170/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 61
 Total number of members in cluster: 25
@@ -730,6 +820,8 @@ Number of blast hits in cluster: 25
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0025_61/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0025_61/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 89
@@ -749,7 +841,13 @@ Number of blast hits in cluster: 22
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0024_89/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
+AHB32666.1:
+
 ![](../../../../csdb/images/nan.gif)
+
+AHB32888.2:
 
 ![](../../../../csdb/images/495.gif)
 
@@ -771,6 +869,10 @@ Number of blast hits in cluster: 23
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0024_245/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
+AFW04828.1:
+
 ![](../../../../csdb/images/3367.gif)
 
 
@@ -791,6 +893,8 @@ Number of blast hits in cluster: 24
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0024_234/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 210
 Total number of members in cluster: 24
@@ -808,6 +912,8 @@ Number of blast hits in cluster: 24
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0024_210/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0024_210/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 315
@@ -827,6 +933,8 @@ Number of blast hits in cluster: 23
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0023_315/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 373
 Total number of members in cluster: 22
@@ -844,6 +952,8 @@ Number of blast hits in cluster: 22
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0022_373/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0022_373/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 296
@@ -863,6 +973,8 @@ Number of blast hits in cluster: 22
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0022_296/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 229
 Total number of members in cluster: 22
@@ -880,6 +992,8 @@ Number of blast hits in cluster: 22
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0022_229/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0022_229/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 127
@@ -899,6 +1013,8 @@ Number of blast hits in cluster: 22
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0022_127/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 100
 Total number of members in cluster: 22
@@ -916,6 +1032,8 @@ Number of blast hits in cluster: 22
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0022_100/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0022_100/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 139
@@ -935,6 +1053,8 @@ Number of blast hits in cluster: 21
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0021_139/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 125
 Total number of members in cluster: 21
@@ -952,6 +1072,8 @@ Number of blast hits in cluster: 21
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0021_125/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0021_125/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 274
@@ -971,6 +1093,8 @@ Number of blast hits in cluster: 20
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0020_274/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 243
 Total number of members in cluster: 20
@@ -988,6 +1112,8 @@ Number of blast hits in cluster: 20
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0020_243/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0020_243/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 213
@@ -1007,6 +1133,8 @@ Number of blast hits in cluster: 20
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0020_213/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 211
 Total number of members in cluster: 20
@@ -1025,6 +1153,8 @@ Number of blast hits in cluster: 20
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0020_211/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 136
 Total number of members in cluster: 20
@@ -1042,6 +1172,10 @@ Number of blast hits in cluster: 19
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0020_136/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0020_136/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+CAI33084.1:
 
 ![](../../../../csdb/images/7052.gif)
 
@@ -1063,6 +1197,8 @@ Number of blast hits in cluster: 19
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0019_37/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 189
 Total number of members in cluster: 19
@@ -1080,6 +1216,8 @@ Number of blast hits in cluster: 19
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0019_189/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0019_189/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 188
@@ -1099,6 +1237,8 @@ Number of blast hits in cluster: 19
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0019_188/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 57
 Total number of members in cluster: 18
@@ -1116,6 +1256,8 @@ Number of blast hits in cluster: 18
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0018_57/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0018_57/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 574
@@ -1135,6 +1277,8 @@ Number of blast hits in cluster: 17
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0017_574/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 252
 Total number of members in cluster: 17
@@ -1152,6 +1296,8 @@ Number of blast hits in cluster: 17
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0017_252/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0017_252/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 117
@@ -1171,6 +1317,8 @@ Number of blast hits in cluster: 17
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0017_117/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 116
 Total number of members in cluster: 17
@@ -1188,6 +1336,10 @@ Number of blast hits in cluster: 16
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0017_116/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0017_116/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+AAR97964.1:
 
 ![](../../../../csdb/images/108660.gif)
 
@@ -1209,6 +1361,8 @@ Number of blast hits in cluster: 16
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0016_78/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 72
 Total number of members in cluster: 16
@@ -1227,9 +1381,17 @@ Number of blast hits in cluster: 13
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0016_72/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
+WP_000936592.1:
+
 ![](../../../../csdb/images/28331.gif)
 
+WP_000936591.1:
+
 ![](../../../../csdb/images/nan.gif)
+
+WP_000936589.1:
 
 ![](../../../../csdb/images/27410.gif)
 
@@ -1251,6 +1413,8 @@ Number of blast hits in cluster: 16
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0016_67/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 34
 Total number of members in cluster: 16
@@ -1268,6 +1432,8 @@ Number of blast hits in cluster: 16
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0016_34/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0016_34/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 297
@@ -1287,6 +1453,8 @@ Number of blast hits in cluster: 16
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0016_297/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 29
 Total number of members in cluster: 16
@@ -1304,6 +1472,10 @@ Number of blast hits in cluster: 15
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0016_29/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0016_29/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+ADC54950.1:
 
 ![](../../../../csdb/images/20645.gif)
 
@@ -1325,6 +1497,8 @@ Number of blast hits in cluster: 16
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0016_262/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 260
 Total number of members in cluster: 16
@@ -1342,6 +1516,10 @@ Number of blast hits in cluster: 15
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0016_260/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0016_260/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+AGS07363.1:
 
 ![](../../../../csdb/images/30404.gif)
 
@@ -1363,6 +1541,8 @@ Number of blast hits in cluster: 16
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0016_237/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 20
 Total number of members in cluster: 16
@@ -1381,6 +1561,8 @@ Number of blast hits in cluster: 16
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0016_20/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 154
 Total number of members in cluster: 16
@@ -1398,6 +1580,10 @@ Number of blast hits in cluster: 15
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0016_154/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0016_154/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+ACD37181.1:
 
 ![](../../../../csdb/images/1870.gif)
 
@@ -1419,6 +1605,8 @@ Number of blast hits in cluster: 15
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0015_48/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 276
 Total number of members in cluster: 15
@@ -1436,6 +1624,10 @@ Number of blast hits in cluster: 14
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0015_276/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0015_276/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+ACA24754.1:
 
 ![](../../../../csdb/images/1885.gif)
 
@@ -1457,6 +1649,8 @@ Number of blast hits in cluster: 15
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0015_255/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 172
 Total number of members in cluster: 15
@@ -1474,6 +1668,8 @@ Number of blast hits in cluster: 15
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0015_172/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0015_172/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 163
@@ -1493,6 +1689,8 @@ Number of blast hits in cluster: 15
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0015_163/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 140
 Total number of members in cluster: 15
@@ -1510,6 +1708,8 @@ Number of blast hits in cluster: 15
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0015_140/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0015_140/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 133
@@ -1529,6 +1729,8 @@ Number of blast hits in cluster: 15
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0015_133/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 92
 Total number of members in cluster: 14
@@ -1546,6 +1748,8 @@ Number of blast hits in cluster: 14
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0014_92/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0014_92/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 73
@@ -1565,6 +1769,8 @@ Number of blast hits in cluster: 14
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0014_73/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 502
 Total number of members in cluster: 14
@@ -1582,6 +1788,8 @@ Number of blast hits in cluster: 14
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0014_502/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0014_502/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 357
@@ -1601,6 +1809,8 @@ Number of blast hits in cluster: 14
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0014_357/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 331
 Total number of members in cluster: 14
@@ -1619,6 +1829,8 @@ Number of blast hits in cluster: 14
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0014_331/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 231
 Total number of members in cluster: 14
@@ -1636,6 +1848,10 @@ Number of blast hits in cluster: 13
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0014_231/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0014_231/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+ABK27355.1:
 
 ![](../../../../csdb/images/1842.gif)
 
@@ -1657,6 +1873,8 @@ Number of blast hits in cluster: 14
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0014_12/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 106
 Total number of members in cluster: 14
@@ -1674,6 +1892,8 @@ Number of blast hits in cluster: 14
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0014_106/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0014_106/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 82
@@ -1693,6 +1913,8 @@ Number of blast hits in cluster: 13
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0013_82/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 76
 Total number of members in cluster: 13
@@ -1710,6 +1932,10 @@ Number of blast hits in cluster: 12
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0013_76/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0013_76/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+AFW04706.1:
 
 ![](../../../../csdb/images/nan.gif)
 
@@ -1731,6 +1957,8 @@ Number of blast hits in cluster: 13
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0013_68/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 419
 Total number of members in cluster: 13
@@ -1748,6 +1976,8 @@ Number of blast hits in cluster: 13
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0013_419/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0013_419/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 235
@@ -1767,6 +1997,8 @@ Number of blast hits in cluster: 13
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0013_235/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 215
 Total number of members in cluster: 13
@@ -1784,6 +2016,8 @@ Number of blast hits in cluster: 13
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0013_215/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0013_215/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 186
@@ -1803,6 +2037,8 @@ Number of blast hits in cluster: 13
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0013_186/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 184
 Total number of members in cluster: 13
@@ -1820,6 +2056,8 @@ Number of blast hits in cluster: 13
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0013_184/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0013_184/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 151
@@ -1839,6 +2077,8 @@ Number of blast hits in cluster: 13
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0013_151/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 147
 Total number of members in cluster: 13
@@ -1856,6 +2096,10 @@ Number of blast hits in cluster: 12
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0013_147/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0013_147/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+ACD37026.1:
 
 ![](../../../../csdb/images/1931.gif)
 
@@ -1877,6 +2121,10 @@ Number of blast hits in cluster: 12
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0013_118/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
+CAI33309.1:
+
 ![](../../../../csdb/images/7061.gif)
 
 
@@ -1897,6 +2145,8 @@ Number of blast hits in cluster: 12
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0012_53/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 434
 Total number of members in cluster: 12
@@ -1914,6 +2164,8 @@ Number of blast hits in cluster: 12
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0012_434/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0012_434/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 322
@@ -1933,6 +2185,8 @@ Number of blast hits in cluster: 12
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0012_322/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 305
 Total number of members in cluster: 12
@@ -1950,6 +2204,8 @@ Number of blast hits in cluster: 12
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0012_305/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0012_305/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 277
@@ -1969,6 +2225,8 @@ Number of blast hits in cluster: 12
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0012_277/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 183
 Total number of members in cluster: 12
@@ -1986,6 +2244,10 @@ Number of blast hits in cluster: 11
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0012_183/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0012_183/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+ABI55342.1:
 
 ![](../../../../csdb/images/714.gif)
 
@@ -2007,6 +2269,8 @@ Number of blast hits in cluster: 12
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0012_179/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 158
 Total number of members in cluster: 12
@@ -2024,6 +2288,8 @@ Number of blast hits in cluster: 12
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0012_158/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0012_158/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 157
@@ -2043,6 +2309,8 @@ Number of blast hits in cluster: 12
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0012_157/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 98
 Total number of members in cluster: 11
@@ -2060,6 +2328,10 @@ Number of blast hits in cluster: 10
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_98/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_98/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+AFW04668.1:
 
 ![](../../../../csdb/images/nan.gif)
 
@@ -2081,6 +2353,8 @@ Number of blast hits in cluster: 11
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_96/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 523
 Total number of members in cluster: 11
@@ -2098,6 +2372,8 @@ Number of blast hits in cluster: 11
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_523/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_523/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 486
@@ -2117,6 +2393,8 @@ Number of blast hits in cluster: 11
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_486/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 445
 Total number of members in cluster: 11
@@ -2134,6 +2412,8 @@ Number of blast hits in cluster: 11
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_445/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_445/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 381
@@ -2153,6 +2433,8 @@ Number of blast hits in cluster: 11
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_381/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 339
 Total number of members in cluster: 11
@@ -2170,6 +2452,8 @@ Number of blast hits in cluster: 11
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_339/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_339/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 327
@@ -2189,6 +2473,8 @@ Number of blast hits in cluster: 11
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_327/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 31
 Total number of members in cluster: 11
@@ -2206,6 +2492,10 @@ Number of blast hits in cluster: 10
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_31/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_31/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+AFW04867.1:
 
 ![](../../../../csdb/images/nan.gif)
 
@@ -2227,6 +2517,8 @@ Number of blast hits in cluster: 11
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_301/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 253
 Total number of members in cluster: 11
@@ -2244,6 +2536,8 @@ Number of blast hits in cluster: 11
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_253/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_253/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 236
@@ -2263,6 +2557,8 @@ Number of blast hits in cluster: 11
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_236/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 192
 Total number of members in cluster: 11
@@ -2281,6 +2577,8 @@ Number of blast hits in cluster: 11
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_192/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 190
 Total number of members in cluster: 11
@@ -2298,6 +2596,10 @@ Number of blast hits in cluster: 10
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_190/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_190/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+CAI33029.1:
 
 ![](../../../../csdb/images/320.gif)
 
@@ -2319,6 +2621,8 @@ Number of blast hits in cluster: 11
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_180/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 149
 Total number of members in cluster: 11
@@ -2336,6 +2640,8 @@ Number of blast hits in cluster: 11
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_149/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0011_149/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 87
@@ -2355,6 +2661,8 @@ Number of blast hits in cluster: 10
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0010_87/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 64
 Total number of members in cluster: 10
@@ -2373,6 +2681,8 @@ Number of blast hits in cluster: 10
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0010_64/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 459
 Total number of members in cluster: 10
@@ -2390,6 +2700,10 @@ Number of blast hits in cluster: 9
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0010_459/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0010_459/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+ADC54957.1:
 
 ![](../../../../csdb/images/1908.gif)
 
@@ -2411,6 +2725,8 @@ Number of blast hits in cluster: 10
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0010_320/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 293
 Total number of members in cluster: 10
@@ -2428,6 +2744,8 @@ Number of blast hits in cluster: 10
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0010_293/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0010_293/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 283
@@ -2447,6 +2765,8 @@ Number of blast hits in cluster: 10
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0010_283/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 28
 Total number of members in cluster: 10
@@ -2464,6 +2784,8 @@ Number of blast hits in cluster: 10
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0010_28/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0010_28/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 278
@@ -2483,6 +2805,8 @@ Number of blast hits in cluster: 10
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0010_278/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 26
 Total number of members in cluster: 10
@@ -2501,6 +2825,8 @@ Number of blast hits in cluster: 10
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0010_26/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 224
 Total number of members in cluster: 10
@@ -2518,6 +2844,10 @@ Number of blast hits in cluster: 9
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0010_224/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0010_224/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+WP_000482333.1:
 
 ![](../../../../csdb/images/1562.gif)
 
@@ -2539,6 +2869,8 @@ Number of blast hits in cluster: 10
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0010_164/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 141
 Total number of members in cluster: 10
@@ -2556,6 +2888,8 @@ Number of blast hits in cluster: 10
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0010_141/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0010_141/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 131
@@ -2575,6 +2909,8 @@ Number of blast hits in cluster: 10
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0010_131/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 55
 Total number of members in cluster: 9
@@ -2592,6 +2928,8 @@ Number of blast hits in cluster: 9
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_55/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_55/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 541
@@ -2611,6 +2949,8 @@ Number of blast hits in cluster: 9
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_541/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 540
 Total number of members in cluster: 9
@@ -2628,6 +2968,8 @@ Number of blast hits in cluster: 9
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_540/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_540/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 530
@@ -2647,6 +2989,8 @@ Number of blast hits in cluster: 9
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_530/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 487
 Total number of members in cluster: 9
@@ -2664,6 +3008,8 @@ Number of blast hits in cluster: 9
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_487/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_487/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 454
@@ -2683,6 +3029,8 @@ Number of blast hits in cluster: 9
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_454/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 404
 Total number of members in cluster: 9
@@ -2700,6 +3048,8 @@ Number of blast hits in cluster: 9
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_404/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_404/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 387
@@ -2719,6 +3069,8 @@ Number of blast hits in cluster: 9
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_387/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 365
 Total number of members in cluster: 9
@@ -2736,6 +3088,8 @@ Number of blast hits in cluster: 9
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_365/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_365/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 363
@@ -2755,6 +3109,8 @@ Number of blast hits in cluster: 9
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_363/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 356
 Total number of members in cluster: 9
@@ -2772,6 +3128,8 @@ Number of blast hits in cluster: 9
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_356/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_356/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 332
@@ -2791,6 +3149,8 @@ Number of blast hits in cluster: 9
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_332/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 323
 Total number of members in cluster: 9
@@ -2809,6 +3169,8 @@ Number of blast hits in cluster: 9
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_323/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 309
 Total number of members in cluster: 9
@@ -2826,6 +3188,10 @@ Number of blast hits in cluster: 8
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_309/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_309/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+AFW04802.1:
 
 ![](../../../../csdb/images/nan.gif)
 
@@ -2847,6 +3213,8 @@ Number of blast hits in cluster: 9
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_216/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 206
 Total number of members in cluster: 9
@@ -2864,6 +3232,8 @@ Number of blast hits in cluster: 9
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_206/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_206/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 195
@@ -2883,6 +3253,8 @@ Number of blast hits in cluster: 9
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_195/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 148
 Total number of members in cluster: 9
@@ -2900,6 +3272,8 @@ Number of blast hits in cluster: 9
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_148/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_148/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 14
@@ -2919,6 +3293,8 @@ Number of blast hits in cluster: 9
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_14/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 134
 Total number of members in cluster: 9
@@ -2936,6 +3312,8 @@ Number of blast hits in cluster: 9
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_134/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_134/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 124
@@ -2955,6 +3333,8 @@ Number of blast hits in cluster: 9
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_124/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 119
 Total number of members in cluster: 9
@@ -2972,6 +3352,8 @@ Number of blast hits in cluster: 9
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_119/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_119/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 110
@@ -2991,6 +3373,8 @@ Number of blast hits in cluster: 9
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0009_110/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 80
 Total number of members in cluster: 8
@@ -3008,6 +3392,8 @@ Number of blast hits in cluster: 8
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_80/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_80/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 79
@@ -3027,6 +3413,8 @@ Number of blast hits in cluster: 8
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_79/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 611
 Total number of members in cluster: 8
@@ -3044,6 +3432,8 @@ Number of blast hits in cluster: 8
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_611/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_611/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 590
@@ -3063,6 +3453,8 @@ Number of blast hits in cluster: 8
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_590/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 570
 Total number of members in cluster: 8
@@ -3081,6 +3473,8 @@ Number of blast hits in cluster: 8
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_570/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 526
 Total number of members in cluster: 8
@@ -3098,6 +3492,10 @@ Number of blast hits in cluster: 7
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_526/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_526/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+AFW04785.1:
 
 ![](../../../../csdb/images/3359.gif)
 
@@ -3119,6 +3517,8 @@ Number of blast hits in cluster: 8
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_514/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 505
 Total number of members in cluster: 8
@@ -3136,6 +3536,8 @@ Number of blast hits in cluster: 8
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_505/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_505/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 460
@@ -3155,6 +3557,8 @@ Number of blast hits in cluster: 8
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_460/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 383
 Total number of members in cluster: 8
@@ -3173,7 +3577,13 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_383/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
+EHX11459.1:
+
 ![](../../../../csdb/images/1552.gif)
+
+AAX07747.1:
 
 ![](../../../../csdb/images/1552.gif)
 
@@ -3195,6 +3605,8 @@ Number of blast hits in cluster: 8
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_370/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 369
 Total number of members in cluster: 8
@@ -3212,6 +3624,8 @@ Number of blast hits in cluster: 8
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_369/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_369/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 344
@@ -3231,6 +3645,8 @@ Number of blast hits in cluster: 8
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_344/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 304
 Total number of members in cluster: 8
@@ -3248,6 +3664,8 @@ Number of blast hits in cluster: 8
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_304/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_304/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 286
@@ -3267,6 +3685,8 @@ Number of blast hits in cluster: 8
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_286/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 212
 Total number of members in cluster: 8
@@ -3284,6 +3704,8 @@ Number of blast hits in cluster: 8
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_212/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_212/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 142
@@ -3303,6 +3725,8 @@ Number of blast hits in cluster: 8
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_142/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 104
 Total number of members in cluster: 8
@@ -3320,6 +3744,8 @@ Number of blast hits in cluster: 8
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_104/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0008_104/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 90
@@ -3339,6 +3765,8 @@ Number of blast hits in cluster: 7
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_90/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 81
 Total number of members in cluster: 7
@@ -3356,6 +3784,8 @@ Number of blast hits in cluster: 7
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_81/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_81/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 710
@@ -3375,6 +3805,8 @@ Number of blast hits in cluster: 7
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_710/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 660
 Total number of members in cluster: 7
@@ -3393,6 +3825,8 @@ Number of blast hits in cluster: 7
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_660/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 657
 Total number of members in cluster: 7
@@ -3410,6 +3844,10 @@ Number of blast hits in cluster: 6
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_657/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_657/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+AHB32538.1:
 
 ![](../../../../csdb/images/nan.gif)
 
@@ -3431,6 +3869,8 @@ Number of blast hits in cluster: 7
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_507/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 498
 Total number of members in cluster: 7
@@ -3448,6 +3888,8 @@ Number of blast hits in cluster: 7
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_498/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_498/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 463
@@ -3467,6 +3909,8 @@ Number of blast hits in cluster: 7
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_463/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 45
 Total number of members in cluster: 7
@@ -3484,6 +3928,8 @@ Number of blast hits in cluster: 7
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_45/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_45/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 449
@@ -3503,6 +3949,8 @@ Number of blast hits in cluster: 7
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_449/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 43
 Total number of members in cluster: 7
@@ -3520,6 +3968,8 @@ Number of blast hits in cluster: 7
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_43/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_43/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 426
@@ -3539,6 +3989,8 @@ Number of blast hits in cluster: 7
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_426/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 418
 Total number of members in cluster: 7
@@ -3556,6 +4008,8 @@ Number of blast hits in cluster: 7
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_418/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_418/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 405
@@ -3575,6 +4029,8 @@ Number of blast hits in cluster: 7
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_405/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 401
 Total number of members in cluster: 7
@@ -3592,6 +4048,8 @@ Number of blast hits in cluster: 7
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_401/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_401/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 382
@@ -3611,6 +4069,8 @@ Number of blast hits in cluster: 7
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_382/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 379
 Total number of members in cluster: 7
@@ -3628,6 +4088,8 @@ Number of blast hits in cluster: 7
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_379/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_379/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 367
@@ -3647,6 +4109,8 @@ Number of blast hits in cluster: 7
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_367/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 359
 Total number of members in cluster: 7
@@ -3664,6 +4128,8 @@ Number of blast hits in cluster: 7
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_359/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_359/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 354
@@ -3683,6 +4149,8 @@ Number of blast hits in cluster: 7
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_354/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 342
 Total number of members in cluster: 7
@@ -3700,6 +4168,8 @@ Number of blast hits in cluster: 7
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_342/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_342/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 333
@@ -3719,6 +4189,8 @@ Number of blast hits in cluster: 7
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_333/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 306
 Total number of members in cluster: 7
@@ -3736,6 +4208,8 @@ Number of blast hits in cluster: 7
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_306/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_306/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 270
@@ -3755,6 +4229,8 @@ Number of blast hits in cluster: 7
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_270/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 267
 Total number of members in cluster: 7
@@ -3772,6 +4248,8 @@ Number of blast hits in cluster: 7
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_267/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_267/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 250
@@ -3791,6 +4269,8 @@ Number of blast hits in cluster: 7
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_250/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 227
 Total number of members in cluster: 7
@@ -3808,6 +4288,8 @@ Number of blast hits in cluster: 7
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_227/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_227/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 221
@@ -3827,7 +4309,13 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_221/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
+AAC32340.1:
+
 ![](../../../../csdb/images/695.gif)
+
+AAV34494.1:
 
 ![](../../../../csdb/images/nan.gif)
 
@@ -3849,9 +4337,17 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_22/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
+ABI98976.1:
+
 ![](../../../../csdb/images/1883.gif)
 
+WP_046788607.1:
+
 ![](../../../../csdb/images/nan.gif)
+
+WP_000456161.1:
 
 ![](../../../../csdb/images/nan.gif)
 
@@ -3873,6 +4369,8 @@ Number of blast hits in cluster: 7
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_205/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 187
 Total number of members in cluster: 7
@@ -3890,6 +4388,8 @@ Number of blast hits in cluster: 7
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_187/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_187/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 160
@@ -3909,6 +4409,8 @@ Number of blast hits in cluster: 7
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_160/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 15
 Total number of members in cluster: 7
@@ -3926,6 +4428,8 @@ Number of blast hits in cluster: 7
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_15/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_15/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 111
@@ -3945,6 +4449,8 @@ Number of blast hits in cluster: 7
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_111/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 103
 Total number of members in cluster: 7
@@ -3962,6 +4468,8 @@ Number of blast hits in cluster: 7
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_103/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0007_103/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 95
@@ -3981,6 +4489,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_95/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 9
 Total number of members in cluster: 6
@@ -3999,6 +4509,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_9/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 88
 Total number of members in cluster: 6
@@ -4016,6 +4528,10 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_88/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_88/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+ACV53000.1:
 
 ![](../../../../csdb/images/nan.gif)
 
@@ -4037,6 +4553,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_747/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 741
 Total number of members in cluster: 6
@@ -4054,6 +4572,8 @@ Number of blast hits in cluster: 6
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_741/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_741/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 715
@@ -4073,6 +4593,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_715/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 656
 Total number of members in cluster: 6
@@ -4090,6 +4612,8 @@ Number of blast hits in cluster: 6
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_656/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_656/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 65
@@ -4109,6 +4633,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_65/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 623
 Total number of members in cluster: 6
@@ -4127,7 +4653,13 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_623/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
+AAL91079.1:
+
 ![](../../../../csdb/images/nan.gif)
+
+AGS07346.1:
 
 ![](../../../../csdb/images/30907.gif)
 
@@ -4149,6 +4681,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_591/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 561
 Total number of members in cluster: 6
@@ -4166,6 +4700,8 @@ Number of blast hits in cluster: 6
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_561/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_561/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 548
@@ -4185,6 +4721,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_548/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 527
 Total number of members in cluster: 6
@@ -4203,6 +4741,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_527/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 49
 Total number of members in cluster: 6
@@ -4220,6 +4760,10 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_49/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_49/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+AFW04790.1:
 
 ![](../../../../csdb/images/3364.gif)
 
@@ -4241,6 +4785,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_483/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 477
 Total number of members in cluster: 6
@@ -4258,6 +4804,8 @@ Number of blast hits in cluster: 6
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_477/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_477/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 471
@@ -4277,6 +4825,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_471/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 442
 Total number of members in cluster: 6
@@ -4294,6 +4844,8 @@ Number of blast hits in cluster: 6
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_442/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_442/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 400
@@ -4313,6 +4865,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_400/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 394
 Total number of members in cluster: 6
@@ -4330,6 +4884,8 @@ Number of blast hits in cluster: 6
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_394/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_394/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 384
@@ -4349,6 +4905,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_384/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 374
 Total number of members in cluster: 6
@@ -4366,6 +4924,8 @@ Number of blast hits in cluster: 6
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_374/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_374/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 345
@@ -4385,6 +4945,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_345/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 341
 Total number of members in cluster: 6
@@ -4402,6 +4964,8 @@ Number of blast hits in cluster: 6
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_341/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_341/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 340
@@ -4421,6 +4985,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_340/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 336
 Total number of members in cluster: 6
@@ -4438,6 +5004,8 @@ Number of blast hits in cluster: 6
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_336/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_336/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 33
@@ -4457,6 +5025,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_33/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 329
 Total number of members in cluster: 6
@@ -4475,6 +5045,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_329/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 321
 Total number of members in cluster: 6
@@ -4492,6 +5064,10 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_321/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_321/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+ACD37117.1:
 
 ![](../../../../csdb/images/1547.gif)
 
@@ -4513,6 +5089,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_310/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 303
 Total number of members in cluster: 6
@@ -4530,6 +5108,8 @@ Number of blast hits in cluster: 6
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_303/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_303/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 299
@@ -4549,6 +5129,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_299/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 298
 Total number of members in cluster: 6
@@ -4567,6 +5149,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_298/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 288
 Total number of members in cluster: 6
@@ -4584,6 +5168,10 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_288/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_288/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+AJR19430.1:
 
 ![](../../../../csdb/images/1933.gif)
 
@@ -4605,6 +5193,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_282/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 258
 Total number of members in cluster: 6
@@ -4623,6 +5213,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_258/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 220
 Total number of members in cluster: 6
@@ -4640,6 +5232,10 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_220/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_220/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+AAZ20761.1:
 
 ![](../../../../csdb/images/1573.gif)
 
@@ -4661,6 +5257,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_214/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 209
 Total number of members in cluster: 6
@@ -4678,6 +5276,8 @@ Number of blast hits in cluster: 6
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_209/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_209/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 203
@@ -4697,6 +5297,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_203/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 196
 Total number of members in cluster: 6
@@ -4714,6 +5316,8 @@ Number of blast hits in cluster: 6
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_196/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_196/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 16
@@ -4733,6 +5337,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_16/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 159
 Total number of members in cluster: 6
@@ -4750,6 +5356,8 @@ Number of blast hits in cluster: 6
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_159/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_159/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 155
@@ -4769,6 +5377,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_155/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 152
 Total number of members in cluster: 6
@@ -4786,6 +5396,8 @@ Number of blast hits in cluster: 6
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_152/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_152/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 138
@@ -4805,6 +5417,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_138/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 126
 Total number of members in cluster: 6
@@ -4822,6 +5436,8 @@ Number of blast hits in cluster: 6
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_126/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_126/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 109
@@ -4841,6 +5457,8 @@ Number of blast hits in cluster: 6
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0006_109/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 94
 Total number of members in cluster: 5
@@ -4858,6 +5476,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_94/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_94/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 85
@@ -4877,6 +5497,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_85/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 8
 Total number of members in cluster: 5
@@ -4894,6 +5516,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_8/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_8/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 714
@@ -4913,6 +5537,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_714/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 704
 Total number of members in cluster: 5
@@ -4930,6 +5556,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_704/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_704/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 685
@@ -4949,6 +5577,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_685/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 663
 Total number of members in cluster: 5
@@ -4966,6 +5596,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_663/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_663/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 646
@@ -4985,6 +5617,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_646/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 644
 Total number of members in cluster: 5
@@ -5002,6 +5636,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_644/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_644/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 639
@@ -5021,6 +5657,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_639/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 626
 Total number of members in cluster: 5
@@ -5038,6 +5676,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_626/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_626/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 599
@@ -5057,6 +5697,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_599/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 597
 Total number of members in cluster: 5
@@ -5074,6 +5716,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_597/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_597/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 588
@@ -5093,6 +5737,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_588/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 584
 Total number of members in cluster: 5
@@ -5110,6 +5756,10 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_584/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_584/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+AAR24270.1:
 
 ![](../../../../csdb/images/1405.gif)
 
@@ -5131,6 +5781,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_579/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 576
 Total number of members in cluster: 5
@@ -5148,6 +5800,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_576/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_576/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 571
@@ -5167,6 +5821,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_571/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 566
 Total number of members in cluster: 5
@@ -5184,6 +5840,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_566/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_566/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 564
@@ -5203,6 +5861,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_564/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 56
 Total number of members in cluster: 5
@@ -5220,6 +5880,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_56/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_56/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 558
@@ -5239,6 +5901,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_558/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 557
 Total number of members in cluster: 5
@@ -5256,6 +5920,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_557/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_557/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 536
@@ -5275,6 +5941,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_536/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 531
 Total number of members in cluster: 5
@@ -5292,6 +5960,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_531/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_531/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 528
@@ -5311,6 +5981,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_528/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 525
 Total number of members in cluster: 5
@@ -5328,6 +6000,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_525/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_525/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 479
@@ -5347,6 +6021,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_479/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 47
 Total number of members in cluster: 5
@@ -5364,6 +6040,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_47/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_47/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 456
@@ -5383,6 +6061,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_456/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 453
 Total number of members in cluster: 5
@@ -5400,6 +6080,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_453/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_453/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 446
@@ -5419,6 +6101,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_446/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 430
 Total number of members in cluster: 5
@@ -5436,6 +6120,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_430/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_430/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 415
@@ -5455,6 +6141,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_415/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 397
 Total number of members in cluster: 5
@@ -5473,6 +6161,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_397/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 396
 Total number of members in cluster: 5
@@ -5490,6 +6180,10 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_396/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_396/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+AAS98031.1:
 
 ![](../../../../csdb/images/1844.gif)
 
@@ -5511,6 +6205,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_378/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 360
 Total number of members in cluster: 5
@@ -5528,6 +6224,10 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_360/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_360/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+AHB32832.1:
 
 ![](../../../../csdb/images/nan.gif)
 
@@ -5549,6 +6249,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_355/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 350
 Total number of members in cluster: 5
@@ -5566,6 +6268,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_350/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_350/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 349
@@ -5585,6 +6289,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_349/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 334
 Total number of members in cluster: 5
@@ -5602,6 +6308,10 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_334/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_334/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+AFV46136.1:
 
 ![](../../../../csdb/images/nan.gif)
 
@@ -5623,6 +6333,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_328/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 314
 Total number of members in cluster: 5
@@ -5640,6 +6352,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_314/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_314/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 307
@@ -5659,6 +6373,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_307/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 279
 Total number of members in cluster: 5
@@ -5676,6 +6392,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_279/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_279/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 272
@@ -5695,6 +6413,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_272/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 248
 Total number of members in cluster: 5
@@ -5712,6 +6432,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_248/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_248/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 242
@@ -5731,6 +6453,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_242/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 239
 Total number of members in cluster: 5
@@ -5748,6 +6472,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_239/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_239/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 226
@@ -5767,6 +6493,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_226/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 225
 Total number of members in cluster: 5
@@ -5784,6 +6512,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_225/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_225/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 217
@@ -5803,6 +6533,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_217/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 194
 Total number of members in cluster: 5
@@ -5820,6 +6552,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_194/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_194/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 178
@@ -5839,6 +6573,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_178/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 176
 Total number of members in cluster: 5
@@ -5856,6 +6592,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_176/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_176/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 17
@@ -5875,6 +6613,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_17/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 153
 Total number of members in cluster: 5
@@ -5892,6 +6632,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_153/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_153/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 115
@@ -5911,6 +6653,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_115/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 112
 Total number of members in cluster: 5
@@ -5928,6 +6672,8 @@ Number of blast hits in cluster: 5
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_112/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_112/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 108
@@ -5947,6 +6693,8 @@ Number of blast hits in cluster: 5
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0005_108/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 93
 Total number of members in cluster: 4
@@ -5964,6 +6712,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_93/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_93/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 83
@@ -5983,6 +6733,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_83/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 756
 Total number of members in cluster: 4
@@ -6000,6 +6752,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_756/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_756/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 736
@@ -6019,6 +6773,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_736/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 733
 Total number of members in cluster: 4
@@ -6036,6 +6792,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_733/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_733/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 729
@@ -6055,6 +6813,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_729/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 702
 Total number of members in cluster: 4
@@ -6072,6 +6832,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_702/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_702/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 696
@@ -6091,6 +6853,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_696/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 688
 Total number of members in cluster: 4
@@ -6108,6 +6872,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_688/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_688/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 679
@@ -6127,6 +6893,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_679/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 676
 Total number of members in cluster: 4
@@ -6144,6 +6912,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_676/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_676/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 662
@@ -6163,6 +6933,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_662/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 659
 Total number of members in cluster: 4
@@ -6180,6 +6952,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_659/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_659/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 640
@@ -6199,6 +6973,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_640/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 635
 Total number of members in cluster: 4
@@ -6216,6 +6992,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_635/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_635/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 617
@@ -6235,6 +7013,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_617/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 600
 Total number of members in cluster: 4
@@ -6252,6 +7032,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_600/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_600/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 6
@@ -6271,6 +7053,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_6/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 577
 Total number of members in cluster: 4
@@ -6288,6 +7072,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_577/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_577/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 569
@@ -6307,6 +7093,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_569/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 565
 Total number of members in cluster: 4
@@ -6324,6 +7112,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_565/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_565/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 559
@@ -6343,6 +7133,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_559/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 555
 Total number of members in cluster: 4
@@ -6360,6 +7152,10 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_555/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_555/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+AAZ85718.1:
 
 ![](../../../../csdb/images/1881.gif)
 
@@ -6381,6 +7177,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_553/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 552
 Total number of members in cluster: 4
@@ -6398,6 +7196,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_552/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_552/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 545
@@ -6417,6 +7217,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_545/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 537
 Total number of members in cluster: 4
@@ -6434,6 +7236,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_537/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_537/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 535
@@ -6453,6 +7257,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_535/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 534
 Total number of members in cluster: 4
@@ -6470,6 +7276,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_534/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_534/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 529
@@ -6489,6 +7297,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_529/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 519
 Total number of members in cluster: 4
@@ -6506,6 +7316,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_519/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_519/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 516
@@ -6525,6 +7337,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_516/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 509
 Total number of members in cluster: 4
@@ -6542,6 +7356,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_509/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_509/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 497
@@ -6561,6 +7377,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_497/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 493
 Total number of members in cluster: 4
@@ -6578,6 +7396,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_493/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_493/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 492
@@ -6597,6 +7417,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_492/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 481
 Total number of members in cluster: 4
@@ -6614,6 +7436,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_481/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_481/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 475
@@ -6633,6 +7457,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_475/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 473
 Total number of members in cluster: 4
@@ -6650,6 +7476,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_473/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_473/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 470
@@ -6669,6 +7497,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_470/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 468
 Total number of members in cluster: 4
@@ -6686,6 +7516,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_468/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_468/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 467
@@ -6705,6 +7537,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_467/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 466
 Total number of members in cluster: 4
@@ -6722,6 +7556,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_466/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_466/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 465
@@ -6741,6 +7577,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_465/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 457
 Total number of members in cluster: 4
@@ -6758,6 +7596,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_457/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_457/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 444
@@ -6777,6 +7617,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_444/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 441
 Total number of members in cluster: 4
@@ -6794,6 +7636,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_441/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_441/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 432
@@ -6813,6 +7657,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_432/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 427
 Total number of members in cluster: 4
@@ -6830,6 +7676,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_427/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_427/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 423
@@ -6849,6 +7697,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_423/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 42
 Total number of members in cluster: 4
@@ -6867,6 +7717,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_42/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 410
 Total number of members in cluster: 4
@@ -6884,6 +7736,10 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_410/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_410/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+BAQ00830.1:
 
 ![](../../../../csdb/images/1543.gif)
 
@@ -6905,6 +7761,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_409/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 395
 Total number of members in cluster: 4
@@ -6923,6 +7781,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_395/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 393
 Total number of members in cluster: 4
@@ -6940,6 +7800,10 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_393/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_393/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+ADC54929.1:
 
 ![](../../../../csdb/images/nan.gif)
 
@@ -6961,6 +7825,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_38/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 375
 Total number of members in cluster: 4
@@ -6978,6 +7844,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_375/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_375/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 372
@@ -6997,6 +7865,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_372/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 368
 Total number of members in cluster: 4
@@ -7014,6 +7884,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_368/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_368/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 366
@@ -7033,6 +7905,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_366/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 353
 Total number of members in cluster: 4
@@ -7050,6 +7924,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_353/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_353/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 352
@@ -7069,6 +7945,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_352/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 35
 Total number of members in cluster: 4
@@ -7086,6 +7964,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_35/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_35/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 338
@@ -7105,6 +7985,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_338/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 319
 Total number of members in cluster: 4
@@ -7122,6 +8004,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_319/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_319/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 311
@@ -7141,6 +8025,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_311/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 284
 Total number of members in cluster: 4
@@ -7158,6 +8044,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_284/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_284/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 269
@@ -7177,6 +8065,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_269/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 268
 Total number of members in cluster: 4
@@ -7194,6 +8084,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_268/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_268/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 25
@@ -7213,6 +8105,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_25/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 244
 Total number of members in cluster: 4
@@ -7230,6 +8124,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_244/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_244/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 230
@@ -7249,6 +8145,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_230/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 200
 Total number of members in cluster: 4
@@ -7266,6 +8164,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_200/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_200/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 193
@@ -7285,6 +8185,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_193/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 167
 Total number of members in cluster: 4
@@ -7302,6 +8204,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_167/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_167/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 166
@@ -7321,6 +8225,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_166/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 162
 Total number of members in cluster: 4
@@ -7338,6 +8244,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_162/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_162/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 132
@@ -7357,6 +8265,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_132/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 121
 Total number of members in cluster: 4
@@ -7374,6 +8284,8 @@ Number of blast hits in cluster: 4
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_121/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_121/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 102
@@ -7393,6 +8305,8 @@ Number of blast hits in cluster: 4
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0004_102/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 99
 Total number of members in cluster: 3
@@ -7410,6 +8324,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_99/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_99/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 91
@@ -7429,6 +8345,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_91/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 786
 Total number of members in cluster: 3
@@ -7446,6 +8364,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_786/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_786/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 770
@@ -7465,6 +8385,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_770/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 760
 Total number of members in cluster: 3
@@ -7482,6 +8404,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_760/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_760/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 752
@@ -7501,6 +8425,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_752/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 75
 Total number of members in cluster: 3
@@ -7518,6 +8444,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_75/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_75/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 743
@@ -7537,6 +8465,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_743/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 740
 Total number of members in cluster: 3
@@ -7554,6 +8484,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_740/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_740/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 74
@@ -7573,6 +8505,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_74/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 739
 Total number of members in cluster: 3
@@ -7590,6 +8524,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_739/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_739/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 738
@@ -7609,6 +8545,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_738/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 731
 Total number of members in cluster: 3
@@ -7626,6 +8564,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_731/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_731/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 728
@@ -7645,6 +8585,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_728/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 726
 Total number of members in cluster: 3
@@ -7662,6 +8604,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_726/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_726/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 723
@@ -7681,6 +8625,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_723/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 721
 Total number of members in cluster: 3
@@ -7698,6 +8644,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_721/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_721/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 718
@@ -7717,6 +8665,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_718/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 716
 Total number of members in cluster: 3
@@ -7734,6 +8684,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_716/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_716/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 713
@@ -7753,6 +8705,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_713/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 712
 Total number of members in cluster: 3
@@ -7770,6 +8724,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_712/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_712/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 709
@@ -7789,6 +8745,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_709/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 706
 Total number of members in cluster: 3
@@ -7806,6 +8764,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_706/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_706/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 700
@@ -7825,6 +8785,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_700/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 699
 Total number of members in cluster: 3
@@ -7842,6 +8804,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_699/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_699/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 697
@@ -7861,6 +8825,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_697/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 691
 Total number of members in cluster: 3
@@ -7878,6 +8844,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_691/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_691/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 690
@@ -7897,6 +8865,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_690/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 69
 Total number of members in cluster: 3
@@ -7914,6 +8884,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_69/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_69/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 689
@@ -7933,6 +8905,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_689/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 682
 Total number of members in cluster: 3
@@ -7950,6 +8924,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_682/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_682/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 677
@@ -7969,6 +8945,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_677/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 675
 Total number of members in cluster: 3
@@ -7986,6 +8964,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_675/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_675/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 673
@@ -8005,6 +8985,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_673/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 669
 Total number of members in cluster: 3
@@ -8022,6 +9004,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_669/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_669/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 664
@@ -8041,6 +9025,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_664/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 652
 Total number of members in cluster: 3
@@ -8058,6 +9044,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_652/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_652/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 651
@@ -8077,6 +9065,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_651/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 645
 Total number of members in cluster: 3
@@ -8094,6 +9084,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_645/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_645/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 641
@@ -8113,6 +9105,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_641/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 636
 Total number of members in cluster: 3
@@ -8130,6 +9124,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_636/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_636/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 633
@@ -8149,6 +9145,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_633/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 63
 Total number of members in cluster: 3
@@ -8166,6 +9164,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_63/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_63/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 628
@@ -8185,6 +9185,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_628/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 625
 Total number of members in cluster: 3
@@ -8202,6 +9204,10 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_625/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_625/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+ADN43871.1:
 
 ![](../../../../csdb/images/1287.gif)
 
@@ -8223,6 +9229,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_624/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 622
 Total number of members in cluster: 3
@@ -8240,6 +9248,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_622/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_622/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 620
@@ -8259,6 +9269,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_620/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 619
 Total number of members in cluster: 3
@@ -8276,6 +9288,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_619/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_619/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 614
@@ -8295,6 +9309,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_614/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 610
 Total number of members in cluster: 3
@@ -8312,6 +9328,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_610/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_610/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 608
@@ -8331,6 +9349,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_608/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 607
 Total number of members in cluster: 3
@@ -8348,6 +9368,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_607/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_607/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 605
@@ -8367,6 +9389,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_605/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 604
 Total number of members in cluster: 3
@@ -8384,6 +9408,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_604/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_604/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 603
@@ -8403,6 +9429,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_603/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 601
 Total number of members in cluster: 3
@@ -8420,6 +9448,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_601/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_601/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 596
@@ -8439,6 +9469,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_596/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 59
 Total number of members in cluster: 3
@@ -8456,6 +9488,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_59/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_59/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 585
@@ -8475,6 +9509,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_585/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 583
 Total number of members in cluster: 3
@@ -8492,6 +9528,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_583/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_583/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 580
@@ -8511,6 +9549,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_580/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 549
 Total number of members in cluster: 3
@@ -8528,6 +9568,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_549/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_549/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 538
@@ -8547,6 +9589,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_538/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 533
 Total number of members in cluster: 3
@@ -8564,6 +9608,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_533/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_533/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 522
@@ -8583,6 +9629,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_522/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 520
 Total number of members in cluster: 3
@@ -8600,6 +9648,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_520/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_520/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 512
@@ -8619,6 +9669,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_512/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 511
 Total number of members in cluster: 3
@@ -8636,6 +9688,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_511/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_511/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 508
@@ -8655,6 +9709,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_508/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 501
 Total number of members in cluster: 3
@@ -8672,6 +9728,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_501/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_501/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 50
@@ -8691,6 +9749,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_50/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 496
 Total number of members in cluster: 3
@@ -8708,6 +9768,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_496/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_496/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 495
@@ -8727,6 +9789,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_495/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 494
 Total number of members in cluster: 3
@@ -8744,6 +9808,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_494/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_494/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 489
@@ -8763,6 +9829,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_489/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 484
 Total number of members in cluster: 3
@@ -8780,6 +9848,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_484/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_484/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 480
@@ -8799,6 +9869,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_480/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 478
 Total number of members in cluster: 3
@@ -8816,6 +9888,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_478/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_478/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 474
@@ -8835,6 +9909,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_474/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 472
 Total number of members in cluster: 3
@@ -8852,6 +9928,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_472/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_472/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 469
@@ -8871,6 +9949,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_469/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 464
 Total number of members in cluster: 3
@@ -8888,6 +9968,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_464/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_464/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 455
@@ -8907,6 +9989,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_455/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 452
 Total number of members in cluster: 3
@@ -8924,6 +10008,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_452/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_452/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 450
@@ -8943,6 +10029,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_450/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 448
 Total number of members in cluster: 3
@@ -8960,6 +10048,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_448/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_448/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 443
@@ -8979,6 +10069,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_443/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 438
 Total number of members in cluster: 3
@@ -8996,6 +10088,10 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_438/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_438/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+ADI59429.1:
 
 ![](../../../../csdb/images/12131.gif)
 
@@ -9017,6 +10113,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_433/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 425
 Total number of members in cluster: 3
@@ -9034,6 +10132,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_425/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_425/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 422
@@ -9053,6 +10153,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_422/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 416
 Total number of members in cluster: 3
@@ -9070,6 +10172,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_416/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_416/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 414
@@ -9089,6 +10193,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_414/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 408
 Total number of members in cluster: 3
@@ -9106,6 +10212,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_408/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_408/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 407
@@ -9125,6 +10233,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_407/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 399
 Total number of members in cluster: 3
@@ -9142,6 +10252,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_399/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_399/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 398
@@ -9161,6 +10273,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_398/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 392
 Total number of members in cluster: 3
@@ -9178,6 +10292,10 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_392/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_392/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+CAI34454.1:
 
 ![](../../../../csdb/images/nan.gif)
 
@@ -9199,6 +10317,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_391/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 390
 Total number of members in cluster: 3
@@ -9216,6 +10336,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_390/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_390/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 376
@@ -9235,6 +10357,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_376/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 362
 Total number of members in cluster: 3
@@ -9252,6 +10376,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_362/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_362/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 358
@@ -9271,6 +10397,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_358/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 351
 Total number of members in cluster: 3
@@ -9288,6 +10416,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_351/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_351/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 348
@@ -9307,6 +10437,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_348/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 325
 Total number of members in cluster: 3
@@ -9324,6 +10456,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_325/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_325/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 318
@@ -9343,6 +10477,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_318/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 316
 Total number of members in cluster: 3
@@ -9360,6 +10496,10 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_316/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_316/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+AHB32267.1:
 
 ![](../../../../csdb/images/nan.gif)
 
@@ -9381,6 +10521,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_308/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 300
 Total number of members in cluster: 3
@@ -9398,6 +10540,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_300/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_300/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 295
@@ -9417,6 +10561,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_295/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 292
 Total number of members in cluster: 3
@@ -9434,6 +10580,10 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_292/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_292/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+AKA20999.1:
 
 ![](../../../../csdb/images/12126.gif)
 
@@ -9455,6 +10605,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_291/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 273
 Total number of members in cluster: 3
@@ -9472,6 +10624,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_273/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_273/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 264
@@ -9491,6 +10645,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_264/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 263
 Total number of members in cluster: 3
@@ -9508,6 +10664,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_263/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_263/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 259
@@ -9527,6 +10685,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_259/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 232
 Total number of members in cluster: 3
@@ -9544,6 +10704,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_232/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_232/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 222
@@ -9563,6 +10725,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_222/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 208
 Total number of members in cluster: 3
@@ -9580,6 +10744,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_208/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_208/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 207
@@ -9599,6 +10765,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_207/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 204
 Total number of members in cluster: 3
@@ -9616,6 +10784,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_204/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_204/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 197
@@ -9635,6 +10805,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_197/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 174
 Total number of members in cluster: 3
@@ -9652,6 +10824,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_174/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_174/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 173
@@ -9671,6 +10845,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_173/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 156
 Total number of members in cluster: 3
@@ -9688,6 +10864,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_156/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_156/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 150
@@ -9707,6 +10885,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_150/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 146
 Total number of members in cluster: 3
@@ -9724,6 +10904,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_146/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_146/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 145
@@ -9743,6 +10925,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_145/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 123
 Total number of members in cluster: 3
@@ -9760,6 +10944,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_123/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_123/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 113
@@ -9779,6 +10965,8 @@ Number of blast hits in cluster: 3
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_113/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 107
 Total number of members in cluster: 3
@@ -9796,6 +10984,8 @@ Number of blast hits in cluster: 3
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_107/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0003_107/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 86
@@ -9815,6 +11005,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_86/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 84
 Total number of members in cluster: 2
@@ -9832,6 +11024,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_84/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_84/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 797
@@ -9851,6 +11045,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_797/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 796
 Total number of members in cluster: 2
@@ -9868,6 +11064,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_796/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_796/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 795
@@ -9887,6 +11085,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_795/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 794
 Total number of members in cluster: 2
@@ -9904,6 +11104,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_794/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_794/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 793
@@ -9923,6 +11125,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_793/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 792
 Total number of members in cluster: 2
@@ -9940,6 +11144,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_792/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_792/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 791
@@ -9959,6 +11165,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_791/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 790
 Total number of members in cluster: 2
@@ -9976,6 +11184,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_790/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_790/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 789
@@ -9995,6 +11205,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_789/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 788
 Total number of members in cluster: 2
@@ -10012,6 +11224,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_788/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_788/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 787
@@ -10031,6 +11245,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_787/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 785
 Total number of members in cluster: 2
@@ -10048,6 +11264,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_785/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_785/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 784
@@ -10067,6 +11285,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_784/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 783
 Total number of members in cluster: 2
@@ -10084,6 +11304,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_783/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_783/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 782
@@ -10103,6 +11325,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_782/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 781
 Total number of members in cluster: 2
@@ -10120,6 +11344,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_781/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_781/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 780
@@ -10139,6 +11365,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_780/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 779
 Total number of members in cluster: 2
@@ -10156,6 +11384,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_779/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_779/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 778
@@ -10175,6 +11405,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_778/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 777
 Total number of members in cluster: 2
@@ -10192,6 +11424,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_777/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_777/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 776
@@ -10211,6 +11445,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_776/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 775
 Total number of members in cluster: 2
@@ -10228,6 +11464,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_775/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_775/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 774
@@ -10247,6 +11485,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_774/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 773
 Total number of members in cluster: 2
@@ -10264,6 +11504,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_773/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_773/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 772
@@ -10283,6 +11525,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_772/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 771
 Total number of members in cluster: 2
@@ -10300,6 +11544,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_771/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_771/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 769
@@ -10319,6 +11565,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_769/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 768
 Total number of members in cluster: 2
@@ -10336,6 +11584,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_768/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_768/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 767
@@ -10355,6 +11605,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_767/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 766
 Total number of members in cluster: 2
@@ -10372,6 +11624,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_766/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_766/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 765
@@ -10391,6 +11645,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_765/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 764
 Total number of members in cluster: 2
@@ -10408,6 +11664,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_764/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_764/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 763
@@ -10427,6 +11685,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_763/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 762
 Total number of members in cluster: 2
@@ -10444,6 +11704,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_762/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_762/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 761
@@ -10463,6 +11725,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_761/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 759
 Total number of members in cluster: 2
@@ -10480,6 +11744,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_759/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_759/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 758
@@ -10499,6 +11765,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_758/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 757
 Total number of members in cluster: 2
@@ -10516,6 +11784,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_757/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_757/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 755
@@ -10535,6 +11805,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_755/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 754
 Total number of members in cluster: 2
@@ -10552,6 +11824,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_754/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_754/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 753
@@ -10571,6 +11845,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_753/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 751
 Total number of members in cluster: 2
@@ -10588,6 +11864,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_751/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_751/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 750
@@ -10607,6 +11885,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_750/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 749
 Total number of members in cluster: 2
@@ -10624,6 +11904,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_749/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_749/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 748
@@ -10643,6 +11925,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_748/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 746
 Total number of members in cluster: 2
@@ -10660,6 +11944,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_746/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_746/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 745
@@ -10679,6 +11965,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_745/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 744
 Total number of members in cluster: 2
@@ -10696,6 +11984,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_744/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_744/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 742
@@ -10715,6 +12005,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_742/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 737
 Total number of members in cluster: 2
@@ -10732,6 +12024,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_737/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_737/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 735
@@ -10751,6 +12045,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_735/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 734
 Total number of members in cluster: 2
@@ -10768,6 +12064,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_734/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_734/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 732
@@ -10787,6 +12085,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_732/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 730
 Total number of members in cluster: 2
@@ -10804,6 +12104,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_730/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_730/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 727
@@ -10823,6 +12125,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_727/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 725
 Total number of members in cluster: 2
@@ -10840,6 +12144,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_725/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_725/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 724
@@ -10859,6 +12165,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_724/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 722
 Total number of members in cluster: 2
@@ -10877,6 +12185,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_722/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 720
 Total number of members in cluster: 2
@@ -10894,6 +12204,10 @@ Number of blast hits in cluster: 1
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_720/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_720/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+CAI34475.1:
 
 ![](../../../../csdb/images/25002.gif)
 
@@ -10915,6 +12229,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_719/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 717
 Total number of members in cluster: 2
@@ -10932,6 +12248,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_717/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_717/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 711
@@ -10951,6 +12269,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_711/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 708
 Total number of members in cluster: 2
@@ -10968,6 +12288,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_708/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_708/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 707
@@ -10987,6 +12309,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_707/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 705
 Total number of members in cluster: 2
@@ -11004,6 +12328,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_705/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_705/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 703
@@ -11023,6 +12349,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_703/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 701
 Total number of members in cluster: 2
@@ -11040,6 +12368,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_701/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_701/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 698
@@ -11059,6 +12389,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_698/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 695
 Total number of members in cluster: 2
@@ -11076,6 +12408,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_695/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_695/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 694
@@ -11095,6 +12429,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_694/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 693
 Total number of members in cluster: 2
@@ -11112,6 +12448,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_693/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_693/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 692
@@ -11131,6 +12469,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_692/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 687
 Total number of members in cluster: 2
@@ -11148,6 +12488,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_687/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_687/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 686
@@ -11167,6 +12509,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_686/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 684
 Total number of members in cluster: 2
@@ -11184,6 +12528,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_684/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_684/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 683
@@ -11203,6 +12549,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_683/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 681
 Total number of members in cluster: 2
@@ -11220,6 +12568,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_681/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_681/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 680
@@ -11239,6 +12589,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_680/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 678
 Total number of members in cluster: 2
@@ -11256,6 +12608,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_678/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_678/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 674
@@ -11275,6 +12629,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_674/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 672
 Total number of members in cluster: 2
@@ -11292,6 +12648,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_672/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_672/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 671
@@ -11311,6 +12669,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_671/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 670
 Total number of members in cluster: 2
@@ -11328,6 +12688,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_670/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_670/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 668
@@ -11347,6 +12709,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_668/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 667
 Total number of members in cluster: 2
@@ -11364,6 +12728,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_667/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_667/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 666
@@ -11383,6 +12749,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_666/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 665
 Total number of members in cluster: 2
@@ -11400,6 +12768,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_665/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_665/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 661
@@ -11419,6 +12789,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_661/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 658
 Total number of members in cluster: 2
@@ -11436,6 +12808,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_658/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_658/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 655
@@ -11455,6 +12829,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_655/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 654
 Total number of members in cluster: 2
@@ -11472,6 +12848,10 @@ Number of blast hits in cluster: 1
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_654/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_654/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+WP_016238111.1:
 
 ![](../../../../csdb/images/1587.gif)
 
@@ -11493,6 +12873,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_653/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 650
 Total number of members in cluster: 2
@@ -11510,6 +12892,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_650/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_650/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 649
@@ -11529,6 +12913,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_649/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 648
 Total number of members in cluster: 2
@@ -11546,6 +12932,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_648/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_648/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 647
@@ -11565,6 +12953,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_647/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 643
 Total number of members in cluster: 2
@@ -11582,6 +12972,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_643/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_643/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 642
@@ -11601,6 +12993,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_642/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 638
 Total number of members in cluster: 2
@@ -11618,6 +13012,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_638/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_638/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 637
@@ -11637,6 +13033,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_637/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 634
 Total number of members in cluster: 2
@@ -11654,6 +13052,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_634/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_634/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 632
@@ -11673,6 +13073,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_632/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 631
 Total number of members in cluster: 2
@@ -11690,6 +13092,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_631/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_631/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 630
@@ -11709,6 +13113,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_630/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 629
 Total number of members in cluster: 2
@@ -11726,6 +13132,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_629/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_629/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 627
@@ -11745,6 +13153,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_627/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 621
 Total number of members in cluster: 2
@@ -11762,6 +13172,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_621/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_621/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 618
@@ -11781,6 +13193,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_618/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 616
 Total number of members in cluster: 2
@@ -11798,6 +13212,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_616/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_616/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 615
@@ -11817,6 +13233,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_615/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 613
 Total number of members in cluster: 2
@@ -11834,6 +13252,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_613/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_613/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 612
@@ -11853,6 +13273,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_612/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 609
 Total number of members in cluster: 2
@@ -11870,6 +13292,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_609/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_609/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 606
@@ -11889,6 +13313,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_606/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 602
 Total number of members in cluster: 2
@@ -11906,6 +13332,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_602/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_602/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 598
@@ -11925,6 +13353,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_598/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 595
 Total number of members in cluster: 2
@@ -11942,6 +13372,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_595/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_595/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 594
@@ -11961,6 +13393,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_594/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 593
 Total number of members in cluster: 2
@@ -11978,6 +13412,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_593/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_593/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 592
@@ -11997,6 +13433,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_592/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 589
 Total number of members in cluster: 2
@@ -12014,6 +13452,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_589/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_589/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 587
@@ -12033,6 +13473,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_587/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 586
 Total number of members in cluster: 2
@@ -12050,6 +13492,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_586/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_586/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 582
@@ -12069,6 +13513,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_582/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 581
 Total number of members in cluster: 2
@@ -12086,6 +13532,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_581/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_581/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 578
@@ -12105,6 +13553,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_578/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 575
 Total number of members in cluster: 2
@@ -12123,6 +13573,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_575/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 573
 Total number of members in cluster: 2
@@ -12140,6 +13592,10 @@ Number of blast hits in cluster: 1
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_573/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_573/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+ADJ19203.1:
 
 ![](../../../../csdb/images/1902.gif)
 
@@ -12161,6 +13617,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_572/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 568
 Total number of members in cluster: 2
@@ -12178,6 +13636,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_568/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_568/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 567
@@ -12197,6 +13657,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_567/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 563
 Total number of members in cluster: 2
@@ -12214,6 +13676,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_563/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_563/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 562
@@ -12233,6 +13697,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_562/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 560
 Total number of members in cluster: 2
@@ -12250,6 +13716,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_560/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_560/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 556
@@ -12269,6 +13737,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_556/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 554
 Total number of members in cluster: 2
@@ -12286,6 +13756,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_554/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_554/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 551
@@ -12305,6 +13777,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_551/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 550
 Total number of members in cluster: 2
@@ -12322,6 +13796,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_550/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_550/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 547
@@ -12341,6 +13817,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_547/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 546
 Total number of members in cluster: 2
@@ -12358,6 +13836,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_546/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_546/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 544
@@ -12377,6 +13857,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_544/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 543
 Total number of members in cluster: 2
@@ -12394,6 +13876,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_543/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_543/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 542
@@ -12413,6 +13897,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_542/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 54
 Total number of members in cluster: 2
@@ -12430,6 +13916,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_54/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_54/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 539
@@ -12449,6 +13937,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_539/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 532
 Total number of members in cluster: 2
@@ -12466,6 +13956,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_532/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_532/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 524
@@ -12485,6 +13977,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_524/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 521
 Total number of members in cluster: 2
@@ -12502,6 +13996,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_521/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_521/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 52
@@ -12521,6 +14017,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_52/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 518
 Total number of members in cluster: 2
@@ -12538,6 +14036,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_518/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_518/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 517
@@ -12557,6 +14057,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_517/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 515
 Total number of members in cluster: 2
@@ -12574,6 +14076,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_515/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_515/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 513
@@ -12593,6 +14097,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_513/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 510
 Total number of members in cluster: 2
@@ -12610,6 +14116,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_510/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_510/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 51
@@ -12629,6 +14137,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_51/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 506
 Total number of members in cluster: 2
@@ -12646,6 +14156,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_506/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_506/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 504
@@ -12665,6 +14177,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_504/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 503
 Total number of members in cluster: 2
@@ -12682,6 +14196,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_503/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_503/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 500
@@ -12701,6 +14217,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_500/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 5
 Total number of members in cluster: 2
@@ -12718,6 +14236,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_5/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_5/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 499
@@ -12737,6 +14257,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_499/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 491
 Total number of members in cluster: 2
@@ -12754,6 +14276,10 @@ Number of blast hits in cluster: 1
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_491/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_491/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
+
+ACA24890.1:
 
 ![](../../../../csdb/images/1900.gif)
 
@@ -12775,6 +14301,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_490/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 488
 Total number of members in cluster: 2
@@ -12792,6 +14320,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_488/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_488/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 485
@@ -12811,6 +14341,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_485/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 482
 Total number of members in cluster: 2
@@ -12828,6 +14360,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_482/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_482/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 476
@@ -12847,6 +14381,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_476/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 462
 Total number of members in cluster: 2
@@ -12864,6 +14400,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_462/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_462/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 461
@@ -12883,6 +14421,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_461/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 46
 Total number of members in cluster: 2
@@ -12900,6 +14440,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_46/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_46/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 458
@@ -12919,6 +14461,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_458/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 451
 Total number of members in cluster: 2
@@ -12936,6 +14480,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_451/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_451/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 447
@@ -12955,6 +14501,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_447/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 440
 Total number of members in cluster: 2
@@ -12972,6 +14520,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_440/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_440/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 44
@@ -12991,6 +14541,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_44/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 439
 Total number of members in cluster: 2
@@ -13008,6 +14560,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_439/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_439/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 437
@@ -13027,6 +14581,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_437/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 436
 Total number of members in cluster: 2
@@ -13044,6 +14600,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_436/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_436/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 435
@@ -13063,6 +14621,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_435/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 431
 Total number of members in cluster: 2
@@ -13080,6 +14640,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_431/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_431/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 429
@@ -13099,6 +14661,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_429/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 428
 Total number of members in cluster: 2
@@ -13116,6 +14680,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_428/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_428/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 424
@@ -13135,6 +14701,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_424/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 421
 Total number of members in cluster: 2
@@ -13152,6 +14720,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_421/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_421/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 420
@@ -13171,6 +14741,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_420/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 417
 Total number of members in cluster: 2
@@ -13188,6 +14760,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_417/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_417/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 413
@@ -13207,6 +14781,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_413/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 412
 Total number of members in cluster: 2
@@ -13224,6 +14800,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_412/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_412/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 411
@@ -13243,6 +14821,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_411/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 406
 Total number of members in cluster: 2
@@ -13260,6 +14840,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_406/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_406/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 403
@@ -13279,6 +14861,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_403/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 402
 Total number of members in cluster: 2
@@ -13296,6 +14880,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_402/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_402/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 389
@@ -13315,6 +14901,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_389/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 388
 Total number of members in cluster: 2
@@ -13332,6 +14920,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_388/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_388/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 386
@@ -13351,6 +14941,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_386/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 385
 Total number of members in cluster: 2
@@ -13368,6 +14960,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_385/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_385/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 380
@@ -13387,6 +14981,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_380/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 377
 Total number of members in cluster: 2
@@ -13404,6 +15000,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_377/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_377/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 371
@@ -13423,6 +15021,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_371/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 364
 Total number of members in cluster: 2
@@ -13440,6 +15040,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_364/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_364/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 361
@@ -13459,6 +15061,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_361/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 36
 Total number of members in cluster: 2
@@ -13476,6 +15080,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_36/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_36/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 347
@@ -13495,6 +15101,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_347/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 346
 Total number of members in cluster: 2
@@ -13512,6 +15120,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_346/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_346/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 343
@@ -13531,6 +15141,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_343/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 335
 Total number of members in cluster: 2
@@ -13548,6 +15160,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_335/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_335/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 326
@@ -13567,6 +15181,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_326/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 324
 Total number of members in cluster: 2
@@ -13584,6 +15200,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_324/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_324/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 317
@@ -13603,6 +15221,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_317/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 313
 Total number of members in cluster: 2
@@ -13620,6 +15240,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_313/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_313/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 312
@@ -13639,6 +15261,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_312/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 302
 Total number of members in cluster: 2
@@ -13656,6 +15280,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_302/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_302/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 30
@@ -13675,6 +15301,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_30/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 294
 Total number of members in cluster: 2
@@ -13692,6 +15320,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_294/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_294/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 289
@@ -13711,6 +15341,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_289/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 285
 Total number of members in cluster: 2
@@ -13728,6 +15360,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_285/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_285/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 281
@@ -13747,6 +15381,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_281/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 280
 Total number of members in cluster: 2
@@ -13764,6 +15400,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_280/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_280/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 275
@@ -13783,6 +15421,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_275/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 271
 Total number of members in cluster: 2
@@ -13800,6 +15440,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_271/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_271/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 27
@@ -13819,6 +15461,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_27/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 266
 Total number of members in cluster: 2
@@ -13836,6 +15480,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_266/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_266/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 265
@@ -13855,6 +15501,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_265/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 261
 Total number of members in cluster: 2
@@ -13872,6 +15520,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_261/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_261/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 257
@@ -13891,6 +15541,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_257/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 256
 Total number of members in cluster: 2
@@ -13908,6 +15560,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_256/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_256/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 254
@@ -13927,6 +15581,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_254/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 251
 Total number of members in cluster: 2
@@ -13944,6 +15600,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_251/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_251/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 249
@@ -13963,6 +15621,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_249/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 247
 Total number of members in cluster: 2
@@ -13980,6 +15640,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_247/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_247/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 246
@@ -13999,6 +15661,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_246/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 241
 Total number of members in cluster: 2
@@ -14016,6 +15680,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_241/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_241/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 240
@@ -14035,6 +15701,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_240/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 24
 Total number of members in cluster: 2
@@ -14052,6 +15720,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_24/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_24/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 238
@@ -14071,6 +15741,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_238/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 233
 Total number of members in cluster: 2
@@ -14088,6 +15760,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_233/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_233/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 23
@@ -14107,6 +15781,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_23/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 228
 Total number of members in cluster: 2
@@ -14124,6 +15800,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_228/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_228/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 223
@@ -14143,6 +15821,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_223/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 219
 Total number of members in cluster: 2
@@ -14160,6 +15840,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_219/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_219/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 218
@@ -14179,6 +15861,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_218/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 202
 Total number of members in cluster: 2
@@ -14196,6 +15880,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_202/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_202/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 199
@@ -14215,6 +15901,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_199/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 198
 Total number of members in cluster: 2
@@ -14232,6 +15920,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_198/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_198/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 182
@@ -14251,6 +15941,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_182/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 177
 Total number of members in cluster: 2
@@ -14268,6 +15960,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_177/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_177/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 171
@@ -14287,6 +15981,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_171/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 169
 Total number of members in cluster: 2
@@ -14304,6 +16000,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_169/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_169/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 168
@@ -14323,6 +16021,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_168/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 165
 Total number of members in cluster: 2
@@ -14340,6 +16040,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_165/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_165/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 161
@@ -14359,6 +16061,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_161/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 143
 Total number of members in cluster: 2
@@ -14376,6 +16080,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_143/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_143/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 137
@@ -14395,6 +16101,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_137/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 135
 Total number of members in cluster: 2
@@ -14412,6 +16120,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_135/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_135/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 130
@@ -14431,6 +16141,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_130/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 128
 Total number of members in cluster: 2
@@ -14448,6 +16160,8 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_128/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_128/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
 ### Cluster 122
@@ -14467,6 +16181,8 @@ Number of blast hits in cluster: 2
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_122/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
+Sugars in cluster:
+
 
 ### Cluster 11
 Total number of members in cluster: 2
@@ -14484,5 +16200,7 @@ Number of blast hits in cluster: 2
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_11/sequences.fa)
 
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205111339/clusters/0002_11/sequences.logo-001.jpg) (OBS: this is still the old tool)
+
+Sugars in cluster:
 
 
