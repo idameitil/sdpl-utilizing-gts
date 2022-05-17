@@ -8,13 +8,14 @@ chunk_number = 200
 work_dir = f"/work3/idamei/ssn-clusterings/{timestamp}"
 
 # Make fasta with unique hits and seeds
-unique_hits_file = open(f'{work_dir}/unique-hits.fasta')
+
+unique_hits_file = open(f'{work_dir}/unique-hits-short-headers.fasta')
 accessions_hits = set()
 for line in unique_hits_file:
     if line.startswith('>'):
         accessions_hits.add(line.split(' ')[0][1:])
         
-shutil.copy(f'{work_dir}/unique-hits.fasta', f'{work_dir}/seeds-and-unique-hits.fasta')
+shutil.copy(f'{work_dir}/unique-hits-short-headers.fasta', f'{work_dir}/seeds-and-unique-hits.fasta')
 seeds_and_unique_hits_file = open(f'{work_dir}/seeds-and-unique-hits.fasta', 'a')
 seed_fasta = open(f'{work_dir}/wzy.fasta')
 for line in seed_fasta:
@@ -28,12 +29,19 @@ for line in seed_fasta:
     else:
         if new:
             seeds_and_unique_hits_file.write(line)
+seeds_and_unique_hits_file.close()
 
 # Make blastdb
-os.system(f"$BLASTDB/../current/bin/makeblastdb -in {work_dir}/seeds-and-unique-hits.fasta -dbtype prot -parse_seqids")
+command = f"$BLASTDB/../current/bin/makeblastdb -in {work_dir}/seeds-and-unique-hits.fasta -dbtype prot -parse_seqids"
+s = os.system(command)
+if s != 0:
+    raise Exception(f'Failure in os.system {command}.')
 
 # Chunkfastas
-os.system(f"chunkfasta -c {chunk_number} -f {work_dir}/chunk%03d.fa {work_dir}/seeds-and-unique-hits.fasta > {work_dir}/chunkfasta.out")
+command = f"chunkfasta -c {chunk_number} -f {work_dir}/chunk%03d.fa {work_dir}/seeds-and-unique-hits.fasta > {work_dir}/chunkfasta.out"
+s = os.system(command)
+if s != 0:
+    raise Exception(f'Failure in os.system {command}.')
 
 # Make run folder with jobscripts
 if not os.path.isdir(f"{work_dir}/run"):

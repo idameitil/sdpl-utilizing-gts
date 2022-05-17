@@ -94,6 +94,9 @@ for cluster in clusters:
             outfile.write(f"{seed}:\n\n")
             outfile.write(f"![]({image_path})\n\n")
             # outfile.write(f"X{images[image]}\n")
+
+    # AlphaFold models
+
     outfile.write('\n')
 outfile.close()
 

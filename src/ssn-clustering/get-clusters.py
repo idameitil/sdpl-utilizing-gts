@@ -6,7 +6,7 @@ sys.path.append("/Users/idamei/garryg/bioP/lib")
 
 timestamp = sys.argv[1]
 expansion_threshold = 10**-30
-ssn_threshold = 200
+ssn_threshold = 100
 cdhit_threshold = 99
 min_length_filter = 320
 max_length_filter = 600
@@ -190,7 +190,7 @@ def write_info_file():
     outfile.write(f"Total number of proteins in network: {total_count} \n")
     outfile.write(f"Number of singletons: {singleton_count} \n")
     outfile.write(f"Number of nodes in clusters: {node_count} \n")
-    outfile.write(f"Number of clusters: {len(clusters)} \n")
+    outfile.write(f"Number of clusters: {cluster_count} \n")
 
 # Make outdir
 outdir = f"data/wzy/ssn-clusterings/clustering/{timestamp}"

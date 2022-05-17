@@ -57,6 +57,9 @@ Then locally run:
 
 `data/wzy/blast/unique-hits.csv` is a csv file containing taxids along with other info. It also includes identical sequences and therefore has more lines than `data/wzy/blast/unique-hits.tsv`.
 
+`sed 's/ >.*$//' data/wzy/blast/unique-hits.fasta > data/wzy/blast/unique-hits-short-headers.fasta`
+
+
 ### Filtering and redundancy reducing Blast hits
 To filter blast hits by length and perform redundancy reduction with cd-hit run: `src/data-collection-and-preprocessing/filter-blast-hits.py`.
 
@@ -66,7 +69,13 @@ This will create the files `data/wzy/blast/unique-hits-min320max600.fasta` and `
 
 ### All-vs-all blast
 
-run `sh src/ssn-clustering/all-vs-all.sh [timestamp]`
+Locally run `sh src/ssn-clustering/all-vs-all.sh [timestamp]`
+
+On the HPC run `python3 /work3/idamei/ssn-clusterings/$1/prepare-all-vs-all.py $1`
+
+And `sh /work3/idamei/ssn-clusterings/$1/submit.sh`
+
+`ssh -l idamei login1.gbar.dtu.dk 'tar -czvf /work3/idamei/ssn-clusterings/[timestamp].tar.gz /work3/idamei/ssn-clusterings/[timestamp]'`
 
 When all jobs are finished, run: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/[timestamp] data/wzy/ssn-clusterings/all-vs-all-blast/`
 
@@ -85,7 +94,7 @@ To get the clusters in the SSN, change the thresholds in `src/ssn-clustering/get
 
 This will create the folder `data/wzy/ssn-clusterings/clustering/[timestamp]` which contains a folder `clusters` with fasta files for all the clusters and jobscripts for making MSAs, a `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt`, `network`, `report.md` and `submit.sh`. Then, it copies all this to the HPC.
 
-On the HPC, run sh /work3/idamei/ssn-clusterings/clustering/[timestamp]/submit.sh.
+On the HPC, run `sh /work3/idamei/ssn-clusterings/clustering/[timestamp]/submit.sh`.
 
 When all jobs are finished (check with bstat), run locally: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/clustering/[timestamp]/clusters/ data/wzy/ssn-clusterings/clustering/[timestamp]`
 
