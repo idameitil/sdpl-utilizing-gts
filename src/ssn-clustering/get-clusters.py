@@ -163,6 +163,9 @@ def write_info_file():
     """ Writes info file.
     Global variables: accessions_include, clusters
     """
+
+    # Include number of singleton seeds
+
     def get_total_count(accessions_include):
         total_count = len(accessions_include)
         return total_count
