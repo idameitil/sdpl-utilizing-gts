@@ -6,7 +6,7 @@ sys.path.append("/Users/idamei/garryg/bioP/lib")
 
 timestamp = sys.argv[1]
 expansion_threshold = 10**-30
-ssn_threshold = 100
+ssn_threshold = 200
 cdhit_threshold = 99
 min_length_filter = 320
 max_length_filter = 600
@@ -205,7 +205,7 @@ filtered_reduced_fasta = f"data/wzy/blast/unique-hits-min{min_length_filter}max{
 banned_file = "data/wzy/ssn-clusterings/banned"
 unique_hits_tsv = "data/wzy/blast/unique-hits.tsv"
 seed_fasta = "data/wzy/wzy.fasta"
-network_file = "data/wzy/ssn-clusterings/all-vs-all-blast/2205121500/network"
+network_file = "data/wzy/ssn-clusterings/all-vs-all-blast/2205161645/network"
 
 # Write metadata
 write_metadata()

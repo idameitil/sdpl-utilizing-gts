@@ -23,8 +23,10 @@ Total number of members in cluster: 543
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 543
 
@@ -46,9 +48,11 @@ Total number of members in cluster: 165
 
 Number of seeds in cluster: 1
 
-| protein_accession   |   serotype | order           | family           | genus         |
-|:--------------------|-----------:|:----------------|:-----------------|:--------------|
-| CAI33309.1          |         13 | Lactobacillales | Streptococcaceae | Streptococcus |
+Seeds in cluster:
+
+| protein_accession   | order           | family           | genus         | species                  |   serotype |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|
+| CAI33309.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |         13 |
 
 Number of blast hits in cluster: 164
 
@@ -76,8 +80,10 @@ Total number of members in cluster: 136
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 136
 
@@ -99,8 +105,10 @@ Total number of members in cluster: 127
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 127
 
@@ -122,9 +130,11 @@ Total number of members in cluster: 105
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family       | genus    |
-|:--------------------|:-----------|:-----------------|:-------------|:---------|
-| AFV46136.1          | O:12       | Enterobacterales | Yersiniaceae | Yersinia |
+Seeds in cluster:
+
+| protein_accession   | order            | family       | genus    | species          | serotype   |
+|:--------------------|:-----------------|:-------------|:---------|:-----------------|:-----------|
+| AFV46136.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia similis | O:12       |
 
 Number of blast hits in cluster: 104
 
@@ -150,10 +160,12 @@ Total number of members in cluster: 83
 
 Number of seeds in cluster: 2
 
-| protein_accession   | serotype   | order            | family             | genus       |
-|:--------------------|:-----------|:-----------------|:-------------------|:------------|
-| EHX11459.1          | O45        | Enterobacterales | Enterobacteriaceae | Escherichia |
-| AAX07747.1          | O45        | Enterobacterales | Enterobacteriaceae | Escherichia |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| EHX11459.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O45        |
+| AAX07747.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O45        |
 
 Number of blast hits in cluster: 81
 
@@ -181,8 +193,10 @@ Total number of members in cluster: 77
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 77
 
@@ -204,9 +218,11 @@ Total number of members in cluster: 58
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus       |
-|:--------------------|:-----------|:-----------------|:-------------------|:------------|
-| AFN02899.1          | O180       | Enterobacterales | Enterobacteriaceae | Escherichia |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| AFN02899.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O180       |
 
 Number of blast hits in cluster: 57
 
@@ -232,8 +248,10 @@ Total number of members in cluster: 52
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 52
 
@@ -255,8 +273,10 @@ Total number of members in cluster: 51
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 51
 
@@ -278,9 +298,11 @@ Total number of members in cluster: 50
 
 Number of seeds in cluster: 1
 
-| protein_accession   |   serotype | order            | family             | genus    |
-|:--------------------|-----------:|:-----------------|:-------------------|:---------|
-| ABI55342.1          |         17 | Enterobacterales | Enterobacteriaceae | Shigella |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus    | species         |   serotype |
+|:--------------------|:-----------------|:-------------------|:---------|:----------------|-----------:|
+| ABI55342.1          | Enterobacterales | Enterobacteriaceae | Shigella | Shigella boydii |         17 |
 
 Number of blast hits in cluster: 49
 
@@ -308,8 +330,10 @@ Total number of members in cluster: 50
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 50
 
@@ -331,9 +355,11 @@ Total number of members in cluster: 47
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus      |
-|:--------------------|:-----------|:-----------------|:-------------------|:-----------|
-| AFW04867.1          | O47        | Enterobacterales | Enterobacteriaceae | Salmonella |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus      | species             | serotype   |
+|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------|
+| AFW04867.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O47        |
 
 Number of blast hits in cluster: 46
 
@@ -359,9 +385,11 @@ Total number of members in cluster: 46
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order           | family           | genus       |
-|:--------------------|:-----------|:----------------|:-----------------|:------------|
-| AAM27615.1          | O13        | Pseudomonadales | Pseudomonadaceae | Pseudomonas |
+Seeds in cluster:
+
+| protein_accession   | order           | family           | genus       | species                | serotype   |
+|:--------------------|:----------------|:-----------------|:------------|:-----------------------|:-----------|
+| AAM27615.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O13        |
 
 Number of blast hits in cluster: 45
 
@@ -389,9 +417,11 @@ Total number of members in cluster: 45
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus      |
-|:--------------------|:-----------|:-----------------|:-------------------|:-----------|
-| AFW04828.1          | O44        | Enterobacterales | Enterobacteriaceae | Salmonella |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus      | species             | serotype   |
+|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------|
+| AFW04828.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O44        |
 
 Number of blast hits in cluster: 44
 
@@ -417,9 +447,11 @@ Total number of members in cluster: 43
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order        | family        | genus         |
-|:--------------------|:-----------|:-------------|:--------------|:--------------|
-| AHB32538.1          | O2         | Moraxellales | Moraxellaceae | Acinetobacter |
+Seeds in cluster:
+
+| protein_accession   | order        | family        | genus         | species                    | serotype   |
+|:--------------------|:-------------|:--------------|:--------------|:---------------------------|:-----------|
+| AHB32538.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter nosocomialis | O2         |
 
 Number of blast hits in cluster: 42
 
@@ -447,8 +479,10 @@ Total number of members in cluster: 43
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 43
 
@@ -470,10 +504,12 @@ Total number of members in cluster: 41
 
 Number of seeds in cluster: 2
 
-| protein_accession   | serotype   | order            | family             | genus       |
-|:--------------------|:-----------|:-----------------|:-------------------|:------------|
-| AJR19430.1          | O186       | Enterobacterales | Enterobacteriaceae | Escherichia |
-| AAR97964.1          | 7          | Enterobacterales | Enterobacteriaceae | Shigella    |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species              | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|
+| AJR19430.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O186       |
+| AAR97964.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 7          |
 
 Number of blast hits in cluster: 39
 
@@ -503,8 +539,10 @@ Total number of members in cluster: 38
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 38
 
@@ -526,9 +564,11 @@ Total number of members in cluster: 37
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus      |
-|:--------------------|:-----------|:-----------------|:-------------------|:-----------|
-| WP_000905563.1      | Typhi      | Enterobacterales | Enterobacteriaceae | Salmonella |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus      |   species | serotype   |
+|:--------------------|:-----------------|:-------------------|:-----------|----------:|:-----------|
+| WP_000905563.1      | Enterobacterales | Enterobacteriaceae | Salmonella |       nan | Typhi      |
 
 Number of blast hits in cluster: 36
 
@@ -556,8 +596,10 @@ Total number of members in cluster: 37
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 37
 
@@ -579,8 +621,10 @@ Total number of members in cluster: 37
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 37
 
@@ -602,8 +646,10 @@ Total number of members in cluster: 36
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 36
 
@@ -625,8 +671,10 @@ Total number of members in cluster: 36
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 36
 
@@ -648,8 +696,10 @@ Total number of members in cluster: 34
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 34
 
@@ -671,12 +721,14 @@ Total number of members in cluster: 34
 
 Number of seeds in cluster: 4
 
-| protein_accession   | serotype   | order            | family             | genus       |
-|:--------------------|:-----------|:-----------------|:-------------------|:------------|
-| AKA20966.1          | O:4a       | Enterobacterales | Yersiniaceae       | Yersinia    |
-| AKL88154.1          | O:8        | Enterobacterales | Yersiniaceae       | Yersinia    |
-| AAY23739.1          | O77        | Enterobacterales | Enterobacteriaceae | Escherichia |
-| BAQ01935.1          | O176       | Enterobacterales | Enterobacteriaceae | Escherichia |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species                     | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:----------------------------|:-----------|
+| AKA20966.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:4a       |
+| AKL88154.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:8        |
+| AAY23739.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O77        |
+| BAQ01935.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O176       |
 
 Number of blast hits in cluster: 30
 
@@ -714,8 +766,10 @@ Total number of members in cluster: 33
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 33
 
@@ -737,10 +791,12 @@ Total number of members in cluster: 32
 
 Number of seeds in cluster: 2
 
-| protein_accession   | serotype   | order        | family        | genus         |
-|:--------------------|:-----------|:-------------|:--------------|:--------------|
-| AHB32666.1          | O4         | Moraxellales | Moraxellaceae | Acinetobacter |
-| AHB32888.2          | O7         | Moraxellales | Moraxellaceae | Acinetobacter |
+Seeds in cluster:
+
+| protein_accession   | order        | family        | genus         | species                    | serotype   |
+|:--------------------|:-------------|:--------------|:--------------|:---------------------------|:-----------|
+| AHB32666.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter nosocomialis | O4         |
+| AHB32888.2          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii    | O7         |
 
 Number of blast hits in cluster: 30
 
@@ -774,9 +830,11 @@ Total number of members in cluster: 26
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus       |
-|:--------------------|:-----------|:-----------------|:-------------------|:------------|
-| ADC54950.1          | O18        | Enterobacterales | Enterobacteriaceae | Escherichia |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| ADC54950.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O18        |
 
 Number of blast hits in cluster: 25
 
@@ -804,9 +862,11 @@ Total number of members in cluster: 25
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family       | genus    |
-|:--------------------|:-----------|:-----------------|:-------------|:---------|
-| ACV53000.1          | O:14       | Enterobacterales | Yersiniaceae | Yersinia |
+Seeds in cluster:
+
+| protein_accession   | order            | family       | genus    | species                     | serotype   |
+|:--------------------|:-----------------|:-------------|:---------|:----------------------------|:-----------|
+| ACV53000.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:14       |
 
 Number of blast hits in cluster: 24
 
@@ -832,8 +892,10 @@ Total number of members in cluster: 25
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 25
 
@@ -855,9 +917,11 @@ Total number of members in cluster: 24
 
 Number of seeds in cluster: 1
 
-| protein_accession   |   serotype | order            | family             | genus    |
-|:--------------------|-----------:|:-----------------|:-------------------|:---------|
-| ACD37026.1          |         12 | Enterobacterales | Enterobacteriaceae | Shigella |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus    | species         |   serotype |
+|:--------------------|:-----------------|:-------------------|:---------|:----------------|-----------:|
+| ACD37026.1          | Enterobacterales | Enterobacteriaceae | Shigella | Shigella boydii |         12 |
 
 Number of blast hits in cluster: 23
 
@@ -883,8 +947,10 @@ Total number of members in cluster: 22
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 22
 
@@ -906,8 +972,10 @@ Total number of members in cluster: 21
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 21
 
@@ -929,8 +997,10 @@ Total number of members in cluster: 20
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 20
 
@@ -952,8 +1022,10 @@ Total number of members in cluster: 20
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 20
 
@@ -975,9 +1047,11 @@ Total number of members in cluster: 20
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order           | family           | genus         |
-|:--------------------|:-----------|:----------------|:-----------------|:--------------|
-| CAI33084.1          | 10C        | Lactobacillales | Streptococcaceae | Streptococcus |
+Seeds in cluster:
+
+| protein_accession   | order           | family           | genus         | species                  | serotype   |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|
+| CAI33084.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 10C        |
 
 Number of blast hits in cluster: 19
 
@@ -1005,8 +1079,10 @@ Total number of members in cluster: 19
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 19
 
@@ -1028,11 +1104,13 @@ Total number of members in cluster: 19
 
 Number of seeds in cluster: 3
 
-| protein_accession   | serotype                            | order            | family             | genus      |
-|:--------------------|:------------------------------------|:-----------------|:-------------------|:-----------|
-| WP_000936592.1      | ssp. enterica sv. Newport           | Enterobacterales | Enterobacteriaceae | Salmonella |
-| WP_000936591.1      | Hadar                               | Enterobacterales | Enterobacteriaceae | Salmonella |
-| WP_000936589.1      | ssp. enterica sv. Kentucky O8 98/39 | Enterobacterales | Enterobacteriaceae | Salmonella |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus      | species             | serotype                            |
+|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:------------------------------------|
+| WP_000936592.1      | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Newport           |
+| WP_000936591.1      | Enterobacterales | Enterobacteriaceae | Salmonella | nan                 | Hadar                               |
+| WP_000936589.1      | Enterobacterales | Enterobacteriaceae | Salmonella | nan                 | ssp. enterica sv. Kentucky O8 98/39 |
 
 Number of blast hits in cluster: 16
 
@@ -1066,9 +1144,11 @@ Total number of members in cluster: 18
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus       |
-|:--------------------|:-----------|:-----------------|:-------------------|:------------|
-| ACD37181.1          | O129       | Enterobacterales | Enterobacteriaceae | Escherichia |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| ACD37181.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O129       |
 
 Number of blast hits in cluster: 17
 
@@ -1094,8 +1174,10 @@ Total number of members in cluster: 18
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 18
 
@@ -1117,8 +1199,10 @@ Total number of members in cluster: 18
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 18
 
@@ -1140,8 +1224,10 @@ Total number of members in cluster: 18
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 18
 
@@ -1163,9 +1249,11 @@ Total number of members in cluster: 18
 
 Number of seeds in cluster: 1
 
-| protein_accession   |   serotype | order            | family             | genus    |
-|:--------------------|-----------:|:-----------------|:-------------------|:---------|
-| ACA24754.1          |          8 | Enterobacterales | Enterobacteriaceae | Shigella |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus    | species         |   serotype |
+|:--------------------|:-----------------|:-------------------|:---------|:----------------|-----------:|
+| ACA24754.1          | Enterobacterales | Enterobacteriaceae | Shigella | Shigella boydii |          8 |
 
 Number of blast hits in cluster: 17
 
@@ -1193,8 +1281,10 @@ Total number of members in cluster: 17
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 17
 
@@ -1216,8 +1306,10 @@ Total number of members in cluster: 17
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 17
 
@@ -1239,8 +1331,10 @@ Total number of members in cluster: 17
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 17
 
@@ -1262,8 +1356,10 @@ Total number of members in cluster: 16
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 16
 
@@ -1285,8 +1381,10 @@ Total number of members in cluster: 16
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 16
 
@@ -1308,8 +1406,10 @@ Total number of members in cluster: 16
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 16
 
@@ -1331,9 +1431,11 @@ Total number of members in cluster: 16
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus       |
-|:--------------------|:-----------|:-----------------|:-------------------|:------------|
-| ABK27355.1          | O103       | Enterobacterales | Enterobacteriaceae | Escherichia |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| ABK27355.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |
 
 Number of blast hits in cluster: 15
 
@@ -1361,9 +1463,11 @@ Total number of members in cluster: 16
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype                     | order            | family             | genus      |
-|:--------------------|:-----------------------------|:-----------------|:-------------------|:-----------|
-| AGS07363.1          | ssp. enterica sv. Strasbourg | Enterobacterales | Enterobacteriaceae | Salmonella |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus      | species             | serotype                     |
+|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------------------------|
+| AGS07363.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Strasbourg |
 
 Number of blast hits in cluster: 15
 
@@ -1389,8 +1493,10 @@ Total number of members in cluster: 16
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 16
 
@@ -1412,8 +1518,10 @@ Total number of members in cluster: 16
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 16
 
@@ -1435,8 +1543,10 @@ Total number of members in cluster: 15
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 15
 
@@ -1458,8 +1568,10 @@ Total number of members in cluster: 15
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 15
 
@@ -1481,8 +1593,10 @@ Total number of members in cluster: 15
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 15
 
@@ -1504,8 +1618,10 @@ Total number of members in cluster: 14
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 14
 
@@ -1527,8 +1643,10 @@ Total number of members in cluster: 14
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 14
 
@@ -1550,8 +1668,10 @@ Total number of members in cluster: 14
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 14
 
@@ -1573,8 +1693,10 @@ Total number of members in cluster: 14
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 14
 
@@ -1596,8 +1718,10 @@ Total number of members in cluster: 14
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 14
 
@@ -1619,9 +1743,11 @@ Total number of members in cluster: 14
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus       |
-|:--------------------|:-----------|:-----------------|:-------------------|:------------|
-| WP_016238111.1      | O81        | Enterobacterales | Enterobacteriaceae | Escherichia |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| WP_016238111.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O81        |
 
 Number of blast hits in cluster: 13
 
@@ -1649,9 +1775,11 @@ Total number of members in cluster: 13
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus       |
-|:--------------------|:-----------|:-----------------|:-------------------|:------------|
-| BAQ00830.1          | O36        | Enterobacterales | Enterobacteriaceae | Escherichia |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| BAQ00830.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O36        |
 
 Number of blast hits in cluster: 12
 
@@ -1679,9 +1807,11 @@ Total number of members in cluster: 13
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus      |
-|:--------------------|:-----------|:-----------------|:-------------------|:-----------|
-| AFW04706.1          | O40        | Enterobacterales | Enterobacteriaceae | Salmonella |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus      | species             | serotype   |
+|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------|
+| AFW04706.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O40        |
 
 Number of blast hits in cluster: 12
 
@@ -1707,9 +1837,11 @@ Total number of members in cluster: 13
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus       |
-|:--------------------|:-----------|:-----------------|:-------------------|:------------|
-| WP_000482333.1      | O55        | Enterobacterales | Enterobacteriaceae | Escherichia |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| WP_000482333.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O55        |
 
 Number of blast hits in cluster: 12
 
@@ -1735,8 +1867,10 @@ Total number of members in cluster: 12
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 12
 
@@ -1758,8 +1892,10 @@ Total number of members in cluster: 12
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 12
 
@@ -1781,8 +1917,10 @@ Total number of members in cluster: 12
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 12
 
@@ -1804,8 +1942,10 @@ Total number of members in cluster: 12
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 12
 
@@ -1827,8 +1967,10 @@ Total number of members in cluster: 11
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 11
 
@@ -1850,8 +1992,10 @@ Total number of members in cluster: 11
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 11
 
@@ -1873,9 +2017,11 @@ Total number of members in cluster: 11
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus      |
-|:--------------------|:-----------|:-----------------|:-------------------|:-----------|
-| AFW04802.1          | O43        | Enterobacterales | Enterobacteriaceae | Salmonella |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus      | species             | serotype   |
+|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------|
+| AFW04802.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O43        |
 
 Number of blast hits in cluster: 10
 
@@ -1901,9 +2047,11 @@ Total number of members in cluster: 11
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus      |
-|:--------------------|:-----------|:-----------------|:-------------------|:-----------|
-| AFW04668.1          | O48        | Enterobacterales | Enterobacteriaceae | Salmonella |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus      | species             | serotype   |
+|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------|
+| AFW04668.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O48        |
 
 Number of blast hits in cluster: 10
 
@@ -1931,9 +2079,11 @@ Total number of members in cluster: 11
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order           | family           | genus         |
-|:--------------------|:-----------|:----------------|:-----------------|:--------------|
-| CAI33029.1          | 9V         | Lactobacillales | Streptococcaceae | Streptococcus |
+Seeds in cluster:
+
+| protein_accession   | order           | family           | genus         | species                  | serotype   |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|
+| CAI33029.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 9V         |
 
 Number of blast hits in cluster: 10
 
@@ -1961,8 +2111,10 @@ Total number of members in cluster: 11
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 11
 
@@ -1984,8 +2136,10 @@ Total number of members in cluster: 11
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 11
 
@@ -2007,8 +2161,10 @@ Total number of members in cluster: 11
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 11
 
@@ -2030,8 +2186,10 @@ Total number of members in cluster: 10
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 10
 
@@ -2053,8 +2211,10 @@ Total number of members in cluster: 10
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 10
 
@@ -2076,8 +2236,10 @@ Total number of members in cluster: 10
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 10
 
@@ -2099,8 +2261,10 @@ Total number of members in cluster: 10
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 10
 
@@ -2122,9 +2286,11 @@ Total number of members in cluster: 10
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus       |
-|:--------------------|:-----------|:-----------------|:-------------------|:------------|
-| ADC54957.1          | O166       | Enterobacterales | Enterobacteriaceae | Escherichia |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| ADC54957.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O166       |
 
 Number of blast hits in cluster: 9
 
@@ -2150,9 +2316,11 @@ Total number of members in cluster: 10
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus      |
-|:--------------------|:-----------|:-----------------|:-------------------|:-----------|
-| AFW04785.1          | O62        | Enterobacterales | Enterobacteriaceae | Salmonella |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus      | species             | serotype   |
+|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------|
+| AFW04785.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O62        |
 
 Number of blast hits in cluster: 9
 
@@ -2178,8 +2346,10 @@ Total number of members in cluster: 10
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 10
 
@@ -2201,8 +2371,10 @@ Total number of members in cluster: 9
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 9
 
@@ -2224,8 +2396,10 @@ Total number of members in cluster: 9
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 9
 
@@ -2247,8 +2421,10 @@ Total number of members in cluster: 9
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 9
 
@@ -2270,8 +2446,10 @@ Total number of members in cluster: 9
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 9
 
@@ -2293,8 +2471,10 @@ Total number of members in cluster: 9
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 9
 
@@ -2316,8 +2496,10 @@ Total number of members in cluster: 9
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 9
 
@@ -2339,8 +2521,10 @@ Total number of members in cluster: 9
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 9
 
@@ -2362,8 +2546,10 @@ Total number of members in cluster: 9
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 9
 
@@ -2385,8 +2571,10 @@ Total number of members in cluster: 8
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 8
 
@@ -2408,8 +2596,10 @@ Total number of members in cluster: 8
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 8
 
@@ -2431,8 +2621,10 @@ Total number of members in cluster: 8
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 8
 
@@ -2454,8 +2646,10 @@ Total number of members in cluster: 8
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 8
 
@@ -2477,8 +2671,10 @@ Total number of members in cluster: 8
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 8
 
@@ -2500,8 +2696,10 @@ Total number of members in cluster: 8
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 8
 
@@ -2523,11 +2721,13 @@ Total number of members in cluster: 8
 
 Number of seeds in cluster: 3
 
-| protein_accession   | serotype   | order            | family             | genus       |
-|:--------------------|:-----------|:-----------------|:-------------------|:------------|
-| ABI98976.1          | O141       | Enterobacterales | Enterobacteriaceae | Escherichia |
-| WP_046788607.1      | O141ab     | Enterobacterales | Enterobacteriaceae | Escherichia |
-| WP_000456161.1      | O141ac     | Enterobacterales | Enterobacteriaceae | Escherichia |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| ABI98976.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O141       |
+| WP_046788607.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O141ab     |
+| WP_000456161.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O141ac     |
 
 Number of blast hits in cluster: 5
 
@@ -2559,8 +2759,10 @@ Total number of members in cluster: 8
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 8
 
@@ -2582,8 +2784,10 @@ Total number of members in cluster: 7
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 7
 
@@ -2605,8 +2809,10 @@ Total number of members in cluster: 7
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 7
 
@@ -2628,8 +2834,10 @@ Total number of members in cluster: 7
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 7
 
@@ -2651,8 +2859,10 @@ Total number of members in cluster: 7
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 7
 
@@ -2674,8 +2884,10 @@ Total number of members in cluster: 7
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 7
 
@@ -2697,10 +2909,12 @@ Total number of members in cluster: 7
 
 Number of seeds in cluster: 2
 
-| protein_accession   | serotype   | order            | family             | genus       |
-|:--------------------|:-----------|:-----------------|:-------------------|:------------|
-| AAC32340.1          | O157       | Enterobacterales | Enterobacteriaceae | Escherichia |
-| AAV34494.1          | 90         | Enterobacterales | Enterobacteriaceae | Citrobacter |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species              | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|
+| AAC32340.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |
+| AAV34494.1          | Enterobacterales | Enterobacteriaceae | Citrobacter | Citrobacter freundii | 90         |
 
 Number of blast hits in cluster: 5
 
@@ -2732,8 +2946,10 @@ Total number of members in cluster: 7
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 7
 
@@ -2755,8 +2971,10 @@ Total number of members in cluster: 7
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 7
 
@@ -2778,8 +2996,10 @@ Total number of members in cluster: 7
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 7
 
@@ -2801,8 +3021,10 @@ Total number of members in cluster: 7
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 7
 
@@ -2824,8 +3046,10 @@ Total number of members in cluster: 7
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 7
 
@@ -2847,10 +3071,12 @@ Total number of members in cluster: 7
 
 Number of seeds in cluster: 2
 
-| protein_accession   | serotype     | order            | family             | genus      |
-|:--------------------|:-------------|:-----------------|:-------------------|:-----------|
-| AAL91079.1          | Schleissheim | Enterobacterales | Enterobacteriaceae | Salmonella |
-| AGS07346.1          | D3           | Enterobacterales | Enterobacteriaceae | Salmonella |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus      | species             | serotype     |
+|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-------------|
+| AAL91079.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Schleissheim |
+| AGS07346.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | D3           |
 
 Number of blast hits in cluster: 5
 
@@ -2880,8 +3106,10 @@ Total number of members in cluster: 6
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 6
 
@@ -2903,8 +3131,10 @@ Total number of members in cluster: 6
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 6
 
@@ -2926,8 +3156,10 @@ Total number of members in cluster: 6
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 6
 
@@ -2949,8 +3181,10 @@ Total number of members in cluster: 6
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 6
 
@@ -2972,9 +3206,11 @@ Total number of members in cluster: 6
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus       |
-|:--------------------|:-----------|:-----------------|:-------------------|:------------|
-| ACD37117.1          | O40        | Enterobacterales | Enterobacteriaceae | Escherichia |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| ACD37117.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O40        |
 
 Number of blast hits in cluster: 5
 
@@ -3000,8 +3236,10 @@ Total number of members in cluster: 6
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 6
 
@@ -3023,8 +3261,10 @@ Total number of members in cluster: 6
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 6
 
@@ -3046,8 +3286,10 @@ Total number of members in cluster: 6
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 6
 
@@ -3069,8 +3311,10 @@ Total number of members in cluster: 6
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 6
 
@@ -3092,9 +3336,11 @@ Total number of members in cluster: 6
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus       |
-|:--------------------|:-----------|:-----------------|:-------------------|:------------|
-| AAZ20761.1          | O66        | Enterobacterales | Enterobacteriaceae | Escherichia |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| AAZ20761.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O66        |
 
 Number of blast hits in cluster: 5
 
@@ -3120,8 +3366,10 @@ Total number of members in cluster: 6
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 6
 
@@ -3143,9 +3391,11 @@ Total number of members in cluster: 6
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus      |
-|:--------------------|:-----------|:-----------------|:-------------------|:-----------|
-| AFW04790.1          | O52        | Enterobacterales | Enterobacteriaceae | Salmonella |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus      | species             | serotype   |
+|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------|
+| AFW04790.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O52        |
 
 Number of blast hits in cluster: 5
 
@@ -3171,9 +3421,11 @@ Total number of members in cluster: 6
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order        | family        | genus         |
-|:--------------------|:-----------|:-------------|:--------------|:--------------|
-| AHB32832.1          | O19        | Moraxellales | Moraxellaceae | Acinetobacter |
+Seeds in cluster:
+
+| protein_accession   | order        | family        | genus         | species                 | serotype   |
+|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|
+| AHB32832.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O19        |
 
 Number of blast hits in cluster: 5
 
@@ -3199,8 +3451,10 @@ Total number of members in cluster: 6
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 6
 
@@ -3222,8 +3476,10 @@ Total number of members in cluster: 5
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 5
 
@@ -3245,8 +3501,10 @@ Total number of members in cluster: 5
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 5
 
@@ -3268,9 +3526,11 @@ Total number of members in cluster: 5
 
 Number of seeds in cluster: 1
 
-| protein_accession   |   serotype | order            | family             | genus    |
-|:--------------------|-----------:|:-----------------|:-------------------|:---------|
-| AAR24270.1          |         13 | Enterobacterales | Enterobacteriaceae | Shigella |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus    | species         |   serotype |
+|:--------------------|:-----------------|:-------------------|:---------|:----------------|-----------:|
+| AAR24270.1          | Enterobacterales | Enterobacteriaceae | Shigella | Shigella boydii |         13 |
 
 Number of blast hits in cluster: 4
 
@@ -3296,8 +3556,10 @@ Total number of members in cluster: 5
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 5
 
@@ -3319,8 +3581,10 @@ Total number of members in cluster: 5
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 5
 
@@ -3342,8 +3606,10 @@ Total number of members in cluster: 5
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 5
 
@@ -3365,8 +3631,10 @@ Total number of members in cluster: 5
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 5
 
@@ -3388,8 +3656,10 @@ Total number of members in cluster: 5
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 5
 
@@ -3411,9 +3681,11 @@ Total number of members in cluster: 5
 
 Number of seeds in cluster: 1
 
-| protein_accession   |   serotype | order            | family             | genus    |
-|:--------------------|-----------:|:-----------------|:-------------------|:---------|
-| AAS98031.1          |         11 | Enterobacterales | Enterobacteriaceae | Shigella |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus    | species         |   serotype |
+|:--------------------|:-----------------|:-------------------|:---------|:----------------|-----------:|
+| AAS98031.1          | Enterobacterales | Enterobacteriaceae | Shigella | Shigella boydii |         11 |
 
 Number of blast hits in cluster: 4
 
@@ -3441,8 +3713,10 @@ Total number of members in cluster: 5
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 5
 
@@ -3464,8 +3738,10 @@ Total number of members in cluster: 5
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 5
 
@@ -3487,8 +3763,10 @@ Total number of members in cluster: 5
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 5
 
@@ -3510,9 +3788,11 @@ Total number of members in cluster: 5
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family       | genus    |
-|:--------------------|:-----------|:-----------------|:-------------|:---------|
-| ADI59429.1          | O:1c       | Enterobacterales | Yersiniaceae | Yersinia |
+Seeds in cluster:
+
+| protein_accession   | order            | family       | genus    | species                     | serotype   |
+|:--------------------|:-----------------|:-------------|:---------|:----------------------------|:-----------|
+| ADI59429.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:1c       |
 
 Number of blast hits in cluster: 4
 
@@ -3540,8 +3820,10 @@ Total number of members in cluster: 5
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 5
 
@@ -3563,8 +3845,10 @@ Total number of members in cluster: 5
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 5
 
@@ -3586,9 +3870,11 @@ Total number of members in cluster: 5
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family       | genus    |
-|:--------------------|:-----------|:-----------------|:-------------|:---------|
-| AKA20999.1          | O:5b       | Enterobacterales | Yersiniaceae | Yersinia |
+Seeds in cluster:
+
+| protein_accession   | order            | family       | genus    | species                     | serotype   |
+|:--------------------|:-----------------|:-------------|:---------|:----------------------------|:-----------|
+| AKA20999.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:5b       |
 
 Number of blast hits in cluster: 4
 
@@ -3616,8 +3902,10 @@ Total number of members in cluster: 5
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 5
 
@@ -3639,8 +3927,10 @@ Total number of members in cluster: 4
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 4
 
@@ -3662,8 +3952,10 @@ Total number of members in cluster: 4
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 4
 
@@ -3685,9 +3977,11 @@ Total number of members in cluster: 4
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus       |
-|:--------------------|:-----------|:-----------------|:-------------------|:------------|
-| ADC54929.1          | O1         | Enterobacterales | Enterobacteriaceae | Escherichia |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| ADC54929.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O1         |
 
 Number of blast hits in cluster: 3
 
@@ -3713,9 +4007,11 @@ Total number of members in cluster: 4
 
 Number of seeds in cluster: 1
 
-| protein_accession   |   serotype | order           | family           | genus         |
-|:--------------------|-----------:|:----------------|:-----------------|:--------------|
-| CAI34454.1          |         40 | Lactobacillales | Streptococcaceae | Streptococcus |
+Seeds in cluster:
+
+| protein_accession   | order           | family           | genus         | species                  |   serotype |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|
+| CAI34454.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |         40 |
 
 Number of blast hits in cluster: 3
 
@@ -3743,9 +4039,11 @@ Total number of members in cluster: 4
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus       |
-|:--------------------|:-----------|:-----------------|:-------------------|:------------|
-| AAZ85718.1          | O139       | Enterobacterales | Enterobacteriaceae | Escherichia |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| AAZ85718.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O139       |
 
 Number of blast hits in cluster: 3
 
@@ -3773,9 +4071,11 @@ Total number of members in cluster: 4
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order           | family           | genus         |
-|:--------------------|:-----------|:----------------|:-----------------|:--------------|
-| CAI34475.1          | 41A        | Lactobacillales | Streptococcaceae | Streptococcus |
+Seeds in cluster:
+
+| protein_accession   | order           | family           | genus         | species                  | serotype   |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|
+| CAI34475.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 41A        |
 
 Number of blast hits in cluster: 3
 
@@ -3803,8 +4103,10 @@ Total number of members in cluster: 4
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 4
 
@@ -3826,8 +4128,10 @@ Total number of members in cluster: 3
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 3
 
@@ -3849,8 +4153,10 @@ Total number of members in cluster: 3
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 3
 
@@ -3872,8 +4178,10 @@ Total number of members in cluster: 3
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 3
 
@@ -3895,9 +4203,11 @@ Total number of members in cluster: 3
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order        | family        | genus         |
-|:--------------------|:-----------|:-------------|:--------------|:--------------|
-| AHB32267.1          | O6         | Moraxellales | Moraxellaceae | Acinetobacter |
+Seeds in cluster:
+
+| protein_accession   | order        | family        | genus         | species                 | serotype   |
+|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|
+| AHB32267.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O6         |
 
 Number of blast hits in cluster: 2
 
@@ -3925,8 +4235,10 @@ Total number of members in cluster: 3
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 3
 
@@ -3948,8 +4260,10 @@ Total number of members in cluster: 3
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 3
 
@@ -3971,8 +4285,10 @@ Total number of members in cluster: 3
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 3
 
@@ -3994,8 +4310,10 @@ Total number of members in cluster: 3
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 3
 
@@ -4017,8 +4335,10 @@ Total number of members in cluster: 3
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 3
 
@@ -4040,8 +4360,10 @@ Total number of members in cluster: 3
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 3
 
@@ -4063,8 +4385,10 @@ Total number of members in cluster: 3
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 3
 
@@ -4086,8 +4410,10 @@ Total number of members in cluster: 3
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 3
 
@@ -4109,8 +4435,10 @@ Total number of members in cluster: 3
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 3
 
@@ -4132,9 +4460,11 @@ Total number of members in cluster: 3
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus       |
-|:--------------------|:-----------|:-----------------|:-------------------|:------------|
-| ADN43871.1          | O158       | Enterobacterales | Enterobacteriaceae | Escherichia |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| ADN43871.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O158       |
 
 Number of blast hits in cluster: 2
 
@@ -4162,8 +4492,10 @@ Total number of members in cluster: 3
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 3
 
@@ -4185,9 +4517,11 @@ Total number of members in cluster: 2
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus       |
-|:--------------------|:-----------|:-----------------|:-------------------|:------------|
-| WP_097449287.1      | O57        | Enterobacterales | Enterobacteriaceae | Escherichia |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| WP_097449287.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O57        |
 
 Number of blast hits in cluster: 1
 
@@ -4215,8 +4549,10 @@ Total number of members in cluster: 2
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
 
@@ -4238,8 +4574,10 @@ Total number of members in cluster: 2
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
 
@@ -4261,8 +4599,10 @@ Total number of members in cluster: 2
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
 
@@ -4284,9 +4624,11 @@ Total number of members in cluster: 2
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus       |
-|:--------------------|:-----------|:-----------------|:-------------------|:------------|
-| ACA24890.1          | O159       | Enterobacterales | Enterobacteriaceae | Escherichia |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| ACA24890.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O159       |
 
 Number of blast hits in cluster: 1
 
@@ -4312,8 +4654,10 @@ Total number of members in cluster: 2
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
 
@@ -4335,8 +4679,10 @@ Total number of members in cluster: 2
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
 
@@ -4358,8 +4704,10 @@ Total number of members in cluster: 2
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
 
@@ -4381,8 +4729,10 @@ Total number of members in cluster: 2
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
 
@@ -4404,8 +4754,10 @@ Total number of members in cluster: 2
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
 
@@ -4427,8 +4779,10 @@ Total number of members in cluster: 2
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
 
@@ -4450,9 +4804,11 @@ Total number of members in cluster: 2
 
 Number of seeds in cluster: 1
 
-| protein_accession   | serotype   | order            | family             | genus       |
-|:--------------------|:-----------|:-----------------|:-------------------|:------------|
-| ADJ19203.1          | O161       | Enterobacterales | Enterobacteriaceae | Escherichia |
+Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| ADJ19203.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O161       |
 
 Number of blast hits in cluster: 1
 
@@ -4480,8 +4836,10 @@ Total number of members in cluster: 2
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
 
@@ -4503,8 +4861,10 @@ Total number of members in cluster: 2
 
 Number of seeds in cluster: 0
 
-| protein_accession   | serotype   | order   | family   | genus   |
-|---------------------|------------|---------|----------|---------|
+Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
 

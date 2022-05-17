@@ -80,15 +80,13 @@ And `sh /work3/idamei/ssn-clusterings/$1/submit.sh`
 When all jobs are finished, run: `tar -czvf /work3/idamei/ssn-clusterings/[timestamp].tar.gz /work3/idamei/ssn-clusterings/[timestamp]`
 
 Then locally run: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/all-vs-all-blast[timestamp].tar.gz data/wzy/ssn-clusterings/all-vs-all-blast/`
-
+Unpack it and move to data/wzy/ssn-clusterings/all-vs-all-blast/.
 This file is too big to store in GitHub, so is only stored locally.
 
 ### Make network file
 To make the network file run `src/ssn-clustering/make-network-file.py [timestamp]`.
 
 This will create the file `data/wzy/ssn-clusterings/all-vs-all-blast/[timestamp]/network`.
-
-
 
 ### Cluster
 

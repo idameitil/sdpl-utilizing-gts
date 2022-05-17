@@ -30,14 +30,14 @@ outfile.write(f"[File with accessions in each cluster]({cluster_tsv_url})\n\n")
 
 seed_df = pd.read_csv("data/wzy/wzy.tsv", sep = '\t', dtype=object)
 
-# image_github_url = 'https://github.com/idameitil/phd/blob/master'
-image_github_url = 'https://github.com/idameitil/phd/raw/master'
+seeds_and_hits_df = pd.read_csv("data/wzy/seeds-and-hits.tsv", sep='\t', dtype=object)
 
 # Clusters
 outfile.write('## Clusters\n')
 clusterdir = f"{resultsdir}/clusters"
 clusters = os.listdir(clusterdir)
 clusters.sort(reverse=True)
+image_github_url = 'https://github.com/idameitil/phd/raw/master'
 for cluster in clusters:
     if cluster.startswith('.'):
         continue
@@ -62,7 +62,10 @@ for cluster in clusters:
             else:
                 hit_accessions.append(acc)
     outfile.write(f"Number of seeds in cluster: {len(seed_accessions)}\n\n")
-    outfile.write(f"Seeds in cluster: {', '.join(seed_accessions)}\n\n")
+    #outfile.write(f"Seeds in cluster: {', '.join(seed_accessions)}\n\n")
+    outfile.write(f"Seeds in cluster:\n\n")
+    outfile.write(seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(seed_accessions),\
+        ['protein_accession', 'order', 'family', 'genus', 'species', 'serotype']].to_markdown(index=False)+'\n\n')
     outfile.write(f"Number of blast hits in cluster: {len(hit_accessions)}\n\n")
     #outfile.write(f"Blast hits in cluster: {', '.join(hit_accessions)}\n\n")
     # Alignment
@@ -80,22 +83,30 @@ for cluster in clusters:
 
     # Sugar images
     outfile.write("Sugars in cluster:\n\n")
+    images = dict()
     for seed in seed_accessions:
         CSDB_record_id = seed_df.loc[seed_df.protein_accession == seed, 'CSDB_record_ID'].item()
-        images = dict()
         if CSDB_record_id is not None:
             if CSDB_record_id in images:
-                images[CSDB_record_id] += 1
+                images[CSDB_record_id].append(seed)
             else:
-                images[CSDB_record_id] = 1
-        for image in images:
-            image_path = f"../../../../csdb/images/{image}.gif"
-            # outfile.write(f"![alt text]({image_github_url}/{image_path})")
-            outfile.write(f"{seed}:\n\n")
-            outfile.write(f"![]({image_path})\n\n")
-            # outfile.write(f"X{images[image]}\n")
+                images[CSDB_record_id] = [seed]
+    for image in images:
+        image_path = f"../../../../csdb/images/{image}.gif"
+        # outfile.write(f"![alt text]({image_github_url}/{image_path})")
+        seeds = images[image]
+        outfile.write(f"{seeds}:\n\n")
+        outfile.write(f"![]({image_path})\n\n")
+        # outfile.write(f"X{images[image]}\n")
 
     # AlphaFold models
+    outfile.write("Alphafold models for cluster:\n\n")
+    rows_alphafold = seeds_and_hits_df.loc[(seeds_and_hits_df.protein_accession.isin(accessions))\
+         & (seeds_and_hits_df.alphafold_bool == 'True')]
+    for index, row in rows_alphafold.iterrows():
+        acc = row.protein_accession
+        af_model_url = f"{github_url}/{row.alphafold_path}"
+        outfile.write(f"[{acc}]({af_model_url})\n\n")
 
     outfile.write('\n')
 outfile.close()
