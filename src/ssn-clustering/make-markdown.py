@@ -86,7 +86,7 @@ for cluster in clusters:
     images = dict()
     for seed in seed_accessions:
         CSDB_record_id = seed_df.loc[seed_df.protein_accession == seed, 'CSDB_record_ID'].item()
-        if CSDB_record_id is not None:
+        if not pd.isnull(CSDB_record_id):
             if CSDB_record_id in images:
                 images[CSDB_record_id].append(seed)
             else:

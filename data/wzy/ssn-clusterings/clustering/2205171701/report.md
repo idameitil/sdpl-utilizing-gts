@@ -50,10 +50,6 @@ Number of blast hits in cluster: 521
 
 Sugars in cluster:
 
-['ACF61556.1', 'ACF69242.1', 'WP_000055605.1', 'ACF89798.1', 'ACH73921.1', 'ACH50550.1', 'CAS11643.1', 'CAR10598.2', 'BAI33073.1', 'ADT77417.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 [ACH50550.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy_missing/af_out/ACH50550.1/ranked_0.pdb)
@@ -87,10 +83,6 @@ Sugars in cluster:
 ['AHB32215.1']:
 
 ![](../../../../csdb/images/2091.gif)
-
-['AHB32861.1', 'AHB32799.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 Alphafold models for cluster:
 
@@ -153,10 +145,6 @@ Number of blast hits in cluster: 56
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0057_10/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
 Sugars in cluster:
-
-['CAI34369.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 Alphafold models for cluster:
 
@@ -403,10 +391,6 @@ Sugars in cluster:
 
 ![](../../../../csdb/images/7418.gif)
 
-['ACF69726.1', 'ACH74809.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 ['CAR37642.1']:
 
 ![](../../../../csdb/images/30403.gif)
@@ -443,10 +427,6 @@ Number of blast hits in cluster: 37
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0039_19/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
 Sugars in cluster:
-
-['AHB32687.1', 'BAQ01743.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 Alphafold models for cluster:
 
@@ -494,10 +474,6 @@ Sugars in cluster:
 ['AKA20966.1']:
 
 ![](../../../../csdb/images/12129.gif)
-
-['AKL88154.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 ['AAY23739.1', 'BAQ02177.1']:
 
@@ -780,10 +756,6 @@ Sugars in cluster:
 
 ![](../../../../csdb/images/1512.gif)
 
-['AQU71752.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 ['AQU71805.1']:
 
 ![](../../../../csdb/images/1500.gif)
@@ -945,10 +917,6 @@ Number of blast hits in cluster: 22
 
 Sugars in cluster:
 
-['AHB32666.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 ['AHB32888.2']:
 
 ![](../../../../csdb/images/495.gif)
@@ -1048,10 +1016,6 @@ Sugars in cluster:
 
 ![](../../../../csdb/images/625.gif)
 
-['CAI33774.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 [CAI33798.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/CAI33798.1/ranked_0.pdb)
@@ -1129,10 +1093,6 @@ Sugars in cluster:
 ['AAB48190.1', 'AGS07363.1']:
 
 ![](../../../../csdb/images/30404.gif)
-
-['WP_000231472.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 ['AGS07316.1']:
 
@@ -1381,10 +1341,6 @@ Number of blast hits in cluster: 13
 
 Sugars in cluster:
 
-['CAA43912.1', 'WP_000936591.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 ['WP_001529369.1', 'WP_000936589.1']:
 
 ![](../../../../csdb/images/27410.gif)
@@ -1433,10 +1389,6 @@ Sugars in cluster:
 ['ACD37181.1']:
 
 ![](../../../../csdb/images/1870.gif)
-
-['BAQ02259.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 Alphafold models for cluster:
 
@@ -1796,10 +1748,6 @@ Sugars in cluster:
 
 ![](../../../../csdb/images/114261.gif)
 
-['AFW04706.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 
@@ -1827,10 +1775,6 @@ Number of blast hits in cluster: 13
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0016_201/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
 Sugars in cluster:
-
-['AAN23041.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 ['AAN23078.1']:
 
@@ -1959,10 +1903,6 @@ Number of blast hits in cluster: 14
 
 Sugars in cluster:
 
-['AFW04757.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 
@@ -2090,10 +2030,6 @@ Sugars in cluster:
 
 ![](../../../../csdb/images/1886.gif)
 
-['AFW04668.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 [AFW04668.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/AFW04668.1/ranked_0.pdb)
@@ -2206,10 +2142,6 @@ Number of blast hits in cluster: 13
 
 Sugars in cluster:
 
-['AHB32563.2']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 
@@ -2245,10 +2177,6 @@ Sugars in cluster:
 ['ADQ37322.1']:
 
 ![](../../../../csdb/images/1892.gif)
-
-['AFW04867.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 Alphafold models for cluster:
 
@@ -2316,10 +2244,6 @@ Sugars in cluster:
 ['EKI39969.1', 'BAK68980.1', 'EKK44895.1', 'BAK69191.1', 'BAK69033.1', 'AAC32340.1', 'EKI95922.1']:
 
 ![](../../../../csdb/images/695.gif)
-
-['AAV34494.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 Alphafold models for cluster:
 
@@ -2454,10 +2378,6 @@ Number of blast hits in cluster: 10
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0013_163/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
 Sugars in cluster:
-
-['AQU71717.1', 'AQU71739.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 ['AFW04812.1']:
 
@@ -2616,10 +2536,6 @@ Sugars in cluster:
 
 ![](../../../../csdb/images/1562.gif)
 
-['AAV34523.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 [BAG11898.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/BAG11898.1/ranked_0.pdb)
@@ -2752,10 +2668,6 @@ Number of blast hits in cluster: 4
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0012_197/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
 Sugars in cluster:
-
-['AAC38177.1', 'AAL91079.1', 'AAL91080.1', 'AAL91081.1', 'AAL91082.1', 'WP_237703389.1', 'ACF92750.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 ['AGS07346.1']:
 
@@ -3336,10 +3248,6 @@ Sugars in cluster:
 
 ![](../../../../csdb/images/1439.gif)
 
-['AFW04802.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 
@@ -3495,10 +3403,6 @@ Number of blast hits in cluster: 9
 
 Sugars in cluster:
 
-['AHB32490.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 [AHB32490.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2201200806-polymerases_AlphaFold_batch1/af_out/AHB32490.1/ranked_0.pdb)
@@ -3528,10 +3432,6 @@ Number of blast hits in cluster: 7
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_166/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
 Sugars in cluster:
-
-['CAI33983.1', 'CAI33966.2', 'CAI34407.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 Alphafold models for cluster:
 
@@ -3655,10 +3555,6 @@ Sugars in cluster:
 ['ABI98966.1']:
 
 ![](../../../../csdb/images/1890.gif)
-
-['AAV41072.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 Alphafold models for cluster:
 
@@ -4005,10 +3901,6 @@ Number of blast hits in cluster: 8
 
 Sugars in cluster:
 
-['BAQ00705.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 
@@ -4069,10 +3961,6 @@ Number of blast hits in cluster: 5
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_141/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
 Sugars in cluster:
-
-['CAB63298.1', 'ACV53000.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 ['AKA20948.1']:
 
@@ -4188,10 +4076,6 @@ Sugars in cluster:
 
 ![](../../../../csdb/images/7060.gif)
 
-['CAI33252.1', 'CAI34753.1', 'CAI34613.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 
@@ -4222,10 +4106,6 @@ Sugars in cluster:
 ['BAQ02031.1']:
 
 ![](../../../../csdb/images/1926.gif)
-
-['AFW04696.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 Alphafold models for cluster:
 
@@ -4506,10 +4386,6 @@ Number of blast hits in cluster: 6
 
 Sugars in cluster:
 
-['BAQ01598.1', 'WP_038349068.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 
@@ -4733,10 +4609,6 @@ Sugars in cluster:
 
 ![](../../../../csdb/images/1883.gif)
 
-['WP_046788607.1', 'WP_000456161.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 [ABI98976.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/ABI98976.1/ranked_0.pdb)
@@ -4797,10 +4669,6 @@ Number of blast hits in cluster: 6
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_69/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
 Sugars in cluster:
-
-['AIG62684.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 Alphafold models for cluster:
 
@@ -5052,10 +4920,6 @@ Number of blast hits in cluster: 6
 
 Sugars in cluster:
 
-['AHB32462.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 
@@ -5081,10 +4945,6 @@ Number of blast hits in cluster: 6
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_182/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
 Sugars in cluster:
-
-['AFW04716.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 Alphafold models for cluster:
 
@@ -5234,10 +5094,6 @@ Number of blast hits in cluster: 6
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_135/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
 Sugars in cluster:
-
-['AHB32538.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 Alphafold models for cluster:
 
@@ -5565,10 +5421,6 @@ Number of blast hits in cluster: 5
 
 Sugars in cluster:
 
-['AHB32311.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 
@@ -5860,10 +5712,6 @@ Number of blast hits in cluster: 5
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_273/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
 Sugars in cluster:
-
-['CAI33745.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 Alphafold models for cluster:
 
@@ -6259,10 +6107,6 @@ Number of blast hits in cluster: 5
 
 Sugars in cluster:
 
-['AHB32357.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 
@@ -6420,10 +6264,6 @@ Number of blast hits in cluster: 4
 
 Sugars in cluster:
 
-['AHB32832.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 
@@ -6481,10 +6321,6 @@ Number of blast hits in cluster: 4
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_30/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
 Sugars in cluster:
-
-['CAI34680.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 Alphafold models for cluster:
 
@@ -6577,10 +6413,6 @@ Sugars in cluster:
 
 ![](../../../../csdb/images/7042.gif)
 
-['CAI34454.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 [CAI34454.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/CAI34454.1/ranked_0.pdb)
@@ -6609,10 +6441,6 @@ Number of blast hits in cluster: 3
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_269/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
 Sugars in cluster:
-
-['CAI34057.2', 'CAI34032.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 Alphafold models for cluster:
 
@@ -6672,10 +6500,6 @@ Number of blast hits in cluster: 2
 
 Sugars in cluster:
 
-['CAI33941.1', 'CAI33890.1', 'CAI33915.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 
@@ -6702,10 +6526,6 @@ Number of blast hits in cluster: 4
 
 Sugars in cluster:
 
-['AHB32283.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 
@@ -6731,10 +6551,6 @@ Number of blast hits in cluster: 4
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_248/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
 Sugars in cluster:
-
-['AFV46136.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 Alphafold models for cluster:
 
@@ -7218,10 +7034,6 @@ Number of blast hits in cluster: 3
 
 Sugars in cluster:
 
-['ADC54929.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 
@@ -7280,10 +7092,6 @@ Number of blast hits in cluster: 2
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_315/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
 Sugars in cluster:
-
-['CAI34544.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 ['CAI34641.1']:
 
@@ -7469,10 +7277,6 @@ Number of blast hits in cluster: 3
 
 Sugars in cluster:
 
-['AHB32510.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 
@@ -7498,10 +7302,6 @@ Number of blast hits in cluster: 3
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_282/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
 Sugars in cluster:
-
-['BAQ01386.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 Alphafold models for cluster:
 
@@ -8046,10 +7846,6 @@ Number of blast hits in cluster: 3
 
 Sugars in cluster:
 
-['AAZ91245.1']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 
@@ -8132,10 +7928,6 @@ Number of blast hits in cluster: 1
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_93/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
 Sugars in cluster:
-
-['WP_074526664.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 ['ABD19779.1']:
 
@@ -8228,10 +8020,6 @@ Number of blast hits in cluster: 2
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_59/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
 Sugars in cluster:
-
-['AHB32267.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 Alphafold models for cluster:
 
@@ -9205,10 +8993,6 @@ Number of blast hits in cluster: 2
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_112/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
 Sugars in cluster:
-
-['AHB32386.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 Alphafold models for cluster:
 
@@ -10282,10 +10066,6 @@ Number of blast hits in cluster: 1
 
 Sugars in cluster:
 
-['AHB32614.2']:
-
-![](../../../../csdb/images/nan.gif)
-
 Alphafold models for cluster:
 
 
@@ -10361,10 +10141,6 @@ Number of blast hits in cluster: 1
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_186/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
 Sugars in cluster:
-
-['BAQ00812.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 Alphafold models for cluster:
 
@@ -10471,10 +10247,6 @@ Number of blast hits in cluster: 1
 [Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_158/sequences.logo-001.jpg) (OBS: this is still the old tool)
 
 Sugars in cluster:
-
-['AFW04735.1']:
-
-![](../../../../csdb/images/nan.gif)
 
 Alphafold models for cluster:
 
