@@ -2,9 +2,7 @@
 ## Metadata
 CD-HIT threshold: 99%
 
-Length filter: min 320, max 600
-
-Expansion threshold: e-value 1e-30
+Length filter: min 320, max 600Expansion threshold: e-value 1e-30
 
 SSN threshold: score 200
 
@@ -173,7 +171,7 @@ Total number of members in cluster: 135
 
 ['AHB32215.1']:
 
-![](../../../../csdb/images/2091.gif)
+![](/Users/idamei/phd/data/csdb/images/2091.gif)
 
 #### Alphafold models:
 
@@ -335,7 +333,7 @@ Total number of members in cluster: 128
 
 ['BAQ00795.1']:
 
-![](../../../../csdb/images/1401.gif)
+![](/Users/idamei/phd/data/csdb/images/1401.gif)
 
 #### Alphafold models:
 
@@ -443,31 +441,31 @@ Total number of members in cluster: 55
 
 ['CAI34080.1']:
 
-![](../../../../csdb/images/1227.gif)
+![](/Users/idamei/phd/data/csdb/images/1227.gif)
 
 ['CAI34348.1']:
 
-![](../../../../csdb/images/7095.gif)
+![](/Users/idamei/phd/data/csdb/images/7095.gif)
 
 ['CAI34286.1']:
 
-![](../../../../csdb/images/1611.gif)
+![](/Users/idamei/phd/data/csdb/images/1611.gif)
 
 ['CAI34310.1']:
 
-![](../../../../csdb/images/1609.gif)
+![](/Users/idamei/phd/data/csdb/images/1609.gif)
 
 ['CAI34328.1']:
 
-![](../../../../csdb/images/7097.gif)
+![](/Users/idamei/phd/data/csdb/images/7097.gif)
 
 ['CAI34519.1']:
 
-![](../../../../csdb/images/25003.gif)
+![](/Users/idamei/phd/data/csdb/images/25003.gif)
 
 ['CAI34657.1']:
 
-![](../../../../csdb/images/25005.gif)
+![](/Users/idamei/phd/data/csdb/images/25005.gif)
 
 #### Alphafold models:
 
@@ -526,7 +524,7 @@ Total number of members in cluster: 49
 
 ['AHB32411.1']:
 
-![](../../../../csdb/images/27746.gif)
+![](/Users/idamei/phd/data/csdb/images/27746.gif)
 
 #### Alphafold models:
 
@@ -614,19 +612,19 @@ Total number of members in cluster: 49
 
 ['CAI32823.1']:
 
-![](../../../../csdb/images/1087.gif)
+![](/Users/idamei/phd/data/csdb/images/1087.gif)
 
 ['CAI32843.1']:
 
-![](../../../../csdb/images/937.gif)
+![](/Users/idamei/phd/data/csdb/images/937.gif)
 
 ['CAI33700.1']:
 
-![](../../../../csdb/images/739.gif)
+![](/Users/idamei/phd/data/csdb/images/739.gif)
 
 ['CAI33631.1']:
 
-![](../../../../csdb/images/740.gif)
+![](/Users/idamei/phd/data/csdb/images/740.gif)
 
 #### Alphafold models:
 
@@ -687,7 +685,7 @@ Total number of members in cluster: 48
 
 ['AFN02899.1']:
 
-![](../../../../csdb/images/704.gif)
+![](/Users/idamei/phd/data/csdb/images/704.gif)
 
 #### Alphafold models:
 
@@ -771,11 +769,11 @@ Total number of members in cluster: 48
 
 ['AHB32715.1']:
 
-![](../../../../csdb/images/486.gif)
+![](/Users/idamei/phd/data/csdb/images/486.gif)
 
 ['AHB32637.1']:
 
-![](../../../../csdb/images/563.gif)
+![](/Users/idamei/phd/data/csdb/images/563.gif)
 
 #### Alphafold models:
 
@@ -830,19 +828,19 @@ Total number of members in cluster: 43
 
 ['WP_000905563.1', 'AAO68867.1']:
 
-![](../../../../csdb/images/21859.gif)
+![](/Users/idamei/phd/data/csdb/images/21859.gif)
 
 ['AAV77445.1', 'CAR59582.1']:
 
-![](../../../../csdb/images/7418.gif)
+![](/Users/idamei/phd/data/csdb/images/7418.gif)
 
 ['CAR37642.1']:
 
-![](../../../../csdb/images/30403.gif)
+![](/Users/idamei/phd/data/csdb/images/30403.gif)
 
 ['AAL20257.1']:
 
-![](../../../../csdb/images/30397.gif)
+![](/Users/idamei/phd/data/csdb/images/30397.gif)
 
 #### Alphafold models:
 
@@ -955,35 +953,35 @@ Total number of members in cluster: 38
 
 ['AKA20935.1']:
 
-![](../../../../csdb/images/12128.gif)
+![](/Users/idamei/phd/data/csdb/images/12128.gif)
 
 ['AKA20966.1']:
 
-![](../../../../csdb/images/12129.gif)
+![](/Users/idamei/phd/data/csdb/images/12129.gif)
 
 ['AAY23739.1', 'BAQ02177.1']:
 
-![](../../../../csdb/images/1583.gif)
+![](/Users/idamei/phd/data/csdb/images/1583.gif)
 
 ['AAY23733.1']:
 
-![](../../../../csdb/images/1578.gif)
+![](/Users/idamei/phd/data/csdb/images/1578.gif)
 
 ['AAY23745.1']:
 
-![](../../../../csdb/images/1845.gif)
+![](/Users/idamei/phd/data/csdb/images/1845.gif)
 
 ['BAQ01935.1']:
 
-![](../../../../csdb/images/1918.gif)
+![](/Users/idamei/phd/data/csdb/images/1918.gif)
 
 ['BAQ02105.1']:
 
-![](../../../../csdb/images/1520.gif)
+![](/Users/idamei/phd/data/csdb/images/1520.gif)
 
 ['BAQ00945.1']:
 
-![](../../../../csdb/images/1551.gif)
+![](/Users/idamei/phd/data/csdb/images/1551.gif)
 
 #### Alphafold models:
 
@@ -1033,11 +1031,11 @@ Total number of members in cluster: 35
 
 ['AAM27560.1']:
 
-![](../../../../csdb/images/11180.gif)
+![](/Users/idamei/phd/data/csdb/images/11180.gif)
 
 ['AAM27711.1']:
 
-![](../../../../csdb/images/11026.gif)
+![](/Users/idamei/phd/data/csdb/images/11026.gif)
 
 #### Alphafold models:
 
@@ -1101,7 +1099,7 @@ Total number of members in cluster: 34
 
 ['ACD75796.1']:
 
-![](../../../../csdb/images/1570.gif)
+![](/Users/idamei/phd/data/csdb/images/1570.gif)
 
 #### Alphafold models:
 
@@ -1214,7 +1212,7 @@ Total number of members in cluster: 30
 
 ['ADI43271.1']:
 
-![](../../../../csdb/images/1535.gif)
+![](/Users/idamei/phd/data/csdb/images/1535.gif)
 
 #### Alphafold models:
 
@@ -1264,11 +1262,11 @@ Total number of members in cluster: 29
 
 ['AAZ85713.1']:
 
-![](../../../../csdb/images/1880.gif)
+![](/Users/idamei/phd/data/csdb/images/1880.gif)
 
 ['AAM27615.1']:
 
-![](../../../../csdb/images/1443.gif)
+![](/Users/idamei/phd/data/csdb/images/1443.gif)
 
 #### Alphafold models:
 
@@ -1352,23 +1350,23 @@ Total number of members in cluster: 27
 
 ['AAA97573.1', 'AAC45857.1', 'AAM27801.1']:
 
-![](../../../../csdb/images/1672.gif)
+![](/Users/idamei/phd/data/csdb/images/1672.gif)
 
 ['AAM27728.1']:
 
-![](../../../../csdb/images/6565.gif)
+![](/Users/idamei/phd/data/csdb/images/6565.gif)
 
 ['AAM27662.1']:
 
-![](../../../../csdb/images/6654.gif)
+![](/Users/idamei/phd/data/csdb/images/6654.gif)
 
 ['AAM27693.1']:
 
-![](../../../../csdb/images/7836.gif)
+![](/Users/idamei/phd/data/csdb/images/7836.gif)
 
 ['AAM27748.1']:
 
-![](../../../../csdb/images/6655.gif)
+![](/Users/idamei/phd/data/csdb/images/6655.gif)
 
 #### Alphafold models:
 
@@ -1420,19 +1418,19 @@ Total number of members in cluster: 27
 
 ['BAQ01024.1']:
 
-![](../../../../csdb/images/1558.gif)
+![](/Users/idamei/phd/data/csdb/images/1558.gif)
 
 ['BAQ00622.1']:
 
-![](../../../../csdb/images/1512.gif)
+![](/Users/idamei/phd/data/csdb/images/1512.gif)
 
 ['AQU71805.1']:
 
-![](../../../../csdb/images/1500.gif)
+![](/Users/idamei/phd/data/csdb/images/1500.gif)
 
 ['AFW04883.1']:
 
-![](../../../../csdb/images/701.gif)
+![](/Users/idamei/phd/data/csdb/images/701.gif)
 
 #### Alphafold models:
 
@@ -1478,7 +1476,7 @@ Total number of members in cluster: 25
 
 ['CAI34269.1']:
 
-![](../../../../csdb/images/7043.gif)
+![](/Users/idamei/phd/data/csdb/images/7043.gif)
 
 #### Alphafold models:
 
@@ -1537,15 +1535,15 @@ Total number of members in cluster: 25
 
 ['ABE98437.1']:
 
-![](../../../../csdb/images/1887.gif)
+![](/Users/idamei/phd/data/csdb/images/1887.gif)
 
 ['ABI98986.1']:
 
-![](../../../../csdb/images/1624.gif)
+![](/Users/idamei/phd/data/csdb/images/1624.gif)
 
 ['ABU80601.1']:
 
-![](../../../../csdb/images/188.gif)
+![](/Users/idamei/phd/data/csdb/images/188.gif)
 
 #### Alphafold models:
 
@@ -1612,23 +1610,23 @@ Total number of members in cluster: 24
 
 ['CAI33105.1']:
 
-![](../../../../csdb/images/7049.gif)
+![](/Users/idamei/phd/data/csdb/images/7049.gif)
 
 ['CAI33048.1']:
 
-![](../../../../csdb/images/1953.gif)
+![](/Users/idamei/phd/data/csdb/images/1953.gif)
 
 ['CAI34733.1']:
 
-![](../../../../csdb/images/7051.gif)
+![](/Users/idamei/phd/data/csdb/images/7051.gif)
 
 ['CAI33084.1']:
 
-![](../../../../csdb/images/7052.gif)
+![](/Users/idamei/phd/data/csdb/images/7052.gif)
 
 ['CAI34436.1']:
 
-![](../../../../csdb/images/3663.gif)
+![](/Users/idamei/phd/data/csdb/images/3663.gif)
 
 #### Alphafold models:
 
@@ -1676,7 +1674,7 @@ Total number of members in cluster: 24
 
 ['AHB32888.2']:
 
-![](../../../../csdb/images/495.gif)
+![](/Users/idamei/phd/data/csdb/images/495.gif)
 
 #### Alphafold models:
 
@@ -1731,7 +1729,7 @@ Total number of members in cluster: 24
 
 ['AFW04828.1']:
 
-![](../../../../csdb/images/3367.gif)
+![](/Users/idamei/phd/data/csdb/images/3367.gif)
 
 #### Alphafold models:
 
@@ -1779,7 +1777,7 @@ Total number of members in cluster: 23
 
 ['AAM27595.1']:
 
-![](../../../../csdb/images/31934.gif)
+![](/Users/idamei/phd/data/csdb/images/31934.gif)
 
 #### Alphafold models:
 
@@ -1827,7 +1825,7 @@ Total number of members in cluster: 23
 
 ['CAI33798.1']:
 
-![](../../../../csdb/images/625.gif)
+![](/Users/idamei/phd/data/csdb/images/625.gif)
 
 #### Alphafold models:
 
@@ -1885,11 +1883,11 @@ Total number of members in cluster: 22
 
 ['CAI33862.1']:
 
-![](../../../../csdb/images/1964.gif)
+![](/Users/idamei/phd/data/csdb/images/1964.gif)
 
 ['CAI33840.1']:
 
-![](../../../../csdb/images/7083.gif)
+![](/Users/idamei/phd/data/csdb/images/7083.gif)
 
 #### Alphafold models:
 
@@ -1946,15 +1944,15 @@ Total number of members in cluster: 21
 
 ['CAA43077.1', 'AGS07327.1']:
 
-![](../../../../csdb/images/30407.gif)
+![](/Users/idamei/phd/data/csdb/images/30407.gif)
 
 ['AAB48190.1', 'AGS07363.1']:
 
-![](../../../../csdb/images/30404.gif)
+![](/Users/idamei/phd/data/csdb/images/30404.gif)
 
 ['AGS07316.1']:
 
-![](../../../../csdb/images/30411.gif)
+![](/Users/idamei/phd/data/csdb/images/30411.gif)
 
 #### Alphafold models:
 
@@ -1996,7 +1994,7 @@ Total number of members in cluster: 20
 
 ['AAC45844.1']:
 
-![](../../../../csdb/images/1509.gif)
+![](/Users/idamei/phd/data/csdb/images/1509.gif)
 
 #### Alphafold models:
 
@@ -2045,7 +2043,7 @@ Total number of members in cluster: 20
 
 ['ABK27355.1', 'ABK27354.1', 'ABK27351.1', 'BAI31288.1', 'ABK27350.1', 'ABK27321.1', 'ABK27352.1']:
 
-![](../../../../csdb/images/1842.gif)
+![](/Users/idamei/phd/data/csdb/images/1842.gif)
 
 #### Alphafold models:
 
@@ -2144,11 +2142,11 @@ Total number of members in cluster: 20
 
 ['AFC91472.1', 'AFC91514.1', 'AAO39700.1', 'AFC91570.1']:
 
-![](../../../../csdb/images/1861.gif)
+![](/Users/idamei/phd/data/csdb/images/1861.gif)
 
 ['AAR97964.1']:
 
-![](../../../../csdb/images/108660.gif)
+![](/Users/idamei/phd/data/csdb/images/108660.gif)
 
 #### Alphafold models:
 
@@ -2201,7 +2199,7 @@ Total number of members in cluster: 19
 
 ['CDF66396.1']:
 
-![](../../../../csdb/images/12130.gif)
+![](/Users/idamei/phd/data/csdb/images/12130.gif)
 
 #### Alphafold models:
 
@@ -2266,19 +2264,19 @@ Total number of members in cluster: 19
 
 ['ADC54950.1']:
 
-![](../../../../csdb/images/20645.gif)
+![](/Users/idamei/phd/data/csdb/images/20645.gif)
 
 ['BAQ00669.1']:
 
-![](../../../../csdb/images/1524.gif)
+![](/Users/idamei/phd/data/csdb/images/1524.gif)
 
 ['BAQ01732.1']:
 
-![](../../../../csdb/images/1884.gif)
+![](/Users/idamei/phd/data/csdb/images/1884.gif)
 
 ['BAQ00687.1']:
 
-![](../../../../csdb/images/1521.gif)
+![](/Users/idamei/phd/data/csdb/images/1521.gif)
 
 #### Alphafold models:
 
@@ -2330,11 +2328,11 @@ Total number of members in cluster: 19
 
 ['WP_001529369.1', 'WP_000936589.1']:
 
-![](../../../../csdb/images/27410.gif)
+![](/Users/idamei/phd/data/csdb/images/27410.gif)
 
 ['WP_000936592.1', 'ACF64132.1']:
 
-![](../../../../csdb/images/28331.gif)
+![](/Users/idamei/phd/data/csdb/images/28331.gif)
 
 #### Alphafold models:
 
@@ -2378,15 +2376,15 @@ Total number of members in cluster: 19
 
 ['ACD37165.1']:
 
-![](../../../../csdb/images/1515.gif)
+![](/Users/idamei/phd/data/csdb/images/1515.gif)
 
 ['ACD37173.1']:
 
-![](../../../../csdb/images/1877.gif)
+![](/Users/idamei/phd/data/csdb/images/1877.gif)
 
 ['ACD37181.1']:
 
-![](../../../../csdb/images/1870.gif)
+![](/Users/idamei/phd/data/csdb/images/1870.gif)
 
 #### Alphafold models:
 
@@ -2431,7 +2429,7 @@ Total number of members in cluster: 19
 
 ['ABX51892.1']:
 
-![](../../../../csdb/images/27572.gif)
+![](/Users/idamei/phd/data/csdb/images/27572.gif)
 
 #### Alphafold models:
 
@@ -2490,7 +2488,7 @@ Total number of members in cluster: 18
 
 ['AAT85653.1']:
 
-![](../../../../csdb/images/10216.gif)
+![](/Users/idamei/phd/data/csdb/images/10216.gif)
 
 #### Alphafold models:
 
@@ -2539,11 +2537,11 @@ Total number of members in cluster: 18
 
 ['BAQ01361.1']:
 
-![](../../../../csdb/images/1596.gif)
+![](/Users/idamei/phd/data/csdb/images/1596.gif)
 
 ['CAS09721.1', 'AAR90892.1']:
 
-![](../../../../csdb/images/1866.gif)
+![](/Users/idamei/phd/data/csdb/images/1866.gif)
 
 #### Alphafold models:
 
@@ -2586,7 +2584,7 @@ Total number of members in cluster: 17
 
 ['BAQ01716.1']:
 
-![](../../../../csdb/images/1882.gif)
+![](/Users/idamei/phd/data/csdb/images/1882.gif)
 
 #### Alphafold models:
 
@@ -2634,7 +2632,7 @@ Total number of members in cluster: 17
 
 ['BAQ01843.1']:
 
-![](../../../../csdb/images/1905.gif)
+![](/Users/idamei/phd/data/csdb/images/1905.gif)
 
 #### Alphafold models:
 
@@ -2680,7 +2678,7 @@ Total number of members in cluster: 17
 
 ['CAI32772.1']:
 
-![](../../../../csdb/images/805.gif)
+![](/Users/idamei/phd/data/csdb/images/805.gif)
 
 #### Alphafold models:
 
@@ -2774,11 +2772,11 @@ Total number of members in cluster: 17
 
 ['CAI33515.1']:
 
-![](../../../../csdb/images/815.gif)
+![](/Users/idamei/phd/data/csdb/images/815.gif)
 
 ['CAI33491.1']:
 
-![](../../../../csdb/images/7070.gif)
+![](/Users/idamei/phd/data/csdb/images/7070.gif)
 
 #### Alphafold models:
 
@@ -2830,11 +2828,11 @@ Total number of members in cluster: 16
 
 ['ADC54967.1']:
 
-![](../../../../csdb/images/619.gif)
+![](/Users/idamei/phd/data/csdb/images/619.gif)
 
 ['AFW04820.1']:
 
-![](../../../../csdb/images/2600.gif)
+![](/Users/idamei/phd/data/csdb/images/2600.gif)
 
 #### Alphafold models:
 
@@ -2880,7 +2878,7 @@ Total number of members in cluster: 16
 
 ['CAI33817.1']:
 
-![](../../../../csdb/images/7084.gif)
+![](/Users/idamei/phd/data/csdb/images/7084.gif)
 
 #### Alphafold models:
 
@@ -2941,7 +2939,7 @@ Total number of members in cluster: 16
 
 ['CAD19991.1', 'WP_000864940.1', 'ADT75640.1']:
 
-![](../../../../csdb/images/114261.gif)
+![](/Users/idamei/phd/data/csdb/images/114261.gif)
 
 #### Alphafold models:
 
@@ -2983,11 +2981,11 @@ Total number of members in cluster: 16
 
 ['AAN23078.1']:
 
-![](../../../../csdb/images/12135.gif)
+![](/Users/idamei/phd/data/csdb/images/12135.gif)
 
 ['AAN23057.1']:
 
-![](../../../../csdb/images/12136.gif)
+![](/Users/idamei/phd/data/csdb/images/12136.gif)
 
 #### Alphafold models:
 
@@ -3033,7 +3031,7 @@ Total number of members in cluster: 15
 
 ['ABB04486.1']:
 
-![](../../../../csdb/images/1836.gif)
+![](/Users/idamei/phd/data/csdb/images/1836.gif)
 
 #### Alphafold models:
 
@@ -3086,27 +3084,27 @@ Total number of members in cluster: 15
 
 ['CAI34254.1']:
 
-![](../../../../csdb/images/1965.gif)
+![](/Users/idamei/phd/data/csdb/images/1965.gif)
 
 ['CAI34177.1']:
 
-![](../../../../csdb/images/7091.gif)
+![](/Users/idamei/phd/data/csdb/images/7091.gif)
 
 ['CAI34198.1']:
 
-![](../../../../csdb/images/7092.gif)
+![](/Users/idamei/phd/data/csdb/images/7092.gif)
 
 ['CAI34217.1']:
 
-![](../../../../csdb/images/7093.gif)
+![](/Users/idamei/phd/data/csdb/images/7093.gif)
 
 ['CAI34236.1']:
 
-![](../../../../csdb/images/7094.gif)
+![](/Users/idamei/phd/data/csdb/images/7094.gif)
 
 ['CAI34388.1']:
 
-![](../../../../csdb/images/1984.gif)
+![](/Users/idamei/phd/data/csdb/images/1984.gif)
 
 #### Alphafold models:
 
@@ -3205,7 +3203,7 @@ Total number of members in cluster: 15
 
 ['CAI34008.1']:
 
-![](../../../../csdb/images/7085.gif)
+![](/Users/idamei/phd/data/csdb/images/7085.gif)
 
 #### Alphafold models:
 
@@ -3267,7 +3265,7 @@ Total number of members in cluster: 14
 
 ['BAQ01675.1']:
 
-![](../../../../csdb/images/1875.gif)
+![](/Users/idamei/phd/data/csdb/images/1875.gif)
 
 #### Alphafold models:
 
@@ -3307,7 +3305,7 @@ Total number of members in cluster: 14
 
 ['CBN82200.1']:
 
-![](../../../../csdb/images/1576.gif)
+![](/Users/idamei/phd/data/csdb/images/1576.gif)
 
 #### Alphafold models:
 
@@ -3364,7 +3362,7 @@ Total number of members in cluster: 14
 
 ['AHG15281.1', 'AFD18613.1', 'AAX58762.1']:
 
-![](../../../../csdb/images/1886.gif)
+![](/Users/idamei/phd/data/csdb/images/1886.gif)
 
 #### Alphafold models:
 
@@ -3410,19 +3408,19 @@ Total number of members in cluster: 14
 
 ['CAI32973.1']:
 
-![](../../../../csdb/images/112112.gif)
+![](/Users/idamei/phd/data/csdb/images/112112.gif)
 
 ['CAI32993.1']:
 
-![](../../../../csdb/images/7046.gif)
+![](/Users/idamei/phd/data/csdb/images/7046.gif)
 
 ['CAI33011.1']:
 
-![](../../../../csdb/images/7415.gif)
+![](/Users/idamei/phd/data/csdb/images/7415.gif)
 
 ['CAI33029.1']:
 
-![](../../../../csdb/images/320.gif)
+![](/Users/idamei/phd/data/csdb/images/320.gif)
 
 #### Alphafold models:
 
@@ -3465,11 +3463,11 @@ Total number of members in cluster: 14
 
 ['ACA24852.1']:
 
-![](../../../../csdb/images/1538.gif)
+![](/Users/idamei/phd/data/csdb/images/1538.gif)
 
 ['ACA24840.1']:
 
-![](../../../../csdb/images/1932.gif)
+![](/Users/idamei/phd/data/csdb/images/1932.gif)
 
 #### Alphafold models:
 
@@ -3561,11 +3559,11 @@ Total number of members in cluster: 13
 
 ['ADQ37335.1']:
 
-![](../../../../csdb/images/1858.gif)
+![](/Users/idamei/phd/data/csdb/images/1858.gif)
 
 ['ADQ37322.1']:
 
-![](../../../../csdb/images/1892.gif)
+![](/Users/idamei/phd/data/csdb/images/1892.gif)
 
 #### Alphafold models:
 
@@ -3604,7 +3602,7 @@ Total number of members in cluster: 13
 
 ['BAQ01317.1']:
 
-![](../../../../csdb/images/1595.gif)
+![](/Users/idamei/phd/data/csdb/images/1595.gif)
 
 #### Alphafold models:
 
@@ -3652,7 +3650,7 @@ Total number of members in cluster: 13
 
 ['EKI39969.1', 'BAK68980.1', 'EKK44895.1', 'BAK69191.1', 'BAK69033.1', 'AAC32340.1', 'EKI95922.1']:
 
-![](../../../../csdb/images/695.gif)
+![](/Users/idamei/phd/data/csdb/images/695.gif)
 
 #### Alphafold models:
 
@@ -3696,7 +3694,7 @@ Total number of members in cluster: 13
 
 ['ACD37026.1']:
 
-![](../../../../csdb/images/1931.gif)
+![](/Users/idamei/phd/data/csdb/images/1931.gif)
 
 #### Alphafold models:
 
@@ -3745,11 +3743,11 @@ Total number of members in cluster: 13
 
 ['ACA24882.1']:
 
-![](../../../../csdb/images/108653.gif)
+![](/Users/idamei/phd/data/csdb/images/108653.gif)
 
 ['ACA24868.1']:
 
-![](../../../../csdb/images/1565.gif)
+![](/Users/idamei/phd/data/csdb/images/1565.gif)
 
 #### Alphafold models:
 
@@ -3798,11 +3796,11 @@ Total number of members in cluster: 13
 
 ['AAM27766.1']:
 
-![](../../../../csdb/images/3934.gif)
+![](/Users/idamei/phd/data/csdb/images/3934.gif)
 
 ['AAM27645.1']:
 
-![](../../../../csdb/images/3929.gif)
+![](/Users/idamei/phd/data/csdb/images/3929.gif)
 
 #### Alphafold models:
 
@@ -3845,7 +3843,7 @@ Total number of members in cluster: 13
 
 ['AFW04812.1']:
 
-![](../../../../csdb/images/703.gif)
+![](/Users/idamei/phd/data/csdb/images/703.gif)
 
 #### Alphafold models:
 
@@ -3927,7 +3925,7 @@ Total number of members in cluster: 13
 
 ['CAI33309.1']:
 
-![](../../../../csdb/images/7061.gif)
+![](/Users/idamei/phd/data/csdb/images/7061.gif)
 
 #### Alphafold models:
 
@@ -3967,7 +3965,7 @@ Total number of members in cluster: 12
 
 ['ABI55342.1']:
 
-![](../../../../csdb/images/714.gif)
+![](/Users/idamei/phd/data/csdb/images/714.gif)
 
 #### Alphafold models:
 
@@ -4019,7 +4017,7 @@ Total number of members in cluster: 12
 
 ['BAQ01533.1']:
 
-![](../../../../csdb/images/1849.gif)
+![](/Users/idamei/phd/data/csdb/images/1849.gif)
 
 #### Alphafold models:
 
@@ -4072,7 +4070,7 @@ Total number of members in cluster: 12
 
 ['WP_000482333.1', 'BAG11898.1']:
 
-![](../../../../csdb/images/1562.gif)
+![](/Users/idamei/phd/data/csdb/images/1562.gif)
 
 #### Alphafold models:
 
@@ -4117,7 +4115,7 @@ Total number of members in cluster: 12
 
 ['ACA24764.1', 'ACA24754.1']:
 
-![](../../../../csdb/images/1885.gif)
+![](/Users/idamei/phd/data/csdb/images/1885.gif)
 
 #### Alphafold models:
 
@@ -4172,7 +4170,7 @@ Total number of members in cluster: 12
 
 ['AAD45264.1', 'AAM27574.1']:
 
-![](../../../../csdb/images/10219.gif)
+![](/Users/idamei/phd/data/csdb/images/10219.gif)
 
 #### Alphafold models:
 
@@ -4212,7 +4210,7 @@ Total number of members in cluster: 12
 
 ['ADI43263.1']:
 
-![](../../../../csdb/images/12694.gif)
+![](/Users/idamei/phd/data/csdb/images/12694.gif)
 
 #### Alphafold models:
 
@@ -4261,7 +4259,7 @@ Total number of members in cluster: 12
 
 ['AGS07346.1']:
 
-![](../../../../csdb/images/30907.gif)
+![](/Users/idamei/phd/data/csdb/images/30907.gif)
 
 #### Alphafold models:
 
@@ -4304,11 +4302,11 @@ Total number of members in cluster: 12
 
 ['ACD37157.1']:
 
-![](../../../../csdb/images/1871.gif)
+![](/Users/idamei/phd/data/csdb/images/1871.gif)
 
 ['BAQ01494.1', 'AFS33314.1']:
 
-![](../../../../csdb/images/1841.gif)
+![](/Users/idamei/phd/data/csdb/images/1841.gif)
 
 #### Alphafold models:
 
@@ -4357,7 +4355,7 @@ Total number of members in cluster: 12
 
 ['BAQ00975.1']:
 
-![](../../../../csdb/images/1555.gif)
+![](/Users/idamei/phd/data/csdb/images/1555.gif)
 
 #### Alphafold models:
 
@@ -4404,11 +4402,11 @@ Total number of members in cluster: 11
 
 ['ACA24821.1', 'ACA24811.1']:
 
-![](../../../../csdb/images/1893.gif)
+![](/Users/idamei/phd/data/csdb/images/1893.gif)
 
 ['ADN43894.1']:
 
-![](../../../../csdb/images/3159.gif)
+![](/Users/idamei/phd/data/csdb/images/3159.gif)
 
 #### Alphafold models:
 
@@ -4457,19 +4455,19 @@ Total number of members in cluster: 11
 
 ['CAI33610.1']:
 
-![](../../../../csdb/images/7071.gif)
+![](/Users/idamei/phd/data/csdb/images/7071.gif)
 
 ['CAI33537.1']:
 
-![](../../../../csdb/images/7074.gif)
+![](/Users/idamei/phd/data/csdb/images/7074.gif)
 
 ['CAI33561.1']:
 
-![](../../../../csdb/images/846.gif)
+![](/Users/idamei/phd/data/csdb/images/846.gif)
 
 ['CAI33585.1']:
 
-![](../../../../csdb/images/939.gif)
+![](/Users/idamei/phd/data/csdb/images/939.gif)
 
 #### Alphafold models:
 
@@ -4507,7 +4505,7 @@ Total number of members in cluster: 11
 
 ['AAM27546.1']:
 
-![](../../../../csdb/images/6636.gif)
+![](/Users/idamei/phd/data/csdb/images/6636.gif)
 
 #### Alphafold models:
 
@@ -4545,7 +4543,7 @@ Total number of members in cluster: 11
 
 ['ACH97162.1']:
 
-![](../../../../csdb/images/1529.gif)
+![](/Users/idamei/phd/data/csdb/images/1529.gif)
 
 #### Alphafold models:
 
@@ -4595,11 +4593,11 @@ Total number of members in cluster: 11
 
 ['BAQ00858.1']:
 
-![](../../../../csdb/images/1545.gif)
+![](/Users/idamei/phd/data/csdb/images/1545.gif)
 
 ['ACA24776.1']:
 
-![](../../../../csdb/images/11557.gif)
+![](/Users/idamei/phd/data/csdb/images/11557.gif)
 
 #### Alphafold models:
 
@@ -4644,11 +4642,11 @@ Total number of members in cluster: 11
 
 ['CAI34150.1']:
 
-![](../../../../csdb/images/848.gif)
+![](/Users/idamei/phd/data/csdb/images/848.gif)
 
 ['CAI34124.1']:
 
-![](../../../../csdb/images/918.gif)
+![](/Users/idamei/phd/data/csdb/images/918.gif)
 
 #### Alphafold models:
 
@@ -4736,11 +4734,11 @@ Total number of members in cluster: 11
 
 ['AHB32774.1']:
 
-![](../../../../csdb/images/493.gif)
+![](/Users/idamei/phd/data/csdb/images/493.gif)
 
 ['AHB32438.2']:
 
-![](../../../../csdb/images/2196.gif)
+![](/Users/idamei/phd/data/csdb/images/2196.gif)
 
 #### Alphafold models:
 
@@ -4785,15 +4783,15 @@ Total number of members in cluster: 11
 
 ['ACD37138.1']:
 
-![](../../../../csdb/images/1863.gif)
+![](/Users/idamei/phd/data/csdb/images/1863.gif)
 
 ['ACD37146.1']:
 
-![](../../../../csdb/images/1906.gif)
+![](/Users/idamei/phd/data/csdb/images/1906.gif)
 
 ['ACD37105.1']:
 
-![](../../../../csdb/images/718.gif)
+![](/Users/idamei/phd/data/csdb/images/718.gif)
 
 #### Alphafold models:
 
@@ -4836,11 +4834,11 @@ Total number of members in cluster: 11
 
 ['ACA24803.1']:
 
-![](../../../../csdb/images/715.gif)
+![](/Users/idamei/phd/data/csdb/images/715.gif)
 
 ['ACA24792.1']:
 
-![](../../../../csdb/images/1891.gif)
+![](/Users/idamei/phd/data/csdb/images/1891.gif)
 
 #### Alphafold models:
 
@@ -4883,7 +4881,7 @@ Total number of members in cluster: 10
 
 ['EHX11459.1', 'AFC91458.1', 'AFC91419.1', 'AAX07747.1']:
 
-![](../../../../csdb/images/1552.gif)
+![](/Users/idamei/phd/data/csdb/images/1552.gif)
 
 #### Alphafold models:
 
@@ -4924,7 +4922,7 @@ Total number of members in cluster: 10
 
 ['AAM27782.1']:
 
-![](../../../../csdb/images/24033.gif)
+![](/Users/idamei/phd/data/csdb/images/24033.gif)
 
 #### Alphafold models:
 
@@ -5005,7 +5003,7 @@ Total number of members in cluster: 10
 
 ['ABX51880.1']:
 
-![](../../../../csdb/images/27329.gif)
+![](/Users/idamei/phd/data/csdb/images/27329.gif)
 
 #### Alphafold models:
 
@@ -5047,7 +5045,7 @@ Total number of members in cluster: 10
 
 ['AAO37717.1']:
 
-![](../../../../csdb/images/1439.gif)
+![](/Users/idamei/phd/data/csdb/images/1439.gif)
 
 #### Alphafold models:
 
@@ -5096,11 +5094,11 @@ Total number of members in cluster: 10
 
 ['ACV67297.1']:
 
-![](../../../../csdb/images/1584.gif)
+![](/Users/idamei/phd/data/csdb/images/1584.gif)
 
 ['AFW04684.1']:
 
-![](../../../../csdb/images/30392.gif)
+![](/Users/idamei/phd/data/csdb/images/30392.gif)
 
 #### Alphafold models:
 
@@ -5146,7 +5144,7 @@ Total number of members in cluster: 10
 
 ['BAQ00879.1']:
 
-![](../../../../csdb/images/1383.gif)
+![](/Users/idamei/phd/data/csdb/images/1383.gif)
 
 #### Alphafold models:
 
@@ -5202,7 +5200,7 @@ Total number of members in cluster: 10
 
 ['AAK60458.1']:
 
-![](../../../../csdb/images/895.gif)
+![](/Users/idamei/phd/data/csdb/images/895.gif)
 
 #### Alphafold models:
 
@@ -5245,7 +5243,7 @@ Total number of members in cluster: 10
 
 ['BAQ01238.1']:
 
-![](../../../../csdb/images/1452.gif)
+![](/Users/idamei/phd/data/csdb/images/1452.gif)
 
 #### Alphafold models:
 
@@ -5411,11 +5409,11 @@ Total number of members in cluster: 10
 
 ['BAQ00746.1']:
 
-![](../../../../csdb/images/20006.gif)
+![](/Users/idamei/phd/data/csdb/images/20006.gif)
 
 ['AFW04888.1']:
 
-![](../../../../csdb/images/3366.gif)
+![](/Users/idamei/phd/data/csdb/images/3366.gif)
 
 #### Alphafold models:
 
@@ -5457,7 +5455,7 @@ Total number of members in cluster: 10
 
 ['ADC54957.1']:
 
-![](../../../../csdb/images/1908.gif)
+![](/Users/idamei/phd/data/csdb/images/1908.gif)
 
 #### Alphafold models:
 
@@ -5500,7 +5498,7 @@ Total number of members in cluster: 9
 
 ['ABI98966.1']:
 
-![](../../../../csdb/images/1890.gif)
+![](/Users/idamei/phd/data/csdb/images/1890.gif)
 
 #### Alphafold models:
 
@@ -5627,11 +5625,11 @@ Total number of members in cluster: 9
 
 ['CAI33652.1']:
 
-![](../../../../csdb/images/2254.gif)
+![](/Users/idamei/phd/data/csdb/images/2254.gif)
 
 ['CAI33675.1']:
 
-![](../../../../csdb/images/2255.gif)
+![](/Users/idamei/phd/data/csdb/images/2255.gif)
 
 #### Alphafold models:
 
@@ -5670,11 +5668,11 @@ Total number of members in cluster: 9
 
 ['CAI32935.1']:
 
-![](../../../../csdb/images/1949.gif)
+![](/Users/idamei/phd/data/csdb/images/1949.gif)
 
 ['CAI32867.1']:
 
-![](../../../../csdb/images/2624.gif)
+![](/Users/idamei/phd/data/csdb/images/2624.gif)
 
 #### Alphafold models:
 
@@ -5715,11 +5713,11 @@ Total number of members in cluster: 9
 
 ['ACV67289.1']:
 
-![](../../../../csdb/images/1542.gif)
+![](/Users/idamei/phd/data/csdb/images/1542.gif)
 
 ['AFW04785.1']:
 
-![](../../../../csdb/images/3359.gif)
+![](/Users/idamei/phd/data/csdb/images/3359.gif)
 
 #### Alphafold models:
 
@@ -5762,11 +5760,11 @@ Total number of members in cluster: 9
 
 ['CAI33412.1']:
 
-![](../../../../csdb/images/2972.gif)
+![](/Users/idamei/phd/data/csdb/images/2972.gif)
 
 ['CAI33343.1']:
 
-![](../../../../csdb/images/2973.gif)
+![](/Users/idamei/phd/data/csdb/images/2973.gif)
 
 #### Alphafold models:
 
@@ -5817,7 +5815,7 @@ Total number of members in cluster: 9
 
 ['AAO37701.1', 'WP_024244058.1']:
 
-![](../../../../csdb/images/1867.gif)
+![](/Users/idamei/phd/data/csdb/images/1867.gif)
 
 #### Alphafold models:
 
@@ -5858,7 +5856,7 @@ Total number of members in cluster: 9
 
 ['CAI33718.1']:
 
-![](../../../../csdb/images/1928.gif)
+![](/Users/idamei/phd/data/csdb/images/1928.gif)
 
 #### Alphafold models:
 
@@ -5900,7 +5898,7 @@ Total number of members in cluster: 9
 
 ['CAI32705.1']:
 
-![](../../../../csdb/images/31499.gif)
+![](/Users/idamei/phd/data/csdb/images/31499.gif)
 
 #### Alphafold models:
 
@@ -5953,7 +5951,7 @@ Total number of members in cluster: 9
 
 ['AAV74543.1']:
 
-![](../../../../csdb/images/1516.gif)
+![](/Users/idamei/phd/data/csdb/images/1516.gif)
 
 #### Alphafold models:
 
@@ -6032,7 +6030,7 @@ Total number of members in cluster: 9
 
 ['ADR74237.1']:
 
-![](../../../../csdb/images/1848.gif)
+![](/Users/idamei/phd/data/csdb/images/1848.gif)
 
 #### Alphafold models:
 
@@ -6083,11 +6081,11 @@ Total number of members in cluster: 9
 
 ['AKA20948.1']:
 
-![](../../../../csdb/images/12133.gif)
+![](/Users/idamei/phd/data/csdb/images/12133.gif)
 
 ['ACV52983.1']:
 
-![](../../../../csdb/images/12124.gif)
+![](/Users/idamei/phd/data/csdb/images/12124.gif)
 
 #### Alphafold models:
 
@@ -6132,11 +6130,11 @@ Total number of members in cluster: 9
 
 ['ABG81806.1', 'BAQ02224.1']:
 
-![](../../../../csdb/images/697.gif)
+![](/Users/idamei/phd/data/csdb/images/697.gif)
 
 ['BAQ02068.1', 'AJR19430.1']:
 
-![](../../../../csdb/images/1933.gif)
+![](/Users/idamei/phd/data/csdb/images/1933.gif)
 
 #### Alphafold models:
 
@@ -6235,11 +6233,11 @@ Total number of members in cluster: 9
 
 ['CAI33278.1']:
 
-![](../../../../csdb/images/1955.gif)
+![](/Users/idamei/phd/data/csdb/images/1955.gif)
 
 ['CAI33226.1']:
 
-![](../../../../csdb/images/7060.gif)
+![](/Users/idamei/phd/data/csdb/images/7060.gif)
 
 #### Alphafold models:
 
@@ -6278,7 +6276,7 @@ Total number of members in cluster: 9
 
 ['BAQ02031.1']:
 
-![](../../../../csdb/images/1926.gif)
+![](/Users/idamei/phd/data/csdb/images/1926.gif)
 
 #### Alphafold models:
 
@@ -6324,11 +6322,11 @@ Total number of members in cluster: 8
 
 ['BAQ00846.1']:
 
-![](../../../../csdb/images/1544.gif)
+![](/Users/idamei/phd/data/csdb/images/1544.gif)
 
 ['AFW04741.1']:
 
-![](../../../../csdb/images/30351.gif)
+![](/Users/idamei/phd/data/csdb/images/30351.gif)
 
 #### Alphafold models:
 
@@ -6372,23 +6370,23 @@ Total number of members in cluster: 8
 
 ['CAI33207.1']:
 
-![](../../../../csdb/images/7053.gif)
+![](/Users/idamei/phd/data/csdb/images/7053.gif)
 
 ['CAI33128.1']:
 
-![](../../../../csdb/images/1493.gif)
+![](/Users/idamei/phd/data/csdb/images/1493.gif)
 
 ['CAI33149.1']:
 
-![](../../../../csdb/images/7054.gif)
+![](/Users/idamei/phd/data/csdb/images/7054.gif)
 
 ['CAI33169.1']:
 
-![](../../../../csdb/images/31003.gif)
+![](/Users/idamei/phd/data/csdb/images/31003.gif)
 
 ['CAI33188.1']:
 
-![](../../../../csdb/images/7056.gif)
+![](/Users/idamei/phd/data/csdb/images/7056.gif)
 
 #### Alphafold models:
 
@@ -6466,7 +6464,7 @@ Total number of members in cluster: 8
 
 ['CAI34587.1']:
 
-![](../../../../csdb/images/25004.gif)
+![](/Users/idamei/phd/data/csdb/images/25004.gif)
 
 #### Alphafold models:
 
@@ -6507,11 +6505,11 @@ Total number of members in cluster: 8
 
 ['BAQ00994.1']:
 
-![](../../../../csdb/images/1556.gif)
+![](/Users/idamei/phd/data/csdb/images/1556.gif)
 
 ['AFW04837.1']:
 
-![](../../../../csdb/images/26312.gif)
+![](/Users/idamei/phd/data/csdb/images/26312.gif)
 
 #### Alphafold models:
 
@@ -6557,11 +6555,11 @@ Total number of members in cluster: 8
 
 ['ACA24739.1']:
 
-![](../../../../csdb/images/1585.gif)
+![](/Users/idamei/phd/data/csdb/images/1585.gif)
 
 ['AAL27327.1']:
 
-![](../../../../csdb/images/1422.gif)
+![](/Users/idamei/phd/data/csdb/images/1422.gif)
 
 #### Alphafold models:
 
@@ -6608,7 +6606,7 @@ Total number of members in cluster: 8
 
 ['AAK64372.1']:
 
-![](../../../../csdb/images/1843.gif)
+![](/Users/idamei/phd/data/csdb/images/1843.gif)
 
 #### Alphafold models:
 
@@ -6695,7 +6693,7 @@ Total number of members in cluster: 8
 
 ['BAQ01563.1']:
 
-![](../../../../csdb/images/1856.gif)
+![](/Users/idamei/phd/data/csdb/images/1856.gif)
 
 #### Alphafold models:
 
@@ -6739,11 +6737,11 @@ Total number of members in cluster: 8
 
 ['ACD37014.1']:
 
-![](../../../../csdb/images/1852.gif)
+![](/Users/idamei/phd/data/csdb/images/1852.gif)
 
 ['ACD37006.1']:
 
-![](../../../../csdb/images/1869.gif)
+![](/Users/idamei/phd/data/csdb/images/1869.gif)
 
 #### Alphafold models:
 
@@ -6789,11 +6787,11 @@ Total number of members in cluster: 8
 
 ['AHB32586.1']:
 
-![](../../../../csdb/images/491.gif)
+![](/Users/idamei/phd/data/csdb/images/491.gif)
 
 ['BAQ01516.1']:
 
-![](../../../../csdb/images/25389.gif)
+![](/Users/idamei/phd/data/csdb/images/25389.gif)
 
 #### Alphafold models:
 
@@ -6914,11 +6912,11 @@ Total number of members in cluster: 7
 
 ['ACD37117.1']:
 
-![](../../../../csdb/images/1547.gif)
+![](/Users/idamei/phd/data/csdb/images/1547.gif)
 
 ['ACD37111.1']:
 
-![](../../../../csdb/images/713.gif)
+![](/Users/idamei/phd/data/csdb/images/713.gif)
 
 #### Alphafold models:
 
@@ -6965,7 +6963,7 @@ Total number of members in cluster: 7
 
 ['ABI98976.1']:
 
-![](../../../../csdb/images/1883.gif)
+![](/Users/idamei/phd/data/csdb/images/1883.gif)
 
 #### Alphafold models:
 
@@ -7010,7 +7008,7 @@ Total number of members in cluster: 7
 
 ['AFE83402.1', 'WP_001300154.1']:
 
-![](../../../../csdb/images/616.gif)
+![](/Users/idamei/phd/data/csdb/images/616.gif)
 
 #### Alphafold models:
 
@@ -7133,11 +7131,11 @@ Total number of members in cluster: 7
 
 ['ACD75809.1']:
 
-![](../../../../csdb/images/1500.gif)
+![](/Users/idamei/phd/data/csdb/images/1500.gif)
 
 ['BAQ01012.1']:
 
-![](../../../../csdb/images/1557.gif)
+![](/Users/idamei/phd/data/csdb/images/1557.gif)
 
 #### Alphafold models:
 
@@ -7178,15 +7176,15 @@ Total number of members in cluster: 7
 
 ['ACD37058.1']:
 
-![](../../../../csdb/images/1540.gif)
+![](/Users/idamei/phd/data/csdb/images/1540.gif)
 
 ['BAQ01277.1']:
 
-![](../../../../csdb/images/1589.gif)
+![](/Users/idamei/phd/data/csdb/images/1589.gif)
 
 ['ACD37051.1']:
 
-![](../../../../csdb/images/3977.gif)
+![](/Users/idamei/phd/data/csdb/images/3977.gif)
 
 #### Alphafold models:
 
@@ -7226,11 +7224,11 @@ Total number of members in cluster: 7
 
 ['ABB29906.1']:
 
-![](../../../../csdb/images/8411.gif)
+![](/Users/idamei/phd/data/csdb/images/8411.gif)
 
 ['ABB29916.1']:
 
-![](../../../../csdb/images/8382.gif)
+![](/Users/idamei/phd/data/csdb/images/8382.gif)
 
 #### Alphafold models:
 
@@ -7308,7 +7306,7 @@ Total number of members in cluster: 7
 
 ['BAQ00569.1']:
 
-![](../../../../csdb/images/3191.gif)
+![](/Users/idamei/phd/data/csdb/images/3191.gif)
 
 #### Alphafold models:
 
@@ -7353,7 +7351,7 @@ Total number of members in cluster: 7
 
 ['BAQ01960.1']:
 
-![](../../../../csdb/images/1921.gif)
+![](/Users/idamei/phd/data/csdb/images/1921.gif)
 
 #### Alphafold models:
 
@@ -7469,7 +7467,7 @@ Total number of members in cluster: 7
 
 ['ABZ79721.1', 'ABB65530.1']:
 
-![](../../../../csdb/images/1560.gif)
+![](/Users/idamei/phd/data/csdb/images/1560.gif)
 
 #### Alphafold models:
 
@@ -7549,11 +7547,11 @@ Total number of members in cluster: 7
 
 ['AJE24464.1']:
 
-![](../../../../csdb/images/1894.gif)
+![](/Users/idamei/phd/data/csdb/images/1894.gif)
 
 ['AFW04790.1']:
 
-![](../../../../csdb/images/3364.gif)
+![](/Users/idamei/phd/data/csdb/images/3364.gif)
 
 #### Alphafold models:
 
@@ -7598,7 +7596,7 @@ Total number of members in cluster: 7
 
 ['BAQ02116.1']:
 
-![](../../../../csdb/images/1561.gif)
+![](/Users/idamei/phd/data/csdb/images/1561.gif)
 
 #### Alphafold models:
 
@@ -7673,7 +7671,7 @@ Total number of members in cluster: 7
 
 ['AAY28249.1']:
 
-![](../../../../csdb/images/30040.gif)
+![](/Users/idamei/phd/data/csdb/images/30040.gif)
 
 #### Alphafold models:
 
@@ -7716,7 +7714,7 @@ Total number of members in cluster: 7
 
 ['BAQ01218.1']:
 
-![](../../../../csdb/images/1582.gif)
+![](/Users/idamei/phd/data/csdb/images/1582.gif)
 
 #### Alphafold models:
 
@@ -7758,11 +7756,11 @@ Total number of members in cluster: 7
 
 ['ABF01010.1']:
 
-![](../../../../csdb/images/1537.gif)
+![](/Users/idamei/phd/data/csdb/images/1537.gif)
 
 ['ACK44379.1']:
 
-![](../../../../csdb/images/1549.gif)
+![](/Users/idamei/phd/data/csdb/images/1549.gif)
 
 #### Alphafold models:
 
@@ -7808,15 +7806,15 @@ Total number of members in cluster: 7
 
 ['CAI33324.1']:
 
-![](../../../../csdb/images/5348.gif)
+![](/Users/idamei/phd/data/csdb/images/5348.gif)
 
 ['CAI33366.1']:
 
-![](../../../../csdb/images/1957.gif)
+![](/Users/idamei/phd/data/csdb/images/1957.gif)
 
 ['CAI33389.1']:
 
-![](../../../../csdb/images/2251.gif)
+![](/Users/idamei/phd/data/csdb/images/2251.gif)
 
 #### Alphafold models:
 
@@ -7858,7 +7856,7 @@ Total number of members in cluster: 6
 
 ['BAQ01456.1']:
 
-![](../../../../csdb/images/1838.gif)
+![](/Users/idamei/phd/data/csdb/images/1838.gif)
 
 #### Alphafold models:
 
@@ -7901,11 +7899,11 @@ Total number of members in cluster: 6
 
 ['AAT28922.1']:
 
-![](../../../../csdb/images/1914.gif)
+![](/Users/idamei/phd/data/csdb/images/1914.gif)
 
 ['AAR24270.1']:
 
-![](../../../../csdb/images/1405.gif)
+![](/Users/idamei/phd/data/csdb/images/1405.gif)
 
 #### Alphafold models:
 
@@ -7947,7 +7945,7 @@ Total number of members in cluster: 6
 
 ['BAQ02015.1']:
 
-![](../../../../csdb/images/1924.gif)
+![](/Users/idamei/phd/data/csdb/images/1924.gif)
 
 #### Alphafold models:
 
@@ -8028,11 +8026,11 @@ Total number of members in cluster: 6
 
 ['AQU71788.1']:
 
-![](../../../../csdb/images/1500.gif)
+![](/Users/idamei/phd/data/csdb/images/1500.gif)
 
 ['AFW04860.1']:
 
-![](../../../../csdb/images/3360.gif)
+![](/Users/idamei/phd/data/csdb/images/3360.gif)
 
 #### Alphafold models:
 
@@ -8108,7 +8106,7 @@ Total number of members in cluster: 6
 
 ['ACA24829.1', 'AAS98031.1']:
 
-![](../../../../csdb/images/1844.gif)
+![](/Users/idamei/phd/data/csdb/images/1844.gif)
 
 #### Alphafold models:
 
@@ -8153,15 +8151,15 @@ Total number of members in cluster: 6
 
 ['BAQ01860.1']:
 
-![](../../../../csdb/images/1911.gif)
+![](/Users/idamei/phd/data/csdb/images/1911.gif)
 
 ['BAL03056.1']:
 
-![](../../../../csdb/images/1925.gif)
+![](/Users/idamei/phd/data/csdb/images/1925.gif)
 
 ['AAL27339.1']:
 
-![](../../../../csdb/images/712.gif)
+![](/Users/idamei/phd/data/csdb/images/712.gif)
 
 #### Alphafold models:
 
@@ -8202,7 +8200,7 @@ Total number of members in cluster: 6
 
 ['BAQ00634.1']:
 
-![](../../../../csdb/images/1514.gif)
+![](/Users/idamei/phd/data/csdb/images/1514.gif)
 
 #### Alphafold models:
 
@@ -8242,7 +8240,7 @@ Total number of members in cluster: 6
 
 ['BAQ01293.1']:
 
-![](../../../../csdb/images/1590.gif)
+![](/Users/idamei/phd/data/csdb/images/1590.gif)
 
 #### Alphafold models:
 
@@ -8282,7 +8280,7 @@ Total number of members in cluster: 6
 
 ['ADJ19217.1']:
 
-![](../../../../csdb/images/1568.gif)
+![](/Users/idamei/phd/data/csdb/images/1568.gif)
 
 #### Alphafold models:
 
@@ -8328,11 +8326,11 @@ Total number of members in cluster: 6
 
 ['ACD37086.1']:
 
-![](../../../../csdb/images/705.gif)
+![](/Users/idamei/phd/data/csdb/images/705.gif)
 
 ['ACD37078.1']:
 
-![](../../../../csdb/images/1851.gif)
+![](/Users/idamei/phd/data/csdb/images/1851.gif)
 
 #### Alphafold models:
 
@@ -8373,7 +8371,7 @@ Total number of members in cluster: 6
 
 ['ADV17650.1']:
 
-![](../../../../csdb/images/1513.gif)
+![](/Users/idamei/phd/data/csdb/images/1513.gif)
 
 #### Alphafold models:
 
@@ -8415,7 +8413,7 @@ Total number of members in cluster: 6
 
 ['AAD50486.1']:
 
-![](../../../../csdb/images/1853.gif)
+![](/Users/idamei/phd/data/csdb/images/1853.gif)
 
 #### Alphafold models:
 
@@ -8493,7 +8491,7 @@ Total number of members in cluster: 6
 
 ['ADB02825.1']:
 
-![](../../../../csdb/images/1859.gif)
+![](/Users/idamei/phd/data/csdb/images/1859.gif)
 
 #### Alphafold models:
 
@@ -8618,7 +8616,7 @@ Total number of members in cluster: 6
 
 ['AAD44158.1', 'BAH24292.1']:
 
-![](../../../../csdb/images/1385.gif)
+![](/Users/idamei/phd/data/csdb/images/1385.gif)
 
 #### Alphafold models:
 
@@ -8660,7 +8658,7 @@ Total number of members in cluster: 6
 
 ['BAQ00736.1']:
 
-![](../../../../csdb/images/1530.gif)
+![](/Users/idamei/phd/data/csdb/images/1530.gif)
 
 #### Alphafold models:
 
@@ -8703,7 +8701,7 @@ Total number of members in cluster: 6
 
 ['BAQ01266.1']:
 
-![](../../../../csdb/images/1588.gif)
+![](/Users/idamei/phd/data/csdb/images/1588.gif)
 
 #### Alphafold models:
 
@@ -8745,7 +8743,7 @@ Total number of members in cluster: 6
 
 ['BAQ01917.1']:
 
-![](../../../../csdb/images/1917.gif)
+![](/Users/idamei/phd/data/csdb/images/1917.gif)
 
 #### Alphafold models:
 
@@ -8789,11 +8787,11 @@ Total number of members in cluster: 6
 
 ['BAQ00957.1']:
 
-![](../../../../csdb/images/1554.gif)
+![](/Users/idamei/phd/data/csdb/images/1554.gif)
 
 ['BAQ01687.1']:
 
-![](../../../../csdb/images/1876.gif)
+![](/Users/idamei/phd/data/csdb/images/1876.gif)
 
 #### Alphafold models:
 
@@ -8834,7 +8832,7 @@ Total number of members in cluster: 6
 
 ['ABI34565.1']:
 
-![](../../../../csdb/images/1530.gif)
+![](/Users/idamei/phd/data/csdb/images/1530.gif)
 
 #### Alphafold models:
 
@@ -8877,7 +8875,7 @@ Total number of members in cluster: 6
 
 ['BAQ01894.1']:
 
-![](../../../../csdb/images/1913.gif)
+![](/Users/idamei/phd/data/csdb/images/1913.gif)
 
 #### Alphafold models:
 
@@ -8919,7 +8917,7 @@ Total number of members in cluster: 6
 
 ['AHB32334.1']:
 
-![](../../../../csdb/images/483.gif)
+![](/Users/idamei/phd/data/csdb/images/483.gif)
 
 #### Alphafold models:
 
@@ -8959,7 +8957,7 @@ Total number of members in cluster: 6
 
 ['AAZ20761.1']:
 
-![](../../../../csdb/images/1573.gif)
+![](/Users/idamei/phd/data/csdb/images/1573.gif)
 
 #### Alphafold models:
 
@@ -9080,7 +9078,7 @@ Total number of members in cluster: 6
 
 ['ADC54974.1']:
 
-![](../../../../csdb/images/1591.gif)
+![](/Users/idamei/phd/data/csdb/images/1591.gif)
 
 #### Alphafold models:
 
@@ -9121,15 +9119,15 @@ Total number of members in cluster: 5
 
 ['AKA20981.1']:
 
-![](../../../../csdb/images/12125.gif)
+![](/Users/idamei/phd/data/csdb/images/12125.gif)
 
 ['AKA20999.1']:
 
-![](../../../../csdb/images/12126.gif)
+![](/Users/idamei/phd/data/csdb/images/12126.gif)
 
 ['CAX18360.1']:
 
-![](../../../../csdb/images/12127.gif)
+![](/Users/idamei/phd/data/csdb/images/12127.gif)
 
 #### Alphafold models:
 
@@ -9174,7 +9172,7 @@ Total number of members in cluster: 5
 
 ['BAQ01641.1']:
 
-![](../../../../csdb/images/1873.gif)
+![](/Users/idamei/phd/data/csdb/images/1873.gif)
 
 #### Alphafold models:
 
@@ -9254,7 +9252,7 @@ Total number of members in cluster: 5
 
 ['BAQ01207.1']:
 
-![](../../../../csdb/images/1580.gif)
+![](/Users/idamei/phd/data/csdb/images/1580.gif)
 
 #### Alphafold models:
 
@@ -9337,7 +9335,7 @@ Total number of members in cluster: 5
 
 ['CAI33466.1']:
 
-![](../../../../csdb/images/1062.gif)
+![](/Users/idamei/phd/data/csdb/images/1062.gif)
 
 #### Alphafold models:
 
@@ -9420,11 +9418,11 @@ Total number of members in cluster: 5
 
 ['CAI32889.1']:
 
-![](../../../../csdb/images/7041.gif)
+![](/Users/idamei/phd/data/csdb/images/7041.gif)
 
 ['CAI32910.1']:
 
-![](../../../../csdb/images/7042.gif)
+![](/Users/idamei/phd/data/csdb/images/7042.gif)
 
 #### Alphafold models:
 
@@ -9499,7 +9497,7 @@ Total number of members in cluster: 5
 
 ['CAI32727.1']:
 
-![](../../../../csdb/images/1944.gif)
+![](/Users/idamei/phd/data/csdb/images/1944.gif)
 
 #### Alphafold models:
 
@@ -9715,7 +9713,7 @@ Total number of members in cluster: 5
 
 ['BAQ01999.1']:
 
-![](../../../../csdb/images/1923.gif)
+![](/Users/idamei/phd/data/csdb/images/1923.gif)
 
 #### Alphafold models:
 
@@ -9790,7 +9788,7 @@ Total number of members in cluster: 5
 
 ['ACA24912.1']:
 
-![](../../../../csdb/images/23812.gif)
+![](/Users/idamei/phd/data/csdb/images/23812.gif)
 
 #### Alphafold models:
 
@@ -9831,7 +9829,7 @@ Total number of members in cluster: 5
 
 ['ABE98419.1', 'ADN43845.1']:
 
-![](../../../../csdb/images/1865.gif)
+![](/Users/idamei/phd/data/csdb/images/1865.gif)
 
 #### Alphafold models:
 
@@ -9871,7 +9869,7 @@ Total number of members in cluster: 5
 
 ['CAI33441.1']:
 
-![](../../../../csdb/images/1490.gif)
+![](/Users/idamei/phd/data/csdb/images/1490.gif)
 
 #### Alphafold models:
 
@@ -9909,7 +9907,7 @@ Total number of members in cluster: 5
 
 ['ACD37126.1']:
 
-![](../../../../csdb/images/3982.gif)
+![](/Users/idamei/phd/data/csdb/images/3982.gif)
 
 #### Alphafold models:
 
@@ -9950,7 +9948,7 @@ Total number of members in cluster: 5
 
 ['BAQ00780.1']:
 
-![](../../../../csdb/images/1539.gif)
+![](/Users/idamei/phd/data/csdb/images/1539.gif)
 
 #### Alphafold models:
 
@@ -9996,11 +9994,11 @@ Total number of members in cluster: 5
 
 ['ACH97132.1']:
 
-![](../../../../csdb/images/1846.gif)
+![](/Users/idamei/phd/data/csdb/images/1846.gif)
 
 ['ACH97143.1', 'ABE98413.1']:
 
-![](../../../../csdb/images/1857.gif)
+![](/Users/idamei/phd/data/csdb/images/1857.gif)
 
 #### Alphafold models:
 
@@ -10073,7 +10071,7 @@ Total number of members in cluster: 5
 
 ['AAT77177.1']:
 
-![](../../../../csdb/images/1854.gif)
+![](/Users/idamei/phd/data/csdb/images/1854.gif)
 
 #### Alphafold models:
 
@@ -10233,7 +10231,7 @@ Total number of members in cluster: 4
 
 ['CAN87666.1']:
 
-![](../../../../csdb/images/1552.gif)
+![](/Users/idamei/phd/data/csdb/images/1552.gif)
 
 #### Alphafold models:
 
@@ -10311,7 +10309,7 @@ Total number of members in cluster: 4
 
 ['BAQ00893.1']:
 
-![](../../../../csdb/images/1548.gif)
+![](/Users/idamei/phd/data/csdb/images/1548.gif)
 
 #### Alphafold models:
 
@@ -10355,7 +10353,7 @@ Total number of members in cluster: 4
 
 ['CAI34641.1']:
 
-![](../../../../csdb/images/25006.gif)
+![](/Users/idamei/phd/data/csdb/images/25006.gif)
 
 #### Alphafold models:
 
@@ -10393,7 +10391,7 @@ Total number of members in cluster: 4
 
 ['BAQ01793.1']:
 
-![](../../../../csdb/images/1897.gif)
+![](/Users/idamei/phd/data/csdb/images/1897.gif)
 
 #### Alphafold models:
 
@@ -10473,11 +10471,11 @@ Total number of members in cluster: 4
 
 ['ADI59429.1']:
 
-![](../../../../csdb/images/12131.gif)
+![](/Users/idamei/phd/data/csdb/images/12131.gif)
 
 ['ADI59445.1']:
 
-![](../../../../csdb/images/12132.gif)
+![](/Users/idamei/phd/data/csdb/images/12132.gif)
 
 #### Alphafold models:
 
@@ -10553,11 +10551,11 @@ Total number of members in cluster: 4
 
 ['ACD36996.1']:
 
-![](../../../../csdb/images/1910.gif)
+![](/Users/idamei/phd/data/csdb/images/1910.gif)
 
 ['ACD36984.1']:
 
-![](../../../../csdb/images/1937.gif)
+![](/Users/idamei/phd/data/csdb/images/1937.gif)
 
 #### Alphafold models:
 
@@ -10667,7 +10665,7 @@ Total number of members in cluster: 4
 
 ['ADI77033.1']:
 
-![](../../../../csdb/images/1577.gif)
+![](/Users/idamei/phd/data/csdb/images/1577.gif)
 
 #### Alphafold models:
 
@@ -10747,7 +10745,7 @@ Total number of members in cluster: 4
 
 ['ADN43838.1']:
 
-![](../../../../csdb/images/1855.gif)
+![](/Users/idamei/phd/data/csdb/images/1855.gif)
 
 #### Alphafold models:
 
@@ -10787,7 +10785,7 @@ Total number of members in cluster: 4
 
 ['ABA42232.1']:
 
-![](../../../../csdb/images/1889.gif)
+![](/Users/idamei/phd/data/csdb/images/1889.gif)
 
 #### Alphafold models:
 
@@ -10827,7 +10825,7 @@ Total number of members in cluster: 4
 
 ['BAQ00830.1']:
 
-![](../../../../csdb/images/1543.gif)
+![](/Users/idamei/phd/data/csdb/images/1543.gif)
 
 #### Alphafold models:
 
@@ -10898,7 +10896,7 @@ Total number of members in cluster: 4
 
 ['BAQ01584.1']:
 
-![](../../../../csdb/images/1860.gif)
+![](/Users/idamei/phd/data/csdb/images/1860.gif)
 
 #### Alphafold models:
 
@@ -10936,7 +10934,7 @@ Total number of members in cluster: 4
 
 ['AAM27879.1']:
 
-![](../../../../csdb/images/24037.gif)
+![](/Users/idamei/phd/data/csdb/images/24037.gif)
 
 #### Alphafold models:
 
@@ -10974,7 +10972,7 @@ Total number of members in cluster: 4
 
 ['AAZ85718.1']:
 
-![](../../../../csdb/images/1881.gif)
+![](/Users/idamei/phd/data/csdb/images/1881.gif)
 
 #### Alphafold models:
 
@@ -11014,7 +11012,7 @@ Total number of members in cluster: 4
 
 ['AAN60459.1']:
 
-![](../../../../csdb/images/1534.gif)
+![](/Users/idamei/phd/data/csdb/images/1534.gif)
 
 #### Alphafold models:
 
@@ -11087,7 +11085,7 @@ Total number of members in cluster: 4
 
 ['BAQ00653.1']:
 
-![](../../../../csdb/images/1517.gif)
+![](/Users/idamei/phd/data/csdb/images/1517.gif)
 
 #### Alphafold models:
 
@@ -11237,7 +11235,7 @@ Total number of members in cluster: 4
 
 ['BAQ02048.1']:
 
-![](../../../../csdb/images/1929.gif)
+![](/Users/idamei/phd/data/csdb/images/1929.gif)
 
 #### Alphafold models:
 
@@ -11313,7 +11311,7 @@ Total number of members in cluster: 4
 
 ['BAQ01419.1']:
 
-![](../../../../csdb/images/1600.gif)
+![](/Users/idamei/phd/data/csdb/images/1600.gif)
 
 #### Alphafold models:
 
@@ -11389,7 +11387,7 @@ Total number of members in cluster: 4
 
 ['ACD37046.1', 'ACD37037.1']:
 
-![](../../../../csdb/images/1909.gif)
+![](/Users/idamei/phd/data/csdb/images/1909.gif)
 
 #### Alphafold models:
 
@@ -11464,7 +11462,7 @@ Total number of members in cluster: 3
 
 ['ABD19779.1']:
 
-![](../../../../csdb/images/3660.gif)
+![](/Users/idamei/phd/data/csdb/images/3660.gif)
 
 #### Alphafold models:
 
@@ -11505,7 +11503,7 @@ Total number of members in cluster: 3
 
 ['BAQ01702.1']:
 
-![](../../../../csdb/images/1878.gif)
+![](/Users/idamei/phd/data/csdb/images/1878.gif)
 
 #### Alphafold models:
 
@@ -11546,7 +11544,7 @@ Total number of members in cluster: 3
 
 ['BAQ01155.1']:
 
-![](../../../../csdb/images/1574.gif)
+![](/Users/idamei/phd/data/csdb/images/1574.gif)
 
 #### Alphafold models:
 
@@ -11694,7 +11692,7 @@ Total number of members in cluster: 3
 
 ['BAQ01137.1']:
 
-![](../../../../csdb/images/1572.gif)
+![](/Users/idamei/phd/data/csdb/images/1572.gif)
 
 #### Alphafold models:
 
@@ -11769,7 +11767,7 @@ Total number of members in cluster: 3
 
 ['BAQ01878.1']:
 
-![](../../../../csdb/images/1407.gif)
+![](/Users/idamei/phd/data/csdb/images/1407.gif)
 
 #### Alphafold models:
 
@@ -11810,7 +11808,7 @@ Total number of members in cluster: 3
 
 ['ACA24901.1']:
 
-![](../../../../csdb/images/1594.gif)
+![](/Users/idamei/phd/data/csdb/images/1594.gif)
 
 #### Alphafold models:
 
@@ -11850,7 +11848,7 @@ Total number of members in cluster: 3
 
 ['AFW04847.1']:
 
-![](../../../../csdb/images/3362.gif)
+![](/Users/idamei/phd/data/csdb/images/3362.gif)
 
 #### Alphafold models:
 
@@ -11960,7 +11958,7 @@ Total number of members in cluster: 3
 
 ['ADN43858.1']:
 
-![](../../../../csdb/images/1879.gif)
+![](/Users/idamei/phd/data/csdb/images/1879.gif)
 
 #### Alphafold models:
 
@@ -12034,7 +12032,7 @@ Total number of members in cluster: 3
 
 ['BAQ01169.1']:
 
-![](../../../../csdb/images/1575.gif)
+![](/Users/idamei/phd/data/csdb/images/1575.gif)
 
 #### Alphafold models:
 
@@ -12109,7 +12107,7 @@ Total number of members in cluster: 3
 
 ['ACD37072.1']:
 
-![](../../../../csdb/images/3984.gif)
+![](/Users/idamei/phd/data/csdb/images/3984.gif)
 
 #### Alphafold models:
 
@@ -12148,7 +12146,7 @@ Total number of members in cluster: 3
 
 ['BAQ00758.1']:
 
-![](../../../../csdb/images/736.gif)
+![](/Users/idamei/phd/data/csdb/images/736.gif)
 
 #### Alphafold models:
 
@@ -12223,7 +12221,7 @@ Total number of members in cluster: 3
 
 ['ADN43871.1']:
 
-![](../../../../csdb/images/1287.gif)
+![](/Users/idamei/phd/data/csdb/images/1287.gif)
 
 #### Alphafold models:
 
@@ -12296,7 +12294,7 @@ Total number of members in cluster: 3
 
 ['BAQ00927.1']:
 
-![](../../../../csdb/images/1381.gif)
+![](/Users/idamei/phd/data/csdb/images/1381.gif)
 
 #### Alphafold models:
 
@@ -12335,11 +12333,11 @@ Total number of members in cluster: 3
 
 ['CAI34498.1']:
 
-![](../../../../csdb/images/25001.gif)
+![](/Users/idamei/phd/data/csdb/images/25001.gif)
 
 ['CAI34475.1']:
 
-![](../../../../csdb/images/25002.gif)
+![](/Users/idamei/phd/data/csdb/images/25002.gif)
 
 #### Alphafold models:
 
@@ -12379,7 +12377,7 @@ Total number of members in cluster: 3
 
 ['CAI32797.1']:
 
-![](../../../../csdb/images/1947.gif)
+![](/Users/idamei/phd/data/csdb/images/1947.gif)
 
 #### Alphafold models:
 
@@ -12452,7 +12450,7 @@ Total number of members in cluster: 3
 
 ['BAQ02088.1']:
 
-![](../../../../csdb/images/1934.gif)
+![](/Users/idamei/phd/data/csdb/images/1934.gif)
 
 #### Alphafold models:
 
@@ -12562,7 +12560,7 @@ Total number of members in cluster: 3
 
 ['AAY28257.1']:
 
-![](../../../../csdb/images/1919.gif)
+![](/Users/idamei/phd/data/csdb/images/1919.gif)
 
 #### Alphafold models:
 
@@ -12601,7 +12599,7 @@ Total number of members in cluster: 3
 
 ['CAI34099.1']:
 
-![](../../../../csdb/images/7087.gif)
+![](/Users/idamei/phd/data/csdb/images/7087.gif)
 
 #### Alphafold models:
 
@@ -12707,7 +12705,7 @@ Total number of members in cluster: 3
 
 ['AEP25500.1']:
 
-![](../../../../csdb/images/12139.gif)
+![](/Users/idamei/phd/data/csdb/images/12139.gif)
 
 #### Alphafold models:
 
@@ -12952,7 +12950,7 @@ Total number of members in cluster: 2
 
 ['ADX97403.1']:
 
-![](../../../../csdb/images/12137.gif)
+![](/Users/idamei/phd/data/csdb/images/12137.gif)
 
 #### Alphafold models:
 
@@ -13060,7 +13058,7 @@ Total number of members in cluster: 2
 
 ['WP_016238111.1']:
 
-![](../../../../csdb/images/1587.gif)
+![](/Users/idamei/phd/data/csdb/images/1587.gif)
 
 #### Alphafold models:
 
@@ -13136,7 +13134,7 @@ Total number of members in cluster: 2
 
 ['AAL27351.1']:
 
-![](../../../../csdb/images/3986.gif)
+![](/Users/idamei/phd/data/csdb/images/3986.gif)
 
 #### Alphafold models:
 
@@ -13277,7 +13275,7 @@ Total number of members in cluster: 2
 
 ['BAQ01812.1']:
 
-![](../../../../csdb/images/1901.gif)
+![](/Users/idamei/phd/data/csdb/images/1901.gif)
 
 #### Alphafold models:
 
@@ -13414,7 +13412,7 @@ Total number of members in cluster: 2
 
 ['AIG62747.1']:
 
-![](../../../../csdb/images/1920.gif)
+![](/Users/idamei/phd/data/csdb/images/1920.gif)
 
 #### Alphafold models:
 
@@ -13487,7 +13485,7 @@ Total number of members in cluster: 2
 
 ['BAQ01114.1']:
 
-![](../../../../csdb/images/1571.gif)
+![](/Users/idamei/phd/data/csdb/images/1571.gif)
 
 #### Alphafold models:
 
@@ -13591,7 +13589,7 @@ Total number of members in cluster: 2
 
 ['ADJ19203.1']:
 
-![](../../../../csdb/images/1902.gif)
+![](/Users/idamei/phd/data/csdb/images/1902.gif)
 
 #### Alphafold models:
 
@@ -13833,7 +13831,7 @@ Total number of members in cluster: 2
 
 ['AHB32242.2']:
 
-![](../../../../csdb/images/487.gif)
+![](/Users/idamei/phd/data/csdb/images/487.gif)
 
 #### Alphafold models:
 
@@ -13906,7 +13904,7 @@ Total number of members in cluster: 2
 
 ['ACH97152.1']:
 
-![](../../../../csdb/images/1501.gif)
+![](/Users/idamei/phd/data/csdb/images/1501.gif)
 
 #### Alphafold models:
 
@@ -13977,7 +13975,7 @@ Total number of members in cluster: 2
 
 ['BAQ01780.1']:
 
-![](../../../../csdb/images/696.gif)
+![](/Users/idamei/phd/data/csdb/images/696.gif)
 
 #### Alphafold models:
 
@@ -14119,7 +14117,7 @@ Total number of members in cluster: 2
 
 ['BAQ01659.1']:
 
-![](../../../../csdb/images/1874.gif)
+![](/Users/idamei/phd/data/csdb/images/1874.gif)
 
 #### Alphafold models:
 
@@ -14465,7 +14463,7 @@ Total number of members in cluster: 2
 
 ['ACA24890.1']:
 
-![](../../../../csdb/images/1900.gif)
+![](/Users/idamei/phd/data/csdb/images/1900.gif)
 
 #### Alphafold models:
 
@@ -14603,7 +14601,7 @@ Total number of members in cluster: 2
 
 ['CAI32957.1']:
 
-![](../../../../csdb/images/938.gif)
+![](/Users/idamei/phd/data/csdb/images/938.gif)
 
 #### Alphafold models:
 
@@ -14676,7 +14674,7 @@ Total number of members in cluster: 2
 
 ['ADN43883.1']:
 
-![](../../../../csdb/images/1907.gif)
+![](/Users/idamei/phd/data/csdb/images/1907.gif)
 
 #### Alphafold models:
 

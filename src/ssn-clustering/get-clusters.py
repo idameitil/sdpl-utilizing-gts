@@ -6,7 +6,7 @@ sys.path.append("/Users/idamei/garryg/bioP/lib")
 
 timestamp = sys.argv[1]
 expansion_threshold = 10**-30
-ssn_threshold = 200
+ssn_threshold = 250
 cdhit_threshold = 99
 min_length_filter = 320
 max_length_filter = 600
@@ -17,7 +17,7 @@ def write_metadata():
     """
     outfile = open(f"{outdir}/metadata.txt", "w")
     outfile.write(f"CD-HIT threshold: {cdhit_threshold}%\n")
-    outfile.write(f"Length filter: min {min_length_filter}, max {max_length_filter}")
+    outfile.write(f"Length filter: min {min_length_filter}, max {max_length_filter}\n")
     outfile.write(f"Expansion threshold: e-value {expansion_threshold}\n")
     outfile.write(f"SSN threshold: score {ssn_threshold}\n")
     outfile.close()

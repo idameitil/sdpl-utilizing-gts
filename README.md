@@ -7,17 +7,17 @@ Manually curated Wzys from papers are added to `data/selected-wzys.tsv`.
 The DNA records for the Wzys were downloaded manually using NCBI batch entry (https://www.ncbi.nlm.nih.gov/sites/batchentrez). They are stored in `data/selected_OAGCs.gb` (Some are O-antigen gene clusters, some are whole genome sequences). This file is too big to store in GitHub, and is just stored locally.
 
 ### Enriching Wzy table with sugars and taxonomy
-To enrich the selected wzys with csdb sugars and taxonomy run `src/data-collection-and-preprocessing/enrich-wzys.py`
+To enrich the selected wzys with csdb sugars and taxonomy run `python3 src/data-collection-and-preprocessing/enrich-wzys.py`
 
 This will create the file `data/wzy/wzy.tsv`
 
 ### Retrieving Wzxs and Wzzs
-To retrieve the Wzx and Wzz entries run `src/data-collection-and-preprocessing/retrieve-wzx-and-wzz.py`
+To retrieve the Wzx and Wzz entries run `python3 src/data-collection-and-preprocessing/retrieve-wzx-and-wzz.py`
 
 This will create the files `data/wzx.tsv` and `data/wzz.tsv`
 
 ### Making fasta files
-To generate fasta files run `src/data-collection-and-preprocessing/make-fastas`
+To generate fasta files run `python3 src/data-collection-and-preprocessing/make-fastas`
 
 This will create the files `data/wzx.fasta`, `data/wzy.fasta` and `data/wzz.fasta`
 
@@ -33,7 +33,7 @@ Then run `genscript.py > submit.sh`
 Check the generated folders in `run`and then run `sh submit.sh`
 
 ### Parsing Blast results
-To parse the blast expansion output files run `src/data-collection-and-preprocessing/parse-blast-results.py`
+To parse the blast expansion output files run `python3 src/data-collection-and-preprocessing/parse-blast-results.py`
 
 This will create the file `data/wzy/blast/unique-hits.tsv` which contains a list of the hit accessions and their best e-values.
 
@@ -63,7 +63,7 @@ Then locally run:
 
 
 ### Filtering and redundancy reducing Blast hits
-To filter blast hits by length and perform redundancy reduction with cd-hit run: `src/data-collection-and-preprocessing/filter-blast-hits.py`.
+To filter blast hits by length and perform redundancy reduction with cd-hit run: `python3 src/data-collection-and-preprocessing/filter-blast-hits.py`.
 
 This will create the files `data/wzy/blast/unique-hits-min320max600.fasta` and `data/wzy/blast/unique-hits-min320max600-cdhit99.fasta`.
 
@@ -100,4 +100,4 @@ On the HPC, run `sh /work3/idamei/ssn-clusterings/clustering/[timestamp]/submit.
 
 When all jobs are finished (check with bstat), run locally: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/clustering/[timestamp]/clusters/ data/wzy/ssn-clusterings/clustering/[timestamp]`
 
-To make the markdown report, run `src/ssn-clustering/make-markdown.py [timestamp]`. (push changes to see files)
+To make the markdown report, run `python3 src/ssn-clustering/make-markdown.py [timestamp]`. (push changes to see files)
