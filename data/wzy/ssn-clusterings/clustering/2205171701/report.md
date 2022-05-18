@@ -40,6 +40,107 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 521
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |     482 |
+| Pasteurellales   |      45 |
+| Burkholderiales  |       2 |
+| Pseudomonadales  |       1 |
+
+|                     |   family |
+|:--------------------|---------:|
+| Enterobacteriaceae  |      224 |
+| Yersiniaceae        |       72 |
+| Morganellaceae      |       64 |
+| Pectobacteriaceae   |       55 |
+| Erwiniaceae         |       52 |
+| Pasteurellaceae     |       45 |
+| Hafniaceae          |        9 |
+| Budviciaceae        |        3 |
+| Bruguierivoracaceae |        2 |
+| Burkholderiaceae    |        2 |
+| Pseudomonadaceae    |        1 |
+
+|                                 |   genus |
+|:--------------------------------|--------:|
+| Enterobacter                    |      45 |
+| Serratia                        |      32 |
+| Escherichia                     |      30 |
+| Salmonella                      |      29 |
+| Pantoea                         |      26 |
+| Dickeya                         |      22 |
+| Yersinia                        |      21 |
+| Xenorhabdus                     |      20 |
+| Citrobacter                     |      20 |
+| Pectobacterium                  |      19 |
+| Erwinia                         |      16 |
+| Klebsiella                      |      14 |
+| Glaesserella                    |      13 |
+| Providencia                     |      12 |
+| Proteus                         |      12 |
+| Actinobacillus                  |      10 |
+| Cronobacter                     |      10 |
+| Photorhabdus                    |      10 |
+| Kosakonia                       |       9 |
+| Rahnella                        |       9 |
+| Cedecea                         |       7 |
+| Mannheimia                      |       7 |
+| Buttiauxella                    |       6 |
+| Brenneria                       |       6 |
+| Morganella                      |       5 |
+| Lonsdalea                       |       5 |
+| Tatumella                       |       4 |
+| Leclercia                       |       4 |
+| Raoultella                      |       4 |
+| Kluyvera                        |       4 |
+| Arsenophonus                    |       4 |
+| Hafnia                          |       4 |
+| Pseudocitrobacter               |       3 |
+| Bibersteinia                    |       3 |
+| Pluralibacter                   |       3 |
+| Haemophilus                     |       3 |
+| Rouxiella                       |       3 |
+| Edwardsiella                    |       3 |
+| Shigella                        |       3 |
+| Lelliottia                      |       3 |
+| Ursidibacter                    |       2 |
+| Atlantibacter                   |       2 |
+| Candidatus Symbiopectobacterium |       2 |
+| Chimaeribacter                  |       2 |
+| Trabulsiella                    |       2 |
+| Ewingella                       |       2 |
+| Mycoavidus                      |       2 |
+| Sodalis                         |       2 |
+| Franconibacter                  |       2 |
+| Mixta                           |       2 |
+| Mangrovibacter                  |       2 |
+| Izhakiella                      |       2 |
+| Nissabacter                     |       2 |
+| Scandinavium                    |       1 |
+| Samsonia                        |       1 |
+| Siccibacter                     |       1 |
+| Tenebrionibacter                |       1 |
+| Moellerella                     |       1 |
+| Pseudomonas                     |       1 |
+| Muribacter                      |       1 |
+| Budvicia                        |       1 |
+| Candidatus Fukatsuia            |       1 |
+| Enterobacillus                  |       1 |
+| Jinshanibacter                  |       1 |
+| Lonepinella                     |       1 |
+| Affinibrenneria                 |       1 |
+| Musicola                        |       1 |
+| Pragia                          |       1 |
+| Nicoletella                     |       1 |
+| Obesumbacterium                 |       1 |
+| Otariodibacter                  |       1 |
+| Phaseolibacter                  |       1 |
+| Phytobacter                     |       1 |
+| Plesiomonas                     |       1 |
+| Yokenella                       |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0531_3/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0531_3/sequences.malign)
@@ -69,6 +170,140 @@ Seeds in cluster:
 | AHB32799.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O26        |
 
 Number of blast hits in cluster: 132
+
+#### Taxonomy
+
+|                    |   order |
+|:-------------------|--------:|
+| Sphingomonadales   |      23 |
+| Moraxellales       |      21 |
+| Vibrionales        |       8 |
+| Hyphomicrobiales   |       8 |
+| Oceanospirillales  |       7 |
+| Xanthomonadales    |       6 |
+| Campylobacterales  |       6 |
+| Pseudomonadales    |       6 |
+| Burkholderiales    |       5 |
+| Enterobacterales   |       5 |
+| Rhodobacterales    |       3 |
+| Pasteurellales     |       3 |
+| Synechococcales    |       2 |
+| Nitrosomonadales   |       2 |
+| Aeromonadales      |       2 |
+| Flavobacteriales   |       2 |
+| Bacteroidales      |       1 |
+| Nevskiales         |       1 |
+| Mariprofundales    |       1 |
+| Leptospirales      |       1 |
+| Hydrogenophilales  |       1 |
+| Pseudanabaenales   |       1 |
+| Desulfuromonadales |       1 |
+| Rhodocyclales      |       1 |
+| Salinisphaerales   |       1 |
+| Chromatiales       |       1 |
+| Cellvibrionales    |       1 |
+| Thermostichales    |       1 |
+| Caulobacterales    |       1 |
+| Neisseriales       |       1 |
+
+|                        |   family |
+|:-----------------------|---------:|
+| Sphingomonadaceae      |       22 |
+| Moraxellaceae          |       21 |
+| Vibrionaceae           |        8 |
+| Marinobacteraceae      |        5 |
+| Morganellaceae         |        5 |
+| Xanthomonadaceae       |        4 |
+| Sulfurovaceae          |        4 |
+| Phyllobacteriaceae     |        4 |
+| Pasteurellaceae        |        3 |
+| Alcanivoracaceae       |        3 |
+| Methylocystaceae       |        3 |
+| Halomonadaceae         |        3 |
+| Synechococcaceae       |        2 |
+| Roseobacteraceae       |        2 |
+| Rhodanobacteraceae     |        2 |
+| Aeromonadaceae         |        2 |
+| Burkholderiaceae       |        2 |
+| Comamonadaceae         |        2 |
+| Lentimicrobiaceae      |        1 |
+| Caulobacteraceae       |        1 |
+| Arcobacteraceae        |        1 |
+| Thiovulaceae           |        1 |
+| Thermosynechococcaceae |        1 |
+| Thermostichaceae       |        1 |
+| Aurantimonadaceae      |        1 |
+| Azonexaceae            |        1 |
+| Sphingosinicellaceae   |        1 |
+| Sinobacteraceae        |        1 |
+| Salinisphaeraceae      |        1 |
+| Rhodobacteraceae       |        1 |
+| Leptospiraceae         |        1 |
+| Chromobacteriaceae     |        1 |
+| Pseudomonadaceae       |        1 |
+| Crocinitomicaceae      |        1 |
+| Oceanospirillaceae     |        1 |
+| Desulfuromonadaceae    |        1 |
+| Ectothiorhodospiraceae |        1 |
+| Flavobacteriaceae      |        1 |
+| Halieaceae             |        1 |
+| Mariprofundaceae       |        1 |
+| Hydrogenophilaceae     |        1 |
+| Methylophilaceae       |        1 |
+
+|                      |   genus |
+|:---------------------|--------:|
+| Acinetobacter        |      21 |
+| Sphingomonas         |      18 |
+| Vibrio               |       8 |
+| Marinobacter         |       5 |
+| Sulfurovum           |       4 |
+| Actinobacillus       |       3 |
+| Methylosinus         |       3 |
+| Luteimonas           |       3 |
+| Halomonas            |       3 |
+| Proteus              |       3 |
+| Alcanivorax          |       3 |
+| Synechococcus        |       2 |
+| Polynucleobacter     |       2 |
+| Aeromonas            |       2 |
+| Mesorhizobium        |       2 |
+| Sulfurimonas         |       1 |
+| Ramlibacter          |       1 |
+| Rhodanobacter        |       1 |
+| Rhodovulum           |       1 |
+| Rubrivivax           |       1 |
+| Salinisphaera        |       1 |
+| Tianweitania         |       1 |
+| Thermosynechococcus  |       1 |
+| Thermostichus        |       1 |
+| Sphingorhabdus       |       1 |
+| Pseudoxanthomonas    |       1 |
+| Tepidiphilus         |       1 |
+| Spiribacter          |       1 |
+| Sulfitobacter        |       1 |
+| Sphingosinicella     |       1 |
+| Photorhabdus         |       1 |
+| Pseudomonas          |       1 |
+| Poseidonibacter      |       1 |
+| Allosphingosinicella |       1 |
+| Aurantimonas         |       1 |
+| Brevundimonas        |       1 |
+| Capnocytophaga       |       1 |
+| Chromobacterium      |       1 |
+| Dechloromonas        |       1 |
+| Desulfuromonas       |       1 |
+| Dokdonella           |       1 |
+| Fontimonas           |       1 |
+| Haliea               |       1 |
+| Halospina            |       1 |
+| Hoeflea              |       1 |
+| Marinobacterium      |       1 |
+| Mariprofundus        |       1 |
+| Maritimibacter       |       1 |
+| Novosphingopyxis     |       1 |
+| Polaromonas          |       1 |
+| Xenorhabdus          |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0135_31/sequences.afa)
 
@@ -104,6 +339,46 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 127
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Pasteurellales   |     122 |
+| Enterobacterales |       3 |
+| Aeromonadales    |       2 |
+| Vibrionales      |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Pasteurellaceae    |      122 |
+| Aeromonadaceae     |        2 |
+| Enterobacteriaceae |        2 |
+| Morganellaceae     |        1 |
+| Vibrionaceae       |        1 |
+
+|                 |   genus |
+|:----------------|--------:|
+| Haemophilus     |      33 |
+| Aggregatibacter |      20 |
+| Pasteurella     |      20 |
+| Rodentibacter   |      13 |
+| Mannheimia      |       9 |
+| Actinobacillus  |       8 |
+| Glaesserella    |       4 |
+| Ursidibacter    |       3 |
+| Escherichia     |       2 |
+| Aeromonas       |       2 |
+| Bibersteinia    |       2 |
+| Muribacter      |       2 |
+| Avibacterium    |       2 |
+| Bisgaardia      |       1 |
+| Frederiksenia   |       1 |
+| Lonepinella     |       1 |
+| Nicoletella     |       1 |
+| Basfia          |       1 |
+| Photobacterium  |       1 |
+| Providencia     |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0128_32/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0128_32/sequences.malign)
@@ -135,6 +410,20 @@ Seeds in cluster:
 | CAI34369.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |         36 |
 
 Number of blast hits in cluster: 56
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |      57 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |       57 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |      57 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0057_10/sequences.afa)
 
@@ -169,6 +458,41 @@ Seeds in cluster:
 | CAI34657.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 47F        |
 
 Number of blast hits in cluster: 48
+
+#### Taxonomy
+
+|                    |   order |
+|:-------------------|--------:|
+| Lactobacillales    |      34 |
+| Eubacteriales      |      16 |
+| Bacillales         |       3 |
+| Coriobacteriales   |       1 |
+| Erysipelotrichales |       1 |
+
+|                     |   family |
+|:--------------------|---------:|
+| Streptococcaceae    |       34 |
+| Lachnospiraceae     |       11 |
+| Oscillospiraceae    |        3 |
+| Eubacteriaceae      |        2 |
+| Coriobacteriaceae   |        1 |
+| Erysipelotrichaceae |        1 |
+
+|                    |   genus |
+|:-------------------|--------:|
+| Streptococcus      |      34 |
+| Gemella            |       3 |
+| Blautia            |       2 |
+| Bilifractor        |       1 |
+| Coprococcus        |       1 |
+| Dorea              |       1 |
+| Eisenbergiella     |       1 |
+| Enterocloster      |       1 |
+| Eubacterium        |       1 |
+| Parasporobacterium |       1 |
+| Pseudoramibacter   |       1 |
+| Ruminococcus       |       1 |
+| Solobacterium      |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0055_92/sequences.afa)
 
@@ -224,6 +548,65 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 48
 
+#### Taxonomy
+
+|                    |   order |
+|:-------------------|--------:|
+| Burkholderiales    |       8 |
+| Bacillales         |       7 |
+| Sphingobacteriales |       7 |
+| Cytophagales       |       5 |
+| Flavobacteriales   |       5 |
+| Lactobacillales    |       4 |
+| Moraxellales       |       4 |
+| Eubacteriales      |       3 |
+| Bacteroidales      |       1 |
+| Chitinophagales    |       1 |
+| Chlorobiales       |       1 |
+| Methanotrichales   |       1 |
+| Nostocales         |       1 |
+
+|                       |   family |
+|:----------------------|---------:|
+| Burkholderiaceae      |        8 |
+| Sphingobacteriaceae   |        7 |
+| Bacillaceae           |        6 |
+| Flavobacteriaceae     |        5 |
+| Carnobacteriaceae     |        4 |
+| Moraxellaceae         |        4 |
+| Clostridiaceae        |        2 |
+| Cytophagaceae         |        2 |
+| Spirosomaceae         |        2 |
+| Calotrichaceae        |        1 |
+| Chitinophagaceae      |        1 |
+| Chlorobiaceae         |        1 |
+| Methanotrichaceae     |        1 |
+| Peptostreptococcaceae |        1 |
+| Reichenbachiellaceae  |        1 |
+| Sporolactobacillaceae |        1 |
+
+|                    |   genus |
+|:-------------------|--------:|
+| Ralstonia          |       8 |
+| Acinetobacter      |       4 |
+| Flavobacterium     |       4 |
+| Bacillus           |       4 |
+| Mucilaginibacter   |       4 |
+| Carnobacterium     |       3 |
+| Pedobacter         |       3 |
+| Spirosoma          |       2 |
+| Clostridium        |       2 |
+| Fibrella           |       2 |
+| Rossellomorea      |       1 |
+| Romboutsia         |       1 |
+| Reichenbachiella   |       1 |
+| Maribacter         |       1 |
+| Methanothrix       |       1 |
+| Isobaculum         |       1 |
+| Ilyomonas          |       1 |
+| Calothrix          |       1 |
+| Sporolactobacillus |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0049_71/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0049_71/sequences.malign)
@@ -258,6 +641,43 @@ Seeds in cluster:
 | CAI33631.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 19A        |
 
 Number of blast hits in cluster: 45
+
+#### Taxonomy
+
+|                    |   order |
+|:-------------------|--------:|
+| Lactobacillales    |      33 |
+| Eubacteriales      |      13 |
+| Bifidobacteriales  |       1 |
+| Erysipelotrichales |       1 |
+
+|                     |   family |
+|:--------------------|---------:|
+| Streptococcaceae    |       24 |
+| Lachnospiraceae     |        7 |
+| Lactobacillaceae    |        5 |
+| Clostridiaceae      |        3 |
+| Enterococcaceae     |        3 |
+| Bifidobacteriaceae  |        1 |
+| Erysipelotrichaceae |        1 |
+| Oscillospiraceae    |        1 |
+
+|                                 |   genus |
+|:--------------------------------|--------:|
+| Streptococcus                   |      24 |
+| Enterococcus                    |       3 |
+| Limosilactobacillus             |       3 |
+| Butyrivibrio                    |       2 |
+| Clostridium                     |       2 |
+| Anaerostipes                    |       1 |
+| Bifidobacterium                 |       1 |
+| Blautia                         |       1 |
+| Candidatus Avigastranaerophilus |       1 |
+| Coprococcus                     |       1 |
+| Ligilactobacillus               |       1 |
+| Liquorilactobacillus            |       1 |
+| Massilimicrobiota               |       1 |
+| Massilioclostridium             |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0049_20/sequences.afa)
 
@@ -301,6 +721,65 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 47
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Bacillales       |      22 |
+| Bacteroidales    |       5 |
+| Chitinophagales  |       3 |
+| Enterobacterales |       3 |
+| Moraxellales     |       3 |
+| Cytophagales     |       2 |
+| Eubacteriales    |       2 |
+| Flavobacteriales |       2 |
+| Alteromonadales  |       1 |
+| Silvanigrellales |       1 |
+| Synergistales    |       1 |
+| Thiotrichales    |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Bacillaceae        |       22 |
+| Moraxellaceae      |        3 |
+| Bacteroidaceae     |        2 |
+| Clostridiaceae     |        2 |
+| Cyclobacteriaceae  |        2 |
+| Enterobacteriaceae |        2 |
+| Flavobacteriaceae  |        2 |
+| Alteromonadaceae   |        1 |
+| Chitinophagaceae   |        1 |
+| Morganellaceae     |        1 |
+| Odoribacteraceae   |        1 |
+| Rikenellaceae      |        1 |
+| Synergistaceae     |        1 |
+| Thiotrichaceae     |        1 |
+
+|                  |   genus |
+|:-----------------|--------:|
+| Geobacillus      |      11 |
+| Acinetobacter    |       3 |
+| Bacillus         |       3 |
+| Escherichia      |       2 |
+| Anoxybacillus    |       2 |
+| Bacteroides      |       2 |
+| Tenacibaculum    |       2 |
+| Psychrobacillus  |       2 |
+| Siminovitchia    |       1 |
+| Providencia      |       1 |
+| Paraglaciecola   |       1 |
+| Odoribacter      |       1 |
+| Hathewaya        |       1 |
+| Acetobacteroides |       1 |
+| Fictibacillus    |       1 |
+| Acetomicrobium   |       1 |
+| Echinicola       |       1 |
+| Cytobacillus     |       1 |
+| Clostridium      |       1 |
+| Chitinophaga     |       1 |
+| Cecembia         |       1 |
+| Thiothrix        |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0048_5/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0048_5/sequences.malign)
@@ -331,6 +810,30 @@ Seeds in cluster:
 | AHB32637.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O23        |
 
 Number of blast hits in cluster: 46
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Moraxellales     |      36 |
+| Enterobacterales |      12 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Moraxellaceae      |       36 |
+| Enterobacteriaceae |       10 |
+| Erwiniaceae        |        2 |
+
+|               |   genus |
+|:--------------|--------:|
+| Acinetobacter |      21 |
+| Psychrobacter |      13 |
+| Klebsiella    |       7 |
+| Moraxella     |       2 |
+| Raoultella    |       2 |
+| Erwinia       |       1 |
+| Escherichia   |       1 |
+| Pantoea       |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0048_34/sequences.afa)
 
@@ -372,6 +875,38 @@ Seeds in cluster:
 | AAL20257.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O4 (B) Typhimurium         |
 
 Number of blast hits in cluster: 35
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      29 |
+| Acidobacteriales |       4 |
+| Burkholderiales  |       3 |
+| Sphingomonadales |       3 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       28 |
+| Acidobacteriaceae  |        4 |
+| Oxalobacteraceae   |        3 |
+| Sphingomonadaceae  |        3 |
+| Pectobacteriaceae  |        1 |
+
+|                   |   genus |
+|:------------------|--------:|
+| Salmonella        |      22 |
+| Citrobacter       |       5 |
+| Sphingomonas      |       3 |
+| Acidobacterium    |       1 |
+| Bryocella         |       1 |
+| Duganella         |       1 |
+| Edaphobacter      |       1 |
+| Janthinobacterium |       1 |
+| Massilia          |       1 |
+| Pectobacterium    |       1 |
+| Raoultella        |       1 |
+| Terriglobus       |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0043_2/sequences.afa)
 
@@ -418,6 +953,27 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 37
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      37 |
+| Moraxellales     |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       20 |
+| Yersiniaceae       |       17 |
+| Moraxellaceae      |        2 |
+
+|               |   genus |
+|:--------------|--------:|
+| Serratia      |      17 |
+| Klebsiella    |      12 |
+| Escherichia   |       5 |
+| Raoultella    |       3 |
+| Acinetobacter |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0039_19/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0039_19/sequences.malign)
@@ -456,6 +1012,29 @@ Seeds in cluster:
 | BAQ00945.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O44        |
 
 Number of blast hits in cluster: 28
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      37 |
+| Vibrionales      |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       31 |
+| Yersiniaceae       |        6 |
+| Vibrionaceae       |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Escherichia    |      13 |
+| Salmonella     |      10 |
+| Enterobacter   |       6 |
+| Yersinia       |       5 |
+| Citrobacter    |       2 |
+| Photobacterium |       1 |
+| Serratia       |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0038_109/sequences.afa)
 
@@ -518,6 +1097,46 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 33
 
+#### Taxonomy
+
+|                    |   order |
+|:-------------------|--------:|
+| Pseudomonadales    |      19 |
+| Burkholderiales    |       7 |
+| Sphingomonadales   |       2 |
+| Aeromonadales      |       1 |
+| Alteromonadales    |       1 |
+| Enterobacterales   |       1 |
+| Rhodocyclales      |       1 |
+| Sphingobacteriales |       1 |
+
+|                     |   family |
+|:--------------------|---------:|
+| Pseudomonadaceae    |       18 |
+| Burkholderiaceae    |        4 |
+| Oxalobacteraceae    |        2 |
+| Sphingomonadaceae   |        2 |
+| Aeromonadaceae      |        1 |
+| Comamonadaceae      |        1 |
+| Enterobacteriaceae  |        1 |
+| Rhodocyclaceae      |        1 |
+| Shewanellaceae      |        1 |
+| Sphingobacteriaceae |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Pseudomonas   |      18 |
+| Collimonas    |       2 |
+| Cupriavidus   |       2 |
+| Sphingomonas  |       2 |
+| Aeromonas     |       1 |
+| Aromatoleum   |       1 |
+| Limnohabitans |       1 |
+| Pandoraea     |       1 |
+| Pedobacter    |       1 |
+| Plesiomonas   |       1 |
+| Shewanella    |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0035_103/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0035_103/sequences.malign)
@@ -552,6 +1171,45 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 33
 
+#### Taxonomy
+
+|                   |   order |
+|:------------------|--------:|
+| Enterobacterales  |      14 |
+| Pseudomonadales   |      10 |
+| Vibrionales       |       5 |
+| Burkholderiales   |       2 |
+| Campylobacterales |       1 |
+| Fusobacteriales   |       1 |
+| Sphingomonadales  |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       10 |
+| Pseudomonadaceae   |       10 |
+| Vibrionaceae       |        5 |
+| Morganellaceae     |        4 |
+| Arcobacteraceae    |        1 |
+| Burkholderiaceae   |        1 |
+| Comamonadaceae     |        1 |
+| Fusobacteriaceae   |        1 |
+| Sphingomonadaceae  |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Pseudomonas   |      10 |
+| Escherichia   |       7 |
+| Vibrio        |       5 |
+| Proteus       |       2 |
+| Aliarcobacter |       1 |
+| Cedecea       |       1 |
+| Citrobacter   |       1 |
+| Enterobacter  |       1 |
+| Morganella    |       1 |
+| Providencia   |       1 |
+| Schlegelella  |       1 |
+| Sphingomonas  |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0034_52/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0034_52/sequences.malign)
@@ -583,6 +1241,35 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 33
 
+#### Taxonomy
+
+|                    |   order |
+|:-------------------|--------:|
+| Bacteroidales      |      25 |
+| Flavobacteriales   |       5 |
+| Sphingobacteriales |       2 |
+
+|                     |   family |
+|:--------------------|---------:|
+| Prevotellaceae      |       17 |
+| Bacteroidaceae      |        6 |
+| Flavobacteriaceae   |        3 |
+| Rikenellaceae       |        2 |
+| Sphingobacteriaceae |        2 |
+| Weeksellaceae       |        2 |
+
+|                    |   genus |
+|:-------------------|--------:|
+| Prevotella         |      15 |
+| Flavobacterium     |       3 |
+| Alistipes          |       2 |
+| Pedobacter         |       2 |
+| Bacteroides        |       1 |
+| Chryseobacterium   |       1 |
+| Kaistella          |       1 |
+| Paraprevotella     |       1 |
+| Prevotellamassilia |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0033_121/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0033_121/sequences.malign)
@@ -608,6 +1295,29 @@ Seeds in cluster:
 | ADI43271.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O27        |
 
 Number of blast hits in cluster: 29
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      30 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       23 |
+| Erwiniaceae        |        6 |
+| Yersiniaceae       |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Klebsiella     |      15 |
+| Escherichia    |       6 |
+| Pantoea        |       2 |
+| Raoultella     |       2 |
+| Tatumella      |       2 |
+| Erwinia        |       1 |
+| Rosenbergiella |       1 |
+| Rouxiella      |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0030_144/sequences.afa)
 
@@ -641,6 +1351,58 @@ Seeds in cluster:
 | AAM27615.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O13        |
 
 Number of blast hits in cluster: 27
+
+#### Taxonomy
+
+|                        |   order |
+|:-----------------------|--------:|
+| Pseudomonadales        |      12 |
+| Enterobacterales       |       3 |
+| Bacillales             |       2 |
+| Alteromonadales        |       1 |
+| Burkholderiales        |       1 |
+| Campylobacterales      |       1 |
+| Chitinivibrionales     |       1 |
+| Chitinophagales        |       1 |
+| Deferribacterales      |       1 |
+| Deinococcales          |       1 |
+| Eubacteriales          |       1 |
+| Micrococcales          |       1 |
+| Oceanospirillales      |       1 |
+| Thermoanaerobacterales |       1 |
+| Vibrionales            |       1 |
+
+|                                                   |   family |
+|:--------------------------------------------------|---------:|
+| Pseudomonadaceae                                  |       11 |
+| Enterobacteriaceae                                |        3 |
+| Bacillaceae                                       |        2 |
+| Chitinophagaceae                                  |        1 |
+| Clostridiaceae                                    |        1 |
+| Comamonadaceae                                    |        1 |
+| Deinococcaceae                                    |        1 |
+| Halomonadaceae                                    |        1 |
+| Intrasporangiaceae                                |        1 |
+| Marinobacteraceae                                 |        1 |
+| Shewanellaceae                                    |        1 |
+| Thermoanaerobacterales Family III. Incertae Sedis |        1 |
+| Vibrionaceae                                      |        1 |
+
+|                       |   genus |
+|:----------------------|--------:|
+| Pseudomonas           |      11 |
+| Escherichia           |       3 |
+| Bacillus              |       2 |
+| Alkaliphilus          |       1 |
+| Chitinophaga          |       1 |
+| Deinococcus           |       1 |
+| Halomonas             |       1 |
+| Marinobacter          |       1 |
+| Parashewanella        |       1 |
+| Tetrasphaera          |       1 |
+| Thermoanaerobacterium |       1 |
+| Variovorax            |       1 |
+| Vibrio                |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0029_107/sequences.afa)
 
@@ -683,6 +1445,26 @@ Seeds in cluster:
 | AAM27748.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O20        |
 
 Number of blast hits in cluster: 20
+
+#### Taxonomy
+
+|                   |   order |
+|:------------------|--------:|
+| Pseudomonadales   |      25 |
+| Burkholderiales   |       1 |
+| Oceanospirillales |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Pseudomonadaceae   |       25 |
+| Alcaligenaceae     |        1 |
+| Oceanospirillaceae |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Pseudomonas |      25 |
+| Bordetella  |       1 |
+| Nitrincola  |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0027_72/sequences.afa)
 
@@ -738,6 +1520,28 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 22
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      27 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       23 |
+| Yersiniaceae       |        3 |
+| Erwiniaceae        |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |      16 |
+| Salmonella   |       3 |
+| Citrobacter  |       2 |
+| Rahnella     |       2 |
+| Enterobacter |       1 |
+| Ewingella    |       1 |
+| Pantoea      |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0027_11/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0027_11/sequences.malign)
@@ -780,6 +1584,39 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 24
 
+#### Taxonomy
+
+|                    |   order |
+|:-------------------|--------:|
+| Lactobacillales    |      12 |
+| Eubacteriales      |       6 |
+| Pasteurellales     |       5 |
+| Erysipelotrichales |       2 |
+
+|                     |   family |
+|:--------------------|---------:|
+| Streptococcaceae    |       12 |
+| Pasteurellaceae     |        5 |
+| Lachnospiraceae     |        4 |
+| Clostridiaceae      |        1 |
+| Coprobacillaceae    |        1 |
+| Erysipelotrichaceae |        1 |
+| Eubacteriaceae      |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Streptococcus  |      12 |
+| Blautia        |       3 |
+| Haemophilus    |       2 |
+| Absiella       |       1 |
+| Actinobacillus |       1 |
+| Clostridium    |       1 |
+| Coprococcus    |       1 |
+| Eubacterium    |       1 |
+| Mannheimia     |       1 |
+| Pasteurella    |       1 |
+| Sharpea        |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0025_70/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0025_70/sequences.malign)
@@ -811,6 +1648,43 @@ Seeds in cluster:
 | ABU80601.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella flexneri | 6          |
 
 Number of blast hits in cluster: 22
+
+#### Taxonomy
+
+|                   |   order |
+|:------------------|--------:|
+| Enterobacterales  |      10 |
+| Vibrionales       |       5 |
+| Bacteroidales     |       3 |
+| Moraxellales      |       3 |
+| Bacillales        |       2 |
+| Campylobacterales |       1 |
+| Cytophagales      |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        9 |
+| Vibrionaceae       |        5 |
+| Moraxellaceae      |        3 |
+| Bacillaceae        |        2 |
+| Odoribacteraceae   |        2 |
+| Arcobacteraceae    |        1 |
+| Bacteroidaceae     |        1 |
+| Cyclobacteriaceae  |        1 |
+| Pectobacteriaceae  |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Escherichia    |       7 |
+| Vibrio         |       5 |
+| Acinetobacter  |       3 |
+| Bacillus       |       2 |
+| Butyricimonas  |       2 |
+| Shigella       |       2 |
+| Aliarcobacter  |       1 |
+| Bacteroides    |       1 |
+| Litoribacter   |       1 |
+| Pectobacterium |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0025_145/sequences.afa)
 
@@ -855,6 +1729,25 @@ Seeds in cluster:
 | CAI34436.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 39         |
 
 Number of blast hits in cluster: 19
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |      20 |
+| Bacillales      |       3 |
+| Pasteurellales  |       1 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |       20 |
+| Pasteurellaceae  |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |      20 |
+| Gemella       |       3 |
+| Haemophilus   |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0024_83/sequences.afa)
 
@@ -907,6 +1800,33 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 22
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Moraxellales     |      15 |
+| Flavobacteriales |       5 |
+| Aeromonadales    |       1 |
+| Alteromonadales  |       1 |
+| Vibrionales      |       1 |
+
+|                        |   family |
+|:-----------------------|---------:|
+| Moraxellaceae          |       15 |
+| Flavobacteriaceae      |        5 |
+| Aeromonadaceae         |        1 |
+| Pseudoalteromonadaceae |        1 |
+| Vibrionaceae           |        1 |
+
+|                   |   genus |
+|:------------------|--------:|
+| Acinetobacter     |      15 |
+| Capnocytophaga    |       5 |
+| Aeromonas         |       1 |
+| Pseudoalteromonas |       1 |
+| Vibrio            |       1 |
+| Wohlfahrtiimonas  |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0024_216/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0024_216/sequences.malign)
@@ -941,6 +1861,30 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 23
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      23 |
+| Aeromonadales    |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       18 |
+| Morganellaceae     |        5 |
+| Aeromonadaceae     |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Salmonella  |       9 |
+| Escherichia |       5 |
+| Providencia |       3 |
+| Citrobacter |       2 |
+| Proteus     |       2 |
+| Aeromonas   |       1 |
+| Plesiomonas |       1 |
+| Shigella    |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0024_134/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0024_134/sequences.malign)
@@ -970,6 +1914,29 @@ Seeds in cluster:
 | AAM27595.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O12        |
 
 Number of blast hits in cluster: 22
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Pseudomonadales |      17 |
+| Burkholderiales |       4 |
+| Thiotrichales   |       1 |
+
+|                       |   family |
+|:----------------------|---------:|
+| Pseudomonadaceae      |       17 |
+| Oxalobacteraceae      |        3 |
+| Fastidiosibacteraceae |        1 |
+
+|                   |   genus |
+|:------------------|--------:|
+| Pseudomonas       |      17 |
+| Cysteiniphilum    |       1 |
+| Janthinobacterium |       1 |
+| Massilia          |       1 |
+| Paucibacter       |       1 |
+| Undibacterium     |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0023_6/sequences.afa)
 
@@ -1001,6 +1968,37 @@ Seeds in cluster:
 | CAI33774.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 22A        |
 
 Number of blast hits in cluster: 21
+
+#### Taxonomy
+
+|                   |   order |
+|:------------------|--------:|
+| Lactobacillales   |      14 |
+| Eubacteriales     |       6 |
+| Bifidobacteriales |       3 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Streptococcaceae   |       10 |
+| Bifidobacteriaceae |        3 |
+| Clostridiaceae     |        3 |
+| Lactobacillaceae   |        3 |
+| Enterococcaceae    |        1 |
+| Lachnospiraceae    |        1 |
+| Oscillospiraceae   |        1 |
+
+|                      |   genus |
+|:---------------------|--------:|
+| Streptococcus        |       8 |
+| Bifidobacterium      |       3 |
+| Clostridium          |       3 |
+| Lactococcus          |       2 |
+| Blautia              |       1 |
+| Enterococcus         |       1 |
+| Faecalibacterium     |       1 |
+| Lactiplantibacillus  |       1 |
+| Leuconostoc          |       1 |
+| Liquorilactobacillus |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0023_120/sequences.afa)
 
@@ -1034,6 +2032,32 @@ Seeds in cluster:
 | CAI33840.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 23B        |
 
 Number of blast hits in cluster: 20
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |      16 |
+| Eubacteriales   |       3 |
+| Bacteroidales   |       2 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |       12 |
+| Lactobacillaceae |        4 |
+| Bacteroidaceae   |        2 |
+| Lachnospiraceae  |        2 |
+| Clostridiaceae   |        1 |
+
+|                      |   genus |
+|:---------------------|--------:|
+| Streptococcus        |      12 |
+| Ligilactobacillus    |       2 |
+| Acetatifactor        |       1 |
+| Blautia              |       1 |
+| Limosilactobacillus  |       1 |
+| Liquorilactobacillus |       1 |
+| Phocaeicola          |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0022_147/sequences.afa)
 
@@ -1076,6 +2100,24 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 15
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      21 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       20 |
+| Yersiniaceae       |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Salmonella  |      14 |
+| Klebsiella  |       4 |
+| Citrobacter |       2 |
+| Serratia    |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0021_168/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0021_168/sequences.malign)
@@ -1114,6 +2156,25 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 19
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      19 |
+| Vibrionales      |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       19 |
+| Vibrionaceae       |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       9 |
+| Enterobacter |       8 |
+| Citrobacter  |       2 |
+| Aliivibrio   |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0020_80/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0020_80/sequences.malign)
@@ -1150,6 +2211,29 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 13
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      20 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       16 |
+| Yersiniaceae       |        2 |
+| Hafniaceae         |        1 |
+| Pectobacteriaceae  |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Escherichia    |      13 |
+| Yersinia       |       2 |
+| Franconibacter |       1 |
+| Hafnia         |       1 |
+| Leclercia      |       1 |
+| Pectobacterium |       1 |
+| Salmonella     |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0020_53/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0020_53/sequences.malign)
@@ -1181,6 +2265,33 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 20
 
+#### Taxonomy
+
+|                    |   order |
+|:-------------------|--------:|
+| Flavobacteriales   |      14 |
+| Bacteroidales      |       4 |
+| Sphingobacteriales |       1 |
+
+|                     |   family |
+|:--------------------|---------:|
+| Flavobacteriaceae   |       12 |
+| Crocinitomicaceae   |        1 |
+| Sphingobacteriaceae |        1 |
+
+|                   |   genus |
+|:------------------|--------:|
+| Muricauda         |       3 |
+| Maribacter        |       2 |
+| Cellulophaga      |       1 |
+| Galbibacter       |       1 |
+| Pareuzebyella     |       1 |
+| Pseudozobellia    |       1 |
+| Solitalea         |       1 |
+| Winogradskyella   |       1 |
+| Zeaxanthinibacter |       1 |
+| Zobellia          |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0020_255/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0020_255/sequences.malign)
@@ -1210,6 +2321,33 @@ Seeds in cluster:
 | AAR97964.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 7          |
 
 Number of blast hits in cluster: 15
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       7 |
+| Moraxellales     |       5 |
+| Aeromonadales    |       3 |
+| Pseudomonadales  |       2 |
+| Vibrionales      |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        7 |
+| Moraxellaceae      |        5 |
+| Aeromonadaceae     |        3 |
+| Pseudomonadaceae   |        2 |
+| Vibrionaceae       |        2 |
+
+|               |   genus |
+|:--------------|--------:|
+| Escherichia   |       6 |
+| Acinetobacter |       5 |
+| Aeromonas     |       3 |
+| Pseudomonas   |       2 |
+| Vibrio        |       2 |
+| Shigella      |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0020_13/sequences.afa)
 
@@ -1247,6 +2385,42 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 18
 
+#### Taxonomy
+
+|                   |   order |
+|:------------------|--------:|
+| Burkholderiales   |       7 |
+| Bacteroidales     |       6 |
+| Flavobacteriales  |       3 |
+| Enterobacterales  |       1 |
+| Oceanospirillales |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Bacteroidaceae     |        4 |
+| Comamonadaceae     |        4 |
+| Burkholderiaceae   |        2 |
+| Prevotellaceae     |        2 |
+| Weeksellaceae      |        2 |
+| Flavobacteriaceae  |        1 |
+| Oceanospirillaceae |        1 |
+| Oxalobacteraceae   |        1 |
+| Yersiniaceae       |        1 |
+
+|                   |   genus |
+|:------------------|--------:|
+| Bacteroides       |       4 |
+| Chryseobacterium  |       2 |
+| Pandoraea         |       2 |
+| Prevotella        |       2 |
+| Ramlibacter       |       2 |
+| Flavobacterium    |       1 |
+| Janthinobacterium |       1 |
+| Limnohabitans     |       1 |
+| Marinomonas       |       1 |
+| Rhodoferax        |       1 |
+| Yersinia          |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0019_99/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0019_99/sequences.malign)
@@ -1281,6 +2455,27 @@ Seeds in cluster:
 | BAQ00687.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O18ac      |
 
 Number of blast hits in cluster: 15
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      14 |
+| Moraxellales     |       5 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       13 |
+| Moraxellaceae      |        5 |
+| Morganellaceae     |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Escherichia   |      11 |
+| Acinetobacter |       5 |
+| Leclercia     |       1 |
+| Morganella    |       1 |
+| Salmonella    |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0019_55/sequences.afa)
 
@@ -1331,6 +2526,23 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 13
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      19 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       19 |
+
+|              |   genus |
+|:-------------|--------:|
+| Salmonella   |      15 |
+| Enterobacter |       2 |
+| Citrobacter  |       1 |
+| Kosakonia    |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0019_209/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0019_209/sequences.malign)
@@ -1367,6 +2579,25 @@ Seeds in cluster:
 | BAQ02259.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O13/O129/O135 |
 
 Number of blast hits in cluster: 15
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      19 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       18 |
+| Erwiniaceae        |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       8 |
+| Shigella     |       5 |
+| Buttiauxella |       1 |
+| Citrobacter  |       1 |
+| Pantoea      |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0019_115/sequences.afa)
 
@@ -1408,6 +2639,41 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 18
 
+#### Taxonomy
+
+|                   |   order |
+|:------------------|--------:|
+| Enterobacterales  |      10 |
+| Burkholderiales   |       3 |
+| Aeromonadales     |       1 |
+| Aquificales       |       1 |
+| Campylobacterales |       1 |
+| Pseudomonadales   |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        9 |
+| Oxalobacteraceae   |        3 |
+| Aeromonadaceae     |        1 |
+| Aquificaceae       |        1 |
+| Marinobacteraceae  |        1 |
+| Morganellaceae     |        1 |
+| Thiovulaceae       |        1 |
+
+|                   |   genus |
+|:------------------|--------:|
+| Cronobacter       |       3 |
+| Escherichia       |       3 |
+| Janthinobacterium |       3 |
+| Aeromonas         |       1 |
+| Hydrogenobacter   |       1 |
+| Jejubacter        |       1 |
+| Lelliottia        |       1 |
+| Marinobacter      |       1 |
+| Providencia       |       1 |
+| Pseudocitrobacter |       1 |
+| Sulfurimonas      |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0019_113/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0019_113/sequences.malign)
@@ -1437,6 +2703,29 @@ Seeds in cluster:
 | AAT85653.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O4         |
 
 Number of blast hits in cluster: 17
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      15 |
+| Moraxellales     |       2 |
+| Burkholderiales  |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       11 |
+| Erwiniaceae        |        4 |
+| Moraxellaceae      |        2 |
+| Comamonadaceae     |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Enterobacter  |       6 |
+| Escherichia   |       5 |
+| Pantoea       |       4 |
+| Acinetobacter |       2 |
+| Comamonas     |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0018_42/sequences.afa)
 
@@ -1469,6 +2758,25 @@ Seeds in cluster:
 | AAR90892.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O127       |
 
 Number of blast hits in cluster: 15
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      17 |
+| Aeromonadales    |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       17 |
+| Aeromonadaceae     |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Salmonella  |       8 |
+| Escherichia |       6 |
+| Citrobacter |       2 |
+| Aeromonas   |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0018_105/sequences.afa)
 
@@ -1504,6 +2812,28 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 16
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      16 |
+| Vibrionales      |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       15 |
+| Hafniaceae         |        1 |
+| Vibrionaceae       |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       5 |
+| Cronobacter  |       4 |
+| Enterobacter |       4 |
+| Siccibacter  |       2 |
+| Hafnia       |       1 |
+| Vibrio       |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0017_63/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0017_63/sequences.malign)
@@ -1535,6 +2865,26 @@ Seeds in cluster:
 | BAQ01843.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O163       |
 
 Number of blast hits in cluster: 16
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      14 |
+| Vibrionales      |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       14 |
+| Vibrionaceae       |        2 |
+
+|                |   genus |
+|:---------------|--------:|
+| Escherichia    |       6 |
+| Salmonella     |       5 |
+| Enterobacter   |       3 |
+| Photobacterium |       1 |
+| Vibrio         |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0017_28/sequences.afa)
 
@@ -1568,6 +2918,36 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 16
 
+#### Taxonomy
+
+|                    |   order |
+|:-------------------|--------:|
+| Lactobacillales    |       9 |
+| Bacillales         |       4 |
+| Eubacteriales      |       2 |
+| Erysipelotrichales |       1 |
+
+|                     |   family |
+|:--------------------|---------:|
+| Streptococcaceae    |        8 |
+| Bacillaceae         |        2 |
+| Erysipelotrichaceae |        1 |
+| Eubacteriaceae      |        1 |
+| Lachnospiraceae     |        1 |
+| Lactobacillaceae    |        1 |
+| Paenibacillaceae    |        1 |
+
+|                     |   genus |
+|:--------------------|--------:|
+| Streptococcus       |       8 |
+| Amedibacterium      |       1 |
+| Chengkuizengella    |       1 |
+| Cytobacillus        |       1 |
+| Eubacterium         |       1 |
+| Exiguobacterium     |       1 |
+| Lactiplantibacillus |       1 |
+| Priestia            |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0017_164/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0017_164/sequences.malign)
@@ -1599,6 +2979,24 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 17
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      17 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        8 |
+| Pectobacteriaceae  |        8 |
+| Erwiniaceae        |        1 |
+
+|            |   genus |
+|:-----------|--------:|
+| Dickeya    |       8 |
+| Klebsiella |       8 |
+| Erwinia    |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0017_149/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0017_149/sequences.malign)
@@ -1625,6 +3023,31 @@ Seeds in cluster:
 | CAI33491.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 17A        |
 
 Number of blast hits in cluster: 15
+
+#### Taxonomy
+
+|                    |   order |
+|:-------------------|--------:|
+| Lactobacillales    |      10 |
+| Bifidobacteriales  |       3 |
+| Eubacteriales      |       2 |
+| Erysipelotrichales |       1 |
+
+|                     |   family |
+|:--------------------|---------:|
+| Streptococcaceae    |       10 |
+| Bifidobacteriaceae  |        3 |
+| Erysipelotrichaceae |        1 |
+| Lachnospiraceae     |        1 |
+| Oscillospiraceae    |        1 |
+
+|                 |   genus |
+|:----------------|--------:|
+| Streptococcus   |      10 |
+| Bifidobacterium |       3 |
+| Blautia         |       1 |
+| Faecalitalea    |       1 |
+| Ruminococcus    |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0017_142/sequences.afa)
 
@@ -1663,6 +3086,26 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 14
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      15 |
+| Neisseriales     |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       14 |
+| Chromobacteriaceae |        1 |
+| Morganellaceae     |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Salmonella  |      11 |
+| Escherichia |       2 |
+| Iodobacter  |       1 |
+| Proteus     |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0016_78/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0016_78/sequences.malign)
@@ -1699,6 +3142,38 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 15
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Micrococcales    |       9 |
+| Lactobacillales  |       3 |
+| Bacillales       |       1 |
+| Eubacteriales    |       1 |
+| Nitrosomonadales |       1 |
+
+|                   |   family |
+|:------------------|---------:|
+| Micrococcaceae    |        5 |
+| Microbacteriaceae |        3 |
+| Streptococcaceae  |        3 |
+| Bacillaceae       |        1 |
+| Demequinaceae     |        1 |
+| Lachnospiraceae   |        1 |
+| Methylophilaceae  |        1 |
+
+|                   |   genus |
+|:------------------|--------:|
+| Arthrobacter      |       4 |
+| Streptococcus     |       3 |
+| Curtobacterium    |       1 |
+| Demequina         |       1 |
+| Frondihabitans    |       1 |
+| Mesobacillus      |       1 |
+| Methylobacillus   |       1 |
+| Microbacterium    |       1 |
+| Pseudarthrobacter |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0016_61/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0016_61/sequences.malign)
@@ -1734,6 +3209,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 12
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      16 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       16 |
+
+|             |   genus |
+|:------------|--------:|
+| Citrobacter |       6 |
+| Escherichia |       5 |
+| Salmonella  |       5 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0016_211/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0016_211/sequences.malign)
@@ -1765,6 +3256,26 @@ Seeds in cluster:
 | AAN23057.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:4b       |
 
 Number of blast hits in cluster: 13
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      12 |
+| Legionellales    |       3 |
+| Spirulinales     |       1 |
+
+|                |   family |
+|:---------------|---------:|
+| Yersiniaceae   |       12 |
+| Legionellaceae |        3 |
+| Spirulinaceae  |        1 |
+
+|            |   genus |
+|:-----------|--------:|
+| Yersinia   |      12 |
+| Legionella |       3 |
+| Spirulina  |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0016_201/sequences.afa)
 
@@ -1802,6 +3313,30 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 14
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      12 |
+| Vibrionales      |       2 |
+| Aeromonadales    |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       11 |
+| Vibrionaceae       |        2 |
+| Aeromonadaceae     |        1 |
+| Erwiniaceae        |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       4 |
+| Cronobacter |       3 |
+| Citrobacter |       2 |
+| Vibrio      |       2 |
+| Aeromonas   |       1 |
+| Pantoea     |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0015_43/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0015_43/sequences.malign)
@@ -1836,6 +3371,20 @@ Seeds in cluster:
 | CAI34388.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 37         |
 
 Number of blast hits in cluster: 9
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |      15 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |       15 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |      15 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0015_27/sequences.afa)
 
@@ -1893,6 +3442,41 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 14
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Vibrionales      |       5 |
+| Burkholderiales  |       3 |
+| Enterobacterales |       3 |
+| Aeromonadales    |       1 |
+| Eubacteriales    |       1 |
+| Pirellulales     |       1 |
+| Pseudomonadales  |       1 |
+
+|                                          |   family |
+|:-----------------------------------------|---------:|
+| Vibrionaceae                             |        5 |
+| Burkholderiaceae                         |        2 |
+| Enterobacteriaceae                       |        2 |
+| Aeromonadaceae                           |        1 |
+| Eubacteriales Family XII. Incertae Sedis |        1 |
+| Pirellulaceae                            |        1 |
+| Pseudomonadaceae                         |        1 |
+| Yersiniaceae                             |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Vibrio        |       5 |
+| Salmonella    |       2 |
+| Aeromonas     |       1 |
+| Fusibacter    |       1 |
+| Pandoraea     |       1 |
+| Paucimonas    |       1 |
+| Pseudomonas   |       1 |
+| Roseimaritima |       1 |
+| Yersinia      |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0015_21/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0015_21/sequences.malign)
@@ -1918,6 +3502,42 @@ Seeds in cluster:
 | CAI34008.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |         27 |
 
 Number of blast hits in cluster: 14
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Eubacteriales    |       6 |
+| Lactobacillales  |       6 |
+| Coriobacteriales |       1 |
+| Eggerthellales   |       1 |
+| Pasteurellales   |       1 |
+
+|                   |   family |
+|:------------------|---------:|
+| Lachnospiraceae   |        3 |
+| Lactobacillaceae  |        3 |
+| Clostridiaceae    |        2 |
+| Streptococcaceae  |        2 |
+| Carnobacteriaceae |        1 |
+| Coriobacteriaceae |        1 |
+| Eggerthellaceae   |        1 |
+| Oscillospiraceae  |        1 |
+| Pasteurellaceae   |        1 |
+
+|                     |   genus |
+|:--------------------|--------:|
+| Blautia             |       2 |
+| Clostridium         |       2 |
+| Lactobacillus       |       2 |
+| Streptococcus       |       2 |
+| Actinobacillus      |       1 |
+| Collinsella         |       1 |
+| Eggerthella         |       1 |
+| Faecalibacterium    |       1 |
+| Fusicatenibacter    |       1 |
+| Granulicatella      |       1 |
+| Limosilactobacillus |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0015_155/sequences.afa)
 
@@ -1951,6 +3571,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 13
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      14 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       14 |
+
+|                   |   genus |
+|:------------------|--------:|
+| Enterobacter      |       8 |
+| Escherichia       |       4 |
+| Superficieibacter |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0014_76/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0014_76/sequences.malign)
@@ -1980,6 +3616,34 @@ Seeds in cluster:
 | CBN82200.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O70        |
 
 Number of blast hits in cluster: 13
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       8 |
+| Alteromonadales  |       3 |
+| Burkholderiales  |       3 |
+
+|                        |   family |
+|:-----------------------|---------:|
+| Enterobacteriaceae     |        8 |
+| Comamonadaceae         |        2 |
+| Pseudoalteromonadaceae |        2 |
+| Burkholderiaceae       |        1 |
+| Shewanellaceae         |        1 |
+
+|                   |   genus |
+|:------------------|--------:|
+| Escherichia       |       3 |
+| Citrobacter       |       2 |
+| Enterobacter      |       2 |
+| Pseudoalteromonas |       2 |
+| Comamonas         |       1 |
+| Leclercia         |       1 |
+| Polaromonas       |       1 |
+| Ralstonia         |       1 |
+| Shewanella        |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0014_51/sequences.afa)
 
@@ -2016,6 +3680,23 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 10
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      14 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       13 |
+| Morganellaceae     |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Salmonella   |       8 |
+| Escherichia  |       5 |
+| Photorhabdus |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0014_39/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0014_39/sequences.malign)
@@ -2050,6 +3731,22 @@ Seeds in cluster:
 | CAI33029.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 9V         |
 
 Number of blast hits in cluster: 10
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |      14 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |       13 |
+| Aerococcaceae    |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |      13 |
+| Globicatella  |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0014_178/sequences.afa)
 
@@ -2096,6 +3793,33 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 12
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      14 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        6 |
+| Morganellaceae     |        4 |
+| Hafniaceae         |        2 |
+| Erwiniaceae        |        1 |
+| Yersiniaceae       |        1 |
+
+|                 |   genus |
+|:----------------|--------:|
+| Arsenophonus    |       2 |
+| Cronobacter     |       2 |
+| Escherichia     |       2 |
+| Proteus         |       2 |
+| Enterobacter    |       1 |
+| Hafnia          |       1 |
+| Obesumbacterium |       1 |
+| Pantoea         |       1 |
+| Shigella        |       1 |
+| Yersinia        |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0014_150/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0014_150/sequences.malign)
@@ -2132,6 +3856,23 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 13
 
+#### Taxonomy
+
+|                |   order |
+|:---------------|--------:|
+| Moraxellales   |      13 |
+| Pasteurellales |       1 |
+
+|                 |   family |
+|:----------------|---------:|
+| Moraxellaceae   |       13 |
+| Pasteurellaceae |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Acinetobacter |      13 |
+| Glaesserella  |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0014_133/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0014_133/sequences.malign)
@@ -2159,6 +3900,21 @@ Seeds in cluster:
 | AFW04867.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O47        |
 
 Number of blast hits in cluster: 10
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      13 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       13 |
+
+|             |   genus |
+|:------------|--------:|
+| Salmonella  |       7 |
+| Escherichia |       5 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0013_96/sequences.afa)
 
@@ -2193,6 +3949,23 @@ Seeds in cluster:
 | BAQ01317.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O88        |
 
 Number of blast hits in cluster: 12
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      13 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       13 |
+
+|              |   genus |
+|:-------------|--------:|
+| Enterobacter |       6 |
+| Escherichia  |       3 |
+| Cedecea      |       1 |
+| Lelliottia   |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0013_75/sequences.afa)
 
@@ -2231,6 +4004,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 5
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      13 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       13 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |      11 |
+| Citrobacter |       1 |
+| Salmonella  |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0013_74/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0013_74/sequences.malign)
@@ -2265,6 +4054,30 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 12
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      12 |
+| Vibrionales      |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        9 |
+| Erwiniaceae        |        2 |
+| Morganellaceae     |        1 |
+| Vibrionaceae       |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Escherichia    |       5 |
+| Enterobacter   |       3 |
+| Erwinia        |       1 |
+| Pantoea        |       1 |
+| Photobacterium |       1 |
+| Shigella       |       1 |
+| Xenorhabdus    |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0013_7/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0013_7/sequences.malign)
@@ -2295,6 +4108,28 @@ Seeds in cluster:
 | ACA24868.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 5          |
 
 Number of blast hits in cluster: 11
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      12 |
+| Vibrionales      |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       12 |
+| Vibrionaceae       |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Enterobacter |       3 |
+| Escherichia  |       3 |
+| Citrobacter  |       2 |
+| Leclercia    |       2 |
+| Klebsiella   |       1 |
+| Shigella     |       1 |
+| Vibrio       |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0013_200/sequences.afa)
 
@@ -2333,6 +4168,23 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 11
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Pseudomonadales |      11 |
+| Vibrionales     |       1 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Pseudomonadaceae |       11 |
+| Vibrionaceae     |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Pseudomonas |      11 |
+| Vibrio      |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0013_171/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0013_171/sequences.malign)
@@ -2369,6 +4221,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 10
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      13 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       13 |
+
+|              |   genus |
+|:-------------|--------:|
+| Salmonella   |       7 |
+| Escherichia  |       5 |
+| Enterobacter |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0013_163/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0013_163/sequences.malign)
@@ -2398,6 +4266,29 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 13
 
+#### Taxonomy
+
+|                    |   order |
+|:-------------------|--------:|
+| Eubacteriales      |       8 |
+| Bacillales         |       1 |
+| Erysipelotrichales |       1 |
+
+|                     |   family |
+|:--------------------|---------:|
+| Lachnospiraceae     |        5 |
+| Oscillospiraceae    |        2 |
+| Bacillaceae         |        1 |
+| Erysipelotrichaceae |        1 |
+
+|                    |   genus |
+|:-------------------|--------:|
+| Amedibacillus      |       1 |
+| Bacillus           |       1 |
+| Dorea              |       1 |
+| Mediterraneibacter |       1 |
+| Ruminococcus       |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0013_151/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0013_151/sequences.malign)
@@ -2423,6 +4314,20 @@ Seeds in cluster:
 | CAI33309.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |         13 |
 
 Number of blast hits in cluster: 12
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |      13 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |       13 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |      13 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0013_129/sequences.afa)
 
@@ -2456,6 +4361,32 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 11
 
+#### Taxonomy
+
+|                   |   order |
+|:------------------|--------:|
+| Enterobacterales  |       5 |
+| Vibrionales       |       4 |
+| Flavobacteriales  |       2 |
+| Campylobacterales |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+| Vibrionaceae       |        4 |
+| Flavobacteriaceae  |        2 |
+| Campylobacteraceae |        1 |
+| Morganellaceae     |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Vibrio         |       4 |
+| Citrobacter    |       3 |
+| Capnocytophaga |       2 |
+| Campylobacter  |       1 |
+| Proteus        |       1 |
+| Shigella       |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0012_91/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0012_91/sequences.malign)
@@ -2487,6 +4418,31 @@ Seeds in cluster:
 | BAQ01533.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O110       |
 
 Number of blast hits in cluster: 11
+
+#### Taxonomy
+
+|                   |   order |
+|:------------------|--------:|
+| Vibrionales       |       7 |
+| Enterobacterales  |       4 |
+| Oceanospirillales |       1 |
+
+|                     |   family |
+|:--------------------|---------:|
+| Vibrionaceae        |        7 |
+| Enterobacteriaceae  |        2 |
+| Endozoicomonadaceae |        1 |
+| Erwiniaceae         |        1 |
+| Morganellaceae      |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Photobacterium |       6 |
+| Escherichia    |       2 |
+| Kistimonas     |       1 |
+| Mixta          |       1 |
+| Proteus        |       1 |
+| Vibrio         |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0012_87/sequences.afa)
 
@@ -2522,6 +4478,24 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 9
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      12 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       11 |
+| Pectobacteriaceae  |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Escherichia    |       5 |
+| Salmonella     |       4 |
+| Citrobacter    |       2 |
+| Pectobacterium |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0012_66/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0012_66/sequences.malign)
@@ -2554,6 +4528,34 @@ Seeds in cluster:
 | ACA24754.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 8          |
 
 Number of blast hits in cluster: 10
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       6 |
+| Alteromonadales  |       3 |
+| Vibrionales      |       1 |
+
+|                        |   family |
+|:-----------------------|---------:|
+| Enterobacteriaceae     |        4 |
+| Morganellaceae         |        2 |
+| Shewanellaceae         |        2 |
+| Pseudoalteromonadaceae |        1 |
+| Vibrionaceae           |        1 |
+
+|                   |   genus |
+|:------------------|--------:|
+| Shigella          |       3 |
+| Shewanella        |       2 |
+| Escherichia       |       1 |
+| Gallaecimonas     |       1 |
+| Photorhabdus      |       1 |
+| Providencia       |       1 |
+| Pseudoalteromonas |       1 |
+| Vibrio            |       1 |
+| Wohlfahrtiimonas  |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0012_47/sequences.afa)
 
@@ -2588,6 +4590,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 10
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Pseudomonadales |      12 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Pseudomonadaceae |       12 |
+
+|             |   genus |
+|:------------|--------:|
+| Pseudomonas |      12 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0012_36/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0012_36/sequences.malign)
@@ -2619,6 +4635,22 @@ Seeds in cluster:
 | ADI43263.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O25        |
 
 Number of blast hits in cluster: 11
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      12 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       12 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       9 |
+| Leclercia   |       2 |
+| Citrobacter |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0012_202/sequences.afa)
 
@@ -2659,6 +4691,21 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 4
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      12 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       12 |
+
+|             |   genus |
+|:------------|--------:|
+| Salmonella  |      10 |
+| Citrobacter |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0012_197/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0012_197/sequences.malign)
@@ -2692,6 +4739,29 @@ Seeds in cluster:
 | AFS33314.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O102       |
 
 Number of blast hits in cluster: 9
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      11 |
+| Vibrionales      |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        8 |
+| Morganellaceae     |        2 |
+| Hafniaceae         |        1 |
+| Vibrionaceae       |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Escherichia    |       7 |
+| Citrobacter    |       1 |
+| Edwardsiella   |       1 |
+| Photobacterium |       1 |
+| Proteus        |       1 |
+| Providencia    |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0012_138/sequences.afa)
 
@@ -2729,6 +4799,27 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 11
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       8 |
+| Vibrionales      |       4 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        7 |
+| Vibrionaceae       |        4 |
+| Morganellaceae     |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       6 |
+| Vibrio       |       3 |
+| Aliivibrio   |       1 |
+| Enterobacter |       1 |
+| Xenorhabdus  |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0012_106/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0012_106/sequences.malign)
@@ -2760,6 +4851,26 @@ Seeds in cluster:
 | ACA24811.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 12         |
 
 Number of blast hits in cluster: 8
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      11 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        8 |
+| Erwiniaceae        |        2 |
+| Morganellaceae     |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       5 |
+| Citrobacter |       2 |
+| Pantoea     |       2 |
+| Morganella  |       1 |
+| Shigella    |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0011_68/sequences.afa)
 
@@ -2799,6 +4910,20 @@ Seeds in cluster:
 | CAI33585.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 18C        |
 
 Number of blast hits in cluster: 7
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |      11 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |       11 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |      11 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0011_48/sequences.afa)
 
@@ -2842,6 +4967,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 10
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Pseudomonadales |      11 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Pseudomonadaceae |       11 |
+
+|             |   genus |
+|:------------|--------:|
+| Pseudomonas |      11 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0011_270/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0011_270/sequences.malign)
@@ -2871,6 +5010,29 @@ Seeds in cluster:
 | ACH97162.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O21        |
 
 Number of blast hits in cluster: 10
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      10 |
+| Alteromonadales  |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        7 |
+| Morganellaceae     |        3 |
+| Idiomarinaceae     |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Salmonella  |       3 |
+| Escherichia |       2 |
+| Citrobacter |       1 |
+| Idiomarina  |       1 |
+| Proteus     |       1 |
+| Providencia |       1 |
+| Xenorhabdus |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0011_225/sequences.afa)
 
@@ -2904,6 +5066,26 @@ Seeds in cluster:
 | ACA24776.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 8          |
 
 Number of blast hits in cluster: 9
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      11 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        9 |
+| Erwiniaceae        |        2 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       4 |
+| Citrobacter  |       2 |
+| Enterobacter |       2 |
+| Erwinia      |       1 |
+| Pantoea      |       1 |
+| Shigella     |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0011_189/sequences.afa)
 
@@ -2940,6 +5122,29 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 9
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       6 |
+| Eubacteriales   |       4 |
+| Fibrobacterales |       1 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Lachnospiraceae  |        3 |
+| Streptococcaceae |        3 |
+| Enterococcaceae  |        2 |
+| Fibrobacteraceae |        1 |
+| Lactobacillaceae |        1 |
+
+|                    |   genus |
+|:-------------------|--------:|
+| Streptococcus      |       3 |
+| Enterococcus       |       2 |
+| Fibrobacter        |       1 |
+| Loigolactobacillus |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0011_17/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0011_17/sequences.malign)
@@ -2975,6 +5180,25 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 11
 
+#### Taxonomy
+
+|               |   order |
+|:--------------|--------:|
+| Eubacteriales |       9 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Lachnospiraceae  |        5 |
+| Eubacteriaceae   |        3 |
+| Oscillospiraceae |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Eubacterium  |       3 |
+| Anaerostipes |       2 |
+| Blautia      |       2 |
+| Coprococcus  |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0011_159/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0011_159/sequences.malign)
@@ -3001,6 +5225,23 @@ Seeds in cluster:
 | AHB32438.2          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O22        |
 
 Number of blast hits in cluster: 9
+
+#### Taxonomy
+
+|                |   order |
+|:---------------|--------:|
+| Moraxellales   |       8 |
+| Pasteurellales |       3 |
+
+|                 |   family |
+|:----------------|---------:|
+| Moraxellaceae   |        8 |
+| Pasteurellaceae |        3 |
+
+|               |   genus |
+|:--------------|--------:|
+| Acinetobacter |       8 |
+| Glaesserella  |       3 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0011_148/sequences.afa)
 
@@ -3039,6 +5280,24 @@ Seeds in cluster:
 | ACD37105.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 3          |
 
 Number of blast hits in cluster: 8
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      11 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        9 |
+| Pectobacteriaceae  |        2 |
+
+|                |   genus |
+|:---------------|--------:|
+| Escherichia    |       7 |
+| Pectobacterium |       2 |
+| Citrobacter    |       1 |
+| Shigella       |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0011_111/sequences.afa)
 
@@ -3079,6 +5338,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 9
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      11 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       11 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       6 |
+| Enterobacter |       4 |
+| Shigella     |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0011_108/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0011_108/sequences.malign)
@@ -3116,6 +5391,21 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 6
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      10 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       10 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       6 |
+| Enterobacter |       4 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_67/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_67/sequences.malign)
@@ -3148,6 +5438,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 9
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Pseudomonadales |      10 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Pseudomonadaceae |       10 |
+
+|             |   genus |
+|:------------|--------:|
+| Pseudomonas |      10 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_65/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_65/sequences.malign)
@@ -3177,6 +5481,30 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 10
 
+#### Taxonomy
+
+|                   |   order |
+|:------------------|--------:|
+| Enterobacterales  |       4 |
+| Vibrionales       |       3 |
+| Aeromonadales     |       2 |
+| Campylobacterales |       1 |
+
+|                 |   family |
+|:----------------|---------:|
+| Morganellaceae  |        4 |
+| Vibrionaceae    |        3 |
+| Aeromonadaceae  |        2 |
+| Arcobacteraceae |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Providencia  |       3 |
+| Vibrio       |       3 |
+| Aeromonas    |       2 |
+| Arcobacter   |       1 |
+| Photorhabdus |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_41/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_41/sequences.malign)
@@ -3202,6 +5530,23 @@ Seeds in cluster:
 | ABX51880.1          | Enterobacterales | Enterobacteriaceae | Cronobacter | Cronobacter sakazakii | O1         |
 
 Number of blast hits in cluster: 9
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      10 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        8 |
+| Erwiniaceae        |        2 |
+
+|              |   genus |
+|:-------------|--------:|
+| Cronobacter  |       6 |
+| Enterobacter |       2 |
+| Pantoea      |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_40/sequences.afa)
 
@@ -3234,6 +5579,30 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 8
 
+#### Taxonomy
+
+|                   |   order |
+|:------------------|--------:|
+| Enterobacterales  |       6 |
+| Oceanospirillales |       1 |
+| Pseudomonadales   |       1 |
+| Vibrionales       |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        6 |
+| Halomonadaceae     |        1 |
+| Marinobacteraceae  |        1 |
+| Vibrionaceae       |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       3 |
+| Salmonella   |       3 |
+| Halomonas    |       1 |
+| Marinobacter |       1 |
+| Vibrio       |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_258/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_258/sequences.malign)
@@ -3264,6 +5633,26 @@ Seeds in cluster:
 | AFW04684.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O65        |
 
 Number of blast hits in cluster: 8
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       7 |
+| Vibrionales      |       3 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        7 |
+| Vibrionaceae       |        3 |
+
+|                |   genus |
+|:---------------|--------:|
+| Escherichia    |       3 |
+| Citrobacter    |       2 |
+| Salmonella     |       2 |
+| Vibrio         |       2 |
+| Photobacterium |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_243/sequences.afa)
 
@@ -3301,6 +5690,38 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 9
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+| Burkholderiales  |       2 |
+| Alteromonadales  |       1 |
+| Neisseriales     |       1 |
+| Rhodocyclales    |       1 |
+| Vibrionales      |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+| Chromobacteriaceae |        1 |
+| Comamonadaceae     |        1 |
+| Oxalobacteraceae   |        1 |
+| Rhodocyclaceae     |        1 |
+| Shewanellaceae     |        1 |
+| Vibrionaceae       |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Enterobacter   |       2 |
+| Escherichia    |       2 |
+| Aquitalea      |       1 |
+| Massilia       |       1 |
+| Pelomonas      |       1 |
+| Propionivibrio |       1 |
+| Shewanella     |       1 |
+| Vibrio         |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_227/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_227/sequences.malign)
@@ -3330,6 +5751,23 @@ Seeds in cluster:
 | AAK60458.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O91        |
 
 Number of blast hits in cluster: 9
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      10 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        9 |
+| Hafniaceae         |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       8 |
+| Citrobacter |       1 |
+| Hafnia      |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_204/sequences.afa)
 
@@ -3363,6 +5801,27 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 9
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Vibrionales      |       6 |
+| Enterobacterales |       3 |
+| Aeromonadales    |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Vibrionaceae       |        6 |
+| Enterobacteriaceae |        3 |
+| Aeromonadaceae     |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Photobacterium |       4 |
+| Escherichia    |       3 |
+| Vibrio         |       2 |
+| Aeromonas      |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_198/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_198/sequences.malign)
@@ -3392,6 +5851,24 @@ Seeds in cluster:
 | AHB32490.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O15        |
 
 Number of blast hits in cluster: 9
+
+#### Taxonomy
+
+|              |   order |
+|:-------------|--------:|
+| Moraxellales |       9 |
+| Neisseriales |       1 |
+
+|               |   family |
+|:--------------|---------:|
+| Moraxellaceae |        9 |
+| Neisseriaceae |        1 |
+
+|                 |   genus |
+|:----------------|--------:|
+| Acinetobacter   |       8 |
+| Conchiformibius |       1 |
+| Psychrobacter   |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_18/sequences.afa)
 
@@ -3423,6 +5900,25 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 7
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       8 |
+| Eubacteriales   |       2 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |        8 |
+| Lachnospiraceae  |        1 |
+| Oscillospiraceae |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |       8 |
+| Dorea         |       1 |
+| Ruminococcus  |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_166/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_166/sequences.malign)
@@ -3447,6 +5943,26 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 10
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Pseudomonadales |       7 |
+| Vibrionales     |       2 |
+| Aeromonadales   |       1 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Pseudomonadaceae |        7 |
+| Vibrionaceae     |        2 |
+| Aeromonadaceae   |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Pseudomonas |       7 |
+| Vibrio      |       2 |
+| Aeromonas   |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_161/sequences.afa)
 
@@ -3474,6 +5990,22 @@ Seeds in cluster:
 | AFW04888.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O51        |
 
 Number of blast hits in cluster: 8
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |      10 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |       10 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       4 |
+| Citrobacter |       3 |
+| Salmonella  |       3 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_152/sequences.afa)
 
@@ -3511,6 +6043,24 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 9
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Vibrionales      |       6 |
+| Enterobacterales |       4 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Vibrionaceae       |        6 |
+| Enterobacteriaceae |        4 |
+
+|                |   genus |
+|:---------------|--------:|
+| Photobacterium |       6 |
+| Escherichia    |       3 |
+| Citrobacter    |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_137/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0010_137/sequences.malign)
@@ -3541,6 +6091,26 @@ Seeds in cluster:
 | AAV41072.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | O1         |
 
 Number of blast hits in cluster: 7
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       7 |
+| Vibrionales      |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        7 |
+| Vibrionaceae       |        2 |
+
+|              |   genus |
+|:-------------|--------:|
+| Enterobacter |       3 |
+| Escherichia  |       2 |
+| Vibrio       |       2 |
+| Buttiauxella |       1 |
+| Shigella     |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_79/sequences.afa)
 
@@ -3573,6 +6143,27 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 9
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       9 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        5 |
+| Pectobacteriaceae  |        2 |
+| Yersiniaceae       |        2 |
+
+|                |   genus |
+|:---------------|--------:|
+| Klebsiella     |       4 |
+| Brenneria      |       1 |
+| Escherichia    |       1 |
+| Pectobacterium |       1 |
+| Rahnella       |       1 |
+| Serratia       |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_56/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_56/sequences.malign)
@@ -3597,6 +6188,27 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 9
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Moraxellales     |       6 |
+| Enterobacterales |       2 |
+| Neisseriales     |       1 |
+
+|                |   family |
+|:---------------|---------:|
+| Moraxellaceae  |        6 |
+| Morganellaceae |        2 |
+| Neisseriaceae  |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Acinetobacter |       6 |
+| Morganella    |       1 |
+| Proteus       |       1 |
+| Vitreoscilla  |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_46/sequences.afa)
 
@@ -3624,6 +6236,20 @@ Seeds in cluster:
 | CAI33675.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 19C        |
 
 Number of blast hits in cluster: 7
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       9 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |        9 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |       9 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_286/sequences.afa)
 
@@ -3660,6 +6286,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 7
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       7 |
+| Eubacteriales   |       2 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |        7 |
+| Oscillospiraceae |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |       7 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_280/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_280/sequences.malign)
@@ -3695,6 +6337,24 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 7
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       9 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        6 |
+| Erwiniaceae        |        3 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       3 |
+| Pantoea     |       3 |
+| Salmonella  |       2 |
+| Leclercia   |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_231/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_231/sequences.malign)
@@ -3729,6 +6389,30 @@ Seeds in cluster:
 | CAI33343.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 15A        |
 
 Number of blast hits in cluster: 7
+
+#### Taxonomy
+
+|                    |   order |
+|:-------------------|--------:|
+| Lactobacillales    |       4 |
+| Eubacteriales      |       3 |
+| Bacillales         |       1 |
+| Erysipelotrichales |       1 |
+
+|                     |   family |
+|:--------------------|---------:|
+| Streptococcaceae    |        4 |
+| Lachnospiraceae     |        2 |
+| Erysipelotrichaceae |        1 |
+| Oscillospiraceae    |        1 |
+| Staphylococcaceae   |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Streptococcus  |       4 |
+| Amedibacterium |       1 |
+| Roseburia      |       1 |
+| Staphylococcus |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_23/sequences.afa)
 
@@ -3767,6 +6451,21 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 7
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       9 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        9 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       6 |
+| Citrobacter |       3 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_218/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_218/sequences.malign)
@@ -3799,6 +6498,24 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 8
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       9 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Lactobacillaceae |        7 |
+| Streptococcaceae |        2 |
+
+|                     |   genus |
+|:--------------------|--------:|
+| Pediococcus         |       5 |
+| Streptococcus       |       2 |
+| Lactiplantibacillus |       1 |
+| Latilactobacillus   |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_213/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_213/sequences.malign)
@@ -3828,6 +6545,33 @@ Seeds in cluster:
 | CAI32705.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          1 |
 
 Number of blast hits in cluster: 8
+
+#### Taxonomy
+
+|                    |   order |
+|:-------------------|--------:|
+| Erysipelotrichales |       3 |
+| Lactobacillales    |       2 |
+| Bacillales         |       1 |
+| Eggerthellales     |       1 |
+| Eubacteriales      |       1 |
+
+|                     |   family |
+|:--------------------|---------:|
+| Erysipelotrichaceae |        3 |
+| Streptococcaceae    |        2 |
+| Bacillaceae         |        1 |
+| Clostridiaceae      |        1 |
+| Eggerthellaceae     |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Holdemania    |       2 |
+| Streptococcus |       2 |
+| Adlercreutzia |       1 |
+| Bacillus      |       1 |
+| Clostridium   |       1 |
+| Holdemanella  |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_203/sequences.afa)
 
@@ -3861,6 +6605,25 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 8
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       8 |
+| Pasteurellales   |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        8 |
+| Pasteurellaceae    |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       5 |
+| Citrobacter  |       1 |
+| Glaesserella |       1 |
+| Salmonella   |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_194/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_194/sequences.malign)
@@ -3891,6 +6654,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 8
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       9 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        9 |
+
+|              |   genus |
+|:-------------|--------:|
+| Enterobacter |       4 |
+| Citrobacter  |       2 |
+| Escherichia  |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_192/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_192/sequences.malign)
@@ -3916,6 +6695,28 @@ Seeds in cluster:
 | ADR74237.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O109       |
 
 Number of blast hits in cluster: 8
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       7 |
+| Aeromonadales    |       1 |
+| Vibrionales      |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        6 |
+| Aeromonadaceae     |        1 |
+| Morganellaceae     |        1 |
+| Vibrionaceae       |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       6 |
+| Aeromonas   |       1 |
+| Proteus     |       1 |
+| Vibrio      |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_170/sequences.afa)
 
@@ -3951,6 +6752,22 @@ Seeds in cluster:
 | ACV53000.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:14       |
 
 Number of blast hits in cluster: 5
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       9 |
+
+|                |   family |
+|:---------------|---------:|
+| Yersiniaceae   |        8 |
+| Morganellaceae |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Yersinia    |       8 |
+| Xenorhabdus |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_141/sequences.afa)
 
@@ -3991,6 +6808,24 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 5
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       8 |
+| Aeromonadales    |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        8 |
+| Aeromonadaceae     |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       5 |
+| Salmonella  |       3 |
+| Aeromonas   |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_125/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_125/sequences.malign)
@@ -4028,6 +6863,36 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 9
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Bacteroidales    |       3 |
+| Pseudomonadales  |       2 |
+| Alteromonadales  |       1 |
+| Burkholderiales  |       1 |
+| Chthonomonadales |       1 |
+| Flavobacteriales |       1 |
+
+|                   |   family |
+|:------------------|---------:|
+| Bacteroidaceae    |        2 |
+| Pseudomonadaceae  |        2 |
+| Chthonomonadaceae |        1 |
+| Colwelliaceae     |        1 |
+| Flavobacteriaceae |        1 |
+| Tannerellaceae    |        1 |
+
+|                 |   genus |
+|:----------------|--------:|
+| Bacteroides     |       2 |
+| Pseudomonas     |       2 |
+| Chthonomonas    |       1 |
+| Colwellia       |       1 |
+| Flavobacterium  |       1 |
+| Parabacteroides |       1 |
+| Paucibacter     |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_118/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_118/sequences.malign)
@@ -4057,6 +6922,20 @@ Seeds in cluster:
 | CAI34613.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 46         |
 
 Number of blast hits in cluster: 4
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       9 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |        9 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |       9 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_110/sequences.afa)
 
@@ -4093,6 +6972,25 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 7
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       9 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        8 |
+| Morganellaceae     |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       3 |
+| Salmonella   |       3 |
+| Citrobacter  |       1 |
+| Enterobacter |       1 |
+| Photorhabdus |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_104/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0009_104/sequences.malign)
@@ -4125,6 +7023,22 @@ Seeds in cluster:
 | AFW04741.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O21        |
 
 Number of blast hits in cluster: 6
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       8 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        8 |
+
+|             |   genus |
+|:------------|--------:|
+| Salmonella  |       4 |
+| Escherichia |       3 |
+| Citrobacter |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0008_94/sequences.afa)
 
@@ -4163,6 +7077,20 @@ Seeds in cluster:
 | CAI33188.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 11D        |
 
 Number of blast hits in cluster: 3
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       8 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |        8 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |       8 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0008_88/sequences.afa)
 
@@ -4211,6 +7139,25 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 8
 
+#### Taxonomy
+
+|                        |   order |
+|:-----------------------|--------:|
+| Vibrionales            |       3 |
+| Pseudomonadales        |       1 |
+| Thermoanaerobacterales |       1 |
+
+|                         |   family |
+|:------------------------|---------:|
+| Vibrionaceae            |        3 |
+| Pseudomonadaceae        |        1 |
+| Thermoanaerobacteraceae |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Photobacterium |       3 |
+| Pseudomonas    |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0008_57/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0008_57/sequences.malign)
@@ -4236,6 +7183,20 @@ Seeds in cluster:
 | CAI34587.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |         45 |
 
 Number of blast hits in cluster: 7
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       8 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |        8 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |       8 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0008_246/sequences.afa)
 
@@ -4269,6 +7230,25 @@ Seeds in cluster:
 | AFW04837.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O53        |
 
 Number of blast hits in cluster: 6
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       8 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        7 |
+| Hafniaceae         |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       3 |
+| Salmonella   |       2 |
+| Buttiauxella |       1 |
+| Citrobacter  |       1 |
+| Hafnia       |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0008_223/sequences.afa)
 
@@ -4307,6 +7287,27 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 6
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       7 |
+| Alteromonadales  |       1 |
+
+|                        |   family |
+|:-----------------------|---------:|
+| Enterobacteriaceae     |        6 |
+| Erwiniaceae            |        1 |
+| Pseudoalteromonadaceae |        1 |
+
+|                   |   genus |
+|:------------------|--------:|
+| Escherichia       |       3 |
+| Enterobacter      |       2 |
+| Erwinia           |       1 |
+| Pseudoalteromonas |       1 |
+| Shigella          |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0008_199/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0008_199/sequences.malign)
@@ -4343,6 +7344,26 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 7
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       7 |
+| Flavobacteriales |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        6 |
+| Flavobacteriaceae  |        1 |
+| Hafniaceae         |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Enterobacter  |       3 |
+| Escherichia   |       3 |
+| Hafnia        |       1 |
+| Tenacibaculum |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0008_181/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0008_181/sequences.malign)
@@ -4376,6 +7397,26 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 6
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+| Pseudomonadales  |       3 |
+| Rhodocyclales    |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+| Pseudomonadaceae   |        3 |
+| Zoogloeaceae       |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       3 |
+| Pseudomonas |       3 |
+| Thauera     |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0008_157/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0008_157/sequences.malign)
@@ -4401,6 +7442,25 @@ Seeds in cluster:
 | BAQ01563.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O116       |
 
 Number of blast hits in cluster: 7
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       8 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        6 |
+| Erwiniaceae        |        1 |
+| Morganellaceae     |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Enterobacter |       4 |
+| Escherichia  |       2 |
+| Erwinia      |       1 |
+| Proteus      |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0008_15/sequences.afa)
 
@@ -4432,6 +7492,25 @@ Seeds in cluster:
 | ACD37006.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 2          |
 
 Number of blast hits in cluster: 6
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       7 |
+| Aeromonadales    |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        7 |
+| Aeromonadaceae     |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       5 |
+| Aeromonas    |       1 |
+| Enterobacter |       1 |
+| Shigella     |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0008_123/sequences.afa)
 
@@ -4470,6 +7549,28 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 6
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       6 |
+| Alteromonadales  |       1 |
+| Moraxellales     |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+| Morganellaceae     |        2 |
+| Moraxellaceae      |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Escherichia   |       2 |
+| Providencia   |       2 |
+| Acinetobacter |       1 |
+| Cedecea       |       1 |
+| Motilimonas   |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0008_122/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0008_122/sequences.malign)
@@ -4505,6 +7606,24 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 8
 
+#### Taxonomy
+
+|               |   order |
+|:--------------|--------:|
+| Eubacteriales |       7 |
+
+|                 |   family |
+|:----------------|---------:|
+| Lachnospiraceae |        5 |
+| Eubacteriaceae  |        1 |
+
+|                 |   genus |
+|:----------------|--------:|
+| Bariatricus     |       1 |
+| Enterocloster   |       1 |
+| Eubacterium     |       1 |
+| Sedimentibacter |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0008_114/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0008_114/sequences.malign)
@@ -4529,6 +7648,22 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 8
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       8 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Lactobacillaceae |        8 |
+
+|                      |   genus |
+|:---------------------|--------:|
+| Limosilactobacillus  |       5 |
+| Companilactobacillus |       2 |
+| Lactobacillus        |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0008_1/sequences.afa)
 
@@ -4556,6 +7691,25 @@ Seeds in cluster:
 | ACD37111.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 9          |
 
 Number of blast hits in cluster: 5
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       6 |
+| Aeromonadales    |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        6 |
+| Aeromonadaceae     |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       3 |
+| Shigella    |       2 |
+| Aeromonas   |       1 |
+| Citrobacter |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_97/sequences.afa)
 
@@ -4595,6 +7749,24 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 4
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       6 |
+| Aeromonadales    |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        6 |
+| Aeromonadaceae     |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       5 |
+| Aeromonas    |       1 |
+| Enterobacter |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_89/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_89/sequences.malign)
@@ -4628,6 +7800,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 5
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       7 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        7 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       4 |
+| Salmonella  |       2 |
+| Citrobacter |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_8/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_8/sequences.malign)
@@ -4660,6 +7848,23 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 6
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       7 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        6 |
+| Hafniaceae         |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       4 |
+| Enterobacter |       2 |
+| Edwardsiella |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_69/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_69/sequences.malign)
@@ -4684,6 +7889,30 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 7
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Bacteroidales    |       3 |
+| Flavobacteriales |       2 |
+| Chitinophagales  |       1 |
+| Cytophagales     |       1 |
+
+|                   |   family |
+|:------------------|---------:|
+| Bacteroidaceae    |        3 |
+| Flavobacteriaceae |        2 |
+| Chitinophagaceae  |        1 |
+| Spirosomaceae     |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Bacteroides    |       2 |
+| Flavobacterium |       2 |
+| Chitinophaga   |       1 |
+| Dyadobacter    |       1 |
+| Mediterranea   |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_50/sequences.afa)
 
@@ -4711,6 +7940,21 @@ Seeds in cluster:
 | BAQ01012.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O50        |
 
 Number of blast hits in cluster: 5
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       7 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        7 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       5 |
+| Enterobacter |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_49/sequences.afa)
 
@@ -4747,6 +7991,21 @@ Seeds in cluster:
 | ACD37051.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 14         |
 
 Number of blast hits in cluster: 4
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       7 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        7 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       6 |
+| Shigella    |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_26/sequences.afa)
 
@@ -4787,6 +8046,25 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 5
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       5 |
+| Vibrionales      |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+| Vibrionaceae       |        2 |
+| Morganellaceae     |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       4 |
+| Vibrio      |       2 |
+| Providencia |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_247/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_247/sequences.malign)
@@ -4822,6 +8100,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 7
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       7 |
+
+|              |   family |
+|:-------------|---------:|
+| Yersiniaceae |        7 |
+
+|          |   genus |
+|:---------|--------:|
+| Serratia |       7 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_224/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_224/sequences.malign)
@@ -4847,6 +8139,27 @@ Seeds in cluster:
 | BAQ00569.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O5         |
 
 Number of blast hits in cluster: 6
+
+#### Taxonomy
+
+|                   |   order |
+|:------------------|--------:|
+| Enterobacterales  |       6 |
+| Campylobacterales |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        6 |
+| Arcobacteraceae    |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Escherichia   |       2 |
+| Aliarcobacter |       1 |
+| Citrobacter   |       1 |
+| Enterobacter  |       1 |
+| Klebsiella    |       1 |
+| Salmonella    |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_207/sequences.afa)
 
@@ -4877,6 +8190,21 @@ Seeds in cluster:
 | BAQ01960.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O179       |
 
 Number of blast hits in cluster: 6
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       7 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        7 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       4 |
+| Enterobacter |       3 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_195/sequences.afa)
 
@@ -4910,6 +8238,24 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 6
 
+#### Taxonomy
+
+|                    |   order |
+|:-------------------|--------:|
+| Moraxellales       |       4 |
+| Sphingobacteriales |       3 |
+
+|                     |   family |
+|:--------------------|---------:|
+| Moraxellaceae       |        4 |
+| Sphingobacteriaceae |        3 |
+
+|                  |   genus |
+|:-----------------|--------:|
+| Acinetobacter    |       4 |
+| Pedobacter       |       2 |
+| Mucilaginibacter |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_188/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_188/sequences.malign)
@@ -4935,6 +8281,22 @@ Seeds in cluster:
 | AFW04716.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O45        |
 
 Number of blast hits in cluster: 6
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       7 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        7 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       3 |
+| Salmonella  |       3 |
+| Citrobacter |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_182/sequences.afa)
 
@@ -4962,6 +8324,23 @@ Seeds in cluster:
 | ABB65530.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 4          |
 
 Number of blast hits in cluster: 5
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       7 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        7 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       3 |
+| Shigella     |       2 |
+| Enterobacter |       1 |
+| Kosakonia    |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_172/sequences.afa)
 
@@ -4992,6 +8371,25 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 7
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       6 |
+| Vibrionales      |       1 |
+
+|                |   family |
+|:---------------|---------:|
+| Yersiniaceae   |        4 |
+| Morganellaceae |        2 |
+| Vibrionaceae   |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Yersinia       |       4 |
+| Photorhabdus   |       2 |
+| Photobacterium |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_146/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_146/sequences.malign)
@@ -5018,6 +8416,25 @@ Seeds in cluster:
 | AFW04790.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O52        |
 
 Number of blast hits in cluster: 5
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       7 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        5 |
+| Morganellaceae     |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Citrobacter |       2 |
+| Escherichia |       2 |
+| Proteus     |       1 |
+| Salmonella  |       1 |
+| Xenorhabdus |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_143/sequences.afa)
 
@@ -5055,6 +8472,21 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 6
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       7 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        7 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       5 |
+| Enterobacter |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_136/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_136/sequences.malign)
@@ -5085,6 +8517,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 6
 
+#### Taxonomy
+
+|              |   order |
+|:-------------|--------:|
+| Moraxellales |       7 |
+
+|               |   family |
+|:--------------|---------:|
+| Moraxellaceae |        7 |
+
+|               |   genus |
+|:--------------|--------:|
+| Acinetobacter |       7 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_135/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_135/sequences.malign)
@@ -5112,6 +8558,23 @@ Seeds in cluster:
 | AAY28249.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O174       |
 
 Number of blast hits in cluster: 6
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       7 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        6 |
+| Morganellaceae     |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       4 |
+| Enterobacter |       2 |
+| Proteus      |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_128/sequences.afa)
 
@@ -5145,6 +8608,23 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 6
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       7 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        7 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       3 |
+| Citrobacter  |       2 |
+| Cedecea      |       1 |
+| Enterobacter |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_126/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_126/sequences.malign)
@@ -5175,6 +8655,26 @@ Seeds in cluster:
 | ACK44379.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O42        |
 
 Number of blast hits in cluster: 5
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       5 |
+| Burkholderiales  |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        3 |
+| Burkholderiaceae   |        2 |
+| Morganellaceae     |        2 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       3 |
+| Morganella   |       2 |
+| Burkholderia |       1 |
+| Caballeronia |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_124/sequences.afa)
 
@@ -5211,6 +8711,20 @@ Seeds in cluster:
 | CAI33389.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 15C        |
 
 Number of blast hits in cluster: 4
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       7 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |        7 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |       7 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0007_100/sequences.afa)
 
@@ -5254,6 +8768,24 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 5
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+| Aeromonadales    |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+| Aeromonadaceae     |        2 |
+
+|              |   genus |
+|:-------------|--------:|
+| Aeromonas    |       2 |
+| Enterobacter |       2 |
+| Escherichia  |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_9/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_9/sequences.malign)
@@ -5284,6 +8816,24 @@ Seeds in cluster:
 | AAR24270.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 13         |
 
 Number of blast hits in cluster: 4
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       6 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+| Morganellaceae     |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       3 |
+| Morganella  |       1 |
+| Proteus     |       1 |
+| Shigella    |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_86/sequences.afa)
 
@@ -5319,6 +8869,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 5
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       6 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        6 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       4 |
+| Enterobacter |       1 |
+| Trabulsiella |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_84/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_84/sequences.malign)
@@ -5348,6 +8914,27 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 6
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Moraxellales     |       2 |
+| Vibrionales      |       2 |
+| Alteromonadales  |       1 |
+| Hyphomicrobiales |       1 |
+
+|                |   family |
+|:---------------|---------:|
+| Moraxellaceae  |        2 |
+| Vibrionaceae   |        2 |
+| Shewanellaceae |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Psychrobacter |       2 |
+| Vibrio        |       2 |
+| Shewanella    |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_77/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_77/sequences.malign)
@@ -5374,6 +8961,21 @@ Seeds in cluster:
 | AFW04860.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O60        |
 
 Number of blast hits in cluster: 4
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       6 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        6 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       3 |
+| Salmonella  |       3 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_73/sequences.afa)
 
@@ -5411,6 +9013,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 5
 
+#### Taxonomy
+
+|              |   order |
+|:-------------|--------:|
+| Moraxellales |       6 |
+
+|               |   family |
+|:--------------|---------:|
+| Moraxellaceae |        6 |
+
+|               |   genus |
+|:--------------|--------:|
+| Acinetobacter |       6 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_62/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_62/sequences.malign)
@@ -5437,6 +9053,23 @@ Seeds in cluster:
 | AAS98031.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 11         |
 
 Number of blast hits in cluster: 4
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       6 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        5 |
+| Hafniaceae         |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       4 |
+| Hafnia      |       1 |
+| Shigella    |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_54/sequences.afa)
 
@@ -5471,6 +9104,21 @@ Seeds in cluster:
 | AAL27339.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 6          |
 
 Number of blast hits in cluster: 3
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       6 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        6 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       5 |
+| Shigella    |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_44/sequences.afa)
 
@@ -5512,6 +9160,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 5
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       6 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Morganellaceae     |        4 |
+| Enterobacteriaceae |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Proteus     |       4 |
+| Escherichia |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_4/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_4/sequences.malign)
@@ -5542,6 +9206,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 5
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       6 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        6 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       4 |
+| Cedecea      |       1 |
+| Enterobacter |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_37/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_37/sequences.malign)
@@ -5571,6 +9251,25 @@ Seeds in cluster:
 | ADJ19217.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O61        |
 
 Number of blast hits in cluster: 5
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+| Vibrionales      |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+| Vibrionaceae       |        2 |
+
+|                |   genus |
+|:---------------|--------:|
+| Escherichia    |       3 |
+| Citrobacter    |       1 |
+| Photobacterium |       1 |
+| Vibrio         |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_329/sequences.afa)
 
@@ -5604,6 +9303,21 @@ Seeds in cluster:
 | ACD37078.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 15         |
 
 Number of blast hits in cluster: 4
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       6 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        6 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       5 |
+| Shigella    |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_284/sequences.afa)
 
@@ -5641,6 +9355,24 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 5
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+| Aeromonadales    |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+| Aeromonadaceae     |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Aeromonas   |       2 |
+| Escherichia |       2 |
+| Salmonella  |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_279/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_279/sequences.malign)
@@ -5670,6 +9402,21 @@ Seeds in cluster:
 | AAD50486.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O113       |
 
 Number of blast hits in cluster: 5
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       6 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        6 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       4 |
+| Enterobacter |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_274/sequences.afa)
 
@@ -5703,6 +9450,23 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 5
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       6 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Lactobacillaceae |        4 |
+| Streptococcaceae |        2 |
+
+|                     |   genus |
+|:--------------------|--------:|
+| Lactobacillus       |       2 |
+| Limosilactobacillus |       2 |
+| Streptococcus       |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_273/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_273/sequences.malign)
@@ -5728,6 +9492,32 @@ Seeds in cluster:
 | ADB02825.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O119       |
 
 Number of blast hits in cluster: 5
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+| Bacteroidales    |       1 |
+| Neisseriales     |       1 |
+| Sphingomonadales |       1 |
+| Vibrionales      |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+| Chromobacteriaceae |        1 |
+| Erythrobacteraceae |        1 |
+| Tannerellaceae     |        1 |
+| Vibrionaceae       |        1 |
+
+|                 |   genus |
+|:----------------|--------:|
+| Escherichia     |       2 |
+| Chromobacterium |       1 |
+| Parabacteroides |       1 |
+| Porphyrobacter  |       1 |
+| Vibrio          |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_268/sequences.afa)
 
@@ -5758,6 +9548,28 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 6
 
+#### Taxonomy
+
+|                   |   order |
+|:------------------|--------:|
+| Vibrionales       |       3 |
+| Oceanospirillales |       1 |
+| Pseudomonadales   |       1 |
+| Thiotrichales     |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Vibrionaceae       |        3 |
+| Marinobacteraceae  |        1 |
+| Oceanospirillaceae |        1 |
+| Thiotrichaceae     |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Vibrio       |       3 |
+| Marinobacter |       1 |
+| Marinomonas  |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_252/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_252/sequences.malign)
@@ -5782,6 +9594,20 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 6
+
+#### Taxonomy
+
+|             |   order |
+|:------------|--------:|
+| Vibrionales |       6 |
+
+|              |   family |
+|:-------------|---------:|
+| Vibrionaceae |        6 |
+
+|        |   genus |
+|:-------|--------:|
+| Vibrio |       6 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_244/sequences.afa)
 
@@ -5809,6 +9635,24 @@ Seeds in cluster:
 | BAH24292.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O7         |
 
 Number of blast hits in cluster: 4
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       5 |
+| Aeromonadales    |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        5 |
+| Aeromonadaceae     |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       3 |
+| Aeromonas   |       1 |
+| Kluyvera    |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_236/sequences.afa)
 
@@ -5839,6 +9683,23 @@ Seeds in cluster:
 | BAQ00736.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O22        |
 
 Number of blast hits in cluster: 5
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       6 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        5 |
+| Hafniaceae         |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       3 |
+| Enterobacter |       2 |
+| Hafnia       |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_226/sequences.afa)
 
@@ -5872,6 +9733,24 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 5
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       6 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+| Hafniaceae         |        2 |
+
+|                 |   genus |
+|:----------------|--------:|
+| Escherichia     |       3 |
+| Citrobacter     |       1 |
+| Hafnia          |       1 |
+| Obesumbacterium |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_22/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_22/sequences.malign)
@@ -5901,6 +9780,23 @@ Seeds in cluster:
 | BAQ01917.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O175       |
 
 Number of blast hits in cluster: 5
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       6 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+| Morganellaceae     |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       4 |
+| Proteus     |       1 |
+| Providencia |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_206/sequences.afa)
 
@@ -5934,6 +9830,21 @@ Seeds in cluster:
 | BAQ01687.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O134       |
 
 Number of blast hits in cluster: 4
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       6 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        6 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       5 |
+| Enterobacter |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_187/sequences.afa)
 
@@ -5971,6 +9882,23 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 5
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       6 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+| Hafniaceae         |        2 |
+
+|              |   genus |
+|:-------------|--------:|
+| Escherichia  |       3 |
+| Hafnia       |       2 |
+| Enterobacter |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_175/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_175/sequences.malign)
@@ -6002,6 +9930,22 @@ Seeds in cluster:
 | BAQ01894.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O171       |
 
 Number of blast hits in cluster: 5
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       6 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+| Hafniaceae         |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       4 |
+| Hafnia      |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_173/sequences.afa)
 
@@ -6035,6 +9979,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 5
 
+#### Taxonomy
+
+|              |   order |
+|:-------------|--------:|
+| Moraxellales |       6 |
+
+|               |   family |
+|:--------------|---------:|
+| Moraxellaceae |        6 |
+
+|               |   genus |
+|:--------------|--------:|
+| Acinetobacter |       6 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_167/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_167/sequences.malign)
@@ -6067,6 +10025,27 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 5
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+| Aeromonadales    |       1 |
+| Vibrionales      |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+| Aeromonadaceae     |        1 |
+| Vibrionaceae       |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Enterobacter   |       3 |
+| Aeromonas      |       1 |
+| Escherichia    |       1 |
+| Photobacterium |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_156/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_156/sequences.malign)
@@ -6097,6 +10076,26 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 5
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Moraxellales    |       4 |
+| Aeromonadales   |       1 |
+| Alteromonadales |       1 |
+
+|                        |   family |
+|:-----------------------|---------:|
+| Moraxellaceae          |        4 |
+| Aeromonadaceae         |        1 |
+| Pseudoalteromonadaceae |        1 |
+
+|                   |   genus |
+|:------------------|--------:|
+| Acinetobacter     |       4 |
+| Aeromonas         |       1 |
+| Pseudoalteromonas |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_140/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_140/sequences.malign)
@@ -6121,6 +10120,23 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 6
+
+#### Taxonomy
+
+|               |   order |
+|:--------------|--------:|
+| Eubacteriales |       5 |
+
+|                 |   family |
+|:----------------|---------:|
+| Lachnospiraceae |        3 |
+| Clostridiaceae  |        1 |
+
+|                    |   genus |
+|:-------------------|--------:|
+| Mediterraneibacter |       2 |
+| Blautia            |       1 |
+| Clostridium        |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_14/sequences.afa)
 
@@ -6147,6 +10163,21 @@ Seeds in cluster:
 | ADC54974.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O85        |
 
 Number of blast hits in cluster: 5
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       6 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        6 |
+
+|             |   genus |
+|:------------|--------:|
+| Salmonella  |       4 |
+| Escherichia |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0006_117/sequences.afa)
 
@@ -6179,6 +10210,23 @@ Seeds in cluster:
 | CAX18360.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:15       |
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+| Vibrionales      |       1 |
+
+|              |   family |
+|:-------------|---------:|
+| Yersiniaceae |        4 |
+| Vibrionaceae |        1 |
+
+|          |   genus |
+|:---------|--------:|
+| Yersinia |       4 |
+| Vibrio   |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_98/sequences.afa)
 
@@ -6222,6 +10270,26 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 4
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+| Vibrionales      |       2 |
+| Aeromonadales    |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+| Vibrionaceae       |        2 |
+| Aeromonadaceae     |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Escherichia    |       2 |
+| Photobacterium |       2 |
+| Aeromonas      |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_95/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_95/sequences.malign)
@@ -6254,6 +10322,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 4
 
+#### Taxonomy
+
+|              |   order |
+|:-------------|--------:|
+| Moraxellales |       5 |
+
+|               |   family |
+|:--------------|---------:|
+| Moraxellaceae |        5 |
+
+|               |   genus |
+|:--------------|--------:|
+| Acinetobacter |       5 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_58/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_58/sequences.malign)
@@ -6279,6 +10361,24 @@ Seeds in cluster:
 | BAQ01207.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O74        |
 
 Number of blast hits in cluster: 4
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       5 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        3 |
+| Erwiniaceae        |        1 |
+| Yersiniaceae       |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       3 |
+| Pantoea     |       1 |
+| Yersinia    |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_33/sequences.afa)
 
@@ -6312,6 +10412,25 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 4
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       3 |
+| Bacteroidales   |       2 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |        3 |
+| Bacteroidaceae   |        1 |
+| Muribaculaceae   |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |       3 |
+| Bacteroides   |       1 |
+| Duncaniella   |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_30/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_30/sequences.malign)
@@ -6337,6 +10456,23 @@ Seeds in cluster:
 | CAI33466.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 16F        |
 
 Number of blast hits in cluster: 4
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Eubacteriales   |       3 |
+| Lactobacillales |       2 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |        2 |
+| Lachnospiraceae  |        1 |
+| Oscillospiraceae |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_291/sequences.afa)
 
@@ -6367,6 +10503,27 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 5
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+| Vibrionales      |       1 |
+
+|                |   family |
+|:---------------|---------:|
+| Hafniaceae     |        2 |
+| Morganellaceae |        1 |
+| Vibrionaceae   |        1 |
+| Yersiniaceae   |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Edwardsiella |       2 |
+| Providencia  |       1 |
+| Vibrio       |       1 |
+| Yersinia     |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_277/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_277/sequences.malign)
@@ -6394,6 +10551,20 @@ Seeds in cluster:
 | CAI34454.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 40         |
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       5 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |        5 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |       5 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_275/sequences.afa)
 
@@ -6432,6 +10603,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 3
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       5 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |        5 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |       5 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_269/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_269/sequences.malign)
@@ -6457,6 +10642,20 @@ Seeds in cluster:
 | CAI32727.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          2 |
 
 Number of blast hits in cluster: 4
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       5 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |        5 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |       5 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_267/sequences.afa)
 
@@ -6490,6 +10689,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       5 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |        5 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |       5 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_265/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_265/sequences.malign)
@@ -6515,6 +10728,20 @@ Seeds in cluster:
 | AHB32283.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O21        |
 
 Number of blast hits in cluster: 4
+
+#### Taxonomy
+
+|              |   order |
+|:-------------|--------:|
+| Moraxellales |       5 |
+
+|               |   family |
+|:--------------|---------:|
+| Moraxellaceae |        5 |
+
+|               |   genus |
+|:--------------|--------:|
+| Acinetobacter |       5 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_249/sequences.afa)
 
@@ -6542,6 +10769,25 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 4
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       5 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+| Yersiniaceae       |        2 |
+| Morganellaceae     |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Yersinia    |       2 |
+| Cedecea     |       1 |
+| Escherichia |       1 |
+| Xenorhabdus |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_248/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_248/sequences.malign)
@@ -6566,6 +10812,21 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 5
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       5 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Lactobacillaceae |        5 |
+
+|                    |   genus |
+|:-------------------|--------:|
+| Loigolactobacillus |       4 |
+| Lactobacillus      |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_232/sequences.afa)
 
@@ -6592,6 +10853,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 5
 
+#### Taxonomy
+
+|               |   order |
+|:--------------|--------:|
+| Bacteroidales |       5 |
+
+|                |   family |
+|:---------------|---------:|
+| Bacteroidaceae |        3 |
+| Muribaculaceae |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Bacteroides |       2 |
+| Phocaeicola |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_229/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_229/sequences.malign)
@@ -6617,6 +10894,23 @@ Seeds in cluster:
 | BAQ01999.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O181       |
 
 Number of blast hits in cluster: 4
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       5 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        3 |
+| Morganellaceae     |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       3 |
+| Proteus     |       1 |
+| Providencia |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_219/sequences.afa)
 
@@ -6647,6 +10941,21 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 5
 
+#### Taxonomy
+
+|             |   order |
+|:------------|--------:|
+| Vibrionales |       5 |
+
+|              |   family |
+|:-------------|---------:|
+| Vibrionaceae |        5 |
+
+|            |   genus |
+|:-----------|--------:|
+| Vibrio     |       4 |
+| Aliivibrio |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_215/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_215/sequences.malign)
@@ -6672,6 +10981,22 @@ Seeds in cluster:
 | ACA24912.1          | Enterobacterales | Enterobacteriaceae | Shigella | Shigella dysenteriae |         10 |
 
 Number of blast hits in cluster: 4
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       5 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        5 |
+
+|              |   genus |
+|:-------------|--------:|
+| Enterobacter |       2 |
+| Escherichia  |       2 |
+| Shigella     |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_210/sequences.afa)
 
@@ -6703,6 +11028,20 @@ Seeds in cluster:
 | ADN43845.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O126       |
 
 Number of blast hits in cluster: 3
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       5 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        5 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       5 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_205/sequences.afa)
 
@@ -6736,6 +11075,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 4
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       5 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |        5 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |       5 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_190/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_190/sequences.malign)
@@ -6766,6 +11119,23 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 4
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       5 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+| Hafniaceae         |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
+| Shigella    |       2 |
+| Hafnia      |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_176/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_176/sequences.malign)
@@ -6795,6 +11165,26 @@ Seeds in cluster:
 | BAQ00780.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O30        |
 
 Number of blast hits in cluster: 4
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+| Vibrionales      |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+| Vibrionaceae       |        2 |
+| Morganellaceae     |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
+| Aliivibrio  |       1 |
+| Proteus     |       1 |
+| Vibrio      |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_162/sequences.afa)
 
@@ -6827,6 +11217,20 @@ Seeds in cluster:
 | ABE98413.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O117       |
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       5 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        5 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       5 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_160/sequences.afa)
 
@@ -6861,6 +11265,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 5
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       5 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+| Budviciaceae       |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Enterobacter   |       4 |
+| Jinshanibacter |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_131/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_131/sequences.malign)
@@ -6886,6 +11306,25 @@ Seeds in cluster:
 | AAT77177.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O114       |
 
 Number of blast hits in cluster: 4
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+| Moraxellales     |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+| Moraxellaceae      |        2 |
+| Budviciaceae       |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Acinetobacter |       2 |
+| Escherichia   |       2 |
+| Pragia        |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_127/sequences.afa)
 
@@ -6918,6 +11357,29 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 5
 
+#### Taxonomy
+
+|                   |   order |
+|:------------------|--------:|
+| Xanthomonadales   |       2 |
+| Moraxellales      |       1 |
+| Oceanospirillales |       1 |
+| Pseudomonadales   |       1 |
+
+|                   |   family |
+|:------------------|---------:|
+| Xanthomonadaceae  |        2 |
+| Halomonadaceae    |        1 |
+| Marinobacteraceae |        1 |
+| Moraxellaceae     |        1 |
+
+|                  |   genus |
+|:-----------------|--------:|
+| Halomonas        |       1 |
+| Lysobacter       |       1 |
+| Marinobacter     |       1 |
+| Stenotrophomonas |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_101/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0005_101/sequences.malign)
@@ -6942,6 +11404,23 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 4
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Vibrionales     |       3 |
+| Alteromonadales |       1 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Vibrionaceae     |        3 |
+| Alteromonadaceae |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Vibrio         |       3 |
+| Aliagarivorans |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_64/sequences.afa)
 
@@ -6968,6 +11447,24 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 4
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Pasteurellales   |       3 |
+| Enterobacterales |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Pasteurellaceae    |        3 |
+| Enterobacteriaceae |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Gallibacterium |       2 |
+| Citrobacter    |       1 |
+| Haemophilus    |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_60/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_60/sequences.malign)
@@ -6993,6 +11490,25 @@ Seeds in cluster:
 | CAN87666.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O45        |
 
 Number of blast hits in cluster: 3
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+| Vibrionales      |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+| Morganellaceae     |        1 |
+| Vibrionaceae       |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
+| Proteus     |       1 |
+| Vibrio      |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_45/sequences.afa)
 
@@ -7024,6 +11540,21 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 3
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       3 |
+| Citrobacter |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_35/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_35/sequences.malign)
@@ -7049,6 +11580,23 @@ Seeds in cluster:
 | BAQ00893.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O41        |
 
 Number of blast hits in cluster: 3
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+| Aeromonadales    |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        3 |
+| Aeromonadaceae     |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       3 |
+| Aeromonas   |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_317/sequences.afa)
 
@@ -7083,6 +11631,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       4 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |        4 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |       4 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_315/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_315/sequences.malign)
@@ -7112,6 +11674,23 @@ Seeds in cluster:
 | BAQ01793.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O156       |
 
 Number of blast hits in cluster: 3
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+| Aeromonadales    |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        3 |
+| Aeromonadaceae     |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       3 |
+| Aeromonas   |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_314/sequences.afa)
 
@@ -7144,6 +11723,23 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 4
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Vibrionales      |       3 |
+| Enterobacterales |       1 |
+
+|              |   family |
+|:-------------|---------:|
+| Vibrionaceae |        3 |
+| Yersiniaceae |        1 |
+
+|        |   genus |
+|:-------|--------:|
+| Vibrio |       3 |
+| Chania |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_299/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_299/sequences.malign)
@@ -7170,6 +11766,20 @@ Seeds in cluster:
 | ADI59445.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:2b       |
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+
+|              |   family |
+|:-------------|---------:|
+| Yersiniaceae |        4 |
+
+|          |   genus |
+|:---------|--------:|
+| Yersinia |       4 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_296/sequences.afa)
 
@@ -7206,6 +11816,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 4
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        3 |
+| Yersiniaceae       |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Enterobacter |       3 |
+| Serratia     |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_292/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_292/sequences.malign)
@@ -7232,6 +11858,21 @@ Seeds in cluster:
 | ACD36984.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 4          |
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
+| Shigella    |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_289/sequences.afa)
 
@@ -7267,6 +11908,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 3
 
+#### Taxonomy
+
+|              |   order |
+|:-------------|--------:|
+| Moraxellales |       4 |
+
+|               |   family |
+|:--------------|---------:|
+| Moraxellaceae |        4 |
+
+|               |   genus |
+|:--------------|--------:|
+| Acinetobacter |       4 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_287/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_287/sequences.malign)
@@ -7292,6 +11947,21 @@ Seeds in cluster:
 | BAQ01386.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O93        |
 
 Number of blast hits in cluster: 3
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+
+|              |   genus |
+|:-------------|--------:|
+| Enterobacter |       2 |
+| Escherichia  |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_282/sequences.afa)
 
@@ -7320,6 +11990,24 @@ Seeds in cluster:
 | ADI77033.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O71        |
 
 Number of blast hits in cluster: 3
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+| Aeromonadales    |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        3 |
+| Aeromonadaceae     |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
+| Aeromonas   |       1 |
+| Salmonella  |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_281/sequences.afa)
 
@@ -7350,6 +12038,25 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 4
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Alteromonadales |       3 |
+| Vibrionales     |       1 |
+
+|                        |   family |
+|:-----------------------|---------:|
+| Pseudoalteromonadaceae |        2 |
+| Shewanellaceae         |        1 |
+| Vibrionaceae           |        1 |
+
+|                   |   genus |
+|:------------------|--------:|
+| Pseudoalteromonas |       2 |
+| Shewanella        |       1 |
+| Vibrio            |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_278/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_278/sequences.malign)
@@ -7375,6 +12082,22 @@ Seeds in cluster:
 | ADN43838.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O115       |
 
 Number of blast hits in cluster: 3
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        3 |
+| Erwiniaceae        |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       3 |
+| Erwinia     |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_266/sequences.afa)
 
@@ -7405,6 +12128,20 @@ Seeds in cluster:
 | ABA42232.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O148       |
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        3 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       3 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_264/sequences.afa)
 
@@ -7438,6 +12175,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 3
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       4 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_263/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_263/sequences.malign)
@@ -7469,6 +12220,18 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 4
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Flavobacteriales |       2 |
+
+| family   |
+|----------|
+
+| genus   |
+|---------|
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_261/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_261/sequences.malign)
@@ -7494,6 +12257,20 @@ Seeds in cluster:
 | BAQ01584.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O120       |
 
 Number of blast hits in cluster: 3
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       4 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_257/sequences.afa)
 
@@ -7525,6 +12302,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 3
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Pseudomonadales |       4 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Pseudomonadaceae |        4 |
+
+|             |   genus |
+|:------------|--------:|
+| Pseudomonas |       4 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_250/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_250/sequences.malign)
@@ -7554,6 +12345,20 @@ Seeds in cluster:
 | AAZ85718.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O139       |
 
 Number of blast hits in cluster: 3
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       4 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_24/sequences.afa)
 
@@ -7587,6 +12392,21 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 3
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        3 |
+| Budviciaceae       |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       3 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_238/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_238/sequences.malign)
@@ -7616,6 +12436,21 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 4
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       3 |
+| Citrobacter |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_234/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_234/sequences.malign)
@@ -7641,6 +12476,21 @@ Seeds in cluster:
 | BAQ00653.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O16        |
 
 Number of blast hits in cluster: 3
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+
+|              |   genus |
+|:-------------|--------:|
+| Enterobacter |       2 |
+| Escherichia  |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_228/sequences.afa)
 
@@ -7673,6 +12523,24 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 4
 
+#### Taxonomy
+
+|               |   order |
+|:--------------|--------:|
+| Eubacteriales |       4 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Clostridiaceae   |        2 |
+| Lachnospiraceae  |        1 |
+| Oscillospiraceae |        1 |
+
+|                      |   genus |
+|:---------------------|--------:|
+| Clostridium          |       2 |
+| Mediterraneibacter   |       1 |
+| Pseudoflavonifractor |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_217/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_217/sequences.malign)
@@ -7697,6 +12565,20 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 4
+
+#### Taxonomy
+
+|               |   order |
+|:--------------|--------:|
+| Eubacteriales |       4 |
+
+|                |   family |
+|:---------------|---------:|
+| Clostridiaceae |        4 |
+
+|             |   genus |
+|:------------|--------:|
+| Clostridium |       4 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_212/sequences.afa)
 
@@ -7723,6 +12605,26 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 4
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+| Pseudomonadales  |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+| Erwiniaceae        |        1 |
+| Marinobacteraceae  |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Erwinia      |       1 |
+| Escherichia  |       1 |
+| Lelliottia   |       1 |
+| Marinobacter |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_180/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_180/sequences.malign)
@@ -7748,6 +12650,22 @@ Seeds in cluster:
 | BAQ02048.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O185       |
 
 Number of blast hits in cluster: 3
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        3 |
+| Morganellaceae     |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       3 |
+| Providencia |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_177/sequences.afa)
 
@@ -7778,6 +12696,23 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 4
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Aeromonadales    |       2 |
+| Enterobacterales |       2 |
+
+|                |   family |
+|:---------------|---------:|
+| Aeromonadaceae |        2 |
+| Morganellaceae |        2 |
+
+|              |   genus |
+|:-------------|--------:|
+| Aeromonas    |       2 |
+| Photorhabdus |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_169/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_169/sequences.malign)
@@ -7803,6 +12738,20 @@ Seeds in cluster:
 | BAQ01419.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O96        |
 
 Number of blast hits in cluster: 3
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       4 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_16/sequences.afa)
 
@@ -7836,6 +12785,21 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 3
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+
+|             |   genus |
+|:------------|--------:|
+| Shigella    |       3 |
+| Plesiomonas |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_153/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_153/sequences.malign)
@@ -7862,6 +12826,21 @@ Seeds in cluster:
 | ACD37037.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 3          |
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       4 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        4 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       3 |
+| Shigella    |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_132/sequences.afa)
 
@@ -7892,6 +12871,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 4
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       4 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Lactobacillaceae |        2 |
+| Streptococcaceae |        2 |
+
+|               |   genus |
+|:--------------|--------:|
+| Lactobacillus |       2 |
+| Streptococcus |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_119/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0004_119/sequences.malign)
@@ -7918,6 +12913,21 @@ Seeds in cluster:
 | ABD19779.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 16         |
 
 Number of blast hits in cluster: 1
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        3 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
+| Shigella    |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_93/sequences.afa)
 
@@ -7951,6 +12961,23 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+| Vibrionales      |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+| Vibrionaceae       |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       1 |
+| Vibrio      |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_82/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_82/sequences.malign)
@@ -7980,6 +13007,20 @@ Seeds in cluster:
 | BAQ01155.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O68        |
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        3 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_81/sequences.afa)
 
@@ -8011,6 +13052,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|              |   order |
+|:-------------|--------:|
+| Moraxellales |       3 |
+
+|               |   family |
+|:--------------|---------:|
+| Moraxellaceae |        3 |
+
+|               |   genus |
+|:--------------|--------:|
+| Acinetobacter |       3 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_59/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_59/sequences.malign)
@@ -8038,6 +13093,24 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 3
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+| Aeromonadales    |       1 |
+
+|                   |   family |
+|:------------------|---------:|
+| Pectobacteriaceae |        2 |
+| Aeromonadaceae    |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Aeromonas      |       1 |
+| Dickeya        |       1 |
+| Pectobacterium |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_326/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_326/sequences.malign)
@@ -8062,6 +13135,24 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 3
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+| Vibrionales      |       1 |
+
+|                |   family |
+|:---------------|---------:|
+| Morganellaceae |        2 |
+| Vibrionaceae   |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Proteus     |       1 |
+| Providencia |       1 |
+| Vibrio      |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_324/sequences.afa)
 
@@ -8088,6 +13179,20 @@ Seeds in cluster:
 | BAQ01137.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O65        |
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        3 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       3 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_322/sequences.afa)
 
@@ -8118,6 +13223,24 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 3
 
+#### Taxonomy
+
+|            |   order |
+|:-----------|--------:|
+| Bacillales |       3 |
+
+|                   |   family |
+|:------------------|---------:|
+| Bacillaceae       |        1 |
+| Planococcaceae    |        1 |
+| Staphylococcaceae |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Salicibibacter |       1 |
+| Salinicoccus   |       1 |
+| Sporosarcina   |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_321/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_321/sequences.malign)
@@ -8143,6 +13266,23 @@ Seeds in cluster:
 | BAQ01878.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O170       |
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+| Vibrionales      |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+| Vibrionaceae       |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       1 |
+| Vibrio      |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_320/sequences.afa)
 
@@ -8174,6 +13314,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+| Budviciaceae       |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
+| Budvicia    |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_319/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_319/sequences.malign)
@@ -8204,6 +13360,25 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+| Vibrionales      |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        1 |
+| Pectobacteriaceae  |        1 |
+| Vibrionaceae       |        1 |
+
+|                |   genus |
+|:---------------|--------:|
+| Pectobacterium |       1 |
+| Photobacterium |       1 |
+| Salmonella     |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_312/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_312/sequences.malign)
@@ -8233,6 +13408,21 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 3
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       3 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Lactobacillaceae |        3 |
+
+|             |   genus |
+|:------------|--------:|
+| Leuconostoc |       2 |
+| Weissella   |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_310/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_310/sequences.malign)
@@ -8257,6 +13447,20 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 3
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        3 |
+
+|              |   genus |
+|:-------------|--------:|
+| Enterobacter |       3 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_308/sequences.afa)
 
@@ -8283,6 +13487,21 @@ Seeds in cluster:
 | ADN43858.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O137       |
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        3 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
+| Citrobacter |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_307/sequences.afa)
 
@@ -8315,6 +13534,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 3
 
+#### Taxonomy
+
+|              |   order |
+|:-------------|--------:|
+| Moraxellales |       3 |
+
+|               |   family |
+|:--------------|---------:|
+| Moraxellaceae |        3 |
+
+|               |   genus |
+|:--------------|--------:|
+| Acinetobacter |       3 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_306/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_306/sequences.malign)
@@ -8340,6 +13573,22 @@ Seeds in cluster:
 | BAQ01169.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O69        |
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+| Hafniaceae         |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
+| Hafnia      |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_304/sequences.afa)
 
@@ -8370,6 +13619,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 3
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+| Burkholderiales  |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+
+|              |   genus |
+|:-------------|--------:|
+| Enterobacter |       1 |
+| Kosakonia    |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_301/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_301/sequences.malign)
@@ -8395,6 +13660,21 @@ Seeds in cluster:
 | ACD37072.1          | Enterobacterales | Enterobacteriaceae | Shigella | Shigella boydii |          7 |
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        3 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
+| Shigella    |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_294/sequences.afa)
 
@@ -8426,6 +13706,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+| Morganellaceae     |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
+| Providencia |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_288/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_288/sequences.malign)
@@ -8455,6 +13751,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 3
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+| Morganellaceae     |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Buttiauxella |       1 |
+| Providencia  |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_285/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_285/sequences.malign)
@@ -8480,6 +13792,20 @@ Seeds in cluster:
 | ADN43871.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O158       |
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        3 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       3 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_271/sequences.afa)
 
@@ -8512,6 +13838,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 3
 
+#### Taxonomy
+
+|             |   order |
+|:------------|--------:|
+| Vibrionales |       3 |
+
+|              |   family |
+|:-------------|---------:|
+| Vibrionaceae |        3 |
+
+|                |   genus |
+|:---------------|--------:|
+| Photobacterium |       3 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_262/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_262/sequences.malign)
@@ -8537,6 +13877,20 @@ Seeds in cluster:
 | BAQ00927.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O43        |
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        3 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       3 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_260/sequences.afa)
 
@@ -8568,6 +13922,20 @@ Seeds in cluster:
 | CAI34475.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 41A        |
 
 Number of blast hits in cluster: 1
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       3 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |        3 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |       3 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_254/sequences.afa)
 
@@ -8605,6 +13973,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       3 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |        3 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |       3 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_253/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_253/sequences.malign)
@@ -8636,6 +14018,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 3
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       3 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |        3 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |       3 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_245/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_245/sequences.malign)
@@ -8661,6 +14057,22 @@ Seeds in cluster:
 | BAQ02088.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O187       |
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+| Hafniaceae         |        1 |
+
+|                 |   genus |
+|:----------------|--------:|
+| Escherichia     |       2 |
+| Obesumbacterium |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_240/sequences.afa)
 
@@ -8693,6 +14105,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 3
 
+#### Taxonomy
+
+|               |   order |
+|:--------------|--------:|
+| Bacteroidales |       3 |
+
+|                |   family |
+|:---------------|---------:|
+| Tannerellaceae |        2 |
+| Bacteroidaceae |        1 |
+
+|                 |   genus |
+|:----------------|--------:|
+| Parabacteroides |       2 |
+| Bacteroides     |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_237/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_237/sequences.malign)
@@ -8717,6 +14145,20 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 3
+
+#### Taxonomy
+
+|              |   order |
+|:-------------|--------:|
+| Moraxellales |       3 |
+
+|               |   family |
+|:--------------|---------:|
+| Moraxellaceae |        3 |
+
+|               |   genus |
+|:--------------|--------:|
+| Acinetobacter |       3 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_221/sequences.afa)
 
@@ -8743,6 +14185,21 @@ Seeds in cluster:
 | AAY28257.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O177       |
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        3 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
+| Kosakonia   |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_220/sequences.afa)
 
@@ -8774,6 +14231,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       3 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |        3 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |       3 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_214/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_214/sequences.malign)
@@ -8803,6 +14274,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 3
 
+#### Taxonomy
+
+|               |   order |
+|:--------------|--------:|
+| Eubacteriales |       1 |
+| Neisseriales  |       1 |
+
+|                     |   family |
+|:--------------------|---------:|
+| Chromobacteriaceae  |        1 |
+| Syntrophomonadaceae |        1 |
+
+|         |   genus |
+|:--------|--------:|
+| Deefgea |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_208/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_208/sequences.malign)
@@ -8827,6 +14314,20 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 3
+
+#### Taxonomy
+
+|                |   order |
+|:---------------|--------:|
+| Pasteurellales |       3 |
+
+|                 |   family |
+|:----------------|---------:|
+| Pasteurellaceae |        3 |
+
+|             |   genus |
+|:------------|--------:|
+| Haemophilus |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_196/sequences.afa)
 
@@ -8853,6 +14354,20 @@ Seeds in cluster:
 | AEP25500.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:6        |
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       3 |
+
+|              |   family |
+|:-------------|---------:|
+| Yersiniaceae |        3 |
+
+|          |   genus |
+|:---------|--------:|
+| Yersinia |       3 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_179/sequences.afa)
 
@@ -8883,6 +14398,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 3
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       3 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Lactobacillaceae |        3 |
+
+|                     |   genus |
+|:--------------------|--------:|
+| Lactiplantibacillus |       3 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_174/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_174/sequences.malign)
@@ -8907,6 +14436,22 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 3
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       3 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Lactobacillaceae |        3 |
+
+|                     |   genus |
+|:--------------------|--------:|
+| Lactiplantibacillus |       1 |
+| Leuconostoc         |       1 |
+| Levilactobacillus   |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_165/sequences.afa)
 
@@ -8933,6 +14478,23 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 3
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Eubacteriales   |       2 |
+| Lactobacillales |       1 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Enterococcaceae  |        1 |
+| Lachnospiraceae  |        1 |
+| Oscillospiraceae |        1 |
+
+|              |   genus |
+|:-------------|--------:|
+| Enterococcus |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_154/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_154/sequences.malign)
@@ -8957,6 +14519,20 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 3
+
+#### Taxonomy
+
+|              |   order |
+|:-------------|--------:|
+| Moraxellales |       3 |
+
+|               |   family |
+|:--------------|---------:|
+| Moraxellaceae |        3 |
+
+|               |   genus |
+|:--------------|--------:|
+| Acinetobacter |       3 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_12/sequences.afa)
 
@@ -8983,6 +14559,20 @@ Seeds in cluster:
 | AHB32386.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O13        |
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|              |   order |
+|:-------------|--------:|
+| Moraxellales |       3 |
+
+|               |   family |
+|:--------------|---------:|
+| Moraxellaceae |        3 |
+
+|               |   genus |
+|:--------------|--------:|
+| Acinetobacter |       3 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0003_112/sequences.afa)
 
@@ -9011,6 +14601,21 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Alteromonadales |       1 |
+
+|                |   family |
+|:---------------|---------:|
+| Shewanellaceae |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Gallaecimonas |       1 |
+| Shewanella    |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_90/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_90/sequences.malign)
@@ -9036,6 +14641,22 @@ Seeds in cluster:
 | ADX97403.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:10       |
 
 Number of blast hits in cluster: 1
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+
+|              |   family |
+|:-------------|---------:|
+| Erwiniaceae  |        1 |
+| Yersiniaceae |        1 |
+
+|          |   genus |
+|:---------|--------:|
+| Pantoea  |       1 |
+| Yersinia |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_85/sequences.afa)
 
@@ -9068,6 +14689,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|              |   order |
+|:-------------|--------:|
+| Moraxellales |       2 |
+
+|               |   family |
+|:--------------|---------:|
+| Moraxellaceae |        2 |
+
+|               |   genus |
+|:--------------|--------:|
+| Psychrobacter |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_38/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_38/sequences.malign)
@@ -9092,6 +14727,20 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       2 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Lactobacillaceae |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Leuconostoc |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_333/sequences.afa)
 
@@ -9118,6 +14767,21 @@ Seeds in cluster:
 | WP_016238111.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O81        |
 
 Number of blast hits in cluster: 1
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Citrobacter |       1 |
+| Escherichia |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_332/sequences.afa)
 
@@ -9150,6 +14814,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        1 |
+| Morganellaceae     |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       1 |
+| Providencia |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_331/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_331/sequences.malign)
@@ -9175,6 +14855,21 @@ Seeds in cluster:
 | AAL27351.1          | Enterobacterales | Enterobacteriaceae | Shigella | Shigella boydii |          9 |
 
 Number of blast hits in cluster: 1
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       1 |
+| Shigella    |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_330/sequences.afa)
 
@@ -9205,6 +14900,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       2 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Lactobacillaceae |        2 |
+
+|                     |   genus |
+|:--------------------|--------:|
+| Limosilactobacillus |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_328/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_328/sequences.malign)
@@ -9229,6 +14938,20 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Pseudomonadales |       2 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Pseudomonadaceae |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Pseudomonas |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_327/sequences.afa)
 
@@ -9255,6 +14978,23 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Bacteroidales    |       1 |
+| Flavobacteriales |       1 |
+
+|                   |   family |
+|:------------------|---------:|
+| Flavobacteriaceae |        1 |
+| Odoribacteraceae  |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Butyricimonas |       1 |
+| Polaribacter  |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_325/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_325/sequences.malign)
@@ -9280,6 +15020,20 @@ Seeds in cluster:
 | BAQ01812.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O160       |
 
 Number of blast hits in cluster: 1
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_323/sequences.afa)
 
@@ -9310,6 +15064,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                    |   order |
+|:-------------------|--------:|
+| Erysipelotrichales |       2 |
+
+|                     |   family |
+|:--------------------|---------:|
+| Erysipelotrichaceae |        2 |
+
+|               |   genus |
+|:--------------|--------:|
+| Solobacterium |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_318/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_318/sequences.malign)
@@ -9334,6 +15102,20 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+
+|                |   family |
+|:---------------|---------:|
+| Morganellaceae |        2 |
+
+|         |   genus |
+|:--------|--------:|
+| Proteus |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_316/sequences.afa)
 
@@ -9360,6 +15142,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                   |   order |
+|:------------------|--------:|
+| Campylobacterales |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Campylobacteraceae |        2 |
+
+|               |   genus |
+|:--------------|--------:|
+| Campylobacter |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_313/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_313/sequences.malign)
@@ -9385,6 +15181,20 @@ Seeds in cluster:
 | AIG62747.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O178       |
 
 Number of blast hits in cluster: 1
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_311/sequences.afa)
 
@@ -9417,6 +15227,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Burkholderiales |       2 |
+
+| family   |
+|----------|
+
+|            |   genus |
+|:-----------|--------:|
+| Mitsuaria  |       1 |
+| Roseateles |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_309/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_309/sequences.malign)
@@ -9442,6 +15266,20 @@ Seeds in cluster:
 | BAQ01114.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O64        |
 
 Number of blast hits in cluster: 1
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_305/sequences.afa)
 
@@ -9472,6 +15310,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       2 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |        2 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_303/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_303/sequences.malign)
@@ -9496,6 +15348,20 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       2 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Lactobacillaceae |        2 |
+
+|               |   genus |
+|:--------------|--------:|
+| Lactobacillus |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_302/sequences.afa)
 
@@ -9522,6 +15388,20 @@ Seeds in cluster:
 | ADJ19203.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O161       |
 
 Number of blast hits in cluster: 1
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_300/sequences.afa)
 
@@ -9554,6 +15434,21 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       2 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Lactobacillaceae |        2 |
+
+|                   |   genus |
+|:------------------|--------:|
+| Latilactobacillus |       1 |
+| Pediococcus       |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_298/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_298/sequences.malign)
@@ -9578,6 +15473,20 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|             |   order |
+|:------------|--------:|
+| Vibrionales |       2 |
+
+|              |   family |
+|:-------------|---------:|
+| Vibrionaceae |        2 |
+
+|        |   genus |
+|:-------|--------:|
+| Vibrio |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_297/sequences.afa)
 
@@ -9604,6 +15513,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|            |   order |
+|:-----------|--------:|
+| Bacillales |       2 |
+
+|             |   family |
+|:------------|---------:|
+| Bacillaceae |        2 |
+
+|          |   genus |
+|:---------|--------:|
+| Bacillus |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_295/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_295/sequences.malign)
@@ -9628,6 +15551,23 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Coriobacteriales |       1 |
+| Eggerthellales   |       1 |
+
+|                   |   family |
+|:------------------|---------:|
+| Coriobacteriaceae |        1 |
+| Eggerthellaceae   |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Collinsella |       1 |
+| Slackia     |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_293/sequences.afa)
 
@@ -9654,6 +15594,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|               |   order |
+|:--------------|--------:|
+| Eubacteriales |       1 |
+
+|                 |   family |
+|:----------------|---------:|
+| Lachnospiraceae |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Anaerocolumna |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_290/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_290/sequences.malign)
@@ -9678,6 +15632,20 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|             |   order |
+|:------------|--------:|
+| Vibrionales |       2 |
+
+|              |   family |
+|:-------------|---------:|
+| Vibrionaceae |        2 |
+
+|        |   genus |
+|:-------|--------:|
+| Vibrio |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_29/sequences.afa)
 
@@ -9704,6 +15672,20 @@ Seeds in cluster:
 | AHB32242.2          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O5         |
 
 Number of blast hits in cluster: 1
+
+#### Taxonomy
+
+|              |   order |
+|:-------------|--------:|
+| Moraxellales |       2 |
+
+|               |   family |
+|:--------------|---------:|
+| Moraxellaceae |        2 |
+
+|               |   genus |
+|:--------------|--------:|
+| Acinetobacter |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_283/sequences.afa)
 
@@ -9736,6 +15718,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|              |   order |
+|:-------------|--------:|
+| Moraxellales |       2 |
+
+|               |   family |
+|:--------------|---------:|
+| Moraxellaceae |        2 |
+
+|               |   genus |
+|:--------------|--------:|
+| Acinetobacter |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_276/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_276/sequences.malign)
@@ -9761,6 +15757,20 @@ Seeds in cluster:
 | ACH97152.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O3         |
 
 Number of blast hits in cluster: 1
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_272/sequences.afa)
 
@@ -9791,6 +15801,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Pseudomonadales |       2 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Pseudomonadaceae |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Pseudomonas |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_259/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_259/sequences.malign)
@@ -9816,6 +15840,20 @@ Seeds in cluster:
 | BAQ01780.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O154       |
 
 Number of blast hits in cluster: 1
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_256/sequences.afa)
 
@@ -9848,6 +15886,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                    |   order |
+|:-------------------|--------:|
+| Desulfuromonadales |       2 |
+
+|                |   family |
+|:---------------|---------:|
+| Geobacteraceae |        2 |
+
+|           |   genus |
+|:----------|--------:|
+| Geobacter |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_251/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_251/sequences.malign)
@@ -9872,6 +15924,23 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Eubacteriales   |       1 |
+| Lactobacillales |       1 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Lachnospiraceae  |        1 |
+| Streptococcaceae |        1 |
+
+|               |   genus |
+|:--------------|--------:|
+| Enterocloster |       1 |
+| Streptococcus |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_25/sequences.afa)
 
@@ -9898,6 +15967,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|              |   order |
+|:-------------|--------:|
+| Neisseriales |       1 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Chromobacteriaceae |        1 |
+
+|                 |   genus |
+|:----------------|--------:|
+| Chromobacterium |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_242/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_242/sequences.malign)
@@ -9923,6 +16006,20 @@ Seeds in cluster:
 | BAQ01659.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O132       |
 
 Number of blast hits in cluster: 1
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_241/sequences.afa)
 
@@ -9955,6 +16052,23 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Alteromonadales |       1 |
+| Vibrionales     |       1 |
+
+|                |   family |
+|:---------------|---------:|
+| Shewanellaceae |        1 |
+| Vibrionaceae   |        1 |
+
+|            |   genus |
+|:-----------|--------:|
+| Shewanella |       1 |
+| Vibrio     |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_239/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_239/sequences.malign)
@@ -9979,6 +16093,20 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|             |   order |
+|:------------|--------:|
+| Vibrionales |       2 |
+
+|              |   family |
+|:-------------|---------:|
+| Vibrionaceae |        2 |
+
+|        |   genus |
+|:-------|--------:|
+| Vibrio |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_235/sequences.afa)
 
@@ -10005,6 +16133,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Flavobacteriales |       2 |
+
+|               |   family |
+|:--------------|---------:|
+| Weeksellaceae |        2 |
+
+|                 |   genus |
+|:----------------|--------:|
+| Elizabethkingia |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_233/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_233/sequences.malign)
@@ -10029,6 +16171,21 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Coriobacteriales |       2 |
+
+|                   |   family |
+|:------------------|---------:|
+| Atopobiaceae      |        1 |
+| Coriobacteriaceae |        1 |
+
+|           |   genus |
+|:----------|--------:|
+| Olsenella |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_230/sequences.afa)
 
@@ -10056,6 +16213,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 1
 
+#### Taxonomy
+
+|              |   order |
+|:-------------|--------:|
+| Moraxellales |       2 |
+
+|               |   family |
+|:--------------|---------:|
+| Moraxellaceae |        2 |
+
+|               |   genus |
+|:--------------|--------:|
+| Acinetobacter |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_222/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_222/sequences.malign)
@@ -10081,6 +16252,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+
+|              |   genus |
+|:-------------|--------:|
+| Enterobacter |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_193/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_193/sequences.malign)
@@ -10105,6 +16290,23 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Eubacteriales   |       1 |
+| Lactobacillales |       1 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Lachnospiraceae  |        1 |
+| Streptococcaceae |        1 |
+
+|                             |   genus |
+|:----------------------------|--------:|
+| Candidatus Pullilachnospira |       1 |
+| Lactococcus                 |       1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_191/sequences.afa)
 
@@ -10132,6 +16334,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 1
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_186/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_186/sequences.malign)
@@ -10156,6 +16372,20 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Coriobacteriales |       2 |
+
+|                   |   family |
+|:------------------|---------:|
+| Coriobacteriaceae |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Collinsella |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_185/sequences.afa)
 
@@ -10182,6 +16412,20 @@ Seeds in cluster:
 | ACA24890.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O159       |
 
 Number of blast hits in cluster: 1
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_184/sequences.afa)
 
@@ -10212,6 +16456,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|             |   order |
+|:------------|--------:|
+| Vibrionales |       2 |
+
+|              |   family |
+|:-------------|---------:|
+| Vibrionaceae |        2 |
+
+|        |   genus |
+|:-------|--------:|
+| Vibrio |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_183/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_183/sequences.malign)
@@ -10238,6 +16496,20 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 1
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+
+|            |   genus |
+|:-----------|--------:|
+| Salmonella |       2 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_158/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_158/sequences.malign)
@@ -10262,6 +16534,20 @@ Seeds in cluster:
 |---------------------|---------|----------|---------|-----------|------------|
 
 Number of blast hits in cluster: 2
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Flavobacteriales |       2 |
+
+|                   |   family |
+|:------------------|---------:|
+| Flavobacteriaceae |        2 |
+
+|               |   genus |
+|:--------------|--------:|
+| Tenacibaculum |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_139/sequences.afa)
 
@@ -10288,6 +16574,20 @@ Seeds in cluster:
 | CAI32957.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          8 |
 
 Number of blast hits in cluster: 1
+
+#### Taxonomy
+
+|                 |   order |
+|:----------------|--------:|
+| Lactobacillales |       2 |
+
+|                  |   family |
+|:-----------------|---------:|
+| Streptococcaceae |        2 |
+
+|               |   genus |
+|:--------------|--------:|
+| Streptococcus |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_130/sequences.afa)
 
@@ -10318,6 +16618,22 @@ Seeds in cluster:
 
 Number of blast hits in cluster: 2
 
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        1 |
+| Hafniaceae         |        1 |
+
+|             |   genus |
+|:------------|--------:|
+| Citrobacter |       1 |
+| Hafnia      |       1 |
+
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_116/sequences.afa)
 
 [Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_116/sequences.malign)
@@ -10343,6 +16659,20 @@ Seeds in cluster:
 | ADN43883.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O165       |
 
 Number of blast hits in cluster: 1
+
+#### Taxonomy
+
+|                  |   order |
+|:-----------------|--------:|
+| Enterobacterales |       2 |
+
+|                    |   family |
+|:-------------------|---------:|
+| Enterobacteriaceae |        2 |
+
+|             |   genus |
+|:------------|--------:|
+| Escherichia |       2 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/clustering/2205171701/clusters/0002_102/sequences.afa)
 

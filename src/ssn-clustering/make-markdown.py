@@ -63,11 +63,31 @@ for cluster in clusters:
                 hit_accessions.append(acc)
     outfile.write(f"Number of seeds in cluster: {len(seed_accessions)}\n\n")
     #outfile.write(f"Seeds in cluster: {', '.join(seed_accessions)}\n\n")
+    # Seed table
     outfile.write(f"Seeds in cluster:\n\n")
-    outfile.write(seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(seed_accessions),\
-        ['protein_accession', 'order', 'family', 'genus', 'species', 'serotype']].to_markdown(index=False)+'\n\n')
+    seeds_table = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(seed_accessions),\
+        ['protein_accession', 'order', 'family', 'genus', 'species', 'serotype']]
+    outfile.write(seeds_table.to_markdown(index=False)+'\n\n')
     outfile.write(f"Number of blast hits in cluster: {len(hit_accessions)}\n\n")
     #outfile.write(f"Blast hits in cluster: {', '.join(hit_accessions)}\n\n")
+    # Taxonomy
+    order_count_table = seeds_and_hits_df[seeds_and_hits_df.protein_accession.isin(accessions)]\
+        .groupby('order')[['order']].count()\
+        .rename_axis(None) \
+        .sort_values(by='order', ascending=False)
+    family_count_table = seeds_and_hits_df[seeds_and_hits_df.protein_accession.isin(accessions)]\
+        .groupby('family')[['family']].count()\
+        .rename_axis(None) \
+        .sort_values(by='family', ascending=False)
+    genus_count_table = seeds_and_hits_df[seeds_and_hits_df.protein_accession.isin(accessions)]\
+        .groupby('genus')[['genus']].count()\
+        .rename_axis(None) \
+        .sort_values(by='genus', ascending=False)
+    outfile.write(f"#### Taxonomy\n\n")
+    outfile.write(order_count_table.to_markdown()+'\n\n')
+    outfile.write(family_count_table.to_markdown()+'\n\n')
+    outfile.write(genus_count_table.to_markdown()+'\n\n')
+
     # Alignment
     fasta_msa_url = f"{github_url}/{dir}/sequences.afa"
     outfile.write(f"[MSA fasta]({fasta_msa_url})\n\n")
@@ -79,7 +99,6 @@ for cluster in clusters:
     # Logoplot
     logo_url = f"{github_url}/{dir}/sequences.logo-001.jpg"
     outfile.write(f"[Logoplot]({logo_url}) (OBS: this is still the old tool)\n\n")
-    # Taxonomy
 
     # Sugar images
     outfile.write("Sugars in cluster:\n\n")
