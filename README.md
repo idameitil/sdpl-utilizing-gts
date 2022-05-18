@@ -92,7 +92,7 @@ This will create the file `data/wzy/ssn-clusterings/all-vs-all-blast/[timestamp]
 
 Fragment sequences are manually added to the file `data/wzy/blast/ssn-clusterings/banned`.
 
-To get the clusters in the SSN, change the thresholds in `src/ssn-clustering/get-clusters.py` to the desired ones and run `sh src/ssn-clustering/cluster.sh [timestamp]`.
+To get the clusters in the SSN, change the thresholds in `src/ssn-clustering/get-clusters.py` to the desired ones and run `sh src/ssn-clustering/cluster.sh [timestamp] [ssn-threshold]`.
 
 This will create the folder `data/wzy/ssn-clusterings/clustering/[timestamp]` which contains a folder `clusters` with fasta files for all the clusters and jobscripts for making MSAs, a `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt`, `network`, `report.md` and `submit.sh`. Then, it copies all this to the HPC.
 

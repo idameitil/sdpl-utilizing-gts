@@ -92,7 +92,7 @@ for cluster in clusters:
                 images[CSDB_record_id] = [seed]
     for image in images:
         image_path = f"../../../../csdb/images/{image}.gif"
-        image_path = f"/Users/idamei/phd/data/csdb/images/{image}.gif"
+        #image_path = f"/Users/idamei/phd/data/csdb/images/{image}.gif"
         seeds = images[image]
         outfile.write(f"{seeds}:\n\n")
         outfile.write(f"![]({image_path})\n\n")

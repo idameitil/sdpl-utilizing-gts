@@ -6,7 +6,7 @@ sys.path.append("/Users/idamei/garryg/bioP/lib")
 
 timestamp = sys.argv[1]
 expansion_threshold = 10**-30
-ssn_threshold = 250
+ssn_threshold = int(sys.argv[2])
 cdhit_threshold = 99
 min_length_filter = 320
 max_length_filter = 600
