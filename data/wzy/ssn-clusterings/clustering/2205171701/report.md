@@ -46,11 +46,11 @@ Total number of members in cluster: 531
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
 [ACH50550.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy_missing/af_out/ACH50550.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -175,13 +175,13 @@ Total number of members in cluster: 135
 
 ![](../../../../csdb/images/2091.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AHB32215.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AHB32215.1/ranked_0.pdb)
 
 [AHB32861.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AHB32861.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                    |   order |
 |:-------------------|--------:|
@@ -337,11 +337,11 @@ Total number of members in cluster: 128
 
 ![](../../../../csdb/images/1401.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ00795.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ00795.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -399,11 +399,11 @@ Total number of members in cluster: 57
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
 [CAI34369.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/CAI34369.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -469,9 +469,9 @@ Total number of members in cluster: 55
 
 ![](../../../../csdb/images/25005.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                    |   order |
 |:-------------------|--------:|
@@ -528,11 +528,11 @@ Total number of members in cluster: 49
 
 ![](../../../../csdb/images/27746.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AHB32411.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AHB32411.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                    |   order |
 |:-------------------|--------:|
@@ -628,9 +628,9 @@ Total number of members in cluster: 49
 
 ![](../../../../csdb/images/740.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                    |   order |
 |:-------------------|--------:|
@@ -689,9 +689,9 @@ Total number of members in cluster: 48
 
 ![](../../../../csdb/images/704.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -777,9 +777,9 @@ Total number of members in cluster: 48
 
 ![](../../../../csdb/images/563.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -844,11 +844,11 @@ Total number of members in cluster: 43
 
 ![](../../../../csdb/images/30397.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [WP_000905563.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/WP_000905563.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -899,13 +899,13 @@ Total number of members in cluster: 39
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
 [AHB32687.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AHB32687.1/ranked_0.pdb)
 
 [BAQ01743.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ01743.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -985,11 +985,11 @@ Total number of members in cluster: 38
 
 ![](../../../../csdb/images/1551.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AKA20935.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AKA20935.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -1039,9 +1039,9 @@ Total number of members in cluster: 35
 
 ![](../../../../csdb/images/11026.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                    |   order |
 |:-------------------|--------:|
@@ -1103,11 +1103,11 @@ Total number of members in cluster: 34
 
 ![](../../../../csdb/images/1570.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ACD75796.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ACD75796.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                   |   order |
 |:------------------|--------:|
@@ -1163,9 +1163,9 @@ Total number of members in cluster: 33
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                    |   order |
 |:-------------------|--------:|
@@ -1216,11 +1216,11 @@ Total number of members in cluster: 30
 
 ![](../../../../csdb/images/1535.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ADI43271.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ADI43271.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -1270,11 +1270,11 @@ Total number of members in cluster: 29
 
 ![](../../../../csdb/images/1443.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AAM27615.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/AAM27615.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                        |   order |
 |:-----------------------|--------:|
@@ -1370,13 +1370,13 @@ Total number of members in cluster: 27
 
 ![](../../../../csdb/images/6655.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AAA97573.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AAA97573.1/ranked_0.pdb)
 
 [AAC45857.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AAC45857.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                   |   order |
 |:------------------|--------:|
@@ -1434,9 +1434,9 @@ Total number of members in cluster: 27
 
 ![](../../../../csdb/images/701.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -1480,9 +1480,9 @@ Total number of members in cluster: 25
 
 ![](../../../../csdb/images/7043.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                    |   order |
 |:-------------------|--------:|
@@ -1547,11 +1547,11 @@ Total number of members in cluster: 25
 
 ![](../../../../csdb/images/188.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ABI98986.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ABI98986.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                   |   order |
 |:------------------|--------:|
@@ -1630,13 +1630,13 @@ Total number of members in cluster: 24
 
 ![](../../../../csdb/images/3663.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CAI33105.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2201200806-polymerases_AlphaFold_batch1/af_out/CAI33105.1/ranked_0.pdb)
 
 [CAI33084.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/CAI33084.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -1678,13 +1678,13 @@ Total number of members in cluster: 24
 
 ![](../../../../csdb/images/495.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AHB32666.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AHB32666.1/ranked_0.pdb)
 
 [AHB32888.2](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AHB32888.2/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -1733,9 +1733,9 @@ Total number of members in cluster: 24
 
 ![](../../../../csdb/images/3367.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -1781,9 +1781,9 @@ Total number of members in cluster: 23
 
 ![](../../../../csdb/images/31934.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -1829,11 +1829,11 @@ Total number of members in cluster: 23
 
 ![](../../../../csdb/images/625.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CAI33798.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/CAI33798.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                   |   order |
 |:------------------|--------:|
@@ -1891,11 +1891,11 @@ Total number of members in cluster: 22
 
 ![](../../../../csdb/images/7083.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CAI33862.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/CAI33862.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -1956,9 +1956,9 @@ Total number of members in cluster: 21
 
 ![](../../../../csdb/images/30411.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -1998,9 +1998,9 @@ Total number of members in cluster: 20
 
 ![](../../../../csdb/images/1509.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -2047,11 +2047,11 @@ Total number of members in cluster: 20
 
 ![](../../../../csdb/images/1842.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ABK27355.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/ABK27355.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -2091,9 +2091,9 @@ Total number of members in cluster: 20
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                    |   order |
 |:-------------------|--------:|
@@ -2150,11 +2150,11 @@ Total number of members in cluster: 20
 
 ![](../../../../csdb/images/108660.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AFC91472.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AFC91472.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -2203,11 +2203,11 @@ Total number of members in cluster: 19
 
 ![](../../../../csdb/images/12130.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CDF66396.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/CDF66396.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                   |   order |
 |:------------------|--------:|
@@ -2280,11 +2280,11 @@ Total number of members in cluster: 19
 
 ![](../../../../csdb/images/1521.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ADC54950.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/ADC54950.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -2336,9 +2336,9 @@ Total number of members in cluster: 19
 
 ![](../../../../csdb/images/28331.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -2388,11 +2388,11 @@ Total number of members in cluster: 19
 
 ![](../../../../csdb/images/1870.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ACD37165.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ACD37165.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -2433,9 +2433,9 @@ Total number of members in cluster: 19
 
 ![](../../../../csdb/images/27572.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                   |   order |
 |:------------------|--------:|
@@ -2492,9 +2492,9 @@ Total number of members in cluster: 18
 
 ![](../../../../csdb/images/10216.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -2545,9 +2545,9 @@ Total number of members in cluster: 18
 
 ![](../../../../csdb/images/1866.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -2588,11 +2588,11 @@ Total number of members in cluster: 17
 
 ![](../../../../csdb/images/1882.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ01716.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ01716.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -2636,11 +2636,11 @@ Total number of members in cluster: 17
 
 ![](../../../../csdb/images/1905.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ01843.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ01843.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -2682,11 +2682,11 @@ Total number of members in cluster: 17
 
 ![](../../../../csdb/images/805.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CAI32772.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2201200806-polymerases_AlphaFold_batch1/af_out/CAI32772.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                    |   order |
 |:-------------------|--------:|
@@ -2733,9 +2733,9 @@ Total number of members in cluster: 17
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -2780,11 +2780,11 @@ Total number of members in cluster: 17
 
 ![](../../../../csdb/images/7070.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CAI33491.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/CAI33491.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                    |   order |
 |:-------------------|--------:|
@@ -2836,11 +2836,11 @@ Total number of members in cluster: 16
 
 ![](../../../../csdb/images/2600.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ADC54967.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ADC54967.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -2882,11 +2882,11 @@ Total number of members in cluster: 16
 
 ![](../../../../csdb/images/7084.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CAI33817.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/CAI33817.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -2943,9 +2943,9 @@ Total number of members in cluster: 16
 
 ![](../../../../csdb/images/114261.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -2989,11 +2989,11 @@ Total number of members in cluster: 16
 
 ![](../../../../csdb/images/12136.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AAN23041.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AAN23041.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -3035,9 +3035,9 @@ Total number of members in cluster: 15
 
 ![](../../../../csdb/images/1836.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -3108,7 +3108,7 @@ Total number of members in cluster: 15
 
 ![](../../../../csdb/images/1984.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CAI34254.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/CAI34254.1/ranked_0.pdb)
 
@@ -3116,7 +3116,7 @@ Total number of members in cluster: 15
 
 [CAI34217.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/CAI34217.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -3148,9 +3148,9 @@ Total number of members in cluster: 15
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -3207,11 +3207,11 @@ Total number of members in cluster: 15
 
 ![](../../../../csdb/images/7085.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CAI34008.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/CAI34008.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -3269,9 +3269,9 @@ Total number of members in cluster: 14
 
 ![](../../../../csdb/images/1875.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -3309,11 +3309,11 @@ Total number of members in cluster: 14
 
 ![](../../../../csdb/images/1576.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CBN82200.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/CBN82200.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -3366,11 +3366,11 @@ Total number of members in cluster: 14
 
 ![](../../../../csdb/images/1886.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AFW04668.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/AFW04668.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -3424,11 +3424,11 @@ Total number of members in cluster: 14
 
 ![](../../../../csdb/images/320.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CAI33029.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/CAI33029.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -3471,11 +3471,11 @@ Total number of members in cluster: 14
 
 ![](../../../../csdb/images/1932.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ACA24852.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ACA24852.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -3520,9 +3520,9 @@ Total number of members in cluster: 14
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                |   order |
 |:---------------|--------:|
@@ -3567,9 +3567,9 @@ Total number of members in cluster: 13
 
 ![](../../../../csdb/images/1892.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -3606,9 +3606,9 @@ Total number of members in cluster: 13
 
 ![](../../../../csdb/images/1595.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -3654,13 +3654,13 @@ Total number of members in cluster: 13
 
 ![](../../../../csdb/images/695.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AAC32340.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/AAC32340.1/ranked_0.pdb)
 
 [EKI95922.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2201200806-polymerases_AlphaFold_batch1/af_out/EKI95922.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -3698,9 +3698,9 @@ Total number of members in cluster: 13
 
 ![](../../../../csdb/images/1931.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -3751,11 +3751,11 @@ Total number of members in cluster: 13
 
 ![](../../../../csdb/images/1565.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ACA24882.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ACA24882.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -3804,9 +3804,9 @@ Total number of members in cluster: 13
 
 ![](../../../../csdb/images/3929.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -3847,9 +3847,9 @@ Total number of members in cluster: 13
 
 ![](../../../../csdb/images/703.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -3882,9 +3882,9 @@ Total number of members in cluster: 13
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                    |   order |
 |:-------------------|--------:|
@@ -3929,11 +3929,11 @@ Total number of members in cluster: 13
 
 ![](../../../../csdb/images/7061.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CAI33309.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/CAI33309.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -3969,11 +3969,11 @@ Total number of members in cluster: 12
 
 ![](../../../../csdb/images/714.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ABI55342.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/ABI55342.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                   |   order |
 |:------------------|--------:|
@@ -4021,11 +4021,11 @@ Total number of members in cluster: 12
 
 ![](../../../../csdb/images/1849.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ01533.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ01533.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                   |   order |
 |:------------------|--------:|
@@ -4074,11 +4074,11 @@ Total number of members in cluster: 12
 
 ![](../../../../csdb/images/1562.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAG11898.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/BAG11898.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -4119,11 +4119,11 @@ Total number of members in cluster: 12
 
 ![](../../../../csdb/images/1885.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ACA24754.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/ACA24754.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -4174,11 +4174,11 @@ Total number of members in cluster: 12
 
 ![](../../../../csdb/images/10219.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AAD45264.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AAD45264.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -4214,11 +4214,11 @@ Total number of members in cluster: 12
 
 ![](../../../../csdb/images/12694.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ADI43263.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ADI43263.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -4263,11 +4263,11 @@ Total number of members in cluster: 12
 
 ![](../../../../csdb/images/30907.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AAC38177.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/AAC38177.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -4310,11 +4310,11 @@ Total number of members in cluster: 12
 
 ![](../../../../csdb/images/1841.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ACD37157.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ACD37157.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -4359,9 +4359,9 @@ Total number of members in cluster: 12
 
 ![](../../../../csdb/images/1555.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -4410,11 +4410,11 @@ Total number of members in cluster: 11
 
 ![](../../../../csdb/images/3159.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ACA24821.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ACA24821.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -4471,9 +4471,9 @@ Total number of members in cluster: 11
 
 ![](../../../../csdb/images/939.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -4509,9 +4509,9 @@ Total number of members in cluster: 11
 
 ![](../../../../csdb/images/6636.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -4547,11 +4547,11 @@ Total number of members in cluster: 11
 
 ![](../../../../csdb/images/1529.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ACH97162.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ACH97162.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -4601,9 +4601,9 @@ Total number of members in cluster: 11
 
 ![](../../../../csdb/images/11557.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -4650,11 +4650,11 @@ Total number of members in cluster: 11
 
 ![](../../../../csdb/images/918.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CAI34124.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/CAI34124.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -4694,9 +4694,9 @@ Total number of members in cluster: 11
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |               |   order |
 |:--------------|--------:|
@@ -4742,11 +4742,11 @@ Total number of members in cluster: 11
 
 ![](../../../../csdb/images/2196.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AHB32438.2](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AHB32438.2/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                |   order |
 |:---------------|--------:|
@@ -4795,9 +4795,9 @@ Total number of members in cluster: 11
 
 ![](../../../../csdb/images/718.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -4842,9 +4842,9 @@ Total number of members in cluster: 11
 
 ![](../../../../csdb/images/1891.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -4885,11 +4885,11 @@ Total number of members in cluster: 10
 
 ![](../../../../csdb/images/1552.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [EHX11459.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2201200806-polymerases_AlphaFold_batch1/af_out/EHX11459.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -4926,9 +4926,9 @@ Total number of members in cluster: 10
 
 ![](../../../../csdb/images/24033.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -4959,9 +4959,9 @@ Total number of members in cluster: 10
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                   |   order |
 |:------------------|--------:|
@@ -5007,9 +5007,9 @@ Total number of members in cluster: 10
 
 ![](../../../../csdb/images/27329.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -5049,9 +5049,9 @@ Total number of members in cluster: 10
 
 ![](../../../../csdb/images/1439.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                   |   order |
 |:------------------|--------:|
@@ -5102,11 +5102,11 @@ Total number of members in cluster: 10
 
 ![](../../../../csdb/images/30392.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ACV67297.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ACV67297.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -5148,9 +5148,9 @@ Total number of members in cluster: 10
 
 ![](../../../../csdb/images/1383.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -5204,11 +5204,11 @@ Total number of members in cluster: 10
 
 ![](../../../../csdb/images/895.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AAK60458.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AAK60458.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -5247,9 +5247,9 @@ Total number of members in cluster: 10
 
 ![](../../../../csdb/images/1452.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -5288,11 +5288,11 @@ Total number of members in cluster: 10
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
 [AHB32490.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2201200806-polymerases_AlphaFold_batch1/af_out/AHB32490.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |              |   order |
 |:-------------|--------:|
@@ -5330,9 +5330,9 @@ Total number of members in cluster: 10
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -5368,9 +5368,9 @@ Total number of members in cluster: 10
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -5417,11 +5417,11 @@ Total number of members in cluster: 10
 
 ![](../../../../csdb/images/3366.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ00746.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ00746.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -5459,9 +5459,9 @@ Total number of members in cluster: 10
 
 ![](../../../../csdb/images/1908.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -5502,11 +5502,11 @@ Total number of members in cluster: 9
 
 ![](../../../../csdb/images/1890.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ABI98966.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ABI98966.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -5543,9 +5543,9 @@ Total number of members in cluster: 9
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -5583,9 +5583,9 @@ Total number of members in cluster: 9
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -5633,9 +5633,9 @@ Total number of members in cluster: 9
 
 ![](../../../../csdb/images/2255.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -5676,9 +5676,9 @@ Total number of members in cluster: 9
 
 ![](../../../../csdb/images/2624.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -5721,9 +5721,9 @@ Total number of members in cluster: 9
 
 ![](../../../../csdb/images/3359.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -5768,11 +5768,11 @@ Total number of members in cluster: 9
 
 ![](../../../../csdb/images/2973.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CAI33412.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/CAI33412.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                    |   order |
 |:-------------------|--------:|
@@ -5819,11 +5819,11 @@ Total number of members in cluster: 9
 
 ![](../../../../csdb/images/1867.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [WP_024244058.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/WP_024244058.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -5860,9 +5860,9 @@ Total number of members in cluster: 9
 
 ![](../../../../csdb/images/1928.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -5902,11 +5902,11 @@ Total number of members in cluster: 9
 
 ![](../../../../csdb/images/31499.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CAI32705.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2201200806-polymerases_AlphaFold_batch1/af_out/CAI32705.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                    |   order |
 |:-------------------|--------:|
@@ -5955,9 +5955,9 @@ Total number of members in cluster: 9
 
 ![](../../../../csdb/images/1516.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -5994,9 +5994,9 @@ Total number of members in cluster: 9
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -6034,11 +6034,11 @@ Total number of members in cluster: 9
 
 ![](../../../../csdb/images/1848.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ADR74237.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ADR74237.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -6089,11 +6089,11 @@ Total number of members in cluster: 9
 
 ![](../../../../csdb/images/12124.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CAB63298.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/CAB63298.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -6138,13 +6138,13 @@ Total number of members in cluster: 9
 
 ![](../../../../csdb/images/1933.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ABG81806.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ABG81806.1/ranked_0.pdb)
 
 [BAQ02224.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2201200806-polymerases_AlphaFold_batch1/af_out/BAQ02224.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -6179,9 +6179,9 @@ Total number of members in cluster: 9
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -6241,9 +6241,9 @@ Total number of members in cluster: 9
 
 ![](../../../../csdb/images/7060.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -6280,11 +6280,11 @@ Total number of members in cluster: 9
 
 ![](../../../../csdb/images/1926.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ02031.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ02031.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -6330,9 +6330,9 @@ Total number of members in cluster: 8
 
 ![](../../../../csdb/images/30351.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -6390,11 +6390,11 @@ Total number of members in cluster: 8
 
 ![](../../../../csdb/images/7056.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CAI33149.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/CAI33149.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -6425,9 +6425,9 @@ Total number of members in cluster: 8
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                        |   order |
 |:-----------------------|--------:|
@@ -6468,11 +6468,11 @@ Total number of members in cluster: 8
 
 ![](../../../../csdb/images/25004.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CAI34587.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/CAI34587.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -6513,11 +6513,11 @@ Total number of members in cluster: 8
 
 ![](../../../../csdb/images/26312.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ00994.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ00994.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -6563,11 +6563,11 @@ Total number of members in cluster: 8
 
 ![](../../../../csdb/images/1422.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ACA24739.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ACA24739.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -6610,11 +6610,11 @@ Total number of members in cluster: 8
 
 ![](../../../../csdb/images/1843.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AAK64372.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AAK64372.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -6653,9 +6653,9 @@ Total number of members in cluster: 8
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -6697,9 +6697,9 @@ Total number of members in cluster: 8
 
 ![](../../../../csdb/images/1856.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -6745,11 +6745,11 @@ Total number of members in cluster: 8
 
 ![](../../../../csdb/images/1869.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ACD37014.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ACD37014.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -6795,11 +6795,11 @@ Total number of members in cluster: 8
 
 ![](../../../../csdb/images/25389.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ01516.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ01516.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -6838,9 +6838,9 @@ Total number of members in cluster: 8
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |               |   order |
 |:--------------|--------:|
@@ -6875,9 +6875,9 @@ Total number of members in cluster: 8
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -6920,11 +6920,11 @@ Total number of members in cluster: 7
 
 ![](../../../../csdb/images/713.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ACD37111.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/ACD37111.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -6967,11 +6967,11 @@ Total number of members in cluster: 7
 
 ![](../../../../csdb/images/1883.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ABI98976.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/ABI98976.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -7012,11 +7012,11 @@ Total number of members in cluster: 7
 
 ![](../../../../csdb/images/616.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [WP_001300154.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/WP_001300154.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -7050,9 +7050,9 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -7086,9 +7086,9 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -7139,9 +7139,9 @@ Total number of members in cluster: 7
 
 ![](../../../../csdb/images/1557.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -7188,9 +7188,9 @@ Total number of members in cluster: 7
 
 ![](../../../../csdb/images/3977.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -7232,11 +7232,11 @@ Total number of members in cluster: 7
 
 ![](../../../../csdb/images/8382.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ABB29906.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ABB29906.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -7272,9 +7272,9 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -7310,9 +7310,9 @@ Total number of members in cluster: 7
 
 ![](../../../../csdb/images/3191.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                   |   order |
 |:------------------|--------:|
@@ -7355,11 +7355,11 @@ Total number of members in cluster: 7
 
 ![](../../../../csdb/images/1921.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ01960.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ01960.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -7392,9 +7392,9 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                    |   order |
 |:-------------------|--------:|
@@ -7430,9 +7430,9 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -7471,9 +7471,9 @@ Total number of members in cluster: 7
 
 ![](../../../../csdb/images/1560.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -7507,9 +7507,9 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -7555,11 +7555,11 @@ Total number of members in cluster: 7
 
 ![](../../../../csdb/images/3364.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AJE24464.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AJE24464.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -7600,9 +7600,9 @@ Total number of members in cluster: 7
 
 ![](../../../../csdb/images/1561.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -7635,11 +7635,11 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
 [AHB32538.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2201200806-polymerases_AlphaFold_batch1/af_out/AHB32538.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |              |   order |
 |:-------------|--------:|
@@ -7675,11 +7675,11 @@ Total number of members in cluster: 7
 
 ![](../../../../csdb/images/30040.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AAY28249.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AAY28249.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -7718,9 +7718,9 @@ Total number of members in cluster: 7
 
 ![](../../../../csdb/images/1582.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -7764,9 +7764,9 @@ Total number of members in cluster: 7
 
 ![](../../../../csdb/images/1549.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -7818,13 +7818,13 @@ Total number of members in cluster: 7
 
 ![](../../../../csdb/images/2251.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CAI33324.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/CAI33324.1/ranked_0.pdb)
 
 [CAI33366.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/CAI33366.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -7860,9 +7860,9 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/1838.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -7907,9 +7907,9 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/1405.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -7949,9 +7949,9 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/1924.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -7984,9 +7984,9 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -8034,11 +8034,11 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/3360.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AQU71788.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AQU71788.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -8071,9 +8071,9 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |              |   order |
 |:-------------|--------:|
@@ -8110,11 +8110,11 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/1844.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AAS98031.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/AAS98031.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -8163,11 +8163,11 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/712.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ01860.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ01860.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -8204,9 +8204,9 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/1514.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -8244,9 +8244,9 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/1590.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -8284,11 +8284,11 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/1568.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ADJ19217.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ADJ19217.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -8334,11 +8334,11 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/1851.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ACD37078.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/ACD37078.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -8375,9 +8375,9 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/1513.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -8417,11 +8417,11 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/1853.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AAD50486.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AAD50486.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -8454,9 +8454,9 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -8495,9 +8495,9 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/1859.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -8540,9 +8540,9 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                   |   order |
 |:------------------|--------:|
@@ -8581,9 +8581,9 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |             |   order |
 |:------------|--------:|
@@ -8620,9 +8620,9 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/1385.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -8662,11 +8662,11 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/1530.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ00736.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2201200806-polymerases_AlphaFold_batch1/af_out/BAQ00736.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -8705,9 +8705,9 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/1588.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -8747,11 +8747,11 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/1917.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ01917.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ01917.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -8795,11 +8795,11 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/1876.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ00957.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ00957.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -8836,11 +8836,11 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/1530.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ABI34565.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ABI34565.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -8879,11 +8879,11 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/1913.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ01894.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ01894.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -8921,11 +8921,11 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/483.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AHB32334.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AHB32334.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |              |   order |
 |:-------------|--------:|
@@ -8961,9 +8961,9 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/1573.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -9002,9 +9002,9 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -9041,9 +9041,9 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |               |   order |
 |:--------------|--------:|
@@ -9082,9 +9082,9 @@ Total number of members in cluster: 6
 
 ![](../../../../csdb/images/1591.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -9131,13 +9131,13 @@ Total number of members in cluster: 5
 
 ![](../../../../csdb/images/12127.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AKA20981.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AKA20981.1/ranked_0.pdb)
 
 [AKA20999.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AKA20999.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -9176,11 +9176,11 @@ Total number of members in cluster: 5
 
 ![](../../../../csdb/images/1873.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ01641.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ01641.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -9218,9 +9218,9 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |              |   order |
 |:-------------|--------:|
@@ -9256,11 +9256,11 @@ Total number of members in cluster: 5
 
 ![](../../../../csdb/images/1580.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ01207.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ01207.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -9296,9 +9296,9 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -9339,9 +9339,9 @@ Total number of members in cluster: 5
 
 ![](../../../../csdb/images/1062.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -9375,9 +9375,9 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -9426,11 +9426,11 @@ Total number of members in cluster: 5
 
 ![](../../../../csdb/images/7042.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CAI34454.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/CAI34454.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -9463,9 +9463,9 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -9501,9 +9501,9 @@ Total number of members in cluster: 5
 
 ![](../../../../csdb/images/1944.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -9537,9 +9537,9 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -9571,9 +9571,9 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |              |   order |
 |:-------------|--------:|
@@ -9605,9 +9605,9 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -9643,9 +9643,9 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -9677,9 +9677,9 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |               |   order |
 |:--------------|--------:|
@@ -9717,9 +9717,9 @@ Total number of members in cluster: 5
 
 ![](../../../../csdb/images/1923.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -9753,9 +9753,9 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |             |   order |
 |:------------|--------:|
@@ -9792,9 +9792,9 @@ Total number of members in cluster: 5
 
 ![](../../../../csdb/images/23812.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -9833,11 +9833,11 @@ Total number of members in cluster: 5
 
 ![](../../../../csdb/images/1865.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ABE98419.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ABE98419.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -9873,9 +9873,9 @@ Total number of members in cluster: 5
 
 ![](../../../../csdb/images/1490.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -9911,9 +9911,9 @@ Total number of members in cluster: 5
 
 ![](../../../../csdb/images/3982.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -9952,9 +9952,9 @@ Total number of members in cluster: 5
 
 ![](../../../../csdb/images/1539.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -10002,9 +10002,9 @@ Total number of members in cluster: 5
 
 ![](../../../../csdb/images/1857.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -10035,9 +10035,9 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -10075,11 +10075,11 @@ Total number of members in cluster: 5
 
 ![](../../../../csdb/images/1854.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AAT77177.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AAT77177.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -10115,9 +10115,9 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                   |   order |
 |:------------------|--------:|
@@ -10157,9 +10157,9 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -10193,9 +10193,9 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -10235,9 +10235,9 @@ Total number of members in cluster: 4
 
 ![](../../../../csdb/images/1552.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -10274,9 +10274,9 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -10313,11 +10313,11 @@ Total number of members in cluster: 4
 
 ![](../../../../csdb/images/1548.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ00893.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ00893.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -10357,9 +10357,9 @@ Total number of members in cluster: 4
 
 ![](../../../../csdb/images/25006.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -10395,11 +10395,11 @@ Total number of members in cluster: 4
 
 ![](../../../../csdb/images/1897.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ01793.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ01793.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -10433,9 +10433,9 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -10479,11 +10479,11 @@ Total number of members in cluster: 4
 
 ![](../../../../csdb/images/12132.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ADI59429.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ADI59429.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -10514,9 +10514,9 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -10559,9 +10559,9 @@ Total number of members in cluster: 4
 
 ![](../../../../csdb/images/1937.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -10594,9 +10594,9 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |              |   order |
 |:-------------|--------:|
@@ -10628,11 +10628,11 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ01386.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ01386.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -10669,9 +10669,9 @@ Total number of members in cluster: 4
 
 ![](../../../../csdb/images/1577.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -10706,9 +10706,9 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -10749,9 +10749,9 @@ Total number of members in cluster: 4
 
 ![](../../../../csdb/images/1855.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -10789,11 +10789,11 @@ Total number of members in cluster: 4
 
 ![](../../../../csdb/images/1889.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ABA42232.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ABA42232.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -10829,11 +10829,11 @@ Total number of members in cluster: 4
 
 ![](../../../../csdb/images/1543.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ00830.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/BAQ00830.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -10864,9 +10864,9 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -10900,9 +10900,9 @@ Total number of members in cluster: 4
 
 ![](../../../../csdb/images/1860.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -10938,9 +10938,9 @@ Total number of members in cluster: 4
 
 ![](../../../../csdb/images/24037.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -10976,11 +10976,11 @@ Total number of members in cluster: 4
 
 ![](../../../../csdb/images/1881.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AAZ85718.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AAZ85718.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -11016,9 +11016,9 @@ Total number of members in cluster: 4
 
 ![](../../../../csdb/images/1534.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -11050,9 +11050,9 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -11089,11 +11089,11 @@ Total number of members in cluster: 4
 
 ![](../../../../csdb/images/1517.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ00653.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ00653.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -11125,9 +11125,9 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |               |   order |
 |:--------------|--------:|
@@ -11162,9 +11162,9 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |               |   order |
 |:--------------|--------:|
@@ -11195,9 +11195,9 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -11239,9 +11239,9 @@ Total number of members in cluster: 4
 
 ![](../../../../csdb/images/1929.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -11274,9 +11274,9 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -11315,11 +11315,11 @@ Total number of members in cluster: 4
 
 ![](../../../../csdb/images/1600.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ01419.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ01419.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -11351,9 +11351,9 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -11391,9 +11391,9 @@ Total number of members in cluster: 4
 
 ![](../../../../csdb/images/1909.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -11425,9 +11425,9 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -11466,11 +11466,11 @@ Total number of members in cluster: 3
 
 ![](../../../../csdb/images/3660.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [WP_074526664.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/WP_074526664.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -11507,9 +11507,9 @@ Total number of members in cluster: 3
 
 ![](../../../../csdb/images/1878.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -11548,9 +11548,9 @@ Total number of members in cluster: 3
 
 ![](../../../../csdb/images/1574.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -11582,11 +11582,11 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
 [AHB32267.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AHB32267.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |              |   order |
 |:-------------|--------:|
@@ -11617,9 +11617,9 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -11654,9 +11654,9 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -11696,9 +11696,9 @@ Total number of members in cluster: 3
 
 ![](../../../../csdb/images/1572.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -11729,9 +11729,9 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |            |   order |
 |:-----------|--------:|
@@ -11771,9 +11771,9 @@ Total number of members in cluster: 3
 
 ![](../../../../csdb/images/1407.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -11812,9 +11812,9 @@ Total number of members in cluster: 3
 
 ![](../../../../csdb/images/1594.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -11852,9 +11852,9 @@ Total number of members in cluster: 3
 
 ![](../../../../csdb/images/3362.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -11890,9 +11890,9 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -11924,9 +11924,9 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -11962,11 +11962,11 @@ Total number of members in cluster: 3
 
 ![](../../../../csdb/images/1879.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ADN43858.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ADN43858.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -11998,9 +11998,9 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |              |   order |
 |:-------------|--------:|
@@ -12036,9 +12036,9 @@ Total number of members in cluster: 3
 
 ![](../../../../csdb/images/1575.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -12071,9 +12071,9 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -12111,9 +12111,9 @@ Total number of members in cluster: 3
 
 ![](../../../../csdb/images/3984.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -12150,9 +12150,9 @@ Total number of members in cluster: 3
 
 ![](../../../../csdb/images/736.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -12185,9 +12185,9 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -12225,11 +12225,11 @@ Total number of members in cluster: 3
 
 ![](../../../../csdb/images/1287.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ADN43871.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ADN43871.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -12260,9 +12260,9 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |             |   order |
 |:------------|--------:|
@@ -12298,9 +12298,9 @@ Total number of members in cluster: 3
 
 ![](../../../../csdb/images/1381.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -12341,11 +12341,11 @@ Total number of members in cluster: 3
 
 ![](../../../../csdb/images/25002.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CAI34475.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy/af_out/CAI34475.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -12381,11 +12381,11 @@ Total number of members in cluster: 3
 
 ![](../../../../csdb/images/1947.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [CAI32797.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/CAI32797.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -12416,9 +12416,9 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -12454,11 +12454,11 @@ Total number of members in cluster: 3
 
 ![](../../../../csdb/images/1934.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ02088.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ02088.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -12491,9 +12491,9 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |               |   order |
 |:--------------|--------:|
@@ -12526,9 +12526,9 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |              |   order |
 |:-------------|--------:|
@@ -12564,9 +12564,9 @@ Total number of members in cluster: 3
 
 ![](../../../../csdb/images/1919.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -12603,9 +12603,9 @@ Total number of members in cluster: 3
 
 ![](../../../../csdb/images/7087.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -12636,9 +12636,9 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |               |   order |
 |:--------------|--------:|
@@ -12671,9 +12671,9 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                |   order |
 |:---------------|--------:|
@@ -12709,9 +12709,9 @@ Total number of members in cluster: 3
 
 ![](../../../../csdb/images/12139.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -12742,9 +12742,9 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -12775,9 +12775,9 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -12810,9 +12810,9 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -12846,9 +12846,9 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |              |   order |
 |:-------------|--------:|
@@ -12880,11 +12880,11 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
 [AHB32386.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2201200806-polymerases_AlphaFold_batch1/af_out/AHB32386.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |              |   order |
 |:-------------|--------:|
@@ -12915,9 +12915,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -12954,11 +12954,11 @@ Total number of members in cluster: 2
 
 ![](../../../../csdb/images/12137.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ADX97403.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2201200806-polymerases_AlphaFold_batch1/af_out/ADX97403.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -12991,9 +12991,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |              |   order |
 |:-------------|--------:|
@@ -13024,9 +13024,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -13062,11 +13062,11 @@ Total number of members in cluster: 2
 
 ![](../../../../csdb/images/1587.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [WP_016238111.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/WP_016238111.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -13098,9 +13098,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -13138,9 +13138,9 @@ Total number of members in cluster: 2
 
 ![](../../../../csdb/images/3986.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -13172,9 +13172,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -13205,9 +13205,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -13238,9 +13238,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -13279,9 +13279,9 @@ Total number of members in cluster: 2
 
 ![](../../../../csdb/images/1901.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -13312,9 +13312,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                    |   order |
 |:-------------------|--------:|
@@ -13345,9 +13345,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -13378,9 +13378,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                   |   order |
 |:------------------|--------:|
@@ -13416,11 +13416,11 @@ Total number of members in cluster: 2
 
 ![](../../../../csdb/images/1920.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AIG62747.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AIG62747.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -13451,9 +13451,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -13489,9 +13489,9 @@ Total number of members in cluster: 2
 
 ![](../../../../csdb/images/1571.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -13522,9 +13522,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -13555,9 +13555,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -13593,11 +13593,11 @@ Total number of members in cluster: 2
 
 ![](../../../../csdb/images/1902.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [ADJ19203.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ADJ19203.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -13628,9 +13628,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -13662,9 +13662,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |             |   order |
 |:------------|--------:|
@@ -13695,9 +13695,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |            |   order |
 |:-----------|--------:|
@@ -13728,9 +13728,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -13764,9 +13764,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |               |   order |
 |:--------------|--------:|
@@ -13797,9 +13797,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |             |   order |
 |:------------|--------:|
@@ -13835,11 +13835,11 @@ Total number of members in cluster: 2
 
 ![](../../../../csdb/images/487.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [AHB32242.2](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AHB32242.2/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |              |   order |
 |:-------------|--------:|
@@ -13870,9 +13870,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |              |   order |
 |:-------------|--------:|
@@ -13908,9 +13908,9 @@ Total number of members in cluster: 2
 
 ![](../../../../csdb/images/1501.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -13941,9 +13941,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -13979,11 +13979,11 @@ Total number of members in cluster: 2
 
 ![](../../../../csdb/images/696.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ01780.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ01780.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -14014,9 +14014,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                    |   order |
 |:-------------------|--------:|
@@ -14047,9 +14047,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -14083,9 +14083,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |              |   order |
 |:-------------|--------:|
@@ -14121,11 +14121,11 @@ Total number of members in cluster: 2
 
 ![](../../../../csdb/images/1874.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
 [BAQ01659.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ01659.1/ranked_0.pdb)
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -14156,9 +14156,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -14192,9 +14192,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |             |   order |
 |:------------|--------:|
@@ -14225,9 +14225,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -14258,9 +14258,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -14293,9 +14293,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |              |   order |
 |:-------------|--------:|
@@ -14326,9 +14326,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -14359,9 +14359,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -14396,9 +14396,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -14429,9 +14429,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -14467,9 +14467,9 @@ Total number of members in cluster: 2
 
 ![](../../../../csdb/images/1900.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -14500,9 +14500,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |             |   order |
 |:------------|--------:|
@@ -14534,9 +14534,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -14567,9 +14567,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -14605,9 +14605,9 @@ Total number of members in cluster: 2
 
 ![](../../../../csdb/images/938.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                 |   order |
 |:----------------|--------:|
@@ -14638,9 +14638,9 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
@@ -14678,9 +14678,9 @@ Total number of members in cluster: 2
 
 ![](../../../../csdb/images/1907.gif)
 
-#### Alphafold models
+#### Alphafold models:
 
-#### Taxonomy
+#### Taxonomy:
 
 |                  |   order |
 |:-----------------|--------:|
