@@ -2,8 +2,9 @@
 ''' Download png images for csdb sugars
 '''
 
-WZY = "/Users/idamei/wzy_polymerases"
-DB = WZY + "/csdb/dat/CSDB_slice_for_Ida.txt"
+#WZY = "/Users/idamei/phd"
+#DB = WZY + "data/csdb/CSDB_slice_for_Ida.txt"
+DB = "data/csdb/CSDB_slice_for_Ida.txt"
 
 import os
 import re
@@ -14,8 +15,7 @@ import pandas as pd
 
 os.system("ls -l {}".format(DB))
 
-# root of images directory
-images = WZY + "/csdb/snfg"
+images = "data/csdb/images"
 
 def doit(cmd, forgive=False):
 	s = os.system(cmd)
@@ -26,8 +26,7 @@ def doit(cmd, forgive=False):
 	return s
 
 def fetch_snfg_image(record_id, csdb_linear, scale=3, overwrite=False):
-	outdir ="{}/{}".format(images,scale)
-	outfil ="{}/{}.gif".format(outdir,record_id)
+	outfil = f"{images}/{record_id}.gif"
 	clean = False
 	if clean :
 		cmd = "/bin/rm -f {}".format(outfil)
@@ -36,7 +35,6 @@ def fetch_snfg_image(record_id, csdb_linear, scale=3, overwrite=False):
 		if not overwrite :
 			print("File exists {}, and not overwrite ... skipping\n".format(outfil))
 			return
-	os.makedirs(outdir, exist_ok=True)
 	print("record_id: {} linear: {}\n".format(record_id, csdb_linear))
 	'''
 		Some of the direct CSDB_linear images are not rendered properly by csdb themselves, therefore we allow to strip comment sections.
@@ -44,26 +42,13 @@ def fetch_snfg_image(record_id, csdb_linear, scale=3, overwrite=False):
 		Some of these rendering failures are mitigated by removal of square-bracketed sections. Others are not so easy.
 		For example 110981
 	'''
-	# if re.search(r"\[[^\]]*\]", csdb_linear):
-	# 	print("Removing bracket section from record_id {} csdb_linear structure {}\n".format(record_id, csdb_linear))
-	# 	csdb_linear = re.sub("\[[^\]]*\]", "", csdb_linear)
-	# 	print("After bracket removal for  record_id {} csdb_linear structure {}\n".format(record_id, csdb_linear))
-	# if re.search(r",*\d*\%Ac\(1-2\)", csdb_linear):
-	# 	print("Removing percent section from record_id {} csdb_linear structure {}\n".format(record_id, csdb_linear))
-	# 	csdb_linear = re.sub(r",*\d*\%Ac\(1-2\)", "", csdb_linear)
-	# 	print("After percent removal for  record_id {} csdb_linear structure {}\n".format(record_id, csdb_linear))
-	# # Change this
-	# if re.search(r"\%\d*", csdb_linear):
-	# 	print("Removing percent section from record_id {} csdb_linear structure {}\n".format(record_id, csdb_linear))
-	# 	csdb_linear = re.sub(r"\%\d*", "", csdb_linear)
-	# 	print("After percent removal for  record_id {} csdb_linear structure {}\n".format(record_id, csdb_linear))
 
 	print("record_id: {} linear: {}\n".format(record_id, csdb_linear))
 	image_url = "http://csdb.glycoscience.ru/database/core/graphic.php?to_draw={}&scale={}&on_white=0&backdrop=checkers&no_reducing=0".format(csdb_linear, scale)
 	print("IMAGE_URL:".format(image_url))
 	try:
 		# Use wget download method to download specified image url.
-		image_filename = wget.download(image_url)
+		wget.download(image_url)
 		# move to specific image file
 		cmd = 'mv -f graphic.php {}'.format(outfil)
 		doit(cmd)
@@ -77,7 +62,7 @@ def fetch_snfg_image(record_id, csdb_linear, scale=3, overwrite=False):
 			
 	print("DONE {} {}\n".format(record_id, csdb_linear))
 
-polymerase_df = pd.read_csv(WZY + "/polymerase_data/wzy_with_csdb_and_taxonomy.tsv", sep='\t', dtype={'CSDB_record_ID':'string'})
+polymerase_df = pd.read_csv("data/wzy/wzy.tsv", sep='\t', dtype={'CSDB_record_ID':'string'})
 wanted = list(polymerase_df.CSDB_record_ID.dropna())
 
 # Open DB file, iterate over rows, avoiding record_ids we have already seen
@@ -95,7 +80,6 @@ with open(DB, 'r') as fp:
 			continue
 		# a specific data model, just to make life simpler
 		CSDB_record_ID, CSDB_Linear, glycoct, CSDB_nonpersistent_article_ID, doi, pmid, Taxonomic_name, Strain_or_Serogroup, NCBI_TaxID = row
-		#print( CSDB_record_ID, CSDB_Linear, glycoct, CSDB_nonpersistent_article_ID, doi, pmid, Taxonomic_name, Strain_or_Serogroup, NCBI_TaxID)
 		# Avoid repeating an id
 		if CSDB_record_ID in seen:
 			continue
