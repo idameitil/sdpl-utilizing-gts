@@ -179,7 +179,7 @@ Total number of members in cluster: 189
 
 #### Sugars in cluster:
 
-['AHB32215.1']:
+AHB32215.1:
 
 ![](../../../../csdb/images/2091.gif)
 
@@ -369,7 +369,7 @@ Total number of members in cluster: 128
 
 #### Sugars in cluster:
 
-['BAQ00795.1']:
+BAQ00795.1:
 
 ![](../../../../csdb/images/1401.gif)
 
@@ -505,7 +505,7 @@ Total number of members in cluster: 102
 
 #### Sugars in cluster:
 
-['AFN02899.1']:
+AFN02899.1:
 
 ![](../../../../csdb/images/704.gif)
 
@@ -677,7 +677,7 @@ Total number of members in cluster: 58
 
 #### Sugars in cluster:
 
-['AHB32411.1']:
+AHB32411.1:
 
 ![](../../../../csdb/images/27746.gif)
 
@@ -817,31 +817,31 @@ Total number of members in cluster: 55
 
 #### Sugars in cluster:
 
-['CAI34080.1']:
+CAI34080.1:
 
 ![](../../../../csdb/images/1227.gif)
 
-['CAI34348.1']:
+CAI34348.1:
 
 ![](../../../../csdb/images/7095.gif)
 
-['CAI34286.1']:
+CAI34286.1:
 
 ![](../../../../csdb/images/1611.gif)
 
-['CAI34310.1']:
+CAI34310.1:
 
 ![](../../../../csdb/images/1609.gif)
 
-['CAI34328.1']:
+CAI34328.1:
 
 ![](../../../../csdb/images/7097.gif)
 
-['CAI34519.1']:
+CAI34519.1:
 
 ![](../../../../csdb/images/25003.gif)
 
-['CAI34657.1']:
+CAI34657.1:
 
 ![](../../../../csdb/images/25005.gif)
 
@@ -975,19 +975,19 @@ Total number of members in cluster: 52
 
 #### Sugars in cluster:
 
-['CAI32823.1']:
+CAI32823.1:
 
 ![](../../../../csdb/images/1087.gif)
 
-['CAI32843.1']:
+CAI32843.1:
 
 ![](../../../../csdb/images/937.gif)
 
-['CAI33700.1']:
+CAI33700.1:
 
 ![](../../../../csdb/images/739.gif)
 
-['CAI33631.1']:
+CAI33631.1:
 
 ![](../../../../csdb/images/740.gif)
 
@@ -1053,11 +1053,11 @@ Total number of members in cluster: 48
 
 #### Sugars in cluster:
 
-['AHB32715.1']:
+AHB32715.1:
 
 ![](../../../../csdb/images/486.gif)
 
-['AHB32637.1']:
+AHB32637.1:
 
 ![](../../../../csdb/images/563.gif)
 
@@ -1115,19 +1115,19 @@ Total number of members in cluster: 43
 
 #### Sugars in cluster:
 
-['WP_000905563.1', 'AAO68867.1']:
+WP_000905563.1, AAO68867.1:
 
 ![](../../../../csdb/images/21859.gif)
 
-['AAV77445.1', 'CAR59582.1']:
+AAV77445.1, CAR59582.1:
 
 ![](../../../../csdb/images/7418.gif)
 
-['CAR37642.1']:
+CAR37642.1:
 
 ![](../../../../csdb/images/30403.gif)
 
-['AAL20257.1']:
+AAL20257.1:
 
 ![](../../../../csdb/images/30397.gif)
 
@@ -1188,7 +1188,7 @@ Total number of members in cluster: 41
 
 #### Sugars in cluster:
 
-['ACD75796.1']:
+ACD75796.1:
 
 ![](../../../../csdb/images/1570.gif)
 
@@ -1322,35 +1322,35 @@ Total number of members in cluster: 38
 
 #### Sugars in cluster:
 
-['AKA20935.1']:
+AKA20935.1:
 
 ![](../../../../csdb/images/12128.gif)
 
-['AKA20966.1']:
+AKA20966.1:
 
 ![](../../../../csdb/images/12129.gif)
 
-['AAY23739.1', 'BAQ02177.1']:
+AAY23739.1, BAQ02177.1:
 
 ![](../../../../csdb/images/1583.gif)
 
-['AAY23733.1']:
+AAY23733.1:
 
 ![](../../../../csdb/images/1578.gif)
 
-['AAY23745.1']:
+AAY23745.1:
 
 ![](../../../../csdb/images/1845.gif)
 
-['BAQ01935.1']:
+BAQ01935.1:
 
 ![](../../../../csdb/images/1918.gif)
 
-['BAQ02105.1']:
+BAQ02105.1:
 
 ![](../../../../csdb/images/1520.gif)
 
-['BAQ00945.1']:
+BAQ00945.1:
 
 ![](../../../../csdb/images/1551.gif)
 
@@ -1403,11 +1403,11 @@ Total number of members in cluster: 36
 
 #### Sugars in cluster:
 
-['AAZ85713.1']:
+AAZ85713.1:
 
 ![](../../../../csdb/images/1880.gif)
 
-['AAM27615.1']:
+AAM27615.1:
 
 ![](../../../../csdb/images/24042.gif)
 
@@ -1496,11 +1496,11 @@ Total number of members in cluster: 36
 
 #### Sugars in cluster:
 
-['AAM27560.1']:
+AAM27560.1:
 
 ![](../../../../csdb/images/11180.gif)
 
-['AAM27711.1']:
+AAM27711.1:
 
 ![](../../../../csdb/images/11026.gif)
 
@@ -1629,7 +1629,7 @@ Total number of members in cluster: 32
 
 #### Sugars in cluster:
 
-['ADI43271.1']:
+ADI43271.1:
 
 ![](../../../../csdb/images/1535.gif)
 
@@ -1684,19 +1684,19 @@ Total number of members in cluster: 27
 
 #### Sugars in cluster:
 
-['BAQ01024.1']:
+BAQ01024.1:
 
 ![](../../../../csdb/images/1558.gif)
 
-['BAQ00622.1']:
+BAQ00622.1:
 
 ![](../../../../csdb/images/1512.gif)
 
-['AQU71752.1']:
+AQU71752.1:
 
 ![](../../../../csdb/images/7222.gif)
 
-['AFW04883.1']:
+AFW04883.1:
 
 ![](../../../../csdb/images/701.gif)
 
@@ -1751,23 +1751,23 @@ Total number of members in cluster: 27
 
 #### Sugars in cluster:
 
-['AAA97573.1', 'AAC45857.1', 'AAM27801.1']:
+AAA97573.1, AAC45857.1, AAM27801.1:
 
 ![](../../../../csdb/images/1672.gif)
 
-['AAM27728.1']:
+AAM27728.1:
 
 ![](../../../../csdb/images/6565.gif)
 
-['AAM27662.1']:
+AAM27662.1:
 
 ![](../../../../csdb/images/6654.gif)
 
-['AAM27693.1']:
+AAM27693.1:
 
 ![](../../../../csdb/images/7836.gif)
 
-['AAM27748.1']:
+AAM27748.1:
 
 ![](../../../../csdb/images/6655.gif)
 
@@ -1819,7 +1819,7 @@ Total number of members in cluster: 26
 
 #### Sugars in cluster:
 
-['CAI33798.1']:
+CAI33798.1:
 
 ![](../../../../csdb/images/625.gif)
 
@@ -1882,15 +1882,15 @@ Total number of members in cluster: 25
 
 #### Sugars in cluster:
 
-['ABE98437.1']:
+ABE98437.1:
 
 ![](../../../../csdb/images/1887.gif)
 
-['ABI98986.1']:
+ABI98986.1:
 
 ![](../../../../csdb/images/1624.gif)
 
-['ABU80601.1']:
+ABU80601.1:
 
 ![](../../../../csdb/images/188.gif)
 
@@ -2006,7 +2006,7 @@ Total number of members in cluster: 25
 
 #### Sugars in cluster:
 
-['CAI34269.1']:
+CAI34269.1:
 
 ![](../../../../csdb/images/7043.gif)
 
@@ -2066,7 +2066,7 @@ Total number of members in cluster: 24
 
 #### Sugars in cluster:
 
-['AFW04828.1']:
+AFW04828.1:
 
 ![](../../../../csdb/images/3367.gif)
 
@@ -2173,23 +2173,23 @@ Total number of members in cluster: 24
 
 #### Sugars in cluster:
 
-['CAI33105.1']:
+CAI33105.1:
 
 ![](../../../../csdb/images/7049.gif)
 
-['CAI33048.1']:
+CAI33048.1:
 
 ![](../../../../csdb/images/1953.gif)
 
-['CAI34733.1']:
+CAI34733.1:
 
 ![](../../../../csdb/images/7051.gif)
 
-['CAI33084.1']:
+CAI33084.1:
 
 ![](../../../../csdb/images/7052.gif)
 
-['CAI34436.1']:
+CAI34436.1:
 
 ![](../../../../csdb/images/3663.gif)
 
@@ -2240,7 +2240,7 @@ Total number of members in cluster: 24
 
 #### Sugars in cluster:
 
-['AHB32888.2']:
+AHB32888.2:
 
 ![](../../../../csdb/images/495.gif)
 
@@ -2298,7 +2298,7 @@ Total number of members in cluster: 23
 
 #### Sugars in cluster:
 
-['AAM27595.1']:
+AAM27595.1:
 
 ![](../../../../csdb/images/31934.gif)
 
@@ -2431,11 +2431,11 @@ Total number of members in cluster: 22
 
 #### Sugars in cluster:
 
-['CAI33862.1']:
+CAI33862.1:
 
 ![](../../../../csdb/images/1964.gif)
 
-['CAI33840.1']:
+CAI33840.1:
 
 ![](../../../../csdb/images/7083.gif)
 
@@ -2490,7 +2490,7 @@ Total number of members in cluster: 21
 
 #### Sugars in cluster:
 
-['CDF66396.1']:
+CDF66396.1:
 
 ![](../../../../csdb/images/12130.gif)
 
@@ -2562,11 +2562,11 @@ Total number of members in cluster: 21
 
 #### Sugars in cluster:
 
-['AFC91472.1', 'AFC91514.1', 'AAO39700.1', 'AFC91570.1']:
+AFC91472.1, AFC91514.1, AAO39700.1, AFC91570.1:
 
 ![](../../../../csdb/images/1861.gif)
 
-['AAR97964.1']:
+AAR97964.1:
 
 ![](../../../../csdb/images/108660.gif)
 
@@ -2685,15 +2685,15 @@ Total number of members in cluster: 21
 
 #### Sugars in cluster:
 
-['CAA43077.1', 'AGS07327.1']:
+CAA43077.1, AGS07327.1:
 
 ![](../../../../csdb/images/30407.gif)
 
-['AAB48190.1', 'AGS07363.1']:
+AAB48190.1, AGS07363.1:
 
 ![](../../../../csdb/images/30404.gif)
 
-['AGS07316.1']:
+AGS07316.1:
 
 ![](../../../../csdb/images/30411.gif)
 
@@ -2738,7 +2738,7 @@ Total number of members in cluster: 21
 
 #### Sugars in cluster:
 
-['CAI32772.1']:
+CAI32772.1:
 
 ![](../../../../csdb/images/805.gif)
 
@@ -2802,7 +2802,7 @@ Total number of members in cluster: 20
 
 #### Sugars in cluster:
 
-['AAC45844.1']:
+AAC45844.1:
 
 ![](../../../../csdb/images/1509.gif)
 
@@ -2854,7 +2854,7 @@ Total number of members in cluster: 20
 
 #### Sugars in cluster:
 
-['ABK27355.1', 'ABK27354.1', 'ABK27351.1', 'BAI31288.1', 'ABK27350.1', 'ABK27321.1', 'ABK27352.1']:
+ABK27355.1, ABK27354.1, ABK27351.1, BAI31288.1, ABK27350.1, ABK27321.1, ABK27352.1:
 
 ![](../../../../csdb/images/1842.gif)
 
@@ -2909,19 +2909,19 @@ Total number of members in cluster: 19
 
 #### Sugars in cluster:
 
-['ADC54950.1']:
+ADC54950.1:
 
 ![](../../../../csdb/images/20645.gif)
 
-['BAQ00669.1']:
+BAQ00669.1:
 
 ![](../../../../csdb/images/1524.gif)
 
-['BAQ01732.1']:
+BAQ01732.1:
 
 ![](../../../../csdb/images/1884.gif)
 
-['BAQ00687.1']:
+BAQ00687.1:
 
 ![](../../../../csdb/images/1521.gif)
 
@@ -2971,7 +2971,7 @@ Total number of members in cluster: 19
 
 #### Sugars in cluster:
 
-['ABX51892.1']:
+ABX51892.1:
 
 ![](../../../../csdb/images/27572.gif)
 
@@ -3036,15 +3036,15 @@ Total number of members in cluster: 19
 
 #### Sugars in cluster:
 
-['ACD37165.1']:
+ACD37165.1:
 
 ![](../../../../csdb/images/1515.gif)
 
-['ACD37173.1']:
+ACD37173.1:
 
 ![](../../../../csdb/images/1877.gif)
 
-['ACD37181.1']:
+ACD37181.1:
 
 ![](../../../../csdb/images/1870.gif)
 
@@ -3097,11 +3097,11 @@ Total number of members in cluster: 19
 
 #### Sugars in cluster:
 
-['WP_001529369.1', 'WP_000936589.1']:
+WP_001529369.1, WP_000936589.1:
 
 ![](../../../../csdb/images/27410.gif)
 
-['WP_000936592.1', 'ACF64132.1']:
+WP_000936592.1, ACF64132.1:
 
 ![](../../../../csdb/images/28331.gif)
 
@@ -3145,7 +3145,7 @@ Total number of members in cluster: 18
 
 #### Sugars in cluster:
 
-['AAT85653.1']:
+AAT85653.1:
 
 ![](../../../../csdb/images/10216.gif)
 
@@ -3197,11 +3197,11 @@ Total number of members in cluster: 18
 
 #### Sugars in cluster:
 
-['BAQ01361.1']:
+BAQ01361.1:
 
 ![](../../../../csdb/images/1596.gif)
 
-['CAS09721.1', 'AAR90892.1']:
+CAS09721.1, AAR90892.1:
 
 ![](../../../../csdb/images/1866.gif)
 
@@ -3247,7 +3247,7 @@ Total number of members in cluster: 18
 
 #### Sugars in cluster:
 
-['CAI34008.1']:
+CAI34008.1:
 
 ![](../../../../csdb/images/7085.gif)
 
@@ -3313,7 +3313,7 @@ Total number of members in cluster: 17
 
 #### Sugars in cluster:
 
-['BAQ01716.1']:
+BAQ01716.1:
 
 ![](../../../../csdb/images/1882.gif)
 
@@ -3365,11 +3365,11 @@ Total number of members in cluster: 17
 
 #### Sugars in cluster:
 
-['CAI33515.1']:
+CAI33515.1:
 
 ![](../../../../csdb/images/815.gif)
 
-['CAI33491.1']:
+CAI33491.1:
 
 ![](../../../../csdb/images/7070.gif)
 
@@ -3423,7 +3423,7 @@ Total number of members in cluster: 17
 
 #### Sugars in cluster:
 
-['BAQ01843.1']:
+BAQ01843.1:
 
 ![](../../../../csdb/images/1905.gif)
 
@@ -3474,11 +3474,11 @@ Total number of members in cluster: 16
 
 #### Sugars in cluster:
 
-['AAN23078.1']:
+AAN23078.1:
 
 ![](../../../../csdb/images/12135.gif)
 
-['AAN23057.1']:
+AAN23057.1:
 
 ![](../../../../csdb/images/12136.gif)
 
@@ -3528,7 +3528,7 @@ Total number of members in cluster: 16
 
 #### Sugars in cluster:
 
-['ACA24764.1', 'ACA24754.1']:
+ACA24764.1, ACA24754.1:
 
 ![](../../../../csdb/images/1885.gif)
 
@@ -3587,11 +3587,11 @@ Total number of members in cluster: 16
 
 #### Sugars in cluster:
 
-['ADC54967.1']:
+ADC54967.1:
 
 ![](../../../../csdb/images/619.gif)
 
-['AFW04820.1']:
+AFW04820.1:
 
 ![](../../../../csdb/images/2600.gif)
 
@@ -3640,7 +3640,7 @@ Total number of members in cluster: 16
 
 #### Sugars in cluster:
 
-['CAI33817.1']:
+CAI33817.1:
 
 ![](../../../../csdb/images/7084.gif)
 
@@ -3704,7 +3704,7 @@ Total number of members in cluster: 16
 
 #### Sugars in cluster:
 
-['CAD19991.1', 'WP_000864940.1', 'ADT75640.1']:
+CAD19991.1, WP_000864940.1, ADT75640.1:
 
 ![](../../../../csdb/images/114261.gif)
 
@@ -3805,7 +3805,7 @@ Total number of members in cluster: 15
 
 #### Sugars in cluster:
 
-['ABB04486.1']:
+ABB04486.1:
 
 ![](../../../../csdb/images/1836.gif)
 
@@ -3901,27 +3901,27 @@ Total number of members in cluster: 15
 
 #### Sugars in cluster:
 
-['CAI34254.1']:
+CAI34254.1:
 
 ![](../../../../csdb/images/1965.gif)
 
-['CAI34177.1']:
+CAI34177.1:
 
 ![](../../../../csdb/images/7091.gif)
 
-['CAI34198.1']:
+CAI34198.1:
 
 ![](../../../../csdb/images/7092.gif)
 
-['CAI34217.1']:
+CAI34217.1:
 
 ![](../../../../csdb/images/7093.gif)
 
-['CAI34236.1']:
+CAI34236.1:
 
 ![](../../../../csdb/images/7094.gif)
 
-['CAI34388.1']:
+CAI34388.1:
 
 ![](../../../../csdb/images/1984.gif)
 
@@ -4011,19 +4011,19 @@ Total number of members in cluster: 14
 
 #### Sugars in cluster:
 
-['CAI32973.1']:
+CAI32973.1:
 
 ![](../../../../csdb/images/112112.gif)
 
-['CAI32993.1']:
+CAI32993.1:
 
 ![](../../../../csdb/images/7046.gif)
 
-['CAI33011.1']:
+CAI33011.1:
 
 ![](../../../../csdb/images/7415.gif)
 
-['CAI33029.1']:
+CAI33029.1:
 
 ![](../../../../csdb/images/320.gif)
 
@@ -4068,7 +4068,7 @@ Total number of members in cluster: 14
 
 #### Sugars in cluster:
 
-['CBN82200.1']:
+CBN82200.1:
 
 ![](../../../../csdb/images/1576.gif)
 
@@ -4128,7 +4128,7 @@ Total number of members in cluster: 14
 
 #### Sugars in cluster:
 
-['AHG15281.1', 'AFD18613.1', 'AAX58762.1']:
+AHG15281.1, AFD18613.1, AAX58762.1:
 
 ![](../../../../csdb/images/1886.gif)
 
@@ -4175,11 +4175,11 @@ Total number of members in cluster: 14
 
 #### Sugars in cluster:
 
-['ACA24852.1']:
+ACA24852.1:
 
 ![](../../../../csdb/images/1538.gif)
 
-['ACA24840.1']:
+ACA24840.1:
 
 ![](../../../../csdb/images/1932.gif)
 
@@ -4235,7 +4235,7 @@ Total number of members in cluster: 14
 
 #### Sugars in cluster:
 
-['BAQ01675.1']:
+BAQ01675.1:
 
 ![](../../../../csdb/images/1875.gif)
 
@@ -4278,7 +4278,7 @@ Total number of members in cluster: 13
 
 #### Sugars in cluster:
 
-['BAQ01317.1']:
+BAQ01317.1:
 
 ![](../../../../csdb/images/1595.gif)
 
@@ -4323,11 +4323,11 @@ Total number of members in cluster: 13
 
 #### Sugars in cluster:
 
-['ACA24882.1']:
+ACA24882.1:
 
 ![](../../../../csdb/images/108653.gif)
 
-['ACA24868.1']:
+ACA24868.1:
 
 ![](../../../../csdb/images/1565.gif)
 
@@ -4378,7 +4378,7 @@ Total number of members in cluster: 13
 
 #### Sugars in cluster:
 
-['ACD37026.1']:
+ACD37026.1:
 
 ![](../../../../csdb/images/1931.gif)
 
@@ -4475,11 +4475,11 @@ Total number of members in cluster: 13
 
 #### Sugars in cluster:
 
-['ADQ37335.1']:
+ADQ37335.1:
 
 ![](../../../../csdb/images/1858.gif)
 
-['ADQ37322.1']:
+ADQ37322.1:
 
 ![](../../../../csdb/images/1892.gif)
 
@@ -4522,11 +4522,11 @@ Total number of members in cluster: 13
 
 #### Sugars in cluster:
 
-['AAM27766.1']:
+AAM27766.1:
 
 ![](../../../../csdb/images/24032.gif)
 
-['AAM27645.1']:
+AAM27645.1:
 
 ![](../../../../csdb/images/3929.gif)
 
@@ -4577,7 +4577,7 @@ Total number of members in cluster: 13
 
 #### Sugars in cluster:
 
-['EKI39969.1', 'BAK68980.1', 'EKK44895.1', 'BAK69191.1', 'BAK69033.1', 'AAC32340.1', 'EKI95922.1']:
+EKI39969.1, BAK68980.1, EKK44895.1, BAK69191.1, BAK69033.1, AAC32340.1, EKI95922.1:
 
 ![](../../../../csdb/images/695.gif)
 
@@ -4626,11 +4626,11 @@ Total number of members in cluster: 13
 
 #### Sugars in cluster:
 
-['AQU71717.1', 'AQU71739.1']:
+AQU71717.1, AQU71739.1:
 
 ![](../../../../csdb/images/7222.gif)
 
-['AFW04812.1']:
+AFW04812.1:
 
 ![](../../../../csdb/images/703.gif)
 
@@ -4729,7 +4729,7 @@ Total number of members in cluster: 13
 
 #### Sugars in cluster:
 
-['CAI33309.1']:
+CAI33309.1:
 
 ![](../../../../csdb/images/7061.gif)
 
@@ -4772,7 +4772,7 @@ Total number of members in cluster: 12
 
 #### Sugars in cluster:
 
-['BAQ00975.1']:
+BAQ00975.1:
 
 ![](../../../../csdb/images/1555.gif)
 
@@ -4827,7 +4827,7 @@ Total number of members in cluster: 12
 
 #### Sugars in cluster:
 
-['AGS07346.1']:
+AGS07346.1:
 
 ![](../../../../csdb/images/30907.gif)
 
@@ -4871,7 +4871,7 @@ Total number of members in cluster: 12
 
 #### Sugars in cluster:
 
-['ABI55342.1']:
+ABI55342.1:
 
 ![](../../../../csdb/images/714.gif)
 
@@ -4927,7 +4927,7 @@ Total number of members in cluster: 12
 
 #### Sugars in cluster:
 
-['AAD45264.1', 'AAM27574.1']:
+AAD45264.1, AAM27574.1:
 
 ![](../../../../csdb/images/10219.gif)
 
@@ -4972,7 +4972,7 @@ Total number of members in cluster: 12
 
 #### Sugars in cluster:
 
-['WP_000482333.1', 'BAG11898.1']:
+WP_000482333.1, BAG11898.1:
 
 ![](../../../../csdb/images/1562.gif)
 
@@ -5019,7 +5019,7 @@ Total number of members in cluster: 12
 
 #### Sugars in cluster:
 
-['BAQ01533.1']:
+BAQ01533.1:
 
 ![](../../../../csdb/images/1849.gif)
 
@@ -5118,11 +5118,11 @@ Total number of members in cluster: 12
 
 #### Sugars in cluster:
 
-['ACD37157.1']:
+ACD37157.1:
 
 ![](../../../../csdb/images/1871.gif)
 
-['BAQ01494.1', 'AFS33314.1']:
+BAQ01494.1, AFS33314.1:
 
 ![](../../../../csdb/images/1841.gif)
 
@@ -5174,7 +5174,7 @@ Total number of members in cluster: 12
 
 #### Sugars in cluster:
 
-['BAQ00879.1']:
+BAQ00879.1:
 
 ![](../../../../csdb/images/1383.gif)
 
@@ -5235,7 +5235,7 @@ Total number of members in cluster: 12
 
 #### Sugars in cluster:
 
-['ADI43263.1']:
+ADI43263.1:
 
 ![](../../../../csdb/images/12694.gif)
 
@@ -5419,11 +5419,11 @@ Total number of members in cluster: 11
 
 #### Sugars in cluster:
 
-['ACA24803.1']:
+ACA24803.1:
 
 ![](../../../../csdb/images/715.gif)
 
-['ACA24792.1']:
+ACA24792.1:
 
 ![](../../../../csdb/images/1891.gif)
 
@@ -5467,11 +5467,11 @@ Total number of members in cluster: 11
 
 #### Sugars in cluster:
 
-['CAI34150.1']:
+CAI34150.1:
 
 ![](../../../../csdb/images/848.gif)
 
-['CAI34124.1']:
+CAI34124.1:
 
 ![](../../../../csdb/images/918.gif)
 
@@ -5525,11 +5525,11 @@ Total number of members in cluster: 11
 
 #### Sugars in cluster:
 
-['ACA24821.1', 'ACA24811.1']:
+ACA24821.1, ACA24811.1:
 
 ![](../../../../csdb/images/1893.gif)
 
-['ADN43894.1']:
+ADN43894.1:
 
 ![](../../../../csdb/images/3159.gif)
 
@@ -5579,11 +5579,11 @@ Total number of members in cluster: 11
 
 #### Sugars in cluster:
 
-['AHB32774.1']:
+AHB32774.1:
 
 ![](../../../../csdb/images/493.gif)
 
-['AHB32438.2']:
+AHB32438.2:
 
 ![](../../../../csdb/images/2196.gif)
 
@@ -5629,7 +5629,7 @@ Total number of members in cluster: 11
 
 #### Sugars in cluster:
 
-['ACH97162.1']:
+ACH97162.1:
 
 ![](../../../../csdb/images/1529.gif)
 
@@ -5721,19 +5721,19 @@ Total number of members in cluster: 11
 
 #### Sugars in cluster:
 
-['CAI33610.1']:
+CAI33610.1:
 
 ![](../../../../csdb/images/7071.gif)
 
-['CAI33537.1']:
+CAI33537.1:
 
 ![](../../../../csdb/images/7074.gif)
 
-['CAI33561.1']:
+CAI33561.1:
 
 ![](../../../../csdb/images/846.gif)
 
-['CAI33585.1']:
+CAI33585.1:
 
 ![](../../../../csdb/images/939.gif)
 
@@ -5776,15 +5776,15 @@ Total number of members in cluster: 11
 
 #### Sugars in cluster:
 
-['ACD37138.1']:
+ACD37138.1:
 
 ![](../../../../csdb/images/1863.gif)
 
-['ACD37146.1']:
+ACD37146.1:
 
 ![](../../../../csdb/images/1906.gif)
 
-['ACD37105.1']:
+ACD37105.1:
 
 ![](../../../../csdb/images/718.gif)
 
@@ -5829,7 +5829,7 @@ Total number of members in cluster: 11
 
 #### Sugars in cluster:
 
-['AAM27546.1']:
+AAM27546.1:
 
 ![](../../../../csdb/images/6636.gif)
 
@@ -5871,11 +5871,11 @@ Total number of members in cluster: 11
 
 #### Sugars in cluster:
 
-['BAQ00858.1']:
+BAQ00858.1:
 
 ![](../../../../csdb/images/1545.gif)
 
-['ACA24776.1']:
+ACA24776.1:
 
 ![](../../../../csdb/images/11557.gif)
 
@@ -6022,7 +6022,7 @@ Total number of members in cluster: 10
 
 #### Sugars in cluster:
 
-['EHX11459.1', 'AFC91458.1', 'AFC91419.1', 'AAX07747.1']:
+EHX11459.1, AFC91458.1, AFC91419.1, AAX07747.1:
 
 ![](../../../../csdb/images/1552.gif)
 
@@ -6067,11 +6067,11 @@ Total number of members in cluster: 10
 
 #### Sugars in cluster:
 
-['ACV67297.1']:
+ACV67297.1:
 
 ![](../../../../csdb/images/1584.gif)
 
-['AFW04684.1']:
+AFW04684.1:
 
 ![](../../../../csdb/images/30392.gif)
 
@@ -6121,7 +6121,7 @@ Total number of members in cluster: 10
 
 #### Sugars in cluster:
 
-['AAO37717.1']:
+AAO37717.1:
 
 ![](../../../../csdb/images/1439.gif)
 
@@ -6172,7 +6172,7 @@ Total number of members in cluster: 10
 
 #### Sugars in cluster:
 
-['ADC54957.1']:
+ADC54957.1:
 
 ![](../../../../csdb/images/1908.gif)
 
@@ -6262,11 +6262,11 @@ Total number of members in cluster: 10
 
 #### Sugars in cluster:
 
-['BAQ00746.1']:
+BAQ00746.1:
 
 ![](../../../../csdb/images/20006.gif)
 
-['AFW04888.1']:
+AFW04888.1:
 
 ![](../../../../csdb/images/3366.gif)
 
@@ -6311,7 +6311,7 @@ Total number of members in cluster: 10
 
 #### Sugars in cluster:
 
-['BAQ01238.1']:
+BAQ01238.1:
 
 ![](../../../../csdb/images/1452.gif)
 
@@ -6490,7 +6490,7 @@ Total number of members in cluster: 10
 
 #### Sugars in cluster:
 
-['ABX51880.1']:
+ABX51880.1:
 
 ![](../../../../csdb/images/27329.gif)
 
@@ -6589,7 +6589,7 @@ Total number of members in cluster: 10
 
 #### Sugars in cluster:
 
-['AAK60458.1']:
+AAK60458.1:
 
 ![](../../../../csdb/images/895.gif)
 
@@ -6635,7 +6635,7 @@ Total number of members in cluster: 10
 
 #### Sugars in cluster:
 
-['AAM27782.1']:
+AAM27782.1:
 
 ![](../../../../csdb/images/24033.gif)
 
@@ -6676,7 +6676,7 @@ Total number of members in cluster: 9
 
 #### Sugars in cluster:
 
-['ADR74237.1']:
+ADR74237.1:
 
 ![](../../../../csdb/images/1848.gif)
 
@@ -6728,11 +6728,11 @@ Total number of members in cluster: 9
 
 #### Sugars in cluster:
 
-['CAI32935.1']:
+CAI32935.1:
 
 ![](../../../../csdb/images/1949.gif)
 
-['CAI32867.1']:
+CAI32867.1:
 
 ![](../../../../csdb/images/2624.gif)
 
@@ -6811,7 +6811,7 @@ Total number of members in cluster: 9
 
 #### Sugars in cluster:
 
-['CAI32705.1']:
+CAI32705.1:
 
 ![](../../../../csdb/images/31499.gif)
 
@@ -6867,7 +6867,7 @@ Total number of members in cluster: 9
 
 #### Sugars in cluster:
 
-['AAV74543.1']:
+AAV74543.1:
 
 ![](../../../../csdb/images/1516.gif)
 
@@ -6914,7 +6914,7 @@ Total number of members in cluster: 9
 
 #### Sugars in cluster:
 
-['AAO37701.1', 'WP_024244058.1']:
+AAO37701.1, WP_024244058.1:
 
 ![](../../../../csdb/images/1867.gif)
 
@@ -6959,7 +6959,7 @@ Total number of members in cluster: 9
 
 #### Sugars in cluster:
 
-['BAQ02031.1']:
+BAQ02031.1:
 
 ![](../../../../csdb/images/1926.gif)
 
@@ -7087,7 +7087,7 @@ Total number of members in cluster: 9
 
 #### Sugars in cluster:
 
-['ADB02825.1']:
+ADB02825.1:
 
 ![](../../../../csdb/images/1859.gif)
 
@@ -7187,11 +7187,11 @@ Total number of members in cluster: 9
 
 #### Sugars in cluster:
 
-['ACV67289.1']:
+ACV67289.1:
 
 ![](../../../../csdb/images/1542.gif)
 
-['AFW04785.1']:
+AFW04785.1:
 
 ![](../../../../csdb/images/3359.gif)
 
@@ -7236,7 +7236,7 @@ Total number of members in cluster: 9
 
 #### Sugars in cluster:
 
-['CAI33718.1']:
+CAI33718.1:
 
 ![](../../../../csdb/images/1928.gif)
 
@@ -7282,11 +7282,11 @@ Total number of members in cluster: 9
 
 #### Sugars in cluster:
 
-['CAI33652.1']:
+CAI33652.1:
 
 ![](../../../../csdb/images/2254.gif)
 
-['CAI33675.1']:
+CAI33675.1:
 
 ![](../../../../csdb/images/2255.gif)
 
@@ -7328,11 +7328,11 @@ Total number of members in cluster: 9
 
 #### Sugars in cluster:
 
-['CAI33412.1']:
+CAI33412.1:
 
 ![](../../../../csdb/images/2972.gif)
 
-['CAI33343.1']:
+CAI33343.1:
 
 ![](../../../../csdb/images/2973.gif)
 
@@ -7388,11 +7388,11 @@ Total number of members in cluster: 9
 
 #### Sugars in cluster:
 
-['AKA20948.1']:
+AKA20948.1:
 
 ![](../../../../csdb/images/12133.gif)
 
-['ACV52983.1']:
+ACV52983.1:
 
 ![](../../../../csdb/images/12124.gif)
 
@@ -7438,7 +7438,7 @@ Total number of members in cluster: 9
 
 #### Sugars in cluster:
 
-['ABI98966.1']:
+ABI98966.1:
 
 ![](../../../../csdb/images/1890.gif)
 
@@ -7623,11 +7623,11 @@ Total number of members in cluster: 9
 
 #### Sugars in cluster:
 
-['ABG81806.1', 'BAQ02224.1']:
+ABG81806.1, BAQ02224.1:
 
 ![](../../../../csdb/images/697.gif)
 
-['BAQ02068.1', 'AJR19430.1']:
+BAQ02068.1, AJR19430.1:
 
 ![](../../../../csdb/images/1933.gif)
 
@@ -7680,11 +7680,11 @@ Total number of members in cluster: 9
 
 #### Sugars in cluster:
 
-['CAI33278.1']:
+CAI33278.1:
 
 ![](../../../../csdb/images/1955.gif)
 
-['CAI33226.1']:
+CAI33226.1:
 
 ![](../../../../csdb/images/7060.gif)
 
@@ -7726,11 +7726,11 @@ Total number of members in cluster: 8
 
 #### Sugars in cluster:
 
-['BAQ00994.1']:
+BAQ00994.1:
 
 ![](../../../../csdb/images/1556.gif)
 
-['AFW04837.1']:
+AFW04837.1:
 
 ![](../../../../csdb/images/26312.gif)
 
@@ -7819,7 +7819,7 @@ Total number of members in cluster: 8
 
 #### Sugars in cluster:
 
-['CAI34587.1']:
+CAI34587.1:
 
 ![](../../../../csdb/images/25004.gif)
 
@@ -8031,7 +8031,7 @@ Total number of members in cluster: 8
 
 #### Sugars in cluster:
 
-['BAQ01563.1']:
+BAQ01563.1:
 
 ![](../../../../csdb/images/1856.gif)
 
@@ -8077,7 +8077,7 @@ Total number of members in cluster: 8
 
 #### Sugars in cluster:
 
-['AAK64372.1']:
+AAK64372.1:
 
 ![](../../../../csdb/images/1843.gif)
 
@@ -8127,11 +8127,11 @@ Total number of members in cluster: 8
 
 #### Sugars in cluster:
 
-['ACA24739.1']:
+ACA24739.1:
 
 ![](../../../../csdb/images/1585.gif)
 
-['AAL27327.1']:
+AAL27327.1:
 
 ![](../../../../csdb/images/1422.gif)
 
@@ -8182,11 +8182,11 @@ Total number of members in cluster: 8
 
 #### Sugars in cluster:
 
-['ACD37014.1']:
+ACD37014.1:
 
 ![](../../../../csdb/images/1852.gif)
 
-['ACD37006.1']:
+ACD37006.1:
 
 ![](../../../../csdb/images/1869.gif)
 
@@ -8238,23 +8238,23 @@ Total number of members in cluster: 8
 
 #### Sugars in cluster:
 
-['CAI33207.1']:
+CAI33207.1:
 
 ![](../../../../csdb/images/7053.gif)
 
-['CAI33128.1']:
+CAI33128.1:
 
 ![](../../../../csdb/images/1493.gif)
 
-['CAI33149.1']:
+CAI33149.1:
 
 ![](../../../../csdb/images/7054.gif)
 
-['CAI33169.1']:
+CAI33169.1:
 
 ![](../../../../csdb/images/31003.gif)
 
-['CAI33188.1']:
+CAI33188.1:
 
 ![](../../../../csdb/images/7056.gif)
 
@@ -8298,11 +8298,11 @@ Total number of members in cluster: 8
 
 #### Sugars in cluster:
 
-['AHB32586.1']:
+AHB32586.1:
 
 ![](../../../../csdb/images/491.gif)
 
-['BAQ01516.1']:
+BAQ01516.1:
 
 ![](../../../../csdb/images/25389.gif)
 
@@ -8390,11 +8390,11 @@ Total number of members in cluster: 8
 
 #### Sugars in cluster:
 
-['BAQ00846.1']:
+BAQ00846.1:
 
 ![](../../../../csdb/images/1544.gif)
 
-['AFW04741.1']:
+AFW04741.1:
 
 ![](../../../../csdb/images/30351.gif)
 
@@ -8439,7 +8439,7 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-['ABI98976.1']:
+ABI98976.1:
 
 ![](../../../../csdb/images/1883.gif)
 
@@ -8526,7 +8526,7 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-['BAQ01960.1']:
+BAQ01960.1:
 
 ![](../../../../csdb/images/1921.gif)
 
@@ -8571,7 +8571,7 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-['AFE83402.1', 'WP_001300154.1']:
+AFE83402.1, WP_001300154.1:
 
 ![](../../../../csdb/images/616.gif)
 
@@ -8658,11 +8658,11 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-['AJE24464.1']:
+AJE24464.1:
 
 ![](../../../../csdb/images/1894.gif)
 
-['AFW04790.1']:
+AFW04790.1:
 
 ![](../../../../csdb/images/3364.gif)
 
@@ -8712,15 +8712,15 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-['ACD37058.1']:
+ACD37058.1:
 
 ![](../../../../csdb/images/1540.gif)
 
-['BAQ01277.1']:
+BAQ01277.1:
 
 ![](../../../../csdb/images/1589.gif)
 
-['ACD37051.1']:
+ACD37051.1:
 
 ![](../../../../csdb/images/3977.gif)
 
@@ -8763,11 +8763,11 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-['ACD75809.1']:
+ACD75809.1:
 
 ![](../../../../csdb/images/108685.gif)
 
-['BAQ01012.1']:
+BAQ01012.1:
 
 ![](../../../../csdb/images/1557.gif)
 
@@ -8850,15 +8850,15 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-['CAI33324.1']:
+CAI33324.1:
 
 ![](../../../../csdb/images/5348.gif)
 
-['CAI33366.1']:
+CAI33366.1:
 
 ![](../../../../csdb/images/1957.gif)
 
-['CAI33389.1']:
+CAI33389.1:
 
 ![](../../../../csdb/images/2251.gif)
 
@@ -8904,11 +8904,11 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-['ABB29906.1']:
+ABB29906.1:
 
 ![](../../../../csdb/images/8411.gif)
 
-['ABB29916.1']:
+ABB29916.1:
 
 ![](../../../../csdb/images/8382.gif)
 
@@ -8956,7 +8956,7 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-['BAQ01218.1']:
+BAQ01218.1:
 
 ![](../../../../csdb/images/1582.gif)
 
@@ -9001,11 +9001,11 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-['ACD37117.1']:
+ACD37117.1:
 
 ![](../../../../csdb/images/1547.gif)
 
-['ACD37111.1']:
+ACD37111.1:
 
 ![](../../../../csdb/images/713.gif)
 
@@ -9130,7 +9130,7 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-['BAQ02116.1']:
+BAQ02116.1:
 
 ![](../../../../csdb/images/1561.gif)
 
@@ -9221,7 +9221,7 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-['ABZ79721.1', 'ABB65530.1']:
+ABZ79721.1, ABB65530.1:
 
 ![](../../../../csdb/images/1560.gif)
 
@@ -9345,11 +9345,11 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-['ABF01010.1']:
+ABF01010.1:
 
 ![](../../../../csdb/images/1537.gif)
 
-['ACK44379.1']:
+ACK44379.1:
 
 ![](../../../../csdb/images/1549.gif)
 
@@ -9522,7 +9522,7 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-['BAQ00569.1']:
+BAQ00569.1:
 
 ![](../../../../csdb/images/3191.gif)
 
@@ -9570,7 +9570,7 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster:
 
-['AAY28249.1']:
+AAY28249.1:
 
 ![](../../../../csdb/images/30040.gif)
 
@@ -9654,7 +9654,7 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['ADC54974.1']:
+ADC54974.1:
 
 ![](../../../../csdb/images/1591.gif)
 
@@ -9696,7 +9696,7 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['ADV17650.1']:
+ADV17650.1:
 
 ![](../../../../csdb/images/1513.gif)
 
@@ -9741,7 +9741,7 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['AAZ20761.1']:
+AAZ20761.1:
 
 ![](../../../../csdb/images/1573.gif)
 
@@ -9790,7 +9790,7 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['ACA24829.1', 'AAS98031.1']:
+ACA24829.1, AAS98031.1:
 
 ![](../../../../csdb/images/1844.gif)
 
@@ -9920,7 +9920,7 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['ABI34565.1']:
+ABI34565.1:
 
 ![](../../../../csdb/images/1530.gif)
 
@@ -9966,7 +9966,7 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['BAQ00736.1']:
+BAQ00736.1:
 
 ![](../../../../csdb/images/1530.gif)
 
@@ -10012,7 +10012,7 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['BAQ01456.1']:
+BAQ01456.1:
 
 ![](../../../../csdb/images/1838.gif)
 
@@ -10139,11 +10139,11 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['BAQ00957.1']:
+BAQ00957.1:
 
 ![](../../../../csdb/images/1554.gif)
 
-['BAQ01687.1']:
+BAQ01687.1:
 
 ![](../../../../csdb/images/1876.gif)
 
@@ -10187,7 +10187,7 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['BAQ00634.1']:
+BAQ00634.1:
 
 ![](../../../../csdb/images/1514.gif)
 
@@ -10232,15 +10232,15 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['BAQ01860.1']:
+BAQ01860.1:
 
 ![](../../../../csdb/images/1911.gif)
 
-['BAL03056.1']:
+BAL03056.1:
 
 ![](../../../../csdb/images/1925.gif)
 
-['AAL27339.1']:
+AAL27339.1:
 
 ![](../../../../csdb/images/712.gif)
 
@@ -10284,7 +10284,7 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['ADJ19217.1']:
+ADJ19217.1:
 
 ![](../../../../csdb/images/1568.gif)
 
@@ -10375,7 +10375,7 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['AAD50486.1']:
+AAD50486.1:
 
 ![](../../../../csdb/images/1853.gif)
 
@@ -10419,7 +10419,7 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['BAQ02015.1']:
+BAQ02015.1:
 
 ![](../../../../csdb/images/1924.gif)
 
@@ -10500,7 +10500,7 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['AAD44158.1', 'BAH24292.1']:
+AAD44158.1, BAH24292.1:
 
 ![](../../../../csdb/images/1385.gif)
 
@@ -10545,7 +10545,7 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['AFW04860.1']:
+AFW04860.1:
 
 ![](../../../../csdb/images/3360.gif)
 
@@ -10669,7 +10669,7 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['AHB32334.1']:
+AHB32334.1:
 
 ![](../../../../csdb/images/483.gif)
 
@@ -10712,7 +10712,7 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['BAQ01917.1']:
+BAQ01917.1:
 
 ![](../../../../csdb/images/1917.gif)
 
@@ -10759,11 +10759,11 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['ACD37086.1']:
+ACD37086.1:
 
 ![](../../../../csdb/images/705.gif)
 
-['ACD37078.1']:
+ACD37078.1:
 
 ![](../../../../csdb/images/1851.gif)
 
@@ -10852,7 +10852,7 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['BAQ01894.1']:
+BAQ01894.1:
 
 ![](../../../../csdb/images/1913.gif)
 
@@ -10897,7 +10897,7 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['BAQ01266.1']:
+BAQ01266.1:
 
 ![](../../../../csdb/images/1588.gif)
 
@@ -11026,11 +11026,11 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['AAT28922.1']:
+AAT28922.1:
 
 ![](../../../../csdb/images/1914.gif)
 
-['AAR24270.1']:
+AAR24270.1:
 
 ![](../../../../csdb/images/1405.gif)
 
@@ -11075,7 +11075,7 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster:
 
-['BAQ01293.1']:
+BAQ01293.1:
 
 ![](../../../../csdb/images/1590.gif)
 
@@ -11154,7 +11154,7 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-['BAQ01999.1']:
+BAQ01999.1:
 
 ![](../../../../csdb/images/1923.gif)
 
@@ -11200,15 +11200,15 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-['AKA20981.1']:
+AKA20981.1:
 
 ![](../../../../csdb/images/12125.gif)
 
-['AKA20999.1']:
+AKA20999.1:
 
 ![](../../../../csdb/images/12126.gif)
 
-['CAX18360.1']:
+CAX18360.1:
 
 ![](../../../../csdb/images/12127.gif)
 
@@ -11257,7 +11257,7 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-['ABE98419.1', 'ADN43845.1']:
+ABE98419.1, ADN43845.1:
 
 ![](../../../../csdb/images/1865.gif)
 
@@ -11456,7 +11456,7 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-['BAQ00780.1']:
+BAQ00780.1:
 
 ![](../../../../csdb/images/1539.gif)
 
@@ -11503,7 +11503,7 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-['ACA24912.1']:
+ACA24912.1:
 
 ![](../../../../csdb/images/23812.gif)
 
@@ -11546,7 +11546,7 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-['CAI33466.1']:
+CAI33466.1:
 
 ![](../../../../csdb/images/1062.gif)
 
@@ -11626,7 +11626,7 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-['CAI32727.1']:
+CAI32727.1:
 
 ![](../../../../csdb/images/1944.gif)
 
@@ -11704,7 +11704,7 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-['BAQ01207.1']:
+BAQ01207.1:
 
 ![](../../../../csdb/images/1580.gif)
 
@@ -11830,7 +11830,7 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-['AAT77177.1']:
+AAT77177.1:
 
 ![](../../../../csdb/images/1854.gif)
 
@@ -12270,11 +12270,11 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-['CAI32889.1']:
+CAI32889.1:
 
 ![](../../../../csdb/images/7041.gif)
 
-['CAI32910.1']:
+CAI32910.1:
 
 ![](../../../../csdb/images/7042.gif)
 
@@ -12441,11 +12441,11 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-['ACH97132.1']:
+ACH97132.1:
 
 ![](../../../../csdb/images/1846.gif)
 
-['ACH97143.1', 'ABE98413.1']:
+ACH97143.1, ABE98413.1:
 
 ![](../../../../csdb/images/1857.gif)
 
@@ -12525,7 +12525,7 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-['CAI33441.1']:
+CAI33441.1:
 
 ![](../../../../csdb/images/1490.gif)
 
@@ -12640,7 +12640,7 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-['ACD37126.1']:
+ACD37126.1:
 
 ![](../../../../csdb/images/3982.gif)
 
@@ -12684,7 +12684,7 @@ Total number of members in cluster: 5
 
 #### Sugars in cluster:
 
-['BAQ01641.1']:
+BAQ01641.1:
 
 ![](../../../../csdb/images/1873.gif)
 
@@ -12815,7 +12815,7 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-['AAN60459.1']:
+AAN60459.1:
 
 ![](../../../../csdb/images/1534.gif)
 
@@ -12893,7 +12893,7 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-['CAN87666.1']:
+CAN87666.1:
 
 ![](../../../../csdb/images/1552.gif)
 
@@ -13053,7 +13053,7 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-['AAM27879.1']:
+AAM27879.1:
 
 ![](../../../../csdb/images/24037.gif)
 
@@ -13094,7 +13094,7 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-['BAQ00893.1']:
+BAQ00893.1:
 
 ![](../../../../csdb/images/1548.gif)
 
@@ -13178,11 +13178,11 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-['ADI59429.1']:
+ADI59429.1:
 
 ![](../../../../csdb/images/12131.gif)
 
-['ADI59445.1']:
+ADI59445.1:
 
 ![](../../../../csdb/images/12132.gif)
 
@@ -13226,11 +13226,11 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-['ACD36996.1']:
+ACD36996.1:
 
 ![](../../../../csdb/images/1910.gif)
 
-['ACD36984.1']:
+ACD36984.1:
 
 ![](../../../../csdb/images/1937.gif)
 
@@ -13390,7 +13390,7 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-['CAI34641.1']:
+CAI34641.1:
 
 ![](../../../../csdb/images/25006.gif)
 
@@ -13662,7 +13662,7 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-['ACD37046.1', 'ACD37037.1']:
+ACD37046.1, ACD37037.1:
 
 ![](../../../../csdb/images/1909.gif)
 
@@ -13743,7 +13743,7 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-['AAZ85718.1']:
+AAZ85718.1:
 
 ![](../../../../csdb/images/1881.gif)
 
@@ -13786,7 +13786,7 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-['ADN43838.1']:
+ADN43838.1:
 
 ![](../../../../csdb/images/1855.gif)
 
@@ -13971,7 +13971,7 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-['ADC54929.1']:
+ADC54929.1:
 
 ![](../../../../csdb/images/7222.gif)
 
@@ -14013,7 +14013,7 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-['BAQ00653.1']:
+BAQ00653.1:
 
 ![](../../../../csdb/images/1517.gif)
 
@@ -14133,7 +14133,7 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-['ADI77033.1']:
+ADI77033.1:
 
 ![](../../../../csdb/images/1577.gif)
 
@@ -14436,7 +14436,7 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-['BAQ02048.1']:
+BAQ02048.1:
 
 ![](../../../../csdb/images/1929.gif)
 
@@ -14479,7 +14479,7 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-['BAQ01419.1']:
+BAQ01419.1:
 
 ![](../../../../csdb/images/1600.gif)
 
@@ -14598,7 +14598,7 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-['BAQ01793.1']:
+BAQ01793.1:
 
 ![](../../../../csdb/images/1897.gif)
 
@@ -14644,7 +14644,7 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-['BAQ00830.1']:
+BAQ00830.1:
 
 ![](../../../../csdb/images/1543.gif)
 
@@ -14769,7 +14769,7 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-['ABA42232.1']:
+ABA42232.1:
 
 ![](../../../../csdb/images/1889.gif)
 
@@ -14812,7 +14812,7 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster:
 
-['BAQ01584.1']:
+BAQ01584.1:
 
 ![](../../../../csdb/images/1860.gif)
 
@@ -14932,7 +14932,7 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-['ACD37072.1']:
+ACD37072.1:
 
 ![](../../../../csdb/images/3984.gif)
 
@@ -15013,7 +15013,7 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-['ADN43858.1']:
+ADN43858.1:
 
 ![](../../../../csdb/images/1879.gif)
 
@@ -15096,7 +15096,7 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-['AFW04847.1']:
+AFW04847.1:
 
 ![](../../../../csdb/images/3362.gif)
 
@@ -15142,7 +15142,7 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-['AAY28257.1']:
+AAY28257.1:
 
 ![](../../../../csdb/images/1919.gif)
 
@@ -15184,7 +15184,7 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-['BAQ01702.1']:
+BAQ01702.1:
 
 ![](../../../../csdb/images/1878.gif)
 
@@ -15343,7 +15343,7 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-['BAQ01169.1']:
+BAQ01169.1:
 
 ![](../../../../csdb/images/1575.gif)
 
@@ -15386,7 +15386,7 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-['BAQ00758.1']:
+BAQ00758.1:
 
 ![](../../../../csdb/images/736.gif)
 
@@ -15429,7 +15429,7 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-['ADN43871.1']:
+ADN43871.1:
 
 ![](../../../../csdb/images/1287.gif)
 
@@ -15587,7 +15587,7 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-['AEP25500.1']:
+AEP25500.1:
 
 ![](../../../../csdb/images/12139.gif)
 
@@ -15854,7 +15854,7 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-['BAQ00927.1']:
+BAQ00927.1:
 
 ![](../../../../csdb/images/1381.gif)
 
@@ -15895,7 +15895,7 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-['CAI32797.1']:
+CAI32797.1:
 
 ![](../../../../csdb/images/1947.gif)
 
@@ -16427,7 +16427,7 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-['BAQ01137.1']:
+BAQ01137.1:
 
 ![](../../../../csdb/images/1572.gif)
 
@@ -16658,11 +16658,11 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-['CAI34498.1']:
+CAI34498.1:
 
 ![](../../../../csdb/images/25001.gif)
 
-['CAI34475.1']:
+CAI34475.1:
 
 ![](../../../../csdb/images/25002.gif)
 
@@ -16819,7 +16819,7 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-['BAQ01878.1']:
+BAQ01878.1:
 
 ![](../../../../csdb/images/1407.gif)
 
@@ -16863,7 +16863,7 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-['BAQ01155.1']:
+BAQ01155.1:
 
 ![](../../../../csdb/images/1574.gif)
 
@@ -17132,7 +17132,7 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-['BAQ02088.1']:
+BAQ02088.1:
 
 ![](../../../../csdb/images/1934.gif)
 
@@ -17294,7 +17294,7 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-['ACA24901.1']:
+ACA24901.1:
 
 ![](../../../../csdb/images/1594.gif)
 
@@ -17603,7 +17603,7 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-['ABD19779.1']:
+ABD19779.1:
 
 ![](../../../../csdb/images/3660.gif)
 
@@ -17724,7 +17724,7 @@ Total number of members in cluster: 3
 
 #### Sugars in cluster:
 
-['CAI34099.1']:
+CAI34099.1:
 
 ![](../../../../csdb/images/7087.gif)
 
@@ -17842,7 +17842,7 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-['BAQ01114.1']:
+BAQ01114.1:
 
 ![](../../../../csdb/images/1571.gif)
 
@@ -18755,7 +18755,7 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-['BAQ01812.1']:
+BAQ01812.1:
 
 ![](../../../../csdb/images/1901.gif)
 
@@ -18833,7 +18833,7 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-['ADX97403.1']:
+ADX97403.1:
 
 ![](../../../../csdb/images/12137.gif)
 
@@ -19912,7 +19912,7 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-['BAQ01780.1']:
+BAQ01780.1:
 
 ![](../../../../csdb/images/696.gif)
 
@@ -20026,7 +20026,7 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-['ACH97152.1']:
+ACH97152.1:
 
 ![](../../../../csdb/images/1501.gif)
 
@@ -20067,7 +20067,7 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-['BAQ01659.1']:
+BAQ01659.1:
 
 ![](../../../../csdb/images/1874.gif)
 
@@ -20188,7 +20188,7 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-['CAI32957.1']:
+CAI32957.1:
 
 ![](../../../../csdb/images/938.gif)
 
@@ -20374,7 +20374,7 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-['ACA24890.1']:
+ACA24890.1:
 
 ![](../../../../csdb/images/1900.gif)
 
@@ -20492,7 +20492,7 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-['AAL27351.1']:
+AAL27351.1:
 
 ![](../../../../csdb/images/3986.gif)
 
@@ -20611,7 +20611,7 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-['WP_016238111.1']:
+WP_016238111.1:
 
 ![](../../../../csdb/images/1587.gif)
 
@@ -20691,7 +20691,7 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-['AHB32242.2']:
+AHB32242.2:
 
 ![](../../../../csdb/images/487.gif)
 
@@ -20772,7 +20772,7 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-['ADN43883.1']:
+ADN43883.1:
 
 ![](../../../../csdb/images/1907.gif)
 
@@ -21075,7 +21075,7 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-['ADJ19203.1']:
+ADJ19203.1:
 
 ![](../../../../csdb/images/1902.gif)
 
@@ -21377,7 +21377,7 @@ Total number of members in cluster: 2
 
 #### Sugars in cluster:
 
-['AIG62747.1']:
+AIG62747.1:
 
 ![](../../../../csdb/images/1920.gif)
 
