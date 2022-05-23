@@ -1,5 +1,6 @@
 import os
 import sys
+import pandas as pd
 
 timestamp = sys.argv[1]
 
@@ -35,9 +36,10 @@ jobscript=f"""#! /bin/sh
 #BSUB -e {hpc_directory}/CLUSTER/jobscript.err
 # here follow the commands you want to execute 
 /work3/idamei/bin/muscle5.1.linux_intel64 -align {hpc_directory}/CLUSTER/sequences.fa -output {hpc_directory}/CLUSTER/sequences.afa
-/work3/garryg/bioP/bin/malign.py -a {hpc_directory}/CLUSTER/sequences.afa > {hpc_directory}/CLUSTER/sequences.malign
-python2 /work3/idamei/bin/seq2logo-2.1/Seq2Logo.py -f {hpc_directory}/CLUSTER/sequences.afa -o {hpc_directory}/CLUSTER/sequences.logo
+/work3/garryg/bioP/bin/malign.py -a {hpc_directory}/CLUSTER/sequences.afa -s {hpc_directory}/CLUSTER/seeds.txt > {hpc_directory}/CLUSTER/sequences.malign
 """
+# Logos, add above if wanted
+#python2 /work3/idamei/bin/seq2logo-2.1/Seq2Logo.py -f {hpc_directory}/CLUSTER/sequences.afa -o {hpc_directory}/CLUSTER/sequences.logo
 
 clusterdir = f"data/wzy/ssn-clusterings/clustering/{timestamp}/clusters"
 clusters = os.listdir(clusterdir)

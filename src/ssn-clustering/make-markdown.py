@@ -27,13 +27,23 @@ info_file.close()
 cluster_tsv_url = f"{github_url}/{resultsdir}/clusters.tsv"
 outfile.write(f"[File with accessions in each cluster]({cluster_tsv_url})\n\n")
 
+clusterdir = f"{resultsdir}/clusters"
+clusters = os.listdir(clusterdir)
+clusters.sort(reverse=True)
+
+# Navigation
+outfile.write('## Navigation\n')
+for cluster in clusters:
+    name = cluster.split('_')[1]
+    count = cluster.split('_')[0].lstrip('0')
+    navigation_url = f"https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/{timestamp}/report.md#cluster-{name}"
+    outfile.write(f"[{name}({count})]({navigation_url})  ")
+outfile.write('\n\n')
+
 # Clusters
 outfile.write('## Clusters\n')
 seed_df = pd.read_csv("data/wzy/wzy.tsv", sep = '\t', dtype=object)
 seeds_and_hits_df = pd.read_csv("data/wzy/seeds-and-hits.tsv", sep='\t', dtype=object)
-clusterdir = f"{resultsdir}/clusters"
-clusters = os.listdir(clusterdir)
-clusters.sort(reverse=True)
 image_github_url = 'https://github.com/idameitil/phd/raw/master'
 for cluster in clusters:
     if cluster.startswith('.'):
@@ -79,6 +89,9 @@ for cluster in clusters:
     # Logoplot
     #logo_url = f"{github_url}/{dir}/sequences.logo-001.jpg"
     #outfile.write(f"[Logoplot]({logo_url}) (OBS: this is still the old tool)\n\n")
+    # Hits table
+    hits_tsv_url = f"{github_url}/{dir}/hits.tsv"
+    outfile.write(f"[Hits in cluster]({hits_tsv_url})\n\n")
 
     # Sugar images
     outfile.write("#### Sugars in cluster:\n\n")
@@ -123,6 +136,10 @@ for cluster in clusters:
     outfile.write(order_count_table.to_markdown()+'\n\n')
     outfile.write(family_count_table.to_markdown()+'\n\n')
     outfile.write(genus_count_table.to_markdown()+'\n\n')
+
+    # Navigation to top
+    top_navigation_url = f"https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/{timestamp}/report.md#navigation"
+    outfile.write(f"[top]({top_navigation_url})\n")
 
     outfile.write('\n')
 

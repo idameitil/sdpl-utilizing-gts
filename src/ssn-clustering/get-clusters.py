@@ -5,7 +5,7 @@ import pandas as pd
 sys.path.append("/Users/idamei/garryg/bioP/lib")
 
 timestamp = sys.argv[1]
-expansion_threshold = 10**-30
+expansion_threshold = 10**-20
 ssn_threshold = int(sys.argv[2])
 cdhit_threshold = 99
 min_length_filter = 320
@@ -248,6 +248,7 @@ for cluster in clusters:
         os.makedirs(dir)
     # Fasta file
     fasta_outfile = open(f"{dir}/sequences.fa", "w")
+    seed_list_file = open(f"{dir}/seeds.txt", "w")
     accessions_done = list()
     # Write annotated
     annotated_in_cluster = annotated_df.loc[annotated_df['protein_accession'].isin(cluster), ['protein_accession', 'seq']]
@@ -255,9 +256,13 @@ for cluster in clusters:
         accessions_done.append(row.protein_accession)
         fasta_outfile.write(f">{row.protein_accession}\n{row.seq}\n")
         cluster_file.write(f"{row.protein_accession}\t{count}\n")
+        seed_list_file.write(f"{row.protein_accession}\n")
     # Write blast hits
     blast_hits_in_cluster = blast_hits_df.loc[blast_hits_df['acc'].isin(cluster), ['acc', 'seq']]
     for index, row in blast_hits_in_cluster.iterrows():
         if row.acc not in accessions_done:
             fasta_outfile.write(f">{row.acc}\n{row.seq}\n")
             cluster_file.write(f"{row.acc}\t{count}\n")
+    # Blast hits tsv file
+    blast_hits_in_cluster = blast_hits_df[blast_hits_df['acc'].isin(cluster)]
+    blast_hits_in_cluster.to_csv(f"{dir}/hits.tsv", sep='\t')

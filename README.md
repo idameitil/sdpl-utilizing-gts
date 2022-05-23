@@ -63,7 +63,7 @@ Then locally run:
 `sed 's/ >.*$//' data/wzy/blast/unique-hits.fasta > data/wzy/blast/unique-hits-short-headers.fasta`
 
 ### Make nodes file
-
+Run `python3 src/make-nodes-file.py`
 
 ### Filtering and redundancy reducing Blast hits
 To filter blast hits by length and perform redundancy reduction with cd-hit run: `python3 src/data-collection-and-preprocessing/filter-blast-hits.py`.
