@@ -20,7 +20,7 @@ To retrieve the Wzx and Wzz entries run `python3 src/data-collection-and-preproc
 This will create the files `data/wzx.tsv` and `data/wzz.tsv`
 
 ### Making fasta files
-To generate fasta files run `python3 src/data-collection-and-preprocessing/make-fastas`
+To generate fasta files run `python3 src/data-collection-and-preprocessing/make-fastas.py`
 
 This will create the files `data/wzx.fasta`, `data/wzy.fasta` and `data/wzz.fasta`
 
@@ -104,3 +104,10 @@ On the HPC, run `sh /work3/idamei/ssn-clusterings/clustering/[timestamp]/submit.
 When all jobs are finished (check with bstat), run locally: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/clustering/[timestamp]/clusters/ data/wzy/ssn-clusterings/clustering/[timestamp]`
 
 To make the markdown report, run `python3 src/ssn-clustering/make-markdown.py [timestamp]`. (push changes to see files)
+
+## Phylogenetic trees
+
+### Make iTOL label files
+To make iTOL label files, run `python3 src/phylogenetic-trees/make-iTOL-label-files.py`. This will create label files in the folder `data/wzy/phylogenetic-trees/itol-label-files`.
+
+https://www.ebi.ac.uk/Tools/msa/muscle/
