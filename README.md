@@ -108,6 +108,11 @@ To make the markdown report, run `python3 src/ssn-clustering/make-markdown.py [t
 ## Phylogenetic trees
 
 ### Make iTOL label files
-To make iTOL label files, run `python3 src/phylogenetic-trees/make-iTOL-label-files.py`. This will create label files in the folder `data/wzy/phylogenetic-trees/itol-label-files`.
+To make iTOL label files, run `python3 src/phylogenetic-trees/make-itol-label-files.py`. This will create label files in the folder `data/wzy/phylogenetic-trees/itol-label-files`.
 
 The MUSCLE tree is generated at: `https://www.ebi.ac.uk/Tools/msa/muscle/` by uploading `data/wzy/wzy.fasta`. This tree is saved as `data/wzy/phylogenetic-trees/trees/muscle-tree.nwk`.
+
+## Pymol visualization
+
+### Ligase alignment
+To align Wzy alphafold models from different clusters with the O-antigen ligase (WaaL) and compare conserved arginines, run `pymol src/pymol-visualization/ligase-alignment.pml`.
