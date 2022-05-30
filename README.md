@@ -14,10 +14,10 @@ This will create the file `data/wzy/wzy.tsv`
 ### Downloading CSDB images
 In order to download new CSDB images, run `python3 src/data-collection-and-preprocessing/download-csdb-images.py`
 
-### Retrieving Wzxs and Wzzs
-To retrieve the Wzx and Wzz entries run `python3 src/data-collection-and-preprocessing/retrieve-wzx-and-wzz.py`
+### Retrieving Wzxs, Wzzs and WaaLs
+To retrieve the Wzx, Wzz and Waal entries run `python3 src/data-collection-and-preprocessing/retrieve-wzx-wzz-and-waal.py`
 
-This will create the files `data/wzx.tsv` and `data/wzz.tsv`
+This will create the files `data/wzx/wzx.tsv`, `data/wzz/wzz.tsv` and `data/waal/waal.tsv`
 
 ### Making fasta files
 To generate fasta files run `python3 src/data-collection-and-preprocessing/make-fastas.py`

@@ -1,3 +1,4 @@
+from errno import ECANCELED
 import pandas as pd
 import random
 
@@ -18,3 +19,22 @@ for rank in wanted_ranks:
                 color = '#' + "%06x" % random.randint(0, 0xFFFFFF)
                 tax2color[tax] = color
             file.write(f"{acc},{tax2color[tax]},{tax}\n")
+
+columns = ['WzyE', 'CPS', 'WaaL']
+
+outfilename = f"data/wzy/phylogenetic-trees/itol-label-files/polysaccharide_type.txt"
+with open(outfilename, "w") as file:
+    header = f"DATASET_COLORSTRIP\nSEPARATOR COMMA\nDATASET_LABEL,Polysaccharide type\nCOLOR\t#ff0000\nDATA\n"
+    file.write(header)
+    for index, row in seed_df.iterrows():
+        colors = {'ECA Wzy':'green', 'CPS Wzy':'red', 'WaaL':'yellow', 'O-antigen Wzy':'blue'}
+        print(row.WaaL)
+        if row.WzyE == 1:
+            type = 'ECA Wzy'
+        elif row.CPS == 1:
+            type = 'CPS Wzy'
+        elif row.WaaL == 1:
+            type = 'WaaL'
+        else:
+            type = 'O-antigen Wzy'
+        file.write(f"{row['protein_accession']},{colors[type]},{type}\n")
