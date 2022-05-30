@@ -24,6 +24,7 @@ waal_data = []
 wzz_accessions_done = []
 wzx_accessions_done = []
 waal_accessions_done = []
+waal_banned = ['ADT77239.1', 'AHG17028.1', 'ABB68107.1']
 for gb_record in SeqIO.parse(open(gb_file,"r"), "genbank") :
     dna_accession = gb_record.id
     organism = gb_record.annotations['organism']
@@ -50,7 +51,7 @@ for gb_record in SeqIO.parse(open(gb_file,"r"), "genbank") :
         feature = get_cds_feature_with_qualifier_value(gb_record, name, value)
         if feature is not None:
             waal_accession = feature.qualifiers.get('protein_id')[0]
-            if waal_accession not in waal_accessions_done:
+            if waal_accession not in waal_accessions_done and waal_accession not in waal_banned:
                 waal_seq = feature.qualifiers.get('translation')[0]
                 waal_data.append((waal_accession, organism, dna_accession, waal_seq))
                 waal_accessions_done.append(waal_accession)
@@ -65,8 +66,6 @@ wzy_df = pd.read_csv("data/wzy/wzy.tsv", sep = '\t', dtype=object)
 wzy_columns = wzy_df.columns.drop(['WzyE', 'comment']).tolist()
 # Remove ECA rows
 wzy_df = wzy_df[wzy_df.WzyE == '0']
-# Remove WaaL rows
-wzy_df = wzy_df[wzy_df.WaaL == '0']
 # Remove columns
 wzy_df.drop(['protein_accession', 'seq'], axis=1, inplace=True)
 # Merge
