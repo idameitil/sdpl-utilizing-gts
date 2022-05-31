@@ -1,8 +1,6 @@
 import os
 import sys
 
-timestamp = sys.argv[1]
-
 def parse_blast_file(blast_file, outfile):
     """Parses a blast file and appends protein pairs to network list"""
 
@@ -39,12 +37,12 @@ def parse_blast_file(blast_file, outfile):
     infile.close()
 
 # Prepare outfile
-outfilename = f"data/wzy/ssn-clusterings/all-vs-all-blast/{timestamp}/network"
+outfilename = f"data/wzy/all-vs-all-blast/network"
 outfile = open(outfilename, "w")
 outfile.write("source\ttarget\tscore\tevalue\n")
 
 # Parse blast files and write to outfile
-run_dir = f"data/wzy/ssn-clusterings/all-vs-all-blast/{timestamp}/run"
+run_dir = f"data/wzy/all-vs-all-blast/run"
 chunks = [f for f in os.listdir(run_dir) if not f.startswith('.')]
 count = 0
 for chunk in chunks:

@@ -2,10 +2,9 @@ import os
 import sys
 import shutil
 
-timestamp = sys.argv[1]
 chunk_number = 200
 
-work_dir = f"/work3/idamei/ssn-clusterings/{timestamp}"
+work_dir = f"/work3/idamei/all-vs-all-blast"
 
 # Make fasta with unique hits and seeds
 

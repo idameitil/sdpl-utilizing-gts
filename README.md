@@ -63,7 +63,9 @@ Then locally run:
 `sed 's/ >.*$//' data/wzy/blast/unique-hits.fasta > data/wzy/blast/unique-hits-short-headers.fasta`
 
 ### Make nodes file
-Run `python3 src/make-nodes-file.py`
+Run `python3 src/data-collection-and-preprocessing/make-nodes-file.py`. 
+
+This will generate the file `data/wzy/seeds-and-hits.tsv`.
 
 ### Filtering and redundancy reducing Blast hits
 To filter blast hits by length and perform redundancy reduction with cd-hit run: `python3 src/data-collection-and-preprocessing/filter-blast-hits.py`.
@@ -74,22 +76,22 @@ This will create the files `data/wzy/blast/unique-hits-min320max600.fasta` and `
 
 ### All-vs-all blast
 
-Locally run `sh src/ssn-clustering/all-vs-all.sh [timestamp]`
+Locally run `sh src/all-vs-all-blast/all-vs-all.sh`
 
-On the HPC run `python3 /work3/idamei/ssn-clusterings/$1/prepare-all-vs-all.py $1`
+On the HPC run `python3 /work3/idamei/all-vs-all-blast/prepare-all-vs-all.py`
 
-And `sh /work3/idamei/ssn-clusterings/$1/submit.sh`
+And `sh /work3/idamei/all-vs-all-blast/submit.sh`
 
-When all jobs are finished, run: `tar -czvf /work3/idamei/ssn-clusterings/[timestamp].tar.gz /work3/idamei/ssn-clusterings/[timestamp]`
+When all jobs are finished, run: `tar -czvf /work3/idamei/all-vs-all-blast.tar.gz /work3/idamei/all-vs-all-blast`
 
-Then locally run: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/all-vs-all-blast[timestamp].tar.gz data/wzy/ssn-clusterings/all-vs-all-blast/`
-Unpack it and move to data/wzy/ssn-clusterings/all-vs-all-blast/.
+Then locally run: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/all-vs-all-blast.tar.gz data/wzy/all-vs-all-blast`
+Unpack it and move to `data/wzy/all-vs-all-blast/`.
 This file is too big to store in GitHub, so is only stored locally.
 
 ### Make network file
-To make the network file run `src/ssn-clustering/make-network-file.py [timestamp]`.
+To make the network file run `src/ssn-clustering/make-network-file.py`.
 
-This will create the file `data/wzy/ssn-clusterings/all-vs-all-blast/[timestamp]/network`.
+This will create the file `data/wzy/all-vs-all-blast/network`.
 
 ### Cluster
 

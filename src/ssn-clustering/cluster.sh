@@ -4,7 +4,7 @@ echo "\n*** RUNNING prepare-cluster-alignments.py ***\n"
 python src/ssn-clustering/prepare-cluster-alignments.py $1
 
 echo "\n*** COPYING FOLDER TO THE HPC ***\n"
-scp -r data/wzy/ssn-clusterings/clustering/$1 idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/clustering/
+scp -r data/wzy/ssn-clusterings/clustering/$1 idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/
 
 # echo "\n*** STARTING JOBS ON HPC ***\n"
 # ssh -l idamei login1.gbar.dtu.dk 'sh /work3/idamei/ssn-clusterings/clustering/$1/submit.sh'
