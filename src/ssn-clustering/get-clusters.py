@@ -5,8 +5,8 @@ import pandas as pd
 sys.path.append("/Users/idamei/garryg/bioP/lib")
 
 timestamp = sys.argv[1]
-expansion_threshold = 10**-30
-ssn_threshold = int(sys.argv[2])
+expansion_threshold = float(sys.argv[2])
+ssn_threshold = int(sys.argv[3])
 cdhit_threshold = 99
 min_length_filter = 320
 max_length_filter = 600
