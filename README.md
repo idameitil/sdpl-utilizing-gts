@@ -72,9 +72,7 @@ To filter blast hits by length and perform redundancy reduction with cd-hit run:
 
 This will create the files `data/wzy/blast/unique-hits-min320max600.fasta` and `data/wzy/blast/unique-hits-min320max600-cdhit99.fasta`.
 
-## SSN clustering
-
-### All-vs-all blast
+## All-vs-all blast
 
 Locally run `sh src/all-vs-all-blast/all-vs-all.sh`
 
@@ -93,15 +91,15 @@ To make the network file run `src/ssn-clustering/make-network-file.py`.
 
 This will create the file `data/wzy/all-vs-all-blast/network`.
 
-### Cluster
+## SSN clustering
 
-Fragment sequences are manually added to the file `data/wzy/blast/ssn-clusterings/banned`.
+Fragment sequences are manually added to the file `data/wzy/blast/banned`.
 
 To get the clusters in the SSN, change the thresholds in `src/ssn-clustering/get-clusters.py` to the desired ones and run `sh src/ssn-clustering/cluster.sh [timestamp] [ssn-threshold]`.
 
-This will create the folder `data/wzy/ssn-clusterings/clustering/[timestamp]` which contains a folder `clusters` with fasta files for all the clusters and jobscripts for making MSAs, a `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt`, `network`, `report.md` and `submit.sh`. Then, it copies all this to the HPC.
+This will create the folder `data/wzy/ssn-clusterings/[timestamp]` which contains a folder `clusters` with fasta files for all the clusters and jobscripts for making MSAs, a `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt`, `network`, `report.md` and `submit.sh`. Then, it copies all this to the HPC.
 
-On the HPC, run `sh /work3/idamei/ssn-clusterings/clustering/[timestamp]/submit.sh`.
+On the HPC, run `sh /work3/idamei/ssn-clusterings/[timestamp]/submit.sh`.
 
 When all jobs are finished (check with bstat), run locally: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/clustering/[timestamp]/clusters/ data/wzy/ssn-clusterings/clustering/[timestamp]`
 

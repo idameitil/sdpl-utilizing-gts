@@ -196,16 +196,16 @@ def write_info_file():
     outfile.write(f"Number of clusters: {cluster_count} \n")
 
 # Make outdir
-outdir = f"data/wzy/ssn-clusterings/clustering/{timestamp}"
+outdir = f"data/wzy/ssn-clusterings/{timestamp}"
 if not os.path.isdir(outdir):
     os.makedirs(outdir)
 
 # Define file paths
 filtered_reduced_fasta = f"data/wzy/blast/unique-hits-min{min_length_filter}max{max_length_filter}-cdhit{cdhit_threshold}.fasta"
-banned_file = "data/wzy/ssn-clusterings/banned"
+banned_file = "data/wzy/banned"
 unique_hits_tsv = "data/wzy/blast/unique-hits.tsv"
 seed_fasta = "data/wzy/wzy.fasta"
-network_file = "data/wzy/ssn-clusterings/all-vs-all-blast/2205161645/network"
+network_file = "data/wzy/all-vs-all-blast/network"
 
 # Write metadata
 write_metadata()
