@@ -57,104 +57,86 @@ Total number of members in cluster: 516
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |     470 |
-| Pasteurellales   |      42 |
-| Burkholderiales  |       2 |
-| Pseudomonadales  |       1 |
-
-|                     |   family |
-|:--------------------|---------:|
-| Enterobacteriaceae  |      214 |
-| Yersiniaceae        |       70 |
-| Morganellaceae      |       64 |
-| Pectobacteriaceae   |       55 |
-| Erwiniaceae         |       52 |
-| Pasteurellaceae     |       42 |
-| Hafniaceae          |        9 |
-| Budviciaceae        |        3 |
-| Bruguierivoracaceae |        2 |
-| Burkholderiaceae    |        2 |
-| Pseudomonadaceae    |        1 |
-
-|                                 |   genus |
-|:--------------------------------|--------:|
-| Enterobacter                    |      45 |
-| Serratia                        |      32 |
-| Escherichia                     |      28 |
-| Pantoea                         |      26 |
-| Salmonella                      |      22 |
-| Dickeya                         |      22 |
-| Yersinia                        |      20 |
-| Xenorhabdus                     |      20 |
-| Citrobacter                     |      20 |
-| Pectobacterium                  |      19 |
-| Erwinia                         |      16 |
-| Glaesserella                    |      13 |
-| Klebsiella                      |      13 |
-| Proteus                         |      12 |
-| Providencia                     |      12 |
-| Photorhabdus                    |      10 |
-| Cronobacter                     |      10 |
-| Rahnella                        |       9 |
-| Kosakonia                       |       9 |
-| Actinobacillus                  |       8 |
-| Cedecea                         |       7 |
-| Mannheimia                      |       7 |
-| Buttiauxella                    |       6 |
-| Brenneria                       |       6 |
-| Morganella                      |       5 |
-| Lonsdalea                       |       5 |
-| Raoultella                      |       4 |
-| Tatumella                       |       4 |
-| Leclercia                       |       4 |
-| Kluyvera                        |       4 |
-| Arsenophonus                    |       4 |
-| Hafnia                          |       4 |
-| Pseudocitrobacter               |       3 |
-| Pluralibacter                   |       3 |
-| Haemophilus                     |       3 |
-| Rouxiella                       |       3 |
-| Shigella                        |       3 |
-| Edwardsiella                    |       3 |
-| Lelliottia                      |       3 |
-| Trabulsiella                    |       2 |
-| Atlantibacter                   |       2 |
-| Bibersteinia                    |       2 |
-| Candidatus Symbiopectobacterium |       2 |
-| Chimaeribacter                  |       2 |
-| Ursidibacter                    |       2 |
-| Nissabacter                     |       2 |
-| Franconibacter                  |       2 |
-| Mycoavidus                      |       2 |
-| Sodalis                         |       2 |
-| Mixta                           |       2 |
-| Mangrovibacter                  |       2 |
-| Izhakiella                      |       2 |
-| Samsonia                        |       1 |
-| Scandinavium                    |       1 |
-| Siccibacter                     |       1 |
-| Tenebrionibacter                |       1 |
-| Pseudomonas                     |       1 |
-| Moellerella                     |       1 |
-| Pragia                          |       1 |
-| Affinibrenneria                 |       1 |
-| Budvicia                        |       1 |
-| Candidatus Fukatsuia            |       1 |
-| Enterobacillus                  |       1 |
-| Ewingella                       |       1 |
-| Jinshanibacter                  |       1 |
-| Lonepinella                     |       1 |
-| Muribacter                      |       1 |
-| Plesiomonas                     |       1 |
-| Musicola                        |       1 |
-| Nicoletella                     |       1 |
-| Obesumbacterium                 |       1 |
-| Otariodibacter                  |       1 |
-| Phaseolibacter                  |       1 |
-| Phytobacter                     |       1 |
-| Yokenella                       |       1 |
+| order                  | family                   | genus                               |
+|:-----------------------|:-------------------------|:------------------------------------|
+| Enterobacterales (470) | Enterobacteriaceae (214) | Salmonella (22)                     |
+|                        |                          | Escherichia (28)                    |
+|                        |                          | Shigella (3)                        |
+|                        |                          | Citrobacter (20)                    |
+|                        |                          | nan (3)                             |
+|                        |                          | Klebsiella (13)                     |
+|                        |                          | Buttiauxella (6)                    |
+|                        |                          | Enterobacter (45)                   |
+|                        |                          | Leclercia (4)                       |
+|                        |                          | Cedecea (7)                         |
+|                        |                          | Scandinavium (1)                    |
+|                        |                          | Kosakonia (9)                       |
+|                        |                          | Trabulsiella (2)                    |
+|                        |                          | Kluyvera (4)                        |
+|                        |                          | Phytobacter (1)                     |
+|                        |                          | Raoultella (4)                      |
+|                        |                          | Pseudocitrobacter (3)               |
+|                        |                          | Yokenella (1)                       |
+|                        |                          | Franconibacter (2)                  |
+|                        |                          | Lelliottia (3)                      |
+|                        |                          | Pluralibacter (3)                   |
+|                        |                          | Cronobacter (10)                    |
+|                        |                          | Siccibacter (1)                     |
+|                        |                          | Atlantibacter (2)                   |
+|                        |                          | Candidatus Symbiopectobacterium (2) |
+|                        |                          | Mangrovibacter (2)                  |
+|                        |                          | Tenebrionibacter (1)                |
+|                        |                          | Plesiomonas (1)                     |
+|                        | Yersiniaceae (70)        | Serratia (32)                       |
+|                        |                          | Yersinia (20)                       |
+|                        |                          | Ewingella (1)                       |
+|                        |                          | Nissabacter (2)                     |
+|                        |                          | Chimaeribacter (2)                  |
+|                        |                          | Rahnella (9)                        |
+|                        |                          | Rouxiella (3)                       |
+|                        |                          | Candidatus Fukatsuia (1)            |
+|                        | Morganellaceae (64)      | Photorhabdus (10)                   |
+|                        |                          | Moellerella (1)                     |
+|                        |                          | Xenorhabdus (20)                    |
+|                        |                          | Providencia (12)                    |
+|                        |                          | Proteus (12)                        |
+|                        |                          | Morganella (5)                      |
+|                        |                          | Arsenophonus (4)                    |
+|                        | Hafniaceae (9)           | Hafnia (4)                          |
+|                        |                          | Enterobacillus (1)                  |
+|                        |                          | Obesumbacterium (1)                 |
+|                        |                          | Edwardsiella (3)                    |
+|                        | Pectobacteriaceae (55)   | Brenneria (6)                       |
+|                        |                          | Pectobacterium (19)                 |
+|                        |                          | Samsonia (1)                        |
+|                        |                          | Lonsdalea (5)                       |
+|                        |                          | Affinibrenneria (1)                 |
+|                        |                          | Dickeya (22)                        |
+|                        |                          | Musicola (1)                        |
+|                        | Erwiniaceae (52)         | Erwinia (16)                        |
+|                        |                          | Pantoea (26)                        |
+|                        |                          | Mixta (2)                           |
+|                        |                          | Izhakiella (2)                      |
+|                        |                          | Tatumella (4)                       |
+|                        |                          | Phaseolibacter (1)                  |
+|                        | Budviciaceae (3)         | Jinshanibacter (1)                  |
+|                        |                          | Pragia (1)                          |
+|                        |                          | Budvicia (1)                        |
+|                        | Bruguierivoracaceae (2)  | Sodalis (2)                         |
+| nan (1)                | nan (2)                  | nan (3)                             |
+| Pseudomonadales (1)    | Pseudomonadaceae (1)     | Pseudomonas (1)                     |
+| Pasteurellales (42)    | Pasteurellaceae (42)     | nan (3)                             |
+|                        |                          | Actinobacillus (8)                  |
+|                        |                          | Ursidibacter (2)                    |
+|                        |                          | Lonepinella (1)                     |
+|                        |                          | Glaesserella (13)                   |
+|                        |                          | Haemophilus (3)                     |
+|                        |                          | Otariodibacter (1)                  |
+|                        |                          | Mannheimia (7)                      |
+|                        |                          | Nicoletella (1)                     |
+|                        |                          | Muribacter (1)                      |
+|                        |                          | Bibersteinia (2)                    |
+| Burkholderiales (2)    | Burkholderiaceae (2)     | Mycoavidus (2)                      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -191,137 +173,63 @@ AHB32215.1:
 
 #### Taxonomy:
 
-|                    |   order |
-|:-------------------|--------:|
-| Sphingomonadales   |      23 |
-| Moraxellales       |      21 |
-| Vibrionales        |       8 |
-| Hyphomicrobiales   |       8 |
-| Oceanospirillales  |       7 |
-| Xanthomonadales    |       6 |
-| Campylobacterales  |       6 |
-| Pseudomonadales    |       6 |
-| Burkholderiales    |       5 |
-| Enterobacterales   |       5 |
-| Rhodobacterales    |       3 |
-| Pasteurellales     |       3 |
-| Synechococcales    |       2 |
-| Nitrosomonadales   |       2 |
-| Aeromonadales      |       2 |
-| Flavobacteriales   |       2 |
-| Bacteroidales      |       1 |
-| Nevskiales         |       1 |
-| Mariprofundales    |       1 |
-| Leptospirales      |       1 |
-| Hydrogenophilales  |       1 |
-| Pseudanabaenales   |       1 |
-| Desulfuromonadales |       1 |
-| Rhodocyclales      |       1 |
-| Salinisphaerales   |       1 |
-| Chromatiales       |       1 |
-| Cellvibrionales    |       1 |
-| Thermostichales    |       1 |
-| Caulobacterales    |       1 |
-| Neisseriales       |       1 |
-
-|                        |   family |
-|:-----------------------|---------:|
-| Sphingomonadaceae      |       22 |
-| Moraxellaceae          |       21 |
-| Vibrionaceae           |        8 |
-| Marinobacteraceae      |        5 |
-| Morganellaceae         |        5 |
-| Xanthomonadaceae       |        4 |
-| Sulfurovaceae          |        4 |
-| Phyllobacteriaceae     |        4 |
-| Pasteurellaceae        |        3 |
-| Alcanivoracaceae       |        3 |
-| Methylocystaceae       |        3 |
-| Halomonadaceae         |        3 |
-| Synechococcaceae       |        2 |
-| Roseobacteraceae       |        2 |
-| Rhodanobacteraceae     |        2 |
-| Aeromonadaceae         |        2 |
-| Burkholderiaceae       |        2 |
-| Comamonadaceae         |        2 |
-| Lentimicrobiaceae      |        1 |
-| Caulobacteraceae       |        1 |
-| Arcobacteraceae        |        1 |
-| Thiovulaceae           |        1 |
-| Thermosynechococcaceae |        1 |
-| Thermostichaceae       |        1 |
-| Aurantimonadaceae      |        1 |
-| Azonexaceae            |        1 |
-| Sphingosinicellaceae   |        1 |
-| Sinobacteraceae        |        1 |
-| Salinisphaeraceae      |        1 |
-| Rhodobacteraceae       |        1 |
-| Leptospiraceae         |        1 |
-| Chromobacteriaceae     |        1 |
-| Pseudomonadaceae       |        1 |
-| Crocinitomicaceae      |        1 |
-| Oceanospirillaceae     |        1 |
-| Desulfuromonadaceae    |        1 |
-| Ectothiorhodospiraceae |        1 |
-| Flavobacteriaceae      |        1 |
-| Halieaceae             |        1 |
-| Mariprofundaceae       |        1 |
-| Hydrogenophilaceae     |        1 |
-| Methylophilaceae       |        1 |
-
-|                      |   genus |
-|:---------------------|--------:|
-| Acinetobacter        |      21 |
-| Sphingomonas         |      18 |
-| Vibrio               |       8 |
-| Marinobacter         |       5 |
-| Sulfurovum           |       4 |
-| Actinobacillus       |       3 |
-| Methylosinus         |       3 |
-| Luteimonas           |       3 |
-| Halomonas            |       3 |
-| Proteus              |       3 |
-| Alcanivorax          |       3 |
-| Synechococcus        |       2 |
-| Polynucleobacter     |       2 |
-| Aeromonas            |       2 |
-| Mesorhizobium        |       2 |
-| Sulfurimonas         |       1 |
-| Ramlibacter          |       1 |
-| Rhodanobacter        |       1 |
-| Rhodovulum           |       1 |
-| Rubrivivax           |       1 |
-| Salinisphaera        |       1 |
-| Tianweitania         |       1 |
-| Thermosynechococcus  |       1 |
-| Thermostichus        |       1 |
-| Sphingorhabdus       |       1 |
-| Pseudoxanthomonas    |       1 |
-| Tepidiphilus         |       1 |
-| Spiribacter          |       1 |
-| Sulfitobacter        |       1 |
-| Sphingosinicella     |       1 |
-| Photorhabdus         |       1 |
-| Pseudomonas          |       1 |
-| Poseidonibacter      |       1 |
-| Allosphingosinicella |       1 |
-| Aurantimonas         |       1 |
-| Brevundimonas        |       1 |
-| Capnocytophaga       |       1 |
-| Chromobacterium      |       1 |
-| Dechloromonas        |       1 |
-| Desulfuromonas       |       1 |
-| Dokdonella           |       1 |
-| Fontimonas           |       1 |
-| Haliea               |       1 |
-| Halospina            |       1 |
-| Hoeflea              |       1 |
-| Marinobacterium      |       1 |
-| Mariprofundus        |       1 |
-| Maritimibacter       |       1 |
-| Novosphingopyxis     |       1 |
-| Polaromonas          |       1 |
-| Xenorhabdus          |       1 |
+| order                  | family                     | genus                    |
+|:-----------------------|:---------------------------|:-------------------------|
+| Moraxellales (21)      | Moraxellaceae (21)         | Acinetobacter (21)       |
+| Hyphomicrobiales (8)   | Aurantimonadaceae (1)      | Aurantimonas (1)         |
+|                        | Phyllobacteriaceae (4)     | Mesorhizobium (2)        |
+|                        |                            | Hoeflea (1)              |
+|                        |                            | Tianweitania (1)         |
+|                        | Methylocystaceae (3)       | Methylosinus (3)         |
+| Sphingomonadales (23)  | Sphingomonadaceae (22)     | Sphingomonas (18)        |
+|                        |                            | Novosphingopyxis (1)     |
+|                        |                            | Allosphingosinicella (1) |
+|                        |                            | Sphingorhabdus (1)       |
+|                        | Sphingosinicellaceae (1)   | Sphingosinicella (1)     |
+| Burkholderiales (5)    | Comamonadaceae (2)         | Polaromonas (1)          |
+|                        |                            | Ramlibacter (1)          |
+|                        | Burkholderiaceae (2)       | Polynucleobacter (2)     |
+| nan (12)               | nan (10)                   | nan (1)                  |
+| Campylobacterales (6)  | Sulfurovaceae (4)          | Sulfurovum (4)           |
+|                        | Thiovulaceae (1)           | Sulfurimonas (1)         |
+|                        | Arcobacteraceae (1)        | Poseidonibacter (1)      |
+| Enterobacterales (5)   | Morganellaceae (5)         | Photorhabdus (1)         |
+|                        |                            | Xenorhabdus (1)          |
+|                        |                            | Proteus (3)              |
+| Flavobacteriales (2)   | Flavobacteriaceae (1)      | Capnocytophaga (1)       |
+|                        | Crocinitomicaceae (1)      | nan (1)                  |
+| Pasteurellales (3)     | Pasteurellaceae (3)        | Actinobacillus (3)       |
+| Aeromonadales (2)      | Aeromonadaceae (2)         | Aeromonas (2)            |
+| Neisseriales (1)       | Chromobacteriaceae (1)     | Chromobacterium (1)      |
+| Pseudomonadales (6)    | Pseudomonadaceae (1)       | Pseudomonas (1)          |
+|                        | Marinobacteraceae (5)      | Marinobacter (5)         |
+| Oceanospirillales (7)  | Halomonadaceae (3)         | Halomonas (3)            |
+|                        | Alcanivoracaceae (3)       | Alcanivorax (3)          |
+|                        | Oceanospirillaceae (1)     | Marinobacterium (1)      |
+| Desulfuromonadales (1) | Desulfuromonadaceae (1)    | Desulfuromonas (1)       |
+| Cellvibrionales (1)    | Halieaceae (1)             | Haliea (1)               |
+| Xanthomonadales (6)    | Xanthomonadaceae (4)       | Pseudoxanthomonas (1)    |
+|                        |                            | Luteimonas (3)           |
+|                        | Rhodanobacteraceae (2)     | Rhodanobacter (1)        |
+|                        |                            | Dokdonella (1)           |
+| Vibrionales (8)        | Vibrionaceae (8)           | Vibrio (8)               |
+| Nitrosomonadales (2)   | nan (10)                   | nan (1)                  |
+|                        | Methylophilaceae (1)       | nan (1)                  |
+| Mariprofundales (1)    | Mariprofundaceae (1)       | Mariprofundus (1)        |
+| Rhodobacterales (3)    | Rhodobacteraceae (1)       | Rhodovulum (1)           |
+|                        | Roseobacteraceae (2)       | Maritimibacter (1)       |
+|                        |                            | Sulfitobacter (1)        |
+| Bacteroidales (1)      | Lentimicrobiaceae (1)      | nan (1)                  |
+| Hydrogenophilales (1)  | Hydrogenophilaceae (1)     | Tepidiphilus (1)         |
+| Synechococcales (2)    | Synechococcaceae (2)       | Synechococcus (2)        |
+| Nevskiales (1)         | Sinobacteraceae (1)        | Fontimonas (1)           |
+| Caulobacterales (1)    | Caulobacteraceae (1)       | Brevundimonas (1)        |
+| Leptospirales (1)      | Leptospiraceae (1)         | nan (1)                  |
+| Chromatiales (1)       | Ectothiorhodospiraceae (1) | Spiribacter (1)          |
+| Rhodocyclales (1)      | Azonexaceae (1)            | Dechloromonas (1)        |
+| Pseudanabaenales (1)   | Thermosynechococcaceae (1) | Thermosynechococcus (1)  |
+| Thermostichales (1)    | Thermostichaceae (1)       | Thermostichus (1)        |
+| Salinisphaerales (1)   | Salinisphaeraceae (1)      | Salinisphaera (1)        |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -354,43 +262,29 @@ BAQ00795.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Pasteurellales   |     122 |
-| Enterobacterales |       3 |
-| Aeromonadales    |       2 |
-| Vibrionales      |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Pasteurellaceae    |      122 |
-| Aeromonadaceae     |        2 |
-| Enterobacteriaceae |        2 |
-| Morganellaceae     |        1 |
-| Vibrionaceae       |        1 |
-
-|                 |   genus |
-|:----------------|--------:|
-| Haemophilus     |      33 |
-| Aggregatibacter |      20 |
-| Pasteurella     |      20 |
-| Rodentibacter   |      13 |
-| Mannheimia      |       9 |
-| Actinobacillus  |       8 |
-| Glaesserella    |       4 |
-| Ursidibacter    |       3 |
-| Escherichia     |       2 |
-| Aeromonas       |       2 |
-| Bibersteinia    |       2 |
-| Muribacter      |       2 |
-| Avibacterium    |       2 |
-| Bisgaardia      |       1 |
-| Frederiksenia   |       1 |
-| Lonepinella     |       1 |
-| Nicoletella     |       1 |
-| Basfia          |       1 |
-| Photobacterium  |       1 |
-| Providencia     |       1 |
+| order                | family                 | genus                |
+|:---------------------|:-----------------------|:---------------------|
+| Enterobacterales (3) | Enterobacteriaceae (2) | Escherichia (2)      |
+|                      | Morganellaceae (1)     | Providencia (1)      |
+| Aeromonadales (2)    | Aeromonadaceae (2)     | Aeromonas (2)        |
+| Vibrionales (1)      | Vibrionaceae (1)       | Photobacterium (1)   |
+| Pasteurellales (122) | Pasteurellaceae (122)  | Actinobacillus (8)   |
+|                      |                        | Avibacterium (2)     |
+|                      |                        | Haemophilus (33)     |
+|                      |                        | Aggregatibacter (20) |
+|                      |                        | Pasteurella (20)     |
+|                      |                        | Rodentibacter (13)   |
+|                      |                        | Muribacter (2)       |
+|                      |                        | Bisgaardia (1)       |
+|                      |                        | Frederiksenia (1)    |
+|                      |                        | Mannheimia (9)       |
+|                      |                        | Glaesserella (4)     |
+|                      |                        | Ursidibacter (3)     |
+|                      |                        | nan (1)              |
+|                      |                        | Basfia (1)           |
+|                      |                        | Nicoletella (1)      |
+|                      |                        | Bibersteinia (2)     |
+|                      |                        | Lonepinella (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -419,17 +313,9 @@ Total number of members in cluster: 57
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |      57 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |       57 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |      57 |
+| order                | family                | genus              |
+|:---------------------|:----------------------|:-------------------|
+| Lactobacillales (57) | Streptococcaceae (57) | Streptococcus (57) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -490,38 +376,23 @@ CAI34657.1:
 
 #### Taxonomy:
 
-|                    |   order |
-|:-------------------|--------:|
-| Lactobacillales    |      34 |
-| Eubacteriales      |      16 |
-| Bacillales         |       3 |
-| Coriobacteriales   |       1 |
-| Erysipelotrichales |       1 |
-
-|                     |   family |
-|:--------------------|---------:|
-| Streptococcaceae    |       34 |
-| Lachnospiraceae     |       11 |
-| Oscillospiraceae    |        3 |
-| Eubacteriaceae      |        2 |
-| Coriobacteriaceae   |        1 |
-| Erysipelotrichaceae |        1 |
-
-|                    |   genus |
-|:-------------------|--------:|
-| Streptococcus      |      34 |
-| Gemella            |       3 |
-| Blautia            |       2 |
-| Bilifractor        |       1 |
-| Coprococcus        |       1 |
-| Dorea              |       1 |
-| Eisenbergiella     |       1 |
-| Enterocloster      |       1 |
-| Eubacterium        |       1 |
-| Parasporobacterium |       1 |
-| Pseudoramibacter   |       1 |
-| Ruminococcus       |       1 |
-| Solobacterium      |       1 |
+| order                  | family                  | genus                  |
+|:-----------------------|:------------------------|:-----------------------|
+| Lactobacillales (34)   | Streptococcaceae (34)   | Streptococcus (34)     |
+| Eubacteriales (16)     | Lachnospiraceae (11)    | Blautia (2)            |
+|                        |                         | Enterocloster (1)      |
+|                        |                         | Coprococcus (1)        |
+|                        |                         | Parasporobacterium (1) |
+|                        |                         | Dorea (1)              |
+|                        |                         | Bilifractor (1)        |
+|                        |                         | Eisenbergiella (1)     |
+|                        | Oscillospiraceae (3)    | Ruminococcus (1)       |
+|                        |                         | nan (2)                |
+|                        | Eubacteriaceae (2)      | Eubacterium (1)        |
+|                        |                         | Pseudoramibacter (1)   |
+| Erysipelotrichales (1) | Erysipelotrichaceae (1) | Solobacterium (1)      |
+| Bacillales (3)         | nan (3)                 | Gemella (3)            |
+| Coriobacteriales (1)   | Coriobacteriaceae (1)   | nan (2)                |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -567,40 +438,24 @@ CAI33631.1:
 
 #### Taxonomy:
 
-|                    |   order |
-|:-------------------|--------:|
-| Lactobacillales    |      33 |
-| Eubacteriales      |      13 |
-| Bifidobacteriales  |       1 |
-| Erysipelotrichales |       1 |
-
-|                     |   family |
-|:--------------------|---------:|
-| Streptococcaceae    |       24 |
-| Lachnospiraceae     |        7 |
-| Lactobacillaceae    |        5 |
-| Clostridiaceae      |        3 |
-| Enterococcaceae     |        3 |
-| Bifidobacteriaceae  |        1 |
-| Erysipelotrichaceae |        1 |
-| Oscillospiraceae    |        1 |
-
-|                                 |   genus |
-|:--------------------------------|--------:|
-| Streptococcus                   |      24 |
-| Enterococcus                    |       3 |
-| Limosilactobacillus             |       3 |
-| Butyrivibrio                    |       2 |
-| Clostridium                     |       2 |
-| Anaerostipes                    |       1 |
-| Bifidobacterium                 |       1 |
-| Blautia                         |       1 |
-| Candidatus Avigastranaerophilus |       1 |
-| Coprococcus                     |       1 |
-| Ligilactobacillus               |       1 |
-| Liquorilactobacillus            |       1 |
-| Massilimicrobiota               |       1 |
-| Massilioclostridium             |       1 |
+| order                  | family                  | genus                               |
+|:-----------------------|:------------------------|:------------------------------------|
+| Lactobacillales (33)   | Streptococcaceae (24)   | Streptococcus (24)                  |
+|                        | nan (1)                 | nan (5)                             |
+|                        | Lactobacillaceae (5)    | Limosilactobacillus (3)             |
+|                        |                         | Liquorilactobacillus (1)            |
+|                        |                         | Ligilactobacillus (1)               |
+|                        | Enterococcaceae (3)     | Enterococcus (3)                    |
+| Eubacteriales (13)     | Lachnospiraceae (7)     | Blautia (1)                         |
+|                        |                         | Butyrivibrio (2)                    |
+|                        |                         | Anaerostipes (1)                    |
+|                        |                         | Coprococcus (1)                     |
+|                        | Clostridiaceae (3)      | Clostridium (2)                     |
+|                        |                         | Massilioclostridium (1)             |
+|                        | Oscillospiraceae (1)    | nan (5)                             |
+| nan (1)                | nan (1)                 | Candidatus Avigastranaerophilus (1) |
+| Bifidobacteriales (1)  | Bifidobacteriaceae (1)  | Bifidobacterium (1)                 |
+| Erysipelotrichales (1) | Erysipelotrichaceae (1) | Massilimicrobiota (1)               |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -633,62 +488,30 @@ AHB32411.1:
 
 #### Taxonomy:
 
-|                    |   order |
-|:-------------------|--------:|
-| Burkholderiales    |       8 |
-| Bacillales         |       7 |
-| Sphingobacteriales |       7 |
-| Cytophagales       |       5 |
-| Flavobacteriales   |       5 |
-| Lactobacillales    |       4 |
-| Moraxellales       |       4 |
-| Eubacteriales      |       3 |
-| Bacteroidales      |       1 |
-| Chitinophagales    |       1 |
-| Chlorobiales       |       1 |
-| Methanotrichales   |       1 |
-| Nostocales         |       1 |
-
-|                       |   family |
-|:----------------------|---------:|
-| Burkholderiaceae      |        8 |
-| Sphingobacteriaceae   |        7 |
-| Bacillaceae           |        6 |
-| Flavobacteriaceae     |        5 |
-| Carnobacteriaceae     |        4 |
-| Moraxellaceae         |        4 |
-| Clostridiaceae        |        2 |
-| Cytophagaceae         |        2 |
-| Spirosomaceae         |        2 |
-| Calotrichaceae        |        1 |
-| Chitinophagaceae      |        1 |
-| Chlorobiaceae         |        1 |
-| Methanotrichaceae     |        1 |
-| Peptostreptococcaceae |        1 |
-| Reichenbachiellaceae  |        1 |
-| Sporolactobacillaceae |        1 |
-
-|                    |   genus |
-|:-------------------|--------:|
-| Ralstonia          |       8 |
-| Acinetobacter      |       4 |
-| Flavobacterium     |       4 |
-| Bacillus           |       4 |
-| Mucilaginibacter   |       4 |
-| Carnobacterium     |       3 |
-| Pedobacter         |       3 |
-| Spirosoma          |       2 |
-| Clostridium        |       2 |
-| Fibrella           |       2 |
-| Rossellomorea      |       1 |
-| Romboutsia         |       1 |
-| Reichenbachiella   |       1 |
-| Maribacter         |       1 |
-| Methanothrix       |       1 |
-| Isobaculum         |       1 |
-| Ilyomonas          |       1 |
-| Calothrix          |       1 |
-| Sporolactobacillus |       1 |
+| order                  | family                    | genus                  |
+|:-----------------------|:--------------------------|:-----------------------|
+| Moraxellales (4)       | Moraxellaceae (4)         | Acinetobacter (4)      |
+| Burkholderiales (8)    | Burkholderiaceae (8)      | Ralstonia (8)          |
+| Cytophagales (5)       | Cytophagaceae (2)         | Spirosoma (2)          |
+|                        | Spirosomaceae (2)         | Fibrella (2)           |
+|                        | Reichenbachiellaceae (1)  | Reichenbachiella (1)   |
+| Sphingobacteriales (7) | Sphingobacteriaceae (7)   | Pedobacter (3)         |
+|                        |                           | Mucilaginibacter (4)   |
+| Bacillales (7)         | Bacillaceae (6)           | Bacillus (4)           |
+|                        |                           | Rossellomorea (1)      |
+|                        | Sporolactobacillaceae (1) | Sporolactobacillus (1) |
+| Methanotrichales (1)   | Methanotrichaceae (1)     | Methanothrix (1)       |
+| nan (1)                | nan (1)                   | nan (1)                |
+| Eubacteriales (3)      | Peptostreptococcaceae (1) | Romboutsia (1)         |
+|                        | Clostridiaceae (2)        | Clostridium (2)        |
+| Flavobacteriales (5)   | Flavobacteriaceae (5)     | Flavobacterium (4)     |
+|                        |                           | Maribacter (1)         |
+| Nostocales (1)         | Calotrichaceae (1)        | Calothrix (1)          |
+| Lactobacillales (4)    | Carnobacteriaceae (4)     | Carnobacterium (3)     |
+|                        |                           | Isobaculum (1)         |
+| Chitinophagales (1)    | Chitinophagaceae (1)      | Ilyomonas (1)          |
+| Bacteroidales (1)      | nan (1)                   | nan (1)                |
+| Chlorobiales (1)       | Chlorobiaceae (1)         | nan (1)                |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -724,27 +547,16 @@ AHB32637.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Moraxellales     |      36 |
-| Enterobacterales |      12 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Moraxellaceae      |       36 |
-| Enterobacteriaceae |       10 |
-| Erwiniaceae        |        2 |
-
-|               |   genus |
-|:--------------|--------:|
-| Acinetobacter |      21 |
-| Psychrobacter |      13 |
-| Klebsiella    |       7 |
-| Moraxella     |       2 |
-| Raoultella    |       2 |
-| Erwinia       |       1 |
-| Escherichia   |       1 |
-| Pantoea       |       1 |
+| order                 | family                  | genus              |
+|:----------------------|:------------------------|:-------------------|
+| Moraxellales (36)     | Moraxellaceae (36)      | Acinetobacter (21) |
+|                       |                         | Psychrobacter (13) |
+|                       |                         | Moraxella (2)      |
+| Enterobacterales (12) | Erwiniaceae (2)         | Pantoea (1)        |
+|                       |                         | Erwinia (1)        |
+|                       | Enterobacteriaceae (10) | Escherichia (1)    |
+|                       |                         | Klebsiella (7)     |
+|                       |                         | Raoultella (2)     |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -775,62 +587,33 @@ AFN02899.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Bacillales       |      22 |
-| Bacteroidales    |       5 |
-| Chitinophagales  |       3 |
-| Enterobacterales |       3 |
-| Moraxellales     |       3 |
-| Cytophagales     |       2 |
-| Eubacteriales    |       2 |
-| Flavobacteriales |       2 |
-| Alteromonadales  |       1 |
-| Silvanigrellales |       1 |
-| Synergistales    |       1 |
-| Thiotrichales    |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Bacillaceae        |       22 |
-| Moraxellaceae      |        3 |
-| Bacteroidaceae     |        2 |
-| Clostridiaceae     |        2 |
-| Cyclobacteriaceae  |        2 |
-| Enterobacteriaceae |        2 |
-| Flavobacteriaceae  |        2 |
-| Alteromonadaceae   |        1 |
-| Chitinophagaceae   |        1 |
-| Morganellaceae     |        1 |
-| Odoribacteraceae   |        1 |
-| Rikenellaceae      |        1 |
-| Synergistaceae     |        1 |
-| Thiotrichaceae     |        1 |
-
-|                  |   genus |
-|:-----------------|--------:|
-| Geobacillus      |      11 |
-| Acinetobacter    |       3 |
-| Bacillus         |       3 |
-| Escherichia      |       2 |
-| Anoxybacillus    |       2 |
-| Bacteroides      |       2 |
-| Tenacibaculum    |       2 |
-| Psychrobacillus  |       2 |
-| Siminovitchia    |       1 |
-| Providencia      |       1 |
-| Paraglaciecola   |       1 |
-| Odoribacter      |       1 |
-| Hathewaya        |       1 |
-| Acetobacteroides |       1 |
-| Fictibacillus    |       1 |
-| Acetomicrobium   |       1 |
-| Echinicola       |       1 |
-| Cytobacillus     |       1 |
-| Clostridium      |       1 |
-| Chitinophaga     |       1 |
-| Cecembia         |       1 |
-| Thiothrix        |       1 |
+| order                | family                 | genus                |
+|:---------------------|:-----------------------|:---------------------|
+| Enterobacterales (3) | Enterobacteriaceae (2) | Escherichia (2)      |
+|                      | Morganellaceae (1)     | Providencia (1)      |
+| Flavobacteriales (2) | Flavobacteriaceae (2)  | Tenacibaculum (2)    |
+| Cytophagales (2)     | Cyclobacteriaceae (2)  | Cecembia (1)         |
+|                      |                        | Echinicola (1)       |
+| nan (2)              | nan (2)                | nan (3)              |
+| Chitinophagales (3)  | nan (2)                | nan (3)              |
+|                      | Chitinophagaceae (1)   | Chitinophaga (1)     |
+| Bacteroidales (5)    | Odoribacteraceae (1)   | Odoribacter (1)      |
+|                      | Rikenellaceae (1)      | Acetobacteroides (1) |
+|                      | Bacteroidaceae (2)     | Bacteroides (2)      |
+| Alteromonadales (1)  | Alteromonadaceae (1)   | Paraglaciecola (1)   |
+| Thiotrichales (1)    | Thiotrichaceae (1)     | Thiothrix (1)        |
+| Moraxellales (3)     | Moraxellaceae (3)      | Acinetobacter (3)    |
+| Bacillales (22)      | Bacillaceae (22)       | Geobacillus (11)     |
+|                      |                        | Anoxybacillus (2)    |
+|                      |                        | Psychrobacillus (2)  |
+|                      |                        | Cytobacillus (1)     |
+|                      |                        | Bacillus (3)         |
+|                      |                        | Siminovitchia (1)    |
+|                      |                        | Fictibacillus (1)    |
+| Silvanigrellales (1) | nan (2)                | nan (3)              |
+| Synergistales (1)    | Synergistaceae (1)     | Acetomicrobium (1)   |
+| Eubacteriales (2)    | Clostridiaceae (2)     | Clostridium (1)      |
+|                      |                        | Hathewaya (1)        |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -882,35 +665,21 @@ AAL20257.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      29 |
-| Acidobacteriales |       4 |
-| Burkholderiales  |       3 |
-| Sphingomonadales |       3 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       28 |
-| Acidobacteriaceae  |        4 |
-| Oxalobacteraceae   |        3 |
-| Sphingomonadaceae  |        3 |
-| Pectobacteriaceae  |        1 |
-
-|                   |   genus |
-|:------------------|--------:|
-| Salmonella        |      22 |
-| Citrobacter       |       5 |
-| Sphingomonas      |       3 |
-| Acidobacterium    |       1 |
-| Bryocella         |       1 |
-| Duganella         |       1 |
-| Edaphobacter      |       1 |
-| Janthinobacterium |       1 |
-| Massilia          |       1 |
-| Pectobacterium    |       1 |
-| Raoultella        |       1 |
-| Terriglobus       |       1 |
+| order                 | family                  | genus                 |
+|:----------------------|:------------------------|:----------------------|
+| Enterobacterales (29) | Enterobacteriaceae (28) | Salmonella (22)       |
+|                       |                         | Citrobacter (5)       |
+|                       |                         | Raoultella (1)        |
+|                       | Pectobacteriaceae (1)   | Pectobacterium (1)    |
+| nan (4)               | nan (4)                 | nan (4)               |
+| Burkholderiales (3)   | Oxalobacteraceae (3)    | Janthinobacterium (1) |
+|                       |                         | Duganella (1)         |
+|                       |                         | Massilia (1)          |
+| Acidobacteriales (4)  | Acidobacteriaceae (4)   | Terriglobus (1)       |
+|                       |                         | Edaphobacter (1)      |
+|                       |                         | Acidobacterium (1)    |
+|                       |                         | Bryocella (1)         |
+| Sphingomonadales (3)  | Sphingomonadaceae (3)   | Sphingomonas (3)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -942,24 +711,13 @@ Total number of members in cluster: 39
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      37 |
-| Moraxellales     |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       20 |
-| Yersiniaceae       |       17 |
-| Moraxellaceae      |        2 |
-
-|               |   genus |
-|:--------------|--------:|
-| Serratia      |      17 |
-| Klebsiella    |      12 |
-| Escherichia   |       5 |
-| Raoultella    |       3 |
-| Acinetobacter |       2 |
+| order                 | family                  | genus             |
+|:----------------------|:------------------------|:------------------|
+| Moraxellales (2)      | Moraxellaceae (2)       | Acinetobacter (2) |
+| Enterobacterales (37) | Enterobacteriaceae (20) | Escherichia (5)   |
+|                       |                         | Klebsiella (12)   |
+|                       |                         | Raoultella (3)    |
+|                       | Yersiniaceae (17)       | Serratia (17)     |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -1029,26 +787,15 @@ BAQ00945.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      37 |
-| Vibrionales      |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       31 |
-| Yersiniaceae       |        6 |
-| Vibrionaceae       |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Escherichia    |      13 |
-| Salmonella     |      10 |
-| Enterobacter   |       6 |
-| Yersinia       |       5 |
-| Citrobacter    |       2 |
-| Photobacterium |       1 |
-| Serratia       |       1 |
+| order                 | family                  | genus              |
+|:----------------------|:------------------------|:-------------------|
+| Enterobacterales (37) | Yersiniaceae (6)        | Yersinia (5)       |
+|                       |                         | Serratia (1)       |
+|                       | Enterobacteriaceae (31) | Escherichia (13)   |
+|                       |                         | Citrobacter (2)    |
+|                       |                         | Salmonella (10)    |
+|                       |                         | Enterobacter (6)   |
+| Vibrionales (1)       | Vibrionaceae (1)        | Photobacterium (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -1084,43 +831,21 @@ AAM27711.1:
 
 #### Taxonomy:
 
-|                    |   order |
-|:-------------------|--------:|
-| Pseudomonadales    |      19 |
-| Burkholderiales    |       7 |
-| Sphingomonadales   |       2 |
-| Aeromonadales      |       1 |
-| Alteromonadales    |       1 |
-| Enterobacterales   |       1 |
-| Rhodocyclales      |       1 |
-| Sphingobacteriales |       1 |
-
-|                     |   family |
-|:--------------------|---------:|
-| Pseudomonadaceae    |       18 |
-| Burkholderiaceae    |        4 |
-| Oxalobacteraceae    |        2 |
-| Sphingomonadaceae   |        2 |
-| Aeromonadaceae      |        1 |
-| Comamonadaceae      |        1 |
-| Enterobacteriaceae  |        1 |
-| Rhodocyclaceae      |        1 |
-| Shewanellaceae      |        1 |
-| Sphingobacteriaceae |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Pseudomonas   |      18 |
-| Collimonas    |       2 |
-| Cupriavidus   |       2 |
-| Sphingomonas  |       2 |
-| Aeromonas     |       1 |
-| Aromatoleum   |       1 |
-| Limnohabitans |       1 |
-| Pandoraea     |       1 |
-| Pedobacter    |       1 |
-| Plesiomonas   |       1 |
-| Shewanella    |       1 |
+| order                  | family                  | genus             |
+|:-----------------------|:------------------------|:------------------|
+| Pseudomonadales (19)   | Pseudomonadaceae (18)   | Pseudomonas (18)  |
+| Rhodocyclales (1)      | Rhodocyclaceae (1)      | Aromatoleum (1)   |
+| Alteromonadales (1)    | Shewanellaceae (1)      | Shewanella (1)    |
+| Sphingobacteriales (1) | Sphingobacteriaceae (1) | Pedobacter (1)    |
+| Burkholderiales (7)    | Burkholderiaceae (4)    | Cupriavidus (2)   |
+|                        |                         | nan (3)           |
+|                        |                         | Pandoraea (1)     |
+|                        | Oxalobacteraceae (2)    | Collimonas (2)    |
+|                        | Comamonadaceae (1)      | Limnohabitans (1) |
+| Enterobacterales (1)   | Enterobacteriaceae (1)  | Plesiomonas (1)   |
+| nan (2)                | nan (3)                 | nan (3)           |
+| Aeromonadales (1)      | Aeromonadaceae (1)      | Aeromonas (1)     |
+| Sphingomonadales (2)   | Sphingomonadaceae (2)   | Sphingomonas (2)  |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -1153,42 +878,22 @@ ACD75796.1:
 
 #### Taxonomy:
 
-|                   |   order |
-|:------------------|--------:|
-| Enterobacterales  |      14 |
-| Pseudomonadales   |      10 |
-| Vibrionales       |       5 |
-| Burkholderiales   |       2 |
-| Campylobacterales |       1 |
-| Fusobacteriales   |       1 |
-| Sphingomonadales  |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       10 |
-| Pseudomonadaceae   |       10 |
-| Vibrionaceae       |        5 |
-| Morganellaceae     |        4 |
-| Arcobacteraceae    |        1 |
-| Burkholderiaceae   |        1 |
-| Comamonadaceae     |        1 |
-| Fusobacteriaceae   |        1 |
-| Sphingomonadaceae  |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Pseudomonas   |      10 |
-| Escherichia   |       7 |
-| Vibrio        |       5 |
-| Proteus       |       2 |
-| Aliarcobacter |       1 |
-| Cedecea       |       1 |
-| Citrobacter   |       1 |
-| Enterobacter  |       1 |
-| Morganella    |       1 |
-| Providencia   |       1 |
-| Schlegelella  |       1 |
-| Sphingomonas  |       1 |
+| order                 | family                  | genus             |
+|:----------------------|:------------------------|:------------------|
+| Enterobacterales (14) | Enterobacteriaceae (10) | Escherichia (7)   |
+|                       |                         | Enterobacter (1)  |
+|                       |                         | Cedecea (1)       |
+|                       |                         | Citrobacter (1)   |
+|                       | Morganellaceae (4)      | Providencia (1)   |
+|                       |                         | Proteus (2)       |
+|                       |                         | Morganella (1)    |
+| Vibrionales (5)       | Vibrionaceae (5)        | Vibrio (5)        |
+| Pseudomonadales (10)  | Pseudomonadaceae (10)   | Pseudomonas (10)  |
+| Campylobacterales (1) | Arcobacteraceae (1)     | Aliarcobacter (1) |
+| Burkholderiales (2)   | Burkholderiaceae (1)    | nan (1)           |
+|                       | Comamonadaceae (1)      | Schlegelella (1)  |
+| Fusobacteriales (1)   | Fusobacteriaceae (1)    | nan (1)           |
+| Sphingomonadales (1)  | Sphingomonadaceae (1)   | Sphingomonas (1)  |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -1214,32 +919,19 @@ Total number of members in cluster: 33
 
 #### Taxonomy:
 
-|                    |   order |
-|:-------------------|--------:|
-| Bacteroidales      |      25 |
-| Flavobacteriales   |       5 |
-| Sphingobacteriales |       2 |
-
-|                     |   family |
-|:--------------------|---------:|
-| Prevotellaceae      |       17 |
-| Bacteroidaceae      |        6 |
-| Flavobacteriaceae   |        3 |
-| Rikenellaceae       |        2 |
-| Sphingobacteriaceae |        2 |
-| Weeksellaceae       |        2 |
-
-|                    |   genus |
-|:-------------------|--------:|
-| Prevotella         |      15 |
-| Flavobacterium     |       3 |
-| Alistipes          |       2 |
-| Pedobacter         |       2 |
-| Bacteroides        |       1 |
-| Chryseobacterium   |       1 |
-| Kaistella          |       1 |
-| Paraprevotella     |       1 |
-| Prevotellamassilia |       1 |
+| order                  | family                  | genus                  |
+|:-----------------------|:------------------------|:-----------------------|
+| Bacteroidales (25)     | Prevotellaceae (17)     | Prevotellamassilia (1) |
+|                        |                         | Prevotella (15)        |
+|                        |                         | Paraprevotella (1)     |
+|                        | Bacteroidaceae (6)      | nan (3)                |
+|                        |                         | Bacteroides (1)        |
+|                        | Rikenellaceae (2)       | Alistipes (2)          |
+| Flavobacteriales (5)   | Weeksellaceae (2)       | Kaistella (1)          |
+|                        |                         | Chryseobacterium (1)   |
+|                        | Flavobacteriaceae (3)   | Flavobacterium (3)     |
+| Sphingobacteriales (2) | Sphingobacteriaceae (2) | Pedobacter (2)         |
+| nan (1)                | nan (1)                 | nan (3)                |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -1272,26 +964,16 @@ ADI43271.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      30 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       23 |
-| Erwiniaceae        |        6 |
-| Yersiniaceae       |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Klebsiella     |      15 |
-| Escherichia    |       6 |
-| Pantoea        |       2 |
-| Raoultella     |       2 |
-| Tatumella      |       2 |
-| Erwinia        |       1 |
-| Rosenbergiella |       1 |
-| Rouxiella      |       1 |
+| order                 | family                  | genus              |
+|:----------------------|:------------------------|:-------------------|
+| Enterobacterales (30) | Enterobacteriaceae (23) | Escherichia (6)    |
+|                       |                         | Klebsiella (15)    |
+|                       |                         | Raoultella (2)     |
+|                       | Erwiniaceae (6)         | Erwinia (1)        |
+|                       |                         | Tatumella (2)      |
+|                       |                         | Pantoea (2)        |
+|                       |                         | Rosenbergiella (1) |
+|                       | Yersiniaceae (1)        | Rouxiella (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -1329,55 +1011,24 @@ AAM27615.1:
 
 #### Taxonomy:
 
-|                        |   order |
-|:-----------------------|--------:|
-| Pseudomonadales        |      12 |
-| Enterobacterales       |       3 |
-| Bacillales             |       2 |
-| Alteromonadales        |       1 |
-| Burkholderiales        |       1 |
-| Campylobacterales      |       1 |
-| Chitinivibrionales     |       1 |
-| Chitinophagales        |       1 |
-| Deferribacterales      |       1 |
-| Deinococcales          |       1 |
-| Eubacteriales          |       1 |
-| Micrococcales          |       1 |
-| Oceanospirillales      |       1 |
-| Thermoanaerobacterales |       1 |
-| Vibrionales            |       1 |
-
-|                                                   |   family |
-|:--------------------------------------------------|---------:|
-| Pseudomonadaceae                                  |       11 |
-| Enterobacteriaceae                                |        3 |
-| Bacillaceae                                       |        2 |
-| Chitinophagaceae                                  |        1 |
-| Clostridiaceae                                    |        1 |
-| Comamonadaceae                                    |        1 |
-| Deinococcaceae                                    |        1 |
-| Halomonadaceae                                    |        1 |
-| Intrasporangiaceae                                |        1 |
-| Marinobacteraceae                                 |        1 |
-| Shewanellaceae                                    |        1 |
-| Thermoanaerobacterales Family III. Incertae Sedis |        1 |
-| Vibrionaceae                                      |        1 |
-
-|                       |   genus |
-|:----------------------|--------:|
-| Pseudomonas           |      11 |
-| Escherichia           |       3 |
-| Bacillus              |       2 |
-| Alkaliphilus          |       1 |
-| Chitinophaga          |       1 |
-| Deinococcus           |       1 |
-| Halomonas             |       1 |
-| Marinobacter          |       1 |
-| Parashewanella        |       1 |
-| Tetrasphaera          |       1 |
-| Thermoanaerobacterium |       1 |
-| Variovorax            |       1 |
-| Vibrio                |       1 |
+| order                      | family                                                | genus                     |
+|:---------------------------|:------------------------------------------------------|:--------------------------|
+| Enterobacterales (3)       | Enterobacteriaceae (3)                                | Escherichia (3)           |
+| Pseudomonadales (12)       | Pseudomonadaceae (11)                                 | Pseudomonas (11)          |
+|                            | Marinobacteraceae (1)                                 | Marinobacter (1)          |
+| Deferribacterales (1)      | nan (1)                                               | nan (1)                   |
+| Vibrionales (1)            | Vibrionaceae (1)                                      | Vibrio (1)                |
+| Oceanospirillales (1)      | Halomonadaceae (1)                                    | Halomonas (1)             |
+| Campylobacterales (1)      | nan (1)                                               | nan (1)                   |
+| Burkholderiales (1)        | Comamonadaceae (1)                                    | Variovorax (1)            |
+| Bacillales (2)             | Bacillaceae (2)                                       | Bacillus (2)              |
+| Eubacteriales (1)          | Clostridiaceae (1)                                    | Alkaliphilus (1)          |
+| Micrococcales (1)          | Intrasporangiaceae (1)                                | Tetrasphaera (1)          |
+| Chitinophagales (1)        | Chitinophagaceae (1)                                  | Chitinophaga (1)          |
+| Alteromonadales (1)        | Shewanellaceae (1)                                    | Parashewanella (1)        |
+| Thermoanaerobacterales (1) | Thermoanaerobacterales Family III. Incertae Sedis (1) | Thermoanaerobacterium (1) |
+| Chitinivibrionales (1)     | nan (1)                                               | nan (1)                   |
+| Deinococcales (1)          | Deinococcaceae (1)                                    | Deinococcus (1)           |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -1434,23 +1085,11 @@ AAM27748.1:
 
 #### Taxonomy:
 
-|                   |   order |
-|:------------------|--------:|
-| Pseudomonadales   |      25 |
-| Burkholderiales   |       1 |
-| Oceanospirillales |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Pseudomonadaceae   |       25 |
-| Alcaligenaceae     |        1 |
-| Oceanospirillaceae |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Pseudomonas |      25 |
-| Bordetella  |       1 |
-| Nitrincola  |       1 |
+| order                 | family                 | genus            |
+|:----------------------|:-----------------------|:-----------------|
+| Pseudomonadales (25)  | Pseudomonadaceae (25)  | Pseudomonas (25) |
+| Burkholderiales (1)   | Alcaligenaceae (1)     | Bordetella (1)   |
+| Oceanospirillales (1) | Oceanospirillaceae (1) | Nitrincola (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -1496,25 +1135,16 @@ AFW04883.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      26 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       22 |
-| Yersiniaceae       |        3 |
-| Erwiniaceae        |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |      15 |
-| Salmonella   |       3 |
-| Citrobacter  |       2 |
-| Rahnella     |       2 |
-| Enterobacter |       1 |
-| Ewingella    |       1 |
-| Pantoea      |       1 |
+| order                 | family                  | genus            |
+|:----------------------|:------------------------|:-----------------|
+| Enterobacterales (26) | Enterobacteriaceae (22) | Escherichia (15) |
+|                       |                         | Salmonella (3)   |
+|                       |                         | Enterobacter (1) |
+|                       |                         | nan (1)          |
+|                       |                         | Citrobacter (2)  |
+|                       | Yersiniaceae (3)        | Rahnella (2)     |
+|                       |                         | Ewingella (1)    |
+|                       | Erwiniaceae (1)         | Pantoea (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -1545,36 +1175,19 @@ CAI34269.1:
 
 #### Taxonomy:
 
-|                    |   order |
-|:-------------------|--------:|
-| Lactobacillales    |      12 |
-| Eubacteriales      |       6 |
-| Pasteurellales     |       5 |
-| Erysipelotrichales |       2 |
-
-|                     |   family |
-|:--------------------|---------:|
-| Streptococcaceae    |       12 |
-| Pasteurellaceae     |        5 |
-| Lachnospiraceae     |        4 |
-| Clostridiaceae      |        1 |
-| Coprobacillaceae    |        1 |
-| Erysipelotrichaceae |        1 |
-| Eubacteriaceae      |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Streptococcus  |      12 |
-| Blautia        |       3 |
-| Haemophilus    |       2 |
-| Absiella       |       1 |
-| Actinobacillus |       1 |
-| Clostridium    |       1 |
-| Coprococcus    |       1 |
-| Eubacterium    |       1 |
-| Mannheimia     |       1 |
-| Pasteurella    |       1 |
-| Sharpea        |       1 |
+| order                  | family                  | genus              |
+|:-----------------------|:------------------------|:-------------------|
+| Lactobacillales (12)   | Streptococcaceae (12)   | Streptococcus (12) |
+| Erysipelotrichales (2) | Erysipelotrichaceae (1) | Absiella (1)       |
+|                        | Coprobacillaceae (1)    | Sharpea (1)        |
+| Pasteurellales (5)     | Pasteurellaceae (5)     | Actinobacillus (1) |
+|                        |                         | Haemophilus (2)    |
+|                        |                         | Mannheimia (1)     |
+|                        |                         | Pasteurella (1)    |
+| Eubacteriales (6)      | Eubacteriaceae (1)      | Eubacterium (1)    |
+|                        | Clostridiaceae (1)      | Clostridium (1)    |
+|                        | Lachnospiraceae (4)     | Blautia (3)        |
+|                        |                         | Coprococcus (1)    |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -1617,40 +1230,18 @@ ABU80601.1:
 
 #### Taxonomy:
 
-|                   |   order |
-|:------------------|--------:|
-| Enterobacterales  |      10 |
-| Vibrionales       |       5 |
-| Bacteroidales     |       3 |
-| Moraxellales      |       3 |
-| Bacillales        |       2 |
-| Campylobacterales |       1 |
-| Cytophagales      |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        9 |
-| Vibrionaceae       |        5 |
-| Moraxellaceae      |        3 |
-| Bacillaceae        |        2 |
-| Odoribacteraceae   |        2 |
-| Arcobacteraceae    |        1 |
-| Bacteroidaceae     |        1 |
-| Cyclobacteriaceae  |        1 |
-| Pectobacteriaceae  |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Escherichia    |       7 |
-| Vibrio         |       5 |
-| Acinetobacter  |       3 |
-| Bacillus       |       2 |
-| Butyricimonas  |       2 |
-| Shigella       |       2 |
-| Aliarcobacter  |       1 |
-| Bacteroides    |       1 |
-| Litoribacter   |       1 |
-| Pectobacterium |       1 |
+| order                 | family                 | genus              |
+|:----------------------|:-----------------------|:-------------------|
+| Enterobacterales (10) | Enterobacteriaceae (9) | Escherichia (7)    |
+|                       |                        | Shigella (2)       |
+|                       | Pectobacteriaceae (1)  | Pectobacterium (1) |
+| Bacteroidales (3)     | Odoribacteraceae (2)   | Butyricimonas (2)  |
+|                       | Bacteroidaceae (1)     | Bacteroides (1)    |
+| Moraxellales (3)      | Moraxellaceae (3)      | Acinetobacter (3)  |
+| Campylobacterales (1) | Arcobacteraceae (1)    | Aliarcobacter (1)  |
+| Vibrionales (5)       | Vibrionaceae (5)       | Vibrio (5)         |
+| Cytophagales (1)      | Cyclobacteriaceae (1)  | Litoribacter (1)   |
+| Bacillales (2)        | Bacillaceae (2)        | Bacillus (2)       |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -1686,30 +1277,14 @@ AHB32888.2:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Moraxellales     |      15 |
-| Flavobacteriales |       5 |
-| Aeromonadales    |       1 |
-| Alteromonadales  |       1 |
-| Vibrionales      |       1 |
-
-|                        |   family |
-|:-----------------------|---------:|
-| Moraxellaceae          |       15 |
-| Flavobacteriaceae      |        5 |
-| Aeromonadaceae         |        1 |
-| Pseudoalteromonadaceae |        1 |
-| Vibrionaceae           |        1 |
-
-|                   |   genus |
-|:------------------|--------:|
-| Acinetobacter     |      15 |
-| Capnocytophaga    |       5 |
-| Aeromonas         |       1 |
-| Pseudoalteromonas |       1 |
-| Vibrio            |       1 |
-| Wohlfahrtiimonas  |       1 |
+| order                | family                     | genus                 |
+|:---------------------|:---------------------------|:----------------------|
+| Moraxellales (15)    | Moraxellaceae (15)         | Acinetobacter (15)    |
+| Flavobacteriales (5) | Flavobacteriaceae (5)      | Capnocytophaga (5)    |
+| Aeromonadales (1)    | Aeromonadaceae (1)         | Aeromonas (1)         |
+| Vibrionales (1)      | Vibrionaceae (1)           | Vibrio (1)            |
+| Alteromonadales (1)  | Pseudoalteromonadaceae (1) | Pseudoalteromonas (1) |
+| nan (1)              | nan (1)                    | Wohlfahrtiimonas (1)  |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -1740,27 +1315,16 @@ AFW04828.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      23 |
-| Aeromonadales    |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       18 |
-| Morganellaceae     |        5 |
-| Aeromonadaceae     |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Salmonella  |       9 |
-| Escherichia |       5 |
-| Providencia |       3 |
-| Citrobacter |       2 |
-| Proteus     |       2 |
-| Aeromonas   |       1 |
-| Plesiomonas |       1 |
-| Shigella    |       1 |
+| order                 | family                  | genus           |
+|:----------------------|:------------------------|:----------------|
+| Enterobacterales (23) | Enterobacteriaceae (18) | Salmonella (9)  |
+|                       |                         | Citrobacter (2) |
+|                       |                         | Escherichia (5) |
+|                       |                         | Shigella (1)    |
+|                       |                         | Plesiomonas (1) |
+|                       | Morganellaceae (5)      | Providencia (3) |
+|                       |                         | Proteus (2)     |
+| Aeromonadales (1)     | Aeromonadaceae (1)      | Aeromonas (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -1815,22 +1379,11 @@ CAI34436.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |      20 |
-| Bacillales      |       3 |
-| Pasteurellales  |       1 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |       20 |
-| Pasteurellaceae  |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |      20 |
-| Gemella       |       3 |
-| Haemophilus   |       1 |
+| order                | family                | genus              |
+|:---------------------|:----------------------|:-------------------|
+| Lactobacillales (20) | Streptococcaceae (20) | Streptococcus (20) |
+| Pasteurellales (1)   | Pasteurellaceae (1)   | Haemophilus (1)    |
+| Bacillales (3)       | nan (3)               | Gemella (3)        |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -1861,26 +1414,15 @@ AAM27595.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Pseudomonadales |      17 |
-| Burkholderiales |       4 |
-| Thiotrichales   |       1 |
-
-|                       |   family |
-|:----------------------|---------:|
-| Pseudomonadaceae      |       17 |
-| Oxalobacteraceae      |        3 |
-| Fastidiosibacteraceae |        1 |
-
-|                   |   genus |
-|:------------------|--------:|
-| Pseudomonas       |      17 |
-| Cysteiniphilum    |       1 |
-| Janthinobacterium |       1 |
-| Massilia          |       1 |
-| Paucibacter       |       1 |
-| Undibacterium     |       1 |
+| order                | family                    | genus                 |
+|:---------------------|:--------------------------|:----------------------|
+| Pseudomonadales (17) | Pseudomonadaceae (17)     | Pseudomonas (17)      |
+| nan (1)              | nan (1)                   | nan (1)               |
+| Burkholderiales (4)  | nan (1)                   | Paucibacter (1)       |
+|                      | Oxalobacteraceae (3)      | Janthinobacterium (1) |
+|                      |                           | Undibacterium (1)     |
+|                      |                           | Massilia (1)          |
+| Thiotrichales (1)    | Fastidiosibacteraceae (1) | Cysteiniphilum (1)    |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -1914,34 +1456,19 @@ CAI33798.1:
 
 #### Taxonomy:
 
-|                   |   order |
-|:------------------|--------:|
-| Lactobacillales   |      14 |
-| Eubacteriales     |       6 |
-| Bifidobacteriales |       3 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Streptococcaceae   |       10 |
-| Bifidobacteriaceae |        3 |
-| Clostridiaceae     |        3 |
-| Lactobacillaceae   |        3 |
-| Enterococcaceae    |        1 |
-| Lachnospiraceae    |        1 |
-| Oscillospiraceae   |        1 |
-
-|                      |   genus |
-|:---------------------|--------:|
-| Streptococcus        |       8 |
-| Bifidobacterium      |       3 |
-| Clostridium          |       3 |
-| Lactococcus          |       2 |
-| Blautia              |       1 |
-| Enterococcus         |       1 |
-| Faecalibacterium     |       1 |
-| Lactiplantibacillus  |       1 |
-| Leuconostoc          |       1 |
-| Liquorilactobacillus |       1 |
+| order                 | family                 | genus                    |
+|:----------------------|:-----------------------|:-------------------------|
+| Lactobacillales (14)  | Streptococcaceae (10)  | Streptococcus (8)        |
+|                       |                        | Lactococcus (2)          |
+|                       | Lactobacillaceae (3)   | Lactiplantibacillus (1)  |
+|                       |                        | Liquorilactobacillus (1) |
+|                       |                        | Leuconostoc (1)          |
+|                       | Enterococcaceae (1)    | Enterococcus (1)         |
+| Eubacteriales (6)     | Clostridiaceae (3)     | Clostridium (3)          |
+|                       | Lachnospiraceae (1)    | Blautia (1)              |
+|                       | Oscillospiraceae (1)   | Faecalibacterium (1)     |
+|                       | nan (1)                | nan (1)                  |
+| Bifidobacteriales (3) | Bifidobacteriaceae (3) | Bifidobacterium (3)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -1979,29 +1506,18 @@ CAI33840.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |      16 |
-| Eubacteriales   |       3 |
-| Bacteroidales   |       2 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |       12 |
-| Lactobacillaceae |        4 |
-| Bacteroidaceae   |        2 |
-| Lachnospiraceae  |        2 |
-| Clostridiaceae   |        1 |
-
-|                      |   genus |
-|:---------------------|--------:|
-| Streptococcus        |      12 |
-| Ligilactobacillus    |       2 |
-| Acetatifactor        |       1 |
-| Blautia              |       1 |
-| Limosilactobacillus  |       1 |
-| Liquorilactobacillus |       1 |
-| Phocaeicola          |       1 |
+| order                | family                | genus                    |
+|:---------------------|:----------------------|:-------------------------|
+| Lactobacillales (16) | Streptococcaceae (12) | Streptococcus (12)       |
+|                      | Lactobacillaceae (4)  | Ligilactobacillus (2)    |
+|                      |                       | Limosilactobacillus (1)  |
+|                      |                       | Liquorilactobacillus (1) |
+| Eubacteriales (3)    | Lachnospiraceae (2)   | Acetatifactor (1)        |
+|                      |                       | Blautia (1)              |
+|                      | Clostridiaceae (1)    | nan (1)                  |
+| nan (1)              | nan (1)               | nan (1)                  |
+| Bacteroidales (2)    | Bacteroidaceae (2)    | nan (1)                  |
+|                      |                       | Phocaeicola (1)          |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -2045,21 +1561,12 @@ AGS07316.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      21 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       20 |
-| Yersiniaceae       |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Salmonella  |      14 |
-| Klebsiella  |       4 |
-| Citrobacter |       2 |
-| Serratia    |       1 |
+| order                 | family                  | genus           |
+|:----------------------|:------------------------|:----------------|
+| Enterobacterales (21) | Enterobacteriaceae (20) | Salmonella (14) |
+|                       |                         | Citrobacter (2) |
+|                       |                         | Klebsiella (4)  |
+|                       | Yersiniaceae (1)        | Serratia (1)    |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -2098,26 +1605,15 @@ ABK27355.1, ABK27354.1, ABK27351.1, BAI31288.1, ABK27350.1, ABK27321.1, ABK27352
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      20 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       16 |
-| Yersiniaceae       |        2 |
-| Hafniaceae         |        1 |
-| Pectobacteriaceae  |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Escherichia    |      13 |
-| Yersinia       |       2 |
-| Franconibacter |       1 |
-| Hafnia         |       1 |
-| Leclercia      |       1 |
-| Pectobacterium |       1 |
-| Salmonella     |       1 |
+| order                 | family                  | genus              |
+|:----------------------|:------------------------|:-------------------|
+| Enterobacterales (20) | Enterobacteriaceae (16) | Escherichia (13)   |
+|                       |                         | Franconibacter (1) |
+|                       |                         | Leclercia (1)      |
+|                       |                         | Salmonella (1)     |
+|                       | Yersiniaceae (2)        | Yersinia (2)       |
+|                       | Pectobacteriaceae (1)   | Pectobacterium (1) |
+|                       | Hafniaceae (1)          | Hafnia (1)         |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -2148,22 +1644,12 @@ AAC45844.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      19 |
-| Vibrionales      |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       19 |
-| Vibrionaceae       |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       9 |
-| Enterobacter |       8 |
-| Citrobacter  |       2 |
-| Aliivibrio   |       1 |
+| order                 | family                  | genus            |
+|:----------------------|:------------------------|:-----------------|
+| Enterobacterales (19) | Enterobacteriaceae (19) | Escherichia (9)  |
+|                       |                         | Enterobacter (8) |
+|                       |                         | Citrobacter (2)  |
+| Vibrionales (1)       | Vibrionaceae (1)        | Aliivibrio (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -2204,30 +1690,15 @@ AAR97964.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       7 |
-| Moraxellales     |       5 |
-| Aeromonadales    |       3 |
-| Pseudomonadales  |       2 |
-| Vibrionales      |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        7 |
-| Moraxellaceae      |        5 |
-| Aeromonadaceae     |        3 |
-| Pseudomonadaceae   |        2 |
-| Vibrionaceae       |        2 |
-
-|               |   genus |
-|:--------------|--------:|
-| Escherichia   |       6 |
-| Acinetobacter |       5 |
-| Aeromonas     |       3 |
-| Pseudomonas   |       2 |
-| Vibrio        |       2 |
-| Shigella      |       1 |
+| order                | family                 | genus             |
+|:---------------------|:-----------------------|:------------------|
+| Enterobacterales (7) | Enterobacteriaceae (7) | Escherichia (6)   |
+|                      |                        | Shigella (1)      |
+| Vibrionales (2)      | Vibrionaceae (2)       | Vibrio (2)        |
+| Aeromonadales (3)    | Aeromonadaceae (3)     | Aeromonas (3)     |
+| Pseudomonadales (2)  | Pseudomonadaceae (2)   | Pseudomonas (2)   |
+| nan (1)              | nan (1)                | nan (1)           |
+| Moraxellales (5)     | Moraxellaceae (5)      | Acinetobacter (5) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -2253,30 +1724,22 @@ Total number of members in cluster: 20
 
 #### Taxonomy:
 
-|                    |   order |
-|:-------------------|--------:|
-| Flavobacteriales   |      14 |
-| Bacteroidales      |       4 |
-| Sphingobacteriales |       1 |
-
-|                     |   family |
-|:--------------------|---------:|
-| Flavobacteriaceae   |       12 |
-| Crocinitomicaceae   |        1 |
-| Sphingobacteriaceae |        1 |
-
-|                   |   genus |
-|:------------------|--------:|
-| Muricauda         |       3 |
-| Maribacter        |       2 |
-| Cellulophaga      |       1 |
-| Galbibacter       |       1 |
-| Pareuzebyella     |       1 |
-| Pseudozobellia    |       1 |
-| Solitalea         |       1 |
-| Winogradskyella   |       1 |
-| Zeaxanthinibacter |       1 |
-| Zobellia          |       1 |
+| order                  | family                  | genus                 |
+|:-----------------------|:------------------------|:----------------------|
+| Flavobacteriales (14)  | Flavobacteriaceae (12)  | Muricauda (3)         |
+|                        |                         | Galbibacter (1)       |
+|                        |                         | Winogradskyella (1)   |
+|                        |                         | Maribacter (2)        |
+|                        |                         | Zeaxanthinibacter (1) |
+|                        |                         | Cellulophaga (1)      |
+|                        |                         | Pseudozobellia (1)    |
+|                        |                         | Zobellia (1)          |
+|                        |                         | Pareuzebyella (1)     |
+|                        | Crocinitomicaceae (1)   | nan (4)               |
+|                        | nan (4)                 | nan (4)               |
+| Sphingobacteriales (1) | Sphingobacteriaceae (1) | Solitalea (1)         |
+| nan (1)                | nan (4)                 | nan (4)               |
+| Bacteroidales (4)      | nan (4)                 | nan (4)               |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -2309,39 +1772,20 @@ CDF66396.1:
 
 #### Taxonomy:
 
-|                   |   order |
-|:------------------|--------:|
-| Burkholderiales   |       7 |
-| Bacteroidales     |       6 |
-| Flavobacteriales  |       3 |
-| Enterobacterales  |       1 |
-| Oceanospirillales |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Bacteroidaceae     |        4 |
-| Comamonadaceae     |        4 |
-| Burkholderiaceae   |        2 |
-| Prevotellaceae     |        2 |
-| Weeksellaceae      |        2 |
-| Flavobacteriaceae  |        1 |
-| Oceanospirillaceae |        1 |
-| Oxalobacteraceae   |        1 |
-| Yersiniaceae       |        1 |
-
-|                   |   genus |
-|:------------------|--------:|
-| Bacteroides       |       4 |
-| Chryseobacterium  |       2 |
-| Pandoraea         |       2 |
-| Prevotella        |       2 |
-| Ramlibacter       |       2 |
-| Flavobacterium    |       1 |
-| Janthinobacterium |       1 |
-| Limnohabitans     |       1 |
-| Marinomonas       |       1 |
-| Rhodoferax        |       1 |
-| Yersinia          |       1 |
+| order                 | family                 | genus                 |
+|:----------------------|:-----------------------|:----------------------|
+| Enterobacterales (1)  | Yersiniaceae (1)       | Yersinia (1)          |
+| Burkholderiales (7)   | Comamonadaceae (4)     | Ramlibacter (2)       |
+|                       |                        | Rhodoferax (1)        |
+|                       |                        | Limnohabitans (1)     |
+|                       | Oxalobacteraceae (1)   | Janthinobacterium (1) |
+|                       | Burkholderiaceae (2)   | Pandoraea (2)         |
+| Oceanospirillales (1) | Oceanospirillaceae (1) | Marinomonas (1)       |
+| Flavobacteriales (3)  | Weeksellaceae (2)      | Chryseobacterium (2)  |
+|                       | Flavobacteriaceae (1)  | Flavobacterium (1)    |
+| Bacteroidales (6)     | Prevotellaceae (2)     | Prevotella (2)        |
+|                       | Bacteroidaceae (4)     | Bacteroides (4)       |
+| nan (1)               | nan (1)                | nan (1)               |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -2389,24 +1833,13 @@ BAQ00687.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      14 |
-| Moraxellales     |       5 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       13 |
-| Moraxellaceae      |        5 |
-| Morganellaceae     |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Escherichia   |      11 |
-| Acinetobacter |       5 |
-| Leclercia     |       1 |
-| Morganella    |       1 |
-| Salmonella    |       1 |
+| order                 | family                  | genus             |
+|:----------------------|:------------------------|:------------------|
+| Enterobacterales (14) | Enterobacteriaceae (13) | Escherichia (11)  |
+|                       |                         | Salmonella (1)    |
+|                       |                         | Leclercia (1)     |
+|                       | Morganellaceae (1)      | Morganella (1)    |
+| Moraxellales (5)      | Moraxellaceae (5)       | Acinetobacter (5) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -2446,20 +1879,12 @@ WP_000936592.1, ACF64132.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      19 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       19 |
-
-|              |   genus |
-|:-------------|--------:|
-| Salmonella   |      15 |
-| Enterobacter |       2 |
-| Citrobacter  |       1 |
-| Kosakonia    |       1 |
+| order                 | family                  | genus            |
+|:----------------------|:------------------------|:-----------------|
+| Enterobacterales (19) | Enterobacteriaceae (19) | Salmonella (15)  |
+|                       |                         | Enterobacter (2) |
+|                       |                         | Citrobacter (1)  |
+|                       |                         | Kosakonia (1)    |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -2490,38 +1915,20 @@ ABX51892.1:
 
 #### Taxonomy:
 
-|                   |   order |
-|:------------------|--------:|
-| Enterobacterales  |      10 |
-| Burkholderiales   |       3 |
-| Aeromonadales     |       1 |
-| Aquificales       |       1 |
-| Campylobacterales |       1 |
-| Pseudomonadales   |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        9 |
-| Oxalobacteraceae   |        3 |
-| Aeromonadaceae     |        1 |
-| Aquificaceae       |        1 |
-| Marinobacteraceae  |        1 |
-| Morganellaceae     |        1 |
-| Thiovulaceae       |        1 |
-
-|                   |   genus |
-|:------------------|--------:|
-| Cronobacter       |       3 |
-| Escherichia       |       3 |
-| Janthinobacterium |       3 |
-| Aeromonas         |       1 |
-| Hydrogenobacter   |       1 |
-| Jejubacter        |       1 |
-| Lelliottia        |       1 |
-| Marinobacter      |       1 |
-| Providencia       |       1 |
-| Pseudocitrobacter |       1 |
-| Sulfurimonas      |       1 |
+| order                 | family                 | genus                 |
+|:----------------------|:-----------------------|:----------------------|
+| Enterobacterales (10) | Enterobacteriaceae (9) | Cronobacter (3)       |
+|                       |                        | Escherichia (3)       |
+|                       |                        | Lelliottia (1)        |
+|                       |                        | Jejubacter (1)        |
+|                       |                        | Pseudocitrobacter (1) |
+|                       | Morganellaceae (1)     | Providencia (1)       |
+| Aeromonadales (1)     | Aeromonadaceae (1)     | Aeromonas (1)         |
+| nan (2)               | nan (2)                | nan (2)               |
+| Campylobacterales (1) | Thiovulaceae (1)       | Sulfurimonas (1)      |
+| Burkholderiales (3)   | Oxalobacteraceae (3)   | Janthinobacterium (3) |
+| Aquificales (1)       | Aquificaceae (1)       | Hydrogenobacter (1)   |
+| Pseudomonadales (1)   | Marinobacteraceae (1)  | Marinobacter (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -2565,22 +1972,14 @@ ACD37181.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      19 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       18 |
-| Erwiniaceae        |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       8 |
-| Shigella     |       5 |
-| Buttiauxella |       1 |
-| Citrobacter  |       1 |
-| Pantoea      |       1 |
+| order                 | family                  | genus            |
+|:----------------------|:------------------------|:-----------------|
+| Enterobacterales (19) | Enterobacteriaceae (18) | Escherichia (8)  |
+|                       |                         | nan (3)          |
+|                       |                         | Shigella (5)     |
+|                       |                         | Citrobacter (1)  |
+|                       |                         | Buttiauxella (1) |
+|                       | Erwiniaceae (1)         | Pantoea (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -2611,26 +2010,13 @@ AAT85653.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      15 |
-| Moraxellales     |       2 |
-| Burkholderiales  |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       11 |
-| Erwiniaceae        |        4 |
-| Moraxellaceae      |        2 |
-| Comamonadaceae     |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Enterobacter  |       6 |
-| Escherichia   |       5 |
-| Pantoea       |       4 |
-| Acinetobacter |       2 |
-| Comamonas     |       1 |
+| order                 | family                  | genus             |
+|:----------------------|:------------------------|:------------------|
+| Enterobacterales (15) | Enterobacteriaceae (11) | Escherichia (5)   |
+|                       |                         | Enterobacter (6)  |
+|                       | Erwiniaceae (4)         | Pantoea (4)       |
+| Moraxellales (2)      | Moraxellaceae (2)       | Acinetobacter (2) |
+| Burkholderiales (1)   | Comamonadaceae (1)      | Comamonas (1)     |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -2667,22 +2053,13 @@ CAS09721.1, AAR90892.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      17 |
-| Aeromonadales    |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       17 |
-| Aeromonadaceae     |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Salmonella  |       8 |
-| Escherichia |       6 |
-| Citrobacter |       2 |
-| Aeromonas   |       1 |
+| order                 | family                  | genus           |
+|:----------------------|:------------------------|:----------------|
+| Enterobacterales (17) | Enterobacteriaceae (17) | Escherichia (6) |
+|                       |                         | Citrobacter (2) |
+|                       |                         | Salmonella (8)  |
+|                       |                         | nan (1)         |
+| Aeromonadales (1)     | Aeromonadaceae (1)      | Aeromonas (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -2720,28 +2097,14 @@ CAI33491.1:
 
 #### Taxonomy:
 
-|                    |   order |
-|:-------------------|--------:|
-| Lactobacillales    |      10 |
-| Bifidobacteriales  |       3 |
-| Eubacteriales      |       2 |
-| Erysipelotrichales |       1 |
-
-|                     |   family |
-|:--------------------|---------:|
-| Streptococcaceae    |       10 |
-| Bifidobacteriaceae  |        3 |
-| Erysipelotrichaceae |        1 |
-| Lachnospiraceae     |        1 |
-| Oscillospiraceae    |        1 |
-
-|                 |   genus |
-|:----------------|--------:|
-| Streptococcus   |      10 |
-| Bifidobacterium |       3 |
-| Blautia         |       1 |
-| Faecalitalea    |       1 |
-| Ruminococcus    |       1 |
+| order                  | family                  | genus               |
+|:-----------------------|:------------------------|:--------------------|
+| Lactobacillales (10)   | Streptococcaceae (10)   | Streptococcus (10)  |
+| Bifidobacteriales (3)  | Bifidobacteriaceae (3)  | Bifidobacterium (3) |
+| Erysipelotrichales (1) | Erysipelotrichaceae (1) | Faecalitalea (1)    |
+| Eubacteriales (2)      | Oscillospiraceae (1)    | Ruminococcus (1)    |
+|                        | Lachnospiraceae (1)     | Blautia (1)         |
+| nan (1)                | nan (1)                 | nan (1)             |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -2774,25 +2137,14 @@ BAQ01716.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      16 |
-| Vibrionales      |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       15 |
-| Hafniaceae         |        1 |
-| Vibrionaceae       |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       5 |
-| Cronobacter  |       4 |
-| Enterobacter |       4 |
-| Siccibacter  |       2 |
-| Hafnia       |       1 |
-| Vibrio       |       1 |
+| order                 | family                  | genus            |
+|:----------------------|:------------------------|:-----------------|
+| Enterobacterales (16) | Enterobacteriaceae (15) | Escherichia (5)  |
+|                       |                         | Enterobacter (4) |
+|                       |                         | Cronobacter (4)  |
+|                       |                         | Siccibacter (2)  |
+|                       | Hafniaceae (1)          | Hafnia (1)       |
+| Vibrionales (1)       | Vibrionaceae (1)        | Vibrio (1)       |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -2825,33 +2177,18 @@ CAI32772.1:
 
 #### Taxonomy:
 
-|                    |   order |
-|:-------------------|--------:|
-| Lactobacillales    |       9 |
-| Bacillales         |       4 |
-| Eubacteriales      |       2 |
-| Erysipelotrichales |       1 |
-
-|                     |   family |
-|:--------------------|---------:|
-| Streptococcaceae    |        8 |
-| Bacillaceae         |        2 |
-| Erysipelotrichaceae |        1 |
-| Eubacteriaceae      |        1 |
-| Lachnospiraceae     |        1 |
-| Lactobacillaceae    |        1 |
-| Paenibacillaceae    |        1 |
-
-|                     |   genus |
-|:--------------------|--------:|
-| Streptococcus       |       8 |
-| Amedibacterium      |       1 |
-| Chengkuizengella    |       1 |
-| Cytobacillus        |       1 |
-| Eubacterium         |       1 |
-| Exiguobacterium     |       1 |
-| Lactiplantibacillus |       1 |
-| Priestia            |       1 |
+| order                  | family                  | genus                   |
+|:-----------------------|:------------------------|:------------------------|
+| Lactobacillales (9)    | Streptococcaceae (8)    | Streptococcus (8)       |
+|                        | Lactobacillaceae (1)    | Lactiplantibacillus (1) |
+| Bacillales (4)         | Paenibacillaceae (1)    | Chengkuizengella (1)    |
+|                        | nan (1)                 | Exiguobacterium (1)     |
+|                        | Bacillaceae (2)         | Cytobacillus (1)        |
+|                        |                         | Priestia (1)            |
+| Eubacteriales (2)      | Eubacteriaceae (1)      | Eubacterium (1)         |
+|                        | Lachnospiraceae (1)     | nan (1)                 |
+| Erysipelotrichales (1) | Erysipelotrichaceae (1) | Amedibacterium (1)      |
+| nan (1)                | nan (1)                 | nan (1)                 |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -2877,21 +2214,11 @@ Total number of members in cluster: 17
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      17 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        8 |
-| Pectobacteriaceae  |        8 |
-| Erwiniaceae        |        1 |
-
-|            |   genus |
-|:-----------|--------:|
-| Dickeya    |       8 |
-| Klebsiella |       8 |
-| Erwinia    |       1 |
+| order                 | family                 | genus          |
+|:----------------------|:-----------------------|:---------------|
+| Enterobacterales (17) | Pectobacteriaceae (8)  | Dickeya (8)    |
+|                       | Enterobacteriaceae (8) | Klebsiella (8) |
+|                       | Erwiniaceae (1)        | Erwinia (1)    |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -2924,23 +2251,14 @@ BAQ01843.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      14 |
-| Vibrionales      |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       14 |
-| Vibrionaceae       |        2 |
-
-|                |   genus |
-|:---------------|--------:|
-| Escherichia    |       6 |
-| Salmonella     |       5 |
-| Enterobacter   |       3 |
-| Photobacterium |       1 |
-| Vibrio         |       1 |
+| order                 | family                  | genus              |
+|:----------------------|:------------------------|:-------------------|
+| Enterobacterales (14) | Enterobacteriaceae (14) | Escherichia (6)    |
+|                       |                         | Enterobacter (3)   |
+|                       |                         | Salmonella (5)     |
+| nan (1)               | nan (1)                 | nan (1)            |
+| Vibrionales (2)       | Vibrionaceae (2)        | Photobacterium (1) |
+|                       |                         | Vibrio (1)         |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -2973,35 +2291,19 @@ CAI33817.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Micrococcales    |       9 |
-| Lactobacillales  |       3 |
-| Bacillales       |       1 |
-| Eubacteriales    |       1 |
-| Nitrosomonadales |       1 |
-
-|                   |   family |
-|:------------------|---------:|
-| Micrococcaceae    |        5 |
-| Microbacteriaceae |        3 |
-| Streptococcaceae  |        3 |
-| Bacillaceae       |        1 |
-| Demequinaceae     |        1 |
-| Lachnospiraceae   |        1 |
-| Methylophilaceae  |        1 |
-
-|                   |   genus |
-|:------------------|--------:|
-| Arthrobacter      |       4 |
-| Streptococcus     |       3 |
-| Curtobacterium    |       1 |
-| Demequina         |       1 |
-| Frondihabitans    |       1 |
-| Mesobacillus      |       1 |
-| Methylobacillus   |       1 |
-| Microbacterium    |       1 |
-| Pseudarthrobacter |       1 |
+| order                | family                | genus                 |
+|:---------------------|:----------------------|:----------------------|
+| Lactobacillales (3)  | Streptococcaceae (3)  | Streptococcus (3)     |
+| Eubacteriales (1)    | Lachnospiraceae (1)   | nan (1)               |
+| Micrococcales (9)    | Micrococcaceae (5)    | Pseudarthrobacter (1) |
+|                      |                       | Arthrobacter (4)      |
+|                      | Microbacteriaceae (3) | Curtobacterium (1)    |
+|                      |                       | Frondihabitans (1)    |
+|                      |                       | Microbacterium (1)    |
+|                      | Demequinaceae (1)     | Demequina (1)         |
+| Bacillales (1)       | Bacillaceae (1)       | Mesobacillus (1)      |
+| Nitrosomonadales (1) | Methylophilaceae (1)  | Methylobacillus (1)   |
+| nan (1)              | nan (1)               | nan (1)               |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -3040,23 +2342,11 @@ AAN23057.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      12 |
-| Legionellales    |       3 |
-| Spirulinales     |       1 |
-
-|                |   family |
-|:---------------|---------:|
-| Yersiniaceae   |       12 |
-| Legionellaceae |        3 |
-| Spirulinaceae  |        1 |
-
-|            |   genus |
-|:-----------|--------:|
-| Yersinia   |      12 |
-| Legionella |       3 |
-| Spirulina  |       1 |
+| order                 | family             | genus          |
+|:----------------------|:-------------------|:---------------|
+| Enterobacterales (12) | Yersiniaceae (12)  | Yersinia (12)  |
+| Spirulinales (1)      | Spirulinaceae (1)  | Spirulina (1)  |
+| Legionellales (3)     | Legionellaceae (3) | Legionella (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -3090,19 +2380,11 @@ CAD19991.1, WP_000864940.1, ADT75640.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      16 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       16 |
-
-|             |   genus |
-|:------------|--------:|
-| Citrobacter |       6 |
-| Escherichia |       5 |
-| Salmonella  |       5 |
+| order                 | family                  | genus           |
+|:----------------------|:------------------------|:----------------|
+| Enterobacterales (16) | Enterobacteriaceae (16) | Escherichia (5) |
+|                       |                         | Salmonella (5)  |
+|                       |                         | Citrobacter (6) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -3140,23 +2422,13 @@ AFW04820.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      15 |
-| Neisseriales     |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       14 |
-| Chromobacteriaceae |        1 |
-| Morganellaceae     |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Salmonella  |      11 |
-| Escherichia |       2 |
-| Iodobacter  |       1 |
-| Proteus     |       1 |
+| order                 | family                  | genus           |
+|:----------------------|:------------------------|:----------------|
+| Enterobacterales (15) | Enterobacteriaceae (14) | Escherichia (2) |
+|                       |                         | Salmonella (11) |
+|                       |                         | nan (1)         |
+|                       | Morganellaceae (1)      | Proteus (1)     |
+| Neisseriales (1)      | Chromobacteriaceae (1)  | Iodobacter (1)  |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -3183,38 +2455,18 @@ Total number of members in cluster: 15
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Vibrionales      |       5 |
-| Burkholderiales  |       3 |
-| Enterobacterales |       3 |
-| Aeromonadales    |       1 |
-| Eubacteriales    |       1 |
-| Pirellulales     |       1 |
-| Pseudomonadales  |       1 |
-
-|                                          |   family |
-|:-----------------------------------------|---------:|
-| Vibrionaceae                             |        5 |
-| Burkholderiaceae                         |        2 |
-| Enterobacteriaceae                       |        2 |
-| Aeromonadaceae                           |        1 |
-| Eubacteriales Family XII. Incertae Sedis |        1 |
-| Pirellulaceae                            |        1 |
-| Pseudomonadaceae                         |        1 |
-| Yersiniaceae                             |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Vibrio        |       5 |
-| Salmonella    |       2 |
-| Aeromonas     |       1 |
-| Fusibacter    |       1 |
-| Pandoraea     |       1 |
-| Paucimonas    |       1 |
-| Pseudomonas   |       1 |
-| Roseimaritima |       1 |
-| Yersinia      |       1 |
+| order                | family                                       | genus             |
+|:---------------------|:---------------------------------------------|:------------------|
+| Enterobacterales (3) | Enterobacteriaceae (2)                       | Salmonella (2)    |
+|                      | Yersiniaceae (1)                             | Yersinia (1)      |
+| Pseudomonadales (1)  | Pseudomonadaceae (1)                         | Pseudomonas (1)   |
+| Burkholderiales (3)  | Burkholderiaceae (2)                         | Pandoraea (1)     |
+|                      |                                              | Paucimonas (1)    |
+|                      | nan (1)                                      | nan (1)           |
+| Aeromonadales (1)    | Aeromonadaceae (1)                           | Aeromonas (1)     |
+| Vibrionales (5)      | Vibrionaceae (5)                             | Vibrio (5)        |
+| Pirellulales (1)     | Pirellulaceae (1)                            | Roseimaritima (1) |
+| Eubacteriales (1)    | Eubacteriales Family XII. Incertae Sedis (1) | Fusibacter (1)    |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -3276,17 +2528,9 @@ CAI34388.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |      15 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |       15 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |      15 |
+| order                | family                | genus              |
+|:---------------------|:----------------------|:-------------------|
+| Lactobacillales (15) | Streptococcaceae (15) | Streptococcus (15) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -3319,39 +2563,19 @@ CAI34008.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Eubacteriales    |       6 |
-| Lactobacillales  |       6 |
-| Coriobacteriales |       1 |
-| Eggerthellales   |       1 |
-| Pasteurellales   |       1 |
-
-|                   |   family |
-|:------------------|---------:|
-| Lachnospiraceae   |        3 |
-| Lactobacillaceae  |        3 |
-| Clostridiaceae    |        2 |
-| Streptococcaceae  |        2 |
-| Carnobacteriaceae |        1 |
-| Coriobacteriaceae |        1 |
-| Eggerthellaceae   |        1 |
-| Oscillospiraceae  |        1 |
-| Pasteurellaceae   |        1 |
-
-|                     |   genus |
-|:--------------------|--------:|
-| Blautia             |       2 |
-| Clostridium         |       2 |
-| Lactobacillus       |       2 |
-| Streptococcus       |       2 |
-| Actinobacillus      |       1 |
-| Collinsella         |       1 |
-| Eggerthella         |       1 |
-| Faecalibacterium    |       1 |
-| Fusicatenibacter    |       1 |
-| Granulicatella      |       1 |
-| Limosilactobacillus |       1 |
+| order                | family                | genus                   |
+|:---------------------|:----------------------|:------------------------|
+| Lactobacillales (6)  | Streptococcaceae (2)  | Streptococcus (2)       |
+|                      | Carnobacteriaceae (1) | Granulicatella (1)      |
+|                      | Lactobacillaceae (3)  | Lactobacillus (2)       |
+|                      |                       | Limosilactobacillus (1) |
+| Eubacteriales (6)    | Clostridiaceae (2)    | Clostridium (2)         |
+|                      | Lachnospiraceae (3)   | Fusicatenibacter (1)    |
+|                      |                       | Blautia (2)             |
+|                      | Oscillospiraceae (1)  | Faecalibacterium (1)    |
+| Eggerthellales (1)   | Eggerthellaceae (1)   | Eggerthella (1)         |
+| Pasteurellales (1)   | Pasteurellaceae (1)   | Actinobacillus (1)      |
+| Coriobacteriales (1) | Coriobacteriaceae (1) | Collinsella (1)         |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -3382,27 +2606,15 @@ ABB04486.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      12 |
-| Vibrionales      |       2 |
-| Aeromonadales    |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       11 |
-| Vibrionaceae       |        2 |
-| Aeromonadaceae     |        1 |
-| Erwiniaceae        |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       4 |
-| Cronobacter |       3 |
-| Citrobacter |       2 |
-| Vibrio      |       2 |
-| Aeromonas   |       1 |
-| Pantoea     |       1 |
+| order                 | family                  | genus           |
+|:----------------------|:------------------------|:----------------|
+| Enterobacterales (12) | Enterobacteriaceae (11) | Escherichia (4) |
+|                       |                         | nan (2)         |
+|                       |                         | Citrobacter (2) |
+|                       |                         | Cronobacter (3) |
+|                       | Erwiniaceae (1)         | Pantoea (1)     |
+| Aeromonadales (1)     | Aeromonadaceae (1)      | Aeromonas (1)   |
+| Vibrionales (2)       | Vibrionaceae (2)        | Vibrio (2)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -3440,30 +2652,18 @@ ACA24840.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      14 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        6 |
-| Morganellaceae     |        4 |
-| Hafniaceae         |        2 |
-| Erwiniaceae        |        1 |
-| Yersiniaceae       |        1 |
-
-|                 |   genus |
-|:----------------|--------:|
-| Arsenophonus    |       2 |
-| Cronobacter     |       2 |
-| Escherichia     |       2 |
-| Proteus         |       2 |
-| Enterobacter    |       1 |
-| Hafnia          |       1 |
-| Obesumbacterium |       1 |
-| Pantoea         |       1 |
-| Shigella        |       1 |
-| Yersinia        |       1 |
+| order                 | family                 | genus               |
+|:----------------------|:-----------------------|:--------------------|
+| Enterobacterales (14) | Enterobacteriaceae (6) | Escherichia (2)     |
+|                       |                        | Shigella (1)        |
+|                       |                        | Enterobacter (1)    |
+|                       |                        | Cronobacter (2)     |
+|                       | Yersiniaceae (1)       | Yersinia (1)        |
+|                       | Morganellaceae (4)     | Arsenophonus (2)    |
+|                       |                        | Proteus (2)         |
+|                       | Hafniaceae (2)         | Hafnia (1)          |
+|                       |                        | Obesumbacterium (1) |
+|                       | Erwiniaceae (1)        | Pantoea (1)         |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -3511,19 +2711,10 @@ CAI33029.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |      14 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |       13 |
-| Aerococcaceae    |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |      13 |
-| Globicatella  |       1 |
+| order                | family                | genus              |
+|:---------------------|:----------------------|:-------------------|
+| Lactobacillales (14) | Streptococcaceae (13) | Streptococcus (13) |
+|                      | Aerococcaceae (1)     | Globicatella (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -3556,31 +2747,17 @@ CBN82200.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       8 |
-| Alteromonadales  |       3 |
-| Burkholderiales  |       3 |
-
-|                        |   family |
-|:-----------------------|---------:|
-| Enterobacteriaceae     |        8 |
-| Comamonadaceae         |        2 |
-| Pseudoalteromonadaceae |        2 |
-| Burkholderiaceae       |        1 |
-| Shewanellaceae         |        1 |
-
-|                   |   genus |
-|:------------------|--------:|
-| Escherichia       |       3 |
-| Citrobacter       |       2 |
-| Enterobacter      |       2 |
-| Pseudoalteromonas |       2 |
-| Comamonas         |       1 |
-| Leclercia         |       1 |
-| Polaromonas       |       1 |
-| Ralstonia         |       1 |
-| Shewanella        |       1 |
+| order                | family                     | genus                 |
+|:---------------------|:---------------------------|:----------------------|
+| Enterobacterales (8) | Enterobacteriaceae (8)     | Escherichia (3)       |
+|                      |                            | Citrobacter (2)       |
+|                      |                            | Enterobacter (2)      |
+|                      |                            | Leclercia (1)         |
+| Alteromonadales (3)  | Pseudoalteromonadaceae (2) | Pseudoalteromonas (2) |
+|                      | Shewanellaceae (1)         | Shewanella (1)        |
+| Burkholderiales (3)  | Comamonadaceae (2)         | Comamonas (1)         |
+|                      |                            | Polaromonas (1)       |
+|                      | Burkholderiaceae (1)       | Ralstonia (1)         |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -3607,20 +2784,10 @@ Total number of members in cluster: 14
 
 #### Taxonomy:
 
-|                |   order |
-|:---------------|--------:|
-| Moraxellales   |      13 |
-| Pasteurellales |       1 |
-
-|                 |   family |
-|:----------------|---------:|
-| Moraxellaceae   |       13 |
-| Pasteurellaceae |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Acinetobacter |      13 |
-| Glaesserella  |       1 |
+| order              | family              | genus              |
+|:-------------------|:--------------------|:-------------------|
+| Moraxellales (13)  | Moraxellaceae (13)  | Acinetobacter (13) |
+| Pasteurellales (1) | Pasteurellaceae (1) | Glaesserella (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -3651,19 +2818,11 @@ BAQ01675.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      14 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       14 |
-
-|                   |   genus |
-|:------------------|--------:|
-| Enterobacter      |       8 |
-| Escherichia       |       4 |
-| Superficieibacter |       2 |
+| order                 | family                  | genus                 |
+|:----------------------|:------------------------|:----------------------|
+| Enterobacterales (14) | Enterobacteriaceae (14) | Escherichia (4)       |
+|                       |                         | Enterobacter (8)      |
+|                       |                         | Superficieibacter (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -3699,20 +2858,11 @@ AHG15281.1, AFD18613.1, AAX58762.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      14 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       13 |
-| Morganellaceae     |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Salmonella   |       8 |
-| Escherichia  |       5 |
-| Photorhabdus |       1 |
+| order                 | family                  | genus            |
+|:----------------------|:------------------------|:-----------------|
+| Enterobacterales (14) | Enterobacteriaceae (13) | Escherichia (5)  |
+|                       |                         | Salmonella (8)   |
+|                       | Morganellaceae (1)      | Photorhabdus (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -3754,19 +2904,11 @@ EKI39969.1, BAK68980.1, EKK44895.1, BAK69191.1, BAK69033.1, AAC32340.1, EKI95922
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      13 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       13 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |      11 |
-| Citrobacter |       1 |
-| Salmonella  |       1 |
+| order                 | family                  | genus            |
+|:----------------------|:------------------------|:-----------------|
+| Enterobacterales (13) | Enterobacteriaceae (13) | Escherichia (11) |
+|                       |                         | Citrobacter (1)  |
+|                       |                         | Salmonella (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -3797,20 +2939,13 @@ BAQ01317.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      13 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       13 |
-
-|              |   genus |
-|:-------------|--------:|
-| Enterobacter |       6 |
-| Escherichia  |       3 |
-| Cedecea      |       1 |
-| Lelliottia   |       1 |
+| order                 | family                  | genus            |
+|:----------------------|:------------------------|:-----------------|
+| Enterobacterales (13) | Enterobacteriaceae (13) | Escherichia (3)  |
+|                       |                         | nan (2)          |
+|                       |                         | Enterobacter (6) |
+|                       |                         | Lelliottia (1)   |
+|                       |                         | Cedecea (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -3843,17 +2978,9 @@ CAI33309.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |      13 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |       13 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |      13 |
+| order                | family                | genus              |
+|:---------------------|:----------------------|:-------------------|
+| Lactobacillales (13) | Streptococcaceae (13) | Streptococcus (13) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -3891,25 +3018,15 @@ ACA24868.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      12 |
-| Vibrionales      |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       12 |
-| Vibrionaceae       |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Enterobacter |       3 |
-| Escherichia  |       3 |
-| Citrobacter  |       2 |
-| Leclercia    |       2 |
-| Klebsiella   |       1 |
-| Shigella     |       1 |
-| Vibrio       |       1 |
+| order                 | family                  | genus            |
+|:----------------------|:------------------------|:-----------------|
+| Enterobacterales (12) | Enterobacteriaceae (12) | Escherichia (3)  |
+|                       |                         | Shigella (1)     |
+|                       |                         | Citrobacter (2)  |
+|                       |                         | Enterobacter (3) |
+|                       |                         | Klebsiella (1)   |
+|                       |                         | Leclercia (2)    |
+| Vibrionales (1)       | Vibrionaceae (1)        | Vibrio (1)       |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -3946,19 +3063,11 @@ AFW04812.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      13 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       13 |
-
-|              |   genus |
-|:-------------|--------:|
-| Salmonella   |       7 |
-| Escherichia  |       5 |
-| Enterobacter |       1 |
+| order                 | family                  | genus            |
+|:----------------------|:------------------------|:-----------------|
+| Enterobacterales (13) | Enterobacteriaceae (13) | Escherichia (5)  |
+|                       |                         | Salmonella (7)   |
+|                       |                         | Enterobacter (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -3989,27 +3098,15 @@ ACD37026.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      12 |
-| Vibrionales      |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        9 |
-| Erwiniaceae        |        2 |
-| Morganellaceae     |        1 |
-| Vibrionaceae       |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Escherichia    |       5 |
-| Enterobacter   |       3 |
-| Erwinia        |       1 |
-| Pantoea        |       1 |
-| Photobacterium |       1 |
-| Shigella       |       1 |
-| Xenorhabdus    |       1 |
+| order                 | family                 | genus              |
+|:----------------------|:-----------------------|:-------------------|
+| Enterobacterales (12) | Enterobacteriaceae (9) | Shigella (1)       |
+|                       |                        | Escherichia (5)    |
+|                       |                        | Enterobacter (3)   |
+|                       | Erwiniaceae (2)        | Pantoea (1)        |
+|                       |                        | Erwinia (1)        |
+|                       | Morganellaceae (1)     | Xenorhabdus (1)    |
+| Vibrionales (1)       | Vibrionaceae (1)       | Photobacterium (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -4046,18 +3143,11 @@ ADQ37322.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      13 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       13 |
-
-|             |   genus |
-|:------------|--------:|
-| Salmonella  |       7 |
-| Escherichia |       5 |
+| order                 | family                  | genus           |
+|:----------------------|:------------------------|:----------------|
+| Enterobacterales (13) | Enterobacteriaceae (13) | Escherichia (5) |
+|                       |                         | Salmonella (7)  |
+|                       |                         | nan (1)         |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -4083,26 +3173,16 @@ Total number of members in cluster: 13
 
 #### Taxonomy:
 
-|                    |   order |
-|:-------------------|--------:|
-| Eubacteriales      |       8 |
-| Bacillales         |       1 |
-| Erysipelotrichales |       1 |
-
-|                     |   family |
-|:--------------------|---------:|
-| Lachnospiraceae     |        5 |
-| Oscillospiraceae    |        2 |
-| Bacillaceae         |        1 |
-| Erysipelotrichaceae |        1 |
-
-|                    |   genus |
-|:-------------------|--------:|
-| Amedibacillus      |       1 |
-| Bacillus           |       1 |
-| Dorea              |       1 |
-| Mediterraneibacter |       1 |
-| Ruminococcus       |       1 |
+| order                  | family                  | genus                  |
+|:-----------------------|:------------------------|:-----------------------|
+| Eubacteriales (8)      | Lachnospiraceae (5)     | nan (4)                |
+|                        |                         | Dorea (1)              |
+|                        |                         | Mediterraneibacter (1) |
+|                        | Oscillospiraceae (2)    | nan (4)                |
+|                        |                         | Ruminococcus (1)       |
+| nan (3)                | nan (4)                 | nan (4)                |
+| Bacillales (1)         | Bacillaceae (1)         | Bacillus (1)           |
+| Erysipelotrichales (1) | Erysipelotrichaceae (1) | Amedibacillus (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -4138,20 +3218,11 @@ AAM27645.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Pseudomonadales |      11 |
-| Vibrionales     |       1 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Pseudomonadaceae |       11 |
-| Vibrionaceae     |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Pseudomonas |      11 |
-| Vibrio      |       1 |
+| order                | family                | genus            |
+|:---------------------|:----------------------|:-----------------|
+| Pseudomonadales (11) | Pseudomonadaceae (11) | Pseudomonas (11) |
+| nan (1)              | nan (1)               | nan (1)          |
+| Vibrionales (1)      | Vibrionaceae (1)      | Vibrio (1)       |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -4182,24 +3253,13 @@ BAQ00975.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       8 |
-| Vibrionales      |       4 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        7 |
-| Vibrionaceae       |        4 |
-| Morganellaceae     |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       6 |
-| Vibrio       |       3 |
-| Aliivibrio   |       1 |
-| Enterobacter |       1 |
-| Xenorhabdus  |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (8) | Enterobacteriaceae (7) | Escherichia (6)  |
+|                      |                        | Enterobacter (1) |
+|                      | Morganellaceae (1)     | Xenorhabdus (1)  |
+| Vibrionales (4)      | Vibrionaceae (4)       | Aliivibrio (1)   |
+|                      |                        | Vibrio (3)       |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -4238,26 +3298,14 @@ BAQ01494.1, AFS33314.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      11 |
-| Vibrionales      |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        8 |
-| Morganellaceae     |        2 |
-| Hafniaceae         |        1 |
-| Vibrionaceae       |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Escherichia    |       7 |
-| Citrobacter    |       1 |
-| Edwardsiella   |       1 |
-| Photobacterium |       1 |
-| Proteus        |       1 |
-| Providencia    |       1 |
+| order                 | family                 | genus              |
+|:----------------------|:-----------------------|:-------------------|
+| Enterobacterales (11) | Enterobacteriaceae (8) | Escherichia (7)    |
+|                       |                        | Citrobacter (1)    |
+|                       | Hafniaceae (1)         | Edwardsiella (1)   |
+|                       | Morganellaceae (2)     | Proteus (1)        |
+|                       |                        | Providencia (1)    |
+| Vibrionales (1)       | Vibrionaceae (1)       | Photobacterium (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -4291,17 +3339,9 @@ AAD45264.1, AAM27574.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Pseudomonadales |      12 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Pseudomonadaceae |       12 |
-
-|             |   genus |
-|:------------|--------:|
-| Pseudomonas |      12 |
+| order                | family                | genus            |
+|:---------------------|:----------------------|:-----------------|
+| Pseudomonadales (12) | Pseudomonadaceae (12) | Pseudomonas (12) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -4341,18 +3381,10 @@ AGS07346.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      12 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       12 |
-
-|             |   genus |
-|:------------|--------:|
-| Salmonella  |      10 |
-| Citrobacter |       2 |
+| order                 | family                  | genus           |
+|:----------------------|:------------------------|:----------------|
+| Enterobacterales (12) | Enterobacteriaceae (12) | Salmonella (10) |
+|                       |                         | Citrobacter (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -4385,28 +3417,14 @@ BAQ01533.1:
 
 #### Taxonomy:
 
-|                   |   order |
-|:------------------|--------:|
-| Vibrionales       |       7 |
-| Enterobacterales  |       4 |
-| Oceanospirillales |       1 |
-
-|                     |   family |
-|:--------------------|---------:|
-| Vibrionaceae        |        7 |
-| Enterobacteriaceae  |        2 |
-| Endozoicomonadaceae |        1 |
-| Erwiniaceae         |        1 |
-| Morganellaceae      |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Photobacterium |       6 |
-| Escherichia    |       2 |
-| Kistimonas     |       1 |
-| Mixta          |       1 |
-| Proteus        |       1 |
-| Vibrio         |       1 |
+| order                 | family                  | genus              |
+|:----------------------|:------------------------|:-------------------|
+| Enterobacterales (4)  | Enterobacteriaceae (2)  | Escherichia (2)    |
+|                       | Morganellaceae (1)      | Proteus (1)        |
+|                       | Erwiniaceae (1)         | Mixta (1)          |
+| Vibrionales (7)       | Vibrionaceae (7)        | Photobacterium (6) |
+|                       |                         | Vibrio (1)         |
+| Oceanospirillales (1) | Endozoicomonadaceae (1) | Kistimonas (1)     |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -4439,19 +3457,11 @@ ADI43263.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      12 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       12 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       9 |
-| Leclercia   |       2 |
-| Citrobacter |       1 |
+| order                 | family                  | genus           |
+|:----------------------|:------------------------|:----------------|
+| Enterobacterales (12) | Enterobacteriaceae (12) | Escherichia (9) |
+|                       |                         | Leclercia (2)   |
+|                       |                         | Citrobacter (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -4486,21 +3496,12 @@ WP_000482333.1, BAG11898.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      12 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       11 |
-| Pectobacteriaceae  |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Escherichia    |       5 |
-| Salmonella     |       4 |
-| Citrobacter    |       2 |
-| Pectobacterium |       1 |
+| order                 | family                  | genus              |
+|:----------------------|:------------------------|:-------------------|
+| Enterobacterales (12) | Enterobacteriaceae (11) | Escherichia (5)    |
+|                       |                         | Salmonella (4)     |
+|                       |                         | Citrobacter (2)    |
+|                       | Pectobacteriaceae (1)   | Pectobacterium (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -4533,29 +3534,14 @@ ABI55342.1:
 
 #### Taxonomy:
 
-|                   |   order |
-|:------------------|--------:|
-| Enterobacterales  |       5 |
-| Vibrionales       |       4 |
-| Flavobacteriales  |       2 |
-| Campylobacterales |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-| Vibrionaceae       |        4 |
-| Flavobacteriaceae  |        2 |
-| Campylobacteraceae |        1 |
-| Morganellaceae     |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Vibrio         |       4 |
-| Citrobacter    |       3 |
-| Capnocytophaga |       2 |
-| Campylobacter  |       1 |
-| Proteus        |       1 |
-| Shigella       |       1 |
+| order                 | family                 | genus              |
+|:----------------------|:-----------------------|:-------------------|
+| Enterobacterales (5)  | Enterobacteriaceae (4) | Shigella (1)       |
+|                       |                        | Citrobacter (3)    |
+|                       | Morganellaceae (1)     | Proteus (1)        |
+| Flavobacteriales (2)  | Flavobacteriaceae (2)  | Capnocytophaga (2) |
+| Vibrionales (4)       | Vibrionaceae (4)       | Vibrio (4)         |
+| Campylobacterales (1) | Campylobacteraceae (1) | Campylobacter (1)  |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -4589,31 +3575,16 @@ ACA24764.1, ACA24754.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       6 |
-| Alteromonadales  |       3 |
-| Vibrionales      |       1 |
-
-|                        |   family |
-|:-----------------------|---------:|
-| Enterobacteriaceae     |        4 |
-| Morganellaceae         |        2 |
-| Shewanellaceae         |        2 |
-| Pseudoalteromonadaceae |        1 |
-| Vibrionaceae           |        1 |
-
-|                   |   genus |
-|:------------------|--------:|
-| Shigella          |       3 |
-| Shewanella        |       2 |
-| Escherichia       |       1 |
-| Gallaecimonas     |       1 |
-| Photorhabdus      |       1 |
-| Providencia       |       1 |
-| Pseudoalteromonas |       1 |
-| Vibrio            |       1 |
-| Wohlfahrtiimonas  |       1 |
+| order                | family                     | genus                 |
+|:---------------------|:---------------------------|:----------------------|
+| Enterobacterales (6) | Enterobacteriaceae (4)     | Escherichia (1)       |
+|                      |                            | Shigella (3)          |
+|                      | Morganellaceae (2)         | Photorhabdus (1)      |
+|                      |                            | Providencia (1)       |
+| Vibrionales (1)      | Vibrionaceae (1)           | Vibrio (1)            |
+| nan (2)              | nan (2)                    | Gallaecimonas (1)     |
+| Alteromonadales (3)  | Pseudoalteromonadaceae (1) | Pseudoalteromonas (1) |
+|                      | Shewanellaceae (2)         | Shewanella (2)        |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -4649,23 +3620,14 @@ ACA24776.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      11 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        9 |
-| Erwiniaceae        |        2 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       4 |
-| Citrobacter  |       2 |
-| Enterobacter |       2 |
-| Erwinia      |       1 |
-| Pantoea      |       1 |
-| Shigella     |       1 |
+| order                 | family                 | genus            |
+|:----------------------|:-----------------------|:-----------------|
+| Enterobacterales (11) | Enterobacteriaceae (9) | Escherichia (4)  |
+|                       |                        | Shigella (1)     |
+|                       |                        | Citrobacter (2)  |
+|                       |                        | Enterobacter (2) |
+|                       | Erwiniaceae (2)        | Pantoea (1)      |
+|                       |                        | Erwinia (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -4704,23 +3666,13 @@ ADN43894.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      11 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        8 |
-| Erwiniaceae        |        2 |
-| Morganellaceae     |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       5 |
-| Citrobacter |       2 |
-| Pantoea     |       2 |
-| Morganella  |       1 |
-| Shigella    |       1 |
+| order                 | family                 | genus           |
+|:----------------------|:-----------------------|:----------------|
+| Enterobacterales (11) | Enterobacteriaceae (8) | Escherichia (5) |
+|                       |                        | Shigella (1)    |
+|                       |                        | Citrobacter (2) |
+|                       | Morganellaceae (1)     | Morganella (1)  |
+|                       | Erwiniaceae (2)        | Pantoea (2)     |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -4766,17 +3718,9 @@ CAI33585.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |      11 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |       11 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |      11 |
+| order                | family                | genus              |
+|:---------------------|:----------------------|:-------------------|
+| Lactobacillales (11) | Streptococcaceae (11) | Streptococcus (11) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -4817,21 +3761,12 @@ ACD37105.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      11 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        9 |
-| Pectobacteriaceae  |        2 |
-
-|                |   genus |
-|:---------------|--------:|
-| Escherichia    |       7 |
-| Pectobacterium |       2 |
-| Citrobacter    |       1 |
-| Shigella       |       1 |
+| order                 | family                 | genus              |
+|:----------------------|:-----------------------|:-------------------|
+| Enterobacterales (11) | Enterobacteriaceae (9) | Escherichia (7)    |
+|                       |                        | Shigella (1)       |
+|                       |                        | Citrobacter (1)    |
+|                       | Pectobacteriaceae (2)  | Pectobacterium (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -4857,22 +3792,14 @@ Total number of members in cluster: 11
 
 #### Taxonomy:
 
-|               |   order |
-|:--------------|--------:|
-| Eubacteriales |       9 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Lachnospiraceae  |        5 |
-| Eubacteriaceae   |        3 |
-| Oscillospiraceae |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Eubacterium  |       3 |
-| Anaerostipes |       2 |
-| Blautia      |       2 |
-| Coprococcus  |       1 |
+| order             | family               | genus            |
+|:------------------|:---------------------|:-----------------|
+| Eubacteriales (9) | Oscillospiraceae (1) | nan (2)          |
+|                   | Lachnospiraceae (5)  | Coprococcus (1)  |
+|                   |                      | Anaerostipes (2) |
+|                   |                      | Blautia (2)      |
+|                   | Eubacteriaceae (3)   | Eubacterium (3)  |
+| nan (2)           | nan (2)              | nan (2)          |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -4908,19 +3835,11 @@ ACA24792.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      11 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       11 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       6 |
-| Enterobacter |       4 |
-| Shigella     |       1 |
+| order                 | family                  | genus            |
+|:----------------------|:------------------------|:-----------------|
+| Enterobacterales (11) | Enterobacteriaceae (11) | Escherichia (6)  |
+|                       |                         | Shigella (1)     |
+|                       |                         | Enterobacter (4) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -4953,26 +3872,16 @@ ACH97162.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      10 |
-| Alteromonadales  |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        7 |
-| Morganellaceae     |        3 |
-| Idiomarinaceae     |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Salmonella  |       3 |
-| Escherichia |       2 |
-| Citrobacter |       1 |
-| Idiomarina  |       1 |
-| Proteus     |       1 |
-| Providencia |       1 |
-| Xenorhabdus |       1 |
+| order                 | family                 | genus           |
+|:----------------------|:-----------------------|:----------------|
+| Enterobacterales (10) | Enterobacteriaceae (7) | Escherichia (2) |
+|                       |                        | nan (1)         |
+|                       |                        | Citrobacter (1) |
+|                       |                        | Salmonella (3)  |
+|                       | Morganellaceae (3)     | Providencia (1) |
+|                       |                        | Xenorhabdus (1) |
+|                       |                        | Proteus (1)     |
+| Alteromonadales (1)   | Idiomarinaceae (1)     | Idiomarina (1)  |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -5010,20 +3919,10 @@ AHB32438.2:
 
 #### Taxonomy:
 
-|                |   order |
-|:---------------|--------:|
-| Moraxellales   |       8 |
-| Pasteurellales |       3 |
-
-|                 |   family |
-|:----------------|---------:|
-| Moraxellaceae   |        8 |
-| Pasteurellaceae |        3 |
-
-|               |   genus |
-|:--------------|--------:|
-| Acinetobacter |       8 |
-| Glaesserella  |       3 |
+| order              | family              | genus             |
+|:-------------------|:--------------------|:------------------|
+| Moraxellales (8)   | Moraxellaceae (8)   | Acinetobacter (8) |
+| Pasteurellales (3) | Pasteurellaceae (3) | Glaesserella (3)  |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -5054,17 +3953,9 @@ AAM27546.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Pseudomonadales |      11 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Pseudomonadaceae |       11 |
-
-|             |   genus |
-|:------------|--------:|
-| Pseudomonas |      11 |
+| order                | family                | genus            |
+|:---------------------|:----------------------|:-----------------|
+| Pseudomonadales (11) | Pseudomonadaceae (11) | Pseudomonas (11) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -5102,26 +3993,14 @@ CAI34124.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       6 |
-| Eubacteriales   |       4 |
-| Fibrobacterales |       1 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Lachnospiraceae  |        3 |
-| Streptococcaceae |        3 |
-| Enterococcaceae  |        2 |
-| Fibrobacteraceae |        1 |
-| Lactobacillaceae |        1 |
-
-|                    |   genus |
-|:-------------------|--------:|
-| Streptococcus      |       3 |
-| Enterococcus       |       2 |
-| Fibrobacter        |       1 |
-| Loigolactobacillus |       1 |
+| order               | family               | genus                  |
+|:--------------------|:---------------------|:-----------------------|
+| Lactobacillales (6) | Streptococcaceae (3) | Streptococcus (3)      |
+|                     | Enterococcaceae (2)  | Enterococcus (2)       |
+|                     | Lactobacillaceae (1) | Loigolactobacillus (1) |
+| Eubacteriales (4)   | Lachnospiraceae (3)  | nan (3)                |
+|                     | nan (1)              | nan (3)                |
+| Fibrobacterales (1) | Fibrobacteraceae (1) | Fibrobacter (1)        |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -5159,19 +4038,11 @@ AFW04888.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      10 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       10 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       4 |
-| Citrobacter |       3 |
-| Salmonella  |       3 |
+| order                 | family                  | genus           |
+|:----------------------|:------------------------|:----------------|
+| Enterobacterales (10) | Enterobacteriaceae (10) | Escherichia (4) |
+|                       |                         | Salmonella (3)  |
+|                       |                         | Citrobacter (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -5197,27 +4068,13 @@ Total number of members in cluster: 10
 
 #### Taxonomy:
 
-|                   |   order |
-|:------------------|--------:|
-| Enterobacterales  |       4 |
-| Vibrionales       |       3 |
-| Aeromonadales     |       2 |
-| Campylobacterales |       1 |
-
-|                 |   family |
-|:----------------|---------:|
-| Morganellaceae  |        4 |
-| Vibrionaceae    |        3 |
-| Aeromonadaceae  |        2 |
-| Arcobacteraceae |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Providencia  |       3 |
-| Vibrio       |       3 |
-| Aeromonas    |       2 |
-| Arcobacter   |       1 |
-| Photorhabdus |       1 |
+| order                 | family              | genus            |
+|:----------------------|:--------------------|:-----------------|
+| Enterobacterales (4)  | Morganellaceae (4)  | Providencia (3)  |
+|                       |                     | Photorhabdus (1) |
+| Vibrionales (3)       | Vibrionaceae (3)    | Vibrio (3)       |
+| Aeromonadales (2)     | Aeromonadaceae (2)  | Aeromonas (2)    |
+| Campylobacterales (1) | Arcobacteraceae (1) | Arcobacter (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -5248,20 +4105,11 @@ ABX51880.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      10 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        8 |
-| Erwiniaceae        |        2 |
-
-|              |   genus |
-|:-------------|--------:|
-| Cronobacter  |       6 |
-| Enterobacter |       2 |
-| Pantoea      |       2 |
+| order                 | family                 | genus            |
+|:----------------------|:-----------------------|:-----------------|
+| Enterobacterales (10) | Enterobacteriaceae (8) | Cronobacter (6)  |
+|                       |                        | Enterobacter (2) |
+|                       | Erwiniaceae (2)        | Pantoea (2)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -5292,24 +4140,12 @@ BAQ01238.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Vibrionales      |       6 |
-| Enterobacterales |       3 |
-| Aeromonadales    |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Vibrionaceae       |        6 |
-| Enterobacteriaceae |        3 |
-| Aeromonadaceae     |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Photobacterium |       4 |
-| Escherichia    |       3 |
-| Vibrio         |       2 |
-| Aeromonas      |       1 |
+| order                | family                 | genus              |
+|:---------------------|:-----------------------|:-------------------|
+| Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (3)    |
+| Vibrionales (6)      | Vibrionaceae (6)       | Vibrio (2)         |
+|                      |                        | Photobacterium (4) |
+| Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -5338,22 +4174,11 @@ Total number of members in cluster: 10
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       8 |
-| Eubacteriales   |       2 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |        8 |
-| Lachnospiraceae  |        1 |
-| Oscillospiraceae |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |       8 |
-| Dorea         |       1 |
-| Ruminococcus  |       1 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (8) | Streptococcaceae (8) | Streptococcus (8) |
+| Eubacteriales (2)   | Oscillospiraceae (1) | Ruminococcus (1)  |
+|                     | Lachnospiraceae (1)  | Dorea (1)         |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -5389,18 +4214,10 @@ EHX11459.1, AFC91458.1, AFC91419.1, AAX07747.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      10 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |       10 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       6 |
-| Enterobacter |       4 |
+| order                 | family                  | genus            |
+|:----------------------|:------------------------|:-----------------|
+| Enterobacterales (10) | Enterobacteriaceae (10) | Escherichia (6)  |
+|                       |                         | Enterobacter (4) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -5438,23 +4255,13 @@ AFW04684.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       7 |
-| Vibrionales      |       3 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        7 |
-| Vibrionaceae       |        3 |
-
-|                |   genus |
-|:---------------|--------:|
-| Escherichia    |       3 |
-| Citrobacter    |       2 |
-| Salmonella     |       2 |
-| Vibrio         |       2 |
-| Photobacterium |       1 |
+| order                | family                 | genus              |
+|:---------------------|:-----------------------|:-------------------|
+| Enterobacterales (7) | Enterobacteriaceae (7) | Escherichia (3)    |
+|                      |                        | Salmonella (2)     |
+|                      |                        | Citrobacter (2)    |
+| Vibrionales (3)      | Vibrionaceae (3)       | Photobacterium (1) |
+|                      |                        | Vibrio (2)         |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -5486,27 +4293,14 @@ AAO37717.1:
 
 #### Taxonomy:
 
-|                   |   order |
-|:------------------|--------:|
-| Enterobacterales  |       6 |
-| Oceanospirillales |       1 |
-| Pseudomonadales   |       1 |
-| Vibrionales       |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        6 |
-| Halomonadaceae     |        1 |
-| Marinobacteraceae  |        1 |
-| Vibrionaceae       |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       3 |
-| Salmonella   |       3 |
-| Halomonas    |       1 |
-| Marinobacter |       1 |
-| Vibrio       |       1 |
+| order                 | family                 | genus            |
+|:----------------------|:-----------------------|:-----------------|
+| Enterobacterales (6)  | Enterobacteriaceae (6) | Escherichia (3)  |
+|                       |                        | Salmonella (3)   |
+| nan (1)               | nan (1)                | nan (1)          |
+| Vibrionales (1)       | Vibrionaceae (1)       | Vibrio (1)       |
+| Oceanospirillales (1) | Halomonadaceae (1)     | Halomonas (1)    |
+| Pseudomonadales (1)   | Marinobacteraceae (1)  | Marinobacter (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -5532,23 +4326,11 @@ Total number of members in cluster: 10
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Pseudomonadales |       7 |
-| Vibrionales     |       2 |
-| Aeromonadales   |       1 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Pseudomonadaceae |        7 |
-| Vibrionaceae     |        2 |
-| Aeromonadaceae   |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Pseudomonas |       7 |
-| Vibrio      |       2 |
-| Aeromonas   |       1 |
+| order               | family               | genus           |
+|:--------------------|:---------------------|:----------------|
+| Aeromonadales (1)   | Aeromonadaceae (1)   | Aeromonas (1)   |
+| Pseudomonadales (7) | Pseudomonadaceae (7) | Pseudomonas (7) |
+| Vibrionales (2)     | Vibrionaceae (2)     | Vibrio (2)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -5577,21 +4359,11 @@ Total number of members in cluster: 10
 
 #### Taxonomy:
 
-|              |   order |
-|:-------------|--------:|
-| Moraxellales |       9 |
-| Neisseriales |       1 |
-
-|               |   family |
-|:--------------|---------:|
-| Moraxellaceae |        9 |
-| Neisseriaceae |        1 |
-
-|                 |   genus |
-|:----------------|--------:|
-| Acinetobacter   |       8 |
-| Conchiformibius |       1 |
-| Psychrobacter   |       1 |
+| order            | family            | genus               |
+|:-----------------|:------------------|:--------------------|
+| Moraxellales (9) | Moraxellaceae (9) | Acinetobacter (8)   |
+|                  |                   | Psychrobacter (1)   |
+| Neisseriales (1) | Neisseriaceae (1) | Conchiformibius (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -5624,20 +4396,11 @@ AAK60458.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |      10 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        9 |
-| Hafniaceae         |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       8 |
-| Citrobacter |       1 |
-| Hafnia      |       1 |
+| order                 | family                 | genus           |
+|:----------------------|:-----------------------|:----------------|
+| Enterobacterales (10) | Enterobacteriaceae (9) | Escherichia (8) |
+|                       |                        | Citrobacter (1) |
+|                       | Hafniaceae (1)         | Hafnia (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -5668,17 +4431,9 @@ AAM27782.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Pseudomonadales |      10 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Pseudomonadaceae |       10 |
-
-|             |   genus |
-|:------------|--------:|
-| Pseudomonas |      10 |
+| order                | family                | genus            |
+|:---------------------|:----------------------|:-----------------|
+| Pseudomonadales (10) | Pseudomonadaceae (10) | Pseudomonas (10) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -5709,35 +4464,16 @@ BAQ00879.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-| Burkholderiales  |       2 |
-| Alteromonadales  |       1 |
-| Neisseriales     |       1 |
-| Rhodocyclales    |       1 |
-| Vibrionales      |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-| Chromobacteriaceae |        1 |
-| Comamonadaceae     |        1 |
-| Oxalobacteraceae   |        1 |
-| Rhodocyclaceae     |        1 |
-| Shewanellaceae     |        1 |
-| Vibrionaceae       |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Enterobacter   |       2 |
-| Escherichia    |       2 |
-| Aquitalea      |       1 |
-| Massilia       |       1 |
-| Pelomonas      |       1 |
-| Propionivibrio |       1 |
-| Shewanella     |       1 |
-| Vibrio         |       1 |
+| order                | family                 | genus              |
+|:---------------------|:-----------------------|:-------------------|
+| Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (2)    |
+|                      |                        | Enterobacter (2)   |
+| Burkholderiales (2)  | Oxalobacteraceae (1)   | Massilia (1)       |
+|                      | Comamonadaceae (1)     | Pelomonas (1)      |
+| Vibrionales (1)      | Vibrionaceae (1)       | Vibrio (1)         |
+| Alteromonadales (1)  | Shewanellaceae (1)     | Shewanella (1)     |
+| Rhodocyclales (1)    | Rhodocyclaceae (1)     | Propionivibrio (1) |
+| Neisseriales (1)     | Chromobacteriaceae (1) | Aquitalea (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -5768,21 +4504,11 @@ ADC54957.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Vibrionales      |       6 |
-| Enterobacterales |       4 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Vibrionaceae       |        6 |
-| Enterobacteriaceae |        4 |
-
-|                |   genus |
-|:---------------|--------:|
-| Photobacterium |       6 |
-| Escherichia    |       3 |
-| Citrobacter    |       1 |
+| order                | family                 | genus              |
+|:---------------------|:-----------------------|:-------------------|
+| Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (3)    |
+|                      |                        | Citrobacter (1)    |
+| Vibrionales (6)      | Vibrionaceae (6)       | Photobacterium (6) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -5820,27 +4546,13 @@ CAI33343.1:
 
 #### Taxonomy:
 
-|                    |   order |
-|:-------------------|--------:|
-| Lactobacillales    |       4 |
-| Eubacteriales      |       3 |
-| Bacillales         |       1 |
-| Erysipelotrichales |       1 |
-
-|                     |   family |
-|:--------------------|---------:|
-| Streptococcaceae    |        4 |
-| Lachnospiraceae     |        2 |
-| Erysipelotrichaceae |        1 |
-| Oscillospiraceae    |        1 |
-| Staphylococcaceae   |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Streptococcus  |       4 |
-| Amedibacterium |       1 |
-| Roseburia      |       1 |
-| Staphylococcus |       1 |
+| order                  | family                  | genus              |
+|:-----------------------|:------------------------|:-------------------|
+| Lactobacillales (4)    | Streptococcaceae (4)    | Streptococcus (4)  |
+| Eubacteriales (3)      | Lachnospiraceae (2)     | Roseburia (1)      |
+|                        | Oscillospiraceae (1)    | nan (2)            |
+| Erysipelotrichales (1) | Erysipelotrichaceae (1) | Amedibacterium (1) |
+| Bacillales (1)         | Staphylococcaceae (1)   | Staphylococcus (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -5873,30 +4585,15 @@ CAI32705.1:
 
 #### Taxonomy:
 
-|                    |   order |
-|:-------------------|--------:|
-| Erysipelotrichales |       3 |
-| Lactobacillales    |       2 |
-| Bacillales         |       1 |
-| Eggerthellales     |       1 |
-| Eubacteriales      |       1 |
-
-|                     |   family |
-|:--------------------|---------:|
-| Erysipelotrichaceae |        3 |
-| Streptococcaceae    |        2 |
-| Bacillaceae         |        1 |
-| Clostridiaceae      |        1 |
-| Eggerthellaceae     |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Holdemania    |       2 |
-| Streptococcus |       2 |
-| Adlercreutzia |       1 |
-| Bacillus      |       1 |
-| Clostridium   |       1 |
-| Holdemanella  |       1 |
+| order                  | family                  | genus             |
+|:-----------------------|:------------------------|:------------------|
+| Lactobacillales (2)    | Streptococcaceae (2)    | Streptococcus (2) |
+| Eubacteriales (1)      | Clostridiaceae (1)      | Clostridium (1)   |
+| Bacillales (1)         | Bacillaceae (1)         | Bacillus (1)      |
+| Eggerthellales (1)     | Eggerthellaceae (1)     | Adlercreutzia (1) |
+| Erysipelotrichales (3) | Erysipelotrichaceae (3) | Holdemania (2)    |
+|                        |                         | Holdemanella (1)  |
+| nan (1)                | nan (1)                 | nan (1)           |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -5927,21 +4624,12 @@ CAI33718.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       9 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Lactobacillaceae |        7 |
-| Streptococcaceae |        2 |
-
-|                     |   genus |
-|:--------------------|--------:|
-| Pediococcus         |       5 |
-| Streptococcus       |       2 |
-| Lactiplantibacillus |       1 |
-| Latilactobacillus   |       1 |
+| order               | family               | genus                   |
+|:--------------------|:---------------------|:------------------------|
+| Lactobacillales (9) | Streptococcaceae (2) | Streptococcus (2)       |
+|                     | Lactobacillaceae (7) | Lactiplantibacillus (1) |
+|                     |                      | Pediococcus (5)         |
+|                     |                      | Latilactobacillus (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -5980,17 +4668,9 @@ CAI33226.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       9 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |        9 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |       9 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (9) | Streptococcaceae (9) | Streptococcus (9) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -6024,22 +4704,13 @@ BAQ02031.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       9 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        8 |
-| Morganellaceae     |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       3 |
-| Salmonella   |       3 |
-| Citrobacter  |       1 |
-| Enterobacter |       1 |
-| Photorhabdus |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (9) | Enterobacteriaceae (8) | Escherichia (3)  |
+|                      |                        | Salmonella (3)   |
+|                      |                        | Enterobacter (1) |
+|                      |                        | Citrobacter (1)  |
+|                      | Morganellaceae (1)     | Photorhabdus (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -6065,24 +4736,12 @@ Total number of members in cluster: 9
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Moraxellales     |       6 |
-| Enterobacterales |       2 |
-| Neisseriales     |       1 |
-
-|                |   family |
-|:---------------|---------:|
-| Moraxellaceae  |        6 |
-| Morganellaceae |        2 |
-| Neisseriaceae  |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Acinetobacter |       6 |
-| Morganella    |       1 |
-| Proteus       |       1 |
-| Vitreoscilla  |       1 |
+| order                | family             | genus             |
+|:---------------------|:-------------------|:------------------|
+| Neisseriales (1)     | Neisseriaceae (1)  | Vitreoscilla (1)  |
+| Enterobacterales (2) | Morganellaceae (2) | Morganella (1)    |
+|                      |                    | Proteus (1)       |
+| Moraxellales (6)     | Moraxellaceae (6)  | Acinetobacter (6) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -6109,19 +4768,12 @@ Total number of members in cluster: 9
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       9 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        9 |
-
-|              |   genus |
-|:-------------|--------:|
-| Enterobacter |       4 |
-| Citrobacter  |       2 |
-| Escherichia  |       2 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (9) | Enterobacteriaceae (9) | Escherichia (2)  |
+|                      |                        | Enterobacter (4) |
+|                      |                        | nan (1)          |
+|                      |                        | Citrobacter (2)  |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -6157,17 +4809,9 @@ CAI33675.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       9 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |        9 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |       9 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (9) | Streptococcaceae (9) | Streptococcus (9) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -6200,25 +4844,12 @@ ADR74237.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       7 |
-| Aeromonadales    |       1 |
-| Vibrionales      |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        6 |
-| Aeromonadaceae     |        1 |
-| Morganellaceae     |        1 |
-| Vibrionaceae       |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       6 |
-| Aeromonas   |       1 |
-| Proteus     |       1 |
-| Vibrio      |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (7) | Enterobacteriaceae (6) | Escherichia (6) |
+|                      | Morganellaceae (1)     | Proteus (1)     |
+| Vibrionales (1)      | Vibrionaceae (1)       | Vibrio (1)      |
+| Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -6254,21 +4885,12 @@ AFW04785.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       9 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        6 |
-| Erwiniaceae        |        3 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       3 |
-| Pantoea     |       3 |
-| Salmonella  |       2 |
-| Leclercia   |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (9) | Enterobacteriaceae (6) | Escherichia (3) |
+|                      |                        | Salmonella (2)  |
+|                      |                        | Leclercia (1)   |
+|                      | Erwiniaceae (3)        | Pantoea (3)     |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -6294,24 +4916,14 @@ Total number of members in cluster: 9
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       9 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        5 |
-| Pectobacteriaceae  |        2 |
-| Yersiniaceae       |        2 |
-
-|                |   genus |
-|:---------------|--------:|
-| Klebsiella     |       4 |
-| Brenneria      |       1 |
-| Escherichia    |       1 |
-| Pectobacterium |       1 |
-| Rahnella       |       1 |
-| Serratia       |       1 |
+| order                | family                 | genus              |
+|:---------------------|:-----------------------|:-------------------|
+| Enterobacterales (9) | Enterobacteriaceae (5) | Klebsiella (4)     |
+|                      |                        | Escherichia (1)    |
+|                      | Yersiniaceae (2)       | Rahnella (1)       |
+|                      |                        | Serratia (1)       |
+|                      | Pectobacteriaceae (2)  | Pectobacterium (1) |
+|                      |                        | Brenneria (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -6337,33 +4949,15 @@ Total number of members in cluster: 9
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Bacteroidales    |       3 |
-| Pseudomonadales  |       2 |
-| Alteromonadales  |       1 |
-| Burkholderiales  |       1 |
-| Chthonomonadales |       1 |
-| Flavobacteriales |       1 |
-
-|                   |   family |
-|:------------------|---------:|
-| Bacteroidaceae    |        2 |
-| Pseudomonadaceae  |        2 |
-| Chthonomonadaceae |        1 |
-| Colwelliaceae     |        1 |
-| Flavobacteriaceae |        1 |
-| Tannerellaceae    |        1 |
-
-|                 |   genus |
-|:----------------|--------:|
-| Bacteroides     |       2 |
-| Pseudomonas     |       2 |
-| Chthonomonas    |       1 |
-| Colwellia       |       1 |
-| Flavobacterium  |       1 |
-| Parabacteroides |       1 |
-| Paucibacter     |       1 |
+| order                | family                | genus               |
+|:---------------------|:----------------------|:--------------------|
+| Burkholderiales (1)  | nan (1)               | Paucibacter (1)     |
+| Chthonomonadales (1) | Chthonomonadaceae (1) | Chthonomonas (1)    |
+| Flavobacteriales (1) | Flavobacteriaceae (1) | Flavobacterium (1)  |
+| Bacteroidales (3)    | Tannerellaceae (1)    | Parabacteroides (1) |
+|                      | Bacteroidaceae (2)    | Bacteroides (2)     |
+| Pseudomonadales (2)  | Pseudomonadaceae (2)  | Pseudomonas (2)     |
+| Alteromonadales (1)  | Colwelliaceae (1)     | Colwellia (1)       |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -6405,21 +4999,11 @@ BAQ02068.1, AJR19430.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       8 |
-| Aeromonadales    |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        8 |
-| Aeromonadaceae     |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       5 |
-| Salmonella  |       3 |
-| Aeromonas   |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (8) | Enterobacteriaceae (8) | Escherichia (5) |
+|                      |                        | Salmonella (3)  |
+| Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -6459,19 +5043,10 @@ ACV52983.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       9 |
-
-|                |   family |
-|:---------------|---------:|
-| Yersiniaceae   |        8 |
-| Morganellaceae |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Yersinia    |       8 |
-| Xenorhabdus |       1 |
+| order                | family             | genus           |
+|:---------------------|:-------------------|:----------------|
+| Enterobacterales (9) | Yersiniaceae (8)   | Yersinia (8)    |
+|                      | Morganellaceae (1) | Xenorhabdus (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -6502,22 +5077,13 @@ AAV74543.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       8 |
-| Pasteurellales   |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        8 |
-| Pasteurellaceae    |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       5 |
-| Citrobacter  |       1 |
-| Glaesserella |       1 |
-| Salmonella   |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (8) | Enterobacteriaceae (8) | Escherichia (5)  |
+|                      |                        | nan (1)          |
+|                      |                        | Citrobacter (1)  |
+|                      |                        | Salmonella (1)   |
+| Pasteurellales (1)   | Pasteurellaceae (1)    | Glaesserella (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -6551,18 +5117,10 @@ AAO37701.1, WP_024244058.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       9 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        9 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       6 |
-| Citrobacter |       3 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (9) | Enterobacteriaceae (9) | Escherichia (6) |
+|                      |                        | Citrobacter (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -6598,19 +5156,11 @@ CAI32867.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       7 |
-| Eubacteriales   |       2 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |        7 |
-| Oscillospiraceae |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |       7 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (7) | Streptococcaceae (7) | Streptococcus (7) |
+| Eubacteriales (2)   | nan (1)              | nan (1)           |
+|                     | Oscillospiraceae (1) | nan (1)           |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -6644,23 +5194,13 @@ ABI98966.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       7 |
-| Vibrionales      |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        7 |
-| Vibrionaceae       |        2 |
-
-|              |   genus |
-|:-------------|--------:|
-| Enterobacter |       3 |
-| Escherichia  |       2 |
-| Vibrio       |       2 |
-| Buttiauxella |       1 |
-| Shigella     |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (7) | Enterobacteriaceae (7) | Escherichia (2)  |
+|                      |                        | Shigella (1)     |
+|                      |                        | Enterobacter (3) |
+|                      |                        | Buttiauxella (1) |
+| Vibrionales (2)      | Vibrionaceae (2)       | Vibrio (2)       |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -6686,22 +5226,12 @@ Total number of members in cluster: 8
 
 #### Taxonomy:
 
-|                        |   order |
-|:-----------------------|--------:|
-| Vibrionales            |       3 |
-| Pseudomonadales        |       1 |
-| Thermoanaerobacterales |       1 |
-
-|                         |   family |
-|:------------------------|---------:|
-| Vibrionaceae            |        3 |
-| Pseudomonadaceae        |        1 |
-| Thermoanaerobacteraceae |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Photobacterium |       3 |
-| Pseudomonas    |       1 |
+| order                      | family                      | genus              |
+|:---------------------------|:----------------------------|:-------------------|
+| Pseudomonadales (1)        | Pseudomonadaceae (1)        | Pseudomonas (1)    |
+| nan (3)                    | nan (3)                     | nan (2)            |
+| Vibrionales (3)            | Vibrionaceae (3)            | Photobacterium (3) |
+| Thermoanaerobacterales (1) | Thermoanaerobacteraceae (1) | nan (2)            |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -6727,19 +5257,11 @@ Total number of members in cluster: 8
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       8 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Lactobacillaceae |        8 |
-
-|                      |   genus |
-|:---------------------|--------:|
-| Limosilactobacillus  |       5 |
-| Companilactobacillus |       2 |
-| Lactobacillus        |       1 |
+| order               | family               | genus                    |
+|:--------------------|:---------------------|:-------------------------|
+| Lactobacillales (8) | Lactobacillaceae (8) | Companilactobacillus (2) |
+|                     |                      | Limosilactobacillus (5)  |
+|                     |                      | Lactobacillus (1)        |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -6772,17 +5294,9 @@ CAI34587.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       8 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |        8 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |       8 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (8) | Streptococcaceae (8) | Streptococcus (8) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -6818,19 +5332,11 @@ AFW04741.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       8 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        8 |
-
-|             |   genus |
-|:------------|--------:|
-| Salmonella  |       4 |
-| Escherichia |       3 |
-| Citrobacter |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (8) | Enterobacteriaceae (8) | Escherichia (3) |
+|                      |                        | Salmonella (4)  |
+|                      |                        | Citrobacter (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -6861,22 +5367,12 @@ BAQ01563.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       8 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        6 |
-| Erwiniaceae        |        1 |
-| Morganellaceae     |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Enterobacter |       4 |
-| Escherichia  |       2 |
-| Erwinia      |       1 |
-| Proteus      |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (8) | Enterobacteriaceae (6) | Escherichia (2)  |
+|                      |                        | Enterobacter (4) |
+|                      | Erwiniaceae (1)        | Erwinia (1)      |
+|                      | Morganellaceae (1)     | Proteus (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -6914,22 +5410,13 @@ AFW04837.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       8 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        7 |
-| Hafniaceae         |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       3 |
-| Salmonella   |       2 |
-| Buttiauxella |       1 |
-| Citrobacter  |       1 |
-| Hafnia       |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (8) | Enterobacteriaceae (7) | Escherichia (3)  |
+|                      |                        | Salmonella (2)   |
+|                      |                        | Citrobacter (1)  |
+|                      |                        | Buttiauxella (1) |
+|                      | Hafniaceae (1)         | Hafnia (1)       |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -6967,25 +5454,14 @@ BAQ01516.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       6 |
-| Alteromonadales  |       1 |
-| Moraxellales     |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-| Morganellaceae     |        2 |
-| Moraxellaceae      |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Escherichia   |       2 |
-| Providencia   |       2 |
-| Acinetobacter |       1 |
-| Cedecea       |       1 |
-| Motilimonas   |       1 |
+| order                | family                 | genus             |
+|:---------------------|:-----------------------|:------------------|
+| Moraxellales (1)     | Moraxellaceae (1)      | Acinetobacter (1) |
+| Enterobacterales (6) | Enterobacteriaceae (4) | Escherichia (2)   |
+|                      |                        | nan (1)           |
+|                      |                        | Cedecea (1)       |
+|                      | Morganellaceae (2)     | Providencia (2)   |
+| Alteromonadales (1)  | nan (1)                | Motilimonas (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -7038,17 +5514,9 @@ CAI33188.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       8 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |        8 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |       8 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (8) | Streptococcaceae (8) | Streptococcus (8) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -7086,24 +5554,13 @@ AAL27327.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       7 |
-| Alteromonadales  |       1 |
-
-|                        |   family |
-|:-----------------------|---------:|
-| Enterobacteriaceae     |        6 |
-| Erwiniaceae            |        1 |
-| Pseudoalteromonadaceae |        1 |
-
-|                   |   genus |
-|:------------------|--------:|
-| Escherichia       |       3 |
-| Enterobacter      |       2 |
-| Erwinia           |       1 |
-| Pseudoalteromonas |       1 |
-| Shigella          |       1 |
+| order                | family                     | genus                 |
+|:---------------------|:---------------------------|:----------------------|
+| Enterobacterales (7) | Enterobacteriaceae (6)     | Escherichia (3)       |
+|                      |                            | Shigella (1)          |
+|                      |                            | Enterobacter (2)      |
+|                      | Erwiniaceae (1)            | Erwinia (1)           |
+| Alteromonadales (1)  | Pseudoalteromonadaceae (1) | Pseudoalteromonas (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -7129,21 +5586,13 @@ Total number of members in cluster: 8
 
 #### Taxonomy:
 
-|               |   order |
-|:--------------|--------:|
-| Eubacteriales |       7 |
-
-|                 |   family |
-|:----------------|---------:|
-| Lachnospiraceae |        5 |
-| Eubacteriaceae  |        1 |
-
-|                 |   genus |
-|:----------------|--------:|
-| Bariatricus     |       1 |
-| Enterocloster   |       1 |
-| Eubacterium     |       1 |
-| Sedimentibacter |       1 |
+| order             | family              | genus               |
+|:------------------|:--------------------|:--------------------|
+| Eubacteriales (7) | Lachnospiraceae (5) | nan (4)             |
+|                   |                     | Enterocloster (1)   |
+|                   |                     | Bariatricus (1)     |
+|                   | Eubacteriaceae (1)  | Eubacterium (1)     |
+| nan (1)           | nan (2)             | Sedimentibacter (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -7176,23 +5625,12 @@ AAK64372.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       7 |
-| Flavobacteriales |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        6 |
-| Flavobacteriaceae  |        1 |
-| Hafniaceae         |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Enterobacter  |       3 |
-| Escherichia   |       3 |
-| Hafnia        |       1 |
-| Tenacibaculum |       1 |
+| order                | family                 | genus             |
+|:---------------------|:-----------------------|:------------------|
+| Enterobacterales (7) | Enterobacteriaceae (6) | Escherichia (3)   |
+|                      |                        | Enterobacter (3)  |
+|                      | Hafniaceae (1)         | Hafnia (1)        |
+| Flavobacteriales (1) | Flavobacteriaceae (1)  | Tenacibaculum (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -7220,23 +5658,12 @@ Total number of members in cluster: 8
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-| Pseudomonadales  |       3 |
-| Rhodocyclales    |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-| Pseudomonadaceae   |        3 |
-| Zoogloeaceae       |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       3 |
-| Pseudomonas |       3 |
-| Thauera     |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (3) |
+|                      |                        | nan (1)         |
+| Rhodocyclales (1)    | Zoogloeaceae (1)       | Thauera (1)     |
+| Pseudomonadales (3)  | Pseudomonadaceae (3)   | Pseudomonas (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -7274,22 +5701,12 @@ ACD37006.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       7 |
-| Aeromonadales    |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        7 |
-| Aeromonadaceae     |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       5 |
-| Aeromonas    |       1 |
-| Enterobacter |       1 |
-| Shigella     |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (7) | Enterobacteriaceae (7) | Escherichia (5)  |
+|                      |                        | Shigella (1)     |
+|                      |                        | Enterobacter (1) |
+| Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)    |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -7315,17 +5732,9 @@ Total number of members in cluster: 7
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       7 |
-
-|              |   family |
-|:-------------|---------:|
-| Yersiniaceae |        7 |
-
-|          |   genus |
-|:---------|--------:|
-| Serratia |       7 |
+| order                | family           | genus        |
+|:---------------------|:-----------------|:-------------|
+| Enterobacterales (7) | Yersiniaceae (7) | Serratia (7) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -7360,21 +5769,11 @@ ABI98976.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       6 |
-| Aeromonadales    |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        6 |
-| Aeromonadaceae     |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       5 |
-| Aeromonas    |       1 |
-| Enterobacter |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (6) | Enterobacteriaceae (6) | Escherichia (5)  |
+|                      |                        | Enterobacter (1) |
+| Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)    |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -7401,20 +5800,11 @@ Total number of members in cluster: 7
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       7 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        6 |
-| Hafniaceae         |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       4 |
-| Enterobacter |       2 |
-| Edwardsiella |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (7) | Enterobacteriaceae (6) | Escherichia (4)  |
+|                      |                        | Enterobacter (2) |
+|                      | Hafniaceae (1)         | Edwardsiella (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -7446,20 +5836,12 @@ ABZ79721.1, ABB65530.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       7 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        7 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       3 |
-| Shigella     |       2 |
-| Enterobacter |       1 |
-| Kosakonia    |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (7) | Enterobacteriaceae (7) | Escherichia (3)  |
+|                      |                        | Shigella (2)     |
+|                      |                        | Enterobacter (1) |
+|                      |                        | Kosakonia (1)    |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -7485,27 +5867,13 @@ Total number of members in cluster: 7
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Bacteroidales    |       3 |
-| Flavobacteriales |       2 |
-| Chitinophagales  |       1 |
-| Cytophagales     |       1 |
-
-|                   |   family |
-|:------------------|---------:|
-| Bacteroidaceae    |        3 |
-| Flavobacteriaceae |        2 |
-| Chitinophagaceae  |        1 |
-| Spirosomaceae     |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Bacteroides    |       2 |
-| Flavobacterium |       2 |
-| Chitinophaga   |       1 |
-| Dyadobacter    |       1 |
-| Mediterranea   |       1 |
+| order                | family                | genus              |
+|:---------------------|:----------------------|:-------------------|
+| Flavobacteriales (2) | Flavobacteriaceae (2) | Flavobacterium (2) |
+| Bacteroidales (3)    | Bacteroidaceae (3)    | Bacteroides (2)    |
+|                      |                       | Mediterranea (1)   |
+| Cytophagales (1)     | Spirosomaceae (1)     | Dyadobacter (1)    |
+| Chitinophagales (1)  | Chitinophagaceae (1)  | Chitinophaga (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -7538,20 +5906,11 @@ AAY28249.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       7 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        6 |
-| Morganellaceae     |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       4 |
-| Enterobacter |       2 |
-| Proteus      |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (7) | Enterobacteriaceae (6) | Escherichia (4)  |
+|                      |                        | Enterobacter (2) |
+|                      | Morganellaceae (1)     | Proteus (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -7592,18 +5951,10 @@ ACD37051.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       7 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        7 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       6 |
-| Shigella    |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (7) | Enterobacteriaceae (7) | Escherichia (6) |
+|                      |                        | Shigella (1)    |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -7634,24 +5985,14 @@ BAQ00569.1:
 
 #### Taxonomy:
 
-|                   |   order |
-|:------------------|--------:|
-| Enterobacterales  |       6 |
-| Campylobacterales |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        6 |
-| Arcobacteraceae    |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Escherichia   |       2 |
-| Aliarcobacter |       1 |
-| Citrobacter   |       1 |
-| Enterobacter  |       1 |
-| Klebsiella    |       1 |
-| Salmonella    |       1 |
+| order                 | family                 | genus             |
+|:----------------------|:-----------------------|:------------------|
+| Enterobacterales (6)  | Enterobacteriaceae (6) | Escherichia (2)   |
+|                       |                        | Salmonella (1)    |
+|                       |                        | Citrobacter (1)   |
+|                       |                        | Klebsiella (1)    |
+|                       |                        | Enterobacter (1)  |
+| Campylobacterales (1) | Arcobacteraceae (1)    | Aliarcobacter (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -7689,22 +6030,12 @@ ACD37111.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       6 |
-| Aeromonadales    |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        6 |
-| Aeromonadaceae     |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       3 |
-| Shigella    |       2 |
-| Aeromonas   |       1 |
-| Citrobacter |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (6) | Enterobacteriaceae (6) | Escherichia (3) |
+|                      |                        | Shigella (2)    |
+|                      |                        | Citrobacter (1) |
+| Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -7735,20 +6066,12 @@ BAQ01218.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       7 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        7 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       3 |
-| Citrobacter  |       2 |
-| Cedecea      |       1 |
-| Enterobacter |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (7) | Enterobacteriaceae (7) | Escherichia (3)  |
+|                      |                        | Enterobacter (1) |
+|                      |                        | Citrobacter (2)  |
+|                      |                        | Cedecea (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -7779,18 +6102,10 @@ BAQ02116.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       7 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        7 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       5 |
-| Enterobacter |       2 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (7) | Enterobacteriaceae (7) | Escherichia (5)  |
+|                      |                        | Enterobacter (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -7828,22 +6143,13 @@ AFW04790.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       7 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        5 |
-| Morganellaceae     |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Citrobacter |       2 |
-| Escherichia |       2 |
-| Proteus     |       1 |
-| Salmonella  |       1 |
-| Xenorhabdus |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (7) | Enterobacteriaceae (5) | Escherichia (2) |
+|                      |                        | Salmonella (1)  |
+|                      |                        | Citrobacter (2) |
+|                      | Morganellaceae (2)     | Proteus (1)     |
+|                      |                        | Xenorhabdus (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -7879,23 +6185,12 @@ ACK44379.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       5 |
-| Burkholderiales  |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        3 |
-| Burkholderiaceae   |        2 |
-| Morganellaceae     |        2 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       3 |
-| Morganella   |       2 |
-| Burkholderia |       1 |
-| Caballeronia |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (5) | Enterobacteriaceae (3) | Escherichia (3)  |
+|                      | Morganellaceae (2)     | Morganella (2)   |
+| Burkholderiales (2)  | Burkholderiaceae (2)   | Burkholderia (1) |
+|                      |                        | Caballeronia (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -7921,22 +6216,11 @@ Total number of members in cluster: 7
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       6 |
-| Vibrionales      |       1 |
-
-|                |   family |
-|:---------------|---------:|
-| Yersiniaceae   |        4 |
-| Morganellaceae |        2 |
-| Vibrionaceae   |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Yersinia       |       4 |
-| Photorhabdus   |       2 |
-| Photobacterium |       1 |
+| order                | family             | genus              |
+|:---------------------|:-------------------|:-------------------|
+| Enterobacterales (6) | Yersiniaceae (4)   | Yersinia (4)       |
+|                      | Morganellaceae (2) | Photorhabdus (2)   |
+| Vibrionales (1)      | Vibrionaceae (1)   | Photobacterium (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -7963,19 +6247,11 @@ Total number of members in cluster: 7
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       7 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        7 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       3 |
-| Salmonella  |       3 |
-| Citrobacter |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (7) | Enterobacteriaceae (7) | Salmonella (3)  |
+|                      |                        | Citrobacter (1) |
+|                      |                        | Escherichia (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8020,17 +6296,9 @@ CAI33389.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       7 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |        7 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |       7 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (7) | Streptococcaceae (7) | Streptococcus (7) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8068,22 +6336,11 @@ ABB29916.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       5 |
-| Vibrionales      |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-| Vibrionaceae       |        2 |
-| Morganellaceae     |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       4 |
-| Vibrio      |       2 |
-| Providencia |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (5) | Enterobacteriaceae (4) | Escherichia (4) |
+|                      | Morganellaceae (1)     | Providencia (1) |
+| Vibrionales (2)      | Vibrionaceae (2)       | Vibrio (2)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8117,19 +6374,11 @@ AFE83402.1, WP_001300154.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       7 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        7 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       4 |
-| Salmonella  |       2 |
-| Citrobacter |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (7) | Enterobacteriaceae (7) | Escherichia (4) |
+|                      |                        | Citrobacter (1) |
+|                      |                        | Salmonella (2)  |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8158,17 +6407,9 @@ Total number of members in cluster: 7
 
 #### Taxonomy:
 
-|              |   order |
-|:-------------|--------:|
-| Moraxellales |       7 |
-
-|               |   family |
-|:--------------|---------:|
-| Moraxellaceae |        7 |
-
-|               |   genus |
-|:--------------|--------:|
-| Acinetobacter |       7 |
+| order            | family            | genus             |
+|:-----------------|:------------------|:------------------|
+| Moraxellales (7) | Moraxellaceae (7) | Acinetobacter (7) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8195,21 +6436,11 @@ Total number of members in cluster: 7
 
 #### Taxonomy:
 
-|                    |   order |
-|:-------------------|--------:|
-| Moraxellales       |       4 |
-| Sphingobacteriales |       3 |
-
-|                     |   family |
-|:--------------------|---------:|
-| Moraxellaceae       |        4 |
-| Sphingobacteriaceae |        3 |
-
-|                  |   genus |
-|:-----------------|--------:|
-| Acinetobacter    |       4 |
-| Pedobacter       |       2 |
-| Mucilaginibacter |       1 |
+| order                  | family                  | genus                |
+|:-----------------------|:------------------------|:---------------------|
+| Moraxellales (4)       | Moraxellaceae (4)       | Acinetobacter (4)    |
+| Sphingobacteriales (3) | Sphingobacteriaceae (3) | Mucilaginibacter (1) |
+|                        |                         | Pedobacter (2)       |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8242,18 +6473,10 @@ BAQ01960.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       7 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        7 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       4 |
-| Enterobacter |       3 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (7) | Enterobacteriaceae (7) | Escherichia (4)  |
+|                      |                        | Enterobacter (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8289,18 +6512,10 @@ BAQ01012.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       7 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        7 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       5 |
-| Enterobacter |       2 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (7) | Enterobacteriaceae (7) | Escherichia (5)  |
+|                      |                        | Enterobacter (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8333,20 +6548,11 @@ BAQ01917.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       6 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-| Morganellaceae     |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       4 |
-| Proteus     |       1 |
-| Providencia |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (6) | Enterobacteriaceae (4) | Escherichia (4) |
+|                      | Morganellaceae (2)     | Proteus (1)     |
+|                      |                        | Providencia (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8384,18 +6590,10 @@ BAQ01687.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       6 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        6 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       5 |
-| Enterobacter |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (6) | Enterobacteriaceae (6) | Escherichia (5)  |
+|                      |                        | Enterobacter (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8426,21 +6624,11 @@ BAQ01456.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-| Aeromonadales    |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-| Aeromonadaceae     |        2 |
-
-|              |   genus |
-|:-------------|--------:|
-| Aeromonas    |       2 |
-| Enterobacter |       2 |
-| Escherichia  |       2 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (2)  |
+|                      |                        | Enterobacter (2) |
+| Aeromonadales (2)    | Aeromonadaceae (2)     | Aeromonas (2)    |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8473,20 +6661,11 @@ BAQ00736.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       6 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        5 |
-| Hafniaceae         |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       3 |
-| Enterobacter |       2 |
-| Hafnia       |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (6) | Enterobacteriaceae (5) | Escherichia (3)  |
+|                      |                        | Enterobacter (2) |
+|                      | Hafniaceae (1)         | Hafnia (1)       |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8529,18 +6708,10 @@ AAL27339.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       6 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        6 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       5 |
-| Shigella    |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (6) | Enterobacteriaceae (6) | Escherichia (5) |
+|                      |                        | Shigella (1)    |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8566,24 +6737,12 @@ Total number of members in cluster: 6
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Moraxellales     |       2 |
-| Vibrionales      |       2 |
-| Alteromonadales  |       1 |
-| Hyphomicrobiales |       1 |
-
-|                |   family |
-|:---------------|---------:|
-| Moraxellaceae  |        2 |
-| Vibrionaceae   |        2 |
-| Shewanellaceae |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Psychrobacter |       2 |
-| Vibrio        |       2 |
-| Shewanella    |       1 |
+| order                | family             | genus             |
+|:---------------------|:-------------------|:------------------|
+| Vibrionales (2)      | Vibrionaceae (2)   | Vibrio (2)        |
+| Alteromonadales (1)  | Shewanellaceae (1) | Shewanella (1)    |
+| Moraxellales (2)     | Moraxellaceae (2)  | Psychrobacter (2) |
+| Hyphomicrobiales (1) | nan (1)            | nan (1)           |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8614,19 +6773,10 @@ BAQ00634.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       6 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Morganellaceae     |        4 |
-| Enterobacteriaceae |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Proteus     |       4 |
-| Escherichia |       2 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (6) | Enterobacteriaceae (2) | Escherichia (2) |
+|                      | Morganellaceae (4)     | Proteus (4)     |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8659,17 +6809,9 @@ AHB32334.1:
 
 #### Taxonomy:
 
-|              |   order |
-|:-------------|--------:|
-| Moraxellales |       6 |
-
-|               |   family |
-|:--------------|---------:|
-| Moraxellaceae |        6 |
-
-|               |   genus |
-|:--------------|--------:|
-| Acinetobacter |       6 |
+| order            | family            | genus             |
+|:-----------------|:------------------|:------------------|
+| Moraxellales (6) | Moraxellaceae (6) | Acinetobacter (6) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8705,21 +6847,12 @@ AAR24270.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       6 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-| Morganellaceae     |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       3 |
-| Morganella  |       1 |
-| Proteus     |       1 |
-| Shigella    |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (6) | Enterobacteriaceae (4) | Escherichia (3) |
+|                      |                        | Shigella (1)    |
+|                      | Morganellaceae (2)     | Morganella (1)  |
+|                      |                        | Proteus (1)     |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8752,18 +6885,10 @@ AAD50486.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       6 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        6 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       4 |
-| Enterobacter |       2 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (6) | Enterobacteriaceae (6) | Escherichia (4)  |
+|                      |                        | Enterobacter (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8796,22 +6921,12 @@ ADJ19217.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-| Vibrionales      |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-| Vibrionaceae       |        2 |
-
-|                |   genus |
-|:---------------|--------:|
-| Escherichia    |       3 |
-| Citrobacter    |       1 |
-| Photobacterium |       1 |
-| Vibrio         |       1 |
+| order                | family                 | genus              |
+|:---------------------|:-----------------------|:-------------------|
+| Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (3)    |
+|                      |                        | Citrobacter (1)    |
+| Vibrionales (2)      | Vibrionaceae (2)       | Photobacterium (1) |
+|                      |                        | Vibrio (1)         |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8849,18 +6964,10 @@ ACD37078.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       6 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        6 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       5 |
-| Shigella    |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (6) | Enterobacteriaceae (6) | Escherichia (5) |
+|                      |                        | Shigella (1)    |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8894,20 +7001,11 @@ ACA24829.1, AAS98031.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       6 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        5 |
-| Hafniaceae         |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       4 |
-| Hafnia      |       1 |
-| Shigella    |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (6) | Enterobacteriaceae (5) | Escherichia (4) |
+|                      |                        | Shigella (1)    |
+|                      | Hafniaceae (1)         | Hafnia (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8939,21 +7037,12 @@ AAD44158.1, BAH24292.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       5 |
-| Aeromonadales    |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        5 |
-| Aeromonadaceae     |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       3 |
-| Aeromonas   |       1 |
-| Kluyvera    |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (5) | Enterobacteriaceae (5) | Escherichia (3) |
+|                      |                        | nan (1)         |
+|                      |                        | Kluyvera (1)    |
+| Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -8984,21 +7073,11 @@ ADV17650.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-| Aeromonadales    |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-| Aeromonadaceae     |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Aeromonas   |       2 |
-| Escherichia |       2 |
-| Salmonella  |       2 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (2) |
+|                      |                        | Salmonella (2)  |
+| Aeromonadales (2)    | Aeromonadaceae (2)     | Aeromonas (2)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9029,19 +7108,11 @@ BAQ01293.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       6 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        6 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       4 |
-| Cedecea      |       1 |
-| Enterobacter |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (6) | Enterobacteriaceae (6) | Escherichia (4)  |
+|                      |                        | Enterobacter (1) |
+|                      |                        | Cedecea (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9068,17 +7139,9 @@ Total number of members in cluster: 6
 
 #### Taxonomy:
 
-|              |   order |
-|:-------------|--------:|
-| Moraxellales |       6 |
-
-|               |   family |
-|:--------------|---------:|
-| Moraxellaceae |        6 |
-
-|               |   genus |
-|:--------------|--------:|
-| Acinetobacter |       6 |
+| order            | family            | genus             |
+|:-----------------|:------------------|:------------------|
+| Moraxellales (6) | Moraxellaceae (6) | Acinetobacter (6) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9111,19 +7174,10 @@ BAQ01894.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       6 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-| Hafniaceae         |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       4 |
-| Hafnia      |       2 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (6) | Enterobacteriaceae (4) | Escherichia (4) |
+|                      | Hafniaceae (2)         | Hafnia (2)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9154,24 +7208,12 @@ AAZ20761.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-| Aeromonadales    |       1 |
-| Vibrionales      |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-| Aeromonadaceae     |        1 |
-| Vibrionaceae       |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Enterobacter   |       3 |
-| Aeromonas      |       1 |
-| Escherichia    |       1 |
-| Photobacterium |       1 |
+| order                | family                 | genus              |
+|:---------------------|:-----------------------|:-------------------|
+| Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (1)    |
+|                      |                        | Enterobacter (3)   |
+| Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)      |
+| Vibrionales (1)      | Vibrionaceae (1)       | Photobacterium (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9198,20 +7240,11 @@ Total number of members in cluster: 6
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       6 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Lactobacillaceae |        4 |
-| Streptococcaceae |        2 |
-
-|                     |   genus |
-|:--------------------|--------:|
-| Lactobacillus       |       2 |
-| Limosilactobacillus |       2 |
-| Streptococcus       |       2 |
+| order               | family               | genus                   |
+|:--------------------|:---------------------|:------------------------|
+| Lactobacillales (6) | Streptococcaceae (2) | Streptococcus (2)       |
+|                     | Lactobacillaceae (4) | Limosilactobacillus (2) |
+|                     |                      | Lactobacillus (2)       |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9242,19 +7275,11 @@ BAQ02015.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       6 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        6 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       4 |
-| Enterobacter |       1 |
-| Trabulsiella |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (6) | Enterobacteriaceae (6) | Escherichia (4)  |
+|                      |                        | Trabulsiella (1) |
+|                      |                        | Enterobacter (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9280,25 +7305,12 @@ Total number of members in cluster: 6
 
 #### Taxonomy:
 
-|                   |   order |
-|:------------------|--------:|
-| Vibrionales       |       3 |
-| Oceanospirillales |       1 |
-| Pseudomonadales   |       1 |
-| Thiotrichales     |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Vibrionaceae       |        3 |
-| Marinobacteraceae  |        1 |
-| Oceanospirillaceae |        1 |
-| Thiotrichaceae     |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Vibrio       |       3 |
-| Marinobacter |       1 |
-| Marinomonas  |       1 |
+| order                 | family                 | genus            |
+|:----------------------|:-----------------------|:-----------------|
+| Thiotrichales (1)     | Thiotrichaceae (1)     | nan (1)          |
+| Vibrionales (3)       | Vibrionaceae (3)       | Vibrio (3)       |
+| Pseudomonadales (1)   | Marinobacteraceae (1)  | Marinobacter (1) |
+| Oceanospirillales (1) | Oceanospirillaceae (1) | Marinomonas (1)  |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9325,23 +7337,11 @@ Total number of members in cluster: 6
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Moraxellales    |       4 |
-| Aeromonadales   |       1 |
-| Alteromonadales |       1 |
-
-|                        |   family |
-|:-----------------------|---------:|
-| Moraxellaceae          |        4 |
-| Aeromonadaceae         |        1 |
-| Pseudoalteromonadaceae |        1 |
-
-|                   |   genus |
-|:------------------|--------:|
-| Acinetobacter     |       4 |
-| Aeromonas         |       1 |
-| Pseudoalteromonas |       1 |
+| order               | family                     | genus                 |
+|:--------------------|:---------------------------|:----------------------|
+| Moraxellales (4)    | Moraxellaceae (4)          | Acinetobacter (4)     |
+| Alteromonadales (1) | Pseudoalteromonadaceae (1) | Pseudoalteromonas (1) |
+| Aeromonadales (1)   | Aeromonadaceae (1)         | Aeromonas (1)         |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9372,18 +7372,10 @@ ADC54974.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       6 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        6 |
-
-|             |   genus |
-|:------------|--------:|
-| Salmonella  |       4 |
-| Escherichia |       2 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (6) | Enterobacteriaceae (6) | Escherichia (2) |
+|                      |                        | Salmonella (4)  |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9409,17 +7401,9 @@ Total number of members in cluster: 6
 
 #### Taxonomy:
 
-|             |   order |
-|:------------|--------:|
-| Vibrionales |       6 |
-
-|              |   family |
-|:-------------|---------:|
-| Vibrionaceae |        6 |
-
-|        |   genus |
-|:-------|--------:|
-| Vibrio |       6 |
+| order           | family           | genus      |
+|:----------------|:-----------------|:-----------|
+| Vibrionales (6) | Vibrionaceae (6) | Vibrio (6) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9450,29 +7434,13 @@ ADB02825.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-| Bacteroidales    |       1 |
-| Neisseriales     |       1 |
-| Sphingomonadales |       1 |
-| Vibrionales      |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-| Chromobacteriaceae |        1 |
-| Erythrobacteraceae |        1 |
-| Tannerellaceae     |        1 |
-| Vibrionaceae       |        1 |
-
-|                 |   genus |
-|:----------------|--------:|
-| Escherichia     |       2 |
-| Chromobacterium |       1 |
-| Parabacteroides |       1 |
-| Porphyrobacter  |       1 |
-| Vibrio          |       1 |
+| order                | family                 | genus               |
+|:---------------------|:-----------------------|:--------------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2)     |
+| Vibrionales (1)      | Vibrionaceae (1)       | Vibrio (1)          |
+| Neisseriales (1)     | Chromobacteriaceae (1) | Chromobacterium (1) |
+| Sphingomonadales (1) | Erythrobacteraceae (1) | Porphyrobacter (1)  |
+| Bacteroidales (1)    | Tannerellaceae (1)     | Parabacteroides (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9505,20 +7473,11 @@ ABI34565.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       6 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-| Hafniaceae         |        2 |
-
-|              |   genus |
-|:-------------|--------:|
-| Escherichia  |       3 |
-| Hafnia       |       2 |
-| Enterobacter |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (6) | Enterobacteriaceae (4) | Escherichia (3)  |
+|                      |                        | Enterobacter (1) |
+|                      | Hafniaceae (2)         | Hafnia (2)       |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9544,20 +7503,13 @@ Total number of members in cluster: 6
 
 #### Taxonomy:
 
-|               |   order |
-|:--------------|--------:|
-| Eubacteriales |       5 |
-
-|                 |   family |
-|:----------------|---------:|
-| Lachnospiraceae |        3 |
-| Clostridiaceae  |        1 |
-
-|                    |   genus |
-|:-------------------|--------:|
-| Mediterraneibacter |       2 |
-| Blautia            |       1 |
-| Clostridium        |       1 |
+| order             | family              | genus                  |
+|:------------------|:--------------------|:-----------------------|
+| Eubacteriales (5) | nan (1)             | nan (1)                |
+|                   | Lachnospiraceae (3) | Mediterraneibacter (2) |
+|                   |                     | Blautia (1)            |
+|                   | Clostridiaceae (1)  | Clostridium (1)        |
+| nan (1)           | nan (1)             | nan (1)                |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9588,21 +7540,12 @@ BAQ01266.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       6 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-| Hafniaceae         |        2 |
-
-|                 |   genus |
-|:----------------|--------:|
-| Escherichia     |       3 |
-| Citrobacter     |       1 |
-| Hafnia          |       1 |
-| Obesumbacterium |       1 |
+| order                | family                 | genus               |
+|:---------------------|:-----------------------|:--------------------|
+| Enterobacterales (6) | Enterobacteriaceae (4) | Escherichia (3)     |
+|                      |                        | Citrobacter (1)     |
+|                      | Hafniaceae (2)         | Hafnia (1)          |
+|                      |                        | Obesumbacterium (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9635,22 +7578,11 @@ AAT77177.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-| Moraxellales     |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-| Moraxellaceae      |        2 |
-| Budviciaceae       |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Acinetobacter |       2 |
-| Escherichia   |       2 |
-| Pragia        |       1 |
+| order                | family                 | genus             |
+|:---------------------|:-----------------------|:------------------|
+| Enterobacterales (3) | Enterobacteriaceae (2) | Escherichia (2)   |
+|                      | Budviciaceae (1)       | Pragia (1)        |
+| Moraxellales (2)     | Moraxellaceae (2)      | Acinetobacter (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9676,18 +7608,10 @@ Total number of members in cluster: 5
 
 #### Taxonomy:
 
-|             |   order |
-|:------------|--------:|
-| Vibrionales |       5 |
-
-|              |   family |
-|:-------------|---------:|
-| Vibrionaceae |        5 |
-
-|            |   genus |
-|:-----------|--------:|
-| Vibrio     |       4 |
-| Aliivibrio |       1 |
+| order           | family           | genus          |
+|:----------------|:-----------------|:---------------|
+| Vibrionales (5) | Vibrionaceae (5) | Vibrio (4)     |
+|                 |                  | Aliivibrio (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9718,23 +7642,12 @@ BAQ00780.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-| Vibrionales      |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-| Vibrionaceae       |        2 |
-| Morganellaceae     |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
-| Aliivibrio  |       1 |
-| Proteus     |       1 |
-| Vibrio      |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (3) | Enterobacteriaceae (2) | Escherichia (2) |
+|                      | Morganellaceae (1)     | Proteus (1)     |
+| Vibrionales (2)      | Vibrionaceae (2)       | Vibrio (1)      |
+|                      |                        | Aliivibrio (1)  |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9761,17 +7674,9 @@ Total number of members in cluster: 5
 
 #### Taxonomy:
 
-|              |   order |
-|:-------------|--------:|
-| Moraxellales |       5 |
-
-|               |   family |
-|:--------------|---------:|
-| Moraxellaceae |        5 |
-
-|               |   genus |
-|:--------------|--------:|
-| Acinetobacter |       5 |
+| order            | family            | genus             |
+|:-----------------|:------------------|:------------------|
+| Moraxellales (5) | Moraxellaceae (5) | Acinetobacter (5) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9810,17 +7715,9 @@ CAI32910.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       5 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |        5 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |       5 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (5) | Streptococcaceae (5) | Streptococcus (5) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9851,17 +7748,9 @@ CAI32727.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       5 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |        5 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |       5 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (5) | Streptococcaceae (5) | Streptococcus (5) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9892,19 +7781,11 @@ ACA24912.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       5 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        5 |
-
-|              |   genus |
-|:-------------|--------:|
-| Enterobacter |       2 |
-| Escherichia  |       2 |
-| Shigella     |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (5) | Enterobacteriaceae (5) | Shigella (1)     |
+|                      |                        | Escherichia (2)  |
+|                      |                        | Enterobacter (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9930,19 +7811,10 @@ Total number of members in cluster: 5
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       5 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-| Budviciaceae       |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Enterobacter   |       4 |
-| Jinshanibacter |       1 |
+| order                | family                 | genus              |
+|:---------------------|:-----------------------|:-------------------|
+| Enterobacterales (5) | Enterobacteriaceae (4) | Enterobacter (4)   |
+|                      | Budviciaceae (1)       | Jinshanibacter (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -9975,23 +7847,11 @@ BAQ01641.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-| Vibrionales      |       2 |
-| Aeromonadales    |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-| Vibrionaceae       |        2 |
-| Aeromonadaceae     |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Escherichia    |       2 |
-| Photobacterium |       2 |
-| Aeromonas      |       1 |
+| order                | family                 | genus              |
+|:---------------------|:-----------------------|:-------------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2)    |
+| Vibrionales (2)      | Vibrionaceae (2)       | Photobacterium (2) |
+| Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10017,18 +7877,10 @@ Total number of members in cluster: 5
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       5 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Lactobacillaceae |        5 |
-
-|                    |   genus |
-|:-------------------|--------:|
-| Loigolactobacillus |       4 |
-| Lactobacillus      |       1 |
+| order               | family               | genus                  |
+|:--------------------|:---------------------|:-----------------------|
+| Lactobacillales (5) | Lactobacillaceae (5) | Lactobacillus (1)      |
+|                     |                      | Loigolactobacillus (4) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10057,17 +7909,9 @@ Total number of members in cluster: 5
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       5 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |        5 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |       5 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (5) | Streptococcaceae (5) | Streptococcus (5) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10098,20 +7942,11 @@ BAQ01999.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       5 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        3 |
-| Morganellaceae     |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       3 |
-| Proteus     |       1 |
-| Providencia |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (5) | Enterobacteriaceae (3) | Escherichia (3) |
+|                      | Morganellaceae (2)     | Proteus (1)     |
+|                      |                        | Providencia (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10142,18 +7977,10 @@ AFW04860.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       5 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        5 |
-
-|             |   genus |
-|:------------|--------:|
-| Salmonella  |       3 |
-| Escherichia |       2 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (5) | Enterobacteriaceae (5) | Salmonella (3)  |
+|                      |                        | Escherichia (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10179,24 +8006,12 @@ Total number of members in cluster: 5
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-| Vibrionales      |       1 |
-
-|                |   family |
-|:---------------|---------:|
-| Hafniaceae     |        2 |
-| Morganellaceae |        1 |
-| Vibrionaceae   |        1 |
-| Yersiniaceae   |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Edwardsiella |       2 |
-| Providencia  |       1 |
-| Vibrio       |       1 |
-| Yersinia     |       1 |
+| order                | family             | genus            |
+|:---------------------|:-------------------|:-----------------|
+| Vibrionales (1)      | Vibrionaceae (1)   | Vibrio (1)       |
+| Enterobacterales (4) | Hafniaceae (2)     | Edwardsiella (2) |
+|                      | Yersiniaceae (1)   | Yersinia (1)     |
+|                      | Morganellaceae (1) | Providencia (1)  |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10222,19 +8037,11 @@ Total number of members in cluster: 5
 
 #### Taxonomy:
 
-|               |   order |
-|:--------------|--------:|
-| Bacteroidales |       5 |
-
-|                |   family |
-|:---------------|---------:|
-| Bacteroidaceae |        3 |
-| Muribaculaceae |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Bacteroides |       2 |
-| Phocaeicola |       1 |
+| order             | family             | genus           |
+|:------------------|:-------------------|:----------------|
+| Bacteroidales (5) | Bacteroidaceae (3) | Phocaeicola (1) |
+|                   |                    | Bacteroides (2) |
+|                   | Muribaculaceae (2) | nan (2)         |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10279,20 +8086,10 @@ CAX18360.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-| Vibrionales      |       1 |
-
-|              |   family |
-|:-------------|---------:|
-| Yersiniaceae |        4 |
-| Vibrionaceae |        1 |
-
-|          |   genus |
-|:---------|--------:|
-| Yersinia |       4 |
-| Vibrio   |       1 |
+| order                | family           | genus        |
+|:---------------------|:-----------------|:-------------|
+| Enterobacterales (4) | Yersiniaceae (4) | Yersinia (4) |
+| Vibrionales (1)      | Vibrionaceae (1) | Vibrio (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10326,17 +8123,9 @@ ABE98419.1, ADN43845.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       5 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        5 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       5 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (5) | Enterobacteriaceae (5) | Escherichia (5) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10373,17 +8162,9 @@ ACH97143.1, ABE98413.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       5 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        5 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       5 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (5) | Enterobacteriaceae (5) | Escherichia (5) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10410,22 +8191,12 @@ Total number of members in cluster: 5
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       5 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-| Yersiniaceae       |        2 |
-| Morganellaceae     |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Yersinia    |       2 |
-| Cedecea     |       1 |
-| Escherichia |       1 |
-| Xenorhabdus |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (5) | Yersiniaceae (2)       | Yersinia (2)    |
+|                      | Enterobacteriaceae (2) | Escherichia (1) |
+|                      |                        | Cedecea (1)     |
+|                      | Morganellaceae (1)     | Xenorhabdus (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10456,20 +8227,12 @@ CAI33466.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Eubacteriales   |       3 |
-| Lactobacillales |       2 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |        2 |
-| Lachnospiraceae  |        1 |
-| Oscillospiraceae |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |       2 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (2) | Streptococcaceae (2) | Streptococcus (2) |
+| Eubacteriales (3)   | Lachnospiraceae (1)  | nan (1)           |
+|                     | nan (1)              | nan (1)           |
+|                     | Oscillospiraceae (1) | nan (1)           |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10502,21 +8265,11 @@ BAQ01207.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       5 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        3 |
-| Erwiniaceae        |        1 |
-| Yersiniaceae       |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       3 |
-| Pantoea     |       1 |
-| Yersinia    |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (5) | Enterobacteriaceae (3) | Escherichia (3) |
+|                      | Yersiniaceae (1)       | Yersinia (1)    |
+|                      | Erwiniaceae (1)        | Pantoea (1)     |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10542,26 +8295,13 @@ Total number of members in cluster: 5
 
 #### Taxonomy:
 
-|                   |   order |
-|:------------------|--------:|
-| Xanthomonadales   |       2 |
-| Moraxellales      |       1 |
-| Oceanospirillales |       1 |
-| Pseudomonadales   |       1 |
-
-|                   |   family |
-|:------------------|---------:|
-| Xanthomonadaceae  |        2 |
-| Halomonadaceae    |        1 |
-| Marinobacteraceae |        1 |
-| Moraxellaceae     |        1 |
-
-|                  |   genus |
-|:-----------------|--------:|
-| Halomonas        |       1 |
-| Lysobacter       |       1 |
-| Marinobacter     |       1 |
-| Stenotrophomonas |       1 |
+| order                 | family                | genus                |
+|:----------------------|:----------------------|:---------------------|
+| Pseudomonadales (1)   | Marinobacteraceae (1) | Marinobacter (1)     |
+| Oceanospirillales (1) | Halomonadaceae (1)    | Halomonas (1)        |
+| Xanthomonadales (2)   | Xanthomonadaceae (2)  | Stenotrophomonas (1) |
+|                       |                       | Lysobacter (1)       |
+| Moraxellales (1)      | Moraxellaceae (1)     | nan (1)              |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10592,17 +8332,9 @@ CAI33441.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       5 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |        5 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |       5 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (5) | Streptococcaceae (5) | Streptococcus (5) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10633,20 +8365,11 @@ ACD37126.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       5 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-| Hafniaceae         |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
-| Shigella    |       2 |
-| Hafnia      |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (5) | Enterobacteriaceae (4) | Shigella (2)    |
+|                      |                        | Escherichia (2) |
+|                      | Hafniaceae (1)         | Hafnia (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10673,17 +8396,9 @@ Total number of members in cluster: 5
 
 #### Taxonomy:
 
-|              |   order |
-|:-------------|--------:|
-| Moraxellales |       5 |
-
-|               |   family |
-|:--------------|---------:|
-| Moraxellaceae |        5 |
-
-|               |   genus |
-|:--------------|--------:|
-| Acinetobacter |       5 |
+| order            | family            | genus             |
+|:-----------------|:------------------|:------------------|
+| Moraxellales (5) | Moraxellaceae (5) | Acinetobacter (5) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10711,17 +8426,9 @@ Total number of members in cluster: 5
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       5 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |        5 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |       5 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (5) | Streptococcaceae (5) | Streptococcus (5) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10748,22 +8455,11 @@ Total number of members in cluster: 5
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       3 |
-| Bacteroidales   |       2 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |        3 |
-| Bacteroidaceae   |        1 |
-| Muribaculaceae   |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |       3 |
-| Bacteroides   |       1 |
-| Duncaniella   |       1 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (3) | Streptococcaceae (3) | Streptococcus (3) |
+| Bacteroidales (2)   | Bacteroidaceae (1)   | Bacteroides (1)   |
+|                     | Muribaculaceae (1)   | Duncaniella (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10794,17 +8490,9 @@ BAQ01584.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       4 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (4) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10837,20 +8525,10 @@ BAQ00893.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-| Aeromonadales    |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        3 |
-| Aeromonadaceae     |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       3 |
-| Aeromonas   |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (3) |
+| Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10876,19 +8554,10 @@ Total number of members in cluster: 4
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       4 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Lactobacillaceae |        2 |
-| Streptococcaceae |        2 |
-
-|               |   genus |
-|:--------------|--------:|
-| Lactobacillus |       2 |
-| Streptococcus |       2 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (4) | Streptococcaceae (2) | Streptococcus (2) |
+|                     | Lactobacillaceae (2) | Lactobacillus (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10919,19 +8588,10 @@ BAQ02048.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        3 |
-| Morganellaceae     |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       3 |
-| Providencia |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (4) | Enterobacteriaceae (3) | Escherichia (3) |
+|                      | Morganellaceae (1)     | Providencia (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -10957,21 +8617,11 @@ Total number of members in cluster: 4
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Pasteurellales   |       3 |
-| Enterobacterales |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Pasteurellaceae    |        3 |
-| Enterobacteriaceae |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Gallibacterium |       2 |
-| Citrobacter    |       1 |
-| Haemophilus    |       1 |
+| order                | family                 | genus              |
+|:---------------------|:-----------------------|:-------------------|
+| Pasteurellales (3)   | Pasteurellaceae (3)    | Haemophilus (1)    |
+|                      |                        | Gallibacterium (2) |
+| Enterobacterales (1) | Enterobacteriaceae (1) | Citrobacter (1)    |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11002,18 +8652,10 @@ ADC54929.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       3 |
-| Citrobacter |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (3) |
+|                      |                        | Citrobacter (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11044,19 +8686,10 @@ ADN43838.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        3 |
-| Erwiniaceae        |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       3 |
-| Erwinia     |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (4) | Enterobacteriaceae (3) | Escherichia (3) |
+|                      | Erwiniaceae (1)        | Erwinia (1)     |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11082,20 +8715,10 @@ Total number of members in cluster: 4
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Aeromonadales    |       2 |
-| Enterobacterales |       2 |
-
-|                |   family |
-|:---------------|---------:|
-| Aeromonadaceae |        2 |
-| Morganellaceae |        2 |
-
-|              |   genus |
-|:-------------|--------:|
-| Aeromonas    |       2 |
-| Photorhabdus |       2 |
+| order                | family             | genus            |
+|:---------------------|:-------------------|:-----------------|
+| Aeromonadales (2)    | Aeromonadaceae (2) | Aeromonas (2)    |
+| Enterobacterales (2) | Morganellaceae (2) | Photorhabdus (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11121,17 +8744,9 @@ Total number of members in cluster: 4
 
 #### Taxonomy:
 
-|               |   order |
-|:--------------|--------:|
-| Eubacteriales |       4 |
-
-|                |   family |
-|:---------------|---------:|
-| Clostridiaceae |        4 |
-
-|             |   genus |
-|:------------|--------:|
-| Clostridium |       4 |
+| order             | family             | genus           |
+|:------------------|:-------------------|:----------------|
+| Eubacteriales (4) | Clostridiaceae (4) | Clostridium (4) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11157,22 +8772,11 @@ Total number of members in cluster: 4
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Alteromonadales |       3 |
-| Vibrionales     |       1 |
-
-|                        |   family |
-|:-----------------------|---------:|
-| Pseudoalteromonadaceae |        2 |
-| Shewanellaceae         |        1 |
-| Vibrionaceae           |        1 |
-
-|                   |   genus |
-|:------------------|--------:|
-| Pseudoalteromonas |       2 |
-| Shewanella        |       1 |
-| Vibrio            |       1 |
+| order               | family                     | genus                 |
+|:--------------------|:---------------------------|:----------------------|
+| Alteromonadales (3) | Shewanellaceae (1)         | Shewanella (1)        |
+|                     | Pseudoalteromonadaceae (2) | Pseudoalteromonas (2) |
+| Vibrionales (1)     | Vibrionaceae (1)           | Vibrio (1)            |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11205,20 +8809,10 @@ BAQ01793.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-| Aeromonadales    |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        3 |
-| Aeromonadaceae     |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       3 |
-| Aeromonas   |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (3) |
+| Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11249,17 +8843,9 @@ AAM27879.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Pseudomonadales |       4 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Pseudomonadaceae |        4 |
-
-|             |   genus |
-|:------------|--------:|
-| Pseudomonas |       4 |
+| order               | family               | genus           |
+|:--------------------|:---------------------|:----------------|
+| Pseudomonadales (4) | Pseudomonadaceae (4) | Pseudomonas (4) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11286,17 +8872,9 @@ Total number of members in cluster: 4
 
 #### Taxonomy:
 
-|              |   order |
-|:-------------|--------:|
-| Moraxellales |       4 |
-
-|               |   family |
-|:--------------|---------:|
-| Moraxellaceae |        4 |
-
-|               |   genus |
-|:--------------|--------:|
-| Acinetobacter |       4 |
+| order            | family            | genus             |
+|:-----------------|:------------------|:------------------|
+| Moraxellales (4) | Moraxellaceae (4) | Acinetobacter (4) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11328,17 +8906,9 @@ CAI34641.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       4 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |        4 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |       4 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (4) | Streptococcaceae (4) | Streptococcus (4) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11367,18 +8937,10 @@ Total number of members in cluster: 4
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-
-|              |   genus |
-|:-------------|--------:|
-| Enterobacter |       2 |
-| Escherichia  |       2 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (2)  |
+|                      |                        | Enterobacter (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11409,22 +8971,11 @@ CAN87666.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-| Vibrionales      |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-| Morganellaceae     |        1 |
-| Vibrionaceae       |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
-| Proteus     |       1 |
-| Vibrio      |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (3) | Enterobacteriaceae (2) | Escherichia (2) |
+|                      | Morganellaceae (1)     | Proteus (1)     |
+| Vibrionales (1)      | Vibrionaceae (1)       | Vibrio (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11450,20 +9001,10 @@ Total number of members in cluster: 4
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Vibrionales     |       3 |
-| Alteromonadales |       1 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Vibrionaceae     |        3 |
-| Alteromonadaceae |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Vibrio         |       3 |
-| Aliagarivorans |       1 |
+| order               | family               | genus              |
+|:--------------------|:---------------------|:-------------------|
+| Alteromonadales (1) | Alteromonadaceae (1) | Aliagarivorans (1) |
+| Vibrionales (3)     | Vibrionaceae (3)     | Vibrio (3)         |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11489,23 +9030,12 @@ Total number of members in cluster: 4
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-| Pseudomonadales  |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-| Erwiniaceae        |        1 |
-| Marinobacteraceae  |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Erwinia      |       1 |
-| Escherichia  |       1 |
-| Lelliottia   |       1 |
-| Marinobacter |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Pseudomonadales (1)  | Marinobacteraceae (1)  | Marinobacter (1) |
+| Enterobacterales (3) | Enterobacteriaceae (2) | Lelliottia (1)   |
+|                      |                        | Escherichia (1)  |
+|                      | Erwiniaceae (1)        | Erwinia (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11538,17 +9068,9 @@ AAZ85718.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       4 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (4) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11579,21 +9101,11 @@ ADI77033.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-| Aeromonadales    |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        3 |
-| Aeromonadaceae     |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
-| Aeromonas   |       1 |
-| Salmonella  |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (2) |
+|                      |                        | Salmonella (1)  |
+| Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11631,17 +9143,9 @@ ADI59445.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-
-|              |   family |
-|:-------------|---------:|
-| Yersiniaceae |        4 |
-
-|          |   genus |
-|:---------|--------:|
-| Yersinia |       4 |
+| order                | family           | genus        |
+|:---------------------|:-----------------|:-------------|
+| Enterobacterales (4) | Yersiniaceae (4) | Yersinia (4) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11674,17 +9178,9 @@ ABA42232.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        3 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       3 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11720,18 +9216,10 @@ ACD36984.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
-| Shigella    |       2 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (2) |
+|                      |                        | Shigella (2)    |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11757,18 +9245,10 @@ Total number of members in cluster: 4
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       3 |
-| Citrobacter |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (4) | Enterobacteriaceae (4) | Citrobacter (1) |
+|                      |                        | Escherichia (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11801,17 +9281,9 @@ BAQ00830.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       4 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (4) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11842,18 +9314,10 @@ AAN60459.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        3 |
-| Budviciaceae       |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       3 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (4) | Enterobacteriaceae (3) | Escherichia (3) |
+|                      | Budviciaceae (1)       | nan (1)         |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11879,20 +9343,10 @@ Total number of members in cluster: 4
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Vibrionales      |       3 |
-| Enterobacterales |       1 |
-
-|              |   family |
-|:-------------|---------:|
-| Vibrionaceae |        3 |
-| Yersiniaceae |        1 |
-
-|        |   genus |
-|:-------|--------:|
-| Vibrio |       3 |
-| Chania |       1 |
+| order                | family           | genus      |
+|:---------------------|:-----------------|:-----------|
+| Enterobacterales (1) | Yersiniaceae (1) | Chania (1) |
+| Vibrionales (3)      | Vibrionaceae (3) | Vibrio (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11918,21 +9372,11 @@ Total number of members in cluster: 4
 
 #### Taxonomy:
 
-|               |   order |
-|:--------------|--------:|
-| Eubacteriales |       4 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Clostridiaceae   |        2 |
-| Lachnospiraceae  |        1 |
-| Oscillospiraceae |        1 |
-
-|                      |   genus |
-|:---------------------|--------:|
-| Clostridium          |       2 |
-| Mediterraneibacter   |       1 |
-| Pseudoflavonifractor |       1 |
+| order             | family               | genus                    |
+|:------------------|:---------------------|:-------------------------|
+| Eubacteriales (4) | Oscillospiraceae (1) | Pseudoflavonifractor (1) |
+|                   | Lachnospiraceae (1)  | Mediterraneibacter (1)   |
+|                   | Clostridiaceae (2)   | Clostridium (2)          |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -11958,19 +9402,10 @@ Total number of members in cluster: 4
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        3 |
-| Yersiniaceae       |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Enterobacter |       3 |
-| Serratia     |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (4) | Enterobacteriaceae (3) | Enterobacter (3) |
+|                      | Yersiniaceae (1)       | Serratia (1)     |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12003,18 +9438,10 @@ BAQ00653.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-
-|              |   genus |
-|:-------------|--------:|
-| Enterobacter |       2 |
-| Escherichia  |       2 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (2)  |
+|                      |                        | Enterobacter (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12040,15 +9467,10 @@ Total number of members in cluster: 4
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Flavobacteriales |       2 |
-
-| family   |
-|----------|
-
-| genus   |
-|---------|
+| order                | family   | genus   |
+|:---------------------|:---------|:--------|
+| nan (2)              | nan (3)  | nan (3) |
+| Flavobacteriales (2) | nan (3)  | nan (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12081,17 +9503,9 @@ BAQ01419.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       4 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (4) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12118,18 +9532,10 @@ Total number of members in cluster: 4
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-
-|             |   genus |
-|:------------|--------:|
-| Shigella    |       3 |
-| Plesiomonas |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (4) | Enterobacteriaceae (4) | Shigella (3)    |
+|                      |                        | Plesiomonas (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12161,18 +9567,10 @@ ACD37046.1, ACD37037.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       4 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        4 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       3 |
-| Shigella    |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (3) |
+|                      |                        | Shigella (1)    |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12203,18 +9601,10 @@ ACD37072.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        3 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
-| Shigella    |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (3) | Enterobacteriaceae (3) | Shigella (1)    |
+|                      |                        | Escherichia (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12243,17 +9633,9 @@ Total number of members in cluster: 3
 
 #### Taxonomy:
 
-|              |   order |
-|:-------------|--------:|
-| Moraxellales |       3 |
-
-|               |   family |
-|:--------------|---------:|
-| Moraxellaceae |        3 |
-
-|               |   genus |
-|:--------------|--------:|
-| Acinetobacter |       3 |
+| order            | family            | genus             |
+|:-----------------|:------------------|:------------------|
+| Moraxellales (3) | Moraxellaceae (3) | Acinetobacter (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12284,20 +9666,11 @@ BAQ01702.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-| Vibrionales      |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-| Vibrionaceae       |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       1 |
-| Vibrio      |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (1) |
+|                      |                        | nan (1)         |
+| Vibrionales (1)      | Vibrionaceae (1)       | Vibrio (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12323,21 +9696,11 @@ Total number of members in cluster: 3
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-| Aeromonadales    |       1 |
-
-|                   |   family |
-|:------------------|---------:|
-| Pectobacteriaceae |        2 |
-| Aeromonadaceae    |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Aeromonas      |       1 |
-| Dickeya        |       1 |
-| Pectobacterium |       1 |
+| order                | family                | genus              |
+|:---------------------|:----------------------|:-------------------|
+| Enterobacterales (2) | Pectobacteriaceae (2) | Dickeya (1)        |
+|                      |                       | Pectobacterium (1) |
+| Aeromonadales (1)    | Aeromonadaceae (1)    | Aeromonas (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12371,18 +9734,10 @@ ABD19779.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        3 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
-| Shigella    |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (2) |
+|                      |                        | Shigella (1)    |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12408,17 +9763,10 @@ Total number of members in cluster: 3
 
 #### Taxonomy:
 
-|                |   order |
-|:---------------|--------:|
-| Pasteurellales |       3 |
-
-|                 |   family |
-|:----------------|---------:|
-| Pasteurellaceae |        3 |
-
-|             |   genus |
-|:------------|--------:|
-| Haemophilus |       2 |
+| order              | family              | genus           |
+|:-------------------|:--------------------|:----------------|
+| Pasteurellales (3) | Pasteurellaceae (3) | Haemophilus (2) |
+|                    |                     | nan (1)         |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12444,19 +9792,11 @@ Total number of members in cluster: 3
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       3 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Lactobacillaceae |        3 |
-
-|                     |   genus |
-|:--------------------|--------:|
-| Lactiplantibacillus |       1 |
-| Leuconostoc         |       1 |
-| Levilactobacillus   |       1 |
+| order               | family               | genus                   |
+|:--------------------|:---------------------|:------------------------|
+| Lactobacillales (3) | Lactobacillaceae (3) | Leuconostoc (1)         |
+|                     |                      | Levilactobacillus (1)   |
+|                     |                      | Lactiplantibacillus (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12482,19 +9822,11 @@ Total number of members in cluster: 3
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-| Burkholderiales  |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-
-|              |   genus |
-|:-------------|--------:|
-| Enterobacter |       1 |
-| Kosakonia    |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Enterobacter (1) |
+|                      |                        | Kosakonia (1)    |
+| Burkholderiales (1)  | nan (1)                | nan (1)          |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12520,17 +9852,9 @@ Total number of members in cluster: 3
 
 #### Taxonomy:
 
-|              |   order |
-|:-------------|--------:|
-| Moraxellales |       3 |
-
-|               |   family |
-|:--------------|---------:|
-| Moraxellaceae |        3 |
-
-|               |   genus |
-|:--------------|--------:|
-| Acinetobacter |       3 |
+| order            | family            | genus             |
+|:-----------------|:------------------|:------------------|
+| Moraxellales (3) | Moraxellaceae (3) | Acinetobacter (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12561,17 +9885,10 @@ BAQ01155.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        3 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (2) |
+|                      |                        | nan (1)         |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12597,17 +9914,9 @@ Total number of members in cluster: 3
 
 #### Taxonomy:
 
-|              |   order |
-|:-------------|--------:|
-| Moraxellales |       3 |
-
-|               |   family |
-|:--------------|---------:|
-| Moraxellaceae |        3 |
-
-|               |   genus |
-|:--------------|--------:|
-| Acinetobacter |       3 |
+| order            | family            | genus             |
+|:-----------------|:------------------|:------------------|
+| Moraxellales (3) | Moraxellaceae (3) | Acinetobacter (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12638,18 +9947,10 @@ AAY28257.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        3 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
-| Kosakonia   |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (2) |
+|                      |                        | Kosakonia (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12675,19 +9976,10 @@ Total number of members in cluster: 3
 
 #### Taxonomy:
 
-|               |   order |
-|:--------------|--------:|
-| Bacteroidales |       3 |
-
-|                |   family |
-|:---------------|---------:|
-| Tannerellaceae |        2 |
-| Bacteroidaceae |        1 |
-
-|                 |   genus |
-|:----------------|--------:|
-| Parabacteroides |       2 |
-| Bacteroides     |       1 |
+| order             | family             | genus               |
+|:------------------|:-------------------|:--------------------|
+| Bacteroidales (3) | Tannerellaceae (2) | Parabacteroides (2) |
+|                   | Bacteroidaceae (1) | Bacteroides (1)     |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12713,21 +10005,11 @@ Total number of members in cluster: 3
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-| Vibrionales      |       1 |
-
-|                |   family |
-|:---------------|---------:|
-| Morganellaceae |        2 |
-| Vibrionaceae   |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Proteus     |       1 |
-| Providencia |       1 |
-| Vibrio      |       1 |
+| order                | family             | genus           |
+|:---------------------|:-------------------|:----------------|
+| Enterobacterales (2) | Morganellaceae (2) | Proteus (1)     |
+|                      |                    | Providencia (1) |
+| Vibrionales (1)      | Vibrionaceae (1)   | Vibrio (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12758,19 +10040,10 @@ BAQ01169.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-| Hafniaceae         |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
-| Hafnia      |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (3) | Enterobacteriaceae (2) | Escherichia (2) |
+|                      | Hafniaceae (1)         | Hafnia (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12796,17 +10069,9 @@ Total number of members in cluster: 3
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        3 |
-
-|              |   genus |
-|:-------------|--------:|
-| Enterobacter |       3 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (3) | Enterobacteriaceae (3) | Enterobacter (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12839,17 +10104,9 @@ CAI32797.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       3 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |        3 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |       3 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (3) | Streptococcaceae (3) | Streptococcus (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12887,17 +10144,9 @@ CAI34475.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       3 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |        3 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |       3 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (3) | Streptococcaceae (3) | Streptococcus (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12923,21 +10172,11 @@ Total number of members in cluster: 3
 
 #### Taxonomy:
 
-|            |   order |
-|:-----------|--------:|
-| Bacillales |       3 |
-
-|                   |   family |
-|:------------------|---------:|
-| Bacillaceae       |        1 |
-| Planococcaceae    |        1 |
-| Staphylococcaceae |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Salicibibacter |       1 |
-| Salinicoccus   |       1 |
-| Sporosarcina   |       1 |
+| order          | family                | genus              |
+|:---------------|:----------------------|:-------------------|
+| Bacillales (3) | Staphylococcaceae (1) | Salinicoccus (1)   |
+|                | Bacillaceae (1)       | Salicibibacter (1) |
+|                | Planococcaceae (1)    | Sporosarcina (1)   |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -12966,17 +10205,9 @@ Total number of members in cluster: 3
 
 #### Taxonomy:
 
-|              |   order |
-|:-------------|--------:|
-| Moraxellales |       3 |
-
-|               |   family |
-|:--------------|---------:|
-| Moraxellaceae |        3 |
-
-|               |   genus |
-|:--------------|--------:|
-| Acinetobacter |       3 |
+| order            | family            | genus             |
+|:-----------------|:------------------|:------------------|
+| Moraxellales (3) | Moraxellaceae (3) | Acinetobacter (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13007,19 +10238,10 @@ ACA24901.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-| Budviciaceae       |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
-| Budvicia    |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (3) | Enterobacteriaceae (2) | Escherichia (2) |
+|                      | Budviciaceae (1)       | Budvicia (1)    |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13045,17 +10267,9 @@ Total number of members in cluster: 3
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       3 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |        3 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |       3 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (3) | Streptococcaceae (3) | Streptococcus (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13086,17 +10300,9 @@ AEP25500.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-
-|              |   family |
-|:-------------|---------:|
-| Yersiniaceae |        3 |
-
-|          |   genus |
-|:---------|--------:|
-| Yersinia |       3 |
+| order                | family           | genus        |
+|:---------------------|:-----------------|:-------------|
+| Enterobacterales (3) | Yersiniaceae (3) | Yersinia (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13129,19 +10335,10 @@ BAQ02088.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-| Hafniaceae         |        1 |
-
-|                 |   genus |
-|:----------------|--------:|
-| Escherichia     |       2 |
-| Obesumbacterium |       1 |
+| order                | family                 | genus               |
+|:---------------------|:-----------------------|:--------------------|
+| Enterobacterales (3) | Enterobacteriaceae (2) | Escherichia (2)     |
+|                      | Hafniaceae (1)         | Obesumbacterium (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13172,19 +10369,10 @@ BAQ00758.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-| Morganellaceae     |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
-| Providencia |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (3) | Enterobacteriaceae (2) | Escherichia (2) |
+|                      | Morganellaceae (1)     | Providencia (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13217,18 +10405,10 @@ ADN43858.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        3 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
-| Citrobacter |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (2) |
+|                      |                        | Citrobacter (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13254,17 +10434,9 @@ Total number of members in cluster: 3
 
 #### Taxonomy:
 
-|             |   order |
-|:------------|--------:|
-| Vibrionales |       3 |
-
-|              |   family |
-|:-------------|---------:|
-| Vibrionaceae |        3 |
-
-|                |   genus |
-|:---------------|--------:|
-| Photobacterium |       3 |
+| order           | family           | genus              |
+|:----------------|:-----------------|:-------------------|
+| Vibrionales (3) | Vibrionaceae (3) | Photobacterium (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13295,22 +10467,11 @@ AFW04847.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-| Vibrionales      |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        1 |
-| Pectobacteriaceae  |        1 |
-| Vibrionaceae       |        1 |
-
-|                |   genus |
-|:---------------|--------:|
-| Pectobacterium |       1 |
-| Photobacterium |       1 |
-| Salmonella     |       1 |
+| order                | family                 | genus              |
+|:---------------------|:-----------------------|:-------------------|
+| Enterobacterales (2) | Enterobacteriaceae (1) | Salmonella (1)     |
+|                      | Pectobacteriaceae (1)  | Pectobacterium (1) |
+| Vibrionales (1)      | Vibrionaceae (1)       | Photobacterium (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13336,17 +10497,9 @@ Total number of members in cluster: 3
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       3 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Lactobacillaceae |        3 |
-
-|                     |   genus |
-|:--------------------|--------:|
-| Lactiplantibacillus |       3 |
+| order               | family               | genus                   |
+|:--------------------|:---------------------|:------------------------|
+| Lactobacillales (3) | Lactobacillaceae (3) | Lactiplantibacillus (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13372,17 +10525,9 @@ Total number of members in cluster: 3
 
 #### Taxonomy:
 
-|              |   order |
-|:-------------|--------:|
-| Moraxellales |       3 |
-
-|               |   family |
-|:--------------|---------:|
-| Moraxellaceae |        3 |
-
-|               |   genus |
-|:--------------|--------:|
-| Acinetobacter |       3 |
+| order            | family            | genus             |
+|:-----------------|:------------------|:------------------|
+| Moraxellales (3) | Moraxellaceae (3) | Acinetobacter (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13408,18 +10553,10 @@ Total number of members in cluster: 3
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       3 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Lactobacillaceae |        3 |
-
-|             |   genus |
-|:------------|--------:|
-| Leuconostoc |       2 |
-| Weissella   |       1 |
+| order               | family               | genus           |
+|:--------------------|:---------------------|:----------------|
+| Lactobacillales (3) | Lactobacillaceae (3) | Weissella (1)   |
+|                     |                      | Leuconostoc (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13450,17 +10587,9 @@ BAQ00927.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        3 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       3 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13491,17 +10620,9 @@ CAI34099.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       3 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |        3 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |       3 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (3) | Streptococcaceae (3) | Streptococcus (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13532,20 +10653,11 @@ BAQ01878.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-| Vibrionales      |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-| Vibrionaceae       |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       1 |
-| Vibrio      |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (1) |
+|                      |                        | nan (1)         |
+| Vibrionales (1)      | Vibrionaceae (1)       | Vibrio (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13578,17 +10690,9 @@ ADN43871.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        3 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       3 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13614,19 +10718,11 @@ Total number of members in cluster: 3
 
 #### Taxonomy:
 
-|               |   order |
-|:--------------|--------:|
-| Eubacteriales |       1 |
-| Neisseriales  |       1 |
-
-|                     |   family |
-|:--------------------|---------:|
-| Chromobacteriaceae  |        1 |
-| Syntrophomonadaceae |        1 |
-
-|         |   genus |
-|:--------|--------:|
-| Deefgea |       1 |
+| order             | family                  | genus       |
+|:------------------|:------------------------|:------------|
+| nan (1)           | nan (1)                 | nan (1)     |
+| Neisseriales (1)  | Chromobacteriaceae (1)  | Deefgea (1) |
+| Eubacteriales (1) | Syntrophomonadaceae (1) | nan (1)     |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13652,20 +10748,11 @@ Total number of members in cluster: 3
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Eubacteriales   |       2 |
-| Lactobacillales |       1 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Enterococcaceae  |        1 |
-| Lachnospiraceae  |        1 |
-| Oscillospiraceae |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Enterococcus |       1 |
+| order               | family               | genus            |
+|:--------------------|:---------------------|:-----------------|
+| Lactobacillales (1) | Enterococcaceae (1)  | Enterococcus (1) |
+| Eubacteriales (2)   | Oscillospiraceae (1) | nan (1)          |
+|                     | Lachnospiraceae (1)  | nan (1)          |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13696,17 +10783,9 @@ BAQ01137.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        3 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       3 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (3) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13732,19 +10811,11 @@ Total number of members in cluster: 3
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       3 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-| Morganellaceae     |        1 |
-
-|              |   genus |
-|:-------------|--------:|
-| Buttiauxella |       1 |
-| Providencia  |       1 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (3) | Enterobacteriaceae (2) | nan (1)          |
+|                      |                        | Buttiauxella (1) |
+|                      | Morganellaceae (1)     | Providencia (1)  |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13770,17 +10841,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Burkholderiales |       2 |
-
-| family   |
-|----------|
-
-|            |   genus |
-|:-----------|--------:|
-| Mitsuaria  |       1 |
-| Roseateles |       1 |
+| order               | family   | genus         |
+|:--------------------|:---------|:--------------|
+| Burkholderiales (2) | nan (2)  | Mitsuaria (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13806,17 +10869,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Flavobacteriales |       2 |
-
-|               |   family |
-|:--------------|---------:|
-| Weeksellaceae |        2 |
-
-|                 |   genus |
-|:----------------|--------:|
-| Elizabethkingia |       2 |
+| order                | family            | genus               |
+|:---------------------|:------------------|:--------------------|
+| Flavobacteriales (2) | Weeksellaceae (2) | Elizabethkingia (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13842,19 +10897,10 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        1 |
-| Hafniaceae         |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Citrobacter |       1 |
-| Hafnia      |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (1) | Citrobacter (1) |
+|                      | Hafniaceae (1)         | Hafnia (1)      |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13885,17 +10931,9 @@ ACH97152.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13921,18 +10959,10 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Coriobacteriales |       2 |
-
-|                   |   family |
-|:------------------|---------:|
-| Atopobiaceae      |        1 |
-| Coriobacteriaceae |        1 |
-
-|           |   genus |
-|:----------|--------:|
-| Olsenella |       1 |
+| order                | family                | genus         |
+|:---------------------|:----------------------|:--------------|
+| Coriobacteriales (2) | Atopobiaceae (1)      | Olsenella (1) |
+|                      | Coriobacteriaceae (1) | nan (1)       |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -13965,17 +10995,9 @@ ADJ19203.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14006,18 +11028,10 @@ AAL27351.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       1 |
-| Shigella    |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Shigella (1)    |
+|                      |                        | Escherichia (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14048,17 +11062,9 @@ CAI32957.1:
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       2 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |        2 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |       2 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (2) | Streptococcaceae (2) | Streptococcus (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14085,17 +11091,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-
-|            |   genus |
-|:-----------|--------:|
-| Salmonella |       2 |
+| order                | family                 | genus          |
+|:---------------------|:-----------------------|:---------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Salmonella (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14121,17 +11119,10 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|              |   order |
-|:-------------|--------:|
-| Neisseriales |       1 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Chromobacteriaceae |        1 |
-
-|                 |   genus |
-|:----------------|--------:|
-| Chromobacterium |       1 |
+| order            | family                 | genus               |
+|:-----------------|:-----------------------|:--------------------|
+| nan (1)          | nan (1)                | nan (1)             |
+| Neisseriales (1) | Chromobacteriaceae (1) | Chromobacterium (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14157,17 +11148,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Pseudomonadales |       2 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Pseudomonadaceae |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Pseudomonas |       2 |
+| order               | family               | genus           |
+|:--------------------|:---------------------|:----------------|
+| Pseudomonadales (2) | Pseudomonadaceae (2) | Pseudomonas (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14193,19 +11176,10 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        1 |
-| Morganellaceae     |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       1 |
-| Providencia |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (1) | Escherichia (1) |
+|                      | Morganellaceae (1)     | Providencia (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14231,17 +11205,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       2 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Lactobacillaceae |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Leuconostoc |       2 |
+| order               | family               | genus           |
+|:--------------------|:---------------------|:----------------|
+| Lactobacillales (2) | Lactobacillaceae (2) | Leuconostoc (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14272,17 +11238,9 @@ ACA24890.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14308,17 +11266,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Coriobacteriales |       2 |
-
-|                   |   family |
-|:------------------|---------:|
-| Coriobacteriaceae |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Collinsella |       2 |
+| order                | family                | genus           |
+|:---------------------|:----------------------|:----------------|
+| Coriobacteriales (2) | Coriobacteriaceae (2) | Collinsella (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14344,20 +11294,10 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Coriobacteriales |       1 |
-| Eggerthellales   |       1 |
-
-|                   |   family |
-|:------------------|---------:|
-| Coriobacteriaceae |        1 |
-| Eggerthellaceae   |        1 |
-
-|             |   genus |
-|:------------|--------:|
-| Collinsella |       1 |
-| Slackia     |       1 |
+| order                | family                | genus           |
+|:---------------------|:----------------------|:----------------|
+| Coriobacteriales (1) | Coriobacteriaceae (1) | Collinsella (1) |
+| Eggerthellales (1)   | Eggerthellaceae (1)   | Slackia (1)     |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14383,17 +11323,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                    |   order |
-|:-------------------|--------:|
-| Erysipelotrichales |       2 |
-
-|                     |   family |
-|:--------------------|---------:|
-| Erysipelotrichaceae |        2 |
-
-|               |   genus |
-|:--------------|--------:|
-| Solobacterium |       2 |
+| order                  | family                  | genus             |
+|:-----------------------|:------------------------|:------------------|
+| Erysipelotrichales (2) | Erysipelotrichaceae (2) | Solobacterium (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14424,17 +11356,9 @@ ADN43883.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14460,17 +11384,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       2 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Streptococcaceae |        2 |
-
-|               |   genus |
-|:--------------|--------:|
-| Streptococcus |       2 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (2) | Streptococcaceae (2) | Streptococcus (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14497,17 +11413,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14533,17 +11441,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|            |   order |
-|:-----------|--------:|
-| Bacillales |       2 |
-
-|             |   family |
-|:------------|---------:|
-| Bacillaceae |        2 |
-
-|          |   genus |
-|:---------|--------:|
-| Bacillus |       2 |
+| order          | family          | genus        |
+|:---------------|:----------------|:-------------|
+| Bacillales (2) | Bacillaceae (2) | Bacillus (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14569,17 +11469,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       2 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Lactobacillaceae |        2 |
-
-|               |   genus |
-|:--------------|--------:|
-| Lactobacillus |       2 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (2) | Lactobacillaceae (2) | Lactobacillus (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14610,17 +11502,9 @@ BAQ01812.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14646,20 +11530,10 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Bacteroidales    |       1 |
-| Flavobacteriales |       1 |
-
-|                   |   family |
-|:------------------|---------:|
-| Flavobacteriaceae |        1 |
-| Odoribacteraceae  |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Butyricimonas |       1 |
-| Polaribacter  |       1 |
+| order                | family                | genus             |
+|:---------------------|:----------------------|:------------------|
+| Bacteroidales (1)    | Odoribacteraceae (1)  | Butyricimonas (1) |
+| Flavobacteriales (1) | Flavobacteriaceae (1) | Polaribacter (1)  |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14685,20 +11559,10 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Eubacteriales   |       1 |
-| Lactobacillales |       1 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Lachnospiraceae  |        1 |
-| Streptococcaceae |        1 |
-
-|                             |   genus |
-|:----------------------------|--------:|
-| Candidatus Pullilachnospira |       1 |
-| Lactococcus                 |       1 |
+| order               | family               | genus                           |
+|:--------------------|:---------------------|:--------------------------------|
+| Lactobacillales (1) | Streptococcaceae (1) | Lactococcus (1)                 |
+| Eubacteriales (1)   | Lachnospiraceae (1)  | Candidatus Pullilachnospira (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14731,19 +11595,10 @@ ADX97403.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-
-|              |   family |
-|:-------------|---------:|
-| Erwiniaceae  |        1 |
-| Yersiniaceae |        1 |
-
-|          |   genus |
-|:---------|--------:|
-| Pantoea  |       1 |
-| Yersinia |       1 |
+| order                | family           | genus        |
+|:---------------------|:-----------------|:-------------|
+| Enterobacterales (2) | Yersiniaceae (1) | Yersinia (1) |
+|                      | Erwiniaceae (1)  | Pantoea (1)  |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14769,17 +11624,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|              |   order |
-|:-------------|--------:|
-| Moraxellales |       2 |
-
-|               |   family |
-|:--------------|---------:|
-| Moraxellaceae |        2 |
-
-|               |   genus |
-|:--------------|--------:|
-| Psychrobacter |       2 |
+| order            | family            | genus             |
+|:-----------------|:------------------|:------------------|
+| Moraxellales (2) | Moraxellaceae (2) | Psychrobacter (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14805,17 +11652,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|             |   order |
-|:------------|--------:|
-| Vibrionales |       2 |
-
-|              |   family |
-|:-------------|---------:|
-| Vibrionaceae |        2 |
-
-|        |   genus |
-|:-------|--------:|
-| Vibrio |       2 |
+| order           | family           | genus      |
+|:----------------|:-----------------|:-----------|
+| Vibrionales (2) | Vibrionaceae (2) | Vibrio (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14848,17 +11687,9 @@ BAQ01780.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14884,20 +11715,10 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Alteromonadales |       1 |
-| Vibrionales     |       1 |
-
-|                |   family |
-|:---------------|---------:|
-| Shewanellaceae |        1 |
-| Vibrionaceae   |        1 |
-
-|            |   genus |
-|:-----------|--------:|
-| Shewanella |       1 |
-| Vibrio     |       1 |
+| order               | family             | genus          |
+|:--------------------|:-------------------|:---------------|
+| Alteromonadales (1) | Shewanellaceae (1) | Shewanella (1) |
+| Vibrionales (1)     | Vibrionaceae (1)   | Vibrio (1)     |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14923,17 +11744,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|             |   order |
-|:------------|--------:|
-| Vibrionales |       2 |
-
-|              |   family |
-|:-------------|---------:|
-| Vibrionaceae |        2 |
-
-|        |   genus |
-|:-------|--------:|
-| Vibrio |       2 |
+| order           | family           | genus      |
+|:----------------|:-----------------|:-----------|
+| Vibrionales (2) | Vibrionaceae (2) | Vibrio (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14959,17 +11772,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|             |   order |
-|:------------|--------:|
-| Vibrionales |       2 |
-
-|              |   family |
-|:-------------|---------:|
-| Vibrionaceae |        2 |
-
-|        |   genus |
-|:-------|--------:|
-| Vibrio |       2 |
+| order           | family           | genus      |
+|:----------------|:-----------------|:-----------|
+| Vibrionales (2) | Vibrionaceae (2) | Vibrio (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -14995,17 +11800,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                    |   order |
-|:-------------------|--------:|
-| Desulfuromonadales |       2 |
-
-|                |   family |
-|:---------------|---------:|
-| Geobacteraceae |        2 |
-
-|           |   genus |
-|:----------|--------:|
-| Geobacter |       2 |
+| order                  | family             | genus         |
+|:-----------------------|:-------------------|:--------------|
+| Desulfuromonadales (2) | Geobacteraceae (2) | Geobacter (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -15031,17 +11828,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|             |   order |
-|:------------|--------:|
-| Vibrionales |       2 |
-
-|              |   family |
-|:-------------|---------:|
-| Vibrionaceae |        2 |
-
-|        |   genus |
-|:-------|--------:|
-| Vibrio |       2 |
+| order           | family           | genus      |
+|:----------------|:-----------------|:-----------|
+| Vibrionales (2) | Vibrionaceae (2) | Vibrio (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -15067,17 +11856,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|              |   order |
-|:-------------|--------:|
-| Moraxellales |       2 |
-
-|               |   family |
-|:--------------|---------:|
-| Moraxellaceae |        2 |
-
-|               |   genus |
-|:--------------|--------:|
-| Acinetobacter |       2 |
+| order            | family            | genus             |
+|:-----------------|:------------------|:------------------|
+| Moraxellales (2) | Moraxellaceae (2) | Acinetobacter (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -15108,17 +11889,9 @@ BAQ01114.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -15151,17 +11924,9 @@ AIG62747.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -15187,17 +11952,10 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|               |   order |
-|:--------------|--------:|
-| Eubacteriales |       1 |
-
-|                 |   family |
-|:----------------|---------:|
-| Lachnospiraceae |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Anaerocolumna |       1 |
+| order             | family              | genus             |
+|:------------------|:--------------------|:------------------|
+| Eubacteriales (1) | Lachnospiraceae (1) | Anaerocolumna (1) |
+| nan (1)           | nan (1)             | nan (1)           |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -15223,17 +11981,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Flavobacteriales |       2 |
-
-|                   |   family |
-|:------------------|---------:|
-| Flavobacteriaceae |        2 |
-
-|               |   genus |
-|:--------------|--------:|
-| Tenacibaculum |       2 |
+| order                | family                | genus             |
+|:---------------------|:----------------------|:------------------|
+| Flavobacteriales (2) | Flavobacteriaceae (2) | Tenacibaculum (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -15259,17 +12009,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Pseudomonadales |       2 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Pseudomonadaceae |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Pseudomonas |       2 |
+| order               | family               | genus           |
+|:--------------------|:---------------------|:----------------|
+| Pseudomonadales (2) | Pseudomonadaceae (2) | Pseudomonas (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -15295,17 +12037,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-
-|                |   family |
-|:---------------|---------:|
-| Morganellaceae |        2 |
-
-|         |   genus |
-|:--------|--------:|
-| Proteus |       2 |
+| order                | family             | genus       |
+|:---------------------|:-------------------|:------------|
+| Enterobacterales (2) | Morganellaceae (2) | Proteus (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -15331,17 +12065,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                   |   order |
-|:------------------|--------:|
-| Campylobacterales |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Campylobacteraceae |        2 |
-
-|               |   genus |
-|:--------------|--------:|
-| Campylobacter |       2 |
+| order                 | family                 | genus             |
+|:----------------------|:-----------------------|:------------------|
+| Campylobacterales (2) | Campylobacteraceae (2) | Campylobacter (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -15368,17 +12094,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|              |   order |
-|:-------------|--------:|
-| Moraxellales |       2 |
-
-|               |   family |
-|:--------------|---------:|
-| Moraxellaceae |        2 |
-
-|               |   genus |
-|:--------------|--------:|
-| Acinetobacter |       2 |
+| order            | family            | genus             |
+|:-----------------|:------------------|:------------------|
+| Moraxellales (2) | Moraxellaceae (2) | Acinetobacter (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -15411,17 +12129,9 @@ BAQ01659.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Escherichia |       2 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -15447,17 +12157,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       2 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Lactobacillaceae |        2 |
-
-|                     |   genus |
-|:--------------------|--------:|
-| Limosilactobacillus |       2 |
+| order               | family               | genus                   |
+|:--------------------|:---------------------|:------------------------|
+| Lactobacillales (2) | Lactobacillaceae (2) | Limosilactobacillus (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -15483,20 +12185,10 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Eubacteriales   |       1 |
-| Lactobacillales |       1 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Lachnospiraceae  |        1 |
-| Streptococcaceae |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Enterocloster |       1 |
-| Streptococcus |       1 |
+| order               | family               | genus             |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (1) | Streptococcaceae (1) | Streptococcus (1) |
+| Eubacteriales (1)   | Lachnospiraceae (1)  | Enterocloster (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -15522,18 +12214,10 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Alteromonadales |       1 |
-
-|                |   family |
-|:---------------|---------:|
-| Shewanellaceae |        1 |
-
-|               |   genus |
-|:--------------|--------:|
-| Gallaecimonas |       1 |
-| Shewanella    |       1 |
+| order               | family             | genus             |
+|:--------------------|:-------------------|:------------------|
+| nan (1)             | nan (1)            | Gallaecimonas (1) |
+| Alteromonadales (1) | Shewanellaceae (1) | Shewanella (1)    |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -15566,17 +12250,9 @@ AHB32242.2:
 
 #### Taxonomy:
 
-|              |   order |
-|:-------------|--------:|
-| Moraxellales |       2 |
-
-|               |   family |
-|:--------------|---------:|
-| Moraxellaceae |        2 |
-
-|               |   genus |
-|:--------------|--------:|
-| Acinetobacter |       2 |
+| order            | family            | genus             |
+|:-----------------|:------------------|:------------------|
+| Moraxellales (2) | Moraxellaceae (2) | Acinetobacter (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -15602,17 +12278,9 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-
-|              |   genus |
-|:-------------|--------:|
-| Enterobacter |       2 |
+| order                | family                 | genus            |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Enterobacter (2) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -15638,18 +12306,10 @@ Total number of members in cluster: 2
 
 #### Taxonomy:
 
-|                 |   order |
-|:----------------|--------:|
-| Lactobacillales |       2 |
-
-|                  |   family |
-|:-----------------|---------:|
-| Lactobacillaceae |        2 |
-
-|                   |   genus |
-|:------------------|--------:|
-| Latilactobacillus |       1 |
-| Pediococcus       |       1 |
+| order               | family               | genus                 |
+|:--------------------|:---------------------|:----------------------|
+| Lactobacillales (2) | Lactobacillaceae (2) | Latilactobacillus (1) |
+|                     |                      | Pediococcus (1)       |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
@@ -15682,18 +12342,10 @@ WP_016238111.1:
 
 #### Taxonomy:
 
-|                  |   order |
-|:-----------------|--------:|
-| Enterobacterales |       2 |
-
-|                    |   family |
-|:-------------------|---------:|
-| Enterobacteriaceae |        2 |
-
-|             |   genus |
-|:------------|--------:|
-| Citrobacter |       1 |
-| Escherichia |       1 |
+| order                | family                 | genus           |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (1) |
+|                      |                        | Citrobacter (1) |
 
 [top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/2205241419/report.md#navigation)
 
