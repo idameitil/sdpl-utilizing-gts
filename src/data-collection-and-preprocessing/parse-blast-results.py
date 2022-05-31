@@ -3,11 +3,15 @@ import pandas as pd
 import sys
 
 blast_run_path = "data/wzy/blast/run/"
-directories = os.listdir(blast_run_path)
+#directories = os.listdir(blast_run_path)
+
+seed_df = pd.read_csv("data/wzy/wzy.tsv", sep='\t')
+accessions_to_include = list(seed_df.protein_accession)
 
 hit2evalue = dict() # All hits
 alignment_hits = set() # The hits that are actually in Genbank
-for accession in directories:
+#for accession in directories:
+for accession in accessions_to_include:
     blast_file = open(blast_run_path + accession + "/blast.out")
     two_lines_before_list_section = False
     list_section = False
