@@ -1,6 +1,9 @@
+from ctypes.wintypes import tagRECT
 import os
 import pandas as pd
 import sys
+import numpy as np
+import math
 
 timestamp = sys.argv[1]
 
@@ -39,6 +42,68 @@ for cluster in clusters:
     navigation_url = f"https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/{timestamp}/report.md#cluster-{name}"
     outfile.write(f"[{name}({count})]({navigation_url})  ")
 outfile.write('\n\n')
+
+def make_taxonomy_table(taxonomy_df):
+    mydict = dict()
+    # pd.set_option('display.max_rows', 600)
+    # outfile.write(str(taxonomy_df) + '\n\n')
+    counts = {'order':{}, 'family':{}, 'genus':{}}
+    for index, row in taxonomy_df.iterrows():
+        if row.order not in counts['order']:
+            counts['order'][row.order] = 1
+            counts['family'][row.family] = 1
+            counts['genus'][row.genus] = 1
+            mydict[row.order] = {row.family: [row.genus]}
+        else:
+            counts['order'][row.order] += 1
+            if row.family not in counts['family']:
+                counts['family'][row.family] = 1
+                mydict[row.order][row.family] = [row.genus]
+                counts['genus'][row.genus] = 1
+            else:
+                counts['family'][row.family] += 1
+                if row.genus not in counts['genus']:
+                    counts['genus'][row.genus] = 1
+                    if not pd.isna(row.family):
+                        mydict[row.order][row.family].append(row.genus)
+                else:
+                    counts['genus'][row.genus] += 1
+    data = {'order (count)':[], 'family (count)':[], 'genus (count)':[]}
+
+    # Order
+    orders_sorted = sorted(counts['order'].items(), key=lambda x: x[1], reverse=True)
+    for order, count in orders_sorted:
+        first_in_order = True
+        order_string = f"{order} ({count})"
+        # Family
+        families_in_order = {key: counts['family'][key] for key in mydict[order]}
+        families_sorted = sorted(families_in_order.items(), key=lambda x: x[1], reverse=True)
+        for family, count in families_sorted:
+            first_in_family = True
+            family_string = f"{family} ({count})"
+            # Genus
+            genera_in_order = {key: counts['genus'][key] for key in mydict[order][family]}
+            genera_sorted = sorted(genera_in_order.items(), key=lambda x: x[1], reverse=True)
+            for genus, count in genera_sorted:
+                genus_string = f"{genus} ({count})"
+                if first_in_order:
+                    data['order (count)'].append(order_string)
+                    data['family (count)'].append(family_string)
+                    data['genus (count)'].append(genus_string)
+                    first_in_order = False
+                    first_in_family = False
+                else:
+                    if first_in_family:
+                        data['order (count)'].append("")
+                        data['family (count)'].append(family_string)
+                        data['genus (count)'].append(genus_string)
+                        first_in_family = False
+                    else:
+                        data['order (count)'].append("")
+                        data['family (count)'].append("")
+                        data['genus (count)'].append(genus_string)
+    df = pd.DataFrame(data)
+    return df.to_markdown(index=False)
 
 # Clusters
 outfile.write('## Clusters\n')
@@ -121,21 +186,24 @@ for cluster in clusters:
 
     # Taxonomy
     outfile.write(f"#### Taxonomy:\n\n")
-    order_count_table = seeds_and_hits_df[seeds_and_hits_df.protein_accession.isin(accessions)]\
-        .groupby('order')[['order']].count()\
-        .rename_axis(None) \
-        .sort_values(by='order', ascending=False)
-    family_count_table = seeds_and_hits_df[seeds_and_hits_df.protein_accession.isin(accessions)]\
-        .groupby('family')[['family']].count()\
-        .rename_axis(None) \
-        .sort_values(by='family', ascending=False)
-    genus_count_table = seeds_and_hits_df[seeds_and_hits_df.protein_accession.isin(accessions)]\
-        .groupby('genus')[['genus']].count()\
-        .rename_axis(None) \
-        .sort_values(by='genus', ascending=False)
-    outfile.write(order_count_table.to_markdown()+'\n\n')
-    outfile.write(family_count_table.to_markdown()+'\n\n')
-    outfile.write(genus_count_table.to_markdown()+'\n\n')
+    # order_count_table = seeds_and_hits_df[seeds_and_hits_df.protein_accession.isin(accessions)]\
+    #     .groupby('order')[['order']].count()\
+    #     .rename_axis(None) \
+    #     .sort_values(by='order', ascending=False)
+    # family_count_table = seeds_and_hits_df[seeds_and_hits_df.protein_accession.isin(accessions)]\
+    #     .groupby('family')[['family']].count()\
+    #     .rename_axis(None) \
+    #     .sort_values(by='family', ascending=False)
+    # genus_count_table = seeds_and_hits_df[seeds_and_hits_df.protein_accession.isin(accessions)]\
+    #     .groupby('genus')[['genus']].count()\
+    #     .rename_axis(None) \
+    #     .sort_values(by='genus', ascending=False)
+    # outfile.write(order_count_table.to_markdown()+'\n\n')
+    # outfile.write(family_count_table.to_markdown()+'\n\n')
+    # outfile.write(genus_count_table.to_markdown()+'\n\n')
+
+    taxonomy_table = make_taxonomy_table(seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(accessions), ['class', 'order', 'family', 'genus']])
+    outfile.write(taxonomy_table + '\n\n')
 
     # Navigation to top
     top_navigation_url = f"https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/{timestamp}/report.md#navigation"
