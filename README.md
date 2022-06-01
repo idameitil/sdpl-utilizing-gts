@@ -82,6 +82,7 @@ And `sh /work3/idamei/all-vs-all-blast/submit.sh`
 
 When all jobs are finished, run: 
 `qrsh`
+
 `tar -czvf /work3/idamei/all-vs-all-blast.tar.gz /work3/idamei/all-vs-all-blast`
 
 Then locally run: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/all-vs-all-blast.tar.gz data/wzy/all-vs-all-blast`
@@ -89,7 +90,7 @@ Unpack it and move to `data/wzy/all-vs-all-blast/`.
 This file is too big to store in GitHub, so is only stored locally.
 
 ### Make network file
-To make the network file run `src/ssn-clustering/make-network-file.py`.
+To make the network file run `python3 src/ssn-clustering/make-network-file.py`.
 
 This will create the file `data/wzy/all-vs-all-blast/network`.
 
@@ -103,7 +104,7 @@ This will create the folder `data/wzy/ssn-clusterings/[timestamp]` which contain
 
 On the HPC, run `sh /work3/idamei/ssn-clusterings/[timestamp]/submit.sh`.
 
-When all jobs are finished (check with bstat), run locally: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/clustering/[timestamp]/clusters/ data/wzy/ssn-clusterings/clustering/[timestamp]`
+When all jobs are finished (check with bstat), run locally: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/[timestamp]/clusters/ data/wzy/ssn-clusterings/[timestamp]`
 
 To make the markdown report, run `python3 src/ssn-clustering/make-markdown.py [timestamp]`. (push changes to see files)
 
