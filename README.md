@@ -106,7 +106,7 @@ On the HPC, run `sh /work3/idamei/ssn-clusterings/[timestamp]/submit.sh`.
 
 When all jobs are finished (check with bstat), run locally: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/ssn-clusterings/[timestamp]/clusters/ data/wzy/ssn-clusterings/[timestamp]`
 
-To convert the logoplots to pdf run `python3 src/ssn-clustering/convert-logos-to-pdf.py`.
+To convert the logoplots to pdf run `python3 src/ssn-clustering/convert-logos-to-pdf.py [timestamp]`.
 
 ## Phylogenetic trees
 
