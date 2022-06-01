@@ -27,6 +27,6 @@
 #BSUB -o /work3/idamei/ssn-clusterings/2206011120/clusters/0512_16/jobscript.out
 #BSUB -e /work3/idamei/ssn-clusterings/2206011120/clusters/0512_16/jobscript.err
 # here follow the commands you want to execute 
-/work3/idamei/bin/muscle5.1.linux_intel64 -align /work3/idamei/ssn-clusterings/2206011120/clusters/0512_16/sequences.fa -output /work3/idamei/ssn-clusterings/2206011120/clusters/0512_16/sequences.afa
+/work3/idamei/bin/muscle5.1.linux_intel64 -super5 /work3/idamei/ssn-clusterings/2206011120/clusters/0512_16/sequences.fa -output /work3/idamei/ssn-clusterings/2206011120/clusters/0512_16/sequences.afa
 /work3/garryg/bioP/bin/malign.py -a /work3/idamei/ssn-clusterings/2206011120/clusters/0512_16/sequences.afa -s /work3/idamei/ssn-clusterings/2206011120/clusters/0512_16/seeds.txt -l 1000 > /work3/idamei/ssn-clusterings/2206011120/clusters/0512_16/sequences.malign
-python2 /work3/idamei/bin/seq2logo-2.1/Seq2Logo.py -f /work3/idamei/ssn-clusterings/2206011120/clusters/0512_16/sequences.afa -m 0.0001 -b 50 -o /work3/idamei/ssn-clusterings/2206011120/clusters/0512_16/sequences.logo
+python2 /work3/idamei/bin/seq2logo-2.1/Seq2Logo.py -f /work3/idamei/ssn-clusterings/2206011120/clusters/0512_16/sequences.afa -m 0.0001 -b 50 -o /work3/idamei/ssn-clusterings/2206011120/clusters/0512_16/sequences.logo  -p 640x1000 -l 30
