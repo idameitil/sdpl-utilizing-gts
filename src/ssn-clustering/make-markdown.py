@@ -152,7 +152,7 @@ for cluster in clusters:
     fasta_url = f"{github_url}/{dir}/sequences.fa"
     outfile.write(f"[Fasta of members]({fasta_url})\n\n")
     # Logoplot
-    logo_url = f"{github_url}/{dir}/sequences.logo.eps"
+    logo_url = f"{github_url}/{dir}/sequences.logo.pdf"
     outfile.write(f"[Logoplot]({logo_url})\n\n")
     # Hits table
     hits_tsv_url = f"{github_url}/{dir}/hits.tsv"

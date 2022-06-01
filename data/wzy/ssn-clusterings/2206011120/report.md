@@ -47,7 +47,7 @@ Total number of members in cluster: 512
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0512_16/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0512_16/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0512_16/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0512_16/hits.tsv)
 
@@ -158,7 +158,7 @@ Total number of members in cluster: 134
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0134_23/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0134_23/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0134_23/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0134_23/hits.tsv)
 
@@ -252,7 +252,7 @@ Total number of members in cluster: 128
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0128_11/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0128_11/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0128_11/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0128_11/hits.tsv)
 
@@ -309,7 +309,7 @@ Total number of members in cluster: 57
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0057_22/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0057_22/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0057_22/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0057_22/hits.tsv)
 
@@ -348,7 +348,7 @@ Total number of members in cluster: 55
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0055_18/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0055_18/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0055_18/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0055_18/hits.tsv)
 
@@ -424,7 +424,7 @@ Total number of members in cluster: 50
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0050_17/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0050_17/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0050_17/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0050_17/hits.tsv)
 
@@ -486,7 +486,7 @@ Total number of members in cluster: 49
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0049_41/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0049_41/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0049_41/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0049_41/hits.tsv)
 
@@ -544,7 +544,7 @@ Total number of members in cluster: 48
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0048_24/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0048_24/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0048_24/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0048_24/hits.tsv)
 
@@ -605,7 +605,7 @@ Total number of members in cluster: 48
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0048_2/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0048_2/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0048_2/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0048_2/hits.tsv)
 
@@ -658,7 +658,7 @@ Total number of members in cluster: 44
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0044_45/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0044_45/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0044_45/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0044_45/hits.tsv)
 
@@ -720,7 +720,7 @@ Total number of members in cluster: 38
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0038_81/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0038_81/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0038_81/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0038_81/hits.tsv)
 
@@ -768,7 +768,7 @@ Total number of members in cluster: 38
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0038_80/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0038_80/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0038_80/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0038_80/hits.tsv)
 
@@ -840,7 +840,7 @@ Total number of members in cluster: 35
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0035_32/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0035_32/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0035_32/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0035_32/hits.tsv)
 
@@ -891,7 +891,7 @@ Total number of members in cluster: 34
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0034_82/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0034_82/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0034_82/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0034_82/hits.tsv)
 
@@ -940,7 +940,7 @@ Total number of members in cluster: 33
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0033_59/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0033_59/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0033_59/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0033_59/hits.tsv)
 
@@ -981,7 +981,7 @@ Total number of members in cluster: 30
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0030_112/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0030_112/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0030_112/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0030_112/hits.tsv)
 
@@ -1026,7 +1026,7 @@ Total number of members in cluster: 29
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0029_91/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0029_91/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0029_91/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0029_91/hits.tsv)
 
@@ -1088,7 +1088,7 @@ Total number of members in cluster: 27
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0027_57/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0027_57/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0027_57/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0027_57/hits.tsv)
 
@@ -1148,7 +1148,7 @@ Total number of members in cluster: 26
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0026_40/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0026_40/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0026_40/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0026_40/hits.tsv)
 
@@ -1202,7 +1202,7 @@ Total number of members in cluster: 25
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0025_97/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0025_97/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0025_97/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0025_97/hits.tsv)
 
@@ -1249,7 +1249,7 @@ Total number of members in cluster: 25
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0025_12/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0025_12/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0025_12/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0025_12/hits.tsv)
 
@@ -1307,7 +1307,7 @@ Total number of members in cluster: 24
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0024_55/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0024_55/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0024_55/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0024_55/hits.tsv)
 
@@ -1364,7 +1364,7 @@ Total number of members in cluster: 24
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0024_4/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0024_4/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0024_4/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0024_4/hits.tsv)
 
@@ -1407,7 +1407,7 @@ Total number of members in cluster: 24
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0024_26/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0024_26/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0024_26/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0024_26/hits.tsv)
 
@@ -1451,7 +1451,7 @@ Total number of members in cluster: 23
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0023_117/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0023_117/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0023_117/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0023_117/hits.tsv)
 
@@ -1493,7 +1493,7 @@ Total number of members in cluster: 23
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0023_102/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0023_102/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0023_102/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0023_102/hits.tsv)
 
@@ -1541,7 +1541,7 @@ Total number of members in cluster: 22
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0022_85/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0022_85/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0022_85/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0022_85/hits.tsv)
 
@@ -1596,7 +1596,7 @@ Total number of members in cluster: 21
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0021_75/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0021_75/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0021_75/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0021_75/hits.tsv)
 
@@ -1641,7 +1641,7 @@ Total number of members in cluster: 20
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0020_98/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0020_98/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0020_98/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0020_98/hits.tsv)
 
@@ -1691,7 +1691,7 @@ Total number of members in cluster: 20
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0020_70/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0020_70/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0020_70/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0020_70/hits.tsv)
 
@@ -1734,7 +1734,7 @@ Total number of members in cluster: 19
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_35/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_35/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_35/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_35/hits.tsv)
 
@@ -1776,7 +1776,7 @@ Total number of members in cluster: 19
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_34/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_34/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_34/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_34/hits.tsv)
 
@@ -1826,7 +1826,7 @@ Total number of members in cluster: 19
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_158/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_158/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_158/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_158/hits.tsv)
 
@@ -1881,7 +1881,7 @@ Total number of members in cluster: 19
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_13/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_13/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_13/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_13/hits.tsv)
 
@@ -1923,7 +1923,7 @@ Total number of members in cluster: 19
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_127/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_127/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_127/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_127/hits.tsv)
 
@@ -1972,7 +1972,7 @@ Total number of members in cluster: 19
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_122/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_122/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_122/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_122/hits.tsv)
 
@@ -2025,7 +2025,7 @@ Total number of members in cluster: 19
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_108/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_108/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_108/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0019_108/hits.tsv)
 
@@ -2073,7 +2073,7 @@ Total number of members in cluster: 18
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0018_7/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0018_7/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0018_7/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0018_7/hits.tsv)
 
@@ -2114,7 +2114,7 @@ Total number of members in cluster: 18
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0018_54/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0018_54/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0018_54/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0018_54/hits.tsv)
 
@@ -2157,7 +2157,7 @@ Total number of members in cluster: 17
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0017_6/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0017_6/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0017_6/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0017_6/hits.tsv)
 
@@ -2198,7 +2198,7 @@ Total number of members in cluster: 17
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0017_39/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0017_39/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0017_39/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0017_39/hits.tsv)
 
@@ -2232,7 +2232,7 @@ Total number of members in cluster: 17
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0017_185/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0017_185/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0017_185/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0017_185/hits.tsv)
 
@@ -2278,7 +2278,7 @@ Total number of members in cluster: 17
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0017_139/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0017_139/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0017_139/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0017_139/hits.tsv)
 
@@ -2325,7 +2325,7 @@ Total number of members in cluster: 16
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0016_5/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0016_5/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0016_5/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0016_5/hits.tsv)
 
@@ -2371,7 +2371,7 @@ Total number of members in cluster: 16
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0016_44/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0016_44/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0016_44/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0016_44/hits.tsv)
 
@@ -2408,7 +2408,7 @@ Total number of members in cluster: 16
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0016_36/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0016_36/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0016_36/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0016_36/hits.tsv)
 
@@ -2455,7 +2455,7 @@ Total number of members in cluster: 16
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0016_126/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0016_126/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0016_126/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0016_126/hits.tsv)
 
@@ -2498,7 +2498,7 @@ Total number of members in cluster: 16
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0016_119/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0016_119/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0016_119/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0016_119/hits.tsv)
 
@@ -2547,7 +2547,7 @@ Total number of members in cluster: 15
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0015_9/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0015_9/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0015_9/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0015_9/hits.tsv)
 
@@ -2608,7 +2608,7 @@ Total number of members in cluster: 15
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0015_73/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0015_73/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0015_73/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0015_73/hits.tsv)
 
@@ -2648,7 +2648,7 @@ Total number of members in cluster: 15
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0015_42/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0015_42/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0015_42/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0015_42/hits.tsv)
 
@@ -2695,7 +2695,7 @@ Total number of members in cluster: 15
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0015_155/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0015_155/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0015_155/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0015_155/hits.tsv)
 
@@ -2739,7 +2739,7 @@ Total number of members in cluster: 14
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_84/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_84/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_84/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_84/hits.tsv)
 
@@ -2789,7 +2789,7 @@ Total number of members in cluster: 14
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_64/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_64/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_64/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_64/hits.tsv)
 
@@ -2834,7 +2834,7 @@ Total number of members in cluster: 14
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_37/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_37/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_37/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_37/hits.tsv)
 
@@ -2871,7 +2871,7 @@ Total number of members in cluster: 14
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_20/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_20/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_20/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_20/hits.tsv)
 
@@ -2906,7 +2906,7 @@ Total number of members in cluster: 14
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_176/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_176/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_176/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_176/hits.tsv)
 
@@ -2946,7 +2946,7 @@ Total number of members in cluster: 14
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_115/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_115/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_115/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0014_115/hits.tsv)
 
@@ -2997,7 +2997,7 @@ Total number of members in cluster: 13
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_50/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_50/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_50/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_50/hits.tsv)
 
@@ -3042,7 +3042,7 @@ Total number of members in cluster: 13
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_251/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_251/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_251/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_251/hits.tsv)
 
@@ -3084,7 +3084,7 @@ Total number of members in cluster: 13
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_215/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_215/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_215/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_215/hits.tsv)
 
@@ -3131,7 +3131,7 @@ Total number of members in cluster: 13
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_190/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_190/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_190/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_190/hits.tsv)
 
@@ -3170,7 +3170,7 @@ Total number of members in cluster: 13
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_181/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_181/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_181/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_181/hits.tsv)
 
@@ -3211,7 +3211,7 @@ Total number of members in cluster: 13
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_179/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_179/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_179/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_179/hits.tsv)
 
@@ -3250,7 +3250,7 @@ Total number of members in cluster: 13
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_153/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_153/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_153/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_153/hits.tsv)
 
@@ -3298,7 +3298,7 @@ Total number of members in cluster: 13
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_146/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_146/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_146/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_146/hits.tsv)
 
@@ -3341,7 +3341,7 @@ Total number of members in cluster: 13
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_132/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_132/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_132/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_132/hits.tsv)
 
@@ -3383,7 +3383,7 @@ Total number of members in cluster: 13
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_121/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_121/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_121/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_121/hits.tsv)
 
@@ -3436,7 +3436,7 @@ Total number of members in cluster: 13
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_118/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_118/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_118/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0013_118/hits.tsv)
 
@@ -3474,7 +3474,7 @@ Total number of members in cluster: 12
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_94/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_94/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_94/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_94/hits.tsv)
 
@@ -3517,7 +3517,7 @@ Total number of members in cluster: 12
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_72/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_72/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_72/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_72/hits.tsv)
 
@@ -3556,7 +3556,7 @@ Total number of members in cluster: 12
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_275/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_275/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_275/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_275/hits.tsv)
 
@@ -3596,7 +3596,7 @@ Total number of members in cluster: 12
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_182/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_182/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_182/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_182/hits.tsv)
 
@@ -3638,7 +3638,7 @@ Total number of members in cluster: 12
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_135/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_135/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_135/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_135/hits.tsv)
 
@@ -3676,7 +3676,7 @@ Total number of members in cluster: 12
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_103/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_103/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_103/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_103/hits.tsv)
 
@@ -3713,7 +3713,7 @@ Total number of members in cluster: 12
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_10/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_10/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_10/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0012_10/hits.tsv)
 
@@ -3753,7 +3753,7 @@ Total number of members in cluster: 11
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_90/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_90/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_90/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_90/hits.tsv)
 
@@ -3801,7 +3801,7 @@ Total number of members in cluster: 11
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_49/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_49/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_49/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_49/hits.tsv)
 
@@ -3848,7 +3848,7 @@ Total number of members in cluster: 11
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_188/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_188/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_188/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_188/hits.tsv)
 
@@ -3889,7 +3889,7 @@ Total number of members in cluster: 11
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_187/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_187/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_187/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_187/hits.tsv)
 
@@ -3925,7 +3925,7 @@ Total number of members in cluster: 11
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_170/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_170/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_170/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_170/hits.tsv)
 
@@ -3970,7 +3970,7 @@ Total number of members in cluster: 11
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_143/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_143/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_143/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_143/hits.tsv)
 
@@ -4008,7 +4008,7 @@ Total number of members in cluster: 11
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_14/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_14/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_14/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_14/hits.tsv)
 
@@ -4053,7 +4053,7 @@ Total number of members in cluster: 11
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_134/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_134/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_134/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_134/hits.tsv)
 
@@ -4094,7 +4094,7 @@ Total number of members in cluster: 11
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_129/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_129/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_129/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_129/hits.tsv)
 
@@ -4133,7 +4133,7 @@ Total number of members in cluster: 11
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_116/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_116/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_116/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0011_116/hits.tsv)
 
@@ -4180,7 +4180,7 @@ Total number of members in cluster: 10
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_74/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_74/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_74/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_74/hits.tsv)
 
@@ -4220,7 +4220,7 @@ Total number of members in cluster: 10
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_66/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_66/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_66/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_66/hits.tsv)
 
@@ -4260,7 +4260,7 @@ Total number of members in cluster: 10
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_65/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_65/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_65/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_65/hits.tsv)
 
@@ -4304,7 +4304,7 @@ Total number of members in cluster: 10
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_48/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_48/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_48/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_48/hits.tsv)
 
@@ -4339,7 +4339,7 @@ Total number of members in cluster: 10
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_47/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_47/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_47/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_47/hits.tsv)
 
@@ -4376,7 +4376,7 @@ Total number of members in cluster: 10
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_31/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_31/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_31/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_31/hits.tsv)
 
@@ -4409,7 +4409,7 @@ Total number of members in cluster: 10
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_292/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_292/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_292/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_292/hits.tsv)
 
@@ -4452,7 +4452,7 @@ Total number of members in cluster: 10
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_266/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_266/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_266/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_266/hits.tsv)
 
@@ -4495,7 +4495,7 @@ Total number of members in cluster: 10
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_220/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_220/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_220/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_220/hits.tsv)
 
@@ -4534,7 +4534,7 @@ Total number of members in cluster: 10
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_214/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_214/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_214/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_214/hits.tsv)
 
@@ -4572,7 +4572,7 @@ Total number of members in cluster: 10
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_201/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_201/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_201/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_201/hits.tsv)
 
@@ -4608,7 +4608,7 @@ Total number of members in cluster: 10
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_196/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_196/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_196/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_196/hits.tsv)
 
@@ -4649,7 +4649,7 @@ Total number of members in cluster: 10
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_19/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_19/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_19/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_19/hits.tsv)
 
@@ -4682,7 +4682,7 @@ Total number of members in cluster: 10
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_172/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_172/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_172/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_172/hits.tsv)
 
@@ -4720,7 +4720,7 @@ Total number of members in cluster: 10
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_157/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_157/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_157/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_157/hits.tsv)
 
@@ -4765,7 +4765,7 @@ Total number of members in cluster: 10
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_145/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_145/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_145/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_145/hits.tsv)
 
@@ -4804,7 +4804,7 @@ Total number of members in cluster: 10
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_124/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_124/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_124/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0010_124/hits.tsv)
 
@@ -4848,7 +4848,7 @@ Total number of members in cluster: 9
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_67/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_67/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_67/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_67/hits.tsv)
 
@@ -4887,7 +4887,7 @@ Total number of members in cluster: 9
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_62/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_62/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_62/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_62/hits.tsv)
 
@@ -4930,7 +4930,7 @@ Total number of members in cluster: 9
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_60/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_60/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_60/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_60/hits.tsv)
 
@@ -4972,7 +4972,7 @@ Total number of members in cluster: 9
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_53/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_53/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_53/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_53/hits.tsv)
 
@@ -5014,7 +5014,7 @@ Total number of members in cluster: 9
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_30/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_30/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_30/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_30/hits.tsv)
 
@@ -5051,7 +5051,7 @@ Total number of members in cluster: 9
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_256/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_256/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_256/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_256/hits.tsv)
 
@@ -5085,7 +5085,7 @@ Total number of members in cluster: 9
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_247/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_247/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_247/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_247/hits.tsv)
 
@@ -5124,7 +5124,7 @@ Total number of members in cluster: 9
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_225/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_225/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_225/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_225/hits.tsv)
 
@@ -5162,7 +5162,7 @@ Total number of members in cluster: 9
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_224/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_224/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_224/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_224/hits.tsv)
 
@@ -5204,7 +5204,7 @@ Total number of members in cluster: 9
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_178/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_178/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_178/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_178/hits.tsv)
 
@@ -5251,7 +5251,7 @@ Total number of members in cluster: 9
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_154/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_154/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_154/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_154/hits.tsv)
 
@@ -5291,7 +5291,7 @@ Total number of members in cluster: 9
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_141/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_141/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_141/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_141/hits.tsv)
 
@@ -5326,7 +5326,7 @@ Total number of members in cluster: 9
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_123/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_123/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_123/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_123/hits.tsv)
 
@@ -5366,7 +5366,7 @@ Total number of members in cluster: 9
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_107/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_107/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_107/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_107/hits.tsv)
 
@@ -5410,7 +5410,7 @@ Total number of members in cluster: 9
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_104/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_104/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_104/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_104/hits.tsv)
 
@@ -5454,7 +5454,7 @@ Total number of members in cluster: 9
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_1/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_1/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_1/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0009_1/hits.tsv)
 
@@ -5490,7 +5490,7 @@ Total number of members in cluster: 8
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_56/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_56/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_56/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_56/hits.tsv)
 
@@ -5527,7 +5527,7 @@ Total number of members in cluster: 8
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_316/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_316/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_316/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_316/hits.tsv)
 
@@ -5566,7 +5566,7 @@ Total number of members in cluster: 8
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_3/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_3/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_3/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_3/hits.tsv)
 
@@ -5599,7 +5599,7 @@ Total number of members in cluster: 8
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_278/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_278/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_278/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_278/hits.tsv)
 
@@ -5634,7 +5634,7 @@ Total number of members in cluster: 8
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_27/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_27/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_27/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_27/hits.tsv)
 
@@ -5677,7 +5677,7 @@ Total number of members in cluster: 8
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_268/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_268/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_268/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_268/hits.tsv)
 
@@ -5722,7 +5722,7 @@ Total number of members in cluster: 8
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_261/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_261/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_261/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_261/hits.tsv)
 
@@ -5770,7 +5770,7 @@ Total number of members in cluster: 8
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_25/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_25/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_25/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_25/hits.tsv)
 
@@ -5809,7 +5809,7 @@ Total number of members in cluster: 8
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_204/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_204/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_204/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_204/hits.tsv)
 
@@ -5846,7 +5846,7 @@ Total number of members in cluster: 8
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_199/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_199/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_199/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_199/hits.tsv)
 
@@ -5881,7 +5881,7 @@ Total number of members in cluster: 8
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_198/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_198/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_198/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_198/hits.tsv)
 
@@ -5930,7 +5930,7 @@ Total number of members in cluster: 8
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_192/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_192/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_192/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_192/hits.tsv)
 
@@ -5984,7 +5984,7 @@ Total number of members in cluster: 8
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_191/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_191/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_191/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_191/hits.tsv)
 
@@ -6026,7 +6026,7 @@ Total number of members in cluster: 8
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_160/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_160/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_160/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_160/hits.tsv)
 
@@ -6070,7 +6070,7 @@ Total number of members in cluster: 8
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_105/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_105/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_105/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_105/hits.tsv)
 
@@ -6104,7 +6104,7 @@ Total number of members in cluster: 8
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_100/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_100/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_100/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0008_100/hits.tsv)
 
@@ -6135,7 +6135,7 @@ Total number of members in cluster: 7
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_92/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_92/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_92/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_92/hits.tsv)
 
@@ -6176,7 +6176,7 @@ Total number of members in cluster: 7
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_87/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_87/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_87/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_87/hits.tsv)
 
@@ -6217,7 +6217,7 @@ Total number of members in cluster: 7
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_69/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_69/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_69/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_69/hits.tsv)
 
@@ -6260,7 +6260,7 @@ Total number of members in cluster: 7
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_289/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_289/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_289/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_289/hits.tsv)
 
@@ -6294,7 +6294,7 @@ Total number of members in cluster: 7
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_264/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_264/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_264/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_264/hits.tsv)
 
@@ -6332,7 +6332,7 @@ Total number of members in cluster: 7
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_252/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_252/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_252/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_252/hits.tsv)
 
@@ -6370,7 +6370,7 @@ Total number of members in cluster: 7
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_243/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_243/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_243/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_243/hits.tsv)
 
@@ -6403,7 +6403,7 @@ Total number of members in cluster: 7
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_239/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_239/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_239/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_239/hits.tsv)
 
@@ -6438,7 +6438,7 @@ Total number of members in cluster: 7
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_231/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_231/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_231/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_231/hits.tsv)
 
@@ -6485,7 +6485,7 @@ Total number of members in cluster: 7
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_227/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_227/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_227/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_227/hits.tsv)
 
@@ -6519,7 +6519,7 @@ Total number of members in cluster: 7
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_212/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_212/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_212/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_212/hits.tsv)
 
@@ -6558,7 +6558,7 @@ Total number of members in cluster: 7
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_207/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_207/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_207/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_207/hits.tsv)
 
@@ -6591,7 +6591,7 @@ Total number of members in cluster: 7
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_202/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_202/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_202/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_202/hits.tsv)
 
@@ -6630,7 +6630,7 @@ Total number of members in cluster: 7
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_193/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_193/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_193/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_193/hits.tsv)
 
@@ -6673,7 +6673,7 @@ Total number of members in cluster: 7
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_186/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_186/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_186/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_186/hits.tsv)
 
@@ -6708,7 +6708,7 @@ Total number of members in cluster: 7
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_148/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_148/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_148/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_148/hits.tsv)
 
@@ -6747,7 +6747,7 @@ Total number of members in cluster: 7
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_147/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_147/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_147/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_147/hits.tsv)
 
@@ -6794,7 +6794,7 @@ Total number of members in cluster: 7
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_137/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_137/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_137/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_137/hits.tsv)
 
@@ -6832,7 +6832,7 @@ Total number of members in cluster: 7
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_128/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_128/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_128/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_128/hits.tsv)
 
@@ -6875,7 +6875,7 @@ Total number of members in cluster: 7
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_125/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_125/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_125/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0007_125/hits.tsv)
 
@@ -6913,7 +6913,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_95/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_95/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_95/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_95/hits.tsv)
 
@@ -6948,7 +6948,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_93/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_93/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_93/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_93/hits.tsv)
 
@@ -6990,7 +6990,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_58/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_58/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_58/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_58/hits.tsv)
 
@@ -7027,7 +7027,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_51/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_51/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_51/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_51/hits.tsv)
 
@@ -7062,7 +7062,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_310/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_310/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_310/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_310/hits.tsv)
 
@@ -7093,7 +7093,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_305/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_305/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_305/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_305/hits.tsv)
 
@@ -7130,7 +7130,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_286/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_286/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_286/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_286/hits.tsv)
 
@@ -7169,7 +7169,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_281/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_281/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_281/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_281/hits.tsv)
 
@@ -7202,7 +7202,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_263/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_263/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_263/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_263/hits.tsv)
 
@@ -7242,7 +7242,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_248/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_248/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_248/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_248/hits.tsv)
 
@@ -7278,7 +7278,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_246/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_246/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_246/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_246/hits.tsv)
 
@@ -7315,7 +7315,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_241/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_241/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_241/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_241/hits.tsv)
 
@@ -7353,7 +7353,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_233/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_233/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_233/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_233/hits.tsv)
 
@@ -7390,7 +7390,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_229/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_229/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_229/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_229/hits.tsv)
 
@@ -7428,7 +7428,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_211/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_211/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_211/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_211/hits.tsv)
 
@@ -7468,7 +7468,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_208/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_208/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_208/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_208/hits.tsv)
 
@@ -7510,7 +7510,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_203/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_203/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_203/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_203/hits.tsv)
 
@@ -7549,7 +7549,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_194/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_194/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_194/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_194/hits.tsv)
 
@@ -7583,7 +7583,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_169/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_169/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_169/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_169/hits.tsv)
 
@@ -7625,7 +7625,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_168/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_168/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_168/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_168/hits.tsv)
 
@@ -7665,7 +7665,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_163/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_163/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_163/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_163/hits.tsv)
 
@@ -7710,7 +7710,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_162/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_162/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_162/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_162/hits.tsv)
 
@@ -7744,7 +7744,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_159/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_159/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_159/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_159/hits.tsv)
 
@@ -7775,7 +7775,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_152/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_152/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_152/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_152/hits.tsv)
 
@@ -7813,7 +7813,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_133/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_133/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_133/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_133/hits.tsv)
 
@@ -7848,7 +7848,7 @@ Total number of members in cluster: 6
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_114/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_114/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_114/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0006_114/hits.tsv)
 
@@ -7886,7 +7886,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_99/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_99/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_99/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_99/hits.tsv)
 
@@ -7921,7 +7921,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_76/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_76/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_76/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_76/hits.tsv)
 
@@ -7954,7 +7954,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_68/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_68/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_68/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_68/hits.tsv)
 
@@ -7984,7 +7984,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_33/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_33/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_33/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_33/hits.tsv)
 
@@ -8019,7 +8019,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_309/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_309/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_309/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_309/hits.tsv)
 
@@ -8049,7 +8049,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_279/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_279/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_279/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_279/hits.tsv)
 
@@ -8082,7 +8082,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_265/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_265/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_265/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_265/hits.tsv)
 
@@ -8121,7 +8121,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_257/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_257/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_257/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_257/hits.tsv)
 
@@ -8157,7 +8157,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_249/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_249/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_249/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_249/hits.tsv)
 
@@ -8196,7 +8196,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_226/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_226/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_226/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_226/hits.tsv)
 
@@ -8230,7 +8230,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_223/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_223/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_223/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_223/hits.tsv)
 
@@ -8262,7 +8262,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_222/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_222/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_222/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_222/hits.tsv)
 
@@ -8301,7 +8301,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_219/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_219/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_219/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_219/hits.tsv)
 
@@ -8340,7 +8340,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_206/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_206/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_206/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_206/hits.tsv)
 
@@ -8371,7 +8371,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_189/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_189/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_189/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_189/hits.tsv)
 
@@ -8408,7 +8408,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_184/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_184/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_184/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_184/hits.tsv)
 
@@ -8446,7 +8446,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_180/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_180/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_180/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_180/hits.tsv)
 
@@ -8480,7 +8480,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_177/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_177/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_177/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_177/hits.tsv)
 
@@ -8517,7 +8517,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_173/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_173/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_173/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_173/hits.tsv)
 
@@ -8549,7 +8549,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_167/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_167/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_167/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_167/hits.tsv)
 
@@ -8581,7 +8581,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_166/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_166/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_166/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_166/hits.tsv)
 
@@ -8620,7 +8620,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_165/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_165/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_165/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_165/hits.tsv)
 
@@ -8651,7 +8651,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_151/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_151/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_151/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_151/hits.tsv)
 
@@ -8687,7 +8687,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_15/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_15/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_15/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_15/hits.tsv)
 
@@ -8721,7 +8721,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_149/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_149/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_149/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_149/hits.tsv)
 
@@ -8761,7 +8761,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_120/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_120/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_120/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_120/hits.tsv)
 
@@ -8804,7 +8804,7 @@ Total number of members in cluster: 5
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_106/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_106/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_106/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0005_106/hits.tsv)
 
@@ -8852,7 +8852,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_96/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_96/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_96/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_96/hits.tsv)
 
@@ -8889,7 +8889,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_89/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_89/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_89/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_89/hits.tsv)
 
@@ -8920,7 +8920,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_88/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_88/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_88/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_88/hits.tsv)
 
@@ -8952,7 +8952,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_83/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_83/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_83/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_83/hits.tsv)
 
@@ -8988,7 +8988,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_79/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_79/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_79/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_79/hits.tsv)
 
@@ -9020,7 +9020,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_78/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_78/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_78/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_78/hits.tsv)
 
@@ -9056,7 +9056,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_77/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_77/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_77/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_77/hits.tsv)
 
@@ -9093,7 +9093,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_71/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_71/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_71/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_71/hits.tsv)
 
@@ -9131,7 +9131,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_61/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_61/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_61/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_61/hits.tsv)
 
@@ -9166,7 +9166,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_46/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_46/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_46/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_46/hits.tsv)
 
@@ -9198,7 +9198,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_43/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_43/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_43/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_43/hits.tsv)
 
@@ -9231,7 +9231,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_38/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_38/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_38/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_38/hits.tsv)
 
@@ -9263,7 +9263,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_322/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_322/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_322/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_322/hits.tsv)
 
@@ -9294,7 +9294,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_307/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_307/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_307/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_307/hits.tsv)
 
@@ -9328,7 +9328,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_302/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_302/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_302/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_302/hits.tsv)
 
@@ -9363,7 +9363,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_299/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_299/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_299/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_299/hits.tsv)
 
@@ -9401,7 +9401,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_29/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_29/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_29/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_29/hits.tsv)
 
@@ -9439,7 +9439,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_288/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_288/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_288/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_288/hits.tsv)
 
@@ -9472,7 +9472,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_287/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_287/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_287/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_287/hits.tsv)
 
@@ -9512,7 +9512,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_277/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_277/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_277/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_277/hits.tsv)
 
@@ -9551,7 +9551,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_272/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_272/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_272/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_272/hits.tsv)
 
@@ -9591,7 +9591,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_271/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_271/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_271/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_271/hits.tsv)
 
@@ -9625,7 +9625,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_250/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_250/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_250/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_250/hits.tsv)
 
@@ -9659,7 +9659,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_242/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_242/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_242/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_242/hits.tsv)
 
@@ -9690,7 +9690,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_238/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_238/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_238/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_238/hits.tsv)
 
@@ -9728,7 +9728,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_230/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_230/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_230/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_230/hits.tsv)
 
@@ -9760,7 +9760,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_221/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_221/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_221/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_221/hits.tsv)
 
@@ -9797,7 +9797,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_216/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_216/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_216/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_216/hits.tsv)
 
@@ -9833,7 +9833,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_213/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_213/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_213/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_213/hits.tsv)
 
@@ -9869,7 +9869,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_210/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_210/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_210/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_210/hits.tsv)
 
@@ -9900,7 +9900,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_195/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_195/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_195/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_195/hits.tsv)
 
@@ -9932,7 +9932,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_183/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_183/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_183/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_183/hits.tsv)
 
@@ -9968,7 +9968,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_175/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_175/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_175/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_175/hits.tsv)
 
@@ -10009,7 +10009,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_161/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_161/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_161/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_161/hits.tsv)
 
@@ -10047,7 +10047,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_144/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_144/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_144/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_144/hits.tsv)
 
@@ -10084,7 +10084,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_131/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_131/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_131/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_131/hits.tsv)
 
@@ -10119,7 +10119,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_110/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_110/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_110/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_110/hits.tsv)
 
@@ -10149,7 +10149,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_109/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_109/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_109/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_109/hits.tsv)
 
@@ -10182,7 +10182,7 @@ Total number of members in cluster: 4
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_101/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_101/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_101/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0004_101/hits.tsv)
 
@@ -10217,7 +10217,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_8/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_8/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_8/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_8/hits.tsv)
 
@@ -10248,7 +10248,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_52/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_52/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_52/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_52/hits.tsv)
 
@@ -10283,7 +10283,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_329/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_329/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_329/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_329/hits.tsv)
 
@@ -10319,7 +10319,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_323/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_323/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_323/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_323/hits.tsv)
 
@@ -10351,7 +10351,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_313/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_313/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_313/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_313/hits.tsv)
 
@@ -10382,7 +10382,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_308/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_308/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_308/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_308/hits.tsv)
 
@@ -10416,7 +10416,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_306/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_306/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_306/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_306/hits.tsv)
 
@@ -10446,7 +10446,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_304/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_304/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_304/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_304/hits.tsv)
 
@@ -10477,7 +10477,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_298/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_298/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_298/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_298/hits.tsv)
 
@@ -10508,7 +10508,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_294/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_294/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_294/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_294/hits.tsv)
 
@@ -10545,7 +10545,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_293/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_293/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_293/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_293/hits.tsv)
 
@@ -10582,7 +10582,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_290/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_290/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_290/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_290/hits.tsv)
 
@@ -10620,7 +10620,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_285/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_285/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_285/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_285/hits.tsv)
 
@@ -10656,7 +10656,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_284/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_284/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_284/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_284/hits.tsv)
 
@@ -10691,7 +10691,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_283/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_283/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_283/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_283/hits.tsv)
 
@@ -10728,7 +10728,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_28/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_28/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_28/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_28/hits.tsv)
 
@@ -10769,7 +10769,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_276/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_276/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_276/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_276/hits.tsv)
 
@@ -10806,7 +10806,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_274/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_274/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_274/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_274/hits.tsv)
 
@@ -10843,7 +10843,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_270/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_270/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_270/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_270/hits.tsv)
 
@@ -10875,7 +10875,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_267/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_267/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_267/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_267/hits.tsv)
 
@@ -10907,7 +10907,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_260/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_260/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_260/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_260/hits.tsv)
 
@@ -10939,7 +10939,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_258/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_258/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_258/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_258/hits.tsv)
 
@@ -10972,7 +10972,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_255/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_255/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_255/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_255/hits.tsv)
 
@@ -11008,7 +11008,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_254/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_254/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_254/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_254/hits.tsv)
 
@@ -11038,7 +11038,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_245/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_245/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_245/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_245/hits.tsv)
 
@@ -11070,7 +11070,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_237/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_237/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_237/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_237/hits.tsv)
 
@@ -11101,7 +11101,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_236/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_236/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_236/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_236/hits.tsv)
 
@@ -11134,7 +11134,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_234/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_234/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_234/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_234/hits.tsv)
 
@@ -11170,7 +11170,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_232/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_232/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_232/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_232/hits.tsv)
 
@@ -11202,7 +11202,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_218/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_218/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_218/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_218/hits.tsv)
 
@@ -11234,7 +11234,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_21/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_21/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_21/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_21/hits.tsv)
 
@@ -11267,7 +11267,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_200/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_200/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_200/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_200/hits.tsv)
 
@@ -11305,7 +11305,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_174/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_174/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_174/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_174/hits.tsv)
 
@@ -11342,7 +11342,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_156/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_156/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_156/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_156/hits.tsv)
 
@@ -11377,7 +11377,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_150/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_150/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_150/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_150/hits.tsv)
 
@@ -11408,7 +11408,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_142/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_142/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_142/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_142/hits.tsv)
 
@@ -11443,7 +11443,7 @@ Total number of members in cluster: 3
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_140/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_140/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_140/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0003_140/hits.tsv)
 
@@ -11475,7 +11475,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_86/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_86/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_86/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_86/hits.tsv)
 
@@ -11505,7 +11505,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_63/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_63/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_63/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_63/hits.tsv)
 
@@ -11535,7 +11535,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_333/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_333/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_333/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_333/hits.tsv)
 
@@ -11566,7 +11566,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_332/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_332/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_332/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_332/hits.tsv)
 
@@ -11597,7 +11597,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_331/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_331/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_331/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_331/hits.tsv)
 
@@ -11627,7 +11627,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_330/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_330/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_330/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_330/hits.tsv)
 
@@ -11659,7 +11659,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_328/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_328/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_328/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_328/hits.tsv)
 
@@ -11689,7 +11689,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_327/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_327/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_327/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_327/hits.tsv)
 
@@ -11720,7 +11720,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_326/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_326/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_326/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_326/hits.tsv)
 
@@ -11756,7 +11756,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_325/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_325/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_325/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_325/hits.tsv)
 
@@ -11786,7 +11786,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_324/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_324/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_324/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_324/hits.tsv)
 
@@ -11817,7 +11817,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_321/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_321/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_321/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_321/hits.tsv)
 
@@ -11851,7 +11851,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_320/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_320/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_320/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_320/hits.tsv)
 
@@ -11882,7 +11882,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_319/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_319/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_319/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_319/hits.tsv)
 
@@ -11912,7 +11912,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_318/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_318/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_318/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_318/hits.tsv)
 
@@ -11943,7 +11943,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_317/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_317/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_317/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_317/hits.tsv)
 
@@ -11974,7 +11974,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_315/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_315/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_315/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_315/hits.tsv)
 
@@ -12005,7 +12005,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_314/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_314/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_314/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_314/hits.tsv)
 
@@ -12035,7 +12035,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_312/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_312/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_312/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_312/hits.tsv)
 
@@ -12067,7 +12067,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_311/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_311/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_311/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_311/hits.tsv)
 
@@ -12102,7 +12102,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_303/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_303/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_303/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_303/hits.tsv)
 
@@ -12139,7 +12139,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_301/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_301/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_301/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_301/hits.tsv)
 
@@ -12173,7 +12173,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_300/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_300/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_300/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_300/hits.tsv)
 
@@ -12203,7 +12203,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_297/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_297/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_297/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_297/hits.tsv)
 
@@ -12233,7 +12233,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_296/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_296/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_296/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_296/hits.tsv)
 
@@ -12265,7 +12265,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_295/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_295/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_295/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_295/hits.tsv)
 
@@ -12301,7 +12301,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_291/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_291/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_291/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_291/hits.tsv)
 
@@ -12336,7 +12336,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_282/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_282/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_282/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_282/hits.tsv)
 
@@ -12373,7 +12373,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_280/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_280/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_280/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_280/hits.tsv)
 
@@ -12407,7 +12407,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_273/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_273/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_273/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_273/hits.tsv)
 
@@ -12438,7 +12438,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_269/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_269/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_269/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_269/hits.tsv)
 
@@ -12475,7 +12475,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_262/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_262/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_262/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_262/hits.tsv)
 
@@ -12505,7 +12505,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_259/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_259/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_259/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_259/hits.tsv)
 
@@ -12536,7 +12536,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_253/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_253/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_253/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_253/hits.tsv)
 
@@ -12566,7 +12566,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_244/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_244/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_244/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_244/hits.tsv)
 
@@ -12596,7 +12596,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_240/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_240/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_240/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_240/hits.tsv)
 
@@ -12626,7 +12626,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_235/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_235/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_235/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_235/hits.tsv)
 
@@ -12656,7 +12656,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_228/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_228/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_228/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_228/hits.tsv)
 
@@ -12686,7 +12686,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_217/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_217/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_217/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_217/hits.tsv)
 
@@ -12716,7 +12716,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_209/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_209/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_209/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_209/hits.tsv)
 
@@ -12747,7 +12747,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_205/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_205/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_205/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_205/hits.tsv)
 
@@ -12777,7 +12777,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_197/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_197/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_197/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_197/hits.tsv)
 
@@ -12807,7 +12807,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_171/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_171/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_171/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_171/hits.tsv)
 
@@ -12838,7 +12838,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_164/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_164/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_164/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_164/hits.tsv)
 
@@ -12869,7 +12869,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_138/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_138/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_138/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_138/hits.tsv)
 
@@ -12899,7 +12899,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_136/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_136/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_136/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_136/hits.tsv)
 
@@ -12930,7 +12930,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_130/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_130/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_130/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_130/hits.tsv)
 
@@ -12965,7 +12965,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_113/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_113/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_113/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_113/hits.tsv)
 
@@ -13001,7 +13001,7 @@ Total number of members in cluster: 2
 
 [Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_111/sequences.fa)
 
-[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_111/sequences.logo.eps)
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_111/sequences.logo.pdf)
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206011120/clusters/0002_111/hits.tsv)
 
