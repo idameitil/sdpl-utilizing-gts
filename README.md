@@ -80,7 +80,9 @@ On the HPC run `python3 /work3/idamei/all-vs-all-blast/prepare-all-vs-all.py`
 
 And `sh /work3/idamei/all-vs-all-blast/submit.sh`
 
-When all jobs are finished, run: `tar -czvf /work3/idamei/all-vs-all-blast.tar.gz /work3/idamei/all-vs-all-blast`
+When all jobs are finished, run: 
+`qrsh`
+`tar -czvf /work3/idamei/all-vs-all-blast.tar.gz /work3/idamei/all-vs-all-blast`
 
 Then locally run: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/all-vs-all-blast.tar.gz data/wzy/all-vs-all-blast`
 Unpack it and move to `data/wzy/all-vs-all-blast/`.

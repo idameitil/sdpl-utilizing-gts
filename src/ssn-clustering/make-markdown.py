@@ -9,7 +9,7 @@ timestamp = sys.argv[1]
 
 github_url = 'https://github.com/idameitil/phd/tree/master'
 
-resultsdir = f"data/wzy/ssn-clusterings/clustering/{timestamp}"
+resultsdir = f"data/wzy/ssn-clusterings/{timestamp}"
 
 outfile = open(f"{resultsdir}/report.md", "w")
 outfile.write(f"# Report of ssn-clustering run {timestamp}\n")
@@ -39,7 +39,7 @@ outfile.write('## Navigation\n')
 for cluster in clusters:
     name = cluster.split('_')[1]
     count = cluster.split('_')[0].lstrip('0')
-    navigation_url = f"https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/{timestamp}/report.md#cluster-{name}"
+    navigation_url = f"https://github.com/idameitil/phd/blob/master/{resultsdir}/report.md#cluster-{name}"
     outfile.write(f"[{name}({count})]({navigation_url})  ")
 outfile.write('\n\n')
 
@@ -169,7 +169,7 @@ for cluster in clusters:
             else:
                 images[CSDB_record_id] = [seed]
     for image in images:
-        image_path = f"../../../../csdb/images/{image}.gif"
+        image_path = f"../../../csdb/images/{image}.gif"
         #image_path = f"/Users/idamei/phd/data/csdb/images/{image}.gif"
         seeds = images[image]
         outfile.write(f"{', '.join(seeds)}:\n\n")
@@ -206,7 +206,7 @@ for cluster in clusters:
     outfile.write(taxonomy_table + '\n\n')
 
     # Navigation to top
-    top_navigation_url = f"https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/clustering/{timestamp}/report.md#navigation"
+    top_navigation_url = f"https://github.com/idameitil/phd/blob/master/{resultsdir}/report.md#navigation"
     outfile.write(f"[top]({top_navigation_url})\n")
 
     outfile.write('\n')

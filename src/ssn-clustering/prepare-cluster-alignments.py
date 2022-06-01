@@ -4,7 +4,7 @@ import pandas as pd
 
 timestamp = sys.argv[1]
 
-hpc_directory = f'/work3/idamei/ssn-clusterings/clustering/{timestamp}/clusters'
+hpc_directory = f'/work3/idamei/ssn-clusterings/{timestamp}/clusters'
 
 jobscript=f"""#! /bin/sh 
 ### General options 
@@ -40,9 +40,9 @@ jobscript=f"""#! /bin/sh
 python2 /work3/idamei/bin/seq2logo-2.1/Seq2Logo.py -f {hpc_directory}/CLUSTER/sequences.afa -m 0.0001 -b 50 -o {hpc_directory}/CLUSTER/sequences.logo
 """
 
-clusterdir = f"data/wzy/ssn-clusterings/clustering/{timestamp}/clusters"
-clusters = os.listdir(clusterdir)
-submit_file = open(f"data/wzy/ssn-clusterings/clustering/{timestamp}/submit.sh", "w")
+clusterdir = f"data/wzy/ssn-clusterings/{timestamp}/clusters"
+clusters = [f for f in os.listdir(clusterdir) if not f.startswith('.')]
+submit_file = open(f"data/wzy/ssn-clusterings/{timestamp}/submit.sh", "w")
 for cluster in clusters:
     jobscript_name = f"{clusterdir}/{cluster}/jobscript.sh"
     outfile = open(jobscript_name, "w")
