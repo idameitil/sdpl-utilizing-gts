@@ -20,7 +20,7 @@ Number of clusters: 481
 [File with accessions in each cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters.tsv)
 
 ## Navigation
-[10(512)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-10)  [13(188)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-13)  [30(128)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-30)  [37(123)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-37)  [94(103)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-94)  [2(81)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-2)  [56(58)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-56)  [165(57)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-165)  [55(55)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-55)  [20(52)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-20)  [24(51)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-24)  [19(48)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-19)  [106(44)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-106)  [72(41)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-72)  [8(38)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-8)  [127(38)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-127)  [296(36)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-296)  [181(36)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-181)  [33(33)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-33)  [269(32)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-269)  [187(27)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-187)  [31(26)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-31)  [134(26)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-134)  [86(25)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-86)  [69(25)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-69)  [42(25)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-42)  [98(24)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-98)  [95(24)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-95)  [59(24)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-59)  [149(24)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-149)  [99(23)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-99)  [129(23)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-129)  [260(22)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-260)  [112(22)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-112)  [9(21)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-9)  [12(21)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-12)  [113(21)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-113)  [111(21)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-111)  [312(20)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-312)  [232(20)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-232)  [89(19)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-89)  [84(19)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-84)  [6(19)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-6)  [141(19)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-141)  [122(19)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-122)  [83(18)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-83)  [75(18)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-75)  [15(18)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-15)  [96(17)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-96)  [48(17)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-48)  [157(17)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-157)  [50(16)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-50)  [343(16)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-343)  [274(16)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-274)  [218(16)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-218)  [197(16)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-197)  [80(15)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-80)  [23(15)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-23)  [188(15)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-188)  [173(15)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-173)  [81(14)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-81)  [307(14)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-307)  [283(14)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-283)  [26(14)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-26)  [211(14)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-211)  [163(14)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-163)  [38(13)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-38)  [315(13)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-315)  [250(13)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-250)  [245(13)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-245)  [225(13)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-225)  [210(13)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-210)  [176(13)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-176)  [175(13)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-175)  [158(13)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-158)  [154(13)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-154)  [153(13)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-153)  [150(13)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-150)  [71(12)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-71)  [44(12)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-44)  [371(12)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-371)  [336(12)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-336)  [262(12)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-262)  [22(12)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-22)  [16(12)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-16)  [135(12)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-135)  [133(12)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-133)  [118(12)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-118)  [97(11)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-97)  [67(11)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-67)  [40(11)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-40)  [3(11)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-3)  [275(11)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-275)  [254(11)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-254)  [183(11)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-183)  [142(11)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-142)  [119(11)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-119)  [117(11)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-117)  [100(11)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-100)  [93(10)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-93)  [90(10)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-90)  [73(10)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-73)  [65(10)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-65)  [46(10)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-46)  [420(10)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-420)  [412(10)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-412)  [266(10)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-266)  [263(10)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-263)  [233(10)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-233)  [230(10)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-230)  [174(10)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-174)  [155(10)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-155)  [145(10)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-145)  [130(10)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-130)  [128(10)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-128)  [126(10)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-126)  [114(10)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-114)  [104(10)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-104)  [79(9)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-79)  [74(9)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-74)  [7(9)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-7)  [60(9)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-60)  [54(9)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-54)  [43(9)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-43)  [393(9)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-393)  [310(9)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-310)  [302(9)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-302)  [301(9)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-301)  [284(9)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-284)  [28(9)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-28)  [259(9)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-259)  [25(9)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-25)  [235(9)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-235)  [226(9)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-226)  [214(9)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-214)  [148(9)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-148)  [136(9)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-136)  [131(9)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-131)  [45(8)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-45)  [400(8)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-400)  [345(8)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-345)  [344(8)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-344)  [319(8)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-319)  [304(8)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-304)  [278(8)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-278)  [231(8)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-231)  [222(8)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-222)  [216(8)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-216)  [186(8)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-186)  [185(8)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-185)  [182(8)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-182)  [171(8)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-171)  [17(8)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-17)  [162(8)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-162)  [161(8)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-161)  [88(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-88)  [82(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-82)  [49(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-49)  [391(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-391)  [387(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-387)  [349(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-349)  [348(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-348)  [323(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-323)  [298(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-298)  [293(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-293)  [246(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-246)  [244(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-244)  [241(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-241)  [224(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-224)  [217(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-217)  [203(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-203)  [192(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-192)  [184(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-184)  [179(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-179)  [164(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-164)  [146(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-146)  [143(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-143)  [110(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-110)  [11(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-11)  [1(7)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-1)  [78(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-78)  [77(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-77)  [64(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-64)  [409(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-409)  [402(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-402)  [390(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-390)  [364(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-364)  [36(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-36)  [351(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-351)  [318(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-318)  [311(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-311)  [306(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-306)  [294(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-294)  [288(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-288)  [264(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-264)  [258(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-258)  [252(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-252)  [247(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-247)  [213(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-213)  [202(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-202)  [201(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-201)  [196(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-196)  [180(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-180)  [170(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-170)  [156(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-156)  [152(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-152)  [125(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-125)  [124(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-124)  [121(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-121)  [103(6)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-103)  [68(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-68)  [66(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-66)  [47(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-47)  [445(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-445)  [444(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-444)  [441(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-441)  [437(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-437)  [416(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-416)  [399(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-399)  [384(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-384)  [370(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-370)  [363(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-363)  [358(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-358)  [350(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-350)  [35(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-35)  [342(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-342)  [337(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-337)  [334(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-334)  [324(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-324)  [320(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-320)  [308(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-308)  [29(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-29)  [289(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-289)  [280(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-280)  [277(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-277)  [272(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-272)  [267(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-267)  [256(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-256)  [239(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-239)  [237(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-237)  [236(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-236)  [234(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-234)  [198(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-198)  [195(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-195)  [189(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-189)  [178(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-178)  [177(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-177)  [138(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-138)  [123(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-123)  [101(5)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-101)  [85(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-85)  [62(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-62)  [61(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-61)  [52(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-52)  [461(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-461)  [455(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-455)  [439(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-439)  [430(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-430)  [405(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-405)  [401(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-401)  [396(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-396)  [395(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-395)  [392(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-392)  [39(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-39)  [389(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-389)  [388(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-388)  [379(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-379)  [377(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-377)  [375(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-375)  [374(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-374)  [366(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-366)  [361(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-361)  [360(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-360)  [356(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-356)  [347(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-347)  [341(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-341)  [340(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-340)  [329(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-329)  [326(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-326)  [322(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-322)  [32(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-32)  [317(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-317)  [303(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-303)  [300(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-300)  [287(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-287)  [286(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-286)  [285(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-285)  [281(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-281)  [273(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-273)  [255(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-255)  [251(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-251)  [242(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-242)  [240(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-240)  [238(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-238)  [221(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-221)  [220(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-220)  [219(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-219)  [215(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-215)  [21(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-21)  [207(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-207)  [191(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-191)  [169(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-169)  [160(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-160)  [144(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-144)  [139(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-139)  [132(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-132)  [107(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-107)  [105(4)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-105)  [92(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-92)  [91(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-91)  [87(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-87)  [70(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-70)  [63(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-63)  [57(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-57)  [53(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-53)  [476(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-476)  [466(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-466)  [462(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-462)  [459(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-459)  [458(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-458)  [450(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-450)  [440(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-440)  [438(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-438)  [436(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-436)  [431(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-431)  [425(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-425)  [423(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-423)  [419(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-419)  [418(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-418)  [41(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-41)  [404(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-404)  [397(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-397)  [394(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-394)  [380(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-380)  [378(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-378)  [376(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-376)  [372(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-372)  [369(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-369)  [368(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-368)  [367(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-367)  [359(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-359)  [355(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-355)  [353(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-353)  [352(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-352)  [339(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-339)  [338(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-338)  [335(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-335)  [332(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-332)  [331(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-331)  [330(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-330)  [328(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-328)  [321(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-321)  [313(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-313)  [292(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-292)  [282(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-282)  [279(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-279)  [276(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-276)  [271(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-271)  [270(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-270)  [27(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-27)  [249(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-249)  [248(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-248)  [243(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-243)  [229(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-229)  [228(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-228)  [209(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-209)  [208(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-208)  [206(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-206)  [205(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-205)  [194(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-194)  [190(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-190)  [18(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-18)  [172(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-172)  [168(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-168)  [166(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-166)  [151(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-151)  [14(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-14)  [120(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-120)  [109(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-109)  [102(3)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-102)  [76(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-76)  [58(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-58)  [51(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-51)  [5(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-5)  [481(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-481)  [480(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-480)  [479(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-479)  [478(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-478)  [477(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-477)  [475(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-475)  [474(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-474)  [473(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-473)  [472(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-472)  [471(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-471)  [470(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-470)  [469(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-469)  [468(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-468)  [467(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-467)  [465(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-465)  [464(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-464)  [463(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-463)  [460(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-460)  [457(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-457)  [456(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-456)  [454(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-454)  [453(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-453)  [452(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-452)  [451(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-451)  [449(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-449)  [448(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-448)  [447(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-447)  [446(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-446)  [443(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-443)  [442(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-442)  [435(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-435)  [434(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-434)  [433(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-433)  [432(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-432)  [429(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-429)  [428(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-428)  [427(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-427)  [426(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-426)  [424(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-424)  [422(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-422)  [421(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-421)  [417(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-417)  [415(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-415)  [414(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-414)  [413(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-413)  [411(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-411)  [410(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-410)  [408(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-408)  [407(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-407)  [406(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-406)  [403(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-403)  [4(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-4)  [398(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-398)  [386(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-386)  [385(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-385)  [383(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-383)  [382(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-382)  [381(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-381)  [373(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-373)  [365(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-365)  [362(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-362)  [357(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-357)  [354(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-354)  [346(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-346)  [34(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-34)  [333(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-333)  [327(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-327)  [325(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-325)  [316(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-316)  [314(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-314)  [309(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-309)  [305(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-305)  [299(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-299)  [297(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-297)  [295(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-295)  [291(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-291)  [290(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-290)  [268(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-268)  [265(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-265)  [261(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-261)  [257(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-257)  [253(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-253)  [227(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-227)  [223(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-223)  [212(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-212)  [204(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-204)  [200(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-200)  [199(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-199)  [193(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-193)  [167(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-167)  [159(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-159)  [147(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-147)  [140(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-140)  [137(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-137)  [116(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-116)  [115(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-115)  [108(2)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-108)  [Store(.DS)](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#cluster-Store)  
+[10(512)](#cluster-10)  [13(188)](#cluster-13)  [30(128)](#cluster-30)  [37(123)](#cluster-37)  [94(103)](#cluster-94)  [2(81)](#cluster-2)  [56(58)](#cluster-56)  [165(57)](#cluster-165)  [55(55)](#cluster-55)  [20(52)](#cluster-20)  [24(51)](#cluster-24)  [19(48)](#cluster-19)  [106(44)](#cluster-106)  [72(41)](#cluster-72)  [8(38)](#cluster-8)  [127(38)](#cluster-127)  [296(36)](#cluster-296)  [181(36)](#cluster-181)  [33(33)](#cluster-33)  [269(32)](#cluster-269)  [187(27)](#cluster-187)  [31(26)](#cluster-31)  [134(26)](#cluster-134)  [86(25)](#cluster-86)  [69(25)](#cluster-69)  [42(25)](#cluster-42)  [98(24)](#cluster-98)  [95(24)](#cluster-95)  [59(24)](#cluster-59)  [149(24)](#cluster-149)  [99(23)](#cluster-99)  [129(23)](#cluster-129)  [260(22)](#cluster-260)  [112(22)](#cluster-112)  [9(21)](#cluster-9)  [12(21)](#cluster-12)  [113(21)](#cluster-113)  [111(21)](#cluster-111)  [312(20)](#cluster-312)  [232(20)](#cluster-232)  [89(19)](#cluster-89)  [84(19)](#cluster-84)  [6(19)](#cluster-6)  [141(19)](#cluster-141)  [122(19)](#cluster-122)  [83(18)](#cluster-83)  [75(18)](#cluster-75)  [15(18)](#cluster-15)  [96(17)](#cluster-96)  [48(17)](#cluster-48)  [157(17)](#cluster-157)  [50(16)](#cluster-50)  [343(16)](#cluster-343)  [274(16)](#cluster-274)  [218(16)](#cluster-218)  [197(16)](#cluster-197)  [80(15)](#cluster-80)  [23(15)](#cluster-23)  [188(15)](#cluster-188)  [173(15)](#cluster-173)  [81(14)](#cluster-81)  [307(14)](#cluster-307)  [283(14)](#cluster-283)  [26(14)](#cluster-26)  [211(14)](#cluster-211)  [163(14)](#cluster-163)  [38(13)](#cluster-38)  [315(13)](#cluster-315)  [250(13)](#cluster-250)  [245(13)](#cluster-245)  [225(13)](#cluster-225)  [210(13)](#cluster-210)  [176(13)](#cluster-176)  [175(13)](#cluster-175)  [158(13)](#cluster-158)  [154(13)](#cluster-154)  [153(13)](#cluster-153)  [150(13)](#cluster-150)  [71(12)](#cluster-71)  [44(12)](#cluster-44)  [371(12)](#cluster-371)  [336(12)](#cluster-336)  [262(12)](#cluster-262)  [22(12)](#cluster-22)  [16(12)](#cluster-16)  [135(12)](#cluster-135)  [133(12)](#cluster-133)  [118(12)](#cluster-118)  [97(11)](#cluster-97)  [67(11)](#cluster-67)  [40(11)](#cluster-40)  [3(11)](#cluster-3)  [275(11)](#cluster-275)  [254(11)](#cluster-254)  [183(11)](#cluster-183)  [142(11)](#cluster-142)  [119(11)](#cluster-119)  [117(11)](#cluster-117)  [100(11)](#cluster-100)  [93(10)](#cluster-93)  [90(10)](#cluster-90)  [73(10)](#cluster-73)  [65(10)](#cluster-65)  [46(10)](#cluster-46)  [420(10)](#cluster-420)  [412(10)](#cluster-412)  [266(10)](#cluster-266)  [263(10)](#cluster-263)  [233(10)](#cluster-233)  [230(10)](#cluster-230)  [174(10)](#cluster-174)  [155(10)](#cluster-155)  [145(10)](#cluster-145)  [130(10)](#cluster-130)  [128(10)](#cluster-128)  [126(10)](#cluster-126)  [114(10)](#cluster-114)  [104(10)](#cluster-104)  [79(9)](#cluster-79)  [74(9)](#cluster-74)  [7(9)](#cluster-7)  [60(9)](#cluster-60)  [54(9)](#cluster-54)  [43(9)](#cluster-43)  [393(9)](#cluster-393)  [310(9)](#cluster-310)  [302(9)](#cluster-302)  [301(9)](#cluster-301)  [284(9)](#cluster-284)  [28(9)](#cluster-28)  [259(9)](#cluster-259)  [25(9)](#cluster-25)  [235(9)](#cluster-235)  [226(9)](#cluster-226)  [214(9)](#cluster-214)  [148(9)](#cluster-148)  [136(9)](#cluster-136)  [131(9)](#cluster-131)  [45(8)](#cluster-45)  [400(8)](#cluster-400)  [345(8)](#cluster-345)  [344(8)](#cluster-344)  [319(8)](#cluster-319)  [304(8)](#cluster-304)  [278(8)](#cluster-278)  [231(8)](#cluster-231)  [222(8)](#cluster-222)  [216(8)](#cluster-216)  [186(8)](#cluster-186)  [185(8)](#cluster-185)  [182(8)](#cluster-182)  [171(8)](#cluster-171)  [17(8)](#cluster-17)  [162(8)](#cluster-162)  [161(8)](#cluster-161)  [88(7)](#cluster-88)  [82(7)](#cluster-82)  [49(7)](#cluster-49)  [391(7)](#cluster-391)  [387(7)](#cluster-387)  [349(7)](#cluster-349)  [348(7)](#cluster-348)  [323(7)](#cluster-323)  [298(7)](#cluster-298)  [293(7)](#cluster-293)  [246(7)](#cluster-246)  [244(7)](#cluster-244)  [241(7)](#cluster-241)  [224(7)](#cluster-224)  [217(7)](#cluster-217)  [203(7)](#cluster-203)  [192(7)](#cluster-192)  [184(7)](#cluster-184)  [179(7)](#cluster-179)  [164(7)](#cluster-164)  [146(7)](#cluster-146)  [143(7)](#cluster-143)  [110(7)](#cluster-110)  [11(7)](#cluster-11)  [1(7)](#cluster-1)  [78(6)](#cluster-78)  [77(6)](#cluster-77)  [64(6)](#cluster-64)  [409(6)](#cluster-409)  [402(6)](#cluster-402)  [390(6)](#cluster-390)  [364(6)](#cluster-364)  [36(6)](#cluster-36)  [351(6)](#cluster-351)  [318(6)](#cluster-318)  [311(6)](#cluster-311)  [306(6)](#cluster-306)  [294(6)](#cluster-294)  [288(6)](#cluster-288)  [264(6)](#cluster-264)  [258(6)](#cluster-258)  [252(6)](#cluster-252)  [247(6)](#cluster-247)  [213(6)](#cluster-213)  [202(6)](#cluster-202)  [201(6)](#cluster-201)  [196(6)](#cluster-196)  [180(6)](#cluster-180)  [170(6)](#cluster-170)  [156(6)](#cluster-156)  [152(6)](#cluster-152)  [125(6)](#cluster-125)  [124(6)](#cluster-124)  [121(6)](#cluster-121)  [103(6)](#cluster-103)  [68(5)](#cluster-68)  [66(5)](#cluster-66)  [47(5)](#cluster-47)  [445(5)](#cluster-445)  [444(5)](#cluster-444)  [441(5)](#cluster-441)  [437(5)](#cluster-437)  [416(5)](#cluster-416)  [399(5)](#cluster-399)  [384(5)](#cluster-384)  [370(5)](#cluster-370)  [363(5)](#cluster-363)  [358(5)](#cluster-358)  [350(5)](#cluster-350)  [35(5)](#cluster-35)  [342(5)](#cluster-342)  [337(5)](#cluster-337)  [334(5)](#cluster-334)  [324(5)](#cluster-324)  [320(5)](#cluster-320)  [308(5)](#cluster-308)  [29(5)](#cluster-29)  [289(5)](#cluster-289)  [280(5)](#cluster-280)  [277(5)](#cluster-277)  [272(5)](#cluster-272)  [267(5)](#cluster-267)  [256(5)](#cluster-256)  [239(5)](#cluster-239)  [237(5)](#cluster-237)  [236(5)](#cluster-236)  [234(5)](#cluster-234)  [198(5)](#cluster-198)  [195(5)](#cluster-195)  [189(5)](#cluster-189)  [178(5)](#cluster-178)  [177(5)](#cluster-177)  [138(5)](#cluster-138)  [123(5)](#cluster-123)  [101(5)](#cluster-101)  [85(4)](#cluster-85)  [62(4)](#cluster-62)  [61(4)](#cluster-61)  [52(4)](#cluster-52)  [461(4)](#cluster-461)  [455(4)](#cluster-455)  [439(4)](#cluster-439)  [430(4)](#cluster-430)  [405(4)](#cluster-405)  [401(4)](#cluster-401)  [396(4)](#cluster-396)  [395(4)](#cluster-395)  [392(4)](#cluster-392)  [39(4)](#cluster-39)  [389(4)](#cluster-389)  [388(4)](#cluster-388)  [379(4)](#cluster-379)  [377(4)](#cluster-377)  [375(4)](#cluster-375)  [374(4)](#cluster-374)  [366(4)](#cluster-366)  [361(4)](#cluster-361)  [360(4)](#cluster-360)  [356(4)](#cluster-356)  [347(4)](#cluster-347)  [341(4)](#cluster-341)  [340(4)](#cluster-340)  [329(4)](#cluster-329)  [326(4)](#cluster-326)  [322(4)](#cluster-322)  [32(4)](#cluster-32)  [317(4)](#cluster-317)  [303(4)](#cluster-303)  [300(4)](#cluster-300)  [287(4)](#cluster-287)  [286(4)](#cluster-286)  [285(4)](#cluster-285)  [281(4)](#cluster-281)  [273(4)](#cluster-273)  [255(4)](#cluster-255)  [251(4)](#cluster-251)  [242(4)](#cluster-242)  [240(4)](#cluster-240)  [238(4)](#cluster-238)  [221(4)](#cluster-221)  [220(4)](#cluster-220)  [219(4)](#cluster-219)  [215(4)](#cluster-215)  [21(4)](#cluster-21)  [207(4)](#cluster-207)  [191(4)](#cluster-191)  [169(4)](#cluster-169)  [160(4)](#cluster-160)  [144(4)](#cluster-144)  [139(4)](#cluster-139)  [132(4)](#cluster-132)  [107(4)](#cluster-107)  [105(4)](#cluster-105)  [92(3)](#cluster-92)  [91(3)](#cluster-91)  [87(3)](#cluster-87)  [70(3)](#cluster-70)  [63(3)](#cluster-63)  [57(3)](#cluster-57)  [53(3)](#cluster-53)  [476(3)](#cluster-476)  [466(3)](#cluster-466)  [462(3)](#cluster-462)  [459(3)](#cluster-459)  [458(3)](#cluster-458)  [450(3)](#cluster-450)  [440(3)](#cluster-440)  [438(3)](#cluster-438)  [436(3)](#cluster-436)  [431(3)](#cluster-431)  [425(3)](#cluster-425)  [423(3)](#cluster-423)  [419(3)](#cluster-419)  [418(3)](#cluster-418)  [41(3)](#cluster-41)  [404(3)](#cluster-404)  [397(3)](#cluster-397)  [394(3)](#cluster-394)  [380(3)](#cluster-380)  [378(3)](#cluster-378)  [376(3)](#cluster-376)  [372(3)](#cluster-372)  [369(3)](#cluster-369)  [368(3)](#cluster-368)  [367(3)](#cluster-367)  [359(3)](#cluster-359)  [355(3)](#cluster-355)  [353(3)](#cluster-353)  [352(3)](#cluster-352)  [339(3)](#cluster-339)  [338(3)](#cluster-338)  [335(3)](#cluster-335)  [332(3)](#cluster-332)  [331(3)](#cluster-331)  [330(3)](#cluster-330)  [328(3)](#cluster-328)  [321(3)](#cluster-321)  [313(3)](#cluster-313)  [292(3)](#cluster-292)  [282(3)](#cluster-282)  [279(3)](#cluster-279)  [276(3)](#cluster-276)  [271(3)](#cluster-271)  [270(3)](#cluster-270)  [27(3)](#cluster-27)  [249(3)](#cluster-249)  [248(3)](#cluster-248)  [243(3)](#cluster-243)  [229(3)](#cluster-229)  [228(3)](#cluster-228)  [209(3)](#cluster-209)  [208(3)](#cluster-208)  [206(3)](#cluster-206)  [205(3)](#cluster-205)  [194(3)](#cluster-194)  [190(3)](#cluster-190)  [18(3)](#cluster-18)  [172(3)](#cluster-172)  [168(3)](#cluster-168)  [166(3)](#cluster-166)  [151(3)](#cluster-151)  [14(3)](#cluster-14)  [120(3)](#cluster-120)  [109(3)](#cluster-109)  [102(3)](#cluster-102)  [76(2)](#cluster-76)  [58(2)](#cluster-58)  [51(2)](#cluster-51)  [5(2)](#cluster-5)  [481(2)](#cluster-481)  [480(2)](#cluster-480)  [479(2)](#cluster-479)  [478(2)](#cluster-478)  [477(2)](#cluster-477)  [475(2)](#cluster-475)  [474(2)](#cluster-474)  [473(2)](#cluster-473)  [472(2)](#cluster-472)  [471(2)](#cluster-471)  [470(2)](#cluster-470)  [469(2)](#cluster-469)  [468(2)](#cluster-468)  [467(2)](#cluster-467)  [465(2)](#cluster-465)  [464(2)](#cluster-464)  [463(2)](#cluster-463)  [460(2)](#cluster-460)  [457(2)](#cluster-457)  [456(2)](#cluster-456)  [454(2)](#cluster-454)  [453(2)](#cluster-453)  [452(2)](#cluster-452)  [451(2)](#cluster-451)  [449(2)](#cluster-449)  [448(2)](#cluster-448)  [447(2)](#cluster-447)  [446(2)](#cluster-446)  [443(2)](#cluster-443)  [442(2)](#cluster-442)  [435(2)](#cluster-435)  [434(2)](#cluster-434)  [433(2)](#cluster-433)  [432(2)](#cluster-432)  [429(2)](#cluster-429)  [428(2)](#cluster-428)  [427(2)](#cluster-427)  [426(2)](#cluster-426)  [424(2)](#cluster-424)  [422(2)](#cluster-422)  [421(2)](#cluster-421)  [417(2)](#cluster-417)  [415(2)](#cluster-415)  [414(2)](#cluster-414)  [413(2)](#cluster-413)  [411(2)](#cluster-411)  [410(2)](#cluster-410)  [408(2)](#cluster-408)  [407(2)](#cluster-407)  [406(2)](#cluster-406)  [403(2)](#cluster-403)  [4(2)](#cluster-4)  [398(2)](#cluster-398)  [386(2)](#cluster-386)  [385(2)](#cluster-385)  [383(2)](#cluster-383)  [382(2)](#cluster-382)  [381(2)](#cluster-381)  [373(2)](#cluster-373)  [365(2)](#cluster-365)  [362(2)](#cluster-362)  [357(2)](#cluster-357)  [354(2)](#cluster-354)  [346(2)](#cluster-346)  [34(2)](#cluster-34)  [333(2)](#cluster-333)  [327(2)](#cluster-327)  [325(2)](#cluster-325)  [316(2)](#cluster-316)  [314(2)](#cluster-314)  [309(2)](#cluster-309)  [305(2)](#cluster-305)  [299(2)](#cluster-299)  [297(2)](#cluster-297)  [295(2)](#cluster-295)  [291(2)](#cluster-291)  [290(2)](#cluster-290)  [268(2)](#cluster-268)  [265(2)](#cluster-265)  [261(2)](#cluster-261)  [257(2)](#cluster-257)  [253(2)](#cluster-253)  [227(2)](#cluster-227)  [223(2)](#cluster-223)  [212(2)](#cluster-212)  [204(2)](#cluster-204)  [200(2)](#cluster-200)  [199(2)](#cluster-199)  [193(2)](#cluster-193)  [167(2)](#cluster-167)  [159(2)](#cluster-159)  [147(2)](#cluster-147)  [140(2)](#cluster-140)  [137(2)](#cluster-137)  [116(2)](#cluster-116)  [115(2)](#cluster-115)  [108(2)](#cluster-108)  
 
 ## Clusters
 ### Cluster 10
@@ -139,7 +139,7 @@ Total number of members in cluster: 512
 | Pseudomonadales (1)    | Pseudomonadaceae (1)     | Pseudomonas (1)                     |
 | nan (1)                | nan (2)                  | nan (6)                             |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 13
 Total number of members in cluster: 188
@@ -250,7 +250,7 @@ AHB32215.1:
 | Methylococcales (1)    | Methylococcaceae (1)       | Methylovulum (1)            |
 | Pelagibacterales (1)   | Pelagibacteraceae (1)      | nan (2)                     |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 30
 Total number of members in cluster: 128
@@ -307,7 +307,7 @@ BAQ00795.1:
 | Aeromonadales (2)    | Aeromonadaceae (2)     | Aeromonas (2)        |
 | Vibrionales (1)      | Vibrionaceae (1)       | Photobacterium (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 37
 Total number of members in cluster: 123
@@ -363,7 +363,7 @@ Total number of members in cluster: 123
 |                      | Bacteroidaceae (2)    | Phocaeicola (2)          |
 | nan (2)              | nan (7)               | Sedimentibacter (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 94
 Total number of members in cluster: 103
@@ -438,7 +438,7 @@ AFN02899.1:
 | Silvanigrellales (1)  | nan (1)                    | nan (2)                |
 | Synergistales (1)     | Synergistaceae (1)         | Acetomicrobium (1)     |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 2
 Total number of members in cluster: 81
@@ -485,7 +485,7 @@ Total number of members in cluster: 81
 | Cytophagales (1)       | Spirosomaceae (1)       | Dyadobacter (1)        |
 | Chitinophagales (1)    | Chitinophagaceae (1)    | nan (3)                |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 56
 Total number of members in cluster: 58
@@ -548,7 +548,7 @@ AHB32411.1:
 | Chlorobiales (1)       | Chlorobiaceae (1)         | nan (1)                |
 | Rickettsiales (1)      | nan (1)                   | nan (1)                |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 165
 Total number of members in cluster: 57
@@ -581,7 +581,7 @@ Total number of members in cluster: 57
 |:---------------------|:----------------------|:-------------------|
 | Lactobacillales (57) | Streptococcaceae (57) | Streptococcus (57) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 55
 Total number of members in cluster: 55
@@ -660,7 +660,7 @@ CAI34657.1:
 | Erysipelotrichales (1) | Erysipelotrichaceae (1) | Solobacterium (1)      |
 | Coriobacteriales (1)   | Coriobacteriaceae (1)   | nan (1)                |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 20
 Total number of members in cluster: 52
@@ -711,7 +711,7 @@ Total number of members in cluster: 52
 | Bacillales (3)         | Bacillaceae (2)         | Bacillus (2)         |
 |                        | Planococcaceae (1)      | Ureibacillus (1)     |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 24
 Total number of members in cluster: 51
@@ -777,7 +777,7 @@ CAI33631.1:
 | Bifidobacteriales (1)  | Bifidobacteriaceae (1)  | Bifidobacterium (1)                 |
 | Erysipelotrichales (1) | Erysipelotrichaceae (1) | Massilimicrobiota (1)               |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 19
 Total number of members in cluster: 48
@@ -824,7 +824,7 @@ AHB32637.1:
 |                       | Erwiniaceae (2)         | Pantoea (1)        |
 |                       |                         | Erwinia (1)        |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 106
 Total number of members in cluster: 44
@@ -892,7 +892,7 @@ AAL20257.1:
 |                       |                         | Duganella (1)         |
 |                       |                         | Janthinobacterium (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 72
 Total number of members in cluster: 41
@@ -945,7 +945,7 @@ ACD75796.1:
 | Campylobacterales (1) | Arcobacteraceae (1)     | Aliarcobacter (1) |
 | Pasteurellales (1)    | Pasteurellaceae (1)     | Mannheimia (1)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 8
 Total number of members in cluster: 38
@@ -1025,7 +1025,7 @@ BAQ00945.1:
 |                       |                         | Serratia (1)       |
 | Vibrionales (1)       | Vibrionaceae (1)        | Photobacterium (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 127
 Total number of members in cluster: 38
@@ -1065,7 +1065,7 @@ Total number of members in cluster: 38
 |                       | Yersiniaceae (17)       | Serratia (17)     |
 | Moraxellales (2)      | Moraxellaceae (2)       | Acinetobacter (2) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 296
 Total number of members in cluster: 36
@@ -1126,7 +1126,7 @@ AAM27615.1:
 | Sphingobacteriales (1)     | Sphingobacteriaceae (1)                               | Pedobacter (1)            |
 | Flavobacteriales (1)       | Flavobacteriaceae (1)                                 | Flavobacterium (1)        |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 181
 Total number of members in cluster: 36
@@ -1179,7 +1179,7 @@ AAM27711.1:
 | Aeromonadales (1)      | Aeromonadaceae (1)      | Aeromonas (1)     |
 | Hyphomicrobiales (1)   | Stappiaceae (1)         | Pannonibacter (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 33
 Total number of members in cluster: 33
@@ -1219,7 +1219,7 @@ Total number of members in cluster: 33
 | Planctomycetales (1)  | Planctomycetaceae (1)  | Rubinisphaera (1)    |
 | Nitrosomonadales (1)  | Nitrosomonadaceae (1)  | Nitrosomonas (1)     |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 269
 Total number of members in cluster: 32
@@ -1263,7 +1263,7 @@ ADI43271.1:
 |                       |                         | Rosenbergiella (1) |
 |                       | Yersiniaceae (1)        | Rouxiella (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 187
 Total number of members in cluster: 27
@@ -1326,7 +1326,7 @@ AAM27748.1:
 | Oceanospirillales (1) | Oceanospirillaceae (1) | Nitrincola (1)   |
 | Burkholderiales (1)   | Alcaligenaceae (1)     | Bordetella (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 31
 Total number of members in cluster: 26
@@ -1375,7 +1375,7 @@ CAI33798.1:
 |                       | nan (1)                | nan (1)                  |
 | Bifidobacteriales (3) | Bifidobacteriaceae (3) | Bifidobacterium (3)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 134
 Total number of members in cluster: 26
@@ -1432,7 +1432,7 @@ AFW04883.1:
 |                       |                         | Ewingella (1)    |
 |                       | Erwiniaceae (1)         | Pantoea (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 86
 Total number of members in cluster: 25
@@ -1476,7 +1476,7 @@ Total number of members in cluster: 25
 | nan (2)                | nan (8)                 | nan (8)               |
 | Sphingobacteriales (1) | Sphingobacteriaceae (1) | Solitalea (1)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 69
 Total number of members in cluster: 25
@@ -1521,7 +1521,7 @@ CAI34269.1:
 | Erysipelotrichales (2) | Erysipelotrichaceae (1) | Absiella (1)       |
 |                        | Coprobacillaceae (1)    | Sharpea (1)        |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 42
 Total number of members in cluster: 25
@@ -1577,7 +1577,7 @@ ABU80601.1:
 | Campylobacterales (1) | Arcobacteraceae (1)    | Aliarcobacter (1)  |
 | Cytophagales (1)      | Cyclobacteriaceae (1)  | Litoribacter (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 98
 Total number of members in cluster: 24
@@ -1638,7 +1638,7 @@ CAI34436.1:
 | Bacillales (3)       | nan (3)               | Gemella (3)        |
 | Pasteurellales (1)   | Pasteurellaceae (1)   | Haemophilus (1)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 95
 Total number of members in cluster: 24
@@ -1683,7 +1683,7 @@ AHB32888.2:
 | Alteromonadales (1)  | Pseudoalteromonadaceae (1) | Pseudoalteromonas (1) |
 | nan (1)              | nan (1)                    | Wohlfahrtiimonas (1)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 59
 Total number of members in cluster: 24
@@ -1725,7 +1725,7 @@ AFW04828.1:
 |                       |                         | Proteus (2)     |
 | Aeromonadales (1)     | Aeromonadaceae (1)      | Aeromonas (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 149
 Total number of members in cluster: 24
@@ -1763,7 +1763,7 @@ Total number of members in cluster: 24
 | Bifidobacteriales (1)  | Bifidobacteriaceae (1)  | Bifidobacterium (1)        |
 | Bacteroidales (1)      | Bacteroidaceae (1)      | Phocaeicola (1)            |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 99
 Total number of members in cluster: 23
@@ -1797,7 +1797,7 @@ Total number of members in cluster: 23
 | Oceanospirillales (2) | Halomonadaceae (2)      | Halomonas (2)   |
 | Rhodocyclales (1)     | Zoogloeaceae (1)        | Zoogloea (1)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 129
 Total number of members in cluster: 23
@@ -1838,7 +1838,7 @@ AAM27595.1:
 | nan (1)              | nan (1)                   | nan (1)               |
 | Thiotrichales (1)    | Fastidiosibacteraceae (1) | Cysteiniphilum (1)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 260
 Total number of members in cluster: 22
@@ -1889,7 +1889,7 @@ CAI33840.1:
 |                      |                       | Phocaeicola (1)          |
 | nan (1)              | nan (1)               | nan (1)                  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 112
 Total number of members in cluster: 22
@@ -1919,7 +1919,7 @@ Total number of members in cluster: 22
 |:----------------------|:------------------|:----------------|
 | Enterobacterales (22) | Yersiniaceae (22) | Serratia (22)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 9
 Total number of members in cluster: 21
@@ -1961,7 +1961,7 @@ Total number of members in cluster: 21
 | Pseudanabaenales (1)  | Leptolyngbyaceae (1)   | nan (2)            |
 | Burkholderiales (1)   | Alcaligenaceae (1)     | nan (2)            |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 12
 Total number of members in cluster: 21
@@ -2012,7 +2012,7 @@ AGS07316.1:
 |                       |                         | Citrobacter (2) |
 |                       | Yersiniaceae (1)        | Serratia (1)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 113
 Total number of members in cluster: 21
@@ -2061,7 +2061,7 @@ CDF66396.1:
 | nan (1)               | nan (1)                | nan (1)               |
 | Marinilabiliales (1)  | Marinifilaceae (1)     | Marinifilum (1)       |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 111
 Total number of members in cluster: 21
@@ -2109,7 +2109,7 @@ CAI32772.1:
 | Erysipelotrichales (1) | Erysipelotrichaceae (1) | Amedibacterium (1)      |
 | Acholeplasmatales (1)  | Acholeplasmataceae (1)  | nan (2)                 |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 312
 Total number of members in cluster: 20
@@ -2160,7 +2160,7 @@ AAR97964.1:
 | Pseudomonadales (2)  | Pseudomonadaceae (2)   | Pseudomonas (2)   |
 | nan (1)              | nan (1)                | nan (1)           |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 232
 Total number of members in cluster: 20
@@ -2209,7 +2209,7 @@ ABK27355.1, ABK27354.1, ABK27351.1, BAI31288.1, ABK27350.1, ABK27321.1, ABK27352
 |                       | Pectobacteriaceae (1)   | Pectobacterium (1) |
 |                       | Hafniaceae (1)          | Hafnia (1)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 89
 Total number of members in cluster: 19
@@ -2265,7 +2265,7 @@ BAQ00687.1:
 |                       | Morganellaceae (1)      | Morganella (1)    |
 | Moraxellales (5)      | Moraxellaceae (5)       | Acinetobacter (5) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 84
 Total number of members in cluster: 19
@@ -2303,7 +2303,7 @@ AAC45844.1:
 |                       |                         | Citrobacter (2)  |
 | Vibrionales (1)       | Vibrionaceae (1)        | Aliivibrio (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 6
 Total number of members in cluster: 19
@@ -2349,7 +2349,7 @@ ABX51892.1:
 | Aeromonadales (1)     | Aeromonadaceae (1)     | Aeromonas (1)         |
 | Pseudomonadales (1)   | Marinobacteraceae (1)  | Marinobacter (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 141
 Total number of members in cluster: 19
@@ -2402,7 +2402,7 @@ ACD37181.1:
 |                       |                         | Buttiauxella (1) |
 |                       | Erwiniaceae (1)         | Pantoea (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 122
 Total number of members in cluster: 19
@@ -2449,7 +2449,7 @@ WP_000936592.1, ACF64132.1:
 |                       |                         | Kosakonia (1)    |
 |                       |                         | Citrobacter (1)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 83
 Total number of members in cluster: 18
@@ -2497,7 +2497,7 @@ CAI34008.1:
 | Eggerthellales (1)   | Eggerthellaceae (1)   | Eggerthella (1)         |
 | Coriobacteriales (1) | Coriobacteriaceae (1) | Collinsella (1)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 75
 Total number of members in cluster: 18
@@ -2536,7 +2536,7 @@ AAT85653.1:
 | Moraxellales (2)      | Moraxellaceae (2)       | Acinetobacter (2) |
 | Burkholderiales (1)   | Comamonadaceae (1)      | Comamonas (1)     |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 15
 Total number of members in cluster: 18
@@ -2581,7 +2581,7 @@ CAS09721.1, AAR90892.1:
 |                       |                         | nan (1)         |
 | Aeromonadales (1)     | Aeromonadaceae (1)      | Aeromonas (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 96
 Total number of members in cluster: 17
@@ -2627,7 +2627,7 @@ ACA24764.1, ACA24754.1:
 | nan (2)               | nan (2)                    | Gallaecimonas (1)     |
 | Vibrionales (2)       | Vibrionaceae (2)           | Vibrio (2)            |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 48
 Total number of members in cluster: 17
@@ -2674,7 +2674,7 @@ CAI33491.1:
 | Erysipelotrichales (1) | Erysipelotrichaceae (1) | Faecalitalea (1)    |
 | nan (1)                | nan (1)                 | nan (1)             |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 157
 Total number of members in cluster: 17
@@ -2716,7 +2716,7 @@ BAQ01843.1:
 |                       |                         | Vibrio (1)         |
 | nan (1)               | nan (1)                 | nan (1)            |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 50
 Total number of members in cluster: 16
@@ -2756,7 +2756,7 @@ CAD19991.1, WP_000864940.1, ADT75640.1:
 |                       |                         | Escherichia (5) |
 |                       |                         | Citrobacter (5) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 343
 Total number of members in cluster: 16
@@ -2801,7 +2801,7 @@ AFW04820.1:
 |                       | Morganellaceae (1)      | Proteus (1)     |
 | Neisseriales (1)      | Chromobacteriaceae (1)  | Iodobacter (1)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 274
 Total number of members in cluster: 16
@@ -2843,7 +2843,7 @@ BAQ01716.1:
 |                       | Hafniaceae (1)          | Hafnia (1)       |
 | Vibrionales (1)       | Vibrionaceae (1)        | Vibrio (1)       |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 218
 Total number of members in cluster: 16
@@ -2890,7 +2890,7 @@ CAI33817.1:
 | Bacillales (1)       | Bacillaceae (1)       | Mesobacillus (1)      |
 | nan (1)              | nan (1)               | nan (1)               |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 197
 Total number of members in cluster: 16
@@ -2935,7 +2935,7 @@ AAN23057.1:
 | Legionellales (3)     | Legionellaceae (3) | Legionella (3)  |
 | Spirulinales (1)      | Spirulinaceae (1)  | Spirulina (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 80
 Total number of members in cluster: 15
@@ -2968,7 +2968,7 @@ Total number of members in cluster: 15
 |                       |                         | Escherichia (1)  |
 |                       | Yersiniaceae (1)        | Serratia (1)     |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 23
 Total number of members in cluster: 15
@@ -3008,7 +3008,7 @@ Total number of members in cluster: 15
 | Pseudomonadales (1)  | Pseudomonadaceae (1)                         | Pseudomonas (1)   |
 | Eubacteriales (1)    | Eubacteriales Family XII. Incertae Sedis (1) | Fusibacter (1)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 188
 Total number of members in cluster: 15
@@ -3049,7 +3049,7 @@ ABB04486.1:
 | Vibrionales (2)       | Vibrionaceae (2)        | Vibrio (2)      |
 | Aeromonadales (1)     | Aeromonadaceae (1)      | Aeromonas (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 173
 Total number of members in cluster: 15
@@ -3115,7 +3115,7 @@ CAI34388.1:
 |:---------------------|:----------------------|:-------------------|
 | Lactobacillales (15) | Streptococcaceae (15) | Streptococcus (15) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 81
 Total number of members in cluster: 14
@@ -3168,7 +3168,7 @@ CAI33029.1:
 | Lactobacillales (14) | Streptococcaceae (13) | Streptococcus (13) |
 |                      | Aerococcaceae (1)     | Globicatella (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 307
 Total number of members in cluster: 14
@@ -3219,7 +3219,7 @@ ACA24840.1:
 |                       | Erwiniaceae (1)        | Pantoea (1)         |
 |                       | Yersiniaceae (1)       | Yersinia (1)        |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 283
 Total number of members in cluster: 14
@@ -3261,7 +3261,7 @@ AHG15281.1, AFD18613.1, AAX58762.1:
 |                       |                         | Escherichia (5)  |
 |                       | Morganellaceae (1)      | Photorhabdus (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 26
 Total number of members in cluster: 14
@@ -3298,7 +3298,7 @@ BAQ01675.1:
 |                       |                         | Escherichia (4)       |
 |                       |                         | Superficieibacter (2) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 211
 Total number of members in cluster: 14
@@ -3343,7 +3343,7 @@ CBN82200.1:
 |                      |                            | Polaromonas (1)       |
 |                      | Burkholderiaceae (1)       | Ralstonia (1)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 163
 Total number of members in cluster: 14
@@ -3375,7 +3375,7 @@ Total number of members in cluster: 14
 | Moraxellales (13)  | Moraxellaceae (13)  | Acinetobacter (13) |
 | Pasteurellales (1) | Pasteurellaceae (1) | Glaesserella (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 38
 Total number of members in cluster: 13
@@ -3423,7 +3423,7 @@ ACA24868.1:
 |                       |                         | Klebsiella (1)   |
 | Vibrionales (1)       | Vibrionaceae (1)        | Vibrio (1)       |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 315
 Total number of members in cluster: 13
@@ -3466,7 +3466,7 @@ AFW04812.1:
 |                       |                         | Escherichia (5)  |
 |                       |                         | Enterobacter (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 250
 Total number of members in cluster: 13
@@ -3514,7 +3514,7 @@ EKI39969.1, BAK68980.1, EKK44895.1, BAK69191.1, BAK69033.1, AAC32340.1, EKI95922
 |                       |                         | Citrobacter (1)  |
 |                       |                         | Salmonella (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 245
 Total number of members in cluster: 13
@@ -3562,7 +3562,7 @@ BAQ01494.1, AFS33314.1:
 |                       | Hafniaceae (1)         | Edwardsiella (1)   |
 | Vibrionales (1)       | Vibrionaceae (1)       | Photobacterium (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 225
 Total number of members in cluster: 13
@@ -3601,7 +3601,7 @@ BAQ01317.1:
 |                       |                         | Lelliottia (1)   |
 |                       |                         | Cedecea (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 210
 Total number of members in cluster: 13
@@ -3646,7 +3646,7 @@ AGS07346.1:
 | Enterobacterales (13) | Enterobacteriaceae (13) | Salmonella (11) |
 |                       |                         | Citrobacter (2) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 176
 Total number of members in cluster: 13
@@ -3684,7 +3684,7 @@ Total number of members in cluster: 13
 | Acidobacteriales (1)   | Acidobacteriaceae (1)   | Granulicella (1)   |
 | Salinisphaerales (1)   | Salinisphaeraceae (1)   | Salinisphaera (1)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 175
 Total number of members in cluster: 13
@@ -3725,7 +3725,7 @@ ACD37026.1:
 |                       | Morganellaceae (1)     | Xenorhabdus (1)    |
 | Vibrionales (1)       | Vibrionaceae (1)       | Photobacterium (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 158
 Total number of members in cluster: 13
@@ -3762,7 +3762,7 @@ CAI33309.1:
 |:---------------------|:----------------------|:-------------------|
 | Lactobacillales (13) | Streptococcaceae (13) | Streptococcus (13) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 154
 Total number of members in cluster: 13
@@ -3804,7 +3804,7 @@ AAM27645.1:
 | nan (1)              | nan (1)               | nan (1)          |
 | Vibrionales (1)      | Vibrionaceae (1)      | Vibrio (1)       |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 153
 Total number of members in cluster: 13
@@ -3846,7 +3846,7 @@ WP_000482333.1, BAG11898.1:
 |                       |                         | Citrobacter (2)    |
 |                       | Pectobacteriaceae (1)   | Pectobacterium (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 150
 Total number of members in cluster: 13
@@ -3882,7 +3882,7 @@ Total number of members in cluster: 13
 | nan (2)                | nan (3)                 | nan (3)            |
 | Erysipelotrichales (1) | Erysipelotrichaceae (1) | Lactimicrobium (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 71
 Total number of members in cluster: 12
@@ -3925,7 +3925,7 @@ BAQ00879.1:
 | Rhodocyclales (1)    | Rhodocyclaceae (1)     | Propionivibrio (1) |
 | Vibrionales (1)      | Vibrionaceae (1)       | Vibrio (1)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 44
 Total number of members in cluster: 12
@@ -3956,7 +3956,7 @@ Total number of members in cluster: 12
 | Enterobacterales (12) | Yersiniaceae (12) | Serratia (11)   |
 |                       |                   | Gibbsiella (1)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 371
 Total number of members in cluster: 12
@@ -3998,7 +3998,7 @@ ADQ37322.1:
 | Enterobacterales (12) | Enterobacteriaceae (12) | Salmonella (7)  |
 |                       |                         | Escherichia (5) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 336
 Total number of members in cluster: 12
@@ -4036,7 +4036,7 @@ AAD45264.1, AAM27574.1:
 |:---------------------|:----------------------|:-----------------|
 | Pseudomonadales (12) | Pseudomonadaceae (12) | Pseudomonas (12) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 262
 Total number of members in cluster: 12
@@ -4075,7 +4075,7 @@ ADI43263.1:
 |                       |                         | Leclercia (2)   |
 |                       |                         | Citrobacter (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 22
 Total number of members in cluster: 12
@@ -4117,7 +4117,7 @@ BAQ01533.1:
 |                       | Erwiniaceae (1)         | Mixta (1)          |
 | Oceanospirillales (1) | Endozoicomonadaceae (1) | Kistimonas (1)     |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 16
 Total number of members in cluster: 12
@@ -4152,7 +4152,7 @@ Total number of members in cluster: 12
 | Aeromonadales (3)     | Aeromonadaceae (3)  | Aeromonas (3)    |
 | Campylobacterales (1) | Arcobacteraceae (1) | Arcobacter (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 135
 Total number of members in cluster: 12
@@ -4194,7 +4194,7 @@ ABI55342.1:
 | Flavobacteriales (2)  | Flavobacteriaceae (2)  | Capnocytophaga (2) |
 | Campylobacterales (1) | Campylobacteraceae (1) | Campylobacter (1)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 133
 Total number of members in cluster: 12
@@ -4229,7 +4229,7 @@ Total number of members in cluster: 12
 |                     |                      | Blautia (1)             |
 | nan (1)             | nan (1)              | nan (1)                 |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 118
 Total number of members in cluster: 12
@@ -4268,7 +4268,7 @@ BAQ00975.1:
 | Vibrionales (4)      | Vibrionaceae (4)       | Vibrio (3)       |
 |                      |                        | Aliivibrio (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 97
 Total number of members in cluster: 11
@@ -4311,7 +4311,7 @@ AHB32438.2:
 | Moraxellales (8)   | Moraxellaceae (8)   | Acinetobacter (8) |
 | Pasteurellales (3) | Pasteurellaceae (3) | Glaesserella (3)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 67
 Total number of members in cluster: 11
@@ -4358,7 +4358,7 @@ CAI34124.1:
 |                     | nan (1)              | nan (3)                |
 | Fibrobacterales (1) | Fibrobacteraceae (1) | Fibrobacter (1)        |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 40
 Total number of members in cluster: 11
@@ -4400,7 +4400,7 @@ ACA24792.1:
 |                       |                         | Enterobacter (4) |
 |                       |                         | Shigella (1)     |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 3
 Total number of members in cluster: 11
@@ -4448,7 +4448,7 @@ ACD37105.1:
 |                       |                        | Citrobacter (1)    |
 |                       | Pectobacteriaceae (2)  | Pectobacterium (2) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 275
 Total number of members in cluster: 11
@@ -4492,7 +4492,7 @@ ACH97162.1:
 |                       |                        | Proteus (1)     |
 | Alteromonadales (1)   | Idiomarinaceae (1)     | Idiomarina (1)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 254
 Total number of members in cluster: 11
@@ -4526,7 +4526,7 @@ Total number of members in cluster: 11
 |                    |                     | Pseudoramibacter (1) |
 |                    | Clostridiaceae (1)  | Clostridium (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 183
 Total number of members in cluster: 11
@@ -4571,7 +4571,7 @@ ACA24776.1:
 |                       | Erwiniaceae (2)        | Pantoea (1)      |
 |                       |                        | Erwinia (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 142
 Total number of members in cluster: 11
@@ -4606,7 +4606,7 @@ AAM27546.1:
 |:---------------------|:----------------------|:-----------------|
 | Pseudomonadales (11) | Pseudomonadaceae (11) | Pseudomonas (11) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 119
 Total number of members in cluster: 11
@@ -4641,7 +4641,7 @@ Total number of members in cluster: 11
 | Cytophagales (1)       | Spirosomaceae (1)       | Dyadobacter (1)    |
 | Sphingobacteriales (1) | Sphingobacteriaceae (1) | Pedobacter (1)     |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 117
 Total number of members in cluster: 11
@@ -4691,7 +4691,7 @@ CAI33585.1:
 |:---------------------|:----------------------|:-------------------|
 | Lactobacillales (11) | Streptococcaceae (11) | Streptococcus (11) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 100
 Total number of members in cluster: 11
@@ -4730,7 +4730,7 @@ AAO37701.1, WP_024244058.1:
 | Enterobacterales (11) | Enterobacteriaceae (11) | Escherichia (8) |
 |                       |                         | Citrobacter (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 93
 Total number of members in cluster: 10
@@ -4768,7 +4768,7 @@ BAQ01238.1:
 | Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (3)    |
 | Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 90
 Total number of members in cluster: 10
@@ -4803,7 +4803,7 @@ Total number of members in cluster: 10
 | Eubacteriales (2)   | Oscillospiraceae (1) | Ruminococcus (1)  |
 |                     | Lachnospiraceae (1)  | Dorea (1)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 73
 Total number of members in cluster: 10
@@ -4841,7 +4841,7 @@ CAI33718.1:
 |                      |                      | Latilactobacillus (1)   |
 |                      | Streptococcaceae (3) | Streptococcus (3)       |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 65
 Total number of members in cluster: 10
@@ -4880,7 +4880,7 @@ AAK60458.1:
 |                       |                        | Citrobacter (1) |
 |                       | Hafniaceae (1)         | Hafnia (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 46
 Total number of members in cluster: 10
@@ -4914,7 +4914,7 @@ Total number of members in cluster: 10
 | nan (3)              | nan (3)                | nan (4)                |
 | Sphingomonadales (1) | Erythrobacteraceae (1) | Alteriqipengyuania (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 420
 Total number of members in cluster: 10
@@ -4951,7 +4951,7 @@ Total number of members in cluster: 10
 | Eubacteriales (1)     | Lachnospiraceae (1)    | Lachnoclostridium (1) |
 | Oceanospirillales (1) | Oceanospirillaceae (1) | Oceanospirillum (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 412
 Total number of members in cluster: 10
@@ -4995,7 +4995,7 @@ AFW04888.1:
 |                       |                         | Salmonella (3)  |
 |                       |                         | Citrobacter (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 266
 Total number of members in cluster: 10
@@ -5029,7 +5029,7 @@ Total number of members in cluster: 10
 | Enterobacterales (2) | Enterobacteriaceae (2) | Buttiauxella (2)  |
 | Hyphomicrobiales (1) | nan (2)                | nan (2)           |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 263
 Total number of members in cluster: 10
@@ -5076,7 +5076,7 @@ ADN43894.1:
 |                       | Erwiniaceae (2)        | Pantoea (2)     |
 |                       | Morganellaceae (1)     | Morganella (1)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 233
 Total number of members in cluster: 10
@@ -5113,7 +5113,7 @@ ABX51880.1:
 |                       |                        | Enterobacter (2) |
 |                       | Erwiniaceae (2)        | Pantoea (2)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 230
 Total number of members in cluster: 10
@@ -5150,7 +5150,7 @@ ADC54957.1:
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (3)    |
 |                      |                        | Citrobacter (1)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 174
 Total number of members in cluster: 10
@@ -5187,7 +5187,7 @@ Total number of members in cluster: 10
 | Chthonomonadales (1) | Chthonomonadaceae (1) | Chthonomonas (1)    |
 | Rhodospirillales (1) | Azospirillaceae (1)   | Niveispirillum (1)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 155
 Total number of members in cluster: 10
@@ -5228,7 +5228,7 @@ EHX11459.1, AFC91458.1, AFC91419.1, AAX07747.1:
 | Enterobacterales (10) | Enterobacteriaceae (10) | Escherichia (6)  |
 |                       |                         | Enterobacter (4) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 145
 Total number of members in cluster: 10
@@ -5274,7 +5274,7 @@ AFW04684.1:
 | Vibrionales (3)      | Vibrionaceae (3)       | Vibrio (2)         |
 |                      |                        | Photobacterium (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 130
 Total number of members in cluster: 10
@@ -5309,7 +5309,7 @@ Total number of members in cluster: 10
 |                  |                   | Psychrobacter (1)   |
 | Neisseriales (1) | Neisseriaceae (1) | Conchiformibius (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 128
 Total number of members in cluster: 10
@@ -5341,7 +5341,7 @@ Total number of members in cluster: 10
 | Vibrionales (2)     | Vibrionaceae (2)     | Vibrio (2)      |
 | Aeromonadales (1)   | Aeromonadaceae (1)   | Aeromonas (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 126
 Total number of members in cluster: 10
@@ -5384,7 +5384,7 @@ AFW04785.1:
 |                       |                        | Leclercia (1)   |
 |                       | Erwiniaceae (3)        | Pantoea (3)     |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 114
 Total number of members in cluster: 10
@@ -5419,7 +5419,7 @@ AAM27782.1:
 |:---------------------|:----------------------|:-----------------|
 | Pseudomonadales (10) | Pseudomonadaceae (10) | Pseudomonas (10) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 104
 Total number of members in cluster: 10
@@ -5460,7 +5460,7 @@ AAO37717.1:
 | Oceanospirillales (1) | Halomonadaceae (1)     | Halomonas (1)    |
 | Pseudomonadales (1)   | Marinobacteraceae (1)  | Marinobacter (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 79
 Total number of members in cluster: 9
@@ -5491,7 +5491,7 @@ Total number of members in cluster: 9
 | Bacteroidales (9) | Prevotellaceae (9) | Prevotella (8)  |
 |                   |                    | nan (1)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 74
 Total number of members in cluster: 9
@@ -5526,7 +5526,7 @@ Total number of members in cluster: 9
 |                      | Pectobacteriaceae (2)  | Pectobacterium (1) |
 |                      |                        | Brenneria (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 7
 Total number of members in cluster: 9
@@ -5559,7 +5559,7 @@ Total number of members in cluster: 9
 |                      |                    | Proteus (1)       |
 | Neisseriales (1)     | Neisseriaceae (1)  | Vitreoscilla (1)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 60
 Total number of members in cluster: 9
@@ -5599,7 +5599,7 @@ CAI33675.1:
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (9) | Streptococcaceae (9) | Streptococcus (9) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 54
 Total number of members in cluster: 9
@@ -5636,7 +5636,7 @@ ADV17650.1:
 |                      |                        | Escherichia (2) |
 | Aeromonadales (2)    | Aeromonadaceae (2)     | Aeromonas (2)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 43
 Total number of members in cluster: 9
@@ -5668,7 +5668,7 @@ Total number of members in cluster: 9
 | Alteromonadales (4) | Pseudoalteromonadaceae (3) | Pseudoalteromonas (3) |
 |                     | Shewanellaceae (1)         | Shewanella (1)        |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 393
 Total number of members in cluster: 9
@@ -5713,7 +5713,7 @@ ACV52983.1:
 | Enterobacterales (9) | Yersiniaceae (8)   | Yersinia (8)    |
 |                      | Morganellaceae (1) | Xenorhabdus (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 310
 Total number of members in cluster: 9
@@ -5753,7 +5753,7 @@ ADB02825.1:
 | Sphingomonadales (1) | Erythrobacteraceae (1) | Porphyrobacter (1)  |
 | Bacteroidales (1)    | Tannerellaceae (1)     | Parabacteroides (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 302
 Total number of members in cluster: 9
@@ -5790,7 +5790,7 @@ Total number of members in cluster: 9
 |                     | Paenibacillaceae (1) | Paenibacillus (1) |
 | Lactobacillales (2) | Enterococcaceae (2)  | Enterococcus (2)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 301
 Total number of members in cluster: 9
@@ -5832,7 +5832,7 @@ ABI98966.1:
 |                      |                        | Buttiauxella (1) |
 | Vibrionales (2)      | Vibrionaceae (2)       | Vibrio (2)       |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 284
 Total number of members in cluster: 9
@@ -5880,7 +5880,7 @@ BAQ02068.1, AJR19430.1:
 |                      |                        | Salmonella (3)  |
 | Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 28
 Total number of members in cluster: 9
@@ -5927,7 +5927,7 @@ CAI33343.1:
 | Bacillales (1)         | Staphylococcaceae (1)   | Staphylococcus (1) |
 | Erysipelotrichales (1) | Erysipelotrichaceae (1) | Amedibacterium (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 259
 Total number of members in cluster: 9
@@ -5967,7 +5967,7 @@ ADR74237.1:
 | Vibrionales (1)      | Vibrionaceae (1)       | Vibrio (1)      |
 | Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 25
 Total number of members in cluster: 9
@@ -6010,7 +6010,7 @@ CAI32705.1:
 | Eggerthellales (1)     | Eggerthellaceae (1)     | Adlercreutzia (1) |
 | nan (1)                | nan (1)                 | nan (1)           |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 235
 Total number of members in cluster: 9
@@ -6049,7 +6049,7 @@ AAV74543.1:
 |                      |                        | Salmonella (1)   |
 | Pasteurellales (1)   | Pasteurellaceae (1)    | Glaesserella (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 226
 Total number of members in cluster: 9
@@ -6082,7 +6082,7 @@ Total number of members in cluster: 9
 |                   | Bacteroidaceae (2)    | Bacteroides (2)     |
 |                   | nan (1)               | nan (1)             |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 214
 Total number of members in cluster: 9
@@ -6116,7 +6116,7 @@ Total number of members in cluster: 9
 |                      |                        | Citrobacter (2)  |
 |                      |                        | nan (1)          |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 148
 Total number of members in cluster: 9
@@ -6159,7 +6159,7 @@ CAI33226.1:
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (9) | Streptococcaceae (9) | Streptococcus (9) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 136
 Total number of members in cluster: 9
@@ -6201,7 +6201,7 @@ CAI32867.1:
 | Eubacteriales (2)   | nan (1)              | nan (1)           |
 |                     | Oscillospiraceae (1) | nan (1)           |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 131
 Total number of members in cluster: 9
@@ -6243,7 +6243,7 @@ BAQ02031.1:
 |                      |                        | Citrobacter (1)  |
 |                      | Morganellaceae (1)     | Photorhabdus (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 45
 Total number of members in cluster: 8
@@ -6278,7 +6278,7 @@ Total number of members in cluster: 8
 | Eubacteriales (1)    | Clostridiaceae (1)     | Clostridium (1)       |
 | nan (1)              | nan (1)                | nan (1)               |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 400
 Total number of members in cluster: 8
@@ -6318,7 +6318,7 @@ AAK64372.1:
 |                      | Hafniaceae (1)         | Hafnia (1)        |
 | Flavobacteriales (1) | Flavobacteriaceae (1)  | Tenacibaculum (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 345
 Total number of members in cluster: 8
@@ -6361,7 +6361,7 @@ ACK44379.1:
 | Burkholderiales (2)  | Burkholderiaceae (2)   | Caballeronia (1) |
 |                      |                        | Burkholderia (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 344
 Total number of members in cluster: 8
@@ -6399,7 +6399,7 @@ BAQ01563.1:
 |                      | Erwiniaceae (1)        | Erwinia (1)      |
 |                      | Morganellaceae (1)     | Proteus (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 319
 Total number of members in cluster: 8
@@ -6445,7 +6445,7 @@ AAL27327.1:
 |                      | Erwiniaceae (1)            | Erwinia (1)           |
 | Alteromonadales (1)  | Pseudoalteromonadaceae (1) | Pseudoalteromonas (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 304
 Total number of members in cluster: 8
@@ -6478,7 +6478,7 @@ Total number of members in cluster: 8
 | Pseudomonadales (1)        | Pseudomonadaceae (1)        | Pseudomonas (1)    |
 | Thermoanaerobacterales (1) | Thermoanaerobacteraceae (1) | nan (2)            |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 278
 Total number of members in cluster: 8
@@ -6515,7 +6515,7 @@ CAI34587.1:
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (8) | Streptococcaceae (8) | Streptococcus (8) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 231
 Total number of members in cluster: 8
@@ -6547,7 +6547,7 @@ Total number of members in cluster: 8
 |                      |                        | Enterobacter (3) |
 | Vibrionales (1)      | Vibrionaceae (1)       | Vibrio (1)       |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 222
 Total number of members in cluster: 8
@@ -6604,7 +6604,7 @@ CAI33188.1:
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (8) | Streptococcaceae (8) | Streptococcus (8) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 216
 Total number of members in cluster: 8
@@ -6634,7 +6634,7 @@ Total number of members in cluster: 8
 |:-------------------|:--------------------|:-------------------|
 | Pasteurellales (8) | Pasteurellaceae (8) | Gallibacterium (8) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 186
 Total number of members in cluster: 8
@@ -6676,7 +6676,7 @@ AFW04741.1:
 |                      |                        | Escherichia (3) |
 |                      |                        | Citrobacter (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 185
 Total number of members in cluster: 8
@@ -6722,7 +6722,7 @@ AFW04837.1:
 |                      |                        | Citrobacter (1)  |
 |                      | Hafniaceae (1)         | Hafnia (1)       |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 182
 Total number of members in cluster: 8
@@ -6767,7 +6767,7 @@ ACD37006.1:
 |                      |                        | Enterobacter (1) |
 | Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 171
 Total number of members in cluster: 8
@@ -6808,7 +6808,7 @@ ABI98976.1:
 |                      |                        | Enterobacter (1) |
 | Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 17
 Total number of members in cluster: 8
@@ -6843,7 +6843,7 @@ Total number of members in cluster: 8
 | Pseudomonadales (3)  | Pseudomonadaceae (3)   | Pseudomonas (3) |
 | Rhodocyclales (1)    | Zoogloeaceae (1)       | Thauera (1)     |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 162
 Total number of members in cluster: 8
@@ -6876,7 +6876,7 @@ Total number of members in cluster: 8
 |                      |                        | Rodentibacter (1)  |
 | Enterobacterales (1) | Enterobacteriaceae (1) | Citrobacter (1)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 161
 Total number of members in cluster: 8
@@ -6923,7 +6923,7 @@ BAQ01516.1:
 | Moraxellales (1)     | Moraxellaceae (1)      | Acinetobacter (1) |
 | Alteromonadales (1)  | nan (1)                | Motilimonas (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 88
 Total number of members in cluster: 7
@@ -6957,7 +6957,7 @@ Total number of members in cluster: 7
 | Bacillales (2)        | Bacillaceae (2)           | Bacillus (2)          |
 | Campylobacterales (1) | Arcobacteraceae (1)       | Aliarcobacter (1)     |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 82
 Total number of members in cluster: 7
@@ -6996,7 +6996,7 @@ ABZ79721.1, ABB65530.1:
 |                      |                        | Enterobacter (1) |
 |                      |                        | Kosakonia (1)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 49
 Total number of members in cluster: 7
@@ -7029,7 +7029,7 @@ Total number of members in cluster: 7
 |                      |                        | Escherichia (3) |
 |                      |                        | Citrobacter (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 391
 Total number of members in cluster: 7
@@ -7063,7 +7063,7 @@ Total number of members in cluster: 7
 |                   | Prevotellaceae (1) | Prevotella (1)  |
 | Eubacteriales (1) | nan (1)            | nan (1)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 387
 Total number of members in cluster: 7
@@ -7109,7 +7109,7 @@ ACD37051.1:
 | Enterobacterales (7) | Enterobacteriaceae (7) | Escherichia (6) |
 |                      |                        | Shigella (1)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 349
 Total number of members in cluster: 7
@@ -7147,7 +7147,7 @@ BAQ01218.1:
 |                      |                        | Enterobacter (1) |
 |                      |                        | Cedecea (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 348
 Total number of members in cluster: 7
@@ -7179,7 +7179,7 @@ Total number of members in cluster: 7
 | Eggerthellales (2)   | Eggerthellaceae (2)   | Eggerthella (1)   |
 |                      |                       | Adlercreutzia (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 323
 Total number of members in cluster: 7
@@ -7209,7 +7209,7 @@ Total number of members in cluster: 7
 |:----------------|:-----------------|:----------------|
 | Vibrionales (7) | Vibrionaceae (7) | Vibrio (7)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 298
 Total number of members in cluster: 7
@@ -7247,7 +7247,7 @@ BAQ01960.1:
 | Enterobacterales (7) | Enterobacteriaceae (7) | Escherichia (4)  |
 |                      |                        | Enterobacter (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 293
 Total number of members in cluster: 7
@@ -7287,7 +7287,7 @@ BAQ00569.1:
 |                       |                        | Enterobacter (1)  |
 | Campylobacterales (1) | Arcobacteraceae (1)    | Aliarcobacter (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 246
 Total number of members in cluster: 7
@@ -7323,7 +7323,7 @@ Total number of members in cluster: 7
 | Moraxellales (1)      | Moraxellaceae (1)     | nan (1)              |
 | nan (1)               | nan (1)               | nan (1)              |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 244
 Total number of members in cluster: 7
@@ -7367,7 +7367,7 @@ ABB29916.1:
 |                      | Morganellaceae (1)     | Providencia (1) |
 | Vibrionales (2)      | Vibrionaceae (2)       | Vibrio (2)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 241
 Total number of members in cluster: 7
@@ -7406,7 +7406,7 @@ AAY28249.1:
 |                      |                        | Enterobacter (2) |
 |                      | Morganellaceae (1)     | Proteus (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 224
 Total number of members in cluster: 7
@@ -7439,7 +7439,7 @@ Total number of members in cluster: 7
 | Sphingobacteriales (3) | Sphingobacteriaceae (3) | Pedobacter (2)       |
 |                        |                         | Mucilaginibacter (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 217
 Total number of members in cluster: 7
@@ -7472,7 +7472,7 @@ Total number of members in cluster: 7
 |                      |                        | Enterobacter (2) |
 |                      | Hafniaceae (1)         | Edwardsiella (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 203
 Total number of members in cluster: 7
@@ -7504,7 +7504,7 @@ Total number of members in cluster: 7
 |                      | Morganellaceae (2) | Photorhabdus (2)   |
 | Vibrionales (1)      | Vibrionaceae (1)   | Photobacterium (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 192
 Total number of members in cluster: 7
@@ -7545,7 +7545,7 @@ BAQ01012.1:
 | Enterobacterales (7) | Enterobacteriaceae (7) | Escherichia (5)  |
 |                      |                        | Enterobacter (2) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 184
 Total number of members in cluster: 7
@@ -7592,7 +7592,7 @@ AFW04790.1:
 |                      | Morganellaceae (2)     | Proteus (1)     |
 |                      |                        | Xenorhabdus (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 179
 Total number of members in cluster: 7
@@ -7632,7 +7632,7 @@ AFE83402.1, WP_001300154.1:
 |                      |                        | Salmonella (2)  |
 |                      |                        | Citrobacter (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 164
 Total number of members in cluster: 7
@@ -7681,7 +7681,7 @@ CAI33389.1:
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (7) | Streptococcaceae (7) | Streptococcus (7) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 146
 Total number of members in cluster: 7
@@ -7718,7 +7718,7 @@ BAQ02116.1:
 |                      |                        | Enterobacter (2) |
 | Lactobacillales (1)  | Enterococcaceae (1)    | Enterococcus (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 143
 Total number of members in cluster: 7
@@ -7756,7 +7756,7 @@ AAD44158.1, BAH24292.1:
 |                      |                        | Kluyvera (1)    |
 | Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 110
 Total number of members in cluster: 7
@@ -7801,7 +7801,7 @@ ACD37111.1:
 |                      |                        | Citrobacter (1) |
 | Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 11
 Total number of members in cluster: 7
@@ -7834,7 +7834,7 @@ Total number of members in cluster: 7
 |:-----------------|:------------------|:------------------|
 | Moraxellales (7) | Moraxellaceae (7) | Acinetobacter (7) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 1
 Total number of members in cluster: 7
@@ -7868,7 +7868,7 @@ Total number of members in cluster: 7
 |                   | nan (1)             | nan (1)                |
 | nan (1)           | nan (1)             | nan (1)                |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 78
 Total number of members in cluster: 6
@@ -7901,7 +7901,7 @@ Total number of members in cluster: 6
 | Pseudomonadales (1)   | Marinobacteraceae (1)  | Marinobacter (1) |
 | Oceanospirillales (1) | Oceanospirillaceae (1) | Marinomonas (1)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 77
 Total number of members in cluster: 6
@@ -7939,7 +7939,7 @@ AAD50486.1:
 | Enterobacterales (6) | Enterobacteriaceae (6) | Escherichia (4)  |
 |                      |                        | Enterobacter (2) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 64
 Total number of members in cluster: 6
@@ -7978,7 +7978,7 @@ BAQ00736.1:
 |                      |                        | Enterobacter (2) |
 |                      | Hafniaceae (1)         | Hafnia (1)       |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 409
 Total number of members in cluster: 6
@@ -8015,7 +8015,7 @@ BAQ02015.1:
 |                      |                        | Trabulsiella (1) |
 |                      |                        | Enterobacter (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 402
 Total number of members in cluster: 6
@@ -8045,7 +8045,7 @@ Total number of members in cluster: 6
 |:--------------------|:---------------------|:----------------|
 | Burkholderiales (6) | Burkholderiaceae (6) | Ralstonia (6)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 390
 Total number of members in cluster: 6
@@ -8078,7 +8078,7 @@ Total number of members in cluster: 6
 |                      | Morganellaceae (1) | Providencia (1)  |
 | Vibrionales (1)      | Vibrionaceae (1)   | Vibrio (1)       |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 364
 Total number of members in cluster: 6
@@ -8115,7 +8115,7 @@ AHB32334.1:
 |:-----------------|:------------------|:------------------|
 | Moraxellales (6) | Moraxellaceae (6) | Acinetobacter (6) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 36
 Total number of members in cluster: 6
@@ -8155,7 +8155,7 @@ ADJ19217.1:
 | Vibrionales (2)      | Vibrionaceae (2)       | Photobacterium (1) |
 |                      |                        | Vibrio (1)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 351
 Total number of members in cluster: 6
@@ -8193,7 +8193,7 @@ BAQ01266.1:
 |                      | Hafniaceae (2)         | Hafnia (1)          |
 |                      |                        | Obesumbacterium (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 318
 Total number of members in cluster: 6
@@ -8231,7 +8231,7 @@ AAZ20761.1:
 | Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)      |
 | Vibrionales (1)      | Vibrionaceae (1)       | Photobacterium (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 311
 Total number of members in cluster: 6
@@ -8270,7 +8270,7 @@ ABI34565.1:
 |                      |                        | Enterobacter (1) |
 |                      | Hafniaceae (2)         | Hafnia (2)       |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 306
 Total number of members in cluster: 6
@@ -8303,7 +8303,7 @@ Total number of members in cluster: 6
 |                     |                      | Lactobacillus (2)       |
 |                     | Streptococcaceae (2) | Streptococcus (2)       |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 294
 Total number of members in cluster: 6
@@ -8337,7 +8337,7 @@ Total number of members in cluster: 6
 | Chitinophagales (1)    | Chitinophagaceae (1)    | Chitinophaga (1)     |
 | Neisseriales (1)       | Neisseriaceae (1)       | Neisseria (1)        |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 288
 Total number of members in cluster: 6
@@ -8370,7 +8370,7 @@ Total number of members in cluster: 6
 |                        |                         | Erysipelatoclostridium (1) |
 | nan (2)                | nan (2)                 | nan (2)                    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 264
 Total number of members in cluster: 6
@@ -8405,7 +8405,7 @@ Total number of members in cluster: 6
 | Bacillales (1)         | Planococcaceae (1)      | Planococcus (1)           |
 | Erysipelotrichales (1) | Erysipelotrichaceae (1) | Absicoccus (1)            |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 258
 Total number of members in cluster: 6
@@ -8442,7 +8442,7 @@ BAQ01293.1:
 |                      |                        | Enterobacter (1) |
 |                      |                        | Cedecea (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 252
 Total number of members in cluster: 6
@@ -8479,7 +8479,7 @@ BAQ01456.1:
 |                      |                        | Enterobacter (2) |
 | Aeromonadales (2)    | Aeromonadaceae (2)     | Aeromonas (2)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 247
 Total number of members in cluster: 6
@@ -8515,7 +8515,7 @@ ADC54974.1:
 | Enterobacterales (6) | Enterobacteriaceae (6) | Salmonella (4)  |
 |                      |                        | Escherichia (2) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 213
 Total number of members in cluster: 6
@@ -8551,7 +8551,7 @@ BAQ00634.1:
 | Enterobacterales (6) | Morganellaceae (4)     | Proteus (4)     |
 |                      | Enterobacteriaceae (2) | Escherichia (2) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 202
 Total number of members in cluster: 6
@@ -8599,7 +8599,7 @@ AAL27339.1:
 | Enterobacterales (6) | Enterobacteriaceae (6) | Escherichia (5) |
 |                      |                        | Shigella (1)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 201
 Total number of members in cluster: 6
@@ -8642,7 +8642,7 @@ ACD37078.1:
 | Enterobacterales (6) | Enterobacteriaceae (6) | Escherichia (5) |
 |                      |                        | Shigella (1)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 196
 Total number of members in cluster: 6
@@ -8675,7 +8675,7 @@ Total number of members in cluster: 6
 | Alteromonadales (1) | Pseudoalteromonadaceae (1) | Pseudoalteromonas (1) |
 | Aeromonadales (1)   | Aeromonadaceae (1)         | Aeromonas (1)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 180
 Total number of members in cluster: 6
@@ -8718,7 +8718,7 @@ BAQ01687.1:
 | Enterobacterales (6) | Enterobacteriaceae (6) | Escherichia (5)  |
 |                      |                        | Enterobacter (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 170
 Total number of members in cluster: 6
@@ -8753,7 +8753,7 @@ Total number of members in cluster: 6
 | Pseudomonadales (1)  | Marinobacteraceae (1)  | Marinobacter (1) |
 | Vibrionales (1)      | Vibrionaceae (1)       | Vibrio (1)       |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 156
 Total number of members in cluster: 6
@@ -8783,7 +8783,7 @@ Total number of members in cluster: 6
 |:----------------------|:-----------------------|:------------------|
 | Campylobacterales (6) | Campylobacteraceae (6) | Campylobacter (6) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 152
 Total number of members in cluster: 6
@@ -8826,7 +8826,7 @@ AAR24270.1:
 |                      | Morganellaceae (2)     | Morganella (1)  |
 |                      |                        | Proteus (1)     |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 125
 Total number of members in cluster: 6
@@ -8864,7 +8864,7 @@ BAQ01894.1:
 | Enterobacterales (6) | Enterobacteriaceae (4) | Escherichia (4) |
 |                      | Hafniaceae (2)         | Hafnia (2)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 124
 Total number of members in cluster: 6
@@ -8903,7 +8903,7 @@ BAQ01917.1:
 |                      | Morganellaceae (2)     | Providencia (1) |
 |                      |                        | Proteus (1)     |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 121
 Total number of members in cluster: 6
@@ -8934,7 +8934,7 @@ Total number of members in cluster: 6
 | Lactobacillales (6) | Lactobacillaceae (5) | Lactiplantibacillus (5) |
 |                     | Enterococcaceae (1)  | Enterococcus (1)        |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 103
 Total number of members in cluster: 6
@@ -8965,7 +8965,7 @@ Total number of members in cluster: 6
 |:-----------------|:------------------|:------------------|
 | Moraxellales (6) | Moraxellaceae (6) | Acinetobacter (6) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 68
 Total number of members in cluster: 5
@@ -8999,7 +8999,7 @@ Total number of members in cluster: 5
 |                      |                        | Enterobacter (1) |
 | Pseudomonadales (1)  | Pseudomonadaceae (1)   | Pseudomonas (1)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 66
 Total number of members in cluster: 5
@@ -9030,7 +9030,7 @@ Total number of members in cluster: 5
 | Enterobacterales (5) | Enterobacteriaceae (4) | Enterobacter (4)   |
 |                      | Budviciaceae (1)       | Jinshanibacter (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 47
 Total number of members in cluster: 5
@@ -9060,7 +9060,7 @@ Total number of members in cluster: 5
 |:-------------------|:--------------------|:----------------|
 | Pasteurellales (5) | Pasteurellaceae (5) | Haemophilus (5) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 445
 Total number of members in cluster: 5
@@ -9090,7 +9090,7 @@ Total number of members in cluster: 5
 |:-----------------------|:------------------------|:------------------|
 | Erysipelotrichales (5) | Erysipelotrichaceae (5) | Solobacterium (5) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 444
 Total number of members in cluster: 5
@@ -9124,7 +9124,7 @@ Total number of members in cluster: 5
 |                      | Sphingosinicellaceae (1) | Sphingosinicella (1)   |
 | Hyphomicrobiales (1) | Phyllobacteriaceae (1)   | Hoeflea (1)            |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 441
 Total number of members in cluster: 5
@@ -9160,7 +9160,7 @@ AFW04860.1:
 | Enterobacterales (5) | Enterobacteriaceae (5) | Salmonella (3)  |
 |                      |                        | Escherichia (2) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 437
 Total number of members in cluster: 5
@@ -9194,7 +9194,7 @@ Total number of members in cluster: 5
 |                     |                      | Anaerobacillus (1) |
 | Lactobacillales (1) | Enterococcaceae (1)  | Enterococcus (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 416
 Total number of members in cluster: 5
@@ -9227,7 +9227,7 @@ Total number of members in cluster: 5
 | Bacteroidales (2)   | Bacteroidaceae (1)   | Bacteroides (1)   |
 |                     | Muribaculaceae (1)   | Duncaniella (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 399
 Total number of members in cluster: 5
@@ -9259,7 +9259,7 @@ Total number of members in cluster: 5
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (5) | Streptococcaceae (5) | Streptococcus (5) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 384
 Total number of members in cluster: 5
@@ -9302,7 +9302,7 @@ CAI32910.1:
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (5) | Streptococcaceae (5) | Streptococcus (5) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 370
 Total number of members in cluster: 5
@@ -9334,7 +9334,7 @@ Total number of members in cluster: 5
 | Bacteroidales (2)   | Bacteroidaceae (2)         | Bacteroides (2)       |
 | Vibrionales (1)     | Vibrionaceae (1)           | Vibrio (1)            |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 363
 Total number of members in cluster: 5
@@ -9365,7 +9365,7 @@ Total number of members in cluster: 5
 |:-----------------|:------------------|:------------------|
 | Moraxellales (5) | Moraxellaceae (5) | Acinetobacter (5) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 358
 Total number of members in cluster: 5
@@ -9400,7 +9400,7 @@ CAI33441.1:
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (5) | Streptococcaceae (5) | Streptococcus (5) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 350
 Total number of members in cluster: 5
@@ -9437,7 +9437,7 @@ BAQ01999.1:
 |                      | Morganellaceae (2)     | Proteus (1)     |
 |                      |                        | Providencia (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 35
 Total number of members in cluster: 5
@@ -9476,7 +9476,7 @@ BAQ01207.1:
 |                      | Yersiniaceae (1)       | Yersinia (1)    |
 |                      | Erwiniaceae (1)        | Pantoea (1)     |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 342
 Total number of members in cluster: 5
@@ -9508,7 +9508,7 @@ Total number of members in cluster: 5
 |                     |                    | Vibrio (2)         |
 | Alteromonadales (1) | Shewanellaceae (1) | Shewanella (1)     |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 337
 Total number of members in cluster: 5
@@ -9558,7 +9558,7 @@ CAX18360.1:
 | Enterobacterales (4) | Yersiniaceae (4) | Yersinia (4)    |
 | Vibrionales (1)      | Vibrionaceae (1) | Vibrio (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 334
 Total number of members in cluster: 5
@@ -9592,7 +9592,7 @@ Total number of members in cluster: 5
 |                      |                        | Cedecea (1)     |
 |                      | Morganellaceae (1)     | Xenorhabdus (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 324
 Total number of members in cluster: 5
@@ -9623,7 +9623,7 @@ Total number of members in cluster: 5
 | Burkholderiales (5) | Burkholderiaceae (5) | Cupriavidus (3) |
 |                     |                      | Ralstonia (2)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 320
 Total number of members in cluster: 5
@@ -9653,7 +9653,7 @@ Total number of members in cluster: 5
 |:-----------------|:------------------|:------------------|
 | Moraxellales (5) | Moraxellaceae (5) | Acinetobacter (5) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 308
 Total number of members in cluster: 5
@@ -9684,7 +9684,7 @@ Total number of members in cluster: 5
 | Enterobacterales (5) | Enterobacteriaceae (5) | Enterobacter (3) |
 |                      |                        | Escherichia (2)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 29
 Total number of members in cluster: 5
@@ -9717,7 +9717,7 @@ Total number of members in cluster: 5
 | Lactobacillales (1) | Lactobacillaceae (1)    | Lactobacillus (1) |
 | Aeromonadales (1)   | Succinivibrionaceae (1) | nan (1)           |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 289
 Total number of members in cluster: 5
@@ -9754,7 +9754,7 @@ ADI77033.1:
 |                      |                        | Salmonella (1)  |
 | Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 280
 Total number of members in cluster: 5
@@ -9784,7 +9784,7 @@ Total number of members in cluster: 5
 |:--------------------|:---------------------|:----------------|
 | Pseudomonadales (5) | Pseudomonadaceae (5) | Pseudomonas (5) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 277
 Total number of members in cluster: 5
@@ -9815,7 +9815,7 @@ Total number of members in cluster: 5
 | nan (3)              | nan (4)          | nan (4)         |
 | Flavobacteriales (2) | nan (4)          | nan (4)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 272
 Total number of members in cluster: 5
@@ -9852,7 +9852,7 @@ ACD37126.1:
 |                      |                        | Escherichia (2) |
 |                      | Hafniaceae (1)         | Hafnia (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 267
 Total number of members in cluster: 5
@@ -9891,7 +9891,7 @@ BAQ01641.1:
 | Vibrionales (2)      | Vibrionaceae (2)       | Photobacterium (2) |
 | Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 256
 Total number of members in cluster: 5
@@ -9924,7 +9924,7 @@ Total number of members in cluster: 5
 |                      | Yersiniaceae (1) | Rahnella (1)    |
 | Vibrionales (2)      | Vibrionaceae (2) | Vibrio (2)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 239
 Total number of members in cluster: 5
@@ -9958,7 +9958,7 @@ Total number of members in cluster: 5
 |                     | Streptococcaceae (1) | Streptococcus (1)        |
 | nan (1)             | nan (1)              | nan (1)                  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 237
 Total number of members in cluster: 5
@@ -9991,7 +9991,7 @@ Total number of members in cluster: 5
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (5) | Streptococcaceae (5) | Streptococcus (5) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 236
 Total number of members in cluster: 5
@@ -10029,7 +10029,7 @@ CAI33466.1:
 |                     | Oscillospiraceae (1) | nan (1)           |
 | Lactobacillales (2) | Streptococcaceae (2) | Streptococcus (2) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 234
 Total number of members in cluster: 5
@@ -10068,7 +10068,7 @@ AAT77177.1:
 |                      | Budviciaceae (1)       | Pragia (1)        |
 | Moraxellales (2)     | Moraxellaceae (2)      | Acinetobacter (2) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 198
 Total number of members in cluster: 5
@@ -10105,7 +10105,7 @@ ACA24912.1:
 |                      |                        | Enterobacter (2) |
 |                      |                        | Shigella (1)     |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 195
 Total number of members in cluster: 5
@@ -10136,7 +10136,7 @@ Total number of members in cluster: 5
 | Vibrionales (5) | Vibrionaceae (5) | Vibrio (4)      |
 |                 |                  | Aliivibrio (1)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 189
 Total number of members in cluster: 5
@@ -10171,7 +10171,7 @@ CAI32727.1:
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (5) | Streptococcaceae (5) | Streptococcus (5) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 178
 Total number of members in cluster: 5
@@ -10209,7 +10209,7 @@ BAQ00780.1:
 | Vibrionales (2)      | Vibrionaceae (2)       | Vibrio (1)      |
 |                      |                        | Aliivibrio (1)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 177
 Total number of members in cluster: 5
@@ -10249,7 +10249,7 @@ ACA24829.1, AAS98031.1:
 |                      |                        | Shigella (1)    |
 |                      | Hafniaceae (1)         | Hafnia (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 138
 Total number of members in cluster: 5
@@ -10280,7 +10280,7 @@ Total number of members in cluster: 5
 |:-----------------|:------------------|:------------------|
 | Moraxellales (5) | Moraxellaceae (5) | Acinetobacter (5) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 123
 Total number of members in cluster: 5
@@ -10310,7 +10310,7 @@ Total number of members in cluster: 5
 |:------------------|:-------------------|:----------------|
 | Eubacteriales (5) | Clostridiaceae (5) | Clostridium (5) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 101
 Total number of members in cluster: 5
@@ -10340,7 +10340,7 @@ Total number of members in cluster: 5
 |:-----------------|:------------------|:------------------|
 | Moraxellales (5) | Moraxellaceae (5) | Acinetobacter (5) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 85
 Total number of members in cluster: 4
@@ -10371,7 +10371,7 @@ Total number of members in cluster: 4
 | Flavobacteriales (3) | Flavobacteriaceae (3) | Flavobacterium (3) |
 | Bacteroidales (1)    | Paludibacteraceae (1) | Paludibacter (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 62
 Total number of members in cluster: 4
@@ -10401,7 +10401,7 @@ Total number of members in cluster: 4
 |:------------------|:-----------------|:----------------|
 | Bacteroidales (4) | nan (4)          | nan (4)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 61
 Total number of members in cluster: 4
@@ -10432,7 +10432,7 @@ Total number of members in cluster: 4
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (2)  |
 |                      |                        | Enterobacter (2) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 52
 Total number of members in cluster: 4
@@ -10468,7 +10468,7 @@ CAI34641.1:
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (4) | Streptococcaceae (4) | Streptococcus (4) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 461
 Total number of members in cluster: 4
@@ -10504,7 +10504,7 @@ AAN60459.1:
 | Enterobacterales (4) | Enterobacteriaceae (3) | Escherichia (3) |
 |                      | Budviciaceae (1)       | nan (1)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 455
 Total number of members in cluster: 4
@@ -10535,7 +10535,7 @@ Total number of members in cluster: 4
 | Vibrionales (3)     | Vibrionaceae (3)     | Vibrio (3)         |
 | Alteromonadales (1) | Alteromonadaceae (1) | Aliagarivorans (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 439
 Total number of members in cluster: 4
@@ -10571,7 +10571,7 @@ ACD37072.1:
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (3) |
 |                      |                        | Shigella (1)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 430
 Total number of members in cluster: 4
@@ -10613,7 +10613,7 @@ ADI59445.1:
 |:---------------------|:-----------------|:----------------|
 | Enterobacterales (4) | Yersiniaceae (4) | Yersinia (4)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 405
 Total number of members in cluster: 4
@@ -10643,7 +10643,7 @@ Total number of members in cluster: 4
 |:----------------|:-----------------|:----------------|
 | Bacillales (4)  | Bacillaceae (4)  | Bacillus (4)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 401
 Total number of members in cluster: 4
@@ -10681,7 +10681,7 @@ BAQ00653.1:
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (2)  |
 |                      |                        | Enterobacter (2) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 396
 Total number of members in cluster: 4
@@ -10712,7 +10712,7 @@ Total number of members in cluster: 4
 |:-----------------|:------------------|:------------------|
 | Moraxellales (4) | Moraxellaceae (4) | Acinetobacter (4) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 395
 Total number of members in cluster: 4
@@ -10744,7 +10744,7 @@ Total number of members in cluster: 4
 |                     |                      | Companilactobacillus (1) |
 |                     |                      | Lactobacillus (1)        |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 392
 Total number of members in cluster: 4
@@ -10781,7 +10781,7 @@ BAQ01419.1:
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (4) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 39
 Total number of members in cluster: 4
@@ -10818,7 +10818,7 @@ BAQ00830.1:
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (4) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 389
 Total number of members in cluster: 4
@@ -10849,7 +10849,7 @@ Total number of members in cluster: 4
 | Xanthomonadales (4) | Xanthomonadaceae (3)   | Lysobacter (3)  |
 |                     | Rhodanobacteraceae (1) | Dyella (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 388
 Total number of members in cluster: 4
@@ -10887,7 +10887,7 @@ BAQ00893.1:
 | Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (3) |
 | Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 379
 Total number of members in cluster: 4
@@ -10928,7 +10928,7 @@ ABA42232.1:
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (3) |
 |                      |                        | Shigella (1)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 377
 Total number of members in cluster: 4
@@ -10969,7 +10969,7 @@ ACD36984.1:
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (2) |
 |                      |                        | Shigella (2)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 375
 Total number of members in cluster: 4
@@ -11000,7 +11000,7 @@ Total number of members in cluster: 4
 | Bacteroidales (4) | Paludibacteraceae (3) | nan (2)         |
 |                   | nan (1)               | nan (2)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 374
 Total number of members in cluster: 4
@@ -11030,7 +11030,7 @@ Total number of members in cluster: 4
 |:------------------|:-------------------|:----------------|
 | Bacteroidales (4) | Prevotellaceae (4) | Prevotella (4)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 366
 Total number of members in cluster: 4
@@ -11071,7 +11071,7 @@ ACH97143.1, ABE98413.1:
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (4) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 361
 Total number of members in cluster: 4
@@ -11101,7 +11101,7 @@ Total number of members in cluster: 4
 |:-----------------|:------------------|:------------------|
 | Moraxellales (4) | Moraxellaceae (4) | Acinetobacter (4) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 360
 Total number of members in cluster: 4
@@ -11136,7 +11136,7 @@ BAQ01584.1:
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (4) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 356
 Total number of members in cluster: 4
@@ -11172,7 +11172,7 @@ ACA24901.1:
 | Enterobacterales (4) | Enterobacteriaceae (3) | Escherichia (3) |
 |                      | Budviciaceae (1)       | Budvicia (1)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 347
 Total number of members in cluster: 4
@@ -11203,7 +11203,7 @@ Total number of members in cluster: 4
 | Bacteroidales (4) | nan (3)               | nan (3)         |
 |                   | Paludibacteraceae (1) | nan (3)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 341
 Total number of members in cluster: 4
@@ -11233,7 +11233,7 @@ Total number of members in cluster: 4
 |:------------------|:--------------------|:----------------|
 | Eubacteriales (4) | Lachnospiraceae (4) | nan (4)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 340
 Total number of members in cluster: 4
@@ -11263,7 +11263,7 @@ Total number of members in cluster: 4
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (4) | Enterobacteriaceae (4) | Klebsiella (4)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 329
 Total number of members in cluster: 4
@@ -11294,7 +11294,7 @@ Total number of members in cluster: 4
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (3) |
 |                      |                        | Citrobacter (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 326
 Total number of members in cluster: 4
@@ -11325,7 +11325,7 @@ Total number of members in cluster: 4
 | Vibrionales (3)      | Vibrionaceae (3) | Vibrio (3)      |
 | Enterobacterales (1) | Yersiniaceae (1) | Chania (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 322
 Total number of members in cluster: 4
@@ -11355,7 +11355,7 @@ Total number of members in cluster: 4
 |:------------------|:-------------------|:----------------|
 | Eubacteriales (4) | Clostridiaceae (4) | Clostridium (4) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 32
 Total number of members in cluster: 4
@@ -11386,7 +11386,7 @@ Total number of members in cluster: 4
 | Aeromonadales (2)    | Aeromonadaceae (2) | Aeromonas (2)    |
 | Enterobacterales (2) | Morganellaceae (2) | Photorhabdus (2) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 317
 Total number of members in cluster: 4
@@ -11416,7 +11416,7 @@ Total number of members in cluster: 4
 |:------------------|:-------------------|:----------------|
 | Bacteroidales (4) | Prevotellaceae (4) | Prevotella (4)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 303
 Total number of members in cluster: 4
@@ -11446,7 +11446,7 @@ Total number of members in cluster: 4
 |:--------------------|:---------------------|:----------------|
 | Pseudomonadales (4) | Pseudomonadaceae (4) | Pseudomonas (4) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 300
 Total number of members in cluster: 4
@@ -11479,7 +11479,7 @@ Total number of members in cluster: 4
 | nan (1)             | nan (1)              | nan (1)              |
 | Desulfurellales (1) | Desulfurellaceae (1) | Hippea (1)           |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 287
 Total number of members in cluster: 4
@@ -11510,7 +11510,7 @@ Total number of members in cluster: 4
 | Enterobacterales (4) | Enterobacteriaceae (4) | Enterobacter (3) |
 |                      |                        | Escherichia (1)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 286
 Total number of members in cluster: 4
@@ -11542,7 +11542,7 @@ Total number of members in cluster: 4
 | Rhodothermales (1)     | Salisaetaceae (1)  | Salisaeta (1)   |
 | Xanthomonadales (1)    | nan (1)            | nan (1)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 285
 Total number of members in cluster: 4
@@ -11579,7 +11579,7 @@ ACD37046.1, ACD37037.1:
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (2) |
 |                      |                        | Shigella (2)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 281
 Total number of members in cluster: 4
@@ -11616,7 +11616,7 @@ AAZ85718.1:
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (4) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 273
 Total number of members in cluster: 4
@@ -11649,7 +11649,7 @@ Total number of members in cluster: 4
 | Lactobacillales (2) | Lactobacillaceae (1) | Ligilactobacillus (1) |
 |                     | Enterococcaceae (1)  | Enterococcus (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 255
 Total number of members in cluster: 4
@@ -11681,7 +11681,7 @@ Total number of members in cluster: 4
 |                     | Oxalobacteraceae (1) | Herbaspirillum (1)                      |
 |                     | Alcaligenaceae (1)   | Pusillimonas (ex Stolz et al. 2005) (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 251
 Total number of members in cluster: 4
@@ -11713,7 +11713,7 @@ Total number of members in cluster: 4
 |                   | Oscillospiraceae (1) | Pseudoflavonifractor (1) |
 |                   | Lachnospiraceae (1)  | Mediterraneibacter (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 242
 Total number of members in cluster: 4
@@ -11745,7 +11745,7 @@ Total number of members in cluster: 4
 | Alteromonadales (2) | Pseudoalteromonadaceae (1) | Pseudoalteromonas (1) |
 |                     | Shewanellaceae (1)         | Shewanella (1)        |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 240
 Total number of members in cluster: 4
@@ -11781,7 +11781,7 @@ ADC54929.1:
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (3) |
 |                      |                        | Citrobacter (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 238
 Total number of members in cluster: 4
@@ -11814,7 +11814,7 @@ Total number of members in cluster: 4
 | Aeromonadales (1)    | Aeromonadaceae (1)    | Aeromonas (1)      |
 | Vibrionales (1)      | Vibrionaceae (1)      | Vibrio (1)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 221
 Total number of members in cluster: 4
@@ -11850,7 +11850,7 @@ BAQ02048.1:
 | Enterobacterales (4) | Enterobacteriaceae (3) | Escherichia (3) |
 |                      | Morganellaceae (1)     | Providencia (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 220
 Total number of members in cluster: 4
@@ -11882,7 +11882,7 @@ Total number of members in cluster: 4
 | Enterobacterales (4) | Enterobacteriaceae (4) | Shigella (3)    |
 |                      |                        | Plesiomonas (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 219
 Total number of members in cluster: 4
@@ -11915,7 +11915,7 @@ Total number of members in cluster: 4
 | Lactobacillales (1) | Enterococcaceae (1)  | Enterococcus (1) |
 | nan (1)             | nan (1)              | nan (1)          |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 215
 Total number of members in cluster: 4
@@ -11952,7 +11952,7 @@ CAN87666.1:
 |                      | Morganellaceae (1)     | Proteus (1)     |
 | Vibrionales (1)      | Vibrionaceae (1)       | Vibrio (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 21
 Total number of members in cluster: 4
@@ -11990,7 +11990,7 @@ ABE98419.1, ADN43845.1:
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (4) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 207
 Total number of members in cluster: 4
@@ -12028,7 +12028,7 @@ BAQ01793.1:
 | Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (3) |
 | Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 191
 Total number of members in cluster: 4
@@ -12059,7 +12059,7 @@ Total number of members in cluster: 4
 | Lactobacillales (4) | Streptococcaceae (2) | Streptococcus (2) |
 |                     | Lactobacillaceae (2) | Lactobacillus (2) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 169
 Total number of members in cluster: 4
@@ -12097,7 +12097,7 @@ WP_016238111.1:
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (3) |
 |                      |                        | Citrobacter (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 160
 Total number of members in cluster: 4
@@ -12132,7 +12132,7 @@ AAM27879.1:
 |:--------------------|:---------------------|:----------------|
 | Pseudomonadales (4) | Pseudomonadaceae (4) | Pseudomonas (4) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 144
 Total number of members in cluster: 4
@@ -12162,7 +12162,7 @@ Total number of members in cluster: 4
 |:------------------|:--------------------|:----------------|
 | Eubacteriales (4) | Lachnospiraceae (4) | nan (4)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 139
 Total number of members in cluster: 4
@@ -12198,7 +12198,7 @@ ADN43838.1:
 | Enterobacterales (4) | Enterobacteriaceae (3) | Escherichia (3) |
 |                      | Erwiniaceae (1)        | Erwinia (1)     |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 132
 Total number of members in cluster: 4
@@ -12232,7 +12232,7 @@ Total number of members in cluster: 4
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (2)  |
 |                      |                        | Enterobacter (2) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 107
 Total number of members in cluster: 4
@@ -12264,7 +12264,7 @@ Total number of members in cluster: 4
 | Pseudomonadales (1)   | Pseudomonadaceae (1)   | Thiopseudomonas (1) |
 | Oceanospirillales (1) | Oceanospirillaceae (1) | Venatorbacter (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 105
 Total number of members in cluster: 4
@@ -12296,7 +12296,7 @@ Total number of members in cluster: 4
 | nan (1)           | nan (1)              | nan (1)              |
 | Bacillales (1)    | Paenibacillaceae (1) | Gorillibacterium (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 92
 Total number of members in cluster: 3
@@ -12328,7 +12328,7 @@ Total number of members in cluster: 3
 | Pseudomonadales (1) | Marinobacteraceae (1) | Marinobacter (1)      |
 | Burkholderiales (1) | Oxalobacteraceae (1)  | Oxalicibacterium (1)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 91
 Total number of members in cluster: 3
@@ -12361,7 +12361,7 @@ Total number of members in cluster: 3
 |:-----------------|:------------------|:------------------|
 | Moraxellales (3) | Moraxellaceae (3) | Acinetobacter (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 87
 Total number of members in cluster: 3
@@ -12392,7 +12392,7 @@ Total number of members in cluster: 3
 | Lactobacillales (3) | Lactobacillaceae (3) | Leuconostoc (2) |
 |                     |                      | Weissella (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 70
 Total number of members in cluster: 3
@@ -12424,7 +12424,7 @@ Total number of members in cluster: 3
 |                     |                      | Lactiplantibacillus (1) |
 | Eubacteriales (1)   | Clostridiaceae (1)   | Clostridium (1)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 63
 Total number of members in cluster: 3
@@ -12454,7 +12454,7 @@ Total number of members in cluster: 3
 |:------------------|:---------------------|:----------------|
 | Eubacteriales (3) | Oscillospiraceae (3) | nan (3)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 57
 Total number of members in cluster: 3
@@ -12491,7 +12491,7 @@ ADN43871.1:
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 53
 Total number of members in cluster: 3
@@ -12529,7 +12529,7 @@ ADN43858.1:
 | Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (2) |
 |                      |                        | Citrobacter (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 476
 Total number of members in cluster: 3
@@ -12559,7 +12559,7 @@ Total number of members in cluster: 3
 |:--------------------|:---------------------|:------------------------|
 | Lactobacillales (3) | Lactobacillaceae (3) | Lactiplantibacillus (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 466
 Total number of members in cluster: 3
@@ -12596,7 +12596,7 @@ AFW04847.1:
 |                      | Pectobacteriaceae (1)  | Pectobacterium (1) |
 | Vibrionales (1)      | Vibrionaceae (1)       | Photobacterium (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 462
 Total number of members in cluster: 3
@@ -12627,7 +12627,7 @@ Total number of members in cluster: 3
 | Vibrionales (3) | Vibrionaceae (3) | Vibrio (2)         |
 |                 |                  | Photobacterium (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 459
 Total number of members in cluster: 3
@@ -12658,7 +12658,7 @@ Total number of members in cluster: 3
 | Coriobacteriales (2) | Coriobacteriaceae (2) | Collinsella (2) |
 | Eggerthellales (1)   | Eggerthellaceae (1)   | Slackia (1)     |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 458
 Total number of members in cluster: 3
@@ -12690,7 +12690,7 @@ Total number of members in cluster: 3
 |                     |                      | Ligilactobacillus (1)               |
 | nan (1)             | nan (1)              | Candidatus Avigastranaerophilus (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 450
 Total number of members in cluster: 3
@@ -12721,7 +12721,7 @@ Total number of members in cluster: 3
 | Lactobacillales (3) | Lactobacillaceae (3) | Lactiplantibacillus (2) |
 |                     |                      | nan (1)                 |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 440
 Total number of members in cluster: 3
@@ -12751,7 +12751,7 @@ Total number of members in cluster: 3
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (3) | Streptococcaceae (3) | Streptococcus (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 438
 Total number of members in cluster: 3
@@ -12784,7 +12784,7 @@ Total number of members in cluster: 3
 |:-----------------|:------------------|:------------------|
 | Moraxellales (3) | Moraxellaceae (3) | Acinetobacter (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 436
 Total number of members in cluster: 3
@@ -12820,7 +12820,7 @@ BAQ00758.1:
 | Enterobacterales (3) | Enterobacteriaceae (2) | Escherichia (2) |
 |                      | Morganellaceae (1)     | Providencia (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 431
 Total number of members in cluster: 3
@@ -12855,7 +12855,7 @@ BAQ00927.1:
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 425
 Total number of members in cluster: 3
@@ -12892,7 +12892,7 @@ BAQ01702.1:
 |                      |                        | nan (1)         |
 | Vibrionales (1)      | Vibrionaceae (1)       | Vibrio (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 423
 Total number of members in cluster: 3
@@ -12923,7 +12923,7 @@ Total number of members in cluster: 3
 | Bacteroidales (2) | Bacteroidaceae (2) | Bacteroides (2) |
 | Eubacteriales (1) | Eubacteriaceae (1) | Eubacterium (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 419
 Total number of members in cluster: 3
@@ -12958,7 +12958,7 @@ AEP25500.1:
 |:---------------------|:-----------------|:----------------|
 | Enterobacterales (3) | Yersiniaceae (3) | Yersinia (3)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 418
 Total number of members in cluster: 3
@@ -12994,7 +12994,7 @@ BAQ01169.1:
 | Enterobacterales (3) | Enterobacteriaceae (2) | Escherichia (2) |
 |                      | Hafniaceae (1)         | Hafnia (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 41
 Total number of members in cluster: 3
@@ -13024,7 +13024,7 @@ Total number of members in cluster: 3
 |:-----------------|:------------------|:------------------|
 | Moraxellales (3) | Moraxellaceae (3) | Acinetobacter (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 404
 Total number of members in cluster: 3
@@ -13062,7 +13062,7 @@ BAQ02088.1:
 | Enterobacterales (3) | Enterobacteriaceae (2) | Escherichia (2)     |
 |                      | Hafniaceae (1)         | Obesumbacterium (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 397
 Total number of members in cluster: 3
@@ -13094,7 +13094,7 @@ Total number of members in cluster: 3
 |                     |                      | nan (1)              |
 |                     |                      | Bowmanella (1)       |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 394
 Total number of members in cluster: 3
@@ -13133,7 +13133,7 @@ ABD19779.1:
 | Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (2) |
 |                      |                        | Shigella (1)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 380
 Total number of members in cluster: 3
@@ -13163,7 +13163,7 @@ Total number of members in cluster: 3
 |:------------------|:-------------------|:----------------|
 | Bacteroidales (3) | Bacteroidaceae (3) | Bacteroides (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 378
 Total number of members in cluster: 3
@@ -13195,7 +13195,7 @@ Total number of members in cluster: 3
 |                      |                    | Enterovibrio (1) |
 | Enterobacterales (1) | Morganellaceae (1) | Proteus (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 376
 Total number of members in cluster: 3
@@ -13227,7 +13227,7 @@ Total number of members in cluster: 3
 |                     |                      | Levilactobacillus (1)   |
 |                     |                      | Lactiplantibacillus (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 372
 Total number of members in cluster: 3
@@ -13257,7 +13257,7 @@ Total number of members in cluster: 3
 |:----------------|:-----------------|:-------------------|
 | Vibrionales (3) | Vibrionaceae (3) | Photobacterium (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 369
 Total number of members in cluster: 3
@@ -13292,7 +13292,7 @@ BAQ01137.1:
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 368
 Total number of members in cluster: 3
@@ -13324,7 +13324,7 @@ Total number of members in cluster: 3
 |                     |                      | Leuconostoc (1)  |
 |                     | Enterococcaceae (1)  | Enterococcus (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 367
 Total number of members in cluster: 3
@@ -13355,7 +13355,7 @@ Total number of members in cluster: 3
 | Hyphomicrobiales (2) | Phyllobacteriaceae (2) | Mesorhizobium (2) |
 | Burkholderiales (1)  | Comamonadaceae (1)     | Rhodoferax (1)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 359
 Total number of members in cluster: 3
@@ -13387,7 +13387,7 @@ Total number of members in cluster: 3
 |                     | Pseudoalteromonadaceae (1) | Pseudoalteromonas (1) |
 | nan (1)             | nan (1)                    | Gallaecimonas (1)     |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 355
 Total number of members in cluster: 3
@@ -13419,7 +13419,7 @@ Total number of members in cluster: 3
 | Pseudomonadales (1) | Pseudomonadaceae (1) | Pseudomonas (1)   |
 | Aeromonadales (1)   | Aeromonadaceae (1)   | Aeromonas (1)     |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 353
 Total number of members in cluster: 3
@@ -13450,7 +13450,7 @@ Total number of members in cluster: 3
 | Eubacteriales (3) | Lachnospiraceae (2)  | Blautia (2)          |
 |                   | Oscillospiraceae (1) | Faecalibacterium (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 352
 Total number of members in cluster: 3
@@ -13482,7 +13482,7 @@ Total number of members in cluster: 3
 | Neisseriales (1)  | Chromobacteriaceae (1)  | Deefgea (1)     |
 | nan (1)           | nan (1)                 | nan (1)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 339
 Total number of members in cluster: 3
@@ -13519,7 +13519,7 @@ BAQ01878.1:
 |                      |                        | nan (1)         |
 | Vibrionales (1)      | Vibrionaceae (1)       | Vibrio (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 338
 Total number of members in cluster: 3
@@ -13551,7 +13551,7 @@ Total number of members in cluster: 3
 |                     |                      | Paraburkholderia (1) |
 |                     | nan (1)              | nan (1)              |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 335
 Total number of members in cluster: 3
@@ -13582,7 +13582,7 @@ Total number of members in cluster: 3
 | Bacillales (3)  | Listeriaceae (2) | Listeria (2)    |
 |                 | Bacillaceae (1)  | Priestia (1)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 332
 Total number of members in cluster: 3
@@ -13613,7 +13613,7 @@ Total number of members in cluster: 3
 | Bifidobacteriales (2) | Bifidobacteriaceae (2) | Bifidobacterium (2) |
 | Coriobacteriales (1)  | Atopobiaceae (1)       | Olsenella (1)       |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 331
 Total number of members in cluster: 3
@@ -13643,7 +13643,7 @@ Total number of members in cluster: 3
 |:-----------------|:------------------|:------------------|
 | Moraxellales (3) | Moraxellaceae (3) | Acinetobacter (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 330
 Total number of members in cluster: 3
@@ -13674,7 +13674,7 @@ Total number of members in cluster: 3
 | Flavobacteriales (3) | Flavobacteriaceae (3) | Maribacter (2)  |
 |                      |                       | Zobellia (1)    |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 328
 Total number of members in cluster: 3
@@ -13705,7 +13705,7 @@ Total number of members in cluster: 3
 | Pasteurellales (3) | Pasteurellaceae (3) | Haemophilus (2) |
 |                    |                     | nan (1)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 321
 Total number of members in cluster: 3
@@ -13737,7 +13737,7 @@ Total number of members in cluster: 3
 |                   | Eubacteriaceae (1)   | Eubacterium (1)  |
 |                   | Oscillospiraceae (1) | Ruminococcus (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 313
 Total number of members in cluster: 3
@@ -13773,7 +13773,7 @@ BAQ01155.1:
 | Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (2) |
 |                      |                        | nan (1)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 292
 Total number of members in cluster: 3
@@ -13805,7 +13805,7 @@ Total number of members in cluster: 3
 |                      |                       | Odoribacter (1)   |
 | Flavobacteriales (1) | Flavobacteriaceae (1) | Polaribacter (1)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 282
 Total number of members in cluster: 3
@@ -13840,7 +13840,7 @@ CAI34099.1:
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (3) | Streptococcaceae (3) | Streptococcus (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 279
 Total number of members in cluster: 3
@@ -13872,7 +13872,7 @@ Total number of members in cluster: 3
 | Vibrionales (1)     | Vibrionaceae (1)      | Vibrio (1)       |
 | Pseudomonadales (1) | Pseudomonadaceae (1)  | Pseudomonas (1)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 276
 Total number of members in cluster: 3
@@ -13904,7 +13904,7 @@ Total number of members in cluster: 3
 |                      |                        | Escherichia (1) |
 |                      |                        | Klebsiella (1)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 271
 Total number of members in cluster: 3
@@ -13936,7 +13936,7 @@ Total number of members in cluster: 3
 |                      |                    | Providencia (1) |
 | Vibrionales (1)      | Vibrionaceae (1)   | Vibrio (1)      |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 270
 Total number of members in cluster: 3
@@ -13972,7 +13972,7 @@ AAY28257.1:
 | Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (2) |
 |                      |                        | Kosakonia (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 27
 Total number of members in cluster: 3
@@ -14004,7 +14004,7 @@ Total number of members in cluster: 3
 |                 | Bacillaceae (1)       | Salicibibacter (1) |
 |                 | Planococcaceae (1)    | Sporosarcina (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 249
 Total number of members in cluster: 3
@@ -14036,7 +14036,7 @@ Total number of members in cluster: 3
 |                       | Coriobacteriaceae (1)  | nan (1)             |
 | Bifidobacteriales (1) | Bifidobacteriaceae (1) | Bifidobacterium (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 248
 Total number of members in cluster: 3
@@ -14073,7 +14073,7 @@ CAI32797.1:
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (3) | Streptococcaceae (3) | Streptococcus (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 243
 Total number of members in cluster: 3
@@ -14104,7 +14104,7 @@ Total number of members in cluster: 3
 | Burkholderiales (2) | nan (2)                | Rhizobacter (1) |
 | Neisseriales (1)    | Chromobacteriaceae (1) | Aquitalea (1)   |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 229
 Total number of members in cluster: 3
@@ -14135,7 +14135,7 @@ Total number of members in cluster: 3
 | Lactobacillales (3) | Lactobacillaceae (3) | Leuconostoc (2)         |
 |                     |                      | Lactiplantibacillus (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 228
 Total number of members in cluster: 3
@@ -14167,7 +14167,7 @@ Total number of members in cluster: 3
 |                      |                       | Flavobacterium (1)   |
 |                      | Weeksellaceae (1)     | Chryseobacterium (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 209
 Total number of members in cluster: 3
@@ -14209,7 +14209,7 @@ CAI34475.1:
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (3) | Streptococcaceae (3) | Streptococcus (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 208
 Total number of members in cluster: 3
@@ -14239,7 +14239,7 @@ Total number of members in cluster: 3
 |:-----------------|:------------------|:------------------|
 | Moraxellales (3) | Moraxellaceae (3) | Acinetobacter (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 206
 Total number of members in cluster: 3
@@ -14269,7 +14269,7 @@ Total number of members in cluster: 3
 |:------------------|:-------------------|:----------------|
 | Bacteroidales (3) | Bacteroidaceae (3) | Bacteroides (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 205
 Total number of members in cluster: 3
@@ -14300,7 +14300,7 @@ Total number of members in cluster: 3
 | Bacteroidales (2) | Paludibacteraceae (2) | nan (2)         |
 | nan (1)           | nan (1)               | nan (2)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 194
 Total number of members in cluster: 3
@@ -14331,7 +14331,7 @@ Total number of members in cluster: 3
 | Enterobacterales (2) | Enterobacteriaceae (2) | Citrobacter (2) |
 | Pseudomonadales (1)  | Pseudomonadaceae (1)   | Pseudomonas (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 190
 Total number of members in cluster: 3
@@ -14368,7 +14368,7 @@ BAQ01659.1:
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 18
 Total number of members in cluster: 3
@@ -14400,7 +14400,7 @@ Total number of members in cluster: 3
 |                      |                        | Kosakonia (1)    |
 | Burkholderiales (1)  | nan (1)                | nan (1)          |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 172
 Total number of members in cluster: 3
@@ -14431,7 +14431,7 @@ Total number of members in cluster: 3
 | Eubacteriales (2) | Lachnospiraceae (2) | nan (1)         |
 | nan (1)           | nan (1)             | nan (1)         |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 168
 Total number of members in cluster: 3
@@ -14463,7 +14463,7 @@ Total number of members in cluster: 3
 |                      |                        | Buttiauxella (1) |
 |                      | Morganellaceae (1)     | Providencia (1)  |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 166
 Total number of members in cluster: 3
@@ -14493,7 +14493,7 @@ Total number of members in cluster: 3
 |:--------------------|:---------------------|:----------------|
 | Pseudomonadales (3) | Pseudomonadaceae (3) | Pseudomonas (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 151
 Total number of members in cluster: 3
@@ -14523,7 +14523,7 @@ Total number of members in cluster: 3
 |:------------------|:-------------------|:----------------|
 | Bacteroidales (3) | Bacteroidaceae (3) | Bacteroides (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 14
 Total number of members in cluster: 3
@@ -14555,7 +14555,7 @@ Total number of members in cluster: 3
 |                     | Shewanellaceae (1)         | Shewanella (1)        |
 |                     | Pseudoalteromonadaceae (1) | Pseudoalteromonas (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 120
 Total number of members in cluster: 3
@@ -14585,7 +14585,7 @@ Total number of members in cluster: 3
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (3) | Streptococcaceae (3) | Streptococcus (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 109
 Total number of members in cluster: 3
@@ -14617,7 +14617,7 @@ Total number of members in cluster: 3
 | nan (1)               | nan (1)                | nan (1)             |
 | Bifidobacteriales (1) | Bifidobacteriaceae (1) | Bifidobacterium (1) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
 
 ### Cluster 102
 Total number of members in cluster: 3
@@ -14647,5 +14647,3155 @@ Total number of members in cluster: 3
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (3) |
 
-[top](https://github.com/idameitil/phd/blob/master/data/wzy/ssn-clusterings/2206020950/report.md#navigation)
+[top](#navigation)
+
+### Cluster 76
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| BAQ01780.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O154       |
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_76/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_76/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_76/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_76/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_76/hits.tsv)
+
+#### Sugars in cluster:
+
+BAQ01780.1:
+
+![](../../../csdb/images/696.gif)
+
+#### Alphafold models:
+
+[BAQ01780.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/BAQ01780.1/ranked_0.pdb)
+
+#### Taxonomy:
+
+| order (count)        | family (count)         | genus (count)   |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
+
+[top](#navigation)
+
+### Cluster 58
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_58/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_58/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_58/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_58/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_58/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)       | genus (count)            |
+|:--------------------|:---------------------|:-------------------------|
+| Lactobacillales (2) | Lactobacillaceae (2) | Companilactobacillus (1) |
+|                     |                      | Latilactobacillus (1)    |
+
+[top](#navigation)
+
+### Cluster 51
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| ACA24890.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O159       |
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_51/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_51/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_51/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_51/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_51/hits.tsv)
+
+#### Sugars in cluster:
+
+ACA24890.1:
+
+![](../../../csdb/images/1900.gif)
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)         | genus (count)   |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
+
+[top](#navigation)
+
+### Cluster 5
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_5/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_5/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_5/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_5/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_5/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)       | genus (count)   |
+|:--------------------|:---------------------|:----------------|
+| Pseudomonadales (2) | Pseudomonadaceae (2) | Pseudomonas (2) |
+
+[top](#navigation)
+
+### Cluster 481
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| BAQ00812.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O34        |
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_481/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_481/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_481/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_481/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_481/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)         | genus (count)   |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
+
+[top](#navigation)
+
+### Cluster 480
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_480/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_480/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_480/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_480/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_480/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)         | family (count)     | genus (count)    |
+|:----------------------|:-------------------|:-----------------|
+| Desulfobacterales (1) | nan (1)            | nan (1)          |
+| Burkholderiales (1)   | Alcaligenaceae (1) | Candidimonas (1) |
+
+[top](#navigation)
+
+### Cluster 479
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_479/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_479/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_479/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_479/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_479/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)         | genus (count)   |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Morganellaceae (1)     | Providencia (1) |
+|                      | Enterobacteriaceae (1) | Citrobacter (1) |
+
+[top](#navigation)
+
+### Cluster 478
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_478/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_478/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_478/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_478/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_478/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)   | family (count)   | genus (count)   |
+|:----------------|:-----------------|:----------------|
+| nan (2)         | nan (2)          | nan (2)         |
+
+[top](#navigation)
+
+### Cluster 477
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_477/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_477/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_477/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_477/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_477/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)       | genus (count)            |
+|:--------------------|:---------------------|:-------------------------|
+| nan (1)             | nan (1)              | nan (1)                  |
+| Lactobacillales (1) | Lactobacillaceae (1) | Liquorilactobacillus (1) |
+
+[top](#navigation)
+
+### Cluster 475
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_475/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_475/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_475/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_475/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_475/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)   | family (count)   | genus (count)   |
+|:----------------|:-----------------|:----------------|
+| Vibrionales (2) | Vibrionaceae (2) | Vibrio (2)      |
+
+[top](#navigation)
+
+### Cluster 474
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_474/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_474/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_474/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_474/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_474/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)        | genus (count)   |
+|:---------------------|:----------------------|:----------------|
+| Coriobacteriales (2) | Coriobacteriaceae (1) | Collinsella (1) |
+|                      | Atopobiaceae (1)      | nan (1)         |
+
+[top](#navigation)
+
+### Cluster 473
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_473/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_473/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_473/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_473/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_473/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)         | genus (count)   |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (1) | Escherichia (1) |
+|                      | Hafniaceae (1)         | Hafnia (1)      |
+
+[top](#navigation)
+
+### Cluster 472
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_472/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_472/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_472/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_472/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_472/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)   | family (count)   | genus (count)   |
+|:----------------|:-----------------|:----------------|
+| nan (2)         | nan (2)          | nan (2)         |
+
+[top](#navigation)
+
+### Cluster 471
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_471/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_471/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_471/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_471/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_471/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)     | family (count)            | genus (count)   |
+|:------------------|:--------------------------|:----------------|
+| Eubacteriales (2) | Clostridiaceae (1)        | Clostridium (1) |
+|                   | Peptostreptococcaceae (1) | Romboutsia (1)  |
+
+[top](#navigation)
+
+### Cluster 470
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_470/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_470/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_470/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_470/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_470/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)      | genus (count)    |
+|:--------------------|:--------------------|:-----------------|
+| Lactobacillales (2) | Enterococcaceae (2) | Vagococcus (1)   |
+|                     |                     | Enterococcus (1) |
+
+[top](#navigation)
+
+### Cluster 469
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_469/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_469/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_469/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_469/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_469/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)       | genus (count)        |
+|:--------------------|:---------------------|:---------------------|
+| Eubacteriales (1)   | Clostridiaceae (1)   | Clostridium (1)      |
+| Methylococcales (1) | Methylococcaceae (1) | Methyloprofundus (1) |
+
+[top](#navigation)
+
+### Cluster 468
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_468/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_468/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_468/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_468/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_468/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)     | family (count)      | genus (count)      |
+|:------------------|:--------------------|:-------------------|
+| Eubacteriales (1) | Lachnospiraceae (1) | Enterocloster (1)  |
+| Synergistales (1) | Synergistaceae (1)  | Cloacibacillus (1) |
+
+[top](#navigation)
+
+### Cluster 467
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_467/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_467/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_467/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_467/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_467/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)     | family (count)     | genus (count)      |
+|:------------------|:-------------------|:-------------------|
+| Vibrionales (1)   | Vibrionaceae (1)   | Photobacterium (1) |
+| Aeromonadales (1) | Aeromonadaceae (1) | Aeromonas (1)      |
+
+[top](#navigation)
+
+### Cluster 465
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_465/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_465/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_465/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_465/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_465/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)    | family (count)    | genus (count)     |
+|:-----------------|:------------------|:------------------|
+| Moraxellales (2) | Moraxellaceae (2) | Psychrobacter (2) |
+
+[top](#navigation)
+
+### Cluster 464
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_464/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_464/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_464/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_464/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_464/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)       | genus (count)   |
+|:--------------------|:---------------------|:----------------|
+| Burkholderiales (2) | Burkholderiaceae (2) | Cupriavidus (1) |
+|                     |                      | Ralstonia (1)   |
+
+[top](#navigation)
+
+### Cluster 463
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_463/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_463/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_463/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_463/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_463/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)        | genus (count)      |
+|:---------------------|:----------------------|:-------------------|
+| Enterobacterales (2) | Erwiniaceae (1)       | Tatumella (1)      |
+|                      | Pectobacteriaceae (1) | Pectobacterium (1) |
+
+[top](#navigation)
+
+### Cluster 460
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_460/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_460/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_460/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_460/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_460/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)   | family (count)   | genus (count)   |
+|:----------------|:-----------------|:----------------|
+| Vibrionales (2) | Vibrionaceae (2) | Vibrio (2)      |
+
+[top](#navigation)
+
+### Cluster 457
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_457/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_457/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_457/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_457/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_457/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)   | family (count)   | genus (count)   |
+|:----------------|:-----------------|:----------------|
+| Vibrionales (2) | Vibrionaceae (2) | Vibrio (2)      |
+
+[top](#navigation)
+
+### Cluster 456
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_456/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_456/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_456/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_456/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_456/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)        | genus (count)   |
+|:---------------------|:----------------------|:----------------|
+| Hyphomicrobiales (1) | Aurantimonadaceae (1) | Aureimonas (1)  |
+| Rhodobacterales (1)  | Rhodobacteraceae (1)  | nan (1)         |
+
+[top](#navigation)
+
+### Cluster 454
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_454/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_454/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_454/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_454/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_454/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)   | family (count)   | genus (count)   |
+|:----------------|:-----------------|:----------------|
+| Vibrionales (2) | Vibrionaceae (2) | Vibrio (2)      |
+
+[top](#navigation)
+
+### Cluster 453
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_453/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_453/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_453/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_453/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_453/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)          | family (count)          | genus (count)     |
+|:-----------------------|:------------------------|:------------------|
+| Chitinophagales (1)    | Chitinophagaceae (1)    | Chitinophaga (1)  |
+| Sphingobacteriales (1) | Sphingobacteriaceae (1) | Arcticibacter (1) |
+
+[top](#navigation)
+
+### Cluster 452
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_452/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_452/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_452/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_452/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_452/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)       | genus (count)           |
+|:--------------------|:---------------------|:------------------------|
+| Lactobacillales (1) | Lactobacillaceae (1) | Lactiplantibacillus (1) |
+| Pasteurellales (1)  | Pasteurellaceae (1)  | Rodentibacter (1)       |
+
+[top](#navigation)
+
+### Cluster 451
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_451/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_451/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_451/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_451/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_451/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)    | genus (count)       |
+|:---------------------|:------------------|:--------------------|
+| Flavobacteriales (2) | Weeksellaceae (2) | Elizabethkingia (2) |
+
+[top](#navigation)
+
+### Cluster 449
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_449/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_449/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_449/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_449/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_449/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)        | genus (count)     |
+|:---------------------|:----------------------|:------------------|
+| Flavobacteriales (2) | Flavobacteriaceae (2) | Tenacibaculum (2) |
+
+[top](#navigation)
+
+### Cluster 448
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_448/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_448/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_448/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_448/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_448/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)      | family (count)      | genus (count)   |
+|:-------------------|:--------------------|:----------------|
+| Spirochaetales (2) | Treponemataceae (2) | Treponema (2)   |
+
+[top](#navigation)
+
+### Cluster 447
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_447/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_447/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_447/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_447/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_447/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)     | genus (count)   |
+|:--------------------|:-------------------|:----------------|
+| Alteromonadales (1) | Shewanellaceae (1) | Shewanella (1)  |
+| Vibrionales (1)     | Vibrionaceae (1)   | Vibrio (1)      |
+
+[top](#navigation)
+
+### Cluster 446
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_446/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_446/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_446/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_446/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_446/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)     | family (count)                               | genus (count)    |
+|:------------------|:---------------------------------------------|:-----------------|
+| Eubacteriales (2) | Proteinivoraceae (1)                         | Anaerobranca (1) |
+|                   | Eubacteriales Family XII. Incertae Sedis (1) | Fusibacter (1)   |
+
+[top](#navigation)
+
+### Cluster 443
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_443/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_443/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_443/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_443/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_443/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)   | family (count)   | genus (count)        |
+|:----------------|:-----------------|:---------------------|
+| nan (1)         | nan (1)          | Wohlfahrtiimonas (1) |
+| Vibrionales (1) | Vibrionaceae (1) | Photobacterium (1)   |
+
+[top](#navigation)
+
+### Cluster 442
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_442/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_442/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_442/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_442/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_442/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)         | genus (count)   |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
+
+[top](#navigation)
+
+### Cluster 435
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_435/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_435/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_435/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_435/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_435/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)         | genus (count)    |
+|:---------------------|:-----------------------|:-----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Enterobacter (2) |
+
+[top](#navigation)
+
+### Cluster 434
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_434/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_434/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_434/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_434/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_434/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)       | genus (count)           |
+|:--------------------|:---------------------|:------------------------|
+| Lactobacillales (2) | Lactobacillaceae (2) | Limosilactobacillus (2) |
+
+[top](#navigation)
+
+### Cluster 433
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_433/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_433/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_433/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_433/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_433/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)     | family (count)     | genus (count)       |
+|:------------------|:-------------------|:--------------------|
+| Bacteroidales (2) | Tannerellaceae (1) | Parabacteroides (1) |
+|                   | Bacteroidaceae (1) | Bacteroides (1)     |
+
+[top](#navigation)
+
+### Cluster 432
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_432/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_432/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_432/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_432/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_432/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)     | family (count)       | genus (count)    |
+|:------------------|:---------------------|:-----------------|
+| Eubacteriales (2) | Oscillospiraceae (2) | Ruminococcus (2) |
+
+[top](#navigation)
+
+### Cluster 429
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_429/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_429/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_429/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_429/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_429/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)         | genus (count)         |
+|:---------------------|:-----------------------|:----------------------|
+| Nostocales (1)       | Aphanizomenonaceae (1) | Sphaerospermopsis (1) |
+| Hyphomicrobiales (1) | Phyllobacteriaceae (1) | Mesorhizobium (1)     |
+
+[top](#navigation)
+
+### Cluster 428
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_428/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_428/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_428/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_428/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_428/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)   | genus (count)   |
+|:--------------------|:-----------------|:----------------|
+| Burkholderiales (2) | nan (2)          | Mitsuaria (1)   |
+
+[top](#navigation)
+
+### Cluster 427
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order        | family        | genus         | species                 | serotype   |
+|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|
+| AHB32614.2          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O20        |
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_427/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_427/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_427/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_427/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_427/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)    | family (count)    | genus (count)     |
+|:-----------------|:------------------|:------------------|
+| Moraxellales (2) | Moraxellaceae (2) | Acinetobacter (2) |
+
+[top](#navigation)
+
+### Cluster 426
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_426/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_426/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_426/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_426/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_426/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)     | family (count)       | genus (count)         |
+|:------------------|:---------------------|:----------------------|
+| Eubacteriales (2) | Clostridiaceae (1)   | Clostridium (1)       |
+|                   | Oscillospiraceae (1) | Ruminiclostridium (1) |
+
+[top](#navigation)
+
+### Cluster 424
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_424/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_424/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_424/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_424/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_424/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)         | genus (count)   |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (1) | Enterobacteriaceae (1) | Citrobacter (1) |
+| Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)   |
+
+[top](#navigation)
+
+### Cluster 422
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_422/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_422/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_422/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_422/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_422/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)     | family (count)       | genus (count)   |
+|:------------------|:---------------------|:----------------|
+| Bacteroidales (2) | Odoribacteraceae (2) | Odoribacter (2) |
+
+[top](#navigation)
+
+### Cluster 421
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_421/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_421/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_421/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_421/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_421/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)       | genus (count)          |
+|:--------------------|:---------------------|:-----------------------|
+| Lactobacillales (2) | Lactobacillaceae (2) | Loigolactobacillus (2) |
+
+[top](#navigation)
+
+### Cluster 417
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_417/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_417/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_417/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_417/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_417/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)     | family (count)   | genus (count)    |
+|:------------------|:-----------------|:-----------------|
+| Bacillales (1)    | Bacillaceae (1)  | Halobacillus (1) |
+| Eubacteriales (1) | nan (1)          | nan (1)          |
+
+[top](#navigation)
+
+### Cluster 415
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order           | family           | genus         | species                  |   serotype |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|
+| CAI32957.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          8 |
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_415/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_415/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_415/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_415/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_415/hits.tsv)
+
+#### Sugars in cluster:
+
+CAI32957.1:
+
+![](../../../csdb/images/938.gif)
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)       | genus (count)     |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (2) | Streptococcaceae (2) | Streptococcus (2) |
+
+[top](#navigation)
+
+### Cluster 414
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_414/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_414/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_414/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_414/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_414/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)       | genus (count)    |
+|:--------------------|:---------------------|:-----------------|
+| Lactobacillales (2) | Streptococcaceae (1) | Lactococcus (1)  |
+|                     | Enterococcaceae (1)  | Enterococcus (1) |
+
+[top](#navigation)
+
+### Cluster 413
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_413/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_413/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_413/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_413/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_413/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)        | genus (count)      |
+|:---------------------|:----------------------|:-------------------|
+| Flavobacteriales (1) | Flavobacteriaceae (1) | Flavobacterium (1) |
+| nan (1)              | nan (1)               | nan (1)            |
+
+[top](#navigation)
+
+### Cluster 411
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_411/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_411/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_411/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_411/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_411/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)   | family (count)   | genus (count)   |
+|:----------------|:-----------------|:----------------|
+| nan (1)         | nan (1)          | nan (1)         |
+| Vibrionales (1) | Vibrionaceae (1) | Vibrio (1)      |
+
+[top](#navigation)
+
+### Cluster 410
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_410/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_410/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_410/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_410/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_410/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)         | family (count)        | genus (count)     |
+|:----------------------|:----------------------|:------------------|
+| Campylobacterales (1) | Arcobacteraceae (1)   | Aliarcobacter (1) |
+| Cytophagales (1)      | Cyclobacteriaceae (1) | Algoriphagus (1)  |
+
+[top](#navigation)
+
+### Cluster 408
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_408/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_408/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_408/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_408/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_408/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)   | family (count)   | genus (count)   |
+|:----------------|:-----------------|:----------------|
+| nan (2)         | nan (2)          | nan (2)         |
+
+[top](#navigation)
+
+### Cluster 407
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_407/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_407/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_407/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_407/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_407/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)       | genus (count)   |
+|:--------------------|:---------------------|:----------------|
+| Pseudomonadales (2) | Pseudomonadaceae (2) | Pseudomonas (2) |
+
+[top](#navigation)
+
+### Cluster 406
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| BAQ01114.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O64        |
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_406/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_406/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_406/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_406/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_406/hits.tsv)
+
+#### Sugars in cluster:
+
+BAQ01114.1:
+
+![](../../../csdb/images/1571.gif)
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)         | genus (count)   |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
+
+[top](#navigation)
+
+### Cluster 403
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| ADN43883.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O165       |
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_403/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_403/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_403/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_403/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_403/hits.tsv)
+
+#### Sugars in cluster:
+
+ADN43883.1:
+
+![](../../../csdb/images/1907.gif)
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)         | genus (count)   |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
+
+[top](#navigation)
+
+### Cluster 4
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_4/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_4/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_4/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_4/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_4/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)        | genus (count)      |
+|:--------------------|:----------------------|:-------------------|
+| Eubacteriales (1)   | Clostridiaceae (1)    | Clostridium (1)    |
+| Lactobacillales (1) | Carnobacteriaceae (1) | Carnobacterium (1) |
+
+[top](#navigation)
+
+### Cluster 398
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_398/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_398/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_398/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_398/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_398/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)    | family (count)    | genus (count)     |
+|:-----------------|:------------------|:------------------|
+| Moraxellales (2) | Moraxellaceae (2) | Acinetobacter (2) |
+
+[top](#navigation)
+
+### Cluster 386
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_386/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_386/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_386/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_386/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_386/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)       | genus (count)        |
+|:--------------------|:---------------------|:---------------------|
+| Burkholderiales (1) | Burkholderiaceae (1) | Paraburkholderia (1) |
+| Pseudomonadales (1) | Pseudomonadaceae (1) | Pseudomonas (1)      |
+
+[top](#navigation)
+
+### Cluster 385
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_385/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_385/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_385/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_385/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_385/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)     | family (count)     | genus (count)        |
+|:------------------|:-------------------|:---------------------|
+| Eubacteriales (2) | Eubacteriaceae (2) | Pseudoramibacter (2) |
+
+[top](#navigation)
+
+### Cluster 383
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| BAQ01812.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O160       |
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_383/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_383/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_383/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_383/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_383/hits.tsv)
+
+#### Sugars in cluster:
+
+BAQ01812.1:
+
+![](../../../csdb/images/1901.gif)
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)         | genus (count)   |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
+
+[top](#navigation)
+
+### Cluster 382
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_382/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_382/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_382/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_382/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_382/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)         | family (count)         | genus (count)     |
+|:----------------------|:-----------------------|:------------------|
+| Campylobacterales (2) | Campylobacteraceae (2) | Campylobacter (2) |
+
+[top](#navigation)
+
+### Cluster 381
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_381/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_381/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_381/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_381/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_381/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)             | genus (count)         |
+|:--------------------|:---------------------------|:----------------------|
+| Alteromonadales (2) | Pseudoalteromonadaceae (2) | Pseudoalteromonas (2) |
+
+[top](#navigation)
+
+### Cluster 373
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_373/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_373/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_373/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_373/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_373/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)   | family (count)   | genus (count)   |
+|:----------------|:-----------------|:----------------|
+| Bacillales (2)  | Bacillaceae (2)  | Neobacillus (1) |
+|                 |                  | Bacillus (1)    |
+
+[top](#navigation)
+
+### Cluster 365
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_365/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_365/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_365/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_365/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_365/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)      | family (count)      | genus (count)   |
+|:-------------------|:--------------------|:----------------|
+| Spirochaetales (2) | Treponemataceae (2) | Treponema (2)   |
+
+[top](#navigation)
+
+### Cluster 362
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_362/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_362/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_362/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_362/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_362/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)   | family (count)   | genus (count)   |
+|:----------------|:-----------------|:----------------|
+| Vibrionales (2) | Vibrionaceae (2) | Vibrio (2)      |
+
+[top](#navigation)
+
+### Cluster 357
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_357/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_357/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_357/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_357/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_357/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)          | family (count)          | genus (count)       |
+|:-----------------------|:------------------------|:--------------------|
+| Erysipelotrichales (1) | Erysipelotrichaceae (1) | Faecalibacillus (1) |
+| nan (1)                | nan (1)                 | nan (1)             |
+
+[top](#navigation)
+
+### Cluster 354
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_354/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_354/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_354/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_354/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_354/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)   | family (count)   | genus (count)   |
+|:----------------|:-----------------|:----------------|
+| nan (2)         | nan (2)          | nan (2)         |
+
+[top](#navigation)
+
+### Cluster 346
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_346/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_346/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_346/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_346/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_346/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)         | genus (count)   |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Citrobacter (2) |
+
+[top](#navigation)
+
+### Cluster 34
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_34/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_34/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_34/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_34/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_34/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)     | family (count)     | genus (count)       |
+|:------------------|:-------------------|:--------------------|
+| Bacteroidales (2) | Bacteroidaceae (1) | Bacteroides (1)     |
+|                   | Tannerellaceae (1) | Parabacteroides (1) |
+
+[top](#navigation)
+
+### Cluster 333
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_333/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_333/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_333/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_333/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_333/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)         | genus (count)   |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (1) | Escherichia (1) |
+|                      | Morganellaceae (1)     | Providencia (1) |
+
+[top](#navigation)
+
+### Cluster 327
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_327/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_327/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_327/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_327/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_327/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)     | genus (count)   |
+|:--------------------|:-------------------|:----------------|
+| Aeromonadales (1)   | Aeromonadaceae (1) | Aeromonas (1)   |
+| Alteromonadales (1) | Shewanellaceae (1) | Shewanella (1)  |
+
+[top](#navigation)
+
+### Cluster 325
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_325/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_325/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_325/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_325/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_325/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)       | genus (count)   |
+|:--------------------|:---------------------|:----------------|
+| Pseudomonadales (2) | Pseudomonadaceae (2) | Pseudomonas (2) |
+
+[top](#navigation)
+
+### Cluster 316
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_316/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_316/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_316/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_316/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_316/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)       | genus (count)     |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (2) | Lactobacillaceae (2) | Lactobacillus (2) |
+
+[top](#navigation)
+
+### Cluster 314
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_314/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_314/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_314/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_314/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_314/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)    | genus (count)        |
+|:---------------------|:------------------|:---------------------|
+| Flavobacteriales (2) | Weeksellaceae (2) | Chryseobacterium (2) |
+
+[top](#navigation)
+
+### Cluster 309
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order            | family             | genus      | species             | serotype   |
+|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------|
+| AFW04735.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O63        |
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_309/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_309/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_309/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_309/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_309/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)         | genus (count)   |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Salmonella (2)  |
+
+[top](#navigation)
+
+### Cluster 305
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order            | family       | genus    | species                     | serotype   |
+|:--------------------|:-----------------|:-------------|:---------|:----------------------------|:-----------|
+| ADX97403.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:10       |
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_305/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_305/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_305/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_305/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_305/hits.tsv)
+
+#### Sugars in cluster:
+
+ADX97403.1:
+
+![](../../../csdb/images/12137.gif)
+
+#### Alphafold models:
+
+[ADX97403.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2201200806-polymerases_AlphaFold_batch1/af_out/ADX97403.1/ranked_0.pdb)
+
+#### Taxonomy:
+
+| order (count)        | family (count)   | genus (count)   |
+|:---------------------|:-----------------|:----------------|
+| Enterobacterales (2) | Yersiniaceae (1) | Yersinia (1)    |
+|                      | Erwiniaceae (1)  | Pantoea (1)     |
+
+[top](#navigation)
+
+### Cluster 299
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_299/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_299/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_299/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_299/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_299/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)     | family (count)      | genus (count)   |
+|:------------------|:--------------------|:----------------|
+| Bacteroidales (1) | Bacteroidaceae (1)  | nan (1)         |
+| Eubacteriales (1) | Lachnospiraceae (1) | Roseburia (1)   |
+
+[top](#navigation)
+
+### Cluster 297
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_297/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_297/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_297/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_297/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_297/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)   | family (count)   | genus (count)   |
+|:----------------|:-----------------|:----------------|
+| Vibrionales (2) | Vibrionaceae (2) | Vibrio (2)      |
+
+[top](#navigation)
+
+### Cluster 295
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_295/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_295/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_295/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_295/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_295/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)   | family (count)   | genus (count)   |
+|:----------------|:-----------------|:----------------|
+| Vibrionales (2) | Vibrionaceae (2) | Vibrio (2)      |
+
+[top](#navigation)
+
+### Cluster 291
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_291/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_291/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_291/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_291/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_291/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)     | family (count)     | genus (count)       |
+|:------------------|:-------------------|:--------------------|
+| Bacteroidales (2) | Tannerellaceae (2) | Parabacteroides (2) |
+
+[top](#navigation)
+
+### Cluster 290
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_290/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_290/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_290/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_290/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_290/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)       | genus (count)     |
+|:--------------------|:---------------------|:------------------|
+| Eubacteriales (1)   | Clostridiaceae (1)   | Clostridium (1)   |
+| Lactobacillales (1) | Streptococcaceae (1) | Streptococcus (1) |
+
+[top](#navigation)
+
+### Cluster 268
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_268/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_268/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_268/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_268/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_268/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)       | genus (count)   |
+|:--------------------|:---------------------|:----------------|
+| Kordiimonadales (1) | Kordiimonadaceae (1) | nan (1)         |
+| Rhodobacterales (1) | Rhodobacteraceae (1) | nan (1)         |
+
+[top](#navigation)
+
+### Cluster 265
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_265/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_265/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_265/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_265/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_265/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)       | genus (count)                   |
+|:--------------------|:---------------------|:--------------------------------|
+| Lactobacillales (1) | Streptococcaceae (1) | Lactococcus (1)                 |
+| Eubacteriales (1)   | Lachnospiraceae (1)  | Candidatus Pullilachnospira (1) |
+
+[top](#navigation)
+
+### Cluster 261
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| ADJ19203.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O161       |
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_261/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_261/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_261/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_261/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_261/hits.tsv)
+
+#### Sugars in cluster:
+
+ADJ19203.1:
+
+![](../../../csdb/images/1902.gif)
+
+#### Alphafold models:
+
+[ADJ19203.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/ADJ19203.1/ranked_0.pdb)
+
+#### Taxonomy:
+
+| order (count)        | family (count)         | genus (count)   |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
+
+[top](#navigation)
+
+### Cluster 257
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_257/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_257/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_257/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_257/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_257/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)       | genus (count)            |
+|:--------------------|:---------------------|:-------------------------|
+| Lactobacillales (2) | Lactobacillaceae (2) | Levilactobacillus (1)    |
+|                     |                      | Companilactobacillus (1) |
+
+[top](#navigation)
+
+### Cluster 253
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_253/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_253/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_253/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_253/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_253/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)   | family (count)   | genus (count)   |
+|:----------------|:-----------------|:----------------|
+| Vibrionales (2) | Vibrionaceae (2) | Vibrio (2)      |
+
+[top](#navigation)
+
+### Cluster 227
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order        | family        | genus         | species                 | serotype   |
+|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|
+| AHB32242.2          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O5         |
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_227/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_227/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_227/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_227/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_227/hits.tsv)
+
+#### Sugars in cluster:
+
+AHB32242.2:
+
+![](../../../csdb/images/487.gif)
+
+#### Alphafold models:
+
+[AHB32242.2](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AHB32242.2/ranked_0.pdb)
+
+#### Taxonomy:
+
+| order (count)    | family (count)    | genus (count)     |
+|:-----------------|:------------------|:------------------|
+| Moraxellales (2) | Moraxellaceae (2) | Acinetobacter (2) |
+
+[top](#navigation)
+
+### Cluster 223
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| AIG62747.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O178       |
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_223/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_223/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_223/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_223/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_223/hits.tsv)
+
+#### Sugars in cluster:
+
+AIG62747.1:
+
+![](../../../csdb/images/1920.gif)
+
+#### Alphafold models:
+
+[AIG62747.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AIG62747.1/ranked_0.pdb)
+
+#### Taxonomy:
+
+| order (count)        | family (count)         | genus (count)   |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
+
+[top](#navigation)
+
+### Cluster 212
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_212/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_212/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_212/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_212/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_212/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)       | genus (count)    |
+|:---------------------|:---------------------|:-----------------|
+| Pseudanabaenales (1) | Leptolyngbyaceae (1) | Leptolyngbya (1) |
+| Nostocales (1)       | Nostocaceae (1)      | Richelia (1)     |
+
+[top](#navigation)
+
+### Cluster 204
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order            | family             | genus       | species          | serotype   |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|
+| ACH97152.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O3         |
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_204/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_204/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_204/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_204/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_204/hits.tsv)
+
+#### Sugars in cluster:
+
+ACH97152.1:
+
+![](../../../csdb/images/1501.gif)
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)         | genus (count)   |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
+
+[top](#navigation)
+
+### Cluster 200
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_200/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_200/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_200/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_200/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_200/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)       | genus (count)     |
+|:--------------------|:---------------------|:------------------|
+| Lactobacillales (2) | Lactobacillaceae (2) | Lactobacillus (2) |
+
+[top](#navigation)
+
+### Cluster 199
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_199/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_199/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_199/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_199/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_199/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)     | genus (count)   |
+|:---------------------|:-------------------|:----------------|
+| Enterobacterales (2) | Morganellaceae (2) | Proteus (2)     |
+
+[top](#navigation)
+
+### Cluster 193
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_193/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_193/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_193/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_193/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_193/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)     | family (count)     | genus (count)   |
+|:------------------|:-------------------|:----------------|
+| Eubacteriales (2) | Clostridiaceae (2) | Clostridium (2) |
+
+[top](#navigation)
+
+### Cluster 167
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_167/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_167/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_167/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_167/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_167/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)       | family (count)     | genus (count)     |
+|:--------------------|:-------------------|:------------------|
+| Alteromonadales (1) | Idiomarinaceae (1) | Aliidiomarina (1) |
+| Chromatiales (1)    | Chromatiaceae (1)  | Rheinheimera (1)  |
+
+[top](#navigation)
+
+### Cluster 159
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_159/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_159/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_159/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_159/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_159/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)    | family (count)         | genus (count)       |
+|:-----------------|:-----------------------|:--------------------|
+| nan (1)          | nan (1)                | nan (1)             |
+| Neisseriales (1) | Chromobacteriaceae (1) | Chromobacterium (1) |
+
+[top](#navigation)
+
+### Cluster 147
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order            | family             | genus    | species         |   serotype |
+|:--------------------|:-----------------|:-------------------|:---------|:----------------|-----------:|
+| AAL27351.1          | Enterobacterales | Enterobacteriaceae | Shigella | Shigella boydii |          9 |
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_147/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_147/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_147/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_147/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_147/hits.tsv)
+
+#### Sugars in cluster:
+
+AAL27351.1:
+
+![](../../../csdb/images/3986.gif)
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)         | genus (count)   |
+|:---------------------|:-----------------------|:----------------|
+| Enterobacterales (2) | Enterobacteriaceae (2) | Shigella (1)    |
+|                      |                        | Escherichia (1) |
+
+[top](#navigation)
+
+### Cluster 140
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_140/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_140/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_140/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_140/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_140/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)     | family (count)       | genus (count)   |
+|:------------------|:---------------------|:----------------|
+| Bacteroidales (1) | Bacteroidaceae (1)   | Bacteroides (1) |
+| Eubacteriales (1) | Oscillospiraceae (1) | nan (1)         |
+
+[top](#navigation)
+
+### Cluster 137
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_137/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_137/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_137/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_137/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_137/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)   | family (count)   | genus (count)   |
+|:----------------|:-----------------|:----------------|
+| Vibrionales (2) | Vibrionaceae (2) | Vibrio (2)      |
+
+[top](#navigation)
+
+### Cluster 116
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_116/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_116/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_116/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_116/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_116/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)        | family (count)        | genus (count)        |
+|:---------------------|:----------------------|:---------------------|
+| Flavobacteriales (2) | Flavobacteriaceae (1) | Capnocytophaga (1)   |
+|                      | Weeksellaceae (1)     | Chryseobacterium (1) |
+
+[top](#navigation)
+
+### Cluster 115
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_115/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_115/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_115/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_115/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_115/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)      | family (count)      | genus (count)   |
+|:-------------------|:--------------------|:----------------|
+| Spirochaetales (2) | Treponemataceae (2) | Treponema (2)   |
+
+[top](#navigation)
+
+### Cluster 108
+Total number of members in cluster: 2
+
+#### Seeds in cluster:
+
+| protein_accession   | order   | family   | genus   | species   | serotype   |
+|---------------------|---------|----------|---------|-----------|------------|
+
+[MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_108/sequences.afa)
+
+[Malign view](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_108/sequences.malign)
+
+[Fasta of members](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_108/sequences.fa)
+
+[Logoplot](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_108/sequences.logo.pdf)
+
+[Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206020950/clusters/0002_108/hits.tsv)
+
+#### Sugars in cluster:
+
+#### Alphafold models:
+
+#### Taxonomy:
+
+| order (count)   | family (count)   | genus (count)   |
+|:----------------|:-----------------|:----------------|
+| Vibrionales (2) | Vibrionaceae (2) | Vibrio (2)      |
+
+[top](#navigation)
 
