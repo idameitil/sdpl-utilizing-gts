@@ -153,6 +153,10 @@ for cluster in clusters:
             else:
                 hit_accessions.append(acc)
 
+    # Length
+    lengths = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(accessions), 'seq'].apply(lambda x: len(x)).mean()
+    outfile.write(f"Average length of proteins in cluster: {round(lengths, 1)}\n\n")
+
     # Seeds
     outfile.write(f"#### Seeds in cluster:\n\n")
     seeds_table = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(seed_accessions),

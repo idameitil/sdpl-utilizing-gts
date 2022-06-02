@@ -108,6 +108,8 @@ When all jobs are finished (check with bstat), run locally: `scp -r idamei@trans
 
 To convert the logoplots to pdf run `python3 src/ssn-clustering/convert-logos-to-pdf.py [timestamp]`.
 
+Push changes.
+
 ## Phylogenetic trees
 
 ### Make iTOL label files

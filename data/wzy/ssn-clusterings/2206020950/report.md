@@ -26,6 +26,8 @@ Number of clusters: 481
 ### Cluster 10
 Total number of members in cluster: 512
 
+Average length of proteins in cluster: 450.9
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species             | serotype                            |
@@ -144,6 +146,8 @@ Total number of members in cluster: 512
 ### Cluster 13
 Total number of members in cluster: 188
 
+Average length of proteins in cluster: 353.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order        | family        | genus         | species                 | serotype   |
@@ -255,6 +259,8 @@ AHB32215.1:
 ### Cluster 30
 Total number of members in cluster: 128
 
+Average length of proteins in cluster: 396.1
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -312,6 +318,8 @@ BAQ00795.1:
 ### Cluster 37
 Total number of members in cluster: 123
 
+Average length of proteins in cluster: 404.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -367,6 +375,8 @@ Total number of members in cluster: 123
 
 ### Cluster 94
 Total number of members in cluster: 103
+
+Average length of proteins in cluster: 454.6
 
 #### Seeds in cluster:
 
@@ -443,6 +453,8 @@ AFN02899.1:
 ### Cluster 2
 Total number of members in cluster: 81
 
+Average length of proteins in cluster: 346.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -489,6 +501,8 @@ Total number of members in cluster: 81
 
 ### Cluster 56
 Total number of members in cluster: 58
+
+Average length of proteins in cluster: 397.7
 
 #### Seeds in cluster:
 
@@ -553,6 +567,8 @@ AHB32411.1:
 ### Cluster 165
 Total number of members in cluster: 57
 
+Average length of proteins in cluster: 384.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order           | family           | genus         | species                  |   serotype |
@@ -585,6 +601,8 @@ Total number of members in cluster: 57
 
 ### Cluster 55
 Total number of members in cluster: 55
+
+Average length of proteins in cluster: 399.7
 
 #### Seeds in cluster:
 
@@ -665,6 +683,8 @@ CAI34657.1:
 ### Cluster 20
 Total number of members in cluster: 52
 
+Average length of proteins in cluster: 431.7
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -715,6 +735,8 @@ Total number of members in cluster: 52
 
 ### Cluster 24
 Total number of members in cluster: 51
+
+Average length of proteins in cluster: 443.4
 
 #### Seeds in cluster:
 
@@ -782,6 +804,8 @@ CAI33631.1:
 ### Cluster 19
 Total number of members in cluster: 48
 
+Average length of proteins in cluster: 345.9
+
 #### Seeds in cluster:
 
 | protein_accession   | order        | family        | genus         | species                 | serotype   |
@@ -828,6 +852,8 @@ AHB32637.1:
 
 ### Cluster 106
 Total number of members in cluster: 44
+
+Average length of proteins in cluster: 408.0
 
 #### Seeds in cluster:
 
@@ -897,6 +923,8 @@ AAL20257.1:
 ### Cluster 72
 Total number of members in cluster: 41
 
+Average length of proteins in cluster: 441.7
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -949,6 +977,8 @@ ACD75796.1:
 
 ### Cluster 8
 Total number of members in cluster: 38
+
+Average length of proteins in cluster: 431.1
 
 #### Seeds in cluster:
 
@@ -1030,6 +1060,8 @@ BAQ00945.1:
 ### Cluster 127
 Total number of members in cluster: 38
 
+Average length of proteins in cluster: 401.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus         | species                 | serotype   |
@@ -1069,6 +1101,8 @@ Total number of members in cluster: 38
 
 ### Cluster 296
 Total number of members in cluster: 36
+
+Average length of proteins in cluster: 419.1
 
 #### Seeds in cluster:
 
@@ -1131,6 +1165,8 @@ AAM27615.1:
 ### Cluster 181
 Total number of members in cluster: 36
 
+Average length of proteins in cluster: 447.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order           | family           | genus       | species                | serotype   |
@@ -1184,6 +1220,8 @@ AAM27711.1:
 ### Cluster 33
 Total number of members in cluster: 33
 
+Average length of proteins in cluster: 439.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -1223,6 +1261,8 @@ Total number of members in cluster: 33
 
 ### Cluster 269
 Total number of members in cluster: 32
+
+Average length of proteins in cluster: 408.4
 
 #### Seeds in cluster:
 
@@ -1267,6 +1307,8 @@ ADI43271.1:
 
 ### Cluster 187
 Total number of members in cluster: 27
+
+Average length of proteins in cluster: 431.0
 
 #### Seeds in cluster:
 
@@ -1331,6 +1373,8 @@ AAM27748.1:
 ### Cluster 31
 Total number of members in cluster: 26
 
+Average length of proteins in cluster: 429.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order           | family           | genus         | species                  | serotype   |
@@ -1379,6 +1423,8 @@ CAI33798.1:
 
 ### Cluster 134
 Total number of members in cluster: 26
+
+Average length of proteins in cluster: 345.8
 
 #### Seeds in cluster:
 
@@ -1437,6 +1483,8 @@ AFW04883.1:
 ### Cluster 86
 Total number of members in cluster: 25
 
+Average length of proteins in cluster: 414.2
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -1480,6 +1528,8 @@ Total number of members in cluster: 25
 
 ### Cluster 69
 Total number of members in cluster: 25
+
+Average length of proteins in cluster: 449.3
 
 #### Seeds in cluster:
 
@@ -1525,6 +1575,8 @@ CAI34269.1:
 
 ### Cluster 42
 Total number of members in cluster: 25
+
+Average length of proteins in cluster: 387.5
 
 #### Seeds in cluster:
 
@@ -1581,6 +1633,8 @@ ABU80601.1:
 
 ### Cluster 98
 Total number of members in cluster: 24
+
+Average length of proteins in cluster: 409.8
 
 #### Seeds in cluster:
 
@@ -1643,6 +1697,8 @@ CAI34436.1:
 ### Cluster 95
 Total number of members in cluster: 24
 
+Average length of proteins in cluster: 344.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order        | family        | genus         | species                    | serotype   |
@@ -1688,6 +1744,8 @@ AHB32888.2:
 ### Cluster 59
 Total number of members in cluster: 24
 
+Average length of proteins in cluster: 373.1
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus      | species             | serotype   |
@@ -1730,6 +1788,8 @@ AFW04828.1:
 ### Cluster 149
 Total number of members in cluster: 24
 
+Average length of proteins in cluster: 399.8
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -1768,6 +1828,8 @@ Total number of members in cluster: 24
 ### Cluster 99
 Total number of members in cluster: 23
 
+Average length of proteins in cluster: 409.1
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -1801,6 +1863,8 @@ Total number of members in cluster: 23
 
 ### Cluster 129
 Total number of members in cluster: 23
+
+Average length of proteins in cluster: 413.1
 
 #### Seeds in cluster:
 
@@ -1842,6 +1906,8 @@ AAM27595.1:
 
 ### Cluster 260
 Total number of members in cluster: 22
+
+Average length of proteins in cluster: 399.6
 
 #### Seeds in cluster:
 
@@ -1894,6 +1960,8 @@ CAI33840.1:
 ### Cluster 112
 Total number of members in cluster: 22
 
+Average length of proteins in cluster: 383.7
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -1923,6 +1991,8 @@ Total number of members in cluster: 22
 
 ### Cluster 9
 Total number of members in cluster: 21
+
+Average length of proteins in cluster: 428.0
 
 #### Seeds in cluster:
 
@@ -1965,6 +2035,8 @@ Total number of members in cluster: 21
 
 ### Cluster 12
 Total number of members in cluster: 21
+
+Average length of proteins in cluster: 396.0
 
 #### Seeds in cluster:
 
@@ -2017,6 +2089,8 @@ AGS07316.1:
 ### Cluster 113
 Total number of members in cluster: 21
 
+Average length of proteins in cluster: 441.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family       | genus    | species          | serotype   |
@@ -2066,6 +2140,8 @@ CDF66396.1:
 ### Cluster 111
 Total number of members in cluster: 21
 
+Average length of proteins in cluster: 465.9
+
 #### Seeds in cluster:
 
 | protein_accession   | order           | family           | genus         | species                  |   serotype |
@@ -2113,6 +2189,8 @@ CAI32772.1:
 
 ### Cluster 312
 Total number of members in cluster: 20
+
+Average length of proteins in cluster: 394.8
 
 #### Seeds in cluster:
 
@@ -2165,6 +2243,8 @@ AAR97964.1:
 ### Cluster 232
 Total number of members in cluster: 20
 
+Average length of proteins in cluster: 381.6
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -2213,6 +2293,8 @@ ABK27355.1, ABK27354.1, ABK27351.1, BAI31288.1, ABK27350.1, ABK27321.1, ABK27352
 
 ### Cluster 89
 Total number of members in cluster: 19
+
+Average length of proteins in cluster: 394.6
 
 #### Seeds in cluster:
 
@@ -2270,6 +2352,8 @@ BAQ00687.1:
 ### Cluster 84
 Total number of members in cluster: 19
 
+Average length of proteins in cluster: 394.9
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -2307,6 +2391,8 @@ AAC45844.1:
 
 ### Cluster 6
 Total number of members in cluster: 19
+
+Average length of proteins in cluster: 335.9
 
 #### Seeds in cluster:
 
@@ -2353,6 +2439,8 @@ ABX51892.1:
 
 ### Cluster 141
 Total number of members in cluster: 19
+
+Average length of proteins in cluster: 377.8
 
 #### Seeds in cluster:
 
@@ -2407,6 +2495,8 @@ ACD37181.1:
 ### Cluster 122
 Total number of members in cluster: 19
 
+Average length of proteins in cluster: 394.1
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus      | species             | serotype                            |
@@ -2453,6 +2543,8 @@ WP_000936592.1, ACF64132.1:
 
 ### Cluster 83
 Total number of members in cluster: 18
+
+Average length of proteins in cluster: 380.9
 
 #### Seeds in cluster:
 
@@ -2502,6 +2594,8 @@ CAI34008.1:
 ### Cluster 75
 Total number of members in cluster: 18
 
+Average length of proteins in cluster: 393.2
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -2540,6 +2634,8 @@ AAT85653.1:
 
 ### Cluster 15
 Total number of members in cluster: 18
+
+Average length of proteins in cluster: 381.6
 
 #### Seeds in cluster:
 
@@ -2586,6 +2682,8 @@ CAS09721.1, AAR90892.1:
 ### Cluster 96
 Total number of members in cluster: 17
 
+Average length of proteins in cluster: 407.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -2631,6 +2729,8 @@ ACA24764.1, ACA24754.1:
 
 ### Cluster 48
 Total number of members in cluster: 17
+
+Average length of proteins in cluster: 392.7
 
 #### Seeds in cluster:
 
@@ -2679,6 +2779,8 @@ CAI33491.1:
 ### Cluster 157
 Total number of members in cluster: 17
 
+Average length of proteins in cluster: 404.2
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -2721,6 +2823,8 @@ BAQ01843.1:
 ### Cluster 50
 Total number of members in cluster: 16
 
+Average length of proteins in cluster: 453.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species             | serotype   |
@@ -2760,6 +2864,8 @@ CAD19991.1, WP_000864940.1, ADT75640.1:
 
 ### Cluster 343
 Total number of members in cluster: 16
+
+Average length of proteins in cluster: 363.0
 
 #### Seeds in cluster:
 
@@ -2806,6 +2912,8 @@ AFW04820.1:
 ### Cluster 274
 Total number of members in cluster: 16
 
+Average length of proteins in cluster: 399.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -2847,6 +2955,8 @@ BAQ01716.1:
 
 ### Cluster 218
 Total number of members in cluster: 16
+
+Average length of proteins in cluster: 486.1
 
 #### Seeds in cluster:
 
@@ -2895,6 +3005,8 @@ CAI33817.1:
 ### Cluster 197
 Total number of members in cluster: 16
 
+Average length of proteins in cluster: 369.8
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family       | genus    | species                     | serotype   |
@@ -2940,6 +3052,8 @@ AAN23057.1:
 ### Cluster 80
 Total number of members in cluster: 15
 
+Average length of proteins in cluster: 345.7
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -2972,6 +3086,8 @@ Total number of members in cluster: 15
 
 ### Cluster 23
 Total number of members in cluster: 15
+
+Average length of proteins in cluster: 445.3
 
 #### Seeds in cluster:
 
@@ -3013,6 +3129,8 @@ Total number of members in cluster: 15
 ### Cluster 188
 Total number of members in cluster: 15
 
+Average length of proteins in cluster: 373.9
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -3053,6 +3171,8 @@ ABB04486.1:
 
 ### Cluster 173
 Total number of members in cluster: 15
+
+Average length of proteins in cluster: 401.5
 
 #### Seeds in cluster:
 
@@ -3120,6 +3240,8 @@ CAI34388.1:
 ### Cluster 81
 Total number of members in cluster: 14
 
+Average length of proteins in cluster: 380.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order           | family           | genus         | species                  | serotype   |
@@ -3173,6 +3295,8 @@ CAI33029.1:
 ### Cluster 307
 Total number of members in cluster: 14
 
+Average length of proteins in cluster: 383.7
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species              | serotype   |
@@ -3224,6 +3348,8 @@ ACA24840.1:
 ### Cluster 283
 Total number of members in cluster: 14
 
+Average length of proteins in cluster: 395.6
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species             | serotype   |
@@ -3266,6 +3392,8 @@ AHG15281.1, AFD18613.1, AAX58762.1:
 ### Cluster 26
 Total number of members in cluster: 14
 
+Average length of proteins in cluster: 385.2
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -3302,6 +3430,8 @@ BAQ01675.1:
 
 ### Cluster 211
 Total number of members in cluster: 14
+
+Average length of proteins in cluster: 428.6
 
 #### Seeds in cluster:
 
@@ -3348,6 +3478,8 @@ CBN82200.1:
 ### Cluster 163
 Total number of members in cluster: 14
 
+Average length of proteins in cluster: 404.8
+
 #### Seeds in cluster:
 
 | protein_accession   | order        | family        | genus         | species                 | serotype   |
@@ -3379,6 +3511,8 @@ Total number of members in cluster: 14
 
 ### Cluster 38
 Total number of members in cluster: 13
+
+Average length of proteins in cluster: 438.0
 
 #### Seeds in cluster:
 
@@ -3428,6 +3562,8 @@ ACA24868.1:
 ### Cluster 315
 Total number of members in cluster: 13
 
+Average length of proteins in cluster: 339.6
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species             | serotype   |
@@ -3470,6 +3606,8 @@ AFW04812.1:
 
 ### Cluster 250
 Total number of members in cluster: 13
+
+Average length of proteins in cluster: 391.5
 
 #### Seeds in cluster:
 
@@ -3519,6 +3657,8 @@ EKI39969.1, BAK68980.1, EKK44895.1, BAK69191.1, BAK69033.1, AAC32340.1, EKI95922
 ### Cluster 245
 Total number of members in cluster: 13
 
+Average length of proteins in cluster: 371.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -3567,6 +3707,8 @@ BAQ01494.1, AFS33314.1:
 ### Cluster 225
 Total number of members in cluster: 13
 
+Average length of proteins in cluster: 423.8
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -3605,6 +3747,8 @@ BAQ01317.1:
 
 ### Cluster 210
 Total number of members in cluster: 13
+
+Average length of proteins in cluster: 389.8
 
 #### Seeds in cluster:
 
@@ -3651,6 +3795,8 @@ AGS07346.1:
 ### Cluster 176
 Total number of members in cluster: 13
 
+Average length of proteins in cluster: 393.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -3688,6 +3834,8 @@ Total number of members in cluster: 13
 
 ### Cluster 175
 Total number of members in cluster: 13
+
+Average length of proteins in cluster: 383.4
 
 #### Seeds in cluster:
 
@@ -3730,6 +3878,8 @@ ACD37026.1:
 ### Cluster 158
 Total number of members in cluster: 13
 
+Average length of proteins in cluster: 384.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order           | family           | genus         | species                  |   serotype |
@@ -3766,6 +3916,8 @@ CAI33309.1:
 
 ### Cluster 154
 Total number of members in cluster: 13
+
+Average length of proteins in cluster: 398.8
 
 #### Seeds in cluster:
 
@@ -3809,6 +3961,8 @@ AAM27645.1:
 ### Cluster 153
 Total number of members in cluster: 13
 
+Average length of proteins in cluster: 324.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species             | serotype   |
@@ -3851,6 +4005,8 @@ WP_000482333.1, BAG11898.1:
 ### Cluster 150
 Total number of members in cluster: 13
 
+Average length of proteins in cluster: 411.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -3886,6 +4042,8 @@ Total number of members in cluster: 13
 
 ### Cluster 71
 Total number of members in cluster: 12
+
+Average length of proteins in cluster: 414.4
 
 #### Seeds in cluster:
 
@@ -3930,6 +4088,8 @@ BAQ00879.1:
 ### Cluster 44
 Total number of members in cluster: 12
 
+Average length of proteins in cluster: 417.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -3960,6 +4120,8 @@ Total number of members in cluster: 12
 
 ### Cluster 371
 Total number of members in cluster: 12
+
+Average length of proteins in cluster: 362.8
 
 #### Seeds in cluster:
 
@@ -4003,6 +4165,8 @@ ADQ37322.1:
 ### Cluster 336
 Total number of members in cluster: 12
 
+Average length of proteins in cluster: 390.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order           | family           | genus       | species                | serotype   |
@@ -4040,6 +4204,8 @@ AAD45264.1, AAM27574.1:
 
 ### Cluster 262
 Total number of members in cluster: 12
+
+Average length of proteins in cluster: 381.5
 
 #### Seeds in cluster:
 
@@ -4079,6 +4245,8 @@ ADI43263.1:
 
 ### Cluster 22
 Total number of members in cluster: 12
+
+Average length of proteins in cluster: 394.6
 
 #### Seeds in cluster:
 
@@ -4122,6 +4290,8 @@ BAQ01533.1:
 ### Cluster 16
 Total number of members in cluster: 12
 
+Average length of proteins in cluster: 354.7
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -4156,6 +4326,8 @@ Total number of members in cluster: 12
 
 ### Cluster 135
 Total number of members in cluster: 12
+
+Average length of proteins in cluster: 395.5
 
 #### Seeds in cluster:
 
@@ -4199,6 +4371,8 @@ ABI55342.1:
 ### Cluster 133
 Total number of members in cluster: 12
 
+Average length of proteins in cluster: 417.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -4233,6 +4407,8 @@ Total number of members in cluster: 12
 
 ### Cluster 118
 Total number of members in cluster: 12
+
+Average length of proteins in cluster: 372.4
 
 #### Seeds in cluster:
 
@@ -4272,6 +4448,8 @@ BAQ00975.1:
 
 ### Cluster 97
 Total number of members in cluster: 11
+
+Average length of proteins in cluster: 325.1
 
 #### Seeds in cluster:
 
@@ -4315,6 +4493,8 @@ AHB32438.2:
 
 ### Cluster 67
 Total number of members in cluster: 11
+
+Average length of proteins in cluster: 416.1
 
 #### Seeds in cluster:
 
@@ -4363,6 +4543,8 @@ CAI34124.1:
 ### Cluster 40
 Total number of members in cluster: 11
 
+Average length of proteins in cluster: 359.8
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species              | serotype   |
@@ -4404,6 +4586,8 @@ ACA24792.1:
 
 ### Cluster 3
 Total number of members in cluster: 11
+
+Average length of proteins in cluster: 366.0
 
 #### Seeds in cluster:
 
@@ -4453,6 +4637,8 @@ ACD37105.1:
 ### Cluster 275
 Total number of members in cluster: 11
 
+Average length of proteins in cluster: 356.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -4497,6 +4683,8 @@ ACH97162.1:
 ### Cluster 254
 Total number of members in cluster: 11
 
+Average length of proteins in cluster: 400.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -4530,6 +4718,8 @@ Total number of members in cluster: 11
 
 ### Cluster 183
 Total number of members in cluster: 11
+
+Average length of proteins in cluster: 411.2
 
 #### Seeds in cluster:
 
@@ -4576,6 +4766,8 @@ ACA24776.1:
 ### Cluster 142
 Total number of members in cluster: 11
 
+Average length of proteins in cluster: 417.2
+
 #### Seeds in cluster:
 
 | protein_accession   | order           | family           | genus       | species                | serotype   |
@@ -4611,6 +4803,8 @@ AAM27546.1:
 ### Cluster 119
 Total number of members in cluster: 11
 
+Average length of proteins in cluster: 430.7
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -4645,6 +4839,8 @@ Total number of members in cluster: 11
 
 ### Cluster 117
 Total number of members in cluster: 11
+
+Average length of proteins in cluster: 423.5
 
 #### Seeds in cluster:
 
@@ -4696,6 +4892,8 @@ CAI33585.1:
 ### Cluster 100
 Total number of members in cluster: 11
 
+Average length of proteins in cluster: 345.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -4735,6 +4933,8 @@ AAO37701.1, WP_024244058.1:
 ### Cluster 93
 Total number of members in cluster: 10
 
+Average length of proteins in cluster: 389.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -4773,6 +4973,8 @@ BAQ01238.1:
 ### Cluster 90
 Total number of members in cluster: 10
 
+Average length of proteins in cluster: 480.6
+
 #### Seeds in cluster:
 
 | protein_accession   | order           | family           | genus         | species                  | serotype   |
@@ -4807,6 +5009,8 @@ Total number of members in cluster: 10
 
 ### Cluster 73
 Total number of members in cluster: 10
+
+Average length of proteins in cluster: 363.2
 
 #### Seeds in cluster:
 
@@ -4845,6 +5049,8 @@ CAI33718.1:
 
 ### Cluster 65
 Total number of members in cluster: 10
+
+Average length of proteins in cluster: 395.7
 
 #### Seeds in cluster:
 
@@ -4885,6 +5091,8 @@ AAK60458.1:
 ### Cluster 46
 Total number of members in cluster: 10
 
+Average length of proteins in cluster: 351.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -4918,6 +5126,8 @@ Total number of members in cluster: 10
 
 ### Cluster 420
 Total number of members in cluster: 10
+
+Average length of proteins in cluster: 424.6
 
 #### Seeds in cluster:
 
@@ -4955,6 +5165,8 @@ Total number of members in cluster: 10
 
 ### Cluster 412
 Total number of members in cluster: 10
+
+Average length of proteins in cluster: 341.5
 
 #### Seeds in cluster:
 
@@ -5000,6 +5212,8 @@ AFW04888.1:
 ### Cluster 266
 Total number of members in cluster: 10
 
+Average length of proteins in cluster: 330.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -5033,6 +5247,8 @@ Total number of members in cluster: 10
 
 ### Cluster 263
 Total number of members in cluster: 10
+
+Average length of proteins in cluster: 357.5
 
 #### Seeds in cluster:
 
@@ -5081,6 +5297,8 @@ ADN43894.1:
 ### Cluster 233
 Total number of members in cluster: 10
 
+Average length of proteins in cluster: 421.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species               | serotype   |
@@ -5117,6 +5335,8 @@ ABX51880.1:
 
 ### Cluster 230
 Total number of members in cluster: 10
+
+Average length of proteins in cluster: 359.4
 
 #### Seeds in cluster:
 
@@ -5155,6 +5375,8 @@ ADC54957.1:
 ### Cluster 174
 Total number of members in cluster: 10
 
+Average length of proteins in cluster: 411.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -5191,6 +5413,8 @@ Total number of members in cluster: 10
 
 ### Cluster 155
 Total number of members in cluster: 10
+
+Average length of proteins in cluster: 366.6
 
 #### Seeds in cluster:
 
@@ -5232,6 +5456,8 @@ EHX11459.1, AFC91458.1, AFC91419.1, AAX07747.1:
 
 ### Cluster 145
 Total number of members in cluster: 10
+
+Average length of proteins in cluster: 375.2
 
 #### Seeds in cluster:
 
@@ -5279,6 +5505,8 @@ AFW04684.1:
 ### Cluster 130
 Total number of members in cluster: 10
 
+Average length of proteins in cluster: 451.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order        | family        | genus         | species                 | serotype   |
@@ -5314,6 +5542,8 @@ Total number of members in cluster: 10
 ### Cluster 128
 Total number of members in cluster: 10
 
+Average length of proteins in cluster: 383.2
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -5345,6 +5575,8 @@ Total number of members in cluster: 10
 
 ### Cluster 126
 Total number of members in cluster: 10
+
+Average length of proteins in cluster: 340.5
 
 #### Seeds in cluster:
 
@@ -5389,6 +5621,8 @@ AFW04785.1:
 ### Cluster 114
 Total number of members in cluster: 10
 
+Average length of proteins in cluster: 397.6
+
 #### Seeds in cluster:
 
 | protein_accession   | order           | family           | genus       | species                | serotype   |
@@ -5423,6 +5657,8 @@ AAM27782.1:
 
 ### Cluster 104
 Total number of members in cluster: 10
+
+Average length of proteins in cluster: 454.9
 
 #### Seeds in cluster:
 
@@ -5465,6 +5701,8 @@ AAO37717.1:
 ### Cluster 79
 Total number of members in cluster: 9
 
+Average length of proteins in cluster: 403.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -5495,6 +5733,8 @@ Total number of members in cluster: 9
 
 ### Cluster 74
 Total number of members in cluster: 9
+
+Average length of proteins in cluster: 386.9
 
 #### Seeds in cluster:
 
@@ -5531,6 +5771,8 @@ Total number of members in cluster: 9
 ### Cluster 7
 Total number of members in cluster: 9
 
+Average length of proteins in cluster: 464.8
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -5563,6 +5805,8 @@ Total number of members in cluster: 9
 
 ### Cluster 60
 Total number of members in cluster: 9
+
+Average length of proteins in cluster: 416.0
 
 #### Seeds in cluster:
 
@@ -5604,6 +5848,8 @@ CAI33675.1:
 ### Cluster 54
 Total number of members in cluster: 9
 
+Average length of proteins in cluster: 410.2
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -5641,6 +5887,8 @@ ADV17650.1:
 ### Cluster 43
 Total number of members in cluster: 9
 
+Average length of proteins in cluster: 355.8
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -5672,6 +5920,8 @@ Total number of members in cluster: 9
 
 ### Cluster 393
 Total number of members in cluster: 9
+
+Average length of proteins in cluster: 402.4
 
 #### Seeds in cluster:
 
@@ -5718,6 +5968,8 @@ ACV52983.1:
 ### Cluster 310
 Total number of members in cluster: 9
 
+Average length of proteins in cluster: 402.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -5758,6 +6010,8 @@ ADB02825.1:
 ### Cluster 302
 Total number of members in cluster: 9
 
+Average length of proteins in cluster: 439.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -5794,6 +6048,8 @@ Total number of members in cluster: 9
 
 ### Cluster 301
 Total number of members in cluster: 9
+
+Average length of proteins in cluster: 348.2
 
 #### Seeds in cluster:
 
@@ -5836,6 +6092,8 @@ ABI98966.1:
 
 ### Cluster 284
 Total number of members in cluster: 9
+
+Average length of proteins in cluster: 407.9
 
 #### Seeds in cluster:
 
@@ -5885,6 +6143,8 @@ BAQ02068.1, AJR19430.1:
 ### Cluster 28
 Total number of members in cluster: 9
 
+Average length of proteins in cluster: 403.6
+
 #### Seeds in cluster:
 
 | protein_accession   | order           | family           | genus         | species                  | serotype   |
@@ -5932,6 +6192,8 @@ CAI33343.1:
 ### Cluster 259
 Total number of members in cluster: 9
 
+Average length of proteins in cluster: 394.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -5971,6 +6233,8 @@ ADR74237.1:
 
 ### Cluster 25
 Total number of members in cluster: 9
+
+Average length of proteins in cluster: 436.4
 
 #### Seeds in cluster:
 
@@ -6015,6 +6279,8 @@ CAI32705.1:
 ### Cluster 235
 Total number of members in cluster: 9
 
+Average length of proteins in cluster: 387.9
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -6054,6 +6320,8 @@ AAV74543.1:
 ### Cluster 226
 Total number of members in cluster: 9
 
+Average length of proteins in cluster: 462.9
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -6086,6 +6354,8 @@ Total number of members in cluster: 9
 
 ### Cluster 214
 Total number of members in cluster: 9
+
+Average length of proteins in cluster: 379.3
 
 #### Seeds in cluster:
 
@@ -6120,6 +6390,8 @@ Total number of members in cluster: 9
 
 ### Cluster 148
 Total number of members in cluster: 9
+
+Average length of proteins in cluster: 402.8
 
 #### Seeds in cluster:
 
@@ -6164,6 +6436,8 @@ CAI33226.1:
 ### Cluster 136
 Total number of members in cluster: 9
 
+Average length of proteins in cluster: 458.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order           | family           | genus         | species                  | serotype   |
@@ -6205,6 +6479,8 @@ CAI32867.1:
 
 ### Cluster 131
 Total number of members in cluster: 9
+
+Average length of proteins in cluster: 446.2
 
 #### Seeds in cluster:
 
@@ -6248,6 +6524,8 @@ BAQ02031.1:
 ### Cluster 45
 Total number of members in cluster: 8
 
+Average length of proteins in cluster: 420.6
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -6282,6 +6560,8 @@ Total number of members in cluster: 8
 
 ### Cluster 400
 Total number of members in cluster: 8
+
+Average length of proteins in cluster: 367.0
 
 #### Seeds in cluster:
 
@@ -6322,6 +6602,8 @@ AAK64372.1:
 
 ### Cluster 345
 Total number of members in cluster: 8
+
+Average length of proteins in cluster: 461.0
 
 #### Seeds in cluster:
 
@@ -6366,6 +6648,8 @@ ACK44379.1:
 ### Cluster 344
 Total number of members in cluster: 8
 
+Average length of proteins in cluster: 379.6
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -6403,6 +6687,8 @@ BAQ01563.1:
 
 ### Cluster 319
 Total number of members in cluster: 8
+
+Average length of proteins in cluster: 363.5
 
 #### Seeds in cluster:
 
@@ -6450,6 +6736,8 @@ AAL27327.1:
 ### Cluster 304
 Total number of members in cluster: 8
 
+Average length of proteins in cluster: 392.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -6482,6 +6770,8 @@ Total number of members in cluster: 8
 
 ### Cluster 278
 Total number of members in cluster: 8
+
+Average length of proteins in cluster: 362.2
 
 #### Seeds in cluster:
 
@@ -6520,6 +6810,8 @@ CAI34587.1:
 ### Cluster 231
 Total number of members in cluster: 8
 
+Average length of proteins in cluster: 434.9
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -6551,6 +6843,8 @@ Total number of members in cluster: 8
 
 ### Cluster 222
 Total number of members in cluster: 8
+
+Average length of proteins in cluster: 389.6
 
 #### Seeds in cluster:
 
@@ -6609,6 +6903,8 @@ CAI33188.1:
 ### Cluster 216
 Total number of members in cluster: 8
 
+Average length of proteins in cluster: 420.1
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -6638,6 +6934,8 @@ Total number of members in cluster: 8
 
 ### Cluster 186
 Total number of members in cluster: 8
+
+Average length of proteins in cluster: 367.6
 
 #### Seeds in cluster:
 
@@ -6680,6 +6978,8 @@ AFW04741.1:
 
 ### Cluster 185
 Total number of members in cluster: 8
+
+Average length of proteins in cluster: 380.8
 
 #### Seeds in cluster:
 
@@ -6727,6 +7027,8 @@ AFW04837.1:
 ### Cluster 182
 Total number of members in cluster: 8
 
+Average length of proteins in cluster: 362.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species              | serotype   |
@@ -6772,6 +7074,8 @@ ACD37006.1:
 ### Cluster 171
 Total number of members in cluster: 8
 
+Average length of proteins in cluster: 369.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -6813,6 +7117,8 @@ ABI98976.1:
 ### Cluster 17
 Total number of members in cluster: 8
 
+Average length of proteins in cluster: 445.9
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -6848,6 +7154,8 @@ Total number of members in cluster: 8
 ### Cluster 162
 Total number of members in cluster: 8
 
+Average length of proteins in cluster: 377.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -6880,6 +7188,8 @@ Total number of members in cluster: 8
 
 ### Cluster 161
 Total number of members in cluster: 8
+
+Average length of proteins in cluster: 409.5
 
 #### Seeds in cluster:
 
@@ -6928,6 +7238,8 @@ BAQ01516.1:
 ### Cluster 88
 Total number of members in cluster: 7
 
+Average length of proteins in cluster: 373.9
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -6961,6 +7273,8 @@ Total number of members in cluster: 7
 
 ### Cluster 82
 Total number of members in cluster: 7
+
+Average length of proteins in cluster: 429.1
 
 #### Seeds in cluster:
 
@@ -7001,6 +7315,8 @@ ABZ79721.1, ABB65530.1:
 ### Cluster 49
 Total number of members in cluster: 7
 
+Average length of proteins in cluster: 386.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus      | species             | serotype   |
@@ -7033,6 +7349,8 @@ Total number of members in cluster: 7
 
 ### Cluster 391
 Total number of members in cluster: 7
+
+Average length of proteins in cluster: 399.9
 
 #### Seeds in cluster:
 
@@ -7067,6 +7385,8 @@ Total number of members in cluster: 7
 
 ### Cluster 387
 Total number of members in cluster: 7
+
+Average length of proteins in cluster: 399.4
 
 #### Seeds in cluster:
 
@@ -7114,6 +7434,8 @@ ACD37051.1:
 ### Cluster 349
 Total number of members in cluster: 7
 
+Average length of proteins in cluster: 410.9
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -7152,6 +7474,8 @@ BAQ01218.1:
 ### Cluster 348
 Total number of members in cluster: 7
 
+Average length of proteins in cluster: 429.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -7184,6 +7508,8 @@ Total number of members in cluster: 7
 ### Cluster 323
 Total number of members in cluster: 7
 
+Average length of proteins in cluster: 402.6
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -7213,6 +7539,8 @@ Total number of members in cluster: 7
 
 ### Cluster 298
 Total number of members in cluster: 7
+
+Average length of proteins in cluster: 366.1
 
 #### Seeds in cluster:
 
@@ -7251,6 +7579,8 @@ BAQ01960.1:
 
 ### Cluster 293
 Total number of members in cluster: 7
+
+Average length of proteins in cluster: 437.7
 
 #### Seeds in cluster:
 
@@ -7292,6 +7622,8 @@ BAQ00569.1:
 ### Cluster 246
 Total number of members in cluster: 7
 
+Average length of proteins in cluster: 356.7
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -7327,6 +7659,8 @@ Total number of members in cluster: 7
 
 ### Cluster 244
 Total number of members in cluster: 7
+
+Average length of proteins in cluster: 351.1
 
 #### Seeds in cluster:
 
@@ -7372,6 +7706,8 @@ ABB29916.1:
 ### Cluster 241
 Total number of members in cluster: 7
 
+Average length of proteins in cluster: 378.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -7411,6 +7747,8 @@ AAY28249.1:
 ### Cluster 224
 Total number of members in cluster: 7
 
+Average length of proteins in cluster: 355.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order        | family        | genus         | species                 | serotype   |
@@ -7443,6 +7781,8 @@ Total number of members in cluster: 7
 
 ### Cluster 217
 Total number of members in cluster: 7
+
+Average length of proteins in cluster: 439.9
 
 #### Seeds in cluster:
 
@@ -7477,6 +7817,8 @@ Total number of members in cluster: 7
 ### Cluster 203
 Total number of members in cluster: 7
 
+Average length of proteins in cluster: 341.1
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -7508,6 +7850,8 @@ Total number of members in cluster: 7
 
 ### Cluster 192
 Total number of members in cluster: 7
+
+Average length of proteins in cluster: 321.1
 
 #### Seeds in cluster:
 
@@ -7549,6 +7893,8 @@ BAQ01012.1:
 
 ### Cluster 184
 Total number of members in cluster: 7
+
+Average length of proteins in cluster: 385.4
 
 #### Seeds in cluster:
 
@@ -7597,6 +7943,8 @@ AFW04790.1:
 ### Cluster 179
 Total number of members in cluster: 7
 
+Average length of proteins in cluster: 350.9
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -7636,6 +7984,8 @@ AFE83402.1, WP_001300154.1:
 
 ### Cluster 164
 Total number of members in cluster: 7
+
+Average length of proteins in cluster: 386.4
 
 #### Seeds in cluster:
 
@@ -7686,6 +8036,8 @@ CAI33389.1:
 ### Cluster 146
 Total number of members in cluster: 7
 
+Average length of proteins in cluster: 377.1
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -7722,6 +8074,8 @@ BAQ02116.1:
 
 ### Cluster 143
 Total number of members in cluster: 7
+
+Average length of proteins in cluster: 389.7
 
 #### Seeds in cluster:
 
@@ -7760,6 +8114,8 @@ AAD44158.1, BAH24292.1:
 
 ### Cluster 110
 Total number of members in cluster: 7
+
+Average length of proteins in cluster: 395.9
 
 #### Seeds in cluster:
 
@@ -7806,6 +8162,8 @@ ACD37111.1:
 ### Cluster 11
 Total number of members in cluster: 7
 
+Average length of proteins in cluster: 375.7
+
 #### Seeds in cluster:
 
 | protein_accession   | order        | family        | genus         | species                    | serotype   |
@@ -7838,6 +8196,8 @@ Total number of members in cluster: 7
 
 ### Cluster 1
 Total number of members in cluster: 7
+
+Average length of proteins in cluster: 412.0
 
 #### Seeds in cluster:
 
@@ -7873,6 +8233,8 @@ Total number of members in cluster: 7
 ### Cluster 78
 Total number of members in cluster: 6
 
+Average length of proteins in cluster: 368.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -7905,6 +8267,8 @@ Total number of members in cluster: 6
 
 ### Cluster 77
 Total number of members in cluster: 6
+
+Average length of proteins in cluster: 394.3
 
 #### Seeds in cluster:
 
@@ -7943,6 +8307,8 @@ AAD50486.1:
 
 ### Cluster 64
 Total number of members in cluster: 6
+
+Average length of proteins in cluster: 411.5
 
 #### Seeds in cluster:
 
@@ -7983,6 +8349,8 @@ BAQ00736.1:
 ### Cluster 409
 Total number of members in cluster: 6
 
+Average length of proteins in cluster: 400.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -8020,6 +8388,8 @@ BAQ02015.1:
 ### Cluster 402
 Total number of members in cluster: 6
 
+Average length of proteins in cluster: 324.2
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -8049,6 +8419,8 @@ Total number of members in cluster: 6
 
 ### Cluster 390
 Total number of members in cluster: 6
+
+Average length of proteins in cluster: 455.0
 
 #### Seeds in cluster:
 
@@ -8082,6 +8454,8 @@ Total number of members in cluster: 6
 
 ### Cluster 364
 Total number of members in cluster: 6
+
+Average length of proteins in cluster: 341.2
 
 #### Seeds in cluster:
 
@@ -8119,6 +8493,8 @@ AHB32334.1:
 
 ### Cluster 36
 Total number of members in cluster: 6
+
+Average length of proteins in cluster: 384.3
 
 #### Seeds in cluster:
 
@@ -8160,6 +8536,8 @@ ADJ19217.1:
 ### Cluster 351
 Total number of members in cluster: 6
 
+Average length of proteins in cluster: 361.7
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -8198,6 +8576,8 @@ BAQ01266.1:
 ### Cluster 318
 Total number of members in cluster: 6
 
+Average length of proteins in cluster: 386.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -8235,6 +8615,8 @@ AAZ20761.1:
 
 ### Cluster 311
 Total number of members in cluster: 6
+
+Average length of proteins in cluster: 406.5
 
 #### Seeds in cluster:
 
@@ -8275,6 +8657,8 @@ ABI34565.1:
 ### Cluster 306
 Total number of members in cluster: 6
 
+Average length of proteins in cluster: 402.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order           | family           | genus         | species                  |   serotype |
@@ -8307,6 +8691,8 @@ Total number of members in cluster: 6
 
 ### Cluster 294
 Total number of members in cluster: 6
+
+Average length of proteins in cluster: 406.5
 
 #### Seeds in cluster:
 
@@ -8342,6 +8728,8 @@ Total number of members in cluster: 6
 ### Cluster 288
 Total number of members in cluster: 6
 
+Average length of proteins in cluster: 429.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -8374,6 +8762,8 @@ Total number of members in cluster: 6
 
 ### Cluster 264
 Total number of members in cluster: 6
+
+Average length of proteins in cluster: 396.3
 
 #### Seeds in cluster:
 
@@ -8409,6 +8799,8 @@ Total number of members in cluster: 6
 
 ### Cluster 258
 Total number of members in cluster: 6
+
+Average length of proteins in cluster: 383.0
 
 #### Seeds in cluster:
 
@@ -8447,6 +8839,8 @@ BAQ01293.1:
 ### Cluster 252
 Total number of members in cluster: 6
 
+Average length of proteins in cluster: 384.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -8484,6 +8878,8 @@ BAQ01456.1:
 ### Cluster 247
 Total number of members in cluster: 6
 
+Average length of proteins in cluster: 372.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -8520,6 +8916,8 @@ ADC54974.1:
 ### Cluster 213
 Total number of members in cluster: 6
 
+Average length of proteins in cluster: 365.2
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -8555,6 +8953,8 @@ BAQ00634.1:
 
 ### Cluster 202
 Total number of members in cluster: 6
+
+Average length of proteins in cluster: 351.0
 
 #### Seeds in cluster:
 
@@ -8604,6 +9004,8 @@ AAL27339.1:
 ### Cluster 201
 Total number of members in cluster: 6
 
+Average length of proteins in cluster: 381.7
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -8647,6 +9049,8 @@ ACD37078.1:
 ### Cluster 196
 Total number of members in cluster: 6
 
+Average length of proteins in cluster: 469.2
+
 #### Seeds in cluster:
 
 | protein_accession   | order        | family        | genus         | species                 | serotype   |
@@ -8679,6 +9083,8 @@ Total number of members in cluster: 6
 
 ### Cluster 180
 Total number of members in cluster: 6
+
+Average length of proteins in cluster: 378.7
 
 #### Seeds in cluster:
 
@@ -8723,6 +9129,8 @@ BAQ01687.1:
 ### Cluster 170
 Total number of members in cluster: 6
 
+Average length of proteins in cluster: 429.7
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -8758,6 +9166,8 @@ Total number of members in cluster: 6
 ### Cluster 156
 Total number of members in cluster: 6
 
+Average length of proteins in cluster: 348.8
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -8787,6 +9197,8 @@ Total number of members in cluster: 6
 
 ### Cluster 152
 Total number of members in cluster: 6
+
+Average length of proteins in cluster: 388.5
 
 #### Seeds in cluster:
 
@@ -8831,6 +9243,8 @@ AAR24270.1:
 ### Cluster 125
 Total number of members in cluster: 6
 
+Average length of proteins in cluster: 387.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -8868,6 +9282,8 @@ BAQ01894.1:
 
 ### Cluster 124
 Total number of members in cluster: 6
+
+Average length of proteins in cluster: 377.8
 
 #### Seeds in cluster:
 
@@ -8908,6 +9324,8 @@ BAQ01917.1:
 ### Cluster 121
 Total number of members in cluster: 6
 
+Average length of proteins in cluster: 380.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -8939,6 +9357,8 @@ Total number of members in cluster: 6
 ### Cluster 103
 Total number of members in cluster: 6
 
+Average length of proteins in cluster: 344.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order        | family        | genus         | species                 | serotype   |
@@ -8969,6 +9389,8 @@ Total number of members in cluster: 6
 
 ### Cluster 68
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 399.0
 
 #### Seeds in cluster:
 
@@ -9004,6 +9426,8 @@ Total number of members in cluster: 5
 ### Cluster 66
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 388.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -9035,6 +9459,8 @@ Total number of members in cluster: 5
 ### Cluster 47
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 388.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -9065,6 +9491,8 @@ Total number of members in cluster: 5
 ### Cluster 445
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 470.6
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -9094,6 +9522,8 @@ Total number of members in cluster: 5
 
 ### Cluster 444
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 448.0
 
 #### Seeds in cluster:
 
@@ -9128,6 +9558,8 @@ Total number of members in cluster: 5
 
 ### Cluster 441
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 348.6
 
 #### Seeds in cluster:
 
@@ -9165,6 +9597,8 @@ AFW04860.1:
 ### Cluster 437
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 430.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -9199,6 +9633,8 @@ Total number of members in cluster: 5
 ### Cluster 416
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 405.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order           | family           | genus         | species                  |   serotype |
@@ -9232,6 +9668,8 @@ Total number of members in cluster: 5
 ### Cluster 399
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 409.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order           | family           | genus         | species                  | serotype   |
@@ -9263,6 +9701,8 @@ Total number of members in cluster: 5
 
 ### Cluster 384
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 414.0
 
 #### Seeds in cluster:
 
@@ -9307,6 +9747,8 @@ CAI32910.1:
 ### Cluster 370
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 363.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -9339,6 +9781,8 @@ Total number of members in cluster: 5
 ### Cluster 363
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 361.2
+
 #### Seeds in cluster:
 
 | protein_accession   | order        | family        | genus         | species                 | serotype   |
@@ -9369,6 +9813,8 @@ Total number of members in cluster: 5
 
 ### Cluster 358
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 398.2
 
 #### Seeds in cluster:
 
@@ -9404,6 +9850,8 @@ CAI33441.1:
 
 ### Cluster 350
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 412.0
 
 #### Seeds in cluster:
 
@@ -9441,6 +9889,8 @@ BAQ01999.1:
 
 ### Cluster 35
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 392.4
 
 #### Seeds in cluster:
 
@@ -9481,6 +9931,8 @@ BAQ01207.1:
 ### Cluster 342
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 420.6
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -9512,6 +9964,8 @@ Total number of members in cluster: 5
 
 ### Cluster 337
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 405.2
 
 #### Seeds in cluster:
 
@@ -9563,6 +10017,8 @@ CAX18360.1:
 ### Cluster 334
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 368.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family       | genus    | species          | serotype   |
@@ -9597,6 +10053,8 @@ Total number of members in cluster: 5
 ### Cluster 324
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 354.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -9628,6 +10086,8 @@ Total number of members in cluster: 5
 ### Cluster 320
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 376.8
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -9657,6 +10117,8 @@ Total number of members in cluster: 5
 
 ### Cluster 308
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 404.4
 
 #### Seeds in cluster:
 
@@ -9688,6 +10150,8 @@ Total number of members in cluster: 5
 
 ### Cluster 29
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 428.4
 
 #### Seeds in cluster:
 
@@ -9721,6 +10185,8 @@ Total number of members in cluster: 5
 
 ### Cluster 289
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 420.4
 
 #### Seeds in cluster:
 
@@ -9759,6 +10225,8 @@ ADI77033.1:
 ### Cluster 280
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 445.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -9788,6 +10256,8 @@ Total number of members in cluster: 5
 
 ### Cluster 277
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 407.8
 
 #### Seeds in cluster:
 
@@ -9819,6 +10289,8 @@ Total number of members in cluster: 5
 
 ### Cluster 272
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 394.8
 
 #### Seeds in cluster:
 
@@ -9856,6 +10328,8 @@ ACD37126.1:
 
 ### Cluster 267
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 412.6
 
 #### Seeds in cluster:
 
@@ -9896,6 +10370,8 @@ BAQ01641.1:
 ### Cluster 256
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 347.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -9928,6 +10404,8 @@ Total number of members in cluster: 5
 
 ### Cluster 239
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 420.6
 
 #### Seeds in cluster:
 
@@ -9963,6 +10441,8 @@ Total number of members in cluster: 5
 ### Cluster 237
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 415.6
+
 #### Seeds in cluster:
 
 | protein_accession   | order           | family           | genus         | species                  | serotype   |
@@ -9995,6 +10475,8 @@ Total number of members in cluster: 5
 
 ### Cluster 236
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 433.6
 
 #### Seeds in cluster:
 
@@ -10033,6 +10515,8 @@ CAI33466.1:
 
 ### Cluster 234
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 438.0
 
 #### Seeds in cluster:
 
@@ -10073,6 +10557,8 @@ AAT77177.1:
 ### Cluster 198
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 472.6
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus    | species              |   serotype |
@@ -10110,6 +10596,8 @@ ACA24912.1:
 ### Cluster 195
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 377.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -10140,6 +10628,8 @@ Total number of members in cluster: 5
 
 ### Cluster 189
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 381.0
 
 #### Seeds in cluster:
 
@@ -10175,6 +10665,8 @@ CAI32727.1:
 
 ### Cluster 178
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 411.8
 
 #### Seeds in cluster:
 
@@ -10213,6 +10705,8 @@ BAQ00780.1:
 
 ### Cluster 177
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 342.2
 
 #### Seeds in cluster:
 
@@ -10254,6 +10748,8 @@ ACA24829.1, AAS98031.1:
 ### Cluster 138
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 328.6
+
 #### Seeds in cluster:
 
 | protein_accession   | order        | family        | genus         | species                 | serotype   |
@@ -10285,6 +10781,8 @@ Total number of members in cluster: 5
 ### Cluster 123
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 426.8
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -10315,6 +10813,8 @@ Total number of members in cluster: 5
 ### Cluster 101
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 422.4
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -10344,6 +10844,8 @@ Total number of members in cluster: 5
 
 ### Cluster 85
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 425.0
 
 #### Seeds in cluster:
 
@@ -10376,6 +10878,8 @@ Total number of members in cluster: 4
 ### Cluster 62
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 337.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -10405,6 +10909,8 @@ Total number of members in cluster: 4
 
 ### Cluster 61
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 413.8
 
 #### Seeds in cluster:
 
@@ -10436,6 +10942,8 @@ Total number of members in cluster: 4
 
 ### Cluster 52
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 362.8
 
 #### Seeds in cluster:
 
@@ -10473,6 +10981,8 @@ CAI34641.1:
 ### Cluster 461
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 339.2
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -10509,6 +11019,8 @@ AAN60459.1:
 ### Cluster 455
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 405.2
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -10539,6 +11051,8 @@ Total number of members in cluster: 4
 
 ### Cluster 439
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 430.5
 
 #### Seeds in cluster:
 
@@ -10575,6 +11089,8 @@ ACD37072.1:
 
 ### Cluster 430
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 450.0
 
 #### Seeds in cluster:
 
@@ -10618,6 +11134,8 @@ ADI59445.1:
 ### Cluster 405
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 405.2
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -10647,6 +11165,8 @@ Total number of members in cluster: 4
 
 ### Cluster 401
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 388.0
 
 #### Seeds in cluster:
 
@@ -10686,6 +11206,8 @@ BAQ00653.1:
 ### Cluster 396
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 449.8
+
 #### Seeds in cluster:
 
 | protein_accession   | order        | family        | genus         | species                    | serotype   |
@@ -10716,6 +11238,8 @@ Total number of members in cluster: 4
 
 ### Cluster 395
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 417.8
 
 #### Seeds in cluster:
 
@@ -10748,6 +11272,8 @@ Total number of members in cluster: 4
 
 ### Cluster 392
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 416.0
 
 #### Seeds in cluster:
 
@@ -10786,6 +11312,8 @@ BAQ01419.1:
 ### Cluster 39
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 418.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -10823,6 +11351,8 @@ BAQ00830.1:
 ### Cluster 389
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 392.2
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -10853,6 +11383,8 @@ Total number of members in cluster: 4
 
 ### Cluster 388
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 399.5
 
 #### Seeds in cluster:
 
@@ -10891,6 +11423,8 @@ BAQ00893.1:
 
 ### Cluster 379
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 380.0
 
 #### Seeds in cluster:
 
@@ -10933,6 +11467,8 @@ ABA42232.1:
 ### Cluster 377
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 409.2
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species              | serotype   |
@@ -10974,6 +11510,8 @@ ACD36984.1:
 ### Cluster 375
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 365.8
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -11005,6 +11543,8 @@ Total number of members in cluster: 4
 ### Cluster 374
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 346.8
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -11034,6 +11574,8 @@ Total number of members in cluster: 4
 
 ### Cluster 366
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 440.0
 
 #### Seeds in cluster:
 
@@ -11076,6 +11618,8 @@ ACH97143.1, ABE98413.1:
 ### Cluster 361
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 366.8
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -11105,6 +11649,8 @@ Total number of members in cluster: 4
 
 ### Cluster 360
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 419.0
 
 #### Seeds in cluster:
 
@@ -11140,6 +11686,8 @@ BAQ01584.1:
 
 ### Cluster 356
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 375.0
 
 #### Seeds in cluster:
 
@@ -11177,6 +11725,8 @@ ACA24901.1:
 ### Cluster 347
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 362.2
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -11208,6 +11758,8 @@ Total number of members in cluster: 4
 ### Cluster 341
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 393.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -11238,6 +11790,8 @@ Total number of members in cluster: 4
 ### Cluster 340
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 373.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -11267,6 +11821,8 @@ Total number of members in cluster: 4
 
 ### Cluster 329
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 444.8
 
 #### Seeds in cluster:
 
@@ -11299,6 +11855,8 @@ Total number of members in cluster: 4
 ### Cluster 326
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 395.8
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -11330,6 +11888,8 @@ Total number of members in cluster: 4
 ### Cluster 322
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 378.2
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -11359,6 +11919,8 @@ Total number of members in cluster: 4
 
 ### Cluster 32
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 377.0
 
 #### Seeds in cluster:
 
@@ -11391,6 +11953,8 @@ Total number of members in cluster: 4
 ### Cluster 317
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 432.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -11421,6 +11985,8 @@ Total number of members in cluster: 4
 ### Cluster 303
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 362.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -11450,6 +12016,8 @@ Total number of members in cluster: 4
 
 ### Cluster 300
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 354.0
 
 #### Seeds in cluster:
 
@@ -11484,6 +12052,8 @@ Total number of members in cluster: 4
 ### Cluster 287
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 337.8
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -11514,6 +12084,8 @@ Total number of members in cluster: 4
 
 ### Cluster 286
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 401.8
 
 #### Seeds in cluster:
 
@@ -11546,6 +12118,8 @@ Total number of members in cluster: 4
 
 ### Cluster 285
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 416.0
 
 #### Seeds in cluster:
 
@@ -11584,6 +12158,8 @@ ACD37046.1, ACD37037.1:
 ### Cluster 281
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 403.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -11621,6 +12197,8 @@ AAZ85718.1:
 ### Cluster 273
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 422.8
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -11654,6 +12232,8 @@ Total number of members in cluster: 4
 ### Cluster 255
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 363.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -11685,6 +12265,8 @@ Total number of members in cluster: 4
 
 ### Cluster 251
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 401.0
 
 #### Seeds in cluster:
 
@@ -11718,6 +12300,8 @@ Total number of members in cluster: 4
 ### Cluster 242
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 414.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -11749,6 +12333,8 @@ Total number of members in cluster: 4
 
 ### Cluster 240
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 333.2
 
 #### Seeds in cluster:
 
@@ -11786,6 +12372,8 @@ ADC54929.1:
 ### Cluster 238
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 336.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -11818,6 +12406,8 @@ Total number of members in cluster: 4
 
 ### Cluster 221
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 455.0
 
 #### Seeds in cluster:
 
@@ -11855,6 +12445,8 @@ BAQ02048.1:
 ### Cluster 220
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 386.8
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus    | species         |   serotype |
@@ -11886,6 +12478,8 @@ Total number of members in cluster: 4
 
 ### Cluster 219
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 401.5
 
 #### Seeds in cluster:
 
@@ -11919,6 +12513,8 @@ Total number of members in cluster: 4
 
 ### Cluster 215
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 364.5
 
 #### Seeds in cluster:
 
@@ -11956,6 +12552,8 @@ CAN87666.1:
 
 ### Cluster 21
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 347.0
 
 #### Seeds in cluster:
 
@@ -11995,6 +12593,8 @@ ABE98419.1, ADN43845.1:
 ### Cluster 207
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 399.8
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -12033,6 +12633,8 @@ BAQ01793.1:
 ### Cluster 191
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 408.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -12063,6 +12665,8 @@ Total number of members in cluster: 4
 
 ### Cluster 169
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 392.5
 
 #### Seeds in cluster:
 
@@ -12102,6 +12706,8 @@ WP_016238111.1:
 ### Cluster 160
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 373.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order           | family           | genus       | species                | serotype   |
@@ -12137,6 +12743,8 @@ AAM27879.1:
 ### Cluster 144
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 394.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -12166,6 +12774,8 @@ Total number of members in cluster: 4
 
 ### Cluster 139
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 357.5
 
 #### Seeds in cluster:
 
@@ -12203,6 +12813,8 @@ ADN43838.1:
 ### Cluster 132
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 506.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -12237,6 +12849,8 @@ Total number of members in cluster: 4
 ### Cluster 107
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 359.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -12268,6 +12882,8 @@ Total number of members in cluster: 4
 
 ### Cluster 105
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 393.5
 
 #### Seeds in cluster:
 
@@ -12301,6 +12917,8 @@ Total number of members in cluster: 4
 ### Cluster 92
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 423.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -12332,6 +12950,8 @@ Total number of members in cluster: 3
 
 ### Cluster 91
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 353.3
 
 #### Seeds in cluster:
 
@@ -12366,6 +12986,8 @@ Total number of members in cluster: 3
 ### Cluster 87
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 408.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -12396,6 +13018,8 @@ Total number of members in cluster: 3
 
 ### Cluster 70
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 400.0
 
 #### Seeds in cluster:
 
@@ -12429,6 +13053,8 @@ Total number of members in cluster: 3
 ### Cluster 63
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 426.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -12458,6 +13084,8 @@ Total number of members in cluster: 3
 
 ### Cluster 57
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 383.7
 
 #### Seeds in cluster:
 
@@ -12495,6 +13123,8 @@ ADN43871.1:
 
 ### Cluster 53
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 407.7
 
 #### Seeds in cluster:
 
@@ -12534,6 +13164,8 @@ ADN43858.1:
 ### Cluster 476
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 366.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -12563,6 +13195,8 @@ Total number of members in cluster: 3
 
 ### Cluster 466
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 417.3
 
 #### Seeds in cluster:
 
@@ -12601,6 +13235,8 @@ AFW04847.1:
 ### Cluster 462
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 382.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -12632,6 +13268,8 @@ Total number of members in cluster: 3
 ### Cluster 459
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 419.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -12662,6 +13300,8 @@ Total number of members in cluster: 3
 
 ### Cluster 458
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 387.7
 
 #### Seeds in cluster:
 
@@ -12695,6 +13335,8 @@ Total number of members in cluster: 3
 ### Cluster 450
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 393.7
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -12726,6 +13368,8 @@ Total number of members in cluster: 3
 ### Cluster 440
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 415.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -12755,6 +13399,8 @@ Total number of members in cluster: 3
 
 ### Cluster 438
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 375.3
 
 #### Seeds in cluster:
 
@@ -12788,6 +13434,8 @@ Total number of members in cluster: 3
 
 ### Cluster 436
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 409.0
 
 #### Seeds in cluster:
 
@@ -12825,6 +13473,8 @@ BAQ00758.1:
 ### Cluster 431
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 390.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -12859,6 +13509,8 @@ BAQ00927.1:
 
 ### Cluster 425
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 411.3
 
 #### Seeds in cluster:
 
@@ -12897,6 +13549,8 @@ BAQ01702.1:
 ### Cluster 423
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 397.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -12927,6 +13581,8 @@ Total number of members in cluster: 3
 
 ### Cluster 419
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 334.7
 
 #### Seeds in cluster:
 
@@ -12962,6 +13618,8 @@ AEP25500.1:
 
 ### Cluster 418
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 360.3
 
 #### Seeds in cluster:
 
@@ -12999,6 +13657,8 @@ BAQ01169.1:
 ### Cluster 41
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 326.7
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -13028,6 +13688,8 @@ Total number of members in cluster: 3
 
 ### Cluster 404
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 421.7
 
 #### Seeds in cluster:
 
@@ -13067,6 +13729,8 @@ BAQ02088.1:
 ### Cluster 397
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 417.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -13098,6 +13762,8 @@ Total number of members in cluster: 3
 
 ### Cluster 394
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 385.0
 
 #### Seeds in cluster:
 
@@ -13138,6 +13804,8 @@ ABD19779.1:
 ### Cluster 380
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 410.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -13167,6 +13835,8 @@ Total number of members in cluster: 3
 
 ### Cluster 378
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 416.3
 
 #### Seeds in cluster:
 
@@ -13200,6 +13870,8 @@ Total number of members in cluster: 3
 ### Cluster 376
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 434.7
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -13232,6 +13904,8 @@ Total number of members in cluster: 3
 ### Cluster 372
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 394.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -13261,6 +13935,8 @@ Total number of members in cluster: 3
 
 ### Cluster 369
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 423.0
 
 #### Seeds in cluster:
 
@@ -13297,6 +13973,8 @@ BAQ01137.1:
 ### Cluster 368
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 351.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -13329,6 +14007,8 @@ Total number of members in cluster: 3
 ### Cluster 367
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 461.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -13359,6 +14039,8 @@ Total number of members in cluster: 3
 
 ### Cluster 359
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 426.3
 
 #### Seeds in cluster:
 
@@ -13392,6 +14074,8 @@ Total number of members in cluster: 3
 ### Cluster 355
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 331.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -13424,6 +14108,8 @@ Total number of members in cluster: 3
 ### Cluster 353
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 415.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -13454,6 +14140,8 @@ Total number of members in cluster: 3
 
 ### Cluster 352
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 394.3
 
 #### Seeds in cluster:
 
@@ -13486,6 +14174,8 @@ Total number of members in cluster: 3
 
 ### Cluster 339
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 388.7
 
 #### Seeds in cluster:
 
@@ -13524,6 +14214,8 @@ BAQ01878.1:
 ### Cluster 338
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 429.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -13556,6 +14248,8 @@ Total number of members in cluster: 3
 ### Cluster 335
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 405.7
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -13586,6 +14280,8 @@ Total number of members in cluster: 3
 
 ### Cluster 332
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 418.7
 
 #### Seeds in cluster:
 
@@ -13618,6 +14314,8 @@ Total number of members in cluster: 3
 ### Cluster 331
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 370.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -13647,6 +14345,8 @@ Total number of members in cluster: 3
 
 ### Cluster 330
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 343.0
 
 #### Seeds in cluster:
 
@@ -13679,6 +14379,8 @@ Total number of members in cluster: 3
 ### Cluster 328
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 415.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -13709,6 +14411,8 @@ Total number of members in cluster: 3
 
 ### Cluster 321
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 411.0
 
 #### Seeds in cluster:
 
@@ -13741,6 +14445,8 @@ Total number of members in cluster: 3
 
 ### Cluster 313
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 368.0
 
 #### Seeds in cluster:
 
@@ -13778,6 +14484,8 @@ BAQ01155.1:
 ### Cluster 292
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 360.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -13809,6 +14517,8 @@ Total number of members in cluster: 3
 
 ### Cluster 282
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 423.0
 
 #### Seeds in cluster:
 
@@ -13845,6 +14555,8 @@ CAI34099.1:
 ### Cluster 279
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 420.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -13876,6 +14588,8 @@ Total number of members in cluster: 3
 
 ### Cluster 276
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 342.3
 
 #### Seeds in cluster:
 
@@ -13909,6 +14623,8 @@ Total number of members in cluster: 3
 ### Cluster 271
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 357.7
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -13940,6 +14656,8 @@ Total number of members in cluster: 3
 
 ### Cluster 270
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 426.7
 
 #### Seeds in cluster:
 
@@ -13977,6 +14695,8 @@ AAY28257.1:
 ### Cluster 27
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 459.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -14009,6 +14729,8 @@ Total number of members in cluster: 3
 ### Cluster 249
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 446.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -14040,6 +14762,8 @@ Total number of members in cluster: 3
 
 ### Cluster 248
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 401.0
 
 #### Seeds in cluster:
 
@@ -14078,6 +14802,8 @@ CAI32797.1:
 ### Cluster 243
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 394.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -14108,6 +14834,8 @@ Total number of members in cluster: 3
 
 ### Cluster 229
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 381.0
 
 #### Seeds in cluster:
 
@@ -14140,6 +14868,8 @@ Total number of members in cluster: 3
 ### Cluster 228
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 400.7
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -14171,6 +14901,8 @@ Total number of members in cluster: 3
 
 ### Cluster 209
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 419.0
 
 #### Seeds in cluster:
 
@@ -14214,6 +14946,8 @@ CAI34475.1:
 ### Cluster 208
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 362.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -14244,6 +14978,8 @@ Total number of members in cluster: 3
 ### Cluster 206
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 349.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -14273,6 +15009,8 @@ Total number of members in cluster: 3
 
 ### Cluster 205
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 398.7
 
 #### Seeds in cluster:
 
@@ -14305,6 +15043,8 @@ Total number of members in cluster: 3
 ### Cluster 194
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 387.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -14335,6 +15075,8 @@ Total number of members in cluster: 3
 
 ### Cluster 190
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 399.0
 
 #### Seeds in cluster:
 
@@ -14373,6 +15115,8 @@ BAQ01659.1:
 ### Cluster 18
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 410.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -14405,6 +15149,8 @@ Total number of members in cluster: 3
 ### Cluster 172
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 419.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -14435,6 +15181,8 @@ Total number of members in cluster: 3
 
 ### Cluster 168
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 358.0
 
 #### Seeds in cluster:
 
@@ -14468,6 +15216,8 @@ Total number of members in cluster: 3
 ### Cluster 166
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 352.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -14498,6 +15248,8 @@ Total number of members in cluster: 3
 ### Cluster 151
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 347.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -14527,6 +15279,8 @@ Total number of members in cluster: 3
 
 ### Cluster 14
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 361.0
 
 #### Seeds in cluster:
 
@@ -14560,6 +15314,8 @@ Total number of members in cluster: 3
 ### Cluster 120
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 380.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -14589,6 +15345,8 @@ Total number of members in cluster: 3
 
 ### Cluster 109
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 387.0
 
 #### Seeds in cluster:
 
@@ -14622,6 +15380,8 @@ Total number of members in cluster: 3
 ### Cluster 102
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 442.3
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -14651,6 +15411,8 @@ Total number of members in cluster: 3
 
 ### Cluster 76
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 346.0
 
 #### Seeds in cluster:
 
@@ -14689,6 +15451,8 @@ BAQ01780.1:
 ### Cluster 58
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 445.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -14719,6 +15483,8 @@ Total number of members in cluster: 2
 
 ### Cluster 51
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 339.0
 
 #### Seeds in cluster:
 
@@ -14755,6 +15521,8 @@ ACA24890.1:
 ### Cluster 5
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 407.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -14784,6 +15552,8 @@ Total number of members in cluster: 2
 
 ### Cluster 481
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 340.0
 
 #### Seeds in cluster:
 
@@ -14816,6 +15586,8 @@ Total number of members in cluster: 2
 ### Cluster 480
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 434.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -14846,6 +15618,8 @@ Total number of members in cluster: 2
 
 ### Cluster 479
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 338.5
 
 #### Seeds in cluster:
 
@@ -14878,6 +15652,8 @@ Total number of members in cluster: 2
 ### Cluster 478
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 420.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -14907,6 +15683,8 @@ Total number of members in cluster: 2
 
 ### Cluster 477
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 456.5
 
 #### Seeds in cluster:
 
@@ -14939,6 +15717,8 @@ Total number of members in cluster: 2
 ### Cluster 475
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 408.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -14968,6 +15748,8 @@ Total number of members in cluster: 2
 
 ### Cluster 474
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 507.0
 
 #### Seeds in cluster:
 
@@ -15000,6 +15782,8 @@ Total number of members in cluster: 2
 ### Cluster 473
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 369.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -15031,6 +15815,8 @@ Total number of members in cluster: 2
 ### Cluster 472
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 449.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -15060,6 +15846,8 @@ Total number of members in cluster: 2
 
 ### Cluster 471
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 404.5
 
 #### Seeds in cluster:
 
@@ -15092,6 +15880,8 @@ Total number of members in cluster: 2
 ### Cluster 470
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 407.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -15122,6 +15912,8 @@ Total number of members in cluster: 2
 
 ### Cluster 469
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 425.5
 
 #### Seeds in cluster:
 
@@ -15154,6 +15946,8 @@ Total number of members in cluster: 2
 ### Cluster 468
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 450.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -15184,6 +15978,8 @@ Total number of members in cluster: 2
 
 ### Cluster 467
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 470.5
 
 #### Seeds in cluster:
 
@@ -15216,6 +16012,8 @@ Total number of members in cluster: 2
 ### Cluster 465
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 366.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -15245,6 +16043,8 @@ Total number of members in cluster: 2
 
 ### Cluster 464
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 390.5
 
 #### Seeds in cluster:
 
@@ -15277,6 +16077,8 @@ Total number of members in cluster: 2
 ### Cluster 463
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 364.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -15308,6 +16110,8 @@ Total number of members in cluster: 2
 ### Cluster 460
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 334.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -15338,6 +16142,8 @@ Total number of members in cluster: 2
 ### Cluster 457
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 395.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -15367,6 +16173,8 @@ Total number of members in cluster: 2
 
 ### Cluster 456
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 353.0
 
 #### Seeds in cluster:
 
@@ -15399,6 +16207,8 @@ Total number of members in cluster: 2
 ### Cluster 454
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 373.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -15428,6 +16238,8 @@ Total number of members in cluster: 2
 
 ### Cluster 453
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 340.0
 
 #### Seeds in cluster:
 
@@ -15460,6 +16272,8 @@ Total number of members in cluster: 2
 ### Cluster 452
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 391.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -15491,6 +16305,8 @@ Total number of members in cluster: 2
 ### Cluster 451
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 352.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -15520,6 +16336,8 @@ Total number of members in cluster: 2
 
 ### Cluster 449
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 354.5
 
 #### Seeds in cluster:
 
@@ -15551,6 +16369,8 @@ Total number of members in cluster: 2
 ### Cluster 448
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 368.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -15580,6 +16400,8 @@ Total number of members in cluster: 2
 
 ### Cluster 447
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 367.0
 
 #### Seeds in cluster:
 
@@ -15612,6 +16434,8 @@ Total number of members in cluster: 2
 ### Cluster 446
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 417.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -15642,6 +16466,8 @@ Total number of members in cluster: 2
 
 ### Cluster 443
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 379.0
 
 #### Seeds in cluster:
 
@@ -15674,6 +16500,8 @@ Total number of members in cluster: 2
 ### Cluster 442
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 396.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -15703,6 +16531,8 @@ Total number of members in cluster: 2
 
 ### Cluster 435
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 395.0
 
 #### Seeds in cluster:
 
@@ -15734,6 +16564,8 @@ Total number of members in cluster: 2
 ### Cluster 434
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 377.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -15763,6 +16595,8 @@ Total number of members in cluster: 2
 
 ### Cluster 433
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 400.5
 
 #### Seeds in cluster:
 
@@ -15795,6 +16629,8 @@ Total number of members in cluster: 2
 ### Cluster 432
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 406.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -15824,6 +16660,8 @@ Total number of members in cluster: 2
 
 ### Cluster 429
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 436.5
 
 #### Seeds in cluster:
 
@@ -15856,6 +16694,8 @@ Total number of members in cluster: 2
 ### Cluster 428
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 453.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -15885,6 +16725,8 @@ Total number of members in cluster: 2
 
 ### Cluster 427
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 299.5
 
 #### Seeds in cluster:
 
@@ -15917,6 +16759,8 @@ Total number of members in cluster: 2
 ### Cluster 426
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 342.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -15947,6 +16791,8 @@ Total number of members in cluster: 2
 
 ### Cluster 424
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 417.5
 
 #### Seeds in cluster:
 
@@ -15979,6 +16825,8 @@ Total number of members in cluster: 2
 ### Cluster 422
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 409.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -16008,6 +16856,8 @@ Total number of members in cluster: 2
 
 ### Cluster 421
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 407.0
 
 #### Seeds in cluster:
 
@@ -16039,6 +16889,8 @@ Total number of members in cluster: 2
 ### Cluster 417
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 434.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -16069,6 +16921,8 @@ Total number of members in cluster: 2
 
 ### Cluster 415
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 387.0
 
 #### Seeds in cluster:
 
@@ -16105,6 +16959,8 @@ CAI32957.1:
 ### Cluster 414
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 404.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -16135,6 +16991,8 @@ Total number of members in cluster: 2
 
 ### Cluster 413
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 394.0
 
 #### Seeds in cluster:
 
@@ -16167,6 +17025,8 @@ Total number of members in cluster: 2
 ### Cluster 411
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 425.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -16197,6 +17057,8 @@ Total number of members in cluster: 2
 
 ### Cluster 410
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 329.5
 
 #### Seeds in cluster:
 
@@ -16229,6 +17091,8 @@ Total number of members in cluster: 2
 ### Cluster 408
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 408.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -16259,6 +17123,8 @@ Total number of members in cluster: 2
 ### Cluster 407
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 393.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -16288,6 +17154,8 @@ Total number of members in cluster: 2
 
 ### Cluster 406
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 409.0
 
 #### Seeds in cluster:
 
@@ -16324,6 +17192,8 @@ BAQ01114.1:
 ### Cluster 403
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 445.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -16359,6 +17229,8 @@ ADN43883.1:
 ### Cluster 4
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 385.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -16390,6 +17262,8 @@ Total number of members in cluster: 2
 ### Cluster 398
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 326.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -16419,6 +17293,8 @@ Total number of members in cluster: 2
 
 ### Cluster 386
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 427.0
 
 #### Seeds in cluster:
 
@@ -16451,6 +17327,8 @@ Total number of members in cluster: 2
 ### Cluster 385
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 493.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -16480,6 +17358,8 @@ Total number of members in cluster: 2
 
 ### Cluster 383
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 366.0
 
 #### Seeds in cluster:
 
@@ -16516,6 +17396,8 @@ BAQ01812.1:
 ### Cluster 382
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 348.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -16546,6 +17428,8 @@ Total number of members in cluster: 2
 ### Cluster 381
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 439.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -16575,6 +17459,8 @@ Total number of members in cluster: 2
 
 ### Cluster 373
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 433.0
 
 #### Seeds in cluster:
 
@@ -16607,6 +17493,8 @@ Total number of members in cluster: 2
 ### Cluster 365
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 335.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -16637,6 +17525,8 @@ Total number of members in cluster: 2
 ### Cluster 362
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 399.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -16666,6 +17556,8 @@ Total number of members in cluster: 2
 
 ### Cluster 357
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 380.0
 
 #### Seeds in cluster:
 
@@ -16698,6 +17590,8 @@ Total number of members in cluster: 2
 ### Cluster 354
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 449.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -16728,6 +17622,8 @@ Total number of members in cluster: 2
 ### Cluster 346
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 401.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -16757,6 +17653,8 @@ Total number of members in cluster: 2
 
 ### Cluster 34
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 357.5
 
 #### Seeds in cluster:
 
@@ -16789,6 +17687,8 @@ Total number of members in cluster: 2
 ### Cluster 333
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 381.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -16819,6 +17719,8 @@ Total number of members in cluster: 2
 
 ### Cluster 327
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 435.5
 
 #### Seeds in cluster:
 
@@ -16851,6 +17753,8 @@ Total number of members in cluster: 2
 ### Cluster 325
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 421.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -16880,6 +17784,8 @@ Total number of members in cluster: 2
 
 ### Cluster 316
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 412.0
 
 #### Seeds in cluster:
 
@@ -16911,6 +17817,8 @@ Total number of members in cluster: 2
 ### Cluster 314
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 441.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -16940,6 +17848,8 @@ Total number of members in cluster: 2
 
 ### Cluster 309
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 317.5
 
 #### Seeds in cluster:
 
@@ -16971,6 +17881,8 @@ Total number of members in cluster: 2
 
 ### Cluster 305
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 348.0
 
 #### Seeds in cluster:
 
@@ -17010,6 +17922,8 @@ ADX97403.1:
 ### Cluster 299
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 412.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -17041,6 +17955,8 @@ Total number of members in cluster: 2
 ### Cluster 297
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 385.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -17070,6 +17986,8 @@ Total number of members in cluster: 2
 
 ### Cluster 295
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 389.0
 
 #### Seeds in cluster:
 
@@ -17101,6 +18019,8 @@ Total number of members in cluster: 2
 ### Cluster 291
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 351.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -17130,6 +18050,8 @@ Total number of members in cluster: 2
 
 ### Cluster 290
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 383.5
 
 #### Seeds in cluster:
 
@@ -17162,6 +18084,8 @@ Total number of members in cluster: 2
 ### Cluster 268
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 408.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -17193,6 +18117,8 @@ Total number of members in cluster: 2
 ### Cluster 265
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 399.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -17223,6 +18149,8 @@ Total number of members in cluster: 2
 
 ### Cluster 261
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 395.0
 
 #### Seeds in cluster:
 
@@ -17261,6 +18189,8 @@ ADJ19203.1:
 ### Cluster 257
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 431.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -17292,6 +18222,8 @@ Total number of members in cluster: 2
 ### Cluster 253
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 397.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -17321,6 +18253,8 @@ Total number of members in cluster: 2
 
 ### Cluster 227
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 316.5
 
 #### Seeds in cluster:
 
@@ -17359,6 +18293,8 @@ AHB32242.2:
 ### Cluster 223
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 365.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order            | family             | genus       | species          | serotype   |
@@ -17396,6 +18332,8 @@ AIG62747.1:
 ### Cluster 212
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 410.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -17426,6 +18364,8 @@ Total number of members in cluster: 2
 
 ### Cluster 204
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 361.0
 
 #### Seeds in cluster:
 
@@ -17462,6 +18402,8 @@ ACH97152.1:
 ### Cluster 200
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 414.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -17491,6 +18433,8 @@ Total number of members in cluster: 2
 
 ### Cluster 199
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 366.5
 
 #### Seeds in cluster:
 
@@ -17522,6 +18466,8 @@ Total number of members in cluster: 2
 ### Cluster 193
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 373.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -17551,6 +18497,8 @@ Total number of members in cluster: 2
 
 ### Cluster 167
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 329.0
 
 #### Seeds in cluster:
 
@@ -17583,6 +18531,8 @@ Total number of members in cluster: 2
 ### Cluster 159
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 403.5
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -17613,6 +18563,8 @@ Total number of members in cluster: 2
 
 ### Cluster 147
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 405.0
 
 #### Seeds in cluster:
 
@@ -17650,6 +18602,8 @@ AAL27351.1:
 ### Cluster 140
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 410.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -17681,6 +18635,8 @@ Total number of members in cluster: 2
 ### Cluster 137
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 361.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -17710,6 +18666,8 @@ Total number of members in cluster: 2
 
 ### Cluster 116
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 388.5
 
 #### Seeds in cluster:
 
@@ -17742,6 +18700,8 @@ Total number of members in cluster: 2
 ### Cluster 115
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 414.0
+
 #### Seeds in cluster:
 
 | protein_accession   | order   | family   | genus   | species   | serotype   |
@@ -17771,6 +18731,8 @@ Total number of members in cluster: 2
 
 ### Cluster 108
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 441.5
 
 #### Seeds in cluster:
 
