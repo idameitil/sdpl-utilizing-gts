@@ -58,7 +58,7 @@ Average length of proteins in cluster: 448.2
 
 AAC45844.1:
 
-![](/Users/idamei/phd/data/csdb/images/1509.gif)
+![](../../../csdb/images/1509.gif)
 
 CSDB record ID: 1509
 
@@ -193,7 +193,7 @@ Average length of proteins in cluster: 398.0
 
 CAI33309.1:
 
-![](/Users/idamei/phd/data/csdb/images/7061.gif)
+![](../../../csdb/images/7061.gif)
 
 CSDB record ID: 7061
 
@@ -201,7 +201,7 @@ CSDB linear: -4)bDGalp(1-4)[Ac(1-3),Ac(1-2)]bDGlcp(1-3)bDGalf(1-4)[Ac(1-2)]bDGlc
 
 CAI33441.1:
 
-![](/Users/idamei/phd/data/csdb/images/1490.gif)
+![](../../../csdb/images/1490.gif)
 
 CSDB record ID: 1490
 
@@ -209,7 +209,7 @@ CSDB linear: -3)[70%Ac(1-2)]bDGalf(1-3)aLRhap(1-2)aLRhap(1-3)[x?Gro(1-P-6)]aDGal
 
 CAI34080.1:
 
-![](/Users/idamei/phd/data/csdb/images/1227.gif)
+![](../../../csdb/images/1227.gif)
 
 CSDB record ID: 1227
 
@@ -217,7 +217,7 @@ CSDB linear: -6)bDGalf(1-1)xDRib-ol(5-P-4)[Ac(1-2)]bDGalpN(1-6)bDGalf(1-3)bDGalp
 
 CAI34348.1:
 
-![](/Users/idamei/phd/data/csdb/images/7095.gif)
+![](../../../csdb/images/7095.gif)
 
 CSDB record ID: 7095
 
@@ -225,7 +225,7 @@ CSDB linear: -6)[Ac(1-2)]bDGalf(1-3)aDGalp(1-2)x?Rib-ol(5-P-3)bDGalf(1-3)bDGalp(
 
 CAI34286.1:
 
-![](/Users/idamei/phd/data/csdb/images/1611.gif)
+![](../../../csdb/images/1611.gif)
 
 CSDB record ID: 1611
 
@@ -233,7 +233,7 @@ CSDB linear: -3)bDGalp(1-3)[Ac(1-6),Ac(1-5)]bDGalf(1-3)bDGlcp(1-6)[Ac(1-2)]bDGal
 
 CAI34310.1:
 
-![](/Users/idamei/phd/data/csdb/images/1609.gif)
+![](../../../csdb/images/1609.gif)
 
 CSDB record ID: 1609
 
@@ -241,7 +241,7 @@ CSDB linear: -4)[Ac(1-2)]bDGalpN(1-6)bDGalf(1-3)bDGlcp(1-6)[70%Ac(1-2)]bDGalf(1-
 
 CAI34328.1:
 
-![](/Users/idamei/phd/data/csdb/images/7097.gif)
+![](../../../csdb/images/7097.gif)
 
 CSDB record ID: 7097
 
@@ -249,7 +249,7 @@ CSDB linear: -6)bDGalf(1-1)x?Man-ol(6-P-3)[aDGlcp(1-2)]bDGalp(1-3)bDGalf(1-3)bDG
 
 CAI34519.1:
 
-![](/Users/idamei/phd/data/csdb/images/25003.gif)
+![](../../../csdb/images/25003.gif)
 
 CSDB record ID: 25003
 
@@ -257,7 +257,7 @@ CSDB linear: -3)[aDGlcp(1-2)]bDGalp(1-3)[%Ac(1-6),%Ac(1-5)]bDGalf(1-3)bDGlcp(1-6
 
 CAI34657.1:
 
-![](/Users/idamei/phd/data/csdb/images/25005.gif)
+![](../../../csdb/images/25005.gif)
 
 CSDB record ID: 25005
 
@@ -371,7 +371,7 @@ Average length of proteins in cluster: 430.4
 
 CDF66396.1:
 
-![](/Users/idamei/phd/data/csdb/images/12130.gif)
+![](../../../csdb/images/12130.gif)
 
 CSDB record ID: 12130
 
@@ -379,7 +379,7 @@ CSDB linear: -4)[Ac(1-3),Ac(1-2)]bDGlcpNA(1-4)[aDGalp(1-3),Am(1-2)]aLFucpN(1-3)[
 
 BAQ00780.1:
 
-![](/Users/idamei/phd/data/csdb/images/1539.gif)
+![](../../../csdb/images/1539.gif)
 
 CSDB record ID: 1539
 
@@ -387,7 +387,7 @@ CSDB linear: -4)bDGlcpA(1-4)[Ac(1-2)bDGlcpN(1-2)]bDGlcpA(1-3)[Ac(1-2)]aDGlcpN(1-
 
 AAA97573.1, AAC45857.1, AAM27801.1:
 
-![](/Users/idamei/phd/data/csdb/images/1672.gif)
+![](../../../csdb/images/1672.gif)
 
 CSDB record ID: 1672
 
@@ -395,7 +395,7 @@ CSDB linear: -4)[Am(1-3),Ac(1-2)]bDManpN3NA(1-4)[Ac(1-3),Ac(1-2)]bDManpN3NA(1-3)
 
 AAM27728.1:
 
-![](/Users/idamei/phd/data/csdb/images/6565.gif)
+![](../../../csdb/images/6565.gif)
 
 CSDB record ID: 6565
 
@@ -403,7 +403,7 @@ CSDB linear: -4)[Am(1-3),Ac(1-2)]bDManpN3NA(1-4)[Ac(1-3),Ac(1-2)]aLGulpN3NA(1-3)
 
 AAM27662.1:
 
-![](/Users/idamei/phd/data/csdb/images/6654.gif)
+![](../../../csdb/images/6654.gif)
 
 CSDB record ID: 6654
 
@@ -411,7 +411,7 @@ CSDB linear: -4)[Am(1-3),Ac(1-2)]bDManpN3NA(1-4)[Ac(1-3),Ac(1-2)]bDManpN3NA(1-3)
 
 AAM27693.1:
 
-![](/Users/idamei/phd/data/csdb/images/7836.gif)
+![](../../../csdb/images/7836.gif)
 
 CSDB record ID: 7836
 
@@ -419,7 +419,7 @@ CSDB linear: -4)[Am(1-3),Ac(1-2)]aLGulpN3NA(1-4)[Ac(1-3),Ac(1-2)]bDManpN3NA(1-3)
 
 AAM27748.1:
 
-![](/Users/idamei/phd/data/csdb/images/6655.gif)
+![](../../../csdb/images/6655.gif)
 
 CSDB record ID: 6655
 
@@ -576,7 +576,7 @@ Average length of proteins in cluster: 349.0
 
 BAQ01024.1:
 
-![](/Users/idamei/phd/data/csdb/images/1558.gif)
+![](../../../csdb/images/1558.gif)
 
 CSDB record ID: 1558
 
@@ -584,7 +584,7 @@ CSDB linear: -3)[Ac(1-2)bDGlcpN(1-2)]aLRhap(1-2)aLRhap(1-4)aDGlcp(1-3)[Ac(1-2)]b
 
 ADC54967.1:
 
-![](/Users/idamei/phd/data/csdb/images/619.gif)
+![](../../../csdb/images/619.gif)
 
 CSDB record ID: 619
 
@@ -592,7 +592,7 @@ CSDB linear: -3)[Ac(1-2)]bDGlcpN(1-3)[bDManp(1-4)]aDGalp(1-4)aLRhap(1-
 
 BAQ00622.1:
 
-![](/Users/idamei/phd/data/csdb/images/1512.gif)
+![](../../../csdb/images/1512.gif)
 
 CSDB record ID: 1512
 
@@ -600,7 +600,7 @@ CSDB linear: -3)[<<60%Ac(1-4)|40%lR3HOBut(1-4)>>aDFucp4N(1-2)]aLRhap(1-3)aLRhap(
 
 AQU71752.1:
 
-![](/Users/idamei/phd/data/csdb/images/7222.gif)
+![](../../../csdb/images/7222.gif)
 
 CSDB record ID: 7222
 
@@ -608,7 +608,7 @@ CSDB linear: -3)[Ac(1-2)bDManpN(1-2)]aLRhap(1-3)aLRhap(1-3)bLRhap(1-4)[Ac(1-2)]b
 
 AFW04820.1:
 
-![](/Users/idamei/phd/data/csdb/images/2600.gif)
+![](../../../csdb/images/2600.gif)
 
 CSDB record ID: 2600
 
@@ -616,7 +616,7 @@ CSDB linear: -3)[Ac(1-2)]bDGlcpN(1-3)[bDManp(1-4)]aDGalp(1-4)aLRhap(1-
 
 AFW04883.1:
 
-![](/Users/idamei/phd/data/csdb/images/701.gif)
+![](../../../csdb/images/701.gif)
 
 CSDB record ID: 701
 
@@ -624,7 +624,7 @@ CSDB linear: -3)[Ac(1-2)bDGlcpN(1-2)]aLRhap(1-2)aLRhap(1-4)aDGlcp(1-3)[Ac(1-2)]b
 
 ABX51892.1:
 
-![](/Users/idamei/phd/data/csdb/images/27572.gif)
+![](../../../csdb/images/27572.gif)
 
 CSDB record ID: 27572
 
@@ -741,7 +741,7 @@ Average length of proteins in cluster: 353.5
 
 AHB32215.1:
 
-![](/Users/idamei/phd/data/csdb/images/2091.gif)
+![](../../../csdb/images/2091.gif)
 
 CSDB record ID: 2091
 
@@ -883,7 +883,7 @@ Average length of proteins in cluster: 358.8
 
 AHB32715.1:
 
-![](/Users/idamei/phd/data/csdb/images/486.gif)
+![](../../../csdb/images/486.gif)
 
 CSDB record ID: 486
 
@@ -891,7 +891,7 @@ CSDB linear: -6)[Ac(1-2)]aDGlcpN(1-4)[bDGlcp(1-3),Ac(1-2)]aDGalpN(1-3)[Ac(1-2)]a
 
 AHB32637.1:
 
-![](/Users/idamei/phd/data/csdb/images/563.gif)
+![](../../../csdb/images/563.gif)
 
 CSDB record ID: 563
 
@@ -899,7 +899,7 @@ CSDB linear: -6)[Ac(1-2)]bDGlcpN(1-4)[bDGlcp(1-3),Ac(1-2)]bDGalpN(1-3)[Ac(1-2)]a
 
 CAI33718.1:
 
-![](/Users/idamei/phd/data/csdb/images/1928.gif)
+![](../../../csdb/images/1928.gif)
 
 CSDB record ID: 1928
 
@@ -907,7 +907,7 @@ CSDB linear: -6)aDGlcp(1-6)bDGlcp(1-3)bDGalf(1-3)bDGlcp(1-3)[bDGalf(1-4),Ac(1-2)
 
 BAQ02116.1:
 
-![](/Users/idamei/phd/data/csdb/images/1561.gif)
+![](../../../csdb/images/1561.gif)
 
 CSDB record ID: 1561
 
@@ -915,7 +915,7 @@ CSDB linear: -4)aDGalpA(1-2)aLRhap(1-2)bDRibf(1-4)bDGalp(1-3)[Ac(1-2)]bDGlcpN(1-
 
 AAK64372.1:
 
-![](/Users/idamei/phd/data/csdb/images/1843.gif)
+![](../../../csdb/images/1843.gif)
 
 CSDB record ID: 1843
 
@@ -923,7 +923,7 @@ CSDB linear: -4)aDGalp(1-4)[Ac(1-9),Ac(1-7),Ac(1-5)]aXNeup(2-3)bDGalp(1-3)[Ac(1-
 
 ADQ37335.1:
 
-![](/Users/idamei/phd/data/csdb/images/1858.gif)
+![](../../../csdb/images/1858.gif)
 
 CSDB record ID: 1858
 
@@ -931,7 +931,7 @@ CSDB linear: -3)xDRib-ol(5-P-6)aDGalp(1-3)[Am(1-2)]aLFucpN(1-3)[Ac(1-2)]bDGlcpN(
 
 ACA24821.1, ACA24811.1:
 
-![](/Users/idamei/phd/data/csdb/images/1893.gif)
+![](../../../csdb/images/1893.gif)
 
 CSDB record ID: 1893
 
@@ -939,7 +939,7 @@ CSDB linear: -3)[bLRhap(1-4),Ac(1-2)]aDGlcpN(1-P-6)aDGlcp(1-2)bDGlcp(1-3)[Ac(1-2
 
 ADN43894.1:
 
-![](/Users/idamei/phd/data/csdb/images/3159.gif)
+![](../../../csdb/images/3159.gif)
 
 CSDB record ID: 3159
 
@@ -947,7 +947,7 @@ CSDB linear: -3)[aLFucp(1-4)]aDGlcp(1-P-6)aDGlcp(1-2)bDGlcp(1-3)[Ac(1-2)]bDGlcpN
 
 ADQ37322.1:
 
-![](/Users/idamei/phd/data/csdb/images/1892.gif)
+![](../../../csdb/images/1892.gif)
 
 CSDB record ID: 1892
 
@@ -1071,7 +1071,7 @@ Average length of proteins in cluster: 412.2
 
 CAI34150.1:
 
-![](/Users/idamei/phd/data/csdb/images/848.gif)
+![](../../../csdb/images/848.gif)
 
 CSDB record ID: 848
 
@@ -1079,7 +1079,7 @@ CSDB linear: -4)bDGlcp(1-3)[aLRhap(1-P-2)]aDGlcp(1-4)[xXCho(1-P-3),Ac(1-2)]bLRha
 
 CAI34124.1:
 
-![](/Users/idamei/phd/data/csdb/images/918.gif)
+![](../../../csdb/images/918.gif)
 
 CSDB record ID: 918
 
@@ -1179,7 +1179,7 @@ Average length of proteins in cluster: 443.4
 
 CAI32823.1:
 
-![](/Users/idamei/phd/data/csdb/images/1087.gif)
+![](../../../csdb/images/1087.gif)
 
 CSDB record ID: 1087
 
@@ -1187,7 +1187,7 @@ CSDB linear: -3)aLRhap(1-3)xDRib-ol(5-P-2)aDGalp(1-3)aDGlcp(1-
 
 CAI32843.1:
 
-![](/Users/idamei/phd/data/csdb/images/937.gif)
+![](../../../csdb/images/937.gif)
 
 CSDB record ID: 937
 
@@ -1195,7 +1195,7 @@ CSDB linear: -2)aDGalp(1-3)aDGlcp(1-3)aLRhap(1-4)xDRib-ol(5-P-
 
 CAI33700.1:
 
-![](/Users/idamei/phd/data/csdb/images/739.gif)
+![](../../../csdb/images/739.gif)
 
 CSDB record ID: 739
 
@@ -1203,7 +1203,7 @@ CSDB linear: -4)[Ac(1-2)]bDManpN(1-4)aDGlcp(1-2)aLRhap(1-P-
 
 CAI33631.1:
 
-![](/Users/idamei/phd/data/csdb/images/740.gif)
+![](../../../csdb/images/740.gif)
 
 CSDB record ID: 740
 
@@ -1211,7 +1211,7 @@ CSDB linear: -4)[Ac(1-2)]bDManpN(1-4)aDGlcp(1-3)aLRhap(1-P-
 
 CAI34269.1:
 
-![](/Users/idamei/phd/data/csdb/images/7043.gif)
+![](../../../csdb/images/7043.gif)
 
 CSDB record ID: 7043
 
@@ -1308,7 +1308,7 @@ Average length of proteins in cluster: 392.8
 
 AHB32411.1:
 
-![](/Users/idamei/phd/data/csdb/images/27746.gif)
+![](../../../csdb/images/27746.gif)
 
 CSDB record ID: 27746
 
@@ -1316,7 +1316,7 @@ CSDB linear: -2)[Ac(1-2)aDManpN(1-3)]aLRhap(1-2)aLRhap(1-3)aLRhap(1-3)[Ac(1-2)]a
 
 EHX11459.1, AFC91458.1, AFC91419.1, AAX07747.1:
 
-![](/Users/idamei/phd/data/csdb/images/1552.gif)
+![](../../../csdb/images/1552.gif)
 
 CSDB record ID: 1552
 
@@ -1418,7 +1418,7 @@ Average length of proteins in cluster: 412.3
 
 ACA24764.1, ACA24754.1:
 
-![](/Users/idamei/phd/data/csdb/images/1885.gif)
+![](../../../csdb/images/1885.gif)
 
 CSDB record ID: 1885
 
@@ -1426,7 +1426,7 @@ CSDB linear: -2)[x?GroN(2-6),%Ac(1-4),%Ac(1-3)]bDGalpA(1-3)[Ac(1-2)]aDGalpN(1-4)
 
 ACD37046.1, ACD37037.1:
 
-![](/Users/idamei/phd/data/csdb/images/1909.gif)
+![](../../../csdb/images/1909.gif)
 
 CSDB record ID: 1909
 
@@ -1434,7 +1434,7 @@ CSDB linear: -2)[xLAla?(2-6),aDGalf(1-4)]bDGalpA(1-3)[Ac(1-2)]aDGlcpN(1-2)bDGalf
 
 BAQ02088.1:
 
-![](/Users/idamei/phd/data/csdb/images/1934.gif)
+![](../../../csdb/images/1934.gif)
 
 CSDB record ID: 1934
 
@@ -1442,7 +1442,7 @@ CSDB linear: -2)[Ac(1-3)]bDFucp3N(1-3)[Ac(1-2)]aDGlcpN(1-4)aDGlcpA(1-3)aDManp(1-
 
 AFW04847.1:
 
-![](/Users/idamei/phd/data/csdb/images/3362.gif)
+![](../../../csdb/images/3362.gif)
 
 CSDB record ID: 3362
 
@@ -1537,7 +1537,7 @@ Average length of proteins in cluster: 395.6
 
 BAQ00795.1:
 
-![](/Users/idamei/phd/data/csdb/images/1401.gif)
+![](../../../csdb/images/1401.gif)
 
 CSDB record ID: 1401
 
@@ -1602,7 +1602,7 @@ Average length of proteins in cluster: 452.7
 
 AAT77177.1:
 
-![](/Users/idamei/phd/data/csdb/images/1854.gif)
+![](../../../csdb/images/1854.gif)
 
 CSDB record ID: 1854
 
@@ -1610,7 +1610,7 @@ CSDB linear: -4)[Ac(1-2)xLSer(1-3)]bDQuip3N(1-3)bDRibf(1-4)bDGalp(1-3)[Ac(1-2)]a
 
 AFN02899.1:
 
-![](/Users/idamei/phd/data/csdb/images/704.gif)
+![](../../../csdb/images/704.gif)
 
 CSDB record ID: 704
 
@@ -1618,7 +1618,7 @@ CSDB linear: -4)[Ac(1-3),Ac(1-2)]bDManpN3NA(1-2)aLRhap(1-3)bLRhap(1-4)[Ac(1-2)]a
 
 BAQ00569.1:
 
-![](/Users/idamei/phd/data/csdb/images/3191.gif)
+![](../../../csdb/images/3191.gif)
 
 CSDB record ID: 3191
 
@@ -1714,7 +1714,7 @@ Average length of proteins in cluster: 419.1
 
 CAI34254.1:
 
-![](/Users/idamei/phd/data/csdb/images/1965.gif)
+![](../../../csdb/images/1965.gif)
 
 CSDB record ID: 1965
 
@@ -1722,7 +1722,7 @@ CSDB linear: -3)bDGalp(1-3)[aDGalp(1-2)]aDGalp(1-3)[40%Ac(1-?)]bDGalf(1-3)bDGlcp
 
 CAI34177.1:
 
-![](/Users/idamei/phd/data/csdb/images/7091.gif)
+![](../../../csdb/images/7091.gif)
 
 CSDB record ID: 7091
 
@@ -1730,7 +1730,7 @@ CSDB linear: -3)bDGalp(1-3)[aDGalp(1-2)]aDGalp(1-3)[Ac(1-6),Ac(1-5)]bDGalf(1-3)b
 
 CAI34198.1:
 
-![](/Users/idamei/phd/data/csdb/images/7092.gif)
+![](../../../csdb/images/7092.gif)
 
 CSDB record ID: 7092
 
@@ -1738,7 +1738,7 @@ CSDB linear: -5)[Ac(1-2)]bDGalf(1-3)[Ac(1-2)]bDGalpN(1-3)[aDGalp(1-2)]aDGalp(1-4
 
 CAI34217.1:
 
-![](/Users/idamei/phd/data/csdb/images/7093.gif)
+![](../../../csdb/images/7093.gif)
 
 CSDB record ID: 7093
 
@@ -1746,7 +1746,7 @@ CSDB linear: -5)[Ac(1-6)]bDGalf(1-3)[Ac(1-2)]bDGalpN(1-3)[aDGalp(1-2)]aDGalp(1-3
 
 CAI34236.1:
 
-![](/Users/idamei/phd/data/csdb/images/7094.gif)
+![](../../../csdb/images/7094.gif)
 
 CSDB record ID: 7094
 
@@ -1754,7 +1754,7 @@ CSDB linear: -5)[Ac(1-2)]bDGalf(1-3)[Ac(1-2)]bDGalpN(1-3)[aDGalp(1-2)]aDGalp(1-4
 
 CAI34388.1:
 
-![](/Users/idamei/phd/data/csdb/images/1984.gif)
+![](../../../csdb/images/1984.gif)
 
 CSDB record ID: 1984
 
@@ -1834,7 +1834,7 @@ Average length of proteins in cluster: 431.6
 
 CAI32935.1:
 
-![](/Users/idamei/phd/data/csdb/images/1949.gif)
+![](../../../csdb/images/1949.gif)
 
 CSDB record ID: 1949
 
@@ -1842,7 +1842,7 @@ CSDB linear: -6)[bDGalp(1-2)]aDGalp(1-3)[Ac(1-2)]bLRhap(1-4)bDGlcp(1-3)[Ac(1-2)a
 
 CAI32867.1:
 
-![](/Users/idamei/phd/data/csdb/images/2624.gif)
+![](../../../csdb/images/2624.gif)
 
 CSDB record ID: 2624
 
@@ -1915,7 +1915,7 @@ Average length of proteins in cluster: 427.7
 
 WP_097449287.1:
 
-![](/Users/idamei/phd/data/csdb/images/699.gif)
+![](../../../csdb/images/699.gif)
 
 CSDB record ID: 699
 
@@ -1998,7 +1998,7 @@ Average length of proteins in cluster: 448.1
 
 ABF01010.1:
 
-![](/Users/idamei/phd/data/csdb/images/1537.gif)
+![](../../../csdb/images/1537.gif)
 
 CSDB record ID: 1537
 
@@ -2006,7 +2006,7 @@ CSDB linear: -2)xRGro(1-P-4)[Ac(1-2)]bDGlcpN(1-3)[Ac(1-2)]bDGalf(1-3)[Ac(1-2)]aD
 
 ACK44379.1:
 
-![](/Users/idamei/phd/data/csdb/images/1549.gif)
+![](../../../csdb/images/1549.gif)
 
 CSDB record ID: 1549
 
@@ -2014,7 +2014,7 @@ CSDB linear: -2)xRGro(1-P-4)[aDGlcp(1-3),Ac(1-2)]bDGlcpN(1-3)[Ac(1-2)]bDGalf(1-3
 
 BAQ02048.1:
 
-![](/Users/idamei/phd/data/csdb/images/1929.gif)
+![](../../../csdb/images/1929.gif)
 
 CSDB record ID: 1929
 
@@ -2022,7 +2022,7 @@ CSDB linear: -4)[Ac(1-2)]bDGalpN(1-4)bDGlcpA(1-3)bDRibf(1-4)bDGalp(1-3)[Ac(1-2)]
 
 AAM27546.1:
 
-![](/Users/idamei/phd/data/csdb/images/6636.gif)
+![](../../../csdb/images/6636.gif)
 
 CSDB record ID: 6636
 
@@ -2093,7 +2093,7 @@ Average length of proteins in cluster: 403.3
 
 ADI43263.1:
 
-![](/Users/idamei/phd/data/csdb/images/12694.gif)
+![](../../../csdb/images/12694.gif)
 
 CSDB record ID: 12694
 
@@ -2101,7 +2101,7 @@ CSDB linear: -4)[bDGlcp(1-6),aLRhap(1-3)]aDGlcp(1-3)[Ac(1-2)]aLFucpN(1-3)[Ac(1-2
 
 ADR74237.1:
 
-![](/Users/idamei/phd/data/csdb/images/1848.gif)
+![](../../../csdb/images/1848.gif)
 
 CSDB record ID: 1848
 
@@ -2177,7 +2177,7 @@ Average length of proteins in cluster: 412.0
 
 AAZ85713.1:
 
-![](/Users/idamei/phd/data/csdb/images/1880.gif)
+![](../../../csdb/images/1880.gif)
 
 CSDB record ID: 1880
 
@@ -2185,7 +2185,7 @@ CSDB linear: -2)aLRhap(1-3)aLRhap(1-4)[Ac(1-2)]aDGalpNA(1-3)[Ac(1-2)]bDGlcpN(1-
 
 AAM27766.1:
 
-![](/Users/idamei/phd/data/csdb/images/24032.gif)
+![](../../../csdb/images/24032.gif)
 
 CSDB record ID: 24032
 
@@ -2193,7 +2193,7 @@ CSDB linear: -2)[Ac(1-3)]aLRhap(1-6)[Ac(1-2)]aDGlcpN(1-4)[Ac(1-3),Ac(1-2)]aLGalp
 
 AAM27615.1:
 
-![](/Users/idamei/phd/data/csdb/images/24042.gif)
+![](../../../csdb/images/24042.gif)
 
 CSDB record ID: 24042
 
@@ -2201,7 +2201,7 @@ CSDB linear: -2)aLRhap(1-3)aLRhap(1-4)[Ac(1-3),Ac(1-2)]aDGalpNA(1-3)[Ac(1-2)]bDQ
 
 AAM27645.1:
 
-![](/Users/idamei/phd/data/csdb/images/3929.gif)
+![](../../../csdb/images/3929.gif)
 
 CSDB record ID: 3929
 
@@ -2287,7 +2287,7 @@ Average length of proteins in cluster: 369.7
 
 BAQ00846.1:
 
-![](/Users/idamei/phd/data/csdb/images/1544.gif)
+![](../../../csdb/images/1544.gif)
 
 CSDB record ID: 1544
 
@@ -2295,7 +2295,7 @@ CSDB linear: -4)[xDGro(1-P-3),Ac(1-2)]bDGalpN(1-3)aDGalp(1-4)bDGalp(1-3)[Ac(1-2)
 
 BAQ00975.1:
 
-![](/Users/idamei/phd/data/csdb/images/1555.gif)
+![](../../../csdb/images/1555.gif)
 
 CSDB record ID: 1555
 
@@ -2303,7 +2303,7 @@ CSDB linear: -4)[Ac(1-2)[Ac(1-3)]aDGalpA(1-3),Ac(1-2)]bDGalpN(1-3)aDGalp(1-4)aLR
 
 ACD37014.1:
 
-![](/Users/idamei/phd/data/csdb/images/1852.gif)
+![](../../../csdb/images/1852.gif)
 
 CSDB record ID: 1852
 
@@ -2311,7 +2311,7 @@ CSDB linear: -4)[xSPyr(2-6:2-4)[Ac(1-2)]bDGlcpN(1-3),Ac(1-2)]aDGalpN(1-4)aDGlcp(
 
 ACD37157.1:
 
-![](/Users/idamei/phd/data/csdb/images/1871.gif)
+![](../../../csdb/images/1871.gif)
 
 CSDB record ID: 1871
 
@@ -2319,7 +2319,7 @@ CSDB linear: -4)[Ac(1-2)[x?Gro(2-P-4)]bDGalpN(1-3)]aDGalp(1-6)bDGlcp(1-3)[Ac(1-2
 
 BAQ01494.1, AFS33314.1:
 
-![](/Users/idamei/phd/data/csdb/images/1841.gif)
+![](../../../csdb/images/1841.gif)
 
 CSDB record ID: 1841
 
@@ -2327,7 +2327,7 @@ CSDB linear: -4)[aLRhap(1-4)[Ac(1-2)]bDGalpN(1-3)]aDGalp(1-6)bDGlcp(1-3)[Ac(1-2)
 
 ACD37006.1:
 
-![](/Users/idamei/phd/data/csdb/images/1869.gif)
+![](../../../csdb/images/1869.gif)
 
 CSDB record ID: 1869
 
@@ -2335,7 +2335,7 @@ CSDB linear: -4)[xSPyr(2-6:2-4)[70%Ac(1-3),Ac(1-2)]bDGlcpN(1-3),Ac(1-2)]aDGalpN(
 
 AFW04741.1:
 
-![](/Users/idamei/phd/data/csdb/images/30351.gif)
+![](../../../csdb/images/30351.gif)
 
 CSDB record ID: 30351
 
@@ -2407,7 +2407,7 @@ Average length of proteins in cluster: 396.9
 
 ADC54950.1:
 
-![](/Users/idamei/phd/data/csdb/images/20645.gif)
+![](../../../csdb/images/20645.gif)
 
 CSDB record ID: 20645
 
@@ -2415,7 +2415,7 @@ CSDB linear: -2)aLRhap(1-6)aDGlcp(1-4)[Ac(1-2)bDGlcpN(1-3)]aDGalp(1-3)[Ac(1-2)]a
 
 BAQ00669.1:
 
-![](/Users/idamei/phd/data/csdb/images/1524.gif)
+![](../../../csdb/images/1524.gif)
 
 CSDB record ID: 1524
 
@@ -2423,7 +2423,7 @@ CSDB linear: -3)aLRhap(1-6)aDGlcp(1-4)[bDGlcp(1-3)]aDGalp(1-3)[Ac(1-2)]aDGlcpN(1
 
 BAQ01732.1:
 
-![](/Users/idamei/phd/data/csdb/images/1884.gif)
+![](../../../csdb/images/1884.gif)
 
 CSDB record ID: 1884
 
@@ -2431,7 +2431,7 @@ CSDB linear: -2)aLRhap(1-6)[Ac(1-2)]aDGalpN(1-4)[Ac(1-2)bDGlcpN(1-3),Ac(1-2)]aDG
 
 BAQ00687.1:
 
-![](/Users/idamei/phd/data/csdb/images/1521.gif)
+![](../../../csdb/images/1521.gif)
 
 CSDB record ID: 1521
 
@@ -2503,7 +2503,7 @@ Average length of proteins in cluster: 402.1
 
 BAQ00758.1:
 
-![](/Users/idamei/phd/data/csdb/images/736.gif)
+![](../../../csdb/images/736.gif)
 
 CSDB record ID: 736
 
@@ -2511,7 +2511,7 @@ CSDB linear: -3)bDGlcp(1-3)xDGro(1-P-4)[Ac(1-2)]bDGlcpN(1-3)[Ac(1-2)]aDGlcpN(1-
 
 BAQ00879.1:
 
-![](/Users/idamei/phd/data/csdb/images/1383.gif)
+![](../../../csdb/images/1383.gif)
 
 CSDB record ID: 1383
 
@@ -2519,7 +2519,7 @@ CSDB linear: -3)[lR3HOBut(1-4)]bDQuip4N(1-2)[aDGalp(1-3)]aDManp(1-4)aLRhap(1-3)[
 
 ABG81806.1, BAQ02224.1:
 
-![](/Users/idamei/phd/data/csdb/images/697.gif)
+![](../../../csdb/images/697.gif)
 
 CSDB record ID: 697
 
@@ -2527,7 +2527,7 @@ CSDB linear: -3)[lS3HOBut(1-2)xDAla?(1-4)]bDQuip4N(1-6)[Ac(1-2)]aDGlcpN(1-3)[Ac(
 
 BAQ02068.1, AJR19430.1:
 
-![](/Users/idamei/phd/data/csdb/images/1933.gif)
+![](../../../csdb/images/1933.gif)
 
 CSDB record ID: 1933
 
@@ -2535,7 +2535,7 @@ CSDB linear: -3)[lS3HOBut(1-2)xDAla?(1-4)]bDQuip4N(1-6)aDGlcp(1-3)[Ac(1-2)]aLQui
 
 AAD44158.1, BAH24292.1:
 
-![](/Users/idamei/phd/data/csdb/images/1385.gif)
+![](../../../csdb/images/1385.gif)
 
 CSDB record ID: 1385
 
@@ -2543,7 +2543,7 @@ CSDB linear: -3)[Ac(1-4)]bDQuip4N(1-2)[aLRhap(1-3)]aDManp(1-4)bDGalp(1-3)[Ac(1-2
 
 AFC91472.1, AFC91514.1, AAO39700.1, AFC91570.1:
 
-![](/Users/idamei/phd/data/csdb/images/1861.gif)
+![](../../../csdb/images/1861.gif)
 
 CSDB record ID: 1861
 
@@ -2551,7 +2551,7 @@ CSDB linear: -3)[Ac(1-2)xXGly(1-4)]bDQuip4N(1-4)[NH2(1-6),60%Ac(1-3),Ac(1-2)]aDG
 
 AAR97964.1:
 
-![](/Users/idamei/phd/data/csdb/images/108660.gif)
+![](../../../csdb/images/108660.gif)
 
 CSDB record ID: 108660
 
@@ -2623,7 +2623,7 @@ Average length of proteins in cluster: 357.0
 
 ACH97162.1:
 
-![](/Users/idamei/phd/data/csdb/images/1529.gif)
+![](../../../csdb/images/1529.gif)
 
 CSDB record ID: 1529
 
@@ -2694,7 +2694,7 @@ Average length of proteins in cluster: 374.2
 
 BAQ00994.1:
 
-![](/Users/idamei/phd/data/csdb/images/1556.gif)
+![](../../../csdb/images/1556.gif)
 
 CSDB record ID: 1556
 
@@ -2702,7 +2702,7 @@ CSDB linear: -2)[lS3HOBut(1-4)]aDQuip4N(1-4)[Ac(1-2)]bDGalpN(1-4)aLRhap(1-3)[30%
 
 ADC54974.1:
 
-![](/Users/idamei/phd/data/csdb/images/1591.gif)
+![](../../../csdb/images/1591.gif)
 
 CSDB record ID: 1591
 
@@ -2710,7 +2710,7 @@ CSDB linear: -2)[aDGalf(1-4)]aDGalp(1-3)[Ac(1-2)]bDManpN(1-6)bDGalf(1-3)[Ac(1-2)
 
 BAQ01917.1:
 
-![](/Users/idamei/phd/data/csdb/images/1917.gif)
+![](../../../csdb/images/1917.gif)
 
 CSDB record ID: 1917
 
@@ -2718,7 +2718,7 @@ CSDB linear: -2)aDGlcp(1-4)aDGlcpA(1-3)aDManp(1-2)aDManp(1-3)[Ac(1-2)]bDGalpN(1-
 
 CAN87666.1:
 
-![](/Users/idamei/phd/data/csdb/images/1552.gif)
+![](../../../csdb/images/1552.gif)
 
 CSDB record ID: 1552
 
@@ -2726,7 +2726,7 @@ CSDB linear: -2)bDGlcp(1-3)[Ac(1-2)]aL6dTalp(1-3)[Ac(1-2)]aDFucpN(1-
 
 AFW04828.1:
 
-![](/Users/idamei/phd/data/csdb/images/3367.gif)
+![](../../../csdb/images/3367.gif)
 
 CSDB record ID: 3367
 
@@ -2734,7 +2734,7 @@ CSDB linear: -2)aDGlcp(1-6)aDGlcp(1-4)[Ac(1-2)bDGlcpN(1-3)]aDGalp(1-3)[Ac(1-2)]b
 
 AFW04837.1:
 
-![](/Users/idamei/phd/data/csdb/images/26312.gif)
+![](../../../csdb/images/26312.gif)
 
 CSDB record ID: 26312
 
@@ -2794,7 +2794,7 @@ Average length of proteins in cluster: 400.2
 
 ABI55342.1:
 
-![](/Users/idamei/phd/data/csdb/images/714.gif)
+![](../../../csdb/images/714.gif)
 
 CSDB record ID: 714
 
@@ -2854,7 +2854,7 @@ Average length of proteins in cluster: 368.2
 
 AAN23078.1:
 
-![](/Users/idamei/phd/data/csdb/images/12135.gif)
+![](../../../csdb/images/12135.gif)
 
 CSDB record ID: 12135
 
@@ -2862,7 +2862,7 @@ CSDB linear: -3)[aXAbep(1-3)bD6dmanHepp(1-4)]aDGalp(1-3)[Ac(1-2)]bDGlcpN(1-
 
 AAN23057.1:
 
-![](/Users/idamei/phd/data/csdb/images/12136.gif)
+![](../../../csdb/images/12136.gif)
 
 CSDB record ID: 12136
 
@@ -2934,7 +2934,7 @@ Average length of proteins in cluster: 408.4
 
 WP_000905563.1, AAO68867.1:
 
-![](/Users/idamei/phd/data/csdb/images/21859.gif)
+![](../../../csdb/images/21859.gif)
 
 CSDB record ID: 21859
 
@@ -2942,7 +2942,7 @@ CSDB linear: -2)[aXTyvp(1-4)]aDManp(1-4)aLRhap(1-3)[aDGlcp(1-4)]aDGalp(1-
 
 AAV77445.1, CAR59582.1:
 
-![](/Users/idamei/phd/data/csdb/images/7418.gif)
+![](../../../csdb/images/7418.gif)
 
 CSDB record ID: 7418
 
@@ -2950,7 +2950,7 @@ CSDB linear: -2)[aXParp(1-3)]aDManp(1-4)[Ac(1-3)]aLRhap(1-3)[aDGlcp(1-6)]aDGalp(
 
 CAR37642.1:
 
-![](/Users/idamei/phd/data/csdb/images/30403.gif)
+![](../../../csdb/images/30403.gif)
 
 CSDB record ID: 30403
 
@@ -2958,7 +2958,7 @@ CSDB linear: -2)[aXTyvp(1-3)]aDManp(1-4)aLRhap(1-3)aDGalp(1-
 
 AAL20257.1:
 
-![](/Users/idamei/phd/data/csdb/images/30397.gif)
+![](../../../csdb/images/30397.gif)
 
 CSDB record ID: 30397
 
@@ -3015,7 +3015,7 @@ Average length of proteins in cluster: 410.4
 
 ADI43271.1:
 
-![](/Users/idamei/phd/data/csdb/images/1535.gif)
+![](../../../csdb/images/1535.gif)
 
 CSDB record ID: 1535
 
@@ -3070,7 +3070,7 @@ Average length of proteins in cluster: 376.9
 
 BAQ00957.1:
 
-![](/Users/idamei/phd/data/csdb/images/1554.gif)
+![](../../../csdb/images/1554.gif)
 
 CSDB record ID: 1554
 
@@ -3078,7 +3078,7 @@ CSDB linear: -4)[70%Ac(1-3)xLThr(2-6)]bDGlcpA(1-6)bDGalp(1-6)bDGlcp(1-3)[15%Ac(1
 
 BAQ01812.1:
 
-![](/Users/idamei/phd/data/csdb/images/1901.gif)
+![](../../../csdb/images/1901.gif)
 
 CSDB record ID: 1901
 
@@ -3086,7 +3086,7 @@ CSDB linear: -4)[bDGlcp(1-6),Ac(1-2)]bDGlcpN(1-3)aDGalp(1-P-6)bDGalp(1-3)[Ac(1-2
 
 BAQ01687.1:
 
-![](/Users/idamei/phd/data/csdb/images/1876.gif)
+![](../../../csdb/images/1876.gif)
 
 CSDB record ID: 1876
 
@@ -3138,7 +3138,7 @@ Average length of proteins in cluster: 379.6
 
 CAI34008.1:
 
-![](/Users/idamei/phd/data/csdb/images/7085.gif)
+![](../../../csdb/images/7085.gif)
 
 CSDB record ID: 7085
 
@@ -3205,7 +3205,7 @@ Average length of proteins in cluster: 429.9
 
 CAI33798.1:
 
-![](/Users/idamei/phd/data/csdb/images/625.gif)
+![](../../../csdb/images/625.gif)
 
 CSDB record ID: 625
 
@@ -3268,7 +3268,7 @@ Average length of proteins in cluster: 441.7
 
 ACD75796.1:
 
-![](/Users/idamei/phd/data/csdb/images/1570.gif)
+![](../../../csdb/images/1570.gif)
 
 CSDB record ID: 1570
 
@@ -3327,7 +3327,7 @@ Average length of proteins in cluster: 405.1
 
 AAK60458.1:
 
-![](/Users/idamei/phd/data/csdb/images/895.gif)
+![](../../../csdb/images/895.gif)
 
 CSDB record ID: 895
 
@@ -3394,7 +3394,7 @@ Average length of proteins in cluster: 432.2
 
 AKA20935.1:
 
-![](/Users/idamei/phd/data/csdb/images/12128.gif)
+![](../../../csdb/images/12128.gif)
 
 CSDB record ID: 12128
 
@@ -3402,7 +3402,7 @@ CSDB linear: -6)[aXAbep(1-3)]aDManp(1-2)aDManp(1-2)bDManp(1-3)[Ac(1-2)]aDGalpN(1
 
 AKA20966.1:
 
-![](/Users/idamei/phd/data/csdb/images/12129.gif)
+![](../../../csdb/images/12129.gif)
 
 CSDB record ID: 12129
 
@@ -3410,7 +3410,7 @@ CSDB linear: -6)[aXTyvp(1-2)]aDManp(1-2)aDManp(1-2)bDManp(1-3)[Ac(1-2)]aDGalpN(1
 
 AAY23739.1, BAQ02177.1:
 
-![](/Users/idamei/phd/data/csdb/images/1583.gif)
+![](../../../csdb/images/1583.gif)
 
 CSDB record ID: 1583
 
@@ -3418,7 +3418,7 @@ CSDB linear: -6)aDManp(1-2)aDManp(1-2)bDManp(1-3)[Ac(1-2)]aDGlcpN(1-
 
 AAY23733.1:
 
-![](/Users/idamei/phd/data/csdb/images/1578.gif)
+![](../../../csdb/images/1578.gif)
 
 CSDB record ID: 1578
 
@@ -3426,7 +3426,7 @@ CSDB linear: -6)aDManp(1-2)[aDGlcp(1-4)]aDManp(1-2)[aDGlcp(1-3)]bDManp(1-3)[Ac(1
 
 AAY23745.1:
 
-![](/Users/idamei/phd/data/csdb/images/1845.gif)
+![](../../../csdb/images/1845.gif)
 
 CSDB record ID: 1845
 
@@ -3434,7 +3434,7 @@ CSDB linear: -6)aDManp(1-2)aDManp(1-2)[aDGlcp(1-4)]bDManp(1-3)[aDGlcp(1-6),Ac(1-
 
 BAQ01935.1:
 
-![](/Users/idamei/phd/data/csdb/images/1918.gif)
+![](../../../csdb/images/1918.gif)
 
 CSDB record ID: 1918
 
@@ -3442,7 +3442,7 @@ CSDB linear: -4)aDManp(1-2)aDManp(1-2)bDManp(1-3)[Ac(1-2)]aDGalpN(1-
 
 BAQ02105.1:
 
-![](/Users/idamei/phd/data/csdb/images/1520.gif)
+![](../../../csdb/images/1520.gif)
 
 CSDB record ID: 1520
 
@@ -3450,7 +3450,7 @@ CSDB linear: -6)aDManp(1-2)aDManp(1-2)bDManp(1-3)[aDGlcp(1-6),Ac(1-2)]aDGlcpN(1-
 
 BAQ00945.1:
 
-![](/Users/idamei/phd/data/csdb/images/1551.gif)
+![](../../../csdb/images/1551.gif)
 
 CSDB record ID: 1551
 
@@ -3501,7 +3501,7 @@ Average length of proteins in cluster: 425.9
 
 AAM27595.1:
 
-![](/Users/idamei/phd/data/csdb/images/31934.gif)
+![](../../../csdb/images/31934.gif)
 
 CSDB record ID: 31934
 
@@ -3558,7 +3558,7 @@ Average length of proteins in cluster: 395.6
 
 CAI33515.1:
 
-![](/Users/idamei/phd/data/csdb/images/815.gif)
+![](../../../csdb/images/815.gif)
 
 CSDB record ID: 815
 
@@ -3566,7 +3566,7 @@ CSDB linear: -3)bLRhap(1-4)bDGlcp(1-3)aDGalp(1-3)[bDGalp(1-4),80%Ac(1-2)]bLRhap(
 
 CAI33491.1:
 
-![](/Users/idamei/phd/data/csdb/images/7070.gif)
+![](../../../csdb/images/7070.gif)
 
 CSDB record ID: 7070
 
@@ -3623,7 +3623,7 @@ Average length of proteins in cluster: 447.0
 
 AAM27560.1:
 
-![](/Users/idamei/phd/data/csdb/images/11180.gif)
+![](../../../csdb/images/11180.gif)
 
 CSDB record ID: 11180
 
@@ -3631,7 +3631,7 @@ CSDB linear: -3)[Ac(1-2)]aLRhap(1-4)[Ac(1-2)]aLGalpNA(1-3)[Ac(1-2)]aDQuipN(1-
 
 AAM27711.1:
 
-![](/Users/idamei/phd/data/csdb/images/11026.gif)
+![](../../../csdb/images/11026.gif)
 
 CSDB record ID: 11026
 
@@ -3740,7 +3740,7 @@ Average length of proteins in cluster: 387.6
 
 ABE98437.1:
 
-![](/Users/idamei/phd/data/csdb/images/1887.gif)
+![](../../../csdb/images/1887.gif)
 
 CSDB record ID: 1887
 
@@ -3748,7 +3748,7 @@ CSDB linear: -2)[lSLac(2-3)aDGlcp(1-3)]aLRhap(1-2)aLRhap(1-4)bDGalp(1-3)[Ac(1-2)
 
 ABI98986.1:
 
-![](/Users/idamei/phd/data/csdb/images/1624.gif)
+![](../../../csdb/images/1624.gif)
 
 CSDB record ID: 1624
 
@@ -3756,7 +3756,7 @@ CSDB linear: -2)aLRhap(1-2)aLRhap(1-4)bDGalpA(1-3)[Ac(1-2)]bDGalpN(1-
 
 ABU80601.1:
 
-![](/Users/idamei/phd/data/csdb/images/188.gif)
+![](../../../csdb/images/188.gif)
 
 CSDB record ID: 188
 
@@ -3817,7 +3817,7 @@ Average length of proteins in cluster: 330.6
 
 AHB32774.1:
 
-![](/Users/idamei/phd/data/csdb/images/493.gif)
+![](../../../csdb/images/493.gif)
 
 CSDB record ID: 493
 
@@ -3825,7 +3825,7 @@ CSDB linear: -3)[Ac(1-2)]bDGlcpN(1-3)[lR3HOBut(1-3)bDQuip3N(1-6)[Ac(1-2)]aDGlcpN
 
 AHB32438.2:
 
-![](/Users/idamei/phd/data/csdb/images/2196.gif)
+![](../../../csdb/images/2196.gif)
 
 CSDB record ID: 2196
 
@@ -3887,7 +3887,7 @@ Average length of proteins in cluster: 403.9
 
 AKA20948.1:
 
-![](/Users/idamei/phd/data/csdb/images/12133.gif)
+![](../../../csdb/images/12133.gif)
 
 CSDB record ID: 12133
 
@@ -3895,7 +3895,7 @@ CSDB linear: -2)aDManp(1-3)[bXParp(1-4)]aLFucp(1-3)[Ac(1-2)]aDGalpN(1-
 
 ACV52983.1:
 
-![](/Users/idamei/phd/data/csdb/images/12124.gif)
+![](../../../csdb/images/12124.gif)
 
 CSDB record ID: 12124
 
@@ -3903,7 +3903,7 @@ CSDB linear: -2)[aL6dAltf(1-3)]bDManp(1-4)aDManp(1-3)aLFucp(1-3)[Ac(1-2)]aDGlcpN
 
 BAQ01843.1:
 
-![](/Users/idamei/phd/data/csdb/images/1905.gif)
+![](../../../csdb/images/1905.gif)
 
 CSDB record ID: 1905
 
@@ -3961,7 +3961,7 @@ Average length of proteins in cluster: 344.3
 
 AHB32888.2:
 
-![](/Users/idamei/phd/data/csdb/images/495.gif)
+![](../../../csdb/images/495.gif)
 
 CSDB record ID: 495
 
@@ -3969,7 +3969,7 @@ CSDB linear: -3)[Ac(1-2)]aDGlcpN(1-2)[bLRhap(1-4)[Ac(1-2)]bDGlcpN(1-3)]aLRhap(1-
 
 AHB32334.1:
 
-![](/Users/idamei/phd/data/csdb/images/483.gif)
+![](../../../csdb/images/483.gif)
 
 CSDB record ID: 483
 
@@ -4026,7 +4026,7 @@ Average length of proteins in cluster: 382.3
 
 ACD37165.1:
 
-![](/Users/idamei/phd/data/csdb/images/1515.gif)
+![](../../../csdb/images/1515.gif)
 
 CSDB record ID: 1515
 
@@ -4034,7 +4034,7 @@ CSDB linear: -2)aLRhap(1-2)aLRhap(1-3)[aDGlcp(1-2)]aLRhap(1-3)[%Ac(1-6),Ac(1-2)]
 
 ACD37173.1:
 
-![](/Users/idamei/phd/data/csdb/images/1877.gif)
+![](../../../csdb/images/1877.gif)
 
 CSDB record ID: 1877
 
@@ -4042,7 +4042,7 @@ CSDB linear: -2)aLRhap(1-2)aLRhap(1-3)[Ac(1-2)]aLRhap(1-3)[aDGlcp(1-6),Ac(1-2)]b
 
 ACD37181.1:
 
-![](/Users/idamei/phd/data/csdb/images/1870.gif)
+![](../../../csdb/images/1870.gif)
 
 CSDB record ID: 1870
 
@@ -4101,7 +4101,7 @@ Average length of proteins in cluster: 427.3
 
 CAI33610.1:
 
-![](/Users/idamei/phd/data/csdb/images/7071.gif)
+![](../../../csdb/images/7071.gif)
 
 CSDB record ID: 7071
 
@@ -4109,7 +4109,7 @@ CSDB linear: -4)bDGlcp(1-4)[x?Gro(1-P-3),Ac(1-6)aDGlcp(1-2)]bDGalp(1-4)aDGlcp(1-
 
 CAI33537.1:
 
-![](/Users/idamei/phd/data/csdb/images/7074.gif)
+![](../../../csdb/images/7074.gif)
 
 CSDB record ID: 7074
 
@@ -4117,7 +4117,7 @@ CSDB linear: -4)bDGlcp(1-4)[xDGro(1-P-3),aDGlcp(1-2)]bDGalp(1-4)[Ac(1-2)]aDGlcpN
 
 CAI33561.1:
 
-![](/Users/idamei/phd/data/csdb/images/846.gif)
+![](../../../csdb/images/846.gif)
 
 CSDB record ID: 846
 
@@ -4125,7 +4125,7 @@ CSDB linear: -4)bDGlcp(1-4)[xDGro(1-P-3),aDGlcp(1-2)]bDGalp(1-4)aDGlcp(1-3)bLRha
 
 CAI33585.1:
 
-![](/Users/idamei/phd/data/csdb/images/939.gif)
+![](../../../csdb/images/939.gif)
 
 CSDB record ID: 939
 
@@ -4181,7 +4181,7 @@ Average length of proteins in cluster: 377.0
 
 BAQ00634.1:
 
-![](/Users/idamei/phd/data/csdb/images/1514.gif)
+![](../../../csdb/images/1514.gif)
 
 CSDB record ID: 1514
 
@@ -4189,7 +4189,7 @@ CSDB linear: -2)bDGlcp(1-6)[Ac(1-2)]aDGlcpN(1-3)[Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]bD
 
 ACA24852.1:
 
-![](/Users/idamei/phd/data/csdb/images/1538.gif)
+![](../../../csdb/images/1538.gif)
 
 CSDB record ID: 1538
 
@@ -4197,7 +4197,7 @@ CSDB linear: -3)xDGro(1-P-6)bDGlcp(1-4)[aDGlcp(1-6)aDGalp(1-3),Ac(1-2)]aLFucpN(1
 
 ACA24840.1:
 
-![](/Users/idamei/phd/data/csdb/images/1932.gif)
+![](../../../csdb/images/1932.gif)
 
 CSDB record ID: 1932
 
@@ -4205,7 +4205,7 @@ CSDB linear: -3)xDGro(1-P-6)bDGlcp(1-4)[aDGlcp(1-6)[Ac(1-2)]aDGalp(1-3),Ac(1-2)]
 
 AAM27879.1:
 
-![](/Users/idamei/phd/data/csdb/images/24037.gif)
+![](../../../csdb/images/24037.gif)
 
 CSDB record ID: 24037
 
@@ -4262,7 +4262,7 @@ Average length of proteins in cluster: 384.1
 
 ACD37026.1:
 
-![](/Users/idamei/phd/data/csdb/images/1931.gif)
+![](../../../csdb/images/1931.gif)
 
 CSDB record ID: 1931
 
@@ -4315,7 +4315,7 @@ Average length of proteins in cluster: 416.3
 
 BAQ01584.1:
 
-![](/Users/idamei/phd/data/csdb/images/1860.gif)
+![](../../../csdb/images/1860.gif)
 
 CSDB record ID: 1860
 
@@ -4323,7 +4323,7 @@ CSDB linear: -3)[aLRhap(1-4)]aDGlcpA(1-2)aLRhap(1-2)aLRhap(1-2)aDGalp(1-3)[Ac(1-
 
 BAQ01641.1:
 
-![](/Users/idamei/phd/data/csdb/images/1873.gif)
+![](../../../csdb/images/1873.gif)
 
 CSDB record ID: 1873
 
@@ -4378,7 +4378,7 @@ Average length of proteins in cluster: 409.3
 
 CAI33105.1:
 
-![](/Users/idamei/phd/data/csdb/images/7049.gif)
+![](../../../csdb/images/7049.gif)
 
 CSDB record ID: 7049
 
@@ -4386,7 +4386,7 @@ CSDB linear: -4)[bDGalf(1-6),Ac(1-2)]bDGalpN(1-3)aDGalp(1-4)xDRib-ol(5-P-5)bDGal
 
 CAI33048.1:
 
-![](/Users/idamei/phd/data/csdb/images/1953.gif)
+![](../../../csdb/images/1953.gif)
 
 CSDB record ID: 1953
 
@@ -4394,7 +4394,7 @@ CSDB linear: -5)bDGalf(1-3)bDGalp(1-4)[bDGalp(1-6),bDGalf(1-3),Ac(1-2)]bDGalpN(1
 
 CAI34733.1:
 
-![](/Users/idamei/phd/data/csdb/images/7051.gif)
+![](../../../csdb/images/7051.gif)
 
 CSDB record ID: 7051
 
@@ -4402,7 +4402,7 @@ CSDB linear: -4)[bDGalf(1-3),Ac(1-2)]bDGalpN(1-3)aDGalp(1-4)xDRib-ol(5-P-5)bDGal
 
 CAI33084.1:
 
-![](/Users/idamei/phd/data/csdb/images/7052.gif)
+![](../../../csdb/images/7052.gif)
 
 CSDB record ID: 7052
 
@@ -4410,7 +4410,7 @@ CSDB linear: -4)[bDGalf(1-6),Ac(1-2)]bDGalpN(1-3)aDGalp(1-2)xDRib-ol(5-P-5)bDGal
 
 CAI34436.1:
 
-![](/Users/idamei/phd/data/csdb/images/3663.gif)
+![](../../../csdb/images/3663.gif)
 
 CSDB record ID: 3663
 
@@ -4464,7 +4464,7 @@ Average length of proteins in cluster: 381.6
 
 ABK27355.1, ABK27354.1, ABK27351.1, BAI31288.1, ABK27350.1, ABK27321.1, ABK27352.1:
 
-![](/Users/idamei/phd/data/csdb/images/1842.gif)
+![](../../../csdb/images/1842.gif)
 
 CSDB record ID: 1842
 
@@ -4518,7 +4518,7 @@ Average length of proteins in cluster: 399.5
 
 CAI33862.1:
 
-![](/Users/idamei/phd/data/csdb/images/1964.gif)
+![](../../../csdb/images/1964.gif)
 
 CSDB record ID: 1964
 
@@ -4526,7 +4526,7 @@ CSDB linear: -4)bDGlcp(1-4)[x?Gro(2-P-3),aLRhap(1-2)]bDGalp(1-4)bLRhap(1-
 
 CAI33840.1:
 
-![](/Users/idamei/phd/data/csdb/images/7083.gif)
+![](../../../csdb/images/7083.gif)
 
 CSDB record ID: 7083
 
@@ -4580,7 +4580,7 @@ Average length of proteins in cluster: 398.1
 
 BAQ01793.1:
 
-![](/Users/idamei/phd/data/csdb/images/1897.gif)
+![](../../../csdb/images/1897.gif)
 
 CSDB record ID: 1897
 
@@ -4588,7 +4588,7 @@ CSDB linear: -4)[xRPyr(2-6:2-4)[Ac(1-2)]aDGalp(1-3)]aLFucp(1-6)aDGalp(1-3)aLFucp
 
 BAQ01878.1:
 
-![](/Users/idamei/phd/data/csdb/images/1407.gif)
+![](../../../csdb/images/1407.gif)
 
 CSDB record ID: 1407
 
@@ -4644,7 +4644,7 @@ Average length of proteins in cluster: 394.2
 
 BAQ01533.1:
 
-![](/Users/idamei/phd/data/csdb/images/1849.gif)
+![](../../../csdb/images/1849.gif)
 
 CSDB record ID: 1849
 
@@ -4697,7 +4697,7 @@ Average length of proteins in cluster: 368.3
 
 ABI98976.1:
 
-![](/Users/idamei/phd/data/csdb/images/1883.gif)
+![](../../../csdb/images/1883.gif)
 
 CSDB record ID: 1883
 
@@ -4749,7 +4749,7 @@ Average length of proteins in cluster: 396.3
 
 WP_001529369.1, WP_000936589.1:
 
-![](/Users/idamei/phd/data/csdb/images/27410.gif)
+![](../../../csdb/images/27410.gif)
 
 CSDB record ID: 27410
 
@@ -4757,7 +4757,7 @@ CSDB linear: -4)[aXAbep(1-3)]bLRhap(1-2)aDManp(1-2)aDManp(1-3)[%aDGlcp(1-2)]bDGa
 
 WP_000936592.1, ACF64132.1:
 
-![](/Users/idamei/phd/data/csdb/images/28331.gif)
+![](../../../csdb/images/28331.gif)
 
 CSDB record ID: 28331
 
@@ -4807,7 +4807,7 @@ Average length of proteins in cluster: 396.0
 
 CAA43077.1, AGS07327.1:
 
-![](/Users/idamei/phd/data/csdb/images/30407.gif)
+![](../../../csdb/images/30407.gif)
 
 CSDB record ID: 30407
 
@@ -4815,7 +4815,7 @@ CSDB linear: -6)bDManp(1-4)aLRhap(1-3)[Ac(1-6)]aDGalp(1-
 
 AAB48190.1, AGS07363.1:
 
-![](/Users/idamei/phd/data/csdb/images/30404.gif)
+![](../../../csdb/images/30404.gif)
 
 CSDB record ID: 30404
 
@@ -4823,7 +4823,7 @@ CSDB linear: -6)[aXTyvp(1-3)]bDManp(1-4)aLRhap(1-3)[%aDGlcp(1-4)]aDGalp(1-
 
 AGS07316.1:
 
-![](/Users/idamei/phd/data/csdb/images/30411.gif)
+![](../../../csdb/images/30411.gif)
 
 CSDB record ID: 30411
 
@@ -4867,7 +4867,7 @@ Average length of proteins in cluster: 372.5
 
 ABB04486.1:
 
-![](/Users/idamei/phd/data/csdb/images/1836.gif)
+![](../../../csdb/images/1836.gif)
 
 CSDB record ID: 1836
 
@@ -4918,7 +4918,7 @@ Average length of proteins in cluster: 394.2
 
 CAI33324.1:
 
-![](/Users/idamei/phd/data/csdb/images/5348.gif)
+![](../../../csdb/images/5348.gif)
 
 CSDB record ID: 5348
 
@@ -4926,7 +4926,7 @@ CSDB linear: -4)bDGlcp(1-6)[bDGalp(1-4),Ac(1-2)]bDGlcpN(1-3)bDGalp(1-
 
 CAI33366.1:
 
-![](/Users/idamei/phd/data/csdb/images/1957.gif)
+![](../../../csdb/images/1957.gif)
 
 CSDB record ID: 1957
 
@@ -4934,7 +4934,7 @@ CSDB linear: -6)[%Ac(1-2)[%Ac(1-6),%Ac(1-4),%Ac(1-3)]aDGalp(1-2)[x?Gro(2-P-3)]bD
 
 CAI33389.1:
 
-![](/Users/idamei/phd/data/csdb/images/2251.gif)
+![](../../../csdb/images/2251.gif)
 
 CSDB record ID: 2251
 
@@ -4987,7 +4987,7 @@ Average length of proteins in cluster: 427.1
 
 CBN82200.1:
 
-![](/Users/idamei/phd/data/csdb/images/1576.gif)
+![](../../../csdb/images/1576.gif)
 
 CSDB record ID: 1576
 
@@ -4995,7 +4995,7 @@ CSDB linear: -4)[Ac(1-3)]bDQuip3N(1-3)aDFucp(1-3)bDGalp(1-3)[aDGlcp(1-4),Ac(1-2)
 
 ADI77033.1:
 
-![](/Users/idamei/phd/data/csdb/images/1577.gif)
+![](../../../csdb/images/1577.gif)
 
 CSDB record ID: 1577
 
@@ -5050,7 +5050,7 @@ Average length of proteins in cluster: 465.9
 
 CAI32772.1:
 
-![](/Users/idamei/phd/data/csdb/images/805.gif)
+![](../../../csdb/images/805.gif)
 
 CSDB record ID: 805
 
@@ -5105,7 +5105,7 @@ Average length of proteins in cluster: 346.6
 
 ACV67289.1:
 
-![](/Users/idamei/phd/data/csdb/images/1542.gif)
+![](../../../csdb/images/1542.gif)
 
 CSDB record ID: 1542
 
@@ -5113,7 +5113,7 @@ CSDB linear: -3)[Ac(1-2)[NH2(1-6)]aDGalpNA(1-2)]aLRhap(1-2)aLRhap(1-3)aLRhap(1-2
 
 AFW04785.1:
 
-![](/Users/idamei/phd/data/csdb/images/3359.gif)
+![](../../../csdb/images/3359.gif)
 
 CSDB record ID: 3359
 
@@ -5162,7 +5162,7 @@ Average length of proteins in cluster: 421.1
 
 BAQ01317.1:
 
-![](/Users/idamei/phd/data/csdb/images/1595.gif)
+![](../../../csdb/images/1595.gif)
 
 CSDB record ID: 1595
 
@@ -5209,7 +5209,7 @@ Average length of proteins in cluster: 400.4
 
 AAD45264.1, AAM27574.1:
 
-![](/Users/idamei/phd/data/csdb/images/10219.gif)
+![](../../../csdb/images/10219.gif)
 
 CSDB record ID: 10219
 
@@ -5256,7 +5256,7 @@ Average length of proteins in cluster: 392.7
 
 AAT85653.1:
 
-![](/Users/idamei/phd/data/csdb/images/10216.gif)
+![](../../../csdb/images/10216.gif)
 
 CSDB record ID: 10216
 
@@ -5303,7 +5303,7 @@ Average length of proteins in cluster: 387.7
 
 BAQ01675.1:
 
-![](/Users/idamei/phd/data/csdb/images/1875.gif)
+![](../../../csdb/images/1875.gif)
 
 CSDB record ID: 1875
 
@@ -5311,7 +5311,7 @@ CSDB linear: -3)aLRhap(1-2)aLRhap(1-2)aLRhap(1-4)[aDGlcp(1-3)]aDGalpA(1-3)[Ac(1-
 
 ACD37126.1:
 
-![](/Users/idamei/phd/data/csdb/images/3982.gif)
+![](../../../csdb/images/3982.gif)
 
 CSDB record ID: 3982
 
@@ -5358,7 +5358,7 @@ Average length of proteins in cluster: 404.2
 
 BAQ00858.1:
 
-![](/Users/idamei/phd/data/csdb/images/1545.gif)
+![](../../../csdb/images/1545.gif)
 
 CSDB record ID: 1545
 
@@ -5366,7 +5366,7 @@ CSDB linear: -6)[Ac(1-2)]bDGlcpN(1-3)[Ac(1-2)aDGlcpN(1-4),Ac(1-2)]bDGalpN(1-4)bD
 
 WP_016238111.1:
 
-![](/Users/idamei/phd/data/csdb/images/1587.gif)
+![](../../../csdb/images/1587.gif)
 
 CSDB record ID: 1587
 
@@ -5374,7 +5374,7 @@ CSDB linear: -6)[Ac(1-2)]bDGalpN(1-4)[xDGro(1-P-3),Ac(1-2)]bDGalpN(1-4)[aDGalp(1
 
 ACA24776.1:
 
-![](/Users/idamei/phd/data/csdb/images/11557.gif)
+![](../../../csdb/images/11557.gif)
 
 CSDB record ID: 11557
 
@@ -5466,7 +5466,7 @@ Average length of proteins in cluster: 381.6
 
 BAQ01361.1:
 
-![](/Users/idamei/phd/data/csdb/images/1596.gif)
+![](../../../csdb/images/1596.gif)
 
 CSDB record ID: 1596
 
@@ -5474,7 +5474,7 @@ CSDB linear: -4)[<<Ac(1-3)|Ac(1-2)>>]aLFucp(1-2)bDGalp(1-3)[Ac(1-2)]aDGalpN(1-3)
 
 CAS09721.1, AAR90892.1:
 
-![](/Users/idamei/phd/data/csdb/images/1866.gif)
+![](../../../csdb/images/1866.gif)
 
 CSDB record ID: 1866
 
@@ -5519,7 +5519,7 @@ Average length of proteins in cluster: 439.6
 
 CAI32705.1:
 
-![](/Users/idamei/phd/data/csdb/images/31499.gif)
+![](../../../csdb/images/31499.gif)
 
 CSDB record ID: 31499
 
@@ -5578,7 +5578,7 @@ Average length of proteins in cluster: 326.7
 
 AEP25500.1:
 
-![](/Users/idamei/phd/data/csdb/images/12139.gif)
+![](../../../csdb/images/12139.gif)
 
 CSDB record ID: 12139
 
@@ -5586,7 +5586,7 @@ CSDB linear: -3)[Ac(1-2)]bDGlcpN(1-6)[aXColp(1-2)bXYerp(1-3),Ac(1-2)]aDGalpN(1-3
 
 WP_000482333.1, BAG11898.1:
 
-![](/Users/idamei/phd/data/csdb/images/1562.gif)
+![](../../../csdb/images/1562.gif)
 
 CSDB record ID: 1562
 
@@ -5634,7 +5634,7 @@ Average length of proteins in cluster: 329.0
 
 AHB32242.2:
 
-![](/Users/idamei/phd/data/csdb/images/487.gif)
+![](../../../csdb/images/487.gif)
 
 CSDB record ID: 487
 
@@ -5691,7 +5691,7 @@ Average length of proteins in cluster: 360.2
 
 BAQ01169.1:
 
-![](/Users/idamei/phd/data/csdb/images/1575.gif)
+![](../../../csdb/images/1575.gif)
 
 CSDB record ID: 1575
 
@@ -5699,7 +5699,7 @@ CSDB linear: -3)[70%Ac(1-6),lRLac(2-4),Ac(1-2)]bDGlcpN(1-2)aLRhap(1-2)aLRhap(1-2
 
 ACA24803.1:
 
-![](/Users/idamei/phd/data/csdb/images/715.gif)
+![](../../../csdb/images/715.gif)
 
 CSDB record ID: 715
 
@@ -5707,7 +5707,7 @@ CSDB linear: -3)[lSLac(2-4),Ac(1-2)]bDGlcpN(1-2)aLRhap(1-2)aLRhap(1-3)[bDGlcp(1-
 
 ACA24792.1:
 
-![](/Users/idamei/phd/data/csdb/images/1891.gif)
+![](../../../csdb/images/1891.gif)
 
 CSDB record ID: 1891
 
@@ -5753,7 +5753,7 @@ Average length of proteins in cluster: 413.6
 
 AAZ85718.1:
 
-![](/Users/idamei/phd/data/csdb/images/1881.gif)
+![](../../../csdb/images/1881.gif)
 
 CSDB record ID: 1881
 
@@ -5799,7 +5799,7 @@ Average length of proteins in cluster: 411.9
 
 ABX51880.1:
 
-![](/Users/idamei/phd/data/csdb/images/27329.gif)
+![](../../../csdb/images/27329.gif)
 
 CSDB record ID: 27329
 
@@ -5843,7 +5843,7 @@ Average length of proteins in cluster: 482.9
 
 CAI33817.1:
 
-![](/Users/idamei/phd/data/csdb/images/7084.gif)
+![](../../../csdb/images/7084.gif)
 
 CSDB record ID: 7084
 
@@ -5933,7 +5933,7 @@ Average length of proteins in cluster: 408.1
 
 AAY28257.1:
 
-![](/Users/idamei/phd/data/csdb/images/1919.gif)
+![](../../../csdb/images/1919.gif)
 
 CSDB record ID: 1919
 
@@ -5941,7 +5941,7 @@ CSDB linear: -2)aLRhap(1-3)[Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]bD
 
 AAM27782.1:
 
-![](/Users/idamei/phd/data/csdb/images/24033.gif)
+![](../../../csdb/images/24033.gif)
 
 CSDB record ID: 24033
 
@@ -5992,7 +5992,7 @@ Average length of proteins in cluster: 392.2
 
 CAI33207.1:
 
-![](/Users/idamei/phd/data/csdb/images/7053.gif)
+![](../../../csdb/images/7053.gif)
 
 CSDB record ID: 7053
 
@@ -6000,7 +6000,7 @@ CSDB linear: -6)[x?Rib-ol(1-P-4),Ac(1-3),Ac(1-2)]aDGlcpN(1-4)aDGalp(1-3)[%Ac(1-6
 
 CAI33128.1:
 
-![](/Users/idamei/phd/data/csdb/images/1493.gif)
+![](../../../csdb/images/1493.gif)
 
 CSDB record ID: 1493
 
@@ -6008,7 +6008,7 @@ CSDB linear: -6)[x?Gro(1-P-4),<<50%Ac(1-3)|60%Ac(1-2)>>]aDGlcp(1-4)aDGalp(1-3)[5
 
 CAI33149.1:
 
-![](/Users/idamei/phd/data/csdb/images/7054.gif)
+![](../../../csdb/images/7054.gif)
 
 CSDB record ID: 7054
 
@@ -6016,7 +6016,7 @@ CSDB linear: -6)[x?Rib-ol(1-P-4),%Ac(1-3),Ac(1-2)]aDGlcpN(1-4)[%Ac(1-2)]aDGalp(1
 
 CAI33169.1:
 
-![](/Users/idamei/phd/data/csdb/images/31003.gif)
+![](../../../csdb/images/31003.gif)
 
 CSDB record ID: 31003
 
@@ -6024,7 +6024,7 @@ CSDB linear: -6)[x?Gro(1-P-4),Ac(1-2)]aDGlcpN(1-4)aDGalp(1-3)bDGalp(1-4)bDGlcp(1
 
 CAI33188.1:
 
-![](/Users/idamei/phd/data/csdb/images/7056.gif)
+![](../../../csdb/images/7056.gif)
 
 CSDB record ID: 7056
 
@@ -6075,7 +6075,7 @@ Average length of proteins in cluster: 395.0
 
 ACD37086.1:
 
-![](/Users/idamei/phd/data/csdb/images/705.gif)
+![](../../../csdb/images/705.gif)
 
 CSDB record ID: 705
 
@@ -6083,7 +6083,7 @@ CSDB linear: -4)[Ac(1-2)bDGlcpN(1-3),Ac(1-2)]aDGalpN(1-4)aDGlcp(1-4)aLIdopA(1-3)
 
 BAQ01999.1:
 
-![](/Users/idamei/phd/data/csdb/images/1923.gif)
+![](../../../csdb/images/1923.gif)
 
 CSDB record ID: 1923
 
@@ -6091,7 +6091,7 @@ CSDB linear: -4)[40%Ac(1-6),Ac(1-2)aLQuipN(1-3),Ac(1-2)]aDGalpN(1-6)aDGlcp(1-P-4
 
 ACD37078.1:
 
-![](/Users/idamei/phd/data/csdb/images/1851.gif)
+![](../../../csdb/images/1851.gif)
 
 CSDB record ID: 1851
 
@@ -6139,7 +6139,7 @@ Average length of proteins in cluster: 436.0
 
 CAI33466.1:
 
-![](/Users/idamei/phd/data/csdb/images/1062.gif)
+![](../../../csdb/images/1062.gif)
 
 CSDB record ID: 1062
 
@@ -6193,7 +6193,7 @@ Average length of proteins in cluster: 453.4
 
 CAD19991.1, WP_000864940.1, ADT75640.1:
 
-![](/Users/idamei/phd/data/csdb/images/114261.gif)
+![](../../../csdb/images/114261.gif)
 
 CSDB record ID: 114261
 
@@ -6236,7 +6236,7 @@ Average length of proteins in cluster: 408.2
 
 ADN43858.1:
 
-![](/Users/idamei/phd/data/csdb/images/1879.gif)
+![](../../../csdb/images/1879.gif)
 
 CSDB record ID: 1879
 
@@ -6287,7 +6287,7 @@ Average length of proteins in cluster: 381.9
 
 AAV74543.1:
 
-![](/Users/idamei/phd/data/csdb/images/1516.gif)
+![](../../../csdb/images/1516.gif)
 
 CSDB record ID: 1516
 
@@ -6341,7 +6341,7 @@ Average length of proteins in cluster: 409.1
 
 CAI33278.1:
 
-![](/Users/idamei/phd/data/csdb/images/1955.gif)
+![](../../../csdb/images/1955.gif)
 
 CSDB record ID: 1955
 
@@ -6349,7 +6349,7 @@ CSDB linear: -4)[aDGalp(1-3),Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]bDGalpN(1-4)[aDGlcp(1-
 
 CAI33226.1:
 
-![](/Users/idamei/phd/data/csdb/images/7060.gif)
+![](../../../csdb/images/7060.gif)
 
 CSDB record ID: 7060
 
@@ -6397,7 +6397,7 @@ Average length of proteins in cluster: 399.3
 
 BAQ01716.1:
 
-![](/Users/idamei/phd/data/csdb/images/1882.gif)
+![](../../../csdb/images/1882.gif)
 
 CSDB record ID: 1882
 
@@ -6445,7 +6445,7 @@ Average length of proteins in cluster: 415.1
 
 BAQ00830.1:
 
-![](/Users/idamei/phd/data/csdb/images/1543.gif)
+![](../../../csdb/images/1543.gif)
 
 CSDB record ID: 1543
 
@@ -6499,7 +6499,7 @@ Average length of proteins in cluster: 414.9
 
 CAI33652.1:
 
-![](/Users/idamei/phd/data/csdb/images/2254.gif)
+![](../../../csdb/images/2254.gif)
 
 CSDB record ID: 2254
 
@@ -6507,7 +6507,7 @@ CSDB linear: -4)[bDRibf(1-4)aLRhap(1-3),Ac(1-2)]bDManpN(1-4)aLRhap(1-P-4)[Ac(1-2
 
 CAI33675.1:
 
-![](/Users/idamei/phd/data/csdb/images/2255.gif)
+![](../../../csdb/images/2255.gif)
 
 CSDB record ID: 2255
 
@@ -6553,7 +6553,7 @@ Average length of proteins in cluster: 396.9
 
 CAI32797.1:
 
-![](/Users/idamei/phd/data/csdb/images/1947.gif)
+![](../../../csdb/images/1947.gif)
 
 CSDB record ID: 1947
 
@@ -6607,7 +6607,7 @@ Average length of proteins in cluster: 395.5
 
 AHG15281.1, AFD18613.1, AAX58762.1:
 
-![](/Users/idamei/phd/data/csdb/images/1886.gif)
+![](../../../csdb/images/1886.gif)
 
 CSDB record ID: 1886
 
@@ -6653,7 +6653,7 @@ Average length of proteins in cluster: 402.9
 
 ADV17650.1:
 
-![](/Users/idamei/phd/data/csdb/images/1513.gif)
+![](../../../csdb/images/1513.gif)
 
 CSDB record ID: 1513
 
@@ -6699,7 +6699,7 @@ Average length of proteins in cluster: 438.1
 
 ACA24882.1:
 
-![](/Users/idamei/phd/data/csdb/images/108653.gif)
+![](../../../csdb/images/108653.gif)
 
 CSDB record ID: 108653
 
@@ -6707,7 +6707,7 @@ CSDB linear: -4)[lRLac(2-3)[Ac(1-2)]aLRhap(1-3)]bDManp(1-4)aDManp(1-3)[Ac(1-2)]b
 
 ACA24868.1:
 
-![](/Users/idamei/phd/data/csdb/images/1565.gif)
+![](../../../csdb/images/1565.gif)
 
 CSDB record ID: 1565
 
@@ -6759,7 +6759,7 @@ Average length of proteins in cluster: 451.6
 
 AAO37717.1:
 
-![](/Users/idamei/phd/data/csdb/images/1439.gif)
+![](../../../csdb/images/1439.gif)
 
 CSDB record ID: 1439
 
@@ -6808,7 +6808,7 @@ Average length of proteins in cluster: 340.1
 
 AQU71717.1, AQU71739.1:
 
-![](/Users/idamei/phd/data/csdb/images/7222.gif)
+![](../../../csdb/images/7222.gif)
 
 CSDB record ID: 7222
 
@@ -6816,7 +6816,7 @@ CSDB linear: -3)[Ac(1-2)bDManpN(1-2)]aLRhap(1-3)aLRhap(1-3)bLRhap(1-4)[Ac(1-2)]b
 
 AFW04812.1:
 
-![](/Users/idamei/phd/data/csdb/images/703.gif)
+![](../../../csdb/images/703.gif)
 
 CSDB record ID: 703
 
@@ -6868,7 +6868,7 @@ Average length of proteins in cluster: 391.1
 
 AGS07346.1:
 
-![](/Users/idamei/phd/data/csdb/images/30907.gif)
+![](../../../csdb/images/30907.gif)
 
 CSDB record ID: 30907
 
@@ -6916,7 +6916,7 @@ Average length of proteins in cluster: 380.4
 
 CAI32973.1:
 
-![](/Users/idamei/phd/data/csdb/images/112112.gif)
+![](../../../csdb/images/112112.gif)
 
 CSDB record ID: 112112
 
@@ -6924,7 +6924,7 @@ CSDB linear: -4)aDGlcpA(1-3)aDGalp(1-3)[Ac(1-2)]bDManpN(1-4)aDGlcp(1-4)bDGlcp(1-
 
 CAI32993.1:
 
-![](/Users/idamei/phd/data/csdb/images/7046.gif)
+![](../../../csdb/images/7046.gif)
 
 CSDB record ID: 7046
 
@@ -6932,7 +6932,7 @@ CSDB linear: -4)aDGlcpA(1-3)aDGalp(1-3)[Ac(1-2)]bDManpN(1-4)bDGlcp(1-4)[Ac(1-2)]
 
 CAI33011.1:
 
-![](/Users/idamei/phd/data/csdb/images/7415.gif)
+![](../../../csdb/images/7415.gif)
 
 CSDB record ID: 7415
 
@@ -6940,7 +6940,7 @@ CSDB linear: -4)aDGlcpA(1-3)aDGlcp(1-3)[Ac(1-2)]bDManpN(1-4)bDGlcp(1-4)[Ac(1-2)]
 
 CAI33029.1:
 
-![](/Users/idamei/phd/data/csdb/images/320.gif)
+![](../../../csdb/images/320.gif)
 
 CSDB record ID: 320
 
@@ -6985,7 +6985,7 @@ Average length of proteins in cluster: 489.3
 
 ACA24912.1:
 
-![](/Users/idamei/phd/data/csdb/images/23812.gif)
+![](../../../csdb/images/23812.gif)
 
 CSDB record ID: 23812
 
@@ -7035,7 +7035,7 @@ Average length of proteins in cluster: 350.3
 
 ABI98966.1:
 
-![](/Users/idamei/phd/data/csdb/images/1890.gif)
+![](../../../csdb/images/1890.gif)
 
 CSDB record ID: 1890
 
@@ -7085,7 +7085,7 @@ Average length of proteins in cluster: 412.3
 
 ACD36996.1:
 
-![](/Users/idamei/phd/data/csdb/images/1910.gif)
+![](../../../csdb/images/1910.gif)
 
 CSDB record ID: 1910
 
@@ -7093,7 +7093,7 @@ CSDB linear: -4)[Ac(1-6),aLFucp(1-3),Ac(1-2)]aDGlcpN(1-4)aDGlcpA(1-3)aLFucp(1-3)
 
 ACD36984.1:
 
-![](/Users/idamei/phd/data/csdb/images/1937.gif)
+![](../../../csdb/images/1937.gif)
 
 CSDB record ID: 1937
 
@@ -7143,7 +7143,7 @@ Average length of proteins in cluster: 395.8
 
 BAQ01456.1:
 
-![](/Users/idamei/phd/data/csdb/images/1838.gif)
+![](../../../csdb/images/1838.gif)
 
 CSDB record ID: 1838
 
@@ -7195,7 +7195,7 @@ Average length of proteins in cluster: 405.0
 
 BAQ00736.1:
 
-![](/Users/idamei/phd/data/csdb/images/1530.gif)
+![](../../../csdb/images/1530.gif)
 
 CSDB record ID: 1530
 
@@ -7203,7 +7203,7 @@ CSDB linear: -6)aDGlcp(1-4)bDGlcpA(1-4)[Ac(1-3),Ac(1-2)]bDGalpN(1-3)aDGalp(1-3)[
 
 ACD37058.1:
 
-![](/Users/idamei/phd/data/csdb/images/1540.gif)
+![](../../../csdb/images/1540.gif)
 
 CSDB record ID: 1540
 
@@ -7211,7 +7211,7 @@ CSDB linear: -6)aDGalp(1-4)bDGlcpA(1-6)bDGalp(1-4)[<<30%Ac(1-3)|20%Ac(1-2)>>]bDG
 
 BAQ01277.1:
 
-![](/Users/idamei/phd/data/csdb/images/1589.gif)
+![](../../../csdb/images/1589.gif)
 
 CSDB record ID: 1589
 
@@ -7219,7 +7219,7 @@ CSDB linear: -6)aDGlcp(1-4)bDGlcpA(1-6)bDGalp(1-4)bDGalp(1-4)[Ac(1-2)]bDGlcpN(1-
 
 ACD37051.1:
 
-![](/Users/idamei/phd/data/csdb/images/3977.gif)
+![](../../../csdb/images/3977.gif)
 
 CSDB record ID: 3977
 
@@ -7306,7 +7306,7 @@ Average length of proteins in cluster: 416.1
 
 CAI32889.1:
 
-![](/Users/idamei/phd/data/csdb/images/7041.gif)
+![](../../../csdb/images/7041.gif)
 
 CSDB record ID: 7041
 
@@ -7314,7 +7314,7 @@ CSDB linear: -6)[Ac(1-2)]aDGlcpN(1-2)aLRhap(1-2)bLRhap(1-4)bDGlcp(1-4)[bDRibf(1-
 
 CAI32910.1:
 
-![](/Users/idamei/phd/data/csdb/images/7042.gif)
+![](../../../csdb/images/7042.gif)
 
 CSDB record ID: 7042
 
@@ -7367,7 +7367,7 @@ Average length of proteins in cluster: 391.5
 
 EKI39969.1, BAK68980.1, EKK44895.1, BAK69191.1, BAK69033.1, AAC32340.1, EKI95922.1:
 
-![](/Users/idamei/phd/data/csdb/images/695.gif)
+![](../../../csdb/images/695.gif)
 
 CSDB record ID: 695
 
@@ -7452,7 +7452,7 @@ Average length of proteins in cluster: 366.5
 
 ACD37138.1:
 
-![](/Users/idamei/phd/data/csdb/images/1863.gif)
+![](../../../csdb/images/1863.gif)
 
 CSDB record ID: 1863
 
@@ -7460,7 +7460,7 @@ CSDB linear: -3)[lRLac(2-4)bDGlcp(1-6)aDGlcp(1-4)]bDGalp(1-6)bDGalf(1-3)[Ac(1-2)
 
 ACD37146.1:
 
-![](/Users/idamei/phd/data/csdb/images/1906.gif)
+![](../../../csdb/images/1906.gif)
 
 CSDB record ID: 1906
 
@@ -7468,7 +7468,7 @@ CSDB linear: -3)[bDGlcp(1-6)aDGlcp(1-4)]bDGalp(1-6)bDGalf(1-3)[Ac(1-2)]bDGalpN(1
 
 ACD37105.1:
 
-![](/Users/idamei/phd/data/csdb/images/718.gif)
+![](../../../csdb/images/718.gif)
 
 CSDB record ID: 718
 
@@ -7513,7 +7513,7 @@ Average length of proteins in cluster: 370.7
 
 BAQ01960.1:
 
-![](/Users/idamei/phd/data/csdb/images/1921.gif)
+![](../../../csdb/images/1921.gif)
 
 CSDB record ID: 1921
 
@@ -7560,7 +7560,7 @@ Average length of proteins in cluster: 343.3
 
 ABE98419.1, ADN43845.1:
 
-![](/Users/idamei/phd/data/csdb/images/1865.gif)
+![](../../../csdb/images/1865.gif)
 
 CSDB record ID: 1865
 
@@ -7606,7 +7606,7 @@ Average length of proteins in cluster: 382.5
 
 BAQ01563.1:
 
-![](/Users/idamei/phd/data/csdb/images/1856.gif)
+![](../../../csdb/images/1856.gif)
 
 CSDB record ID: 1856
 
@@ -7653,7 +7653,7 @@ Average length of proteins in cluster: 345.0
 
 AAO37701.1, WP_024244058.1:
 
-![](/Users/idamei/phd/data/csdb/images/1867.gif)
+![](../../../csdb/images/1867.gif)
 
 CSDB record ID: 1867
 
@@ -7697,7 +7697,7 @@ Average length of proteins in cluster: 399.3
 
 ADB02825.1:
 
-![](/Users/idamei/phd/data/csdb/images/1859.gif)
+![](../../../csdb/images/1859.gif)
 
 CSDB record ID: 1859
 
@@ -7744,7 +7744,7 @@ Average length of proteins in cluster: 389.4
 
 BAQ01238.1:
 
-![](/Users/idamei/phd/data/csdb/images/1452.gif)
+![](../../../csdb/images/1452.gif)
 
 CSDB record ID: 1452
 
@@ -7789,7 +7789,7 @@ Average length of proteins in cluster: 375.2
 
 ACV67297.1:
 
-![](/Users/idamei/phd/data/csdb/images/1584.gif)
+![](../../../csdb/images/1584.gif)
 
 CSDB record ID: 1584
 
@@ -7797,7 +7797,7 @@ CSDB linear: -4)[Ac(1-2)]bDGlcpN(1-4)bDManp(1-4)aDManp(1-3)[Ac(1-2)]bDGlcpN(1-
 
 AFW04684.1:
 
-![](/Users/idamei/phd/data/csdb/images/30392.gif)
+![](../../../csdb/images/30392.gif)
 
 CSDB record ID: 30392
 
@@ -7845,7 +7845,7 @@ Average length of proteins in cluster: 341.5
 
 BAQ00746.1:
 
-![](/Users/idamei/phd/data/csdb/images/20006.gif)
+![](../../../csdb/images/20006.gif)
 
 CSDB record ID: 20006
 
@@ -7853,7 +7853,7 @@ CSDB linear: -6)aDGlcp(1-4)[Ac(1-2)bDGlcN(1-3)]bDGalp(1-3)[Ac(1-2)]aDGalpN(1-3)[
 
 AFW04888.1:
 
-![](/Users/idamei/phd/data/csdb/images/3366.gif)
+![](../../../csdb/images/3366.gif)
 
 CSDB record ID: 3366
 
@@ -7898,7 +7898,7 @@ Average length of proteins in cluster: 359.4
 
 ADC54957.1:
 
-![](/Users/idamei/phd/data/csdb/images/1908.gif)
+![](../../../csdb/images/1908.gif)
 
 CSDB record ID: 1908
 
@@ -7941,7 +7941,7 @@ Average length of proteins in cluster: 383.4
 
 BAQ01293.1:
 
-![](/Users/idamei/phd/data/csdb/images/1590.gif)
+![](../../../csdb/images/1590.gif)
 
 CSDB record ID: 1590
 
@@ -7987,7 +7987,7 @@ Average length of proteins in cluster: 410.4
 
 AHB32586.1:
 
-![](/Users/idamei/phd/data/csdb/images/491.gif)
+![](../../../csdb/images/491.gif)
 
 CSDB record ID: 491
 
@@ -7995,7 +7995,7 @@ CSDB linear: -6)[Ac(1-2)]aDGlcpN(1-3)[Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]aDGlcpN(1-4)[
 
 BAQ01516.1:
 
-![](/Users/idamei/phd/data/csdb/images/25389.gif)
+![](../../../csdb/images/25389.gif)
 
 CSDB record ID: 25389
 
@@ -8045,7 +8045,7 @@ Average length of proteins in cluster: 389.2
 
 BAQ00653.1:
 
-![](/Users/idamei/phd/data/csdb/images/1517.gif)
+![](../../../csdb/images/1517.gif)
 
 CSDB record ID: 1517
 
@@ -8090,7 +8090,7 @@ Average length of proteins in cluster: 378.9
 
 BAQ01207.1:
 
-![](/Users/idamei/phd/data/csdb/images/1580.gif)
+![](../../../csdb/images/1580.gif)
 
 CSDB record ID: 1580
 
@@ -8139,7 +8139,7 @@ Average length of proteins in cluster: 346.7
 
 BAQ01860.1:
 
-![](/Users/idamei/phd/data/csdb/images/1911.gif)
+![](../../../csdb/images/1911.gif)
 
 CSDB record ID: 1911
 
@@ -8147,7 +8147,7 @@ CSDB linear: -3)[bDGlcp(1-6),bDGlcpA(1-4)]aDGalp(1-6)aDManp(1-2)aDManp(1-3)[Ac(1
 
 BAL03056.1:
 
-![](/Users/idamei/phd/data/csdb/images/1925.gif)
+![](../../../csdb/images/1925.gif)
 
 CSDB record ID: 1925
 
@@ -8155,7 +8155,7 @@ CSDB linear: -3)[bDRibf(1-4)bDGlcpA(1-4)]aDGalp(1-6)aDManp(1-2)aDManp(1-3)[Ac(1-
 
 AAL27339.1:
 
-![](/Users/idamei/phd/data/csdb/images/712.gif)
+![](../../../csdb/images/712.gif)
 
 CSDB record ID: 712
 
@@ -8203,7 +8203,7 @@ Average length of proteins in cluster: 403.6
 
 CAI33412.1:
 
-![](/Users/idamei/phd/data/csdb/images/2972.gif)
+![](../../../csdb/images/2972.gif)
 
 CSDB record ID: 2972
 
@@ -8211,7 +8211,7 @@ CSDB linear: -3)aDGalp(1-2)[xXCho(1-P-3)]bDGalp(1-4)[Ac(1-2)]bDGlcpN(1-3)bDGalp(
 
 CAI33343.1:
 
-![](/Users/idamei/phd/data/csdb/images/2973.gif)
+![](../../../csdb/images/2973.gif)
 
 CSDB record ID: 2973
 
@@ -8260,7 +8260,7 @@ Average length of proteins in cluster: 435.9
 
 ADN43883.1:
 
-![](/Users/idamei/phd/data/csdb/images/1907.gif)
+![](../../../csdb/images/1907.gif)
 
 CSDB record ID: 1907
 
@@ -8268,7 +8268,7 @@ CSDB linear: -8)[Ac(1-7),lR3HOBut(1-5)]aXPsep(2-6)bDGalp(1-4)bDGlcp(1-3)[Ac(1-2)
 
 ACD37072.1:
 
-![](/Users/idamei/phd/data/csdb/images/3984.gif)
+![](../../../csdb/images/3984.gif)
 
 CSDB record ID: 3984
 
@@ -8312,7 +8312,7 @@ Average length of proteins in cluster: 446.2
 
 BAQ02031.1:
 
-![](/Users/idamei/phd/data/csdb/images/1926.gif)
+![](../../../csdb/images/1926.gif)
 
 CSDB record ID: 1926
 
@@ -8359,7 +8359,7 @@ Average length of proteins in cluster: 383.2
 
 ADJ19217.1:
 
-![](/Users/idamei/phd/data/csdb/images/1568.gif)
+![](../../../csdb/images/1568.gif)
 
 CSDB record ID: 1568
 
@@ -8409,7 +8409,7 @@ Average length of proteins in cluster: 425.1
 
 ABZ79721.1, ABB65530.1:
 
-![](/Users/idamei/phd/data/csdb/images/1560.gif)
+![](../../../csdb/images/1560.gif)
 
 CSDB record ID: 1560
 
@@ -8492,7 +8492,7 @@ Average length of proteins in cluster: 350.2
 
 ADX97403.1:
 
-![](/Users/idamei/phd/data/csdb/images/12137.gif)
+![](../../../csdb/images/12137.gif)
 
 CSDB record ID: 12137
 
@@ -8500,7 +8500,7 @@ CSDB linear: -4)[aXColp(1-6),aXColp(1-3)]aDGlcp(1-4)aDGalp(1-3)[Ac(1-2)]bDGalpN(
 
 AFE83402.1, WP_001300154.1:
 
-![](/Users/idamei/phd/data/csdb/images/616.gif)
+![](../../../csdb/images/616.gif)
 
 CSDB record ID: 616
 
@@ -8549,7 +8549,7 @@ Average length of proteins in cluster: 358.8
 
 AFW04860.1:
 
-![](/Users/idamei/phd/data/csdb/images/3360.gif)
+![](../../../csdb/images/3360.gif)
 
 CSDB record ID: 3360
 
@@ -8593,7 +8593,7 @@ Average length of proteins in cluster: 360.8
 
 BAQ01266.1:
 
-![](/Users/idamei/phd/data/csdb/images/1588.gif)
+![](../../../csdb/images/1588.gif)
 
 CSDB record ID: 1588
 
@@ -8674,7 +8674,7 @@ Average length of proteins in cluster: 409.8
 
 BAQ01218.1:
 
-![](/Users/idamei/phd/data/csdb/images/1582.gif)
+![](../../../csdb/images/1582.gif)
 
 CSDB record ID: 1582
 
@@ -8719,7 +8719,7 @@ Average length of proteins in cluster: 362.2
 
 CAI34587.1:
 
-![](/Users/idamei/phd/data/csdb/images/25004.gif)
+![](../../../csdb/images/25004.gif)
 
 CSDB record ID: 25004
 
@@ -8762,7 +8762,7 @@ Average length of proteins in cluster: 380.1
 
 BAQ01894.1:
 
-![](/Users/idamei/phd/data/csdb/images/1913.gif)
+![](../../../csdb/images/1913.gif)
 
 CSDB record ID: 1913
 
@@ -8808,7 +8808,7 @@ Average length of proteins in cluster: 386.0
 
 CAI32957.1:
 
-![](/Users/idamei/phd/data/csdb/images/938.gif)
+![](../../../csdb/images/938.gif)
 
 CSDB record ID: 938
 
@@ -8854,7 +8854,7 @@ Average length of proteins in cluster: 381.0
 
 AAY28249.1:
 
-![](/Users/idamei/phd/data/csdb/images/30040.gif)
+![](../../../csdb/images/30040.gif)
 
 CSDB record ID: 30040
 
@@ -8901,7 +8901,7 @@ Average length of proteins in cluster: 363.5
 
 ACA24739.1:
 
-![](/Users/idamei/phd/data/csdb/images/1585.gif)
+![](../../../csdb/images/1585.gif)
 
 CSDB record ID: 1585
 
@@ -8909,7 +8909,7 @@ CSDB linear: -2)bDGalp(1-4)[50%Ac(1-6),aLRhap(1-3)]bDManp(1-3)bDManp(1-4)bDGlcpA
 
 AAL27327.1:
 
-![](/Users/idamei/phd/data/csdb/images/1422.gif)
+![](../../../csdb/images/1422.gif)
 
 CSDB record ID: 1422
 
@@ -8956,7 +8956,7 @@ Average length of proteins in cluster: 393.9
 
 CAI32727.1:
 
-![](/Users/idamei/phd/data/csdb/images/1944.gif)
+![](../../../csdb/images/1944.gif)
 
 CSDB record ID: 1944
 
@@ -9035,7 +9035,7 @@ Average length of proteins in cluster: 394.4
 
 BAQ02015.1:
 
-![](/Users/idamei/phd/data/csdb/images/1924.gif)
+![](../../../csdb/images/1924.gif)
 
 CSDB record ID: 1924
 
@@ -9079,7 +9079,7 @@ Average length of proteins in cluster: 415.0
 
 BAQ01419.1:
 
-![](/Users/idamei/phd/data/csdb/images/1600.gif)
+![](../../../csdb/images/1600.gif)
 
 CSDB record ID: 1600
 
@@ -9163,7 +9163,7 @@ Average length of proteins in cluster: 385.4
 
 AJE24464.1:
 
-![](/Users/idamei/phd/data/csdb/images/1894.gif)
+![](../../../csdb/images/1894.gif)
 
 CSDB record ID: 1894
 
@@ -9171,7 +9171,7 @@ CSDB linear: -2)bDRibf(1-4)bDGalp(1-4)[Ac(1-2)]aDGlcpN(1-4)bDGalp(1-3)[Ac(1-2)]a
 
 AFW04790.1:
 
-![](/Users/idamei/phd/data/csdb/images/3364.gif)
+![](../../../csdb/images/3364.gif)
 
 CSDB record ID: 3364
 
@@ -9220,7 +9220,7 @@ Average length of proteins in cluster: 395.9
 
 ACD37117.1:
 
-![](/Users/idamei/phd/data/csdb/images/1547.gif)
+![](../../../csdb/images/1547.gif)
 
 CSDB record ID: 1547
 
@@ -9228,7 +9228,7 @@ CSDB linear: -2)bDGalp(1-4)bDManp(1-4)aDGalp(1-3)[Ac(1-2)]bDGlcpN(1-
 
 ACD37111.1:
 
-![](/Users/idamei/phd/data/csdb/images/713.gif)
+![](../../../csdb/images/713.gif)
 
 CSDB record ID: 713
 
@@ -9275,7 +9275,7 @@ Average length of proteins in cluster: 351.1
 
 ABB29906.1:
 
-![](/Users/idamei/phd/data/csdb/images/8411.gif)
+![](../../../csdb/images/8411.gif)
 
 CSDB record ID: 8411
 
@@ -9283,7 +9283,7 @@ CSDB linear: -7)[Ac(1-5)]aXNeup(2-3)[aDGlcp(1-2)]bDGlcp(1-3)[Ac(1-2)]bDGalpN(1-
 
 ABB29916.1:
 
-![](/Users/idamei/phd/data/csdb/images/8382.gif)
+![](../../../csdb/images/8382.gif)
 
 CSDB record ID: 8382
 
@@ -9399,7 +9399,7 @@ Average length of proteins in cluster: 418.7
 
 CAI34099.1:
 
-![](/Users/idamei/phd/data/csdb/images/7087.gif)
+![](../../../csdb/images/7087.gif)
 
 CSDB record ID: 7087
 
@@ -9407,7 +9407,7 @@ CSDB linear: -2)bLRhap(1-3)bDGalf(1-3)bLRhap(1-4)bDGlcpA(1-3)bDGalf(1-
 
 CAI34498.1:
 
-![](/Users/idamei/phd/data/csdb/images/25001.gif)
+![](../../../csdb/images/25001.gif)
 
 CSDB record ID: 25001
 
@@ -9415,7 +9415,7 @@ CSDB linear: -4)bDGlcpA(1-3)[aDGlcp(1-2)]bDGalf(1-3)bDGlcp(1-3)bDGlcp(1-3)[%Ac(1
 
 CAI34475.1:
 
-![](/Users/idamei/phd/data/csdb/images/25002.gif)
+![](../../../csdb/images/25002.gif)
 
 CSDB record ID: 25002
 
@@ -9461,7 +9461,7 @@ Average length of proteins in cluster: 405.9
 
 AKA20981.1:
 
-![](/Users/idamei/phd/data/csdb/images/12125.gif)
+![](../../../csdb/images/12125.gif)
 
 CSDB record ID: 12125
 
@@ -9469,7 +9469,7 @@ CSDB linear: -2)[aXAsc?(1-3)]aLFucp(1-3)aDManp(1-4)aLFucp(1-3)[Ac(1-2)]aDGalpN(1
 
 AKA20999.1:
 
-![](/Users/idamei/phd/data/csdb/images/12126.gif)
+![](../../../csdb/images/12126.gif)
 
 CSDB record ID: 12126
 
@@ -9477,7 +9477,7 @@ CSDB linear: -2)[aLAltf(1-3)]aLFucp(1-3)aDManp(1-4)aLFucp(1-3)[Ac(1-2)]aDGalpN(1
 
 CAX18360.1:
 
-![](/Users/idamei/phd/data/csdb/images/12127.gif)
+![](../../../csdb/images/12127.gif)
 
 CSDB record ID: 12127
 
@@ -9525,7 +9525,7 @@ Average length of proteins in cluster: 321.1
 
 ACD75809.1:
 
-![](/Users/idamei/phd/data/csdb/images/108685.gif)
+![](../../../csdb/images/108685.gif)
 
 CSDB record ID: 108685
 
@@ -9533,7 +9533,7 @@ CSDB linear: -4)[Ac(1-2)]bDGlcpN(1-3)[Ac(1-3)aDFucp3N(1-2)]aLRhap(1-2)aLRhap(1-3
 
 BAQ01012.1:
 
-![](/Users/idamei/phd/data/csdb/images/1557.gif)
+![](../../../csdb/images/1557.gif)
 
 CSDB record ID: 1557
 
@@ -9609,7 +9609,7 @@ Average length of proteins in cluster: 394.0
 
 AAD50486.1:
 
-![](/Users/idamei/phd/data/csdb/images/1853.gif)
+![](../../../csdb/images/1853.gif)
 
 CSDB record ID: 1853
 
@@ -9654,7 +9654,7 @@ Average length of proteins in cluster: 343.6
 
 AAN60459.1:
 
-![](/Users/idamei/phd/data/csdb/images/1534.gif)
+![](../../../csdb/images/1534.gif)
 
 CSDB record ID: 1534
 
@@ -9699,7 +9699,7 @@ Average length of proteins in cluster: 388.5
 
 AAT28922.1:
 
-![](/Users/idamei/phd/data/csdb/images/1914.gif)
+![](../../../csdb/images/1914.gif)
 
 CSDB record ID: 1914
 
@@ -9707,7 +9707,7 @@ CSDB linear: -3)[Ac(1-2)]aLFucpN(1-4)[Ac(1-6)]aDGlcp(1-P-4)aDGlcp(1-3)[Ac(1-2)]a
 
 AAR24270.1:
 
-![](/Users/idamei/phd/data/csdb/images/1405.gif)
+![](../../../csdb/images/1405.gif)
 
 CSDB record ID: 1405
 
@@ -9751,7 +9751,7 @@ Average length of proteins in cluster: 406.5
 
 ABI34565.1:
 
-![](/Users/idamei/phd/data/csdb/images/1530.gif)
+![](../../../csdb/images/1530.gif)
 
 CSDB record ID: 1530
 
@@ -9797,7 +9797,7 @@ Average length of proteins in cluster: 449.0
 
 ADI59429.1:
 
-![](/Users/idamei/phd/data/csdb/images/12131.gif)
+![](../../../csdb/images/12131.gif)
 
 CSDB record ID: 12131
 
@@ -9805,7 +9805,7 @@ CSDB linear: -2)[bXParf(1-3)]aDManp(1-3)aLFucp(1-3)[Ac(1-2)]bDGalpN(1-
 
 ADI59445.1:
 
-![](/Users/idamei/phd/data/csdb/images/12132.gif)
+![](../../../csdb/images/12132.gif)
 
 CSDB record ID: 12132
 
@@ -9885,7 +9885,7 @@ Average length of proteins in cluster: 386.3
 
 AAZ20761.1:
 
-![](/Users/idamei/phd/data/csdb/images/1573.gif)
+![](../../../csdb/images/1573.gif)
 
 CSDB record ID: 1573
 
@@ -9929,7 +9929,7 @@ Average length of proteins in cluster: 370.0
 
 AIG62747.1:
 
-![](/Users/idamei/phd/data/csdb/images/1920.gif)
+![](../../../csdb/images/1920.gif)
 
 CSDB record ID: 1920
 
@@ -9976,7 +9976,7 @@ Average length of proteins in cluster: 355.2
 
 ADN43838.1:
 
-![](/Users/idamei/phd/data/csdb/images/1855.gif)
+![](../../../csdb/images/1855.gif)
 
 CSDB record ID: 1855
 
@@ -10020,7 +10020,7 @@ Average length of proteins in cluster: 386.4
 
 ABD19779.1:
 
-![](/Users/idamei/phd/data/csdb/images/3660.gif)
+![](../../../csdb/images/3660.gif)
 
 CSDB record ID: 3660
 
@@ -10066,7 +10066,7 @@ Average length of proteins in cluster: 415.8
 
 BAQ01702.1:
 
-![](/Users/idamei/phd/data/csdb/images/1878.gif)
+![](../../../csdb/images/1878.gif)
 
 CSDB record ID: 1878
 
@@ -10146,7 +10146,7 @@ Average length of proteins in cluster: 342.2
 
 ACA24829.1, AAS98031.1:
 
-![](/Users/idamei/phd/data/csdb/images/1844.gif)
+![](../../../csdb/images/1844.gif)
 
 CSDB record ID: 1844
 
@@ -10226,7 +10226,7 @@ Average length of proteins in cluster: 403.2
 
 ADJ19203.1:
 
-![](/Users/idamei/phd/data/csdb/images/1902.gif)
+![](../../../csdb/images/1902.gif)
 
 CSDB record ID: 1902
 
@@ -10272,7 +10272,7 @@ Average length of proteins in cluster: 362.8
 
 CAI34641.1:
 
-![](/Users/idamei/phd/data/csdb/images/25006.gif)
+![](../../../csdb/images/25006.gif)
 
 CSDB record ID: 25006
 
@@ -10313,7 +10313,7 @@ Average length of proteins in cluster: 375.0
 
 ACA24901.1:
 
-![](/Users/idamei/phd/data/csdb/images/1594.gif)
+![](../../../csdb/images/1594.gif)
 
 CSDB record ID: 1594
 
@@ -10356,7 +10356,7 @@ Average length of proteins in cluster: 380.0
 
 ABA42232.1:
 
-![](/Users/idamei/phd/data/csdb/images/1889.gif)
+![](../../../csdb/images/1889.gif)
 
 CSDB record ID: 1889
 
@@ -10402,7 +10402,7 @@ Average length of proteins in cluster: 333.2
 
 ADC54929.1:
 
-![](/Users/idamei/phd/data/csdb/images/7222.gif)
+![](../../../csdb/images/7222.gif)
 
 CSDB record ID: 7222
 
@@ -10444,7 +10444,7 @@ Average length of proteins in cluster: 364.8
 
 ACH97152.1:
 
-![](/Users/idamei/phd/data/csdb/images/1501.gif)
+![](../../../csdb/images/1501.gif)
 
 CSDB record ID: 1501
 
@@ -10488,7 +10488,7 @@ Average length of proteins in cluster: 440.0
 
 ACH97132.1:
 
-![](/Users/idamei/phd/data/csdb/images/1846.gif)
+![](../../../csdb/images/1846.gif)
 
 CSDB record ID: 1846
 
@@ -10496,7 +10496,7 @@ CSDB linear: -4)[Ac(1-2)]bDGalpN(1-3)aLRhap(1-4)[Ac(1-2)]aDGlcpN(1-4)bDGalp(1-3)
 
 ACH97143.1, ABE98413.1:
 
-![](/Users/idamei/phd/data/csdb/images/1857.gif)
+![](../../../csdb/images/1857.gif)
 
 CSDB record ID: 1857
 
@@ -10573,7 +10573,7 @@ Average length of proteins in cluster: 402.8
 
 AAL27351.1:
 
-![](/Users/idamei/phd/data/csdb/images/3986.gif)
+![](../../../csdb/images/3986.gif)
 
 CSDB record ID: 3986
 
@@ -10617,7 +10617,7 @@ Average length of proteins in cluster: 399.5
 
 BAQ00893.1:
 
-![](/Users/idamei/phd/data/csdb/images/1548.gif)
+![](../../../csdb/images/1548.gif)
 
 CSDB record ID: 1548
 
@@ -10661,7 +10661,7 @@ Average length of proteins in cluster: 390.0
 
 BAQ00927.1:
 
-![](/Users/idamei/phd/data/csdb/images/1381.gif)
+![](../../../csdb/images/1381.gif)
 
 CSDB record ID: 1381
 
@@ -10771,7 +10771,7 @@ Average length of proteins in cluster: 423.0
 
 BAQ01137.1:
 
-![](/Users/idamei/phd/data/csdb/images/1572.gif)
+![](../../../csdb/images/1572.gif)
 
 CSDB record ID: 1572
 
@@ -10812,7 +10812,7 @@ Average length of proteins in cluster: 399.0
 
 BAQ01659.1:
 
-![](/Users/idamei/phd/data/csdb/images/1874.gif)
+![](../../../csdb/images/1874.gif)
 
 CSDB record ID: 1874
 
@@ -10888,7 +10888,7 @@ Average length of proteins in cluster: 383.7
 
 ADN43871.1:
 
-![](/Users/idamei/phd/data/csdb/images/1287.gif)
+![](../../../csdb/images/1287.gif)
 
 CSDB record ID: 1287
 
@@ -10931,7 +10931,7 @@ Average length of proteins in cluster: 368.0
 
 BAQ01155.1:
 
-![](/Users/idamei/phd/data/csdb/images/1574.gif)
+![](../../../csdb/images/1574.gif)
 
 CSDB record ID: 1574
 
@@ -11006,7 +11006,7 @@ Average length of proteins in cluster: 339.0
 
 ACA24890.1:
 
-![](/Users/idamei/phd/data/csdb/images/1900.gif)
+![](../../../csdb/images/1900.gif)
 
 CSDB record ID: 1900
 
@@ -11047,7 +11047,7 @@ Average length of proteins in cluster: 346.0
 
 BAQ01780.1:
 
-![](/Users/idamei/phd/data/csdb/images/696.gif)
+![](../../../csdb/images/696.gif)
 
 CSDB record ID: 696
 
@@ -11123,7 +11123,7 @@ Average length of proteins in cluster: 409.0
 
 BAQ01114.1:
 
-![](/Users/idamei/phd/data/csdb/images/1571.gif)
+![](../../../csdb/images/1571.gif)
 
 CSDB record ID: 1571
 
