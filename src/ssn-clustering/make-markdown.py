@@ -174,6 +174,10 @@ for cluster in clusters:
     # Logoplot
     logo_url = f"{github_url}/{dir}/sequences.logo.pdf"
     outfile.write(f"[Logoplot]({logo_url})\n\n")
+    # Tree
+    tree_url = f"{github_url}/{dir}/sequences.nwk"
+    outfile.write(f"[Phylogenetic tree]({tree_url})\n\n")
+
     # Hits table
     hits_tsv_url = f"{github_url}/{dir}/hits.tsv"
     outfile.write(f"[Hits in cluster]({hits_tsv_url})\n\n")

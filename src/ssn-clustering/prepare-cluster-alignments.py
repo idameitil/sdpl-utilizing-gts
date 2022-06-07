@@ -38,6 +38,7 @@ jobscript=f"""#! /bin/sh
 /work3/idamei/bin/muscle5.1.linux_intel64 -ALIGN_METHOD {hpc_directory}/CLUSTER/sequences.fa -output {hpc_directory}/CLUSTER/sequences.afa
 /work3/garryg/bioP/bin/malign.py -a {hpc_directory}/CLUSTER/sequences.afa -s {hpc_directory}/CLUSTER/seeds.txt -l 1000 > {hpc_directory}/CLUSTER/sequences.malign
 python2 /work3/idamei/bin/seq2logo-2.1/Seq2Logo.py -f {hpc_directory}/CLUSTER/sequences.afa -m 0.0001 -b 0 -o {hpc_directory}/CLUSTER/sequences.logo  -p 640x1000 -l 30  -I 1
+/work3/idamei/bin/FastTree {hpc_directory}/CLUSTER/sequences.afa > {hpc_directory}/CLUSTER/sequences.nwk
 """
 
 clusterdir = f"data/wzy/ssn-clusterings/{timestamp}/clusters"
