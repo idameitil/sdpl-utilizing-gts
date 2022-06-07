@@ -160,7 +160,7 @@ for cluster in clusters:
     # Seeds
     outfile.write(f"#### Seeds in cluster:\n\n")
     seeds_table = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(seed_accessions),
-                                        ['protein_accession', 'order', 'family', 'genus', 'species', 'serotype']]
+                                        ['protein_accession', 'order', 'family', 'genus', 'species', 'serotype', 'WzyE']]
     outfile.write(seeds_table.to_markdown(index=False)+'\n\n')
 
     # Alignment
@@ -180,22 +180,26 @@ for cluster in clusters:
 
     # Sugar images
     outfile.write("#### Sugars in cluster:\n\n")
-    images = dict()
+    image2seeds = dict()
+    image2linear = dict()
     for seed in seed_accessions:
         CSDB_record_id = seed_df.loc[seed_df.protein_accession ==
                                      seed, 'CSDB_record_ID'].item()
         if not pd.isnull(CSDB_record_id):
-            if CSDB_record_id in images:
-                images[CSDB_record_id].append(seed)
+            if CSDB_record_id in image2seeds:
+                image2seeds[CSDB_record_id].append(seed)
             else:
-                images[CSDB_record_id] = [seed]
-    for image in images:
-        # image_path = f"../../../csdb/images/{image}.gif"
-        image_path = f"/Users/idamei/phd/data/csdb/images/{image}.gif"
-        seeds = images[image]
+                image2seeds[CSDB_record_id] = [seed]
+                image2linear[CSDB_record_id] = seed_df.loc[seed_df.protein_accession ==
+                                     seed, 'CSDB_Linear'].item()
+    for CSDB_record_id in image2seeds:
+        image_path = f"../../../csdb/images/{CSDB_record_id}.gif"
+        #image_path = f"/Users/idamei/phd/data/csdb/images/{CSDB_record_id}.gif"
+        seeds = image2seeds[CSDB_record_id]
         outfile.write(f"{', '.join(seeds)}:\n\n")
         outfile.write(f"![]({image_path})\n\n")
-
+        outfile.write(f"CSDB record ID: {CSDB_record_id}\n\n")
+        outfile.write(f"{image2linear[CSDB_record_id]}\n\n")
     # AlphaFold models
     outfile.write("#### Alphafold models:\n\n")
     rows_alphafold = seeds_and_hits_df.loc[(seeds_and_hits_df.protein_accession.isin(accessions))
