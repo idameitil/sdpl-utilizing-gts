@@ -19,7 +19,7 @@ Don't make cartoon dotted when showing sidechains:
 
 # Catalytic residues
 
-K, R, D/E
+R, K, D/E, Y (pointing finger), H
 
 # Connecting to R drive
 
