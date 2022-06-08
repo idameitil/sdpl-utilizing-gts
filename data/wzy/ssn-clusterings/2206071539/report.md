@@ -30,19 +30,19 @@ Average length of proteins in cluster: 448.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype                            |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:------------------------------------|-------:|
-| AAC45844.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O8                                  |      0 |
-| ACF61556.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | ssp. enterica sv. Newport           |      1 |
-| ACF69242.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | Heidelberg                          |      1 |
-| WP_000055605.1      | Enterobacterales | Enterobacteriaceae | Salmonella  | nan                 | ssp. enterica sv. Kentucky O8 98/39 |      1 |
-| ACF89798.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | Schwarzengrund                      |      1 |
-| ACH73921.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | Dublin                              |      1 |
-| ACH50550.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | Agona                               |      1 |
-| CAS11643.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O127                                |      1 |
-| CAR10598.2          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O81                                 |      1 |
-| BAI33073.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O103                                |      1 |
-| ADT77417.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O6                                  |      1 |
+| protein_accession   | order            | family             | genus       | species             | serotype                            |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:------------------------------------|----------------------------------:|
+| AAC45844.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O8                                  |                                 0 |
+| ACF61556.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | ssp. enterica sv. Newport           |                                 1 |
+| ACF69242.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | Heidelberg                          |                                 1 |
+| WP_000055605.1      | Enterobacterales | Enterobacteriaceae | Salmonella  | nan                 | ssp. enterica sv. Kentucky O8 98/39 |                                 1 |
+| ACF89798.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | Schwarzengrund                      |                                 1 |
+| ACH73921.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | Dublin                              |                                 1 |
+| ACH50550.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | Agona                               |                                 1 |
+| CAS11643.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O127                                |                                 1 |
+| CAR10598.2          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O81                                 |                                 1 |
+| BAI33073.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O103                                |                                 1 |
+| ADT77417.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O6                                  |                                 1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0548_2/sequences.afa)
 
@@ -168,18 +168,18 @@ Average length of proteins in cluster: 398.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI33309.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 13         |      0 |
-| CAI33441.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 16A        |      0 |
-| CAI34080.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 29         |      0 |
-| CAI34348.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 35F        |      0 |
-| CAI34286.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 35A        |      0 |
-| CAI34310.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 35B        |      0 |
-| CAI34328.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 35C        |      0 |
-| CAI34369.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 36         |      0 |
-| CAI34519.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 42         |      0 |
-| CAI34657.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 47F        |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI33309.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 13         |                                 0 |
+| CAI33441.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 16A        |                                 0 |
+| CAI34080.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 29         |                                 0 |
+| CAI34348.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 35F        |                                 0 |
+| CAI34286.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 35A        |                                 0 |
+| CAI34310.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 35B        |                                 0 |
+| CAI34328.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 35C        |                                 0 |
+| CAI34369.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 36         |                                 0 |
+| CAI34519.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 42         |                                 0 |
+| CAI34657.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 47F        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0481_5/sequences.afa)
 
@@ -349,17 +349,17 @@ Average length of proteins in cluster: 430.4
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species                | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------------|:-----------|-------:|
-| CDF66396.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia similis       | O:9        |      0 |
-| BAQ00780.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli       | O30        |      0 |
-| AAA97573.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O5         |      0 |
-| AAC45857.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O5         |      0 |
-| AAM27728.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O2         |      0 |
-| AAM27801.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O5         |      0 |
-| AAM27662.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O16        |      0 |
-| AAM27693.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O18        |      0 |
-| AAM27748.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O20        |      0 |
+| protein_accession   | order            | family             | genus       | species                | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------------|:-----------|----------------------------------:|
+| CDF66396.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia similis       | O:9        |                                 0 |
+| BAQ00780.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli       | O30        |                                 0 |
+| AAA97573.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O5         |                                 0 |
+| AAC45857.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O5         |                                 0 |
+| AAM27728.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O2         |                                 0 |
+| AAM27801.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O5         |                                 0 |
+| AAM27662.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O16        |                                 0 |
+| AAM27693.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O18        |                                 0 |
+| AAM27748.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O20        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0291_1/sequences.afa)
 
@@ -556,17 +556,17 @@ Average length of proteins in cluster: 349.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus         | species                 | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|-------:|
-| AHB32462.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O17        |      0 |
-| AFV46136.1          | Enterobacterales | Yersiniaceae       | Yersinia      | Yersinia similis        | O:12       |      0 |
-| BAQ01024.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O51        |      0 |
-| ADC54967.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O75        |      0 |
-| BAQ00622.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O10        |      0 |
-| AQU71752.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O1         |      0 |
-| AFW04820.1          | Enterobacterales | Enterobacteriaceae | Salmonella    | Salmonella enterica     | O11        |      0 |
-| AFW04883.1          | Enterobacterales | Enterobacteriaceae | Salmonella    | Salmonella enterica     | O57        |      0 |
-| ABX51892.1          | Enterobacterales | Enterobacteriaceae | Cronobacter   | Cronobacter sakazakii   | O2         |      0 |
+| protein_accession   | order            | family             | genus         | species                 | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|----------------------------------:|
+| AHB32462.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O17        |                                 0 |
+| AFV46136.1          | Enterobacterales | Yersiniaceae       | Yersinia      | Yersinia similis        | O:12       |                                 0 |
+| BAQ01024.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O51        |                                 0 |
+| ADC54967.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O75        |                                 0 |
+| BAQ00622.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O10        |                                 0 |
+| AQU71752.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O1         |                                 0 |
+| AFW04820.1          | Enterobacterales | Enterobacteriaceae | Salmonella    | Salmonella enterica     | O11        |                                 0 |
+| AFW04883.1          | Enterobacterales | Enterobacteriaceae | Salmonella    | Salmonella enterica     | O57        |                                 0 |
+| ABX51892.1          | Enterobacterales | Enterobacteriaceae | Cronobacter   | Cronobacter sakazakii   | O2         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0280_9/sequences.afa)
 
@@ -729,11 +729,11 @@ Average length of proteins in cluster: 353.5
 
 #### Seeds in cluster:
 
-| protein_accession   | order        | family        | genus         | species                 | serotype   |   WzyE |
-|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------:|
-| AHB32215.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O1         |      0 |
-| AHB32861.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O25        |      0 |
-| AHB32799.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O26        |      0 |
+| protein_accession   | order        | family        | genus         | species                 | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|----------------------------------:|
+| AHB32215.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O1         |                                 0 |
+| AHB32861.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O25        |                                 0 |
+| AHB32799.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O26        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0240_30/sequences.afa)
 
@@ -865,19 +865,19 @@ Average length of proteins in cluster: 358.8
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:--------------|:-------------------------|:-----------|-------:|
-| AHB32715.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii  | O16        |      0 |
-| AHB32637.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii  | O23        |      0 |
-| CAI33718.1          | Lactobacillales  | Streptococcaceae   | Streptococcus | Streptococcus pneumoniae | 20         |      0 |
-| BAQ02116.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli         | O54        |      0 |
-| AAK64372.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli         | O104       |      0 |
-| ADQ37335.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli         | O118       |      0 |
-| ACA24821.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli         | O152       |      0 |
-| ADN43894.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli         | O173       |      0 |
-| ADQ37322.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli         | O151       |      0 |
-| ACA24811.1          | Enterobacterales | Enterobacteriaceae | Shigella      | Shigella dysenteriae     | 12         |      0 |
-| AFW04867.1          | Enterobacterales | Enterobacteriaceae | Salmonella    | Salmonella enterica      | O47        |      0 |
+| protein_accession   | order            | family             | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| AHB32715.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii  | O16        |                                 0 |
+| AHB32637.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii  | O23        |                                 0 |
+| CAI33718.1          | Lactobacillales  | Streptococcaceae   | Streptococcus | Streptococcus pneumoniae | 20         |                                 0 |
+| BAQ02116.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli         | O54        |                                 0 |
+| AAK64372.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli         | O104       |                                 0 |
+| ADQ37335.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli         | O118       |                                 0 |
+| ACA24821.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli         | O152       |                                 0 |
+| ADN43894.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli         | O173       |                                 0 |
+| ADQ37322.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli         | O151       |                                 0 |
+| ACA24811.1          | Enterobacterales | Enterobacteriaceae | Shigella      | Shigella dysenteriae     | 12         |                                 0 |
+| AFW04867.1          | Enterobacterales | Enterobacteriaceae | Salmonella    | Salmonella enterica      | O47        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0238_4/sequences.afa)
 
@@ -1063,11 +1063,11 @@ Average length of proteins in cluster: 412.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI34150.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 32F        |      0 |
-| CAI34124.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 32A        |      0 |
-| CAI34680.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 48         |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI34150.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 32F        |                                 0 |
+| CAI34124.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 32A        |                                 0 |
+| CAI34680.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 48         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0152_59/sequences.afa)
 
@@ -1171,13 +1171,13 @@ Average length of proteins in cluster: 443.4
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI32823.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 6A         |      0 |
-| CAI32843.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 6B         |      0 |
-| CAI33700.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 19F        |      0 |
-| CAI33631.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 19A        |      0 |
-| CAI34269.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 34         |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI32823.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 6A         |                                 0 |
+| CAI32843.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 6B         |                                 0 |
+| CAI33700.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 19F        |                                 0 |
+| CAI33631.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 19A        |                                 0 |
+| CAI34269.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 34         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0142_45/sequences.afa)
 
@@ -1302,13 +1302,13 @@ Average length of proteins in cluster: 392.8
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus         | species                 | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|-------:|
-| AHB32411.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O10        |      0 |
-| EHX11459.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O45        |      0 |
-| AFC91458.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O45        |      0 |
-| AFC91419.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O45        |      0 |
-| AAX07747.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O45        |      0 |
+| protein_accession   | order            | family             | genus         | species                 | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|----------------------------------:|
+| AHB32411.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O10        |                                 0 |
+| EHX11459.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O45        |                                 0 |
+| AFC91458.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O45        |                                 0 |
+| AFC91419.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O45        |                                 0 |
+| AAX07747.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O45        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0137_6/sequences.afa)
 
@@ -1412,15 +1412,15 @@ Average length of proteins in cluster: 412.3
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus         | species                 | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|-------:|
-| AHB32563.2          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O3         |      0 |
-| ACA24764.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O143       |      0 |
-| ACD37046.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O167       |      0 |
-| BAQ02088.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O187       |      0 |
-| ACA24754.1          | Enterobacterales | Enterobacteriaceae | Shigella      | Shigella boydii         | 8          |      0 |
-| ACD37037.1          | Enterobacterales | Enterobacteriaceae | Shigella      | Shigella boydii         | 3          |      0 |
-| AFW04847.1          | Enterobacterales | Enterobacteriaceae | Salmonella    | Salmonella enterica     | O59        |      0 |
+| protein_accession   | order            | family             | genus         | species                 | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|----------------------------------:|
+| AHB32563.2          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O3         |                                 0 |
+| ACA24764.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O143       |                                 0 |
+| ACD37046.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O167       |                                 0 |
+| BAQ02088.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O187       |                                 0 |
+| ACA24754.1          | Enterobacterales | Enterobacteriaceae | Shigella      | Shigella boydii         | 8          |                                 0 |
+| ACD37037.1          | Enterobacterales | Enterobacteriaceae | Shigella      | Shigella boydii         | 3          |                                 0 |
+| AFW04847.1          | Enterobacterales | Enterobacteriaceae | Salmonella    | Salmonella enterica     | O59        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0136_48/sequences.afa)
 
@@ -1539,9 +1539,9 @@ Average length of proteins in cluster: 395.6
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ00795.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O33        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ00795.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O33        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0129_20/sequences.afa)
 
@@ -1604,11 +1604,11 @@ Average length of proteins in cluster: 452.7
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| AAT77177.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O114       |      0 |
-| AFN02899.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O180       |      0 |
-| BAQ00569.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O5         |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| AAT77177.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O114       |                                 0 |
+| AFN02899.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O180       |                                 0 |
+| BAQ00569.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O5         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0129_10/sequences.afa)
 
@@ -1715,14 +1715,14 @@ Average length of proteins in cluster: 419.1
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI34254.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 33F        |      0 |
-| CAI34177.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 33A        |      0 |
-| CAI34198.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 33B        |      0 |
-| CAI34217.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 33C        |      0 |
-| CAI34236.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 33D        |      0 |
-| CAI34388.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 37         |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI34254.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 33F        |                                 0 |
+| CAI34177.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 33A        |                                 0 |
+| CAI34198.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 33B        |                                 0 |
+| CAI34217.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 33C        |                                 0 |
+| CAI34236.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 33D        |                                 0 |
+| CAI34388.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 37         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0127_8/sequences.afa)
 
@@ -1841,10 +1841,10 @@ Average length of proteins in cluster: 431.6
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI32935.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 7F         |      0 |
-| CAI32867.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 7A         |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI32935.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 7F         |                                 0 |
+| CAI32867.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 7A         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0091_19/sequences.afa)
 
@@ -1925,9 +1925,9 @@ Average length of proteins in cluster: 427.7
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| WP_097449287.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O57        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| WP_097449287.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O57        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0089_15/sequences.afa)
 
@@ -2005,14 +2005,14 @@ Average length of proteins in cluster: 448.1
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus         | species                    | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:--------------|:---------------------------|:-----------|-------:|
-| AHB32510.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter nosocomialis | O11        |      0 |
-| AHB32490.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii    | O15        |      0 |
-| ABF01010.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O28ac      |      0 |
-| ACK44379.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O42        |      0 |
-| BAQ02048.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O185       |      0 |
-| AAM27546.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas   | Pseudomonas aeruginosa     | O1         |      0 |
+| protein_accession   | order            | family             | genus         | species                    | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:--------------|:---------------------------|:-----------|----------------------------------:|
+| AHB32510.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter nosocomialis | O11        |                                 0 |
+| AHB32490.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii    | O15        |                                 0 |
+| ABF01010.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O28ac      |                                 0 |
+| ACK44379.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O42        |                                 0 |
+| BAQ02048.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O185       |                                 0 |
+| AAM27546.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas   | Pseudomonas aeruginosa     | O1         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0083_52/sequences.afa)
 
@@ -2106,10 +2106,10 @@ Average length of proteins in cluster: 403.3
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ADI43263.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O25        |      0 |
-| ADR74237.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O109       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ADI43263.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O25        |                                 0 |
+| ADR74237.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O109       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0082_86/sequences.afa)
 
@@ -2190,12 +2190,12 @@ Average length of proteins in cluster: 412.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species                | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------------|:-----------|-------:|
-| AAZ85713.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli       | O138       |      0 |
-| AAM27766.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O3         |      0 |
-| AAM27615.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O13        |      0 |
-| AAM27645.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O15        |      0 |
+| protein_accession   | order            | family             | genus       | species                | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------------|:-----------|----------------------------------:|
+| AAZ85713.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli       | O138       |                                 0 |
+| AAM27766.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O3         |                                 0 |
+| AAM27615.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O13        |                                 0 |
+| AAM27645.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O15        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0072_53/sequences.afa)
 
@@ -2297,17 +2297,17 @@ Average length of proteins in cluster: 369.7
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus         | species                    | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:--------------|:---------------------------|:-----------|-------:|
-| AHB32538.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter nosocomialis | O2         |      0 |
-| BAQ00846.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O37        |      0 |
-| BAQ00975.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O48        |      0 |
-| ACD37014.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O112ac     |      0 |
-| ACD37157.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O130       |      0 |
-| BAQ01494.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O102       |      0 |
-| AFS33314.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O102       |      0 |
-| ACD37006.1          | Enterobacterales | Enterobacteriaceae | Shigella      | Shigella dysenteriae       | 2          |      0 |
-| AFW04741.1          | Enterobacterales | Enterobacteriaceae | Salmonella    | Salmonella enterica        | O21        |      0 |
+| protein_accession   | order            | family             | genus         | species                    | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:--------------|:---------------------------|:-----------|----------------------------------:|
+| AHB32538.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter nosocomialis | O2         |                                 0 |
+| BAQ00846.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O37        |                                 0 |
+| BAQ00975.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O48        |                                 0 |
+| ACD37014.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O112ac     |                                 0 |
+| ACD37157.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O130       |                                 0 |
+| BAQ01494.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O102       |                                 0 |
+| AFS33314.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O102       |                                 0 |
+| ACD37006.1          | Enterobacterales | Enterobacteriaceae | Shigella      | Shigella dysenteriae       | 2          |                                 0 |
+| AFW04741.1          | Enterobacterales | Enterobacteriaceae | Salmonella    | Salmonella enterica        | O21        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0069_17/sequences.afa)
 
@@ -2424,12 +2424,12 @@ Average length of proteins in cluster: 396.9
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ADC54950.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O18        |      0 |
-| BAQ00669.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O18ab      |      0 |
-| BAQ01732.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O142       |      0 |
-| BAQ00687.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O18ac      |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ADC54950.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O18        |                                 0 |
+| BAQ00669.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O18ab      |                                 0 |
+| BAQ01732.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O142       |                                 0 |
+| BAQ00687.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O18ac      |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0067_83/sequences.afa)
 
@@ -2513,21 +2513,21 @@ Average length of proteins in cluster: 402.1
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------:|
-| BAQ00758.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O28ab      |      0 |
-| BAQ00879.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O39        |      0 |
-| ABG81806.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O123       |      0 |
-| BAQ02068.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O186       |      0 |
-| AAD44158.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O7         |      0 |
-| BAH24292.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O7         |      0 |
-| AFC91472.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O121       |      0 |
-| AFC91514.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O121       |      0 |
-| AAO39700.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O121       |      0 |
-| AFC91570.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O121       |      0 |
-| AJR19430.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O186       |      0 |
-| BAQ02224.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O123       |      0 |
-| AAR97964.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 7          |      0 |
+| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|----------------------------------:|
+| BAQ00758.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O28ab      |                                 0 |
+| BAQ00879.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O39        |                                 0 |
+| ABG81806.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O123       |                                 0 |
+| BAQ02068.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O186       |                                 0 |
+| AAD44158.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O7         |                                 0 |
+| BAH24292.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O7         |                                 0 |
+| AFC91472.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O121       |                                 0 |
+| AFC91514.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O121       |                                 0 |
+| AAO39700.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O121       |                                 0 |
+| AFC91570.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O121       |                                 0 |
+| AJR19430.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O186       |                                 0 |
+| BAQ02224.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O123       |                                 0 |
+| AAR97964.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 7          |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0066_38/sequences.afa)
 
@@ -2646,10 +2646,10 @@ Average length of proteins in cluster: 357.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus         | species                 | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|-------:|
-| AHB32283.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O21        |      0 |
-| ACH97162.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O21        |      0 |
+| protein_accession   | order            | family             | genus         | species                 | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|----------------------------------:|
+| AHB32283.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O21        |                                 0 |
+| ACH97162.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O21        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0059_65/sequences.afa)
 
@@ -2715,14 +2715,14 @@ Average length of proteins in cluster: 374.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------:|
-| BAQ00994.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O49        |      0 |
-| ADC54974.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O85        |      0 |
-| BAQ01917.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O175       |      0 |
-| CAN87666.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O45        |      0 |
-| AFW04828.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O44        |      0 |
-| AFW04837.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O53        |      0 |
+| protein_accession   | order            | family             | genus       | species             | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|----------------------------------:|
+| BAQ00994.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O49        |                                 0 |
+| ADC54974.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O85        |                                 0 |
+| BAQ01917.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O175       |                                 0 |
+| CAN87666.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O45        |                                 0 |
+| AFW04828.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O44        |                                 0 |
+| AFW04837.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O53        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0058_25/sequences.afa)
 
@@ -2820,11 +2820,11 @@ Average length of proteins in cluster: 400.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus         | species                 | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|-------:|
-| AHB32687.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O14        |      0 |
-| BAQ01743.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O144       |      0 |
-| ABI55342.1          | Enterobacterales | Enterobacteriaceae | Shigella      | Shigella boydii         | 17         |      0 |
+| protein_accession   | order            | family             | genus         | species                 | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|----------------------------------:|
+| AHB32687.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O14        |                                 0 |
+| BAQ01743.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O144       |                                 0 |
+| ABI55342.1          | Enterobacterales | Enterobacteriaceae | Shigella      | Shigella boydii         | 17         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0052_35/sequences.afa)
 
@@ -2882,11 +2882,11 @@ Average length of proteins in cluster: 368.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family       | genus    | species                     | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------|:---------|:----------------------------|:-----------|-------:|
-| AAN23041.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:1A       |      0 |
-| AAN23078.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:2a       |      0 |
-| AAN23057.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:4b       |      0 |
+| protein_accession   | order            | family       | genus    | species                     | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------|:---------|:----------------------------|:-----------|----------------------------------:|
+| AAN23041.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:1A       |                                 0 |
+| AAN23078.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:2a       |                                 0 |
+| AAN23057.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:4b       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0048_71/sequences.afa)
 
@@ -2959,16 +2959,16 @@ Average length of proteins in cluster: 408.4
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus      | species             | serotype                   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:---------------------------|-------:|
-| WP_000905563.1      | Enterobacterales | Enterobacteriaceae | Salmonella | nan                 | Typhi                      |      0 |
-| AAO68867.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Typhi                      |      0 |
-| AAV77445.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Paratyphi A                |      0 |
-| ACF69726.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Heidelberg                 |      0 |
-| CAR59582.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Paratyphi A                |      0 |
-| ACH74809.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Dublin                     |      0 |
-| CAR37642.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Gallinarum bv. Pullorum 11 |      0 |
-| AAL20257.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O4 (B) Typhimurium         |      0 |
+| protein_accession   | order            | family             | genus      | species             | serotype                   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:---------------------------|----------------------------------:|
+| WP_000905563.1      | Enterobacterales | Enterobacteriaceae | Salmonella | nan                 | Typhi                      |                                 0 |
+| AAO68867.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Typhi                      |                                 0 |
+| AAV77445.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Paratyphi A                |                                 0 |
+| ACF69726.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Heidelberg                 |                                 0 |
+| CAR59582.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Paratyphi A                |                                 0 |
+| ACH74809.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Dublin                     |                                 0 |
+| CAR37642.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Gallinarum bv. Pullorum 11 |                                 0 |
+| AAL20257.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O4 (B) Typhimurium         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0046_13/sequences.afa)
 
@@ -3049,9 +3049,9 @@ Average length of proteins in cluster: 410.4
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ADI43271.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O27        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ADI43271.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O27        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0045_80/sequences.afa)
 
@@ -3104,11 +3104,11 @@ Average length of proteins in cluster: 376.9
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ00957.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O46        |      0 |
-| BAQ01812.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O160       |      0 |
-| BAQ01687.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O134       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ00957.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O46        |                                 0 |
+| BAQ01812.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O160       |                                 0 |
+| BAQ01687.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O134       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0043_88/sequences.afa)
 
@@ -3176,9 +3176,9 @@ Average length of proteins in cluster: 379.6
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  |   serotype |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------:|
-| CAI34008.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |         27 |      0 |
+| protein_accession   | order           | family           | genus         | species                  |   serotype |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|----------------------------------:|
+| CAI34008.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |         27 |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0043_24/sequences.afa)
 
@@ -3244,10 +3244,10 @@ Average length of proteins in cluster: 429.9
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI33798.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 22F        |      0 |
-| CAI33774.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 22A        |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI33798.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 22F        |                                 0 |
+| CAI33774.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 22A        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0042_91/sequences.afa)
 
@@ -3310,9 +3310,9 @@ Average length of proteins in cluster: 441.7
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ACD75796.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O63        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ACD75796.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O63        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0041_7/sequences.afa)
 
@@ -3371,9 +3371,9 @@ Average length of proteins in cluster: 405.1
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| AAK60458.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O91        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| AAK60458.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O91        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0041_14/sequences.afa)
 
@@ -3431,18 +3431,18 @@ Average length of proteins in cluster: 432.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species                     | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:----------------------------|:-----------|-------:|
-| AKA20935.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:2c       |      0 |
-| AKA20966.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:4a       |      0 |
-| AKL88154.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:8        |      0 |
-| AAY23739.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O77        |      0 |
-| AAY23733.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O73        |      0 |
-| AAY23745.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O106       |      0 |
-| BAQ01935.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O176       |      0 |
-| BAQ02177.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O77        |      0 |
-| BAQ02105.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O17        |      0 |
-| BAQ00945.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O44        |      0 |
+| protein_accession   | order            | family             | genus       | species                     | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:----------------------------|:-----------|----------------------------------:|
+| AKA20935.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:2c       |                                 0 |
+| AKA20966.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:4a       |                                 0 |
+| AKL88154.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:8        |                                 0 |
+| AAY23739.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O77        |                                 0 |
+| AAY23733.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O73        |                                 0 |
+| AAY23745.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O106       |                                 0 |
+| BAQ01935.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O176       |                                 0 |
+| BAQ02177.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O77        |                                 0 |
+| BAQ02105.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O17        |                                 0 |
+| BAQ00945.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O44        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0040_29/sequences.afa)
 
@@ -3548,10 +3548,10 @@ Average length of proteins in cluster: 425.9
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species                | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------------|:-----------|-------:|
-| AAM27595.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O12        |      0 |
-| AFW04757.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica    | O61        |      0 |
+| protein_accession   | order            | family             | genus       | species                | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------------|:-----------|----------------------------------:|
+| AAM27595.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O12        |                                 0 |
+| AFW04757.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica    | O61        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0039_46/sequences.afa)
 
@@ -3607,10 +3607,10 @@ Average length of proteins in cluster: 447.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus       | species                | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:------------|:-----------------------|:-----------|-------:|
-| AAM27560.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O10        |      0 |
-| AAM27711.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O19        |      0 |
+| protein_accession   | order           | family           | genus       | species                | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:------------|:-----------------------|:-----------|----------------------------------:|
+| AAM27560.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O10        |                                 0 |
+| AAM27711.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O19        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0037_42/sequences.afa)
 
@@ -3673,10 +3673,10 @@ Average length of proteins in cluster: 395.6
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI33515.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 17F        |      0 |
-| CAI33491.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 17A        |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI33515.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 17F        |                                 0 |
+| CAI33491.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 17A        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0037_18/sequences.afa)
 
@@ -3740,11 +3740,11 @@ Average length of proteins in cluster: 387.6
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species           | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:------------------|:-----------|-------:|
-| ABE98437.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli  | O146       |      0 |
-| ABI98986.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli  | O147       |      0 |
-| ABU80601.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella flexneri | 6          |      0 |
+| protein_accession   | order            | family             | genus       | species           | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:------------------|:-----------|----------------------------------:|
+| ABE98437.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli  | O146       |                                 0 |
+| ABI98986.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli  | O147       |                                 0 |
+| ABU80601.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella flexneri | 6          |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0036_84/sequences.afa)
 
@@ -3820,9 +3820,9 @@ Average length of proteins in cluster: 432.9
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| AIG62684.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O20        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| AIG62684.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O20        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0036_105/sequences.afa)
 
@@ -3874,10 +3874,10 @@ Average length of proteins in cluster: 330.6
 
 #### Seeds in cluster:
 
-| protein_accession   | order        | family        | genus         | species                 | serotype   |   WzyE |
-|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------:|
-| AHB32774.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O12        |      0 |
-| AHB32438.2          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O22        |      0 |
+| protein_accession   | order        | family        | genus         | species                 | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|----------------------------------:|
+| AHB32774.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O12        |                                 0 |
+| AHB32438.2          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O22        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0035_56/sequences.afa)
 
@@ -3943,13 +3943,13 @@ Average length of proteins in cluster: 403.9
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species                     | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:----------------------------|:-----------|-------:|
-| CAB63298.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:1B       |      0 |
-| AKA20948.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:3        |      0 |
-| ACV52983.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:11       |      0 |
-| ACV53000.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:14       |      0 |
-| BAQ01843.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O163       |      0 |
+| protein_accession   | order            | family             | genus       | species                     | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:----------------------------|:-----------|----------------------------------:|
+| CAB63298.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:1B       |                                 0 |
+| AKA20948.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:3        |                                 0 |
+| ACV52983.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:11       |                                 0 |
+| ACV53000.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:14       |                                 0 |
+| BAQ01843.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O163       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0034_69/sequences.afa)
 
@@ -4021,12 +4021,12 @@ Average length of proteins in cluster: 382.3
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype      |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:--------------|-------:|
-| ACD37165.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O13           |      0 |
-| ACD37173.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O135          |      0 |
-| ACD37181.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O129          |      0 |
-| BAQ02259.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O13/O129/O135 |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype      |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:--------------|----------------------------------:|
+| ACD37165.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O13           |                                 0 |
+| ACD37173.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O135          |                                 0 |
+| ACD37181.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O129          |                                 0 |
+| BAQ02259.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O13/O129/O135 |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0033_96/sequences.afa)
 
@@ -4098,11 +4098,11 @@ Average length of proteins in cluster: 344.3
 
 #### Seeds in cluster:
 
-| protein_accession   | order        | family        | genus         | species                    | serotype   |   WzyE |
-|:--------------------|:-------------|:--------------|:--------------|:---------------------------|:-----------|-------:|
-| AHB32666.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter nosocomialis | O4         |      0 |
-| AHB32888.2          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii    | O7         |      0 |
-| AHB32334.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii    | O18        |      0 |
+| protein_accession   | order        | family        | genus         | species                    | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-------------|:--------------|:--------------|:---------------------------|:-----------|----------------------------------:|
+| AHB32666.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter nosocomialis | O4         |                                 0 |
+| AHB32888.2          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii    | O7         |                                 0 |
+| AHB32334.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii    | O18        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0033_27/sequences.afa)
 
@@ -4164,12 +4164,12 @@ Average length of proteins in cluster: 427.3
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI33610.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 18F        |      0 |
-| CAI33537.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 18A        |      0 |
-| CAI33561.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 18B        |      0 |
-| CAI33585.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 18C        |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI33610.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 18F        |                                 0 |
+| CAI33537.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 18A        |                                 0 |
+| CAI33561.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 18B        |                                 0 |
+| CAI33585.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 18C        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0030_97/sequences.afa)
 
@@ -4246,12 +4246,12 @@ Average length of proteins in cluster: 377.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species                | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------------|:-----------|-------:|
-| BAQ00634.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli       | O12        |      0 |
-| ACA24852.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli       | O29        |      0 |
-| ACA24840.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae   | 11         |      0 |
-| AAM27879.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O9         |      0 |
+| protein_accession   | order            | family             | genus       | species                | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------------|:-----------|----------------------------------:|
+| BAQ00634.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli       | O12        |                                 0 |
+| ACA24852.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli       | O29        |                                 0 |
+| ACA24840.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae   | 11         |                                 0 |
+| AAM27879.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O9         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0029_36/sequences.afa)
 
@@ -4331,10 +4331,10 @@ Average length of proteins in cluster: 384.1
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus      | species             | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------|-------:|
-| ACD37026.1          | Enterobacterales | Enterobacteriaceae | Shigella   | Shigella boydii     | 12         |      0 |
-| AFW04716.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O45        |      0 |
+| protein_accession   | order            | family             | genus      | species             | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------|----------------------------------:|
+| ACD37026.1          | Enterobacterales | Enterobacteriaceae | Shigella   | Shigella boydii     | 12         |                                 0 |
+| AFW04716.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O45        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0028_121/sequences.afa)
 
@@ -4386,10 +4386,10 @@ Average length of proteins in cluster: 416.3
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01584.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O120       |      0 |
-| BAQ01641.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O131       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01584.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O120       |                                 0 |
+| BAQ01641.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O131       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0026_39/sequences.afa)
 
@@ -4448,13 +4448,13 @@ Average length of proteins in cluster: 409.3
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI33105.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 10F        |      0 |
-| CAI33048.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 10A        |      0 |
-| CAI34733.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 10B        |      0 |
-| CAI33084.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 10C        |      0 |
-| CAI34436.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 39         |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI33105.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 10F        |                                 0 |
+| CAI33048.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 10A        |                                 0 |
+| CAI34733.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 10B        |                                 0 |
+| CAI33084.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 10C        |                                 0 |
+| CAI34436.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 39         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0025_99/sequences.afa)
 
@@ -4534,15 +4534,15 @@ Average length of proteins in cluster: 381.6
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ABK27355.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |      0 |
-| ABK27354.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |      0 |
-| ABK27351.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |      0 |
-| BAI31288.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |      0 |
-| ABK27350.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |      0 |
-| ABK27321.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |      0 |
-| ABK27352.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ABK27355.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |                                 0 |
+| ABK27354.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |                                 0 |
+| ABK27351.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |                                 0 |
+| BAI31288.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |                                 0 |
+| ABK27350.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |                                 0 |
+| ABK27321.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |                                 0 |
+| ABK27352.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0025_49/sequences.afa)
 
@@ -4595,10 +4595,10 @@ Average length of proteins in cluster: 399.5
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI33862.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 23F        |      0 |
-| CAI33840.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 23B        |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI33862.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 23F        |                                 0 |
+| CAI33840.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 23B        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0024_3/sequences.afa)
 
@@ -4659,10 +4659,10 @@ Average length of proteins in cluster: 398.1
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01793.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O156       |      0 |
-| BAQ01878.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O170       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01793.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O156       |                                 0 |
+| BAQ01878.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O170       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0023_98/sequences.afa)
 
@@ -4726,9 +4726,9 @@ Average length of proteins in cluster: 394.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01533.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O110       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01533.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O110       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0022_66/sequences.afa)
 
@@ -4779,14 +4779,14 @@ Average length of proteins in cluster: 396.3
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus      | species             | serotype                            |   WzyE |
-|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:------------------------------------|-------:|
-| CAA43912.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Muenchen                            |      0 |
-| WP_001529369.1      | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Kentucky O8 98/39 |      0 |
-| WP_000936592.1      | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Newport           |      0 |
-| WP_000936591.1      | Enterobacterales | Enterobacteriaceae | Salmonella | nan                 | Hadar                               |      0 |
-| ACF64132.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Newport           |      0 |
-| WP_000936589.1      | Enterobacterales | Enterobacteriaceae | Salmonella | nan                 | ssp. enterica sv. Kentucky O8 98/39 |      0 |
+| protein_accession   | order            | family             | genus      | species             | serotype                            |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:------------------------------------|----------------------------------:|
+| CAA43912.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Muenchen                            |                                 0 |
+| WP_001529369.1      | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Kentucky O8 98/39 |                                 0 |
+| WP_000936592.1      | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Newport           |                                 0 |
+| WP_000936591.1      | Enterobacterales | Enterobacteriaceae | Salmonella | nan                 | Hadar                               |                                 0 |
+| ACF64132.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Newport           |                                 0 |
+| WP_000936589.1      | Enterobacterales | Enterobacteriaceae | Salmonella | nan                 | ssp. enterica sv. Kentucky O8 98/39 |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0022_41/sequences.afa)
 
@@ -4839,11 +4839,11 @@ Average length of proteins in cluster: 368.3
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ABI98976.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O141       |      0 |
-| WP_046788607.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O141ab     |      0 |
-| WP_000456161.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O141ac     |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ABI98976.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O141       |                                 0 |
+| WP_046788607.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O141ab     |                                 0 |
+| WP_000456161.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O141ac     |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0022_40/sequences.afa)
 
@@ -4890,10 +4890,10 @@ Average length of proteins in cluster: 427.1
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| CBN82200.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O70        |      0 |
-| ADI77033.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O71        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| CBN82200.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O70        |                                 0 |
+| ADI77033.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O71        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0021_93/sequences.afa)
 
@@ -4956,11 +4956,11 @@ Average length of proteins in cluster: 394.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI33324.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 14         |      0 |
-| CAI33366.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 15B        |      0 |
-| CAI33389.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 15C        |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI33324.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 14         |                                 0 |
+| CAI33366.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 15B        |                                 0 |
+| CAI33389.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 15C        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0021_76/sequences.afa)
 
@@ -5028,9 +5028,9 @@ Average length of proteins in cluster: 372.5
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ABB04486.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O98        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ABB04486.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O98        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0021_44/sequences.afa)
 
@@ -5079,9 +5079,9 @@ Average length of proteins in cluster: 465.9
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  |   serotype |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------:|
-| CAI32772.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          4 |      0 |
+| protein_accession   | order           | family           | genus         | species                  |   serotype |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|----------------------------------:|
+| CAI32772.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          4 |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0021_22/sequences.afa)
 
@@ -5135,14 +5135,14 @@ Average length of proteins in cluster: 396.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus      | species             | serotype                     |   WzyE |
-|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------------------------|-------:|
-| CAA43077.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O3,10 (E1) Anatum            |      0 |
-| AAB48190.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Strasbourg |      0 |
-| WP_000231472.1      | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Weltevreden                  |      0 |
-| AGS07316.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O1,3,19 (E4) Senftenberg     |      0 |
-| AGS07327.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O3,10 (E1) Anatum            |      0 |
-| AGS07363.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Strasbourg |      0 |
+| protein_accession   | order            | family             | genus      | species             | serotype                     |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------------------------|----------------------------------:|
+| CAA43077.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O3,10 (E1) Anatum            |                                 0 |
+| AAB48190.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Strasbourg |                                 0 |
+| WP_000231472.1      | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Weltevreden                  |                                 0 |
+| AGS07316.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O1,3,19 (E4) Senftenberg     |                                 0 |
+| AGS07327.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O3,10 (E1) Anatum            |                                 0 |
+| AGS07363.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Strasbourg |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0021_140/sequences.afa)
 
@@ -5202,9 +5202,9 @@ Average length of proteins in cluster: 421.1
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01317.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O88        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01317.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O88        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0020_23/sequences.afa)
 
@@ -5250,10 +5250,10 @@ Average length of proteins in cluster: 346.6
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------:|
-| ACV67289.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O35        |      0 |
-| AFW04785.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O62        |      0 |
+| protein_accession   | order            | family             | genus       | species             | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|----------------------------------:|
+| ACV67289.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O35        |                                 0 |
+| AFW04785.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O62        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0020_16/sequences.afa)
 
@@ -5310,9 +5310,9 @@ Average length of proteins in cluster: 392.7
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| AAT85653.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O4         |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| AAT85653.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O4         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0019_72/sequences.afa)
 
@@ -5358,10 +5358,10 @@ Average length of proteins in cluster: 400.4
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus       | species                | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:------------|:-----------------------|:-----------|-------:|
-| AAD45264.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O11        |      0 |
-| AAM27574.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O11        |      0 |
+| protein_accession   | order           | family           | genus       | species                | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:------------|:-----------------------|:-----------|----------------------------------:|
+| AAD45264.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O11        |                                 0 |
+| AAM27574.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O11        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0019_68/sequences.afa)
 
@@ -5408,10 +5408,10 @@ Average length of proteins in cluster: 387.7
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01675.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O133       |      0 |
-| ACD37126.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 2          |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01675.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O133       |                                 0 |
+| ACD37126.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 2          |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0019_64/sequences.afa)
 
@@ -5464,11 +5464,11 @@ Average length of proteins in cluster: 381.6
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01361.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O90        |      0 |
-| CAS09721.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O127       |      0 |
-| AAR90892.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O127       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01361.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O90        |                                 0 |
+| CAS09721.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O127       |                                 0 |
+| AAR90892.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O127       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0018_92/sequences.afa)
 
@@ -5521,9 +5521,9 @@ Average length of proteins in cluster: 439.6
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  |   serotype |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------:|
-| CAI32705.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          1 |      0 |
+| protein_accession   | order           | family           | genus         | species                  |   serotype |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|----------------------------------:|
+| CAI32705.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          1 |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0018_75/sequences.afa)
 
@@ -5579,12 +5579,12 @@ Average length of proteins in cluster: 326.7
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species                     | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:----------------------------|:-----------|-------:|
-| AEP25500.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:6        |      0 |
-| WP_000482333.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O55        |      0 |
-| BAG11898.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O55        |      0 |
-| AAV34523.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica         | 50         |      0 |
+| protein_accession   | order            | family             | genus       | species                     | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:----------------------------|:-----------|----------------------------------:|
+| AEP25500.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:6        |                                 0 |
+| WP_000482333.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O55        |                                 0 |
+| BAG11898.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O55        |                                 0 |
+| AAV34523.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica         | 50         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0018_74/sequences.afa)
 
@@ -5640,11 +5640,11 @@ Average length of proteins in cluster: 476.8
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI33983.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 25F        |      0 |
-| CAI33966.2          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 25A        |      0 |
-| CAI34407.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 38         |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI33983.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 25F        |                                 0 |
+| CAI33966.2          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 25A        |                                 0 |
+| CAI34407.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 38         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0018_63/sequences.afa)
 
@@ -5683,11 +5683,11 @@ Average length of proteins in cluster: 404.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------:|
-| BAQ00858.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O38        |      0 |
-| WP_016238111.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O81        |      0 |
-| ACA24776.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 8          |      0 |
+| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|----------------------------------:|
+| BAQ00858.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O38        |                                 0 |
+| WP_016238111.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O81        |                                 0 |
+| ACA24776.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 8          |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0018_28/sequences.afa)
 
@@ -5752,9 +5752,9 @@ Average length of proteins in cluster: 329.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order        | family        | genus         | species                 | serotype   |   WzyE |
-|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------:|
-| AHB32242.2          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O5         |      0 |
+| protein_accession   | order        | family        | genus         | species                 | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|----------------------------------:|
+| AHB32242.2          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O5         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0018_104/sequences.afa)
 
@@ -5809,11 +5809,11 @@ Average length of proteins in cluster: 360.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------:|
-| BAQ01169.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O69        |      0 |
-| ACA24803.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O150       |      0 |
-| ACA24792.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 13         |      0 |
+| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|----------------------------------:|
+| BAQ01169.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O69        |                                 0 |
+| ACA24803.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O150       |                                 0 |
+| ACA24792.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 13         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0017_61/sequences.afa)
 
@@ -5875,9 +5875,9 @@ Average length of proteins in cluster: 413.6
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| AAZ85718.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O139       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| AAZ85718.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O139       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0017_32/sequences.afa)
 
@@ -5923,9 +5923,9 @@ Average length of proteins in cluster: 327.3
 
 #### Seeds in cluster:
 
-| protein_accession   | order        | family        | genus         | species                 | serotype   |   WzyE |
-|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------:|
-| AHB32832.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O19        |      0 |
+| protein_accession   | order        | family        | genus         | species                 | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|----------------------------------:|
+| AHB32832.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O19        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0017_148/sequences.afa)
 
@@ -5960,9 +5960,9 @@ Average length of proteins in cluster: 482.9
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI33817.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 23A        |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI33817.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 23A        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0017_142/sequences.afa)
 
@@ -6016,10 +6016,10 @@ Average length of proteins in cluster: 408.1
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species                | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------------|:-----------|-------:|
-| AAY28257.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli       | O177       |      0 |
-| AAM27782.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O4         |      0 |
+| protein_accession   | order            | family             | genus       | species                | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------------|:-----------|----------------------------------:|
+| AAY28257.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli       | O177       |                                 0 |
+| AAM27782.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O4         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0017_125/sequences.afa)
 
@@ -6074,9 +6074,9 @@ Average length of proteins in cluster: 411.9
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species               | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:----------------------|:-----------|-------:|
-| ABX51880.1          | Enterobacterales | Enterobacteriaceae | Cronobacter | Cronobacter sakazakii | O1         |      0 |
+| protein_accession   | order            | family             | genus       | species               | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:----------------------|:-----------|----------------------------------:|
+| ABX51880.1          | Enterobacterales | Enterobacteriaceae | Cronobacter | Cronobacter sakazakii | O1         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0017_118/sequences.afa)
 
@@ -6120,9 +6120,9 @@ Average length of proteins in cluster: 415.1
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ00830.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O36        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ00830.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O36        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0016_79/sequences.afa)
 
@@ -6175,12 +6175,12 @@ Average length of proteins in cluster: 453.4
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------:|
-| CAD19991.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O6         |      0 |
-| WP_000864940.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O6         |      0 |
-| ADT75640.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O6         |      0 |
-| AFW04706.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O40        |      0 |
+| protein_accession   | order            | family             | genus       | species             | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|----------------------------------:|
+| CAD19991.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O6         |                                 0 |
+| WP_000864940.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O6         |                                 0 |
+| ADT75640.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O6         |                                 0 |
+| AFW04706.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O40        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0016_78/sequences.afa)
 
@@ -6223,13 +6223,13 @@ Average length of proteins in cluster: 392.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI33207.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 11F        |      0 |
-| CAI33128.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 11A        |      0 |
-| CAI33149.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 11B        |      0 |
-| CAI33169.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 11C        |      0 |
-| CAI33188.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 11D        |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI33207.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 11F        |                                 0 |
+| CAI33128.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 11A        |                                 0 |
+| CAI33149.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 11B        |                                 0 |
+| CAI33169.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 11C        |                                 0 |
+| CAI33188.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 11D        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0016_67/sequences.afa)
 
@@ -6310,9 +6310,9 @@ Average length of proteins in cluster: 408.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ADN43858.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O137       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ADN43858.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O137       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0016_55/sequences.afa)
 
@@ -6363,13 +6363,13 @@ Average length of proteins in cluster: 409.1
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI33278.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 12F        |      0 |
-| CAI33226.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 12A        |      0 |
-| CAI33252.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 12B        |      0 |
-| CAI34753.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 44         |      0 |
-| CAI34613.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 46         |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI33278.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 12F        |                                 0 |
+| CAI33226.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 12A        |                                 0 |
+| CAI33252.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 12B        |                                 0 |
+| CAI34753.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 44         |                                 0 |
+| CAI34613.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 46         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0016_47/sequences.afa)
 
@@ -6425,9 +6425,9 @@ Average length of proteins in cluster: 381.9
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| AAV74543.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O15        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| AAV74543.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O15        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0016_137/sequences.afa)
 
@@ -6477,9 +6477,9 @@ Average length of proteins in cluster: 399.3
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01716.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O140       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01716.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O140       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0016_131/sequences.afa)
 
@@ -6527,9 +6527,9 @@ Average length of proteins in cluster: 436.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI33466.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 16F        |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI33466.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 16F        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0016_124/sequences.afa)
 
@@ -6580,11 +6580,11 @@ Average length of proteins in cluster: 395.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ACD37086.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O112ab     |      0 |
-| BAQ01999.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O181       |      0 |
-| ACD37078.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 15         |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ACD37086.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O112ab     |                                 0 |
+| BAQ01999.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O181       |                                 0 |
+| ACD37078.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 15         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0016_123/sequences.afa)
 
@@ -6648,10 +6648,10 @@ Average length of proteins in cluster: 414.9
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI33652.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 19B        |      0 |
-| CAI33675.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 19C        |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI33652.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 19B        |                                 0 |
+| CAI33675.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 19C        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0016_11/sequences.afa)
 
@@ -6705,12 +6705,12 @@ Average length of proteins in cluster: 395.5
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------:|
-| AHG15281.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O145       |      0 |
-| AFD18613.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O145       |      0 |
-| AAX58762.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O145       |      0 |
-| AFW04668.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O48        |      0 |
+| protein_accession   | order            | family             | genus       | species             | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|----------------------------------:|
+| AHG15281.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O145       |                                 0 |
+| AFD18613.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O145       |                                 0 |
+| AAX58762.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O145       |                                 0 |
+| AFW04668.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O48        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0015_43/sequences.afa)
 
@@ -6756,11 +6756,11 @@ Average length of proteins in cluster: 340.1
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------:|
-| AQU71717.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O1         |      0 |
-| AQU71739.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O1         |      0 |
-| AFW04812.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O42        |      0 |
+| protein_accession   | order            | family             | genus       | species             | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|----------------------------------:|
+| AQU71717.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O1         |                                 0 |
+| AQU71739.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O1         |                                 0 |
+| AFW04812.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O42        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0015_141/sequences.afa)
 
@@ -6813,10 +6813,10 @@ Average length of proteins in cluster: 451.6
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------:|
-| AAO37717.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O86        |      0 |
-| AFW04802.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O43        |      0 |
+| protein_accession   | order            | family             | genus       | species             | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|----------------------------------:|
+| AAO37717.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O86        |                                 0 |
+| AFW04802.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O43        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0015_134/sequences.afa)
 
@@ -6863,9 +6863,9 @@ Average length of proteins in cluster: 402.9
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ADV17650.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O11        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ADV17650.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O11        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0015_12/sequences.afa)
 
@@ -6910,9 +6910,9 @@ Average length of proteins in cluster: 396.9
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  |   serotype |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------:|
-| CAI32797.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          5 |      0 |
+| protein_accession   | order           | family           | genus         | species                  |   serotype |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|----------------------------------:|
+| CAI32797.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          5 |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0015_119/sequences.afa)
 
@@ -6963,10 +6963,10 @@ Average length of proteins in cluster: 438.1
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------:|
-| ACA24882.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O58        |      0 |
-| ACA24868.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 5          |      0 |
+| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|----------------------------------:|
+| ACA24882.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O58        |                                 0 |
+| ACA24868.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 5          |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0015_109/sequences.afa)
 
@@ -7025,10 +7025,10 @@ Average length of proteins in cluster: 412.3
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------:|
-| ACD36996.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O168       |      0 |
-| ACD36984.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 4          |      0 |
+| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|----------------------------------:|
+| ACD36996.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O168       |                                 0 |
+| ACD36984.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 4          |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0014_77/sequences.afa)
 
@@ -7086,10 +7086,10 @@ Average length of proteins in cluster: 350.3
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ABI98966.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O149       |      0 |
-| AAV41072.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | O1         |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ABI98966.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O149       |                                 0 |
+| AAV41072.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | O1         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0014_33/sequences.afa)
 
@@ -7138,16 +7138,16 @@ Average length of proteins in cluster: 391.1
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus      | species             | serotype           |   WzyE |
-|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-------------------|-------:|
-| AAC38177.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | 1,9,12,46,27:c:z39 |      0 |
-| AAL91079.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Schleissheim       |      0 |
-| AAL91080.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Vellore            |      0 |
-| AAL91081.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | II 4,12,27:i:z35   |      0 |
-| AAL91082.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Sloterdijk         |      0 |
-| WP_237703389.1      | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Schwarzengrund     |      0 |
-| ACF92750.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Schwarzengrund     |      0 |
-| AGS07346.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | D3                 |      0 |
+| protein_accession   | order            | family             | genus      | species             | serotype           |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-------------------|----------------------------------:|
+| AAC38177.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | 1,9,12,46,27:c:z39 |                                 0 |
+| AAL91079.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Schleissheim       |                                 0 |
+| AAL91080.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Vellore            |                                 0 |
+| AAL91081.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | II 4,12,27:i:z35   |                                 0 |
+| AAL91082.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Sloterdijk         |                                 0 |
+| WP_237703389.1      | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Schwarzengrund     |                                 0 |
+| ACF92750.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Schwarzengrund     |                                 0 |
+| AGS07346.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | D3                 |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0014_31/sequences.afa)
 
@@ -7192,9 +7192,9 @@ Average length of proteins in cluster: 395.8
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01456.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O100       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01456.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O100       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0014_138/sequences.afa)
 
@@ -7243,12 +7243,12 @@ Average length of proteins in cluster: 380.4
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI32973.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 9A         |      0 |
-| CAI32993.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 9L         |      0 |
-| CAI33011.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 9N         |      0 |
-| CAI33029.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 9V         |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI32973.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 9A         |                                 0 |
+| CAI32993.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 9L         |                                 0 |
+| CAI33011.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 9N         |                                 0 |
+| CAI33029.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 9V         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0014_103/sequences.afa)
 
@@ -7316,10 +7316,10 @@ Average length of proteins in cluster: 489.3
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------:|
-| BAQ01386.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O93        |      0 |
-| ACA24912.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 10         |      0 |
+| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|----------------------------------:|
+| BAQ01386.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O93        |                                 0 |
+| ACA24912.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 10         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0014_100/sequences.afa)
 
@@ -7368,16 +7368,16 @@ Average length of proteins in cluster: 391.5
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------:|
-| EKI39969.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |      0 |
-| BAK68980.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |      0 |
-| EKK44895.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |      0 |
-| BAK69191.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |      0 |
-| BAK69033.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |      0 |
-| AAC32340.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |      0 |
-| EKI95922.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |      0 |
-| AAV34494.1          | Enterobacterales | Enterobacteriaceae | Citrobacter | Citrobacter freundii | 90         |      0 |
+| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|----------------------------------:|
+| EKI39969.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |                                 0 |
+| BAK68980.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |                                 0 |
+| EKK44895.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |                                 0 |
+| BAK69191.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |                                 0 |
+| BAK69033.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |                                 0 |
+| AAC32340.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |                                 0 |
+| EKI95922.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |                                 0 |
+| AAV34494.1          | Enterobacterales | Enterobacteriaceae | Citrobacter | Citrobacter freundii | 90         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0013_60/sequences.afa)
 
@@ -7424,10 +7424,10 @@ Average length of proteins in cluster: 412.5
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI34057.2          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 28F        |      0 |
-| CAI34032.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 28A        |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI34057.2          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 28F        |                                 0 |
+| CAI34032.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 28A        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0013_57/sequences.afa)
 
@@ -7465,11 +7465,11 @@ Average length of proteins in cluster: 416.1
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI32889.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 7B         |      0 |
-| CAI32910.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 7C         |      0 |
-| CAI34454.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 40         |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI32889.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 7B         |                                 0 |
+| CAI32910.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 7C         |                                 0 |
+| CAI34454.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 40         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0013_34/sequences.afa)
 
@@ -7523,12 +7523,12 @@ Average length of proteins in cluster: 405.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ00736.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O22        |      0 |
-| ACD37058.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O32        |      0 |
-| BAQ01277.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O83        |      0 |
-| ACD37051.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 14         |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ00736.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O22        |                                 0 |
+| ACD37058.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O32        |                                 0 |
+| BAQ01277.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O83        |                                 0 |
+| ACD37051.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 14         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0013_116/sequences.afa)
 
@@ -7598,11 +7598,11 @@ Average length of proteins in cluster: 366.5
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------:|
-| ACD37138.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O124       |      0 |
-| ACD37146.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O164       |      0 |
-| ACD37105.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 3          |      0 |
+| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|----------------------------------:|
+| ACD37138.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O124       |                                 0 |
+| ACD37146.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O164       |                                 0 |
+| ACD37105.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 3          |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0012_50/sequences.afa)
 
@@ -7663,9 +7663,9 @@ Average length of proteins in cluster: 407.6
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  |   serotype |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------:|
-| CAI33745.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |         21 |      0 |
+| protein_accession   | order           | family           | genus         | species                  |   serotype |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|----------------------------------:|
+| CAI33745.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |         21 |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0012_130/sequences.afa)
 
@@ -7701,9 +7701,9 @@ Average length of proteins in cluster: 370.7
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01960.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O179       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01960.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O179       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0012_110/sequences.afa)
 
@@ -7749,10 +7749,10 @@ Average length of proteins in cluster: 343.3
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ABE98419.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O126       |      0 |
-| ADN43845.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O126       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ABE98419.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O126       |                                 0 |
+| ADN43845.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O126       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0011_26/sequences.afa)
 
@@ -7798,9 +7798,9 @@ Average length of proteins in cluster: 382.5
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01563.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O116       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01563.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O116       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0011_154/sequences.afa)
 
@@ -7846,10 +7846,10 @@ Average length of proteins in cluster: 345.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| AAO37701.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O128ab     |      0 |
-| WP_024244058.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O128ac     |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| AAO37701.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O128ab     |                                 0 |
+| WP_024244058.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O128ac     |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0011_153/sequences.afa)
 
@@ -7893,9 +7893,9 @@ Average length of proteins in cluster: 399.3
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ADB02825.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O119       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ADB02825.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O119       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0011_122/sequences.afa)
 
@@ -7942,9 +7942,9 @@ Average length of proteins in cluster: 389.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ00653.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O16        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ00653.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O16        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0010_94/sequences.afa)
 
@@ -7989,10 +7989,10 @@ Average length of proteins in cluster: 341.5
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------:|
-| BAQ00746.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O23        |      0 |
-| AFW04888.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O51        |      0 |
+| protein_accession   | order            | family             | genus       | species             | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|----------------------------------:|
+| BAQ00746.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O23        |                                 0 |
+| AFW04888.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O51        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0010_82/sequences.afa)
 
@@ -8045,9 +8045,9 @@ Average length of proteins in cluster: 359.4
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ADC54957.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O166       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ADC54957.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O166       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0010_62/sequences.afa)
 
@@ -8090,9 +8090,9 @@ Average length of proteins in cluster: 378.9
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01207.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O74        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01207.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O74        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0010_58/sequences.afa)
 
@@ -8139,11 +8139,11 @@ Average length of proteins in cluster: 346.7
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01860.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O169       |      0 |
-| BAL03056.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O183       |      0 |
-| AAL27339.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 6          |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01860.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O169       |                                 0 |
+| BAL03056.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O183       |                                 0 |
+| AAL27339.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 6          |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0010_158/sequences.afa)
 
@@ -8206,9 +8206,9 @@ Average length of proteins in cluster: 389.4
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01238.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O80        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01238.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O80        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0010_135/sequences.afa)
 
@@ -8252,10 +8252,10 @@ Average length of proteins in cluster: 410.4
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus         | species                 | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|-------:|
-| AHB32586.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O24        |      0 |
-| BAQ01516.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O108       |      0 |
+| protein_accession   | order            | family             | genus         | species                 | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|----------------------------------:|
+| AHB32586.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O24        |                                 0 |
+| BAQ01516.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O108       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0010_120/sequences.afa)
 
@@ -8313,10 +8313,10 @@ Average length of proteins in cluster: 375.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------:|
-| ACV67297.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O78        |      0 |
-| AFW04684.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O65        |      0 |
+| protein_accession   | order            | family             | genus       | species             | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|----------------------------------:|
+| ACV67297.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O78        |                                 0 |
+| AFW04684.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O65        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0010_111/sequences.afa)
 
@@ -8371,9 +8371,9 @@ Average length of proteins in cluster: 383.4
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01293.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O84        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01293.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O84        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0010_106/sequences.afa)
 
@@ -8418,10 +8418,10 @@ Average length of proteins in cluster: 446.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------:|
-| BAQ02031.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O184       |      0 |
-| AFW04696.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O39        |      0 |
+| protein_accession   | order            | family             | genus       | species             | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|----------------------------------:|
+| BAQ02031.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O184       |                                 0 |
+| AFW04696.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O39        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0009_95/sequences.afa)
 
@@ -8468,9 +8468,9 @@ Average length of proteins in cluster: 379.3
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ00705.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O19        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ00705.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O19        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0009_87/sequences.afa)
 
@@ -8506,8 +8506,8 @@ Average length of proteins in cluster: 441.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | WzyE   |
-|---------------------|---------|----------|---------|-----------|------------|--------|
+| protein_accession   | order   | family   | genus   | species   | serotype   | Enterococcal common antigen Wzy   |
+|---------------------|---------|----------|---------|-----------|------------|-----------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0009_37/sequences.afa)
 
@@ -8543,11 +8543,11 @@ Average length of proteins in cluster: 350.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species                     | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:----------------------------|:-----------|-------:|
-| ADX97403.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:10       |      0 |
-| AFE83402.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O111       |      0 |
-| WP_001300154.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O111       |      0 |
+| protein_accession   | order            | family             | genus       | species                     | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:----------------------------|:-----------|----------------------------------:|
+| ADX97403.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:10       |                                 0 |
+| AFE83402.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O111       |                                 0 |
+| WP_001300154.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O111       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0009_169/sequences.afa)
 
@@ -8604,9 +8604,9 @@ Average length of proteins in cluster: 383.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ADJ19217.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O61        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ADJ19217.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O61        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0009_165/sequences.afa)
 
@@ -8655,10 +8655,10 @@ Average length of proteins in cluster: 435.9
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ADN43883.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O165       |      0 |
-| ACD37072.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 7          |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ADN43883.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O165       |                                 0 |
+| ACD37072.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 7          |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0009_147/sequences.afa)
 
@@ -8709,9 +8709,9 @@ Average length of proteins in cluster: 358.8
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus      | species             | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------|-------:|
-| AFW04860.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O60        |      0 |
+| protein_accession   | order            | family             | genus      | species             | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------|----------------------------------:|
+| AFW04860.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O60        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0009_146/sequences.afa)
 
@@ -8755,10 +8755,10 @@ Average length of proteins in cluster: 425.1
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ABZ79721.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O53        |      0 |
-| ABB65530.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 4          |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ABZ79721.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O53        |                                 0 |
+| ABB65530.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 4          |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0009_133/sequences.afa)
 
@@ -8804,10 +8804,10 @@ Average length of proteins in cluster: 403.6
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI33412.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 15F        |      0 |
-| CAI33343.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 15A        |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI33412.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 15F        |                                 0 |
+| CAI33343.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 15A        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0009_117/sequences.afa)
 
@@ -8863,9 +8863,9 @@ Average length of proteins in cluster: 360.8
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01266.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O82        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01266.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O82        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0009_102/sequences.afa)
 
@@ -8910,9 +8910,9 @@ Average length of proteins in cluster: 409.8
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01218.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O76        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01218.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O76        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0008_89/sequences.afa)
 
@@ -8957,10 +8957,10 @@ Average length of proteins in cluster: 363.5
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ACA24739.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O79        |      0 |
-| AAL27327.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 5          |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ACA24739.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O79        |                                 0 |
+| AAL27327.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 5          |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0008_70/sequences.afa)
 
@@ -9015,9 +9015,9 @@ Average length of proteins in cluster: 386.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  |   serotype |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------:|
-| CAI32957.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          8 |      0 |
+| protein_accession   | order           | family           | genus         | species                  |   serotype |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|----------------------------------:|
+| CAI32957.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          8 |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0008_54/sequences.afa)
 
@@ -9063,9 +9063,9 @@ Average length of proteins in cluster: 381.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| AAY28249.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O174       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| AAY28249.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O174       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0008_160/sequences.afa)
 
@@ -9111,9 +9111,9 @@ Average length of proteins in cluster: 362.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  |   serotype |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------:|
-| CAI34587.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |         45 |      0 |
+| protein_accession   | order           | family           | genus         | species                  |   serotype |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|----------------------------------:|
+| CAI34587.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |         45 |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0008_159/sequences.afa)
 
@@ -9156,9 +9156,9 @@ Average length of proteins in cluster: 415.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01419.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O96        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01419.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O96        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0008_156/sequences.afa)
 
@@ -9204,9 +9204,9 @@ Average length of proteins in cluster: 380.1
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01894.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O171       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01894.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O171       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0008_149/sequences.afa)
 
@@ -9252,11 +9252,11 @@ Average length of proteins in cluster: 416.1
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI33941.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 24F        |      0 |
-| CAI33890.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 24A        |      0 |
-| CAI33915.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 24B        |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI33941.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 24F        |                                 0 |
+| CAI33890.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 24A        |                                 0 |
+| CAI33915.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 24B        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0008_143/sequences.afa)
 
@@ -9292,10 +9292,10 @@ Average length of proteins in cluster: 445.9
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01598.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O125ac     |      0 |
-| WP_038349068.1      | Enterobacterales | Enterobacteriaceae | nan         | nan              | O125ab     |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01598.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O125ac     |                                 0 |
+| WP_038349068.1      | Enterobacterales | Enterobacteriaceae | nan         | nan              | O125ab     |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0008_139/sequences.afa)
 
@@ -9331,9 +9331,9 @@ Average length of proteins in cluster: 394.4
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ02015.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O182       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ02015.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O182       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0008_115/sequences.afa)
 
@@ -9377,9 +9377,9 @@ Average length of proteins in cluster: 393.9
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  |   serotype |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------:|
-| CAI32727.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          2 |      0 |
+| protein_accession   | order           | family           | genus         | species                  |   serotype |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|----------------------------------:|
+| CAI32727.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          2 |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0008_107/sequences.afa)
 
@@ -9420,11 +9420,11 @@ Average length of proteins in cluster: 405.9
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family       | genus    | species                     | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------|:---------|:----------------------------|:-----------|-------:|
-| AKA20981.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:5a       |      0 |
-| AKA20999.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:5b       |      0 |
-| CAX18360.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:15       |      0 |
+| protein_accession   | order            | family       | genus    | species                     | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------|:---------|:----------------------------|:-----------|----------------------------------:|
+| AKA20981.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:5a       |                                 0 |
+| AKA20999.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:5b       |                                 0 |
+| CAX18360.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:15       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0007_21/sequences.afa)
 
@@ -9487,9 +9487,9 @@ Average length of proteins in cluster: 343.6
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| AAN60459.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O26        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| AAN60459.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O26        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0007_181/sequences.afa)
 
@@ -9533,8 +9533,8 @@ Average length of proteins in cluster: 387.4
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | WzyE   |
-|---------------------|---------|----------|---------|-----------|------------|--------|
+| protein_accession   | order   | family   | genus   | species   | serotype   | Enterococcal common antigen Wzy   |
+|---------------------|---------|----------|---------|-----------|------------|-----------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0007_172/sequences.afa)
 
@@ -9567,9 +9567,9 @@ Average length of proteins in cluster: 394.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| AAD50486.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O113       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| AAD50486.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O113       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0007_171/sequences.afa)
 
@@ -9614,10 +9614,10 @@ Average length of proteins in cluster: 385.4
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------:|
-| AJE24464.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O153       |      0 |
-| AFW04790.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O52        |      0 |
+| protein_accession   | order            | family             | genus       | species             | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|----------------------------------:|
+| AJE24464.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O153       |                                 0 |
+| AFW04790.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O52        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0007_168/sequences.afa)
 
@@ -9673,10 +9673,10 @@ Average length of proteins in cluster: 395.9
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------:|
-| ACD37117.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O40        |      0 |
-| ACD37111.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 9          |      0 |
+| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|----------------------------------:|
+| ACD37117.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O40        |                                 0 |
+| ACD37111.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 9          |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0007_167/sequences.afa)
 
@@ -9730,10 +9730,10 @@ Average length of proteins in cluster: 351.1
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ABB29906.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O24        |      0 |
-| ABB29916.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O56        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ABB29906.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O24        |                                 0 |
+| ABB29916.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O56        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0007_129/sequences.afa)
 
@@ -9786,9 +9786,9 @@ Average length of proteins in cluster: 344.4
 
 #### Seeds in cluster:
 
-| protein_accession   | order        | family        | genus         | species                 | serotype   |   WzyE |
-|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------:|
-| AHB32311.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O8         |      0 |
+| protein_accession   | order        | family        | genus         | species                 | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|----------------------------------:|
+| AHB32311.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O8         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0007_127/sequences.afa)
 
@@ -9822,10 +9822,10 @@ Average length of proteins in cluster: 321.1
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ACD75809.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O2         |      0 |
-| BAQ01012.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O50        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ACD75809.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O2         |                                 0 |
+| BAQ01012.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O50        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0007_126/sequences.afa)
 
@@ -9875,9 +9875,9 @@ Average length of proteins in cluster: 411.4
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus    | species         |   serotype |   WzyE |
-|:--------------------|:-----------------|:-------------------|:---------|:----------------|-----------:|-------:|
-| AAZ91245.1          | Enterobacterales | Enterobacteriaceae | Shigella | Shigella sonnei |        nan |      0 |
+| protein_accession   | order            | family             | genus    | species         |   serotype |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:---------|:----------------|-----------:|----------------------------------:|
+| AAZ91245.1          | Enterobacterales | Enterobacteriaceae | Shigella | Shigella sonnei |        nan |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0007_113/sequences.afa)
 
@@ -9914,11 +9914,11 @@ Average length of proteins in cluster: 418.7
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI34099.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 31         |      0 |
-| CAI34498.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 41F        |      0 |
-| CAI34475.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 41A        |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI34099.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 31         |                                 0 |
+| CAI34498.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 41F        |                                 0 |
+| CAI34475.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 41A        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0007_108/sequences.afa)
 
@@ -9978,10 +9978,10 @@ Average length of proteins in cluster: 388.5
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| AAT28922.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O172       |      0 |
-| AAR24270.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 13         |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| AAT28922.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O172       |                                 0 |
+| AAR24270.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 13         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0006_162/sequences.afa)
 
@@ -10033,9 +10033,9 @@ Average length of proteins in cluster: 406.5
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ABI34565.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O22        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ABI34565.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O22        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0006_155/sequences.afa)
 
@@ -10080,9 +10080,9 @@ Average length of proteins in cluster: 469.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order        | family        | genus         | species                 | serotype   |   WzyE |
-|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------:|
-| AHB32357.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O27        |      0 |
+| protein_accession   | order        | family        | genus         | species                 | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|----------------------------------:|
+| AHB32357.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O27        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0006_151/sequences.afa)
 
@@ -10117,10 +10117,10 @@ Average length of proteins in cluster: 449.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family       | genus    | species                     | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------|:---------|:----------------------------|:-----------|-------:|
-| ADI59429.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:1c       |      0 |
-| ADI59445.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:2b       |      0 |
+| protein_accession   | order            | family       | genus    | species                     | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------|:---------|:----------------------------|:-----------|----------------------------------:|
+| ADI59429.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:1c       |                                 0 |
+| ADI59445.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:2b       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0006_132/sequences.afa)
 
@@ -10173,9 +10173,9 @@ Average length of proteins in cluster: 386.3
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| AAZ20761.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O66        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| AAZ20761.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O66        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0006_114/sequences.afa)
 
@@ -10219,9 +10219,9 @@ Average length of proteins in cluster: 370.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| AIG62747.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O178       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| AIG62747.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O178       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0006_101/sequences.afa)
 
@@ -10268,9 +10268,9 @@ Average length of proteins in cluster: 415.8
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01702.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O136       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01702.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O136       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0005_51/sequences.afa)
 
@@ -10315,10 +10315,10 @@ Average length of proteins in cluster: 342.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ACA24829.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O105       |      0 |
-| AAS98031.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 11         |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ACA24829.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O105       |                                 0 |
+| AAS98031.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 11         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0005_179/sequences.afa)
 
@@ -10363,9 +10363,9 @@ Average length of proteins in cluster: 324.4
 
 #### Seeds in cluster:
 
-| protein_accession   | order        | family        | genus         | species                 | serotype   |   WzyE |
-|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------:|
-| AHB32614.2          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O20        |      0 |
+| protein_accession   | order        | family        | genus         | species                 | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|----------------------------------:|
+| AHB32614.2          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O20        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0005_175/sequences.afa)
 
@@ -10399,10 +10399,10 @@ Average length of proteins in cluster: 386.4
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| WP_074526664.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O188       |      0 |
-| ABD19779.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 16         |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| WP_074526664.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O188       |                                 0 |
+| ABD19779.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 16         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0005_152/sequences.afa)
 
@@ -10448,9 +10448,9 @@ Average length of proteins in cluster: 355.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ADN43838.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O115       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ADN43838.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O115       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0005_128/sequences.afa)
 
@@ -10493,9 +10493,9 @@ Average length of proteins in cluster: 319.8
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus      | species             | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------|-------:|
-| AFW04735.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O63        |      0 |
+| protein_accession   | order            | family             | genus      | species             | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------|----------------------------------:|
+| AFW04735.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O63        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0004_85/sequences.afa)
 
@@ -10530,9 +10530,9 @@ Average length of proteins in cluster: 403.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ADJ19203.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O161       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ADJ19203.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O161       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0004_81/sequences.afa)
 
@@ -10577,9 +10577,9 @@ Average length of proteins in cluster: 375.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ACA24901.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O87        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ACA24901.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O87        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0004_73/sequences.afa)
 
@@ -10621,9 +10621,9 @@ Average length of proteins in cluster: 399.5
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ00893.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O41        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ00893.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O41        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0004_182/sequences.afa)
 
@@ -10667,9 +10667,9 @@ Average length of proteins in cluster: 333.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ADC54929.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O1         |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ADC54929.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O1         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0004_178/sequences.afa)
 
@@ -10711,10 +10711,10 @@ Average length of proteins in cluster: 362.8
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   WzyE |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------:|
-| CAI34544.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 43         |      0 |
-| CAI34641.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 47A        |      0 |
+| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|----------------------------------:|
+| CAI34544.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 43         |                                 0 |
+| CAI34641.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 47A        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0004_177/sequences.afa)
 
@@ -10755,9 +10755,9 @@ Average length of proteins in cluster: 370.2
 
 #### Seeds in cluster:
 
-| protein_accession   | order        | family        | genus         | species                 | serotype   |   WzyE |
-|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------:|
-| AHB32386.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O13        |      0 |
+| protein_accession   | order        | family        | genus         | species                 | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|----------------------------------:|
+| AHB32386.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O13        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0004_166/sequences.afa)
 
@@ -10793,9 +10793,9 @@ Average length of proteins in cluster: 402.8
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus    | species         |   serotype |   WzyE |
-|:--------------------|:-----------------|:-------------------|:---------|:----------------|-----------:|-------:|
-| AAL27351.1          | Enterobacterales | Enterobacteriaceae | Shigella | Shigella boydii |          9 |      0 |
+| protein_accession   | order            | family             | genus    | species         |   serotype |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:---------|:----------------|-----------:|----------------------------------:|
+| AAL27351.1          | Enterobacterales | Enterobacteriaceae | Shigella | Shigella boydii |          9 |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0004_164/sequences.afa)
 
@@ -10839,11 +10839,11 @@ Average length of proteins in cluster: 440.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ACH97132.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O107       |      0 |
-| ACH97143.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O117       |      0 |
-| ABE98413.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O117       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ACH97132.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O107       |                                 0 |
+| ACH97143.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O117       |                                 0 |
+| ABE98413.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O117       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0004_163/sequences.afa)
 
@@ -10892,9 +10892,9 @@ Average length of proteins in cluster: 364.8
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ACH97152.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O3         |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ACH97152.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O3         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0004_150/sequences.afa)
 
@@ -10936,10 +10936,10 @@ Average length of proteins in cluster: 380.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------:|
-| ABA42232.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O148       |      0 |
-| WP_000220864.1      | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | O148       |      0 |
+| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|----------------------------------:|
+| ABA42232.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O148       |                                 0 |
+| WP_000220864.1      | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | O148       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0004_112/sequences.afa)
 
@@ -10985,9 +10985,9 @@ Average length of proteins in cluster: 383.7
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ADN43871.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O158       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ADN43871.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O158       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0003_90/sequences.afa)
 
@@ -11030,9 +11030,9 @@ Average length of proteins in cluster: 368.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01155.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O68        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01155.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O68        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0003_184/sequences.afa)
 
@@ -11074,9 +11074,9 @@ Average length of proteins in cluster: 399.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01659.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O132       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01659.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O132       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0003_183/sequences.afa)
 
@@ -11119,9 +11119,9 @@ Average length of proteins in cluster: 390.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ00927.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O43        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ00927.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O43        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0003_176/sequences.afa)
 
@@ -11162,8 +11162,8 @@ Average length of proteins in cluster: 454.3
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | WzyE   |
-|---------------------|---------|----------|---------|-----------|------------|--------|
+| protein_accession   | order   | family   | genus   | species   | serotype   | Enterococcal common antigen Wzy   |
+|---------------------|---------|----------|---------|-----------|------------|-----------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0003_174/sequences.afa)
 
@@ -11197,9 +11197,9 @@ Average length of proteins in cluster: 353.3
 
 #### Seeds in cluster:
 
-| protein_accession   | order        | family        | genus         | species                 | serotype   |   WzyE |
-|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------:|
-| AHB32267.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O6         |      0 |
+| protein_accession   | order        | family        | genus         | species                 | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|----------------------------------:|
+| AHB32267.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O6         |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0003_170/sequences.afa)
 
@@ -11234,9 +11234,9 @@ Average length of proteins in cluster: 423.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01137.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O65        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01137.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O65        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0003_145/sequences.afa)
 
@@ -11277,8 +11277,8 @@ Average length of proteins in cluster: 417.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | WzyE   |
-|---------------------|---------|----------|---------|-----------|------------|--------|
+| protein_accession   | order   | family   | genus   | species   | serotype   | Enterococcal common antigen Wzy   |
+|---------------------|---------|----------|---------|-----------|------------|-----------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0003_144/sequences.afa)
 
@@ -11313,9 +11313,9 @@ Average length of proteins in cluster: 340.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ00812.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O34        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ00812.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O34        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0002_180/sequences.afa)
 
@@ -11348,9 +11348,9 @@ Average length of proteins in cluster: 339.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| ACA24890.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O159       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| ACA24890.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O159       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0002_173/sequences.afa)
 
@@ -11391,9 +11391,9 @@ Average length of proteins in cluster: 409.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01114.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O64        |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01114.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O64        |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0002_161/sequences.afa)
 
@@ -11434,8 +11434,8 @@ Average length of proteins in cluster: 393.5
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | WzyE   |
-|---------------------|---------|----------|---------|-----------|------------|--------|
+| protein_accession   | order   | family   | genus   | species   | serotype   | Enterococcal common antigen Wzy   |
+|---------------------|---------|----------|---------|-----------|------------|-----------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0002_157/sequences.afa)
 
@@ -11469,9 +11469,9 @@ Average length of proteins in cluster: 346.0
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   WzyE |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------:|
-| BAQ01780.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O154       |      0 |
+| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterococcal common antigen Wzy |
+|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|----------------------------------:|
+| BAQ01780.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O154       |                                 0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0002_136/sequences.afa)
 
