@@ -161,7 +161,7 @@ for cluster in clusters:
     outfile.write(f"#### Seeds in cluster:\n\n")
     seeds_table = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(seed_accessions),
                                         ['protein_accession', 'order', 'family', 'genus', 'species', 'serotype', 'WzyE']]
-    seeds_table.rename(columns={'WzyE':'Enterococcal common antigen Wzy'}, inplace=True)
+    seeds_table.rename(columns={'WzyE':'Enterobacterial common antigen Wzy'}, inplace=True)
     outfile.write(seeds_table.to_markdown(index=False)+'\n\n')
 
     # Alignment

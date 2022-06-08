@@ -32,7 +32,7 @@ Average length of proteins in cluster: 448.2
 
 | protein_accession   | order            | family             | genus       | species             | serotype                            |   Enterococcal common antigen Wzy |
 |:--------------------|:-----------------|:-------------------|:------------|:--------------------|:------------------------------------|----------------------------------:|
-| AAC45844.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O8                                  |                                 0 |
+| AAC45844.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O8                                  |                                 1 |
 | ACF61556.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | ssp. enterica sv. Newport           |                                 1 |
 | ACF69242.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | Heidelberg                          |                                 1 |
 | WP_000055605.1      | Enterobacterales | Enterobacteriaceae | Salmonella  | nan                 | ssp. enterica sv. Kentucky O8 98/39 |                                 1 |
@@ -57,14 +57,6 @@ Average length of proteins in cluster: 448.2
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206071539/clusters/0548_2/hits.tsv)
 
 #### Sugars in cluster:
-
-AAC45844.1:
-
-![](../../../csdb/images/1509.gif)
-
-CSDB record ID: 1509
-
--3)bDManp(1-2)aDManp(1-2)aDManp(1-
 
 #### Alphafold models:
 
