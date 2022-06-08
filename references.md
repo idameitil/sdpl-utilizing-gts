@@ -1,9 +1,14 @@
+# Deleted
+AQU71805.1, AQU71788.1
+
+# Seed in banned file
+AHB32746.2 (188 AA and no sugar)
+
 # E-value to bit score conversion
 1e-10	63.5
 3e-15	77.4
 1e-21	95.5
 9e-28	114
-
 
 # Meeting Morten Nielsen logoplots
 220531
