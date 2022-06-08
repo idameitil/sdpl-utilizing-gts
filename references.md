@@ -26,7 +26,7 @@ Don't make cartoon dotted when showing sidechains:
 
 # Catalytic residues
 
-R, K, D/E, Y (pointing finger), H
+R (Arg, base), K (Lys, base), D/E (Asp, Glu, acids), Y (Tyr, aromatic, pointing finger), H (His, base)
 
 # Connecting to R drive
 
