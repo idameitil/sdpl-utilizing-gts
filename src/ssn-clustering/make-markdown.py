@@ -85,7 +85,7 @@ def get_conserved_residues(df):
         if len(most_frequent_AA) == 1:
             count_most_frequent_AA = df.iloc[position].value_counts().max()
             freq_most_frequent_AA = (count_most_frequent_AA / count_sequences)
-            if freq_most_frequent_AA > 0.98 and most_frequent_AA not in AAs_ignore:
+            if freq_most_frequent_AA > 0.97 and most_frequent_AA not in AAs_ignore:
                 conserved_residues[position] = (most_frequent_AA[0], freq_most_frequent_AA)
     return conserved_residues
 
