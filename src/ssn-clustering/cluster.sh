@@ -14,3 +14,6 @@ python src/ssn-clustering/make-markdown.py $1
 
 echo "\n*** CONVERTING REPORT TO HTML ***\n"
 pandoc data/wzy/ssn-clusterings/$1/report.md -o data/wzy/ssn-clusterings/$1/report.html -f gfm
+
+echo "\n*** MAKING PYMOL SCRIPT ***\n"
+python src/ssn-clustering/make-pymol-script.py $1
