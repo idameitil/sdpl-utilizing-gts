@@ -1,3 +1,4 @@
+from heapq import merge
 from ete3 import NCBITaxa
 import pandas as pd
 
@@ -71,3 +72,6 @@ merged_df['csdb_image_path'] = merged_df.loc[pd.notnull(merged_df['CSDB_record_I
 
 ### WRITE NEW TSV ###
 merged_df.to_csv("data/wzy/wzy.tsv", sep = '\t', index=False)
+
+if len(merged_df) != len(polymerase_df):
+    sys.stderr.write("WARNING: wzy.tsv has a different number of lines than selected-wzys.tsv.")
