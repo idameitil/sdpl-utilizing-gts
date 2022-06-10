@@ -102,6 +102,9 @@ resultsdir = f"data/wzy/ssn-clusterings/{timestamp}"
 outfile = open(f"{resultsdir}/report.md", "w")
 outfile.write(f"# Report of ssn-clustering run {timestamp}\n")
 
+seed_df = pd.read_csv("data/wzy/wzy.tsv", sep='\t', dtype=object)
+seeds_and_hits_df = pd.read_csv("data/wzy/seeds-and-hits.tsv", sep='\t', dtype=object)
+
 # Metadata
 outfile.write('## Metadata\n')
 metadata_file = open(f"{resultsdir}/metadata.txt")
@@ -123,6 +126,34 @@ clusters = [file for file in os.listdir(
     clusterdir) if not file.startswith('.')]
 clusters.sort(reverse=True)
 
+# How many orders before/after
+infile = open(f"{resultsdir}/included_accessions.txt")
+included_accessions = []
+for line in infile:
+    included_accessions.append(line.strip())
+kingdom_before = seed_df.loc[seed_df.protein_accession.isin(included_accessions), 'kingdom'].unique()
+kingdom_after = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(included_accessions), 'kingdom'].unique()
+phylum_before = seed_df.loc[seed_df.protein_accession.isin(included_accessions), 'phylum'].unique()
+phylum_after = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(included_accessions), 'phylum'].unique()
+class_before = seed_df.loc[seed_df.protein_accession.isin(included_accessions), 'class'].unique()
+class_after = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(included_accessions), 'class'].unique()
+order_before = seed_df.loc[seed_df.protein_accession.isin(included_accessions), 'order'].unique()
+order_after = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(included_accessions), 'order'].unique()
+family_before = seed_df.loc[seed_df.protein_accession.isin(included_accessions), 'family'].unique()
+family_after = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(included_accessions), 'family'].unique()
+genus_before = seed_df.loc[seed_df.protein_accession.isin(included_accessions), 'genus'].unique()
+genus_after = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(included_accessions), 'genus'].unique()
+species_before = seed_df.loc[seed_df.protein_accession.isin(included_accessions), 'species'].unique()
+species_after = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(included_accessions), 'species'].unique()
+
+outfile.write("Number of different taxonomical ranks before and after expansion:\n\n")
+data = {"kingdom": [len(kingdom_before), len(kingdom_after)], \
+    "phylum": [len(phylum_before), len(phylum_after)], "class": [len(class_before), len(class_after)], \
+    "order": [len(order_before), len(order_after)], "family": [len(family_before), len(family_after)], \
+    "genus": [len(genus_before), len(genus_after)], "species": [len(species_before), len(species_after)]}
+before_after_df = pd.DataFrame(data, ['before', 'after'])
+outfile.write(f"{before_after_df.to_markdown()}\n\n")
+
 # Navigation
 outfile.write('## Navigation\n')
 for cluster in clusters:
@@ -137,9 +168,8 @@ outfile.write('\n\n')
 ###############################
 
 outfile.write('## Clusters\n')
-seed_df = pd.read_csv("data/wzy/wzy.tsv", sep='\t', dtype=object)
-seeds_and_hits_df = pd.read_csv("data/wzy/seeds-and-hits.tsv", sep='\t', dtype=object)
 image_github_url = 'https://github.com/idameitil/phd/raw/master'
+
 for cluster in clusters:
     if cluster.startswith('.'):
         continue
