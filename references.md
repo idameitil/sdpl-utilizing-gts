@@ -1,5 +1,7 @@
-# Deleted
+# Deleted from selected-ezys.tsv
 AQU71805.1, AQU71788.1
+CAI34388.1 (removed from selected-wzys.tsv). The paper says that the sugar of this serotype is produced from a different gene cluster.
+AHB32746.2 (188 AA and no sugar)
 
 # Seed in banned file
 AHB32746.2 (188 AA and no sugar)
