@@ -3,7 +3,7 @@ import pandas as pd
 import sys
 
 ###############################
-### TAXONOMY FUNCTION      ####
+###       FUNCTIONS        ####
 ###############################
 
 def make_taxonomy_table(taxonomy_df):
@@ -73,6 +73,21 @@ def make_taxonomy_table(taxonomy_df):
     df = pd.DataFrame(data)
     return df.to_markdown(index=False)
 
+def get_conserved_residues(df):
+    """Gets conserved residues from MSA"""
+    AAs_ignore = ['-', 'G', 'A', 'V', 'C', 'P', 'L', 'I', 'M', 'W', 'F']
+    length = len(df)
+    count_sequences = df.shape[1]
+    conserved_residues = dict()
+    for position in range(length):
+        most_frequent_AA = df.iloc[position].mode().values
+        if len(most_frequent_AA) == 1:
+            count_most_frequent_AA = df.iloc[position].value_counts().max()
+            freq_most_frequent_AA = (count_most_frequent_AA / count_sequences)
+            if freq_most_frequent_AA > 0.98 and most_frequent_AA not in AAs_ignore:
+                conserved_residues[position] = (most_frequent_AA[0], freq_most_frequent_AA)
+    return conserved_residues
+
 ###############################
 ### WRITE GENERAL INFO     ####
 ###############################
@@ -122,8 +137,7 @@ outfile.write('\n\n')
 
 outfile.write('## Clusters\n')
 seed_df = pd.read_csv("data/wzy/wzy.tsv", sep='\t', dtype=object)
-seeds_and_hits_df = pd.read_csv(
-    "data/wzy/seeds-and-hits.tsv", sep='\t', dtype=object)
+seeds_and_hits_df = pd.read_csv("data/wzy/seeds-and-hits.tsv", sep='\t', dtype=object)
 image_github_url = 'https://github.com/idameitil/phd/raw/master'
 for cluster in clusters:
     if cluster.startswith('.'):
@@ -156,6 +170,14 @@ for cluster in clusters:
     # Length
     lengths = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(accessions), 'seq'].apply(lambda x: len(x)).mean()
     outfile.write(f"Average length of proteins in cluster: {round(lengths, 1)}\n\n")
+
+    # Conserved residues
+    outfile.write(f"Conserved residues: ")
+    conserved_residues = get_conserved_residues(df)
+    for position in conserved_residues:
+        AA, frequency = conserved_residues[position]
+        outfile.write(f"{AA} {position} {round(frequency*100), 1}% ")
+    outfile.write('\n\n')
 
     # Seeds
     outfile.write(f"#### Seeds in cluster:\n\n")
