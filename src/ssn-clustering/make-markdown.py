@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 import sys
+from Bio import SeqIO
 
 ###############################
 ###       FUNCTIONS        ####
@@ -172,11 +173,17 @@ for cluster in clusters:
     outfile.write(f"Average length of proteins in cluster: {round(lengths, 1)}\n\n")
 
     # Conserved residues
-    outfile.write(f"Conserved residues: ")
+    outfile.write(f"#### Conserved (non-aliphatic) residues: \n\n")
+    MSA_file = f"{dir}/sequences.afa"
+    fasta_sequences = SeqIO.parse(open(MSA_file), 'fasta')
+    data = dict()
+    for fasta in fasta_sequences:
+        data[fasta.id] = [char for char in str(fasta.seq)]
+    df = pd.DataFrame(data)
     conserved_residues = get_conserved_residues(df)
     for position in conserved_residues:
         AA, frequency = conserved_residues[position]
-        outfile.write(f"{AA} {position} {round(frequency*100), 1}% ")
+        outfile.write(f"{AA} {position} ({str(round(frequency*100, 1))}%) ")
     outfile.write('\n\n')
 
     # Seeds
