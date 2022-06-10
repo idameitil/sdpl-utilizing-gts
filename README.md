@@ -7,7 +7,7 @@ Manually curated Wzys from papers are added to `data/selected-wzys.tsv`.
 The DNA records for the Wzys were downloaded manually using NCBI batch entry (https://www.ncbi.nlm.nih.gov/sites/batchentrez) (Click “Send to:”, "Complete Record", "GenBank (full)"). They are stored in `data/selected_OAGCs.gb` (Some are O-antigen gene clusters, some are whole genome sequences). This file is too big to store in GitHub, and is just stored locally.
 
 ### Enriching Wzy table with sugars and taxonomy
-To enrich the selected wzys with csdb sugars and taxonomy run `python3 src/data-collection-and-preprocessing/enrich-wzys.py`
+To enrich the selected wzys with csdb sugars and taxonomy run `python src/data-collection-and-preprocessing/enrich-wzys.py`
 
 This will create the file `data/wzy/wzy.tsv`
 
@@ -60,10 +60,10 @@ Then locally run:
 
 `data/wzy/blast/unique-hits.csv` is a csv file containing taxids along with other info. It also includes identical sequences and therefore has more lines than `data/wzy/blast/unique-hits.tsv`.
 
-`sed 's/ >.*$//' data/wzy/blast/unique-hits.fasta > data/wzy/blast/unique-hits-short-headers.fasta`
+To generate fasta with short headers, run: `sed 's/ >.*$//' data/wzy/blast/unique-hits.fasta > data/wzy/blast/unique-hits-short-headers.fasta`
 
 ### Make nodes file
-Run `python3 src/data-collection-and-preprocessing/make-nodes-file.py`. 
+Run `python src/data-collection-and-preprocessing/make-nodes-file.py`. 
 
 This will generate the file `data/wzy/seeds-and-hits.tsv`.
 
@@ -113,7 +113,7 @@ Push changes.
 ## Phylogenetic trees
 
 ### Make iTOL label files
-To make iTOL label files, run `python3 src/phylogenetic-trees/make-itol-label-files.py`. This will create label files in the folder `data/wzy/phylogenetic-trees/itol-label-files`.
+To make iTOL label files, run `python src/phylogenetic-trees/make-itol-label-files.py`. This will create label files in the folder `data/wzy/phylogenetic-trees/itol-label-files`.
 
 The MUSCLE tree is generated at: `https://www.ebi.ac.uk/Tools/msa/muscle/` by uploading `data/wzy/wzy.fasta`. This tree is saved as `data/wzy/phylogenetic-trees/trees/muscle-tree.nwk`.
 
