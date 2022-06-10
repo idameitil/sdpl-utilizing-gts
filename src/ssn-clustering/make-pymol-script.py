@@ -26,12 +26,12 @@ set_view (\
    160.759674072,  247.048858643,  -20.000000000 )"""
 
 string2 = f"""
-load PDB, ACC
-color silver, ACC"""
+load PDB, CLUSTER_ACC
+color silver, CLUSTER_ACC"""
 
 string4 = f"""show licorice, cons_ACC
 color atomic, cons_ACC
-cealign 7tpg, ACC
+cealign 7tpg, CLUSTER_ACC
 """
 
 
@@ -71,6 +71,9 @@ for experiment in selected_experiments:
     for model in models:
         accession2path[model] = f"{path}/{model}/ranked_0.pdb"
 
+# Banned alphafold models
+banned_AF_models = ["EHX11459.1"]
+
 # Main
 cluster_dir = f"data/wzy/ssn-clusterings/{timestamp}/clusters"
 clusters = [f for f in os.listdir(cluster_dir) if not f.startswith('.')]
@@ -94,14 +97,23 @@ for cluster in clusters:
     alphafold_accessions = [acc for acc in df.columns if acc in accession2path]
     # Get positions in alphafold models
     for alphafold_accession in alphafold_accessions:
+        if alphafold_accession in banned_AF_models:
+            continue
         positions = get_specific_positions(alphafold_accession)
-        outfile.write(string2.replace("ACC", alphafold_accession).replace("PDB", accession2path[alphafold_accession]) + '\n')
+        outfile.write(string2.replace("ACC", alphafold_accession).replace("PDB", accession2path[alphafold_accession]).replace("CLUSTER", cluster) + '\n')
         
         string3 = f"select cons_{alphafold_accession}, "
         for position in positions:
-            string3 += f"resi {position} and {alphafold_accession} or "
+            string3 += f"resi {position} and {cluster}_{alphafold_accession} or "
+        for position in positions:
+            outfile.write(f'label n. CA and resi {position} and {cluster}_{alphafold_accession}, "%s-%s" % (resn, resi)\n')
         string3 = string3[:-4]
         outfile.write(string3 + '\n')
 
-        outfile.write(string4.replace("ACC", alphafold_accession) + '\n')
-
+        outfile.write(string4.replace("ACC", alphafold_accession).replace("CLUSTER", cluster) + '\n')
+        break # if we've found one successful AF model, we don't want to include more
+outfile.write("set label_position,(1,1,1)\n")
+outfile.write("set label_color,black\n")
+outfile.write("center \n")
+outfile.write("disable \n")
+outfile.close()
