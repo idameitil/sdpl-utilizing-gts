@@ -58,7 +58,10 @@ def get_specific_positions(accession):
         if AA != '-':
             count += 1
         if index in conserved_residues:
-            positions[count] = conserved_residues[index]
+            if AA == conserved_residues[index][0]:
+                positions[count] = conserved_residues[index]
+            else:
+                print(f"Warning: {accession} doesn't have the conserved residue {index} {conserved_residues[index][0]}")
     return positions
 
 # Get list of all alphafold models
@@ -111,7 +114,7 @@ for cluster in clusters:
         outfile.write(string3 + '\n')
 
         outfile.write(string4.replace("ACC", alphafold_accession).replace("CLUSTER", cluster) + '\n')
-        break # if we've found one successful AF model, we don't want to include more
+        #break # if we've found one successful AF model, we don't want to include more
 outfile.write("set label_position,(1,1,1)\n")
 outfile.write("set label_color,black\n")
 outfile.write("center \n")

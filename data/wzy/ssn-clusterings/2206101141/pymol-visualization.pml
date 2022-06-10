@@ -30,6 +30,24 @@ color atomic, cons_AHB32861.1
 cealign 7tpg, 0240_9_AHB32861.1
 
 
+load data/wzy/alphafold/2202060002-wzy_100/af_out/AHB32215.1/ranked_0.pdb, 0240_9_AHB32215.1
+color silver, 0240_9_AHB32215.1
+label n. CA and resi 43 and 0240_9_AHB32215.1, "%s-%s" % (resn, resi)
+label n. CA and resi 49 and 0240_9_AHB32215.1, "%s-%s" % (resn, resi)
+label n. CA and resi 53 and 0240_9_AHB32215.1, "%s-%s" % (resn, resi)
+label n. CA and resi 137 and 0240_9_AHB32215.1, "%s-%s" % (resn, resi)
+label n. CA and resi 138 and 0240_9_AHB32215.1, "%s-%s" % (resn, resi)
+label n. CA and resi 171 and 0240_9_AHB32215.1, "%s-%s" % (resn, resi)
+label n. CA and resi 219 and 0240_9_AHB32215.1, "%s-%s" % (resn, resi)
+label n. CA and resi 232 and 0240_9_AHB32215.1, "%s-%s" % (resn, resi)
+label n. CA and resi 282 and 0240_9_AHB32215.1, "%s-%s" % (resn, resi)
+label n. CA and resi 283 and 0240_9_AHB32215.1, "%s-%s" % (resn, resi)
+select cons_AHB32215.1, resi 43 and 0240_9_AHB32215.1 or resi 49 and 0240_9_AHB32215.1 or resi 53 and 0240_9_AHB32215.1 or resi 137 and 0240_9_AHB32215.1 or resi 138 and 0240_9_AHB32215.1 or resi 171 and 0240_9_AHB32215.1 or resi 219 and 0240_9_AHB32215.1 or resi 232 and 0240_9_AHB32215.1 or resi 282 and 0240_9_AHB32215.1 or resi 283 and 0240_9_AHB32215.1
+show licorice, cons_AHB32215.1
+color atomic, cons_AHB32215.1
+cealign 7tpg, 0240_9_AHB32215.1
+
+
 load data/wzy/alphafold/2202060002-wzy_100/af_out/CAI34254.1/ranked_0.pdb, 0119_39_CAI34254.1
 color silver, 0119_39_CAI34254.1
 label n. CA and resi 182 and 0119_39_CAI34254.1, "%s-%s" % (resn, resi)
@@ -40,6 +58,30 @@ select cons_CAI34254.1, resi 182 and 0119_39_CAI34254.1 or resi 183 and 0119_39_
 show licorice, cons_CAI34254.1
 color atomic, cons_CAI34254.1
 cealign 7tpg, 0119_39_CAI34254.1
+
+
+load data/wzy/alphafold/2202060002-wzy_100/af_out/CAI34217.1/ranked_0.pdb, 0119_39_CAI34217.1
+color silver, 0119_39_CAI34217.1
+label n. CA and resi 186 and 0119_39_CAI34217.1, "%s-%s" % (resn, resi)
+label n. CA and resi 187 and 0119_39_CAI34217.1, "%s-%s" % (resn, resi)
+label n. CA and resi 193 and 0119_39_CAI34217.1, "%s-%s" % (resn, resi)
+label n. CA and resi 281 and 0119_39_CAI34217.1, "%s-%s" % (resn, resi)
+select cons_CAI34217.1, resi 186 and 0119_39_CAI34217.1 or resi 187 and 0119_39_CAI34217.1 or resi 193 and 0119_39_CAI34217.1 or resi 281 and 0119_39_CAI34217.1
+show licorice, cons_CAI34217.1
+color atomic, cons_CAI34217.1
+cealign 7tpg, 0119_39_CAI34217.1
+
+
+load data/wzy/alphafold/2202060002-wzy_100/af_out/CAI34198.1/ranked_0.pdb, 0119_39_CAI34198.1
+color silver, 0119_39_CAI34198.1
+label n. CA and resi 182 and 0119_39_CAI34198.1, "%s-%s" % (resn, resi)
+label n. CA and resi 183 and 0119_39_CAI34198.1, "%s-%s" % (resn, resi)
+label n. CA and resi 189 and 0119_39_CAI34198.1, "%s-%s" % (resn, resi)
+label n. CA and resi 278 and 0119_39_CAI34198.1, "%s-%s" % (resn, resi)
+select cons_CAI34198.1, resi 182 and 0119_39_CAI34198.1 or resi 183 and 0119_39_CAI34198.1 or resi 189 and 0119_39_CAI34198.1 or resi 278 and 0119_39_CAI34198.1
+show licorice, cons_CAI34198.1
+color atomic, cons_CAI34198.1
+cealign 7tpg, 0119_39_CAI34198.1
 
 
 load data/wzy/alphafold/2202060002-wzy_100/af_out/ADC54967.1/ranked_0.pdb, 0270_32_ADC54967.1
@@ -155,7 +197,6 @@ label n. CA and resi 160 and 0129_33_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 161 and 0129_33_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 163 and 0129_33_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 164 and 0129_33_BAQ00795.1, "%s-%s" % (resn, resi)
-label n. CA and resi 169 and 0129_33_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 177 and 0129_33_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 213 and 0129_33_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 222 and 0129_33_BAQ00795.1, "%s-%s" % (resn, resi)
@@ -165,7 +206,6 @@ label n. CA and resi 258 and 0129_33_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 261 and 0129_33_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 265 and 0129_33_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 276 and 0129_33_BAQ00795.1, "%s-%s" % (resn, resi)
-label n. CA and resi 292 and 0129_33_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 297 and 0129_33_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 300 and 0129_33_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 307 and 0129_33_BAQ00795.1, "%s-%s" % (resn, resi)
@@ -179,7 +219,7 @@ label n. CA and resi 326 and 0129_33_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 355 and 0129_33_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 366 and 0129_33_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 368 and 0129_33_BAQ00795.1, "%s-%s" % (resn, resi)
-select cons_BAQ00795.1, resi 30 and 0129_33_BAQ00795.1 or resi 38 and 0129_33_BAQ00795.1 or resi 95 and 0129_33_BAQ00795.1 or resi 97 and 0129_33_BAQ00795.1 or resi 129 and 0129_33_BAQ00795.1 or resi 159 and 0129_33_BAQ00795.1 or resi 160 and 0129_33_BAQ00795.1 or resi 161 and 0129_33_BAQ00795.1 or resi 163 and 0129_33_BAQ00795.1 or resi 164 and 0129_33_BAQ00795.1 or resi 169 and 0129_33_BAQ00795.1 or resi 177 and 0129_33_BAQ00795.1 or resi 213 and 0129_33_BAQ00795.1 or resi 222 and 0129_33_BAQ00795.1 or resi 226 and 0129_33_BAQ00795.1 or resi 232 and 0129_33_BAQ00795.1 or resi 258 and 0129_33_BAQ00795.1 or resi 261 and 0129_33_BAQ00795.1 or resi 265 and 0129_33_BAQ00795.1 or resi 276 and 0129_33_BAQ00795.1 or resi 292 and 0129_33_BAQ00795.1 or resi 297 and 0129_33_BAQ00795.1 or resi 300 and 0129_33_BAQ00795.1 or resi 307 and 0129_33_BAQ00795.1 or resi 308 and 0129_33_BAQ00795.1 or resi 312 and 0129_33_BAQ00795.1 or resi 313 and 0129_33_BAQ00795.1 or resi 317 and 0129_33_BAQ00795.1 or resi 318 and 0129_33_BAQ00795.1 or resi 321 and 0129_33_BAQ00795.1 or resi 326 and 0129_33_BAQ00795.1 or resi 355 and 0129_33_BAQ00795.1 or resi 366 and 0129_33_BAQ00795.1 or resi 368 and 0129_33_BAQ00795.1
+select cons_BAQ00795.1, resi 30 and 0129_33_BAQ00795.1 or resi 38 and 0129_33_BAQ00795.1 or resi 95 and 0129_33_BAQ00795.1 or resi 97 and 0129_33_BAQ00795.1 or resi 129 and 0129_33_BAQ00795.1 or resi 159 and 0129_33_BAQ00795.1 or resi 160 and 0129_33_BAQ00795.1 or resi 161 and 0129_33_BAQ00795.1 or resi 163 and 0129_33_BAQ00795.1 or resi 164 and 0129_33_BAQ00795.1 or resi 177 and 0129_33_BAQ00795.1 or resi 213 and 0129_33_BAQ00795.1 or resi 222 and 0129_33_BAQ00795.1 or resi 226 and 0129_33_BAQ00795.1 or resi 232 and 0129_33_BAQ00795.1 or resi 258 and 0129_33_BAQ00795.1 or resi 261 and 0129_33_BAQ00795.1 or resi 265 and 0129_33_BAQ00795.1 or resi 276 and 0129_33_BAQ00795.1 or resi 297 and 0129_33_BAQ00795.1 or resi 300 and 0129_33_BAQ00795.1 or resi 307 and 0129_33_BAQ00795.1 or resi 308 and 0129_33_BAQ00795.1 or resi 312 and 0129_33_BAQ00795.1 or resi 313 and 0129_33_BAQ00795.1 or resi 317 and 0129_33_BAQ00795.1 or resi 318 and 0129_33_BAQ00795.1 or resi 321 and 0129_33_BAQ00795.1 or resi 326 and 0129_33_BAQ00795.1 or resi 355 and 0129_33_BAQ00795.1 or resi 366 and 0129_33_BAQ00795.1 or resi 368 and 0129_33_BAQ00795.1
 show licorice, cons_BAQ00795.1
 color atomic, cons_BAQ00795.1
 cealign 7tpg, 0129_33_BAQ00795.1
@@ -199,6 +239,19 @@ color atomic, cons_BAQ02088.1
 cealign 7tpg, 0107_2_BAQ02088.1
 
 
+load data/wzy/alphafold/2205031317-wzy/af_out/ACA24754.1/ranked_0.pdb, 0107_2_ACA24754.1
+color silver, 0107_2_ACA24754.1
+label n. CA and resi 124 and 0107_2_ACA24754.1, "%s-%s" % (resn, resi)
+label n. CA and resi 162 and 0107_2_ACA24754.1, "%s-%s" % (resn, resi)
+label n. CA and resi 217 and 0107_2_ACA24754.1, "%s-%s" % (resn, resi)
+label n. CA and resi 294 and 0107_2_ACA24754.1, "%s-%s" % (resn, resi)
+label n. CA and resi 328 and 0107_2_ACA24754.1, "%s-%s" % (resn, resi)
+select cons_ACA24754.1, resi 124 and 0107_2_ACA24754.1 or resi 162 and 0107_2_ACA24754.1 or resi 217 and 0107_2_ACA24754.1 or resi 294 and 0107_2_ACA24754.1 or resi 328 and 0107_2_ACA24754.1
+show licorice, cons_ACA24754.1
+color atomic, cons_ACA24754.1
+cealign 7tpg, 0107_2_ACA24754.1
+
+
 load data/wzy/alphafold/2202060002-wzy_100/af_out/CAI33309.1/ranked_0.pdb, 0478_3_CAI33309.1
 color silver, 0478_3_CAI33309.1
 label n. CA and resi 150 and 0478_3_CAI33309.1, "%s-%s" % (resn, resi)
@@ -208,6 +261,17 @@ select cons_CAI33309.1, resi 150 and 0478_3_CAI33309.1 or resi 266 and 0478_3_CA
 show licorice, cons_CAI33309.1
 color atomic, cons_CAI33309.1
 cealign 7tpg, 0478_3_CAI33309.1
+
+
+load data/wzy/alphafold/2202060002-wzy_100/af_out/CAI34369.1/ranked_0.pdb, 0478_3_CAI34369.1
+color silver, 0478_3_CAI34369.1
+label n. CA and resi 151 and 0478_3_CAI34369.1, "%s-%s" % (resn, resi)
+label n. CA and resi 268 and 0478_3_CAI34369.1, "%s-%s" % (resn, resi)
+label n. CA and resi 308 and 0478_3_CAI34369.1, "%s-%s" % (resn, resi)
+select cons_CAI34369.1, resi 151 and 0478_3_CAI34369.1 or resi 268 and 0478_3_CAI34369.1 or resi 308 and 0478_3_CAI34369.1
+show licorice, cons_CAI34369.1
+color atomic, cons_CAI34369.1
+cealign 7tpg, 0478_3_CAI34369.1
 
 set label_position,(1,1,1)
 set label_color,black
