@@ -253,19 +253,21 @@ for cluster in clusters:
         CSDB_record_id = seed_df.loc[seed_df.protein_accession ==
                                      seed, 'CSDB_record_ID'].item()
         if not pd.isnull(CSDB_record_id):
+            seed_species = seed_df.loc[seed_df.protein_accession == seed, 'species_original'].item()
+            seed_serotype = seed_df.loc[seed_df.protein_accession == seed, 'serotype_edited'].item()
             if CSDB_record_id in image2seeds:
-                image2seeds[CSDB_record_id].append(seed)
+                image2seeds[CSDB_record_id].append((seed, seed_species, seed_serotype))
             else:
-                image2seeds[CSDB_record_id] = [seed]
+                image2seeds[CSDB_record_id] = [(seed, seed_species, seed_serotype)]
                 image2linear[CSDB_record_id] = seed_df.loc[seed_df.protein_accession ==
                                      seed, 'CSDB_Linear'].item()
     for CSDB_record_id in image2seeds:
         image_path = f"../../../csdb/images/{CSDB_record_id}.gif"
         #image_path = f"/Users/idamei/phd/data/csdb/images/{CSDB_record_id}.gif"
         seeds = image2seeds[CSDB_record_id]
-        outfile.write(f"{', '.join(seeds)}:\n\n")
+        outfile.write(f"{', '.join([' '.join(seed) for seed in seeds])}:\n\n")
         outfile.write(f"![]({image_path})\n\n")
-        #outfile.write(f"CSDB record ID: {CSDB_record_id}\n\n")
+        outfile.write(f"CSDB record ID: {CSDB_record_id}\n\n")
         #outfile.write(f"{image2linear[CSDB_record_id]}\n\n")
 
     # Sugar images for hits
@@ -275,21 +277,22 @@ for cluster in clusters:
     for acc in hit_accessions:
         if acc in list(hits_enriched_df.protein_accession):
             CSDB_record_id = hits_enriched_df.loc[hits_enriched_df.protein_accession == acc, 'CSDB_record_ID_y'].item()
-            print(CSDB_record_id)
             if not pd.isnull(CSDB_record_id):
+                species = hits_enriched_df.loc[hits_enriched_df.protein_accession == acc, 'species'].item()
+                serotype = hits_enriched_df.loc[hits_enriched_df.protein_accession == acc, 'serotype_x'].item()
                 if CSDB_record_id in image2seeds:
-                    image2seeds[CSDB_record_id].append(acc)
+                    image2seeds[CSDB_record_id].append((acc, species, serotype))
                 else:
-                    image2seeds[CSDB_record_id] = [acc]
+                    image2seeds[CSDB_record_id] = [(acc, species, serotype)]
                     # image2linear[CSDB_record_id] = hits_enriched_df.loc[hits_enriched_df.protein_accession ==
                                         # acc, 'CSDB_Linear'].item()
     for CSDB_record_id in image2seeds:
         image_path = f"../../../csdb/images/{CSDB_record_id}.gif"
         #image_path = f"/Users/idamei/phd/data/csdb/images/{CSDB_record_id}.gif"
         seeds = image2seeds[CSDB_record_id]
-        outfile.write(f"{', '.join(seeds)}:\n\n")
+        outfile.write(f"{', '.join([' '.join(seed) for seed in seeds])}:\n\n")
         outfile.write(f"![]({image_path})\n\n")
-        #outfile.write(f"CSDB record ID: {CSDB_record_id}\n\n")
+        outfile.write(f"CSDB record ID: {CSDB_record_id}\n\n")
         #outfile.write(f"{image2linear[CSDB_record_id]}\n\n")
 
     # AlphaFold models

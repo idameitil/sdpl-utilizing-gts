@@ -71,9 +71,11 @@ Y 160 (98.4%) Y 275 (100.0%) Y 295 (97.8%) Y 331 (98.5%) R 338 (100.0%) R 382 (1
 
 #### Sugars for blast hits:
 
-CAB3270026.1:
+CAB3270026.1 Salmonella enterica Typhimurium:
 
 ![](../../../csdb/images/911.gif)
+
+CSDB record ID: 911
 
 #### Alphafold models:
 
@@ -208,41 +210,59 @@ R 824 (98.3%) R 1156 (100.0%) D 1224 (100.0%)
 
 #### Sugars in cluster:
 
-CAI33309.1:
+CAI33309.1 Streptococcus pneumoniae 13:
 
 ![](../../../csdb/images/7061.gif)
 
-CAI33441.1:
+CSDB record ID: 7061
+
+CAI33441.1 Streptococcus pneumoniae 16A:
 
 ![](../../../csdb/images/1490.gif)
 
-CAI34080.1:
+CSDB record ID: 1490
+
+CAI34080.1 Streptococcus pneumoniae 29:
 
 ![](../../../csdb/images/1227.gif)
 
-CAI34348.1:
+CSDB record ID: 1227
+
+CAI34348.1 Streptococcus pneumoniae 35F:
 
 ![](../../../csdb/images/7095.gif)
 
-CAI34286.1:
+CSDB record ID: 7095
+
+CAI34286.1 Streptococcus pneumoniae 35A:
 
 ![](../../../csdb/images/1611.gif)
 
-CAI34310.1:
+CSDB record ID: 1611
+
+CAI34310.1 Streptococcus pneumoniae 35B:
 
 ![](../../../csdb/images/1609.gif)
 
-CAI34328.1:
+CSDB record ID: 1609
+
+CAI34328.1 Streptococcus pneumoniae 35C:
 
 ![](../../../csdb/images/7097.gif)
 
-CAI34519.1:
+CSDB record ID: 7097
+
+CAI34519.1 Streptococcus pneumoniae 42:
 
 ![](../../../csdb/images/25003.gif)
 
-CAI34657.1:
+CSDB record ID: 25003
+
+CAI34657.1 Streptococcus pneumoniae 47F:
 
 ![](../../../csdb/images/25005.gif)
+
+CSDB record ID: 25005
 
 #### Sugars for blast hits:
 
@@ -358,33 +378,47 @@ D 199 (99.6%) Y 205 (97.8%) R 351 (100.0%) H 393 (100.0%) R 664 (100.0%)
 
 #### Sugars in cluster:
 
-BAQ01024.1:
+BAQ01024.1 Escherichia coli O51:
 
 ![](../../../csdb/images/1558.gif)
 
-ADC54967.1:
+CSDB record ID: 1558
+
+ADC54967.1 Escherichia coli O75:
 
 ![](../../../csdb/images/619.gif)
 
-BAQ00622.1:
+CSDB record ID: 619
+
+BAQ00622.1 Escherichia coli O10:
 
 ![](../../../csdb/images/1512.gif)
 
-AQU71752.1:
+CSDB record ID: 1512
+
+AQU71752.1 Escherichia coli O1:
 
 ![](../../../csdb/images/7222.gif)
 
-AFW04820.1:
+CSDB record ID: 7222
+
+AFW04820.1 Salmonella enterica O11:
 
 ![](../../../csdb/images/2600.gif)
 
-AFW04883.1:
+CSDB record ID: 2600
+
+AFW04883.1 Salmonella enterica O57:
 
 ![](../../../csdb/images/701.gif)
 
-ABX51892.1:
+CSDB record ID: 701
+
+ABX51892.1 Cronobacter sakazakii O2:
 
 ![](../../../csdb/images/27572.gif)
+
+CSDB record ID: 27572
 
 #### Sugars for blast hits:
 
@@ -498,13 +532,17 @@ Y 503 (99.2%) R 506 (100.0%) Y 533 (99.2%) K 582 (97.3%) R 709 (100.0%) N 814 (9
 
 #### Sugars in cluster:
 
-CDF66396.1:
+CDF66396.1 Yersinia pseudotuberculosis O:9:
 
 ![](../../../csdb/images/12130.gif)
 
-BAQ00780.1:
+CSDB record ID: 12130
+
+BAQ00780.1 Escherichia coli O30:
 
 ![](../../../csdb/images/1539.gif)
+
+CSDB record ID: 1539
 
 #### Sugars for blast hits:
 
@@ -649,9 +687,11 @@ R 234 (99.6%) D 240 (99.6%) Y 244 (99.6%) R 417 (99.2%) Q 418 (100.0%) H 459 (99
 
 #### Sugars in cluster:
 
-AHB32215.1:
+AHB32215.1 Acinetobacter baumannii O1:
 
 ![](../../../csdb/images/2091.gif)
+
+CSDB record ID: 2091
 
 #### Sugars for blast hits:
 
@@ -787,13 +827,17 @@ R 593 (100.0%) Y 633 (98.0%) D 664 (100.0%)
 
 #### Sugars in cluster:
 
-CAI34150.1:
+CAI34150.1 Streptococcus pneumoniae 32F:
 
 ![](../../../csdb/images/848.gif)
 
-CAI34124.1:
+CSDB record ID: 848
+
+CAI34124.1 Streptococcus pneumoniae 32A:
 
 ![](../../../csdb/images/918.gif)
+
+CSDB record ID: 918
 
 #### Sugars for blast hits:
 
@@ -895,47 +939,67 @@ R 401 (100.0%) Y 510 (100.0%) N 608 (100.0%) D 619 (97.1%)
 
 #### Sugars in cluster:
 
-CAI32823.1:
+CAI32823.1 Streptococcus pneumoniae 6A:
 
 ![](../../../csdb/images/1087.gif)
 
-CAI32843.1:
+CSDB record ID: 1087
+
+CAI32843.1 Streptococcus pneumoniae 6B:
 
 ![](../../../csdb/images/937.gif)
 
-CAI33700.1:
+CSDB record ID: 937
+
+CAI33700.1 Streptococcus pneumoniae 19F:
 
 ![](../../../csdb/images/739.gif)
 
-CAI33631.1:
+CSDB record ID: 739
+
+CAI33631.1 Streptococcus pneumoniae 19A:
 
 ![](../../../csdb/images/740.gif)
 
-CAI34269.1:
+CSDB record ID: 740
+
+CAI34269.1 Streptococcus pneumoniae 34:
 
 ![](../../../csdb/images/7043.gif)
+
+CSDB record ID: 7043
 
 #### Sugars for blast hits:
 
-AAL82786.1:
+AAL82786.1 Streptococcus pneumoniae 6A:
 
 ![](../../../csdb/images/1087.gif)
 
-VJK41440.1:
+CSDB record ID: 1087
+
+VJK41440.1 Streptococcus pneumoniae 6C:
 
 ![](../../../csdb/images/3661.gif)
 
-VNC99741.1, VSB76654.1, CMX58981.1:
+CSDB record ID: 3661
+
+VNC99741.1 Streptococcus pneumoniae 19F, VSB76654.1 Streptococcus pneumoniae 19F, CMX58981.1 Streptococcus pneumoniae 19F:
 
 ![](../../../csdb/images/739.gif)
 
-VOS41126.1:
+CSDB record ID: 739
+
+VOS41126.1 Streptococcus pneumoniae 19A:
 
 ![](../../../csdb/images/740.gif)
 
-VMG48693.1:
+CSDB record ID: 740
+
+VMG48693.1 Streptococcus pneumoniae 34:
 
 ![](../../../csdb/images/7043.gif)
+
+CSDB record ID: 7043
 
 #### Alphafold models:
 
@@ -1030,13 +1094,17 @@ R 292 (98.5%) R 364 (99.3%) Y 423 (97.8%) Y 425 (100.0%) N 432 (98.5%)
 
 #### Sugars in cluster:
 
-AHB32411.1:
+AHB32411.1 Acinetobacter baumannii O10:
 
 ![](../../../csdb/images/27746.gif)
 
-AFC91458.1, AFC91419.1, AAX07747.1:
+CSDB record ID: 27746
+
+AFC91458.1 Escherichia coli O45, AFC91419.1 Escherichia coli O45, AAX07747.1 Escherichia coli O45:
 
 ![](../../../csdb/images/1552.gif)
+
+CSDB record ID: 1552
 
 #### Sugars for blast hits:
 
@@ -1134,19 +1202,25 @@ R 163 (99.3%) D 170 (100.0%) Y 175 (100.0%) R 298 (100.0%) H 336 (100.0%) R 561 
 
 #### Sugars in cluster:
 
-AHB32715.1, AHB32637.1:
+AHB32715.1 Acinetobacter baumannii O23, AHB32637.1 Acinetobacter baumannii O23:
 
 ![](../../../csdb/images/563.gif)
 
-CAI33718.1:
+CSDB record ID: 563
+
+CAI33718.1 Streptococcus pneumoniae 20:
 
 ![](../../../csdb/images/1928.gif)
 
+CSDB record ID: 1928
+
 #### Sugars for blast hits:
 
-VLD07009.1:
+VLD07009.1 Streptococcus pneumoniae 20A:
 
 ![](../../../csdb/images/7079.gif)
+
+CSDB record ID: 7079
 
 #### Alphafold models:
 
@@ -1236,17 +1310,23 @@ R 250 (97.7%) K 324 (100.0%) R 402 (100.0%) K 516 (98.4%)
 
 #### Sugars in cluster:
 
-AAT77177.1:
+AAT77177.1 Escherichia coli O114:
 
 ![](../../../csdb/images/1854.gif)
 
-AFN02899.1:
+CSDB record ID: 1854
+
+AFN02899.1 Escherichia coli O180:
 
 ![](../../../csdb/images/704.gif)
 
-BAQ00569.1:
+CSDB record ID: 704
+
+BAQ00569.1 Escherichia coli O5:
 
 ![](../../../csdb/images/3191.gif)
+
+CSDB record ID: 3191
 
 #### Sugars for blast hits:
 
@@ -1339,15 +1419,19 @@ D 33 (99.2%) R 42 (100.0%) Y 118 (100.0%) K 120 (98.4%) Q 159 (99.2%) S 199 (99.
 
 #### Sugars in cluster:
 
-BAQ00795.1:
+BAQ00795.1 Escherichia coli O33:
 
 ![](../../../csdb/images/1401.gif)
 
+CSDB record ID: 1401
+
 #### Sugars for blast hits:
 
-QEH45435.1:
+QEH45435.1 Aggregatibacter actinomycetemcomitans a:
 
 ![](../../../csdb/images/27705.gif)
+
+CSDB record ID: 27705
 
 #### Alphafold models:
 
@@ -1414,35 +1498,49 @@ R 501 (97.5%) N 502 (100.0%) E 508 (100.0%) S 685 (98.3%)
 
 #### Sugars in cluster:
 
-CAI34254.1:
+CAI34254.1 Streptococcus pneumoniae 33F:
 
 ![](../../../csdb/images/1965.gif)
 
-CAI34177.1:
+CSDB record ID: 1965
+
+CAI34177.1 Streptococcus pneumoniae 33A:
 
 ![](../../../csdb/images/7091.gif)
 
-CAI34198.1:
+CSDB record ID: 7091
+
+CAI34198.1 Streptococcus pneumoniae 33B:
 
 ![](../../../csdb/images/7092.gif)
 
-CAI34217.1:
+CSDB record ID: 7092
+
+CAI34217.1 Streptococcus pneumoniae 33C:
 
 ![](../../../csdb/images/7093.gif)
 
-CAI34236.1:
+CSDB record ID: 7093
+
+CAI34236.1 Streptococcus pneumoniae 33D:
 
 ![](../../../csdb/images/7094.gif)
+
+CSDB record ID: 7094
 
 #### Sugars for blast hits:
 
-VQJ42306.1:
+VQJ42306.1 Streptococcus pneumoniae 33F:
 
 ![](../../../csdb/images/1965.gif)
 
-VIU37569.1:
+CSDB record ID: 1965
+
+VIU37569.1 Streptococcus pneumoniae 33D:
 
 ![](../../../csdb/images/7094.gif)
+
+CSDB record ID: 7094
 
 #### Alphafold models:
 
@@ -1524,17 +1622,23 @@ Q 243 (98.1%) R 291 (100.0%) R 356 (100.0%) S 480 (100.0%) D 537 (100.0%) R 542 
 
 #### Sugars in cluster:
 
-ACA24764.1, ACA24754.1:
+ACA24764.1 Escherichia coli O143, ACA24754.1 Shigella boydii 8:
 
 ![](../../../csdb/images/1885.gif)
 
-BAQ02088.1:
+CSDB record ID: 1885
+
+BAQ02088.1 Escherichia coli O187:
 
 ![](../../../csdb/images/1934.gif)
 
-AFW04847.1:
+CSDB record ID: 1934
+
+AFW04847.1 Salmonella enterica O59:
 
 ![](../../../csdb/images/3362.gif)
+
+CSDB record ID: 3362
 
 #### Sugars for blast hits:
 
@@ -1624,13 +1728,17 @@ D 344 (100.0%) E 408 (100.0%) R 538 (100.0%)
 
 #### Sugars in cluster:
 
-CAI32935.1:
+CAI32935.1 Streptococcus pneumoniae 7F:
 
 ![](../../../csdb/images/1949.gif)
 
-CAI32867.1:
+CSDB record ID: 1949
+
+CAI32867.1 Streptococcus pneumoniae 7A:
 
 ![](../../../csdb/images/2624.gif)
+
+CSDB record ID: 2624
 
 #### Sugars for blast hits:
 
@@ -1705,9 +1813,11 @@ Q 78 (100.0%) R 249 (100.0%) R 295 (100.0%) E 364 (97.8%) Q 399 (98.9%) K 406 (1
 
 #### Sugars in cluster:
 
-WP_097449287.1:
+WP_097449287.1 Escherichia coli O57:
 
 ![](../../../csdb/images/699.gif)
+
+CSDB record ID: 699
 
 #### Sugars for blast hits:
 
@@ -1792,21 +1902,29 @@ Y 264 (100.0%) R 345 (100.0%) R 421 (100.0%)
 
 #### Sugars in cluster:
 
-ABF01010.1:
+ABF01010.1 Escherichia coli O28ac:
 
 ![](../../../csdb/images/1537.gif)
 
-ACK44379.1:
+CSDB record ID: 1537
+
+ACK44379.1 Escherichia coli O42:
 
 ![](../../../csdb/images/1549.gif)
 
-BAQ02048.1:
+CSDB record ID: 1549
+
+BAQ02048.1 Escherichia coli O185:
 
 ![](../../../csdb/images/1929.gif)
 
-AAM27546.1:
+CSDB record ID: 1929
+
+AAM27546.1 Pseudomonas aeruginosa O1:
 
 ![](../../../csdb/images/6636.gif)
+
+CSDB record ID: 6636
 
 #### Sugars for blast hits:
 
@@ -1879,19 +1997,25 @@ E 271 (100.0%) S 273 (98.8%) Y 377 (98.8%) R 381 (100.0%) N 393 (100.0%) N 457 (
 
 #### Sugars in cluster:
 
-ADI43263.1:
+ADI43263.1 Escherichia coli O25:
 
 ![](../../../csdb/images/12694.gif)
 
-ADR74237.1:
+CSDB record ID: 12694
+
+ADR74237.1 Escherichia coli O109:
 
 ![](../../../csdb/images/1848.gif)
 
+CSDB record ID: 1848
+
 #### Sugars for blast hits:
 
-ADC84238.1:
+ADC84238.1 Escherichia coli O25:
 
 ![](../../../csdb/images/12694.gif)
+
+CSDB record ID: 12694
 
 #### Alphafold models:
 
@@ -1967,21 +2091,29 @@ R 320 (100.0%) R 321 (97.2%) R 460 (97.2%) Q 463 (98.6%) R 498 (100.0%) E 507 (1
 
 #### Sugars in cluster:
 
-AAZ85713.1:
+AAZ85713.1 Escherichia coli O138:
 
 ![](../../../csdb/images/1880.gif)
 
-AAM27766.1:
+CSDB record ID: 1880
+
+AAM27766.1 Pseudomonas aeruginosa O3:
 
 ![](../../../csdb/images/24032.gif)
 
-AAM27615.1:
+CSDB record ID: 24032
+
+AAM27615.1 Pseudomonas aeruginosa O13:
 
 ![](../../../csdb/images/24042.gif)
 
-AAM27645.1:
+CSDB record ID: 24042
+
+AAM27645.1 Pseudomonas aeruginosa O15:
 
 ![](../../../csdb/images/3929.gif)
+
+CSDB record ID: 3929
 
 #### Sugars for blast hits:
 
@@ -2063,27 +2195,37 @@ R 189 (100.0%) K 255 (97.0%) R 301 (97.0%) Y 326 (100.0%) N 393 (100.0%) D 404 (
 
 #### Sugars in cluster:
 
-ADC54950.1:
+ADC54950.1 Escherichia coli O18:
 
 ![](../../../csdb/images/20645.gif)
 
-BAQ00669.1:
+CSDB record ID: 20645
+
+BAQ00669.1 Escherichia coli O18ab:
 
 ![](../../../csdb/images/1524.gif)
 
-BAQ01732.1:
+CSDB record ID: 1524
+
+BAQ01732.1 Escherichia coli O142:
 
 ![](../../../csdb/images/1884.gif)
 
-BAQ00687.1:
+CSDB record ID: 1884
+
+BAQ00687.1 Escherichia coli O18ac:
 
 ![](../../../csdb/images/1521.gif)
 
+CSDB record ID: 1521
+
 #### Sugars for blast hits:
 
-ARD51912.1:
+ARD51912.1 Escherichia coli O68:
 
 ![](../../../csdb/images/1574.gif)
+
+CSDB record ID: 1574
 
 #### Alphafold models:
 
@@ -2155,33 +2297,47 @@ D 220 (100.0%) S 252 (100.0%) R 256 (100.0%) K 321 (100.0%) R 325 (100.0%) R 401
 
 #### Sugars in cluster:
 
-BAQ00758.1:
+BAQ00758.1 Escherichia coli O28ab:
 
 ![](../../../csdb/images/736.gif)
 
-BAQ00879.1:
+CSDB record ID: 736
+
+BAQ00879.1 Escherichia coli O39:
 
 ![](../../../csdb/images/1383.gif)
 
-ABG81806.1, BAQ02224.1:
+CSDB record ID: 1383
+
+ABG81806.1 Escherichia coli O123, BAQ02224.1 Escherichia coli O123:
 
 ![](../../../csdb/images/697.gif)
 
-BAQ02068.1, AJR19430.1:
+CSDB record ID: 697
+
+BAQ02068.1 Escherichia coli O186, AJR19430.1 Escherichia coli O186:
 
 ![](../../../csdb/images/1933.gif)
 
-AAD44158.1, BAH24292.1:
+CSDB record ID: 1933
+
+AAD44158.1 Escherichia coli O7, BAH24292.1 Escherichia coli O7:
 
 ![](../../../csdb/images/1385.gif)
 
-AFC91472.1, AFC91514.1, AAO39700.1, AFC91570.1:
+CSDB record ID: 1385
+
+AFC91472.1 Escherichia coli O121, AFC91514.1 Escherichia coli O121, AAO39700.1 Escherichia coli O121, AFC91570.1 Escherichia coli O121:
 
 ![](../../../csdb/images/1861.gif)
 
-AAR97964.1:
+CSDB record ID: 1861
+
+AAR97964.1 Shigella dysenteriae 7:
 
 ![](../../../csdb/images/108660.gif)
+
+CSDB record ID: 108660
 
 #### Sugars for blast hits:
 
@@ -2262,33 +2418,47 @@ R 188 (100.0%) K 218 (100.0%) D 226 (100.0%) S 227 (100.0%) N 228 (100.0%) S 281
 
 #### Sugars in cluster:
 
-BAQ00846.1:
+BAQ00846.1 Escherichia coli O37:
 
 ![](../../../csdb/images/1544.gif)
 
-BAQ00975.1:
+CSDB record ID: 1544
+
+BAQ00975.1 Escherichia coli O48:
 
 ![](../../../csdb/images/1555.gif)
 
-ACD37014.1:
+CSDB record ID: 1555
+
+ACD37014.1 Escherichia coli O112ac:
 
 ![](../../../csdb/images/1852.gif)
 
-ACD37157.1:
+CSDB record ID: 1852
+
+ACD37157.1 Escherichia coli O130:
 
 ![](../../../csdb/images/1871.gif)
 
-BAQ01494.1, AFS33314.1:
+CSDB record ID: 1871
+
+BAQ01494.1 Escherichia coli O102, AFS33314.1 Escherichia coli O102:
 
 ![](../../../csdb/images/1841.gif)
 
-ACD37006.1:
+CSDB record ID: 1841
+
+ACD37006.1 Shigella dysenteriae 2:
 
 ![](../../../csdb/images/1869.gif)
 
-AFW04741.1:
+CSDB record ID: 1869
+
+AFW04741.1 Salmonella enterica O21:
 
 ![](../../../csdb/images/30351.gif)
+
+CSDB record ID: 30351
 
 #### Sugars for blast hits:
 
@@ -2364,21 +2534,29 @@ R 65 (100.0%) D 71 (100.0%) Y 75 (100.0%) E 101 (100.0%) R 168 (100.0%) H 214 (1
 
 #### Sugars in cluster:
 
-ADQ37335.1:
+ADQ37335.1 Escherichia coli O118:
 
 ![](../../../csdb/images/1858.gif)
 
-ACA24821.1, ACA24811.1:
+CSDB record ID: 1858
+
+ACA24821.1 Escherichia coli O152, ACA24811.1 Shigella dysenteriae 12:
 
 ![](../../../csdb/images/1893.gif)
 
-ADN43894.1:
+CSDB record ID: 1893
+
+ADN43894.1 Escherichia coli O173:
 
 ![](../../../csdb/images/3159.gif)
 
-ADQ37322.1:
+CSDB record ID: 3159
+
+ADQ37322.1 Escherichia coli O151:
 
 ![](../../../csdb/images/1892.gif)
+
+CSDB record ID: 1892
 
 #### Sugars for blast hits:
 
@@ -2446,9 +2624,11 @@ Q 75 (100.0%) D 81 (100.0%) Y 82 (100.0%) Y 85 (100.0%) E 106 (100.0%) N 178 (98
 
 #### Sugars in cluster:
 
-ACH97162.1:
+ACH97162.1 Escherichia coli O21:
 
 ![](../../../csdb/images/1529.gif)
+
+CSDB record ID: 1529
 
 #### Sugars for blast hits:
 
@@ -2521,29 +2701,41 @@ Q 170 (100.0%) D 185 (100.0%) R 198 (100.0%) R 212 (100.0%) E 219 (100.0%) S 262
 
 #### Sugars in cluster:
 
-BAQ00994.1:
+BAQ00994.1 Escherichia coli O49:
 
 ![](../../../csdb/images/1556.gif)
 
-ADC54974.1:
+CSDB record ID: 1556
+
+ADC54974.1 Escherichia coli O85:
 
 ![](../../../csdb/images/1591.gif)
 
-BAQ01917.1:
+CSDB record ID: 1591
+
+BAQ01917.1 Escherichia coli O175:
 
 ![](../../../csdb/images/1917.gif)
 
-CAN87666.1:
+CSDB record ID: 1917
+
+CAN87666.1 Escherichia coli O45:
 
 ![](../../../csdb/images/1552.gif)
 
-AFW04828.1:
+CSDB record ID: 1552
+
+AFW04828.1 Salmonella enterica O44:
 
 ![](../../../csdb/images/3367.gif)
 
-AFW04837.1:
+CSDB record ID: 3367
+
+AFW04837.1 Salmonella enterica O53:
 
 ![](../../../csdb/images/26312.gif)
+
+CSDB record ID: 26312
 
 #### Sugars for blast hits:
 
@@ -2605,9 +2797,11 @@ S 57 (100.0%) R 84 (98.0%) S 101 (100.0%) D 114 (100.0%) E 146 (100.0%) R 221 (1
 
 #### Sugars in cluster:
 
-ABI55342.1:
+ABI55342.1 Shigella boydii 17:
 
 ![](../../../csdb/images/714.gif)
+
+CSDB record ID: 714
 
 #### Sugars for blast hits:
 
@@ -2668,13 +2862,17 @@ D 86 (100.0%) Y 90 (97.9%) E 195 (97.9%) R 337 (100.0%) E 373 (100.0%) N 439 (10
 
 #### Sugars in cluster:
 
-AAN23078.1:
+AAN23078.1 Yersinia pseudotuberculosis O:2a:
 
 ![](../../../csdb/images/12135.gif)
 
-AAN23057.1:
+CSDB record ID: 12135
+
+AAN23057.1 Yersinia pseudotuberculosis O:4b:
 
 ![](../../../csdb/images/12136.gif)
+
+CSDB record ID: 12136
 
 #### Sugars for blast hits:
 
@@ -2748,21 +2946,29 @@ R 160 (100.0%) Y 163 (100.0%) T 166 (100.0%) R 167 (100.0%) S 177 (97.8%) K 216 
 
 #### Sugars in cluster:
 
-WP_000905563.1, AAO68867.1:
+WP_000905563.1 Salmonella enterica Typhi, AAO68867.1 Salmonella enterica Typhi:
 
 ![](../../../csdb/images/21859.gif)
 
-AAV77445.1, CAR59582.1:
+CSDB record ID: 21859
+
+AAV77445.1 Salmonella enterica Paratyphi A, CAR59582.1 Salmonella enterica Paratyphi A:
 
 ![](../../../csdb/images/7418.gif)
 
-CAR37642.1:
+CSDB record ID: 7418
+
+CAR37642.1 Salmonella enterica Gallinarum bv. Pullorum 11:
 
 ![](../../../csdb/images/30403.gif)
 
-AAL20257.1:
+CSDB record ID: 30403
+
+AAL20257.1 Salmonella enterica O4 (B) Typhimurium:
 
 ![](../../../csdb/images/30397.gif)
+
+CSDB record ID: 30397
 
 #### Sugars for blast hits:
 
@@ -2821,19 +3027,25 @@ D 82 (100.0%) D 109 (100.0%) R 191 (100.0%) H 228 (100.0%) S 230 (97.8%) Y 287 (
 
 #### Sugars in cluster:
 
-ADI43271.1:
+ADI43271.1 Escherichia coli O27:
 
 ![](../../../csdb/images/1535.gif)
 
+CSDB record ID: 1535
+
 #### Sugars for blast hits:
 
-CZQ24278.1:
+CZQ24278.1 Klebsiella pneumoniae K27:
 
 ![](../../../csdb/images/6079.gif)
 
-AXY99682.1:
+CSDB record ID: 6079
+
+AXY99682.1 Proteus vulgaris O34:
 
 ![](../../../csdb/images/20104.gif)
+
+CSDB record ID: 20104
 
 #### Alphafold models:
 
@@ -2886,9 +3098,11 @@ Y 31 (100.0%) R 85 (100.0%) D 92 (100.0%) Y 96 (100.0%) N 203 (100.0%) Q 207 (10
 
 #### Sugars in cluster:
 
-CAI34008.1:
+CAI34008.1 Streptococcus pneumoniae 27:
 
 ![](../../../csdb/images/7085.gif)
+
+CSDB record ID: 7085
 
 #### Sugars for blast hits:
 
@@ -2958,17 +3172,23 @@ D 160 (100.0%) R 162 (97.7%) R 166 (100.0%) T 168 (97.7%) N 175 (100.0%) S 228 (
 
 #### Sugars in cluster:
 
-BAQ00957.1:
+BAQ00957.1 Escherichia coli O46:
 
 ![](../../../csdb/images/1554.gif)
 
-BAQ01812.1:
+CSDB record ID: 1554
+
+BAQ01812.1 Escherichia coli O160:
 
 ![](../../../csdb/images/1901.gif)
 
-BAQ01687.1:
+CSDB record ID: 1901
+
+BAQ01687.1 Escherichia coli O134:
 
 ![](../../../csdb/images/1876.gif)
+
+CSDB record ID: 1876
 
 #### Sugars for blast hits:
 
@@ -3023,9 +3243,11 @@ R 264 (97.6%) N 449 (100.0%) D 461 (100.0%)
 
 #### Sugars in cluster:
 
-CAI33798.1:
+CAI33798.1 Streptococcus pneumoniae 22F:
 
 ![](../../../csdb/images/625.gif)
+
+CSDB record ID: 625
 
 #### Sugars for blast hits:
 
@@ -3090,15 +3312,19 @@ Y 104 (97.6%) R 194 (100.0%) R 207 (97.6%) K 263 (100.0%) R 346 (100.0%) H 425 (
 
 #### Sugars in cluster:
 
-ACD75796.1:
+ACD75796.1 Escherichia coli O63:
 
 ![](../../../csdb/images/1570.gif)
 
+CSDB record ID: 1570
+
 #### Sugars for blast hits:
 
-AXY99492.1:
+AXY99492.1 Proteus vulgaris O17:
 
 ![](../../../csdb/images/5227.gif)
+
+CSDB record ID: 5227
 
 #### Alphafold models:
 
@@ -3157,9 +3383,11 @@ Y 279 (97.6%) R 310 (100.0%) E 317 (100.0%) T 323 (97.6%) S 357 (97.6%) S 359 (1
 
 #### Sugars in cluster:
 
-AAK60458.1:
+AAK60458.1 Escherichia coli O91:
 
 ![](../../../csdb/images/895.gif)
+
+CSDB record ID: 895
 
 #### Sugars for blast hits:
 
@@ -3228,37 +3456,53 @@ Y 76 (100.0%) R 79 (100.0%) Q 176 (100.0%) K 179 (100.0%) Y 183 (100.0%) S 190 (
 
 #### Sugars in cluster:
 
-AKA20935.1:
+AKA20935.1 Yersinia pseudotuberculosis O:2c:
 
 ![](../../../csdb/images/12128.gif)
 
-AKA20966.1:
+CSDB record ID: 12128
+
+AKA20966.1 Yersinia pseudotuberculosis O:4a:
 
 ![](../../../csdb/images/12129.gif)
 
-AAY23739.1, BAQ02177.1:
+CSDB record ID: 12129
+
+AAY23739.1 Escherichia coli O77, BAQ02177.1 Escherichia coli O77:
 
 ![](../../../csdb/images/1583.gif)
 
-AAY23733.1:
+CSDB record ID: 1583
+
+AAY23733.1 Escherichia coli O73:
 
 ![](../../../csdb/images/1578.gif)
 
-AAY23745.1:
+CSDB record ID: 1578
+
+AAY23745.1 Escherichia coli O106:
 
 ![](../../../csdb/images/1845.gif)
 
-BAQ01935.1:
+CSDB record ID: 1845
+
+BAQ01935.1 Escherichia coli O176:
 
 ![](../../../csdb/images/1918.gif)
 
-BAQ02105.1:
+CSDB record ID: 1918
+
+BAQ02105.1 Escherichia coli O17:
 
 ![](../../../csdb/images/1520.gif)
 
-BAQ00945.1:
+CSDB record ID: 1520
+
+BAQ00945.1 Escherichia coli O44:
 
 ![](../../../csdb/images/1551.gif)
+
+CSDB record ID: 1551
 
 #### Sugars for blast hits:
 
@@ -3311,9 +3555,11 @@ K 350 (100.0%) R 393 (100.0%) Y 411 (100.0%) K 440 (100.0%) D 456 (100.0%) T 462
 
 #### Sugars in cluster:
 
-AAM27595.1:
+AAM27595.1 Pseudomonas aeruginosa O12:
 
 ![](../../../csdb/images/31934.gif)
+
+CSDB record ID: 31934
 
 #### Sugars for blast hits:
 
@@ -3372,13 +3618,17 @@ K 257 (100.0%) R 311 (100.0%) Y 371 (100.0%) N 483 (100.0%) T 486 (97.3%) R 489 
 
 #### Sugars in cluster:
 
-AAM27560.1:
+AAM27560.1 Pseudomonas aeruginosa O10:
 
 ![](../../../csdb/images/11180.gif)
 
-AAM27711.1:
+CSDB record ID: 11180
+
+AAM27711.1 Pseudomonas aeruginosa O19:
 
 ![](../../../csdb/images/11026.gif)
+
+CSDB record ID: 11026
 
 #### Sugars for blast hits:
 
@@ -3436,19 +3686,25 @@ N 160 (100.0%) S 247 (97.3%) R 343 (100.0%) H 399 (100.0%) E 455 (100.0%)
 
 #### Sugars in cluster:
 
-CAI33515.1:
+CAI33515.1 Streptococcus pneumoniae 17F:
 
 ![](../../../csdb/images/815.gif)
 
-CAI33491.1:
+CSDB record ID: 815
+
+CAI33491.1 Streptococcus pneumoniae 17A:
 
 ![](../../../csdb/images/7070.gif)
 
+CSDB record ID: 7070
+
 #### Sugars for blast hits:
 
-VIQ20135.1:
+VIQ20135.1 Streptococcus pneumoniae 17F:
 
 ![](../../../csdb/images/815.gif)
+
+CSDB record ID: 815
 
 #### Alphafold models:
 
@@ -3566,17 +3822,23 @@ R 190 (100.0%) D 201 (100.0%) Y 203 (97.2%) N 218 (97.2%) N 257 (100.0%) R 353 (
 
 #### Sugars in cluster:
 
-ABE98437.1:
+ABE98437.1 Escherichia coli O146:
 
 ![](../../../csdb/images/1887.gif)
 
-ABI98986.1:
+CSDB record ID: 1887
+
+ABI98986.1 Escherichia coli O147:
 
 ![](../../../csdb/images/1624.gif)
 
-ABU80601.1:
+CSDB record ID: 1624
+
+ABU80601.1 Shigella flexneri 6:
 
 ![](../../../csdb/images/188.gif)
+
+CSDB record ID: 188
 
 #### Sugars for blast hits:
 
@@ -3639,19 +3901,25 @@ R 60 (100.0%) D 66 (100.0%) Y 67 (100.0%) Y 70 (97.2%) R 184 (97.2%) Q 185 (100.
 
 #### Sugars in cluster:
 
-BAQ02116.1:
+BAQ02116.1 Escherichia coli O54:
 
 ![](../../../csdb/images/1561.gif)
 
-AAK64372.1:
+CSDB record ID: 1561
+
+AAK64372.1 Escherichia coli O104:
 
 ![](../../../csdb/images/1843.gif)
+
+CSDB record ID: 1843
 
 #### Sugars for blast hits:
 
-EGR73751.1:
+EGR73751.1 Escherichia coli O104:
 
 ![](../../../csdb/images/1843.gif)
+
+CSDB record ID: 1843
 
 #### Alphafold models:
 
@@ -3713,13 +3981,17 @@ R 63 (97.1%) D 70 (97.1%) Y 74 (100.0%) Y 94 (100.0%) E 98 (100.0%) D 124 (100.0
 
 #### Sugars in cluster:
 
-AHB32774.1:
+AHB32774.1 Acinetobacter baumannii O12:
 
 ![](../../../csdb/images/493.gif)
 
-AHB32438.2:
+CSDB record ID: 493
+
+AHB32438.2 Acinetobacter baumannii O22:
 
 ![](../../../csdb/images/2196.gif)
+
+CSDB record ID: 2196
 
 #### Sugars for blast hits:
 
@@ -3783,17 +4055,23 @@ R 204 (97.1%) E 244 (100.0%) Y 282 (97.1%) K 289 (100.0%) R 293 (100.0%) R 316 (
 
 #### Sugars in cluster:
 
-AKA20948.1:
+AKA20948.1 Yersinia pseudotuberculosis O:3:
 
 ![](../../../csdb/images/12133.gif)
 
-ACV52983.1:
+CSDB record ID: 12133
+
+ACV52983.1 Yersinia pseudotuberculosis O:11:
 
 ![](../../../csdb/images/12124.gif)
 
-BAQ01843.1:
+CSDB record ID: 12124
+
+BAQ01843.1 Escherichia coli O163:
 
 ![](../../../csdb/images/1905.gif)
+
+CSDB record ID: 1905
 
 #### Sugars for blast hits:
 
@@ -3853,13 +4131,17 @@ Y 78 (100.0%) Y 134 (100.0%) Q 144 (100.0%) Q 147 (100.0%) R 149 (100.0%) Q 150 
 
 #### Sugars in cluster:
 
-AHB32888.2:
+AHB32888.2 Acinetobacter baumannii O7:
 
 ![](../../../csdb/images/495.gif)
 
-AHB32334.1:
+CSDB record ID: 495
+
+AHB32334.1 Acinetobacter baumannii O18:
 
 ![](../../../csdb/images/483.gif)
+
+CSDB record ID: 483
 
 #### Sugars for blast hits:
 
@@ -3918,17 +4200,23 @@ R 61 (100.0%) D 118 (100.0%) R 197 (100.0%) K 206 (100.0%) R 248 (100.0%) R 334 
 
 #### Sugars in cluster:
 
-ACD37165.1:
+ACD37165.1 Escherichia coli O13:
 
 ![](../../../csdb/images/1515.gif)
 
-ACD37173.1:
+CSDB record ID: 1515
+
+ACD37173.1 Escherichia coli O135:
 
 ![](../../../csdb/images/1877.gif)
 
-ACD37181.1:
+CSDB record ID: 1877
+
+ACD37181.1 Escherichia coli O129:
 
 ![](../../../csdb/images/1870.gif)
+
+CSDB record ID: 1870
 
 #### Sugars for blast hits:
 
@@ -3987,9 +4275,11 @@ Y 165 (100.0%) R 210 (100.0%) Y 267 (100.0%) R 269 (100.0%) S 371 (100.0%) T 415
 
 #### Sugars in cluster:
 
-ACD37046.1, ACD37037.1:
+ACD37046.1 Escherichia coli O167, ACD37037.1 Shigella boydii 3:
 
 ![](../../../csdb/images/1909.gif)
+
+CSDB record ID: 1909
 
 #### Sugars for blast hits:
 
@@ -4051,25 +4341,35 @@ R 187 (100.0%) R 188 (100.0%) Y 203 (100.0%) S 206 (100.0%) D 300 (100.0%) R 304
 
 #### Sugars in cluster:
 
-AAA97573.1, AAC45857.1, AAM27801.1:
+AAA97573.1 Pseudomonas aeruginosa O5, AAC45857.1 Pseudomonas aeruginosa O5, AAM27801.1 Pseudomonas aeruginosa O5:
 
 ![](../../../csdb/images/1672.gif)
 
-AAM27728.1:
+CSDB record ID: 1672
+
+AAM27728.1 Pseudomonas aeruginosa O2:
 
 ![](../../../csdb/images/6565.gif)
 
-AAM27662.1:
+CSDB record ID: 6565
+
+AAM27662.1 Pseudomonas aeruginosa O16:
 
 ![](../../../csdb/images/6654.gif)
 
-AAM27693.1:
+CSDB record ID: 6654
+
+AAM27693.1 Pseudomonas aeruginosa O18:
 
 ![](../../../csdb/images/7836.gif)
 
-AAM27748.1:
+CSDB record ID: 7836
+
+AAM27748.1 Pseudomonas aeruginosa O20:
 
 ![](../../../csdb/images/6655.gif)
+
+CSDB record ID: 6655
 
 #### Sugars for blast hits:
 
@@ -4120,9 +4420,11 @@ Y 197 (100.0%) S 211 (100.0%) R 272 (100.0%) S 350 (100.0%) R 352 (100.0%) H 384
 
 #### Sugars in cluster:
 
-ACD37026.1:
+ACD37026.1 Shigella boydii 12:
 
 ![](../../../csdb/images/1931.gif)
+
+CSDB record ID: 1931
 
 #### Sugars for blast hits:
 
@@ -4177,13 +4479,17 @@ D 159 (100.0%) Y 163 (100.0%) Y 164 (100.0%) N 166 (100.0%) E 188 (100.0%) N 195
 
 #### Sugars in cluster:
 
-BAQ01584.1:
+BAQ01584.1 Escherichia coli O120:
 
 ![](../../../csdb/images/1860.gif)
 
-BAQ01641.1:
+CSDB record ID: 1860
+
+BAQ01641.1 Escherichia coli O131:
 
 ![](../../../csdb/images/1873.gif)
+
+CSDB record ID: 1873
 
 #### Sugars for blast hits:
 
@@ -4242,9 +4548,11 @@ Y 43 (100.0%) N 45 (100.0%) D 48 (100.0%) Y 52 (100.0%) E 69 (100.0%) N 113 (100
 
 #### Sugars in cluster:
 
-ABK27355.1, ABK27354.1, ABK27351.1, BAI31288.1, ABK27350.1, ABK27321.1, ABK27352.1:
+ABK27355.1 Escherichia coli O103, ABK27354.1 Escherichia coli O103, ABK27351.1 Escherichia coli O103, BAI31288.1 Escherichia coli O103, ABK27350.1 Escherichia coli O103, ABK27321.1 Escherichia coli O103, ABK27352.1 Escherichia coli O103:
 
 ![](../../../csdb/images/1842.gif)
+
+CSDB record ID: 1842
 
 #### Sugars for blast hits:
 
@@ -4303,31 +4611,43 @@ R 53 (100.0%) D 60 (100.0%) D 61 (100.0%) H 65 (100.0%) Y 96 (100.0%) Y 98 (100.
 
 #### Sugars in cluster:
 
-CAI33105.1:
+CAI33105.1 Streptococcus pneumoniae 10F:
 
 ![](../../../csdb/images/7049.gif)
 
-CAI33048.1:
+CSDB record ID: 7049
+
+CAI33048.1 Streptococcus pneumoniae 10A:
 
 ![](../../../csdb/images/1953.gif)
 
-CAI34733.1:
+CSDB record ID: 1953
+
+CAI34733.1 Streptococcus pneumoniae 10B:
 
 ![](../../../csdb/images/7051.gif)
 
-CAI33084.1:
+CSDB record ID: 7051
+
+CAI33084.1 Streptococcus pneumoniae 10C:
 
 ![](../../../csdb/images/7052.gif)
 
-CAI34436.1:
+CSDB record ID: 7052
+
+CAI34436.1 Streptococcus pneumoniae 39:
 
 ![](../../../csdb/images/3663.gif)
 
+CSDB record ID: 3663
+
 #### Sugars for blast hits:
 
-CIV98579.1:
+CIV98579.1 Streptococcus pneumoniae 10B:
 
 ![](../../../csdb/images/7051.gif)
+
+CSDB record ID: 7051
 
 #### Alphafold models:
 
@@ -4375,23 +4695,31 @@ N 194 (100.0%) R 302 (100.0%) Y 336 (100.0%) R 341 (100.0%) K 360 (100.0%)
 
 #### Sugars in cluster:
 
-CAI33862.1:
+CAI33862.1 Streptococcus pneumoniae 23F:
 
 ![](../../../csdb/images/1964.gif)
 
-CAI33840.1:
+CSDB record ID: 1964
+
+CAI33840.1 Streptococcus pneumoniae 23B:
 
 ![](../../../csdb/images/7083.gif)
+
+CSDB record ID: 7083
 
 #### Sugars for blast hits:
 
-VOC17485.1:
+VOC17485.1 Streptococcus pneumoniae 23F:
 
 ![](../../../csdb/images/1964.gif)
 
-VMO60215.1:
+CSDB record ID: 1964
+
+VMO60215.1 Streptococcus pneumoniae 23B:
 
 ![](../../../csdb/images/7083.gif)
+
+CSDB record ID: 7083
 
 #### Alphafold models:
 
@@ -4445,13 +4773,17 @@ R 206 (100.0%) R 229 (100.0%) D 235 (100.0%) E 236 (100.0%) T 272 (100.0%) S 274
 
 #### Sugars in cluster:
 
-BAQ01793.1:
+BAQ01793.1 Escherichia coli O156:
 
 ![](../../../csdb/images/1897.gif)
 
-BAQ01878.1:
+CSDB record ID: 1897
+
+BAQ01878.1 Escherichia coli O170:
 
 ![](../../../csdb/images/1407.gif)
+
+CSDB record ID: 1407
 
 #### Sugars for blast hits:
 
@@ -4514,13 +4846,17 @@ R 64 (100.0%) Q 117 (100.0%) D 175 (100.0%) Y 188 (100.0%) Y 192 (100.0%) Y 203 
 
 #### Sugars in cluster:
 
-WP_001529369.1, WP_000936589.1:
+WP_001529369.1 Salmonella enterica ssp. enterica sv. Kentucky O8 98/39, WP_000936589.1 Salmonella enterica ssp. enterica sv. Kentucky O8 98/39:
 
 ![](../../../csdb/images/27410.gif)
 
-WP_000936592.1, ACF64132.1:
+CSDB record ID: 27410
+
+WP_000936592.1 Salmonella enterica ssp. enterica sv. Newport, ACF64132.1 Salmonella enterica ssp. enterica sv. Newport:
 
 ![](../../../csdb/images/28331.gif)
+
+CSDB record ID: 28331
 
 #### Sugars for blast hits:
 
@@ -4567,9 +4903,11 @@ Q 160 (100.0%) Y 170 (100.0%) D 172 (100.0%) R 183 (100.0%) R 199 (100.0%) T 201
 
 #### Sugars in cluster:
 
-BAQ01533.1:
+BAQ01533.1 Escherichia coli O110:
 
 ![](../../../csdb/images/1849.gif)
+
+CSDB record ID: 1849
 
 #### Sugars for blast hits:
 
@@ -4624,9 +4962,11 @@ Y 56 (100.0%) D 57 (100.0%) Y 61 (100.0%) E 80 (100.0%) Y 113 (100.0%) E 140 (10
 
 #### Sugars in cluster:
 
-ABI98976.1:
+ABI98976.1 Escherichia coli O141:
 
 ![](../../../csdb/images/1883.gif)
+
+CSDB record ID: 1883
 
 #### Sugars for blast hits:
 
@@ -4676,13 +5016,17 @@ Q 240 (100.0%) K 241 (100.0%) R 306 (100.0%) Q 311 (100.0%) N 369 (100.0%)
 
 #### Sugars in cluster:
 
-CBN82200.1:
+CBN82200.1 Escherichia coli O70:
 
 ![](../../../csdb/images/1576.gif)
 
-ADI77033.1:
+CSDB record ID: 1576
+
+ADI77033.1 Escherichia coli O71:
 
 ![](../../../csdb/images/1577.gif)
+
+CSDB record ID: 1577
 
 #### Sugars for blast hits:
 
@@ -4741,23 +5085,31 @@ R 229 (100.0%) R 284 (100.0%) R 356 (100.0%) S 359 (100.0%) R 363 (100.0%) S 398
 
 #### Sugars in cluster:
 
-CAI33324.1:
+CAI33324.1 Streptococcus pneumoniae 14:
 
 ![](../../../csdb/images/5348.gif)
 
-CAI33366.1:
+CSDB record ID: 5348
+
+CAI33366.1 Streptococcus pneumoniae 15B:
 
 ![](../../../csdb/images/1957.gif)
 
-CAI33389.1:
+CSDB record ID: 1957
+
+CAI33389.1 Streptococcus pneumoniae 15C:
 
 ![](../../../csdb/images/2251.gif)
 
+CSDB record ID: 2251
+
 #### Sugars for blast hits:
 
-AAL57082.1:
+AAL57082.1 Streptococcus agalactiae III:
 
 ![](../../../csdb/images/6001.gif)
+
+CSDB record ID: 6001
 
 #### Alphafold models:
 
@@ -4814,17 +5166,23 @@ Y 30 (100.0%) Y 37 (100.0%) Y 73 (100.0%) Y 115 (100.0%) Y 118 (100.0%) T 124 (1
 
 #### Sugars in cluster:
 
-CAA43077.1, AGS07327.1:
+CAA43077.1 Salmonella enterica O3,10 (E1) Anatum, AGS07327.1 Salmonella enterica O3,10 (E1) Anatum:
 
 ![](../../../csdb/images/30407.gif)
 
-AAB48190.1, AGS07363.1:
+CSDB record ID: 30407
+
+AAB48190.1 Salmonella enterica ssp. enterica sv. Strasbourg, AGS07363.1 Salmonella enterica ssp. enterica sv. Strasbourg:
 
 ![](../../../csdb/images/30404.gif)
 
-AGS07316.1:
+CSDB record ID: 30404
+
+AGS07316.1 Salmonella enterica O1,3,19 (E4) Senftenberg:
 
 ![](../../../csdb/images/30411.gif)
+
+CSDB record ID: 30411
 
 #### Sugars for blast hits:
 
@@ -4870,9 +5228,11 @@ R 277 (100.0%) R 330 (100.0%) E 361 (100.0%) R 488 (100.0%) R 496 (100.0%)
 
 #### Sugars in cluster:
 
-CAI32772.1:
+CAI32772.1 Streptococcus pneumoniae 4:
 
 ![](../../../csdb/images/805.gif)
+
+CSDB record ID: 805
 
 #### Sugars for blast hits:
 
@@ -4928,9 +5288,11 @@ Y 31 (100.0%) N 58 (100.0%) Y 65 (100.0%) N 86 (100.0%) Y 94 (100.0%) N 118 (100
 
 #### Sugars in cluster:
 
-ABB04486.1:
+ABB04486.1 Escherichia coli O98:
 
 ![](../../../csdb/images/1836.gif)
+
+CSDB record ID: 1836
 
 #### Sugars for blast hits:
 
@@ -4981,9 +5343,11 @@ D 189 (100.0%) R 193 (100.0%) E 200 (100.0%) S 202 (100.0%) S 237 (100.0%) K 240
 
 #### Sugars in cluster:
 
-BAQ01317.1:
+BAQ01317.1 Escherichia coli O88:
 
 ![](../../../csdb/images/1595.gif)
+
+CSDB record ID: 1595
 
 #### Sugars for blast hits:
 
@@ -5032,13 +5396,17 @@ D 76 (100.0%) K 101 (100.0%) D 102 (100.0%) S 130 (100.0%) Q 166 (100.0%) R 168 
 
 #### Sugars in cluster:
 
-ACV67289.1:
+ACV67289.1 Escherichia coli O35:
 
 ![](../../../csdb/images/1542.gif)
 
-AFW04785.1:
+CSDB record ID: 1542
+
+AFW04785.1 Salmonella enterica O62:
 
 ![](../../../csdb/images/3359.gif)
+
+CSDB record ID: 3359
 
 #### Sugars for blast hits:
 
@@ -5090,13 +5458,17 @@ R 156 (100.0%) N 160 (100.0%) Y 161 (100.0%) Y 173 (100.0%) Y 175 (100.0%) Y 226
 
 #### Sugars in cluster:
 
-BAQ01675.1:
+BAQ01675.1 Escherichia coli O133:
 
 ![](../../../csdb/images/1875.gif)
 
-ACD37126.1:
+CSDB record ID: 1875
+
+ACD37126.1 Shigella boydii 2:
 
 ![](../../../csdb/images/3982.gif)
+
+CSDB record ID: 3982
 
 #### Sugars for blast hits:
 
@@ -5143,9 +5515,11 @@ D 43 (100.0%) Y 47 (100.0%) Y 51 (100.0%) E 67 (100.0%) N 93 (100.0%) Y 123 (100
 
 #### Sugars in cluster:
 
-AAT85653.1:
+AAT85653.1 Escherichia coli O4:
 
 ![](../../../csdb/images/10216.gif)
+
+CSDB record ID: 10216
 
 #### Sugars for blast hits:
 
@@ -5195,17 +5569,23 @@ S 59 (100.0%) D 90 (100.0%) E 93 (100.0%) Y 94 (100.0%) Y 98 (100.0%) R 113 (100
 
 #### Sugars in cluster:
 
-BAQ00858.1:
+BAQ00858.1 Escherichia coli O38:
 
 ![](../../../csdb/images/1545.gif)
 
-WP_016238111.1:
+CSDB record ID: 1545
+
+WP_016238111.1 Escherichia coli O81:
 
 ![](../../../csdb/images/1587.gif)
 
-ACA24776.1:
+CSDB record ID: 1587
+
+ACA24776.1 Shigella dysenteriae 8:
 
 ![](../../../csdb/images/11557.gif)
+
+CSDB record ID: 11557
 
 #### Sugars for blast hits:
 
@@ -5305,9 +5685,11 @@ D 99 (100.0%) Y 103 (100.0%) E 132 (100.0%) Y 191 (100.0%) E 200 (100.0%) K 203 
 
 #### Sugars in cluster:
 
-AHB32242.2:
+AHB32242.2 Acinetobacter baumannii O5:
 
 ![](../../../csdb/images/487.gif)
+
+CSDB record ID: 487
 
 #### Sugars for blast hits:
 
@@ -5367,31 +5749,43 @@ E 215 (100.0%) K 264 (100.0%) R 265 (100.0%) R 339 (100.0%) H 387 (100.0%) D 443
 
 #### Sugars in cluster:
 
-CAI33610.1:
+CAI33610.1 Streptococcus pneumoniae 18F:
 
 ![](../../../csdb/images/7071.gif)
 
-CAI33537.1:
+CSDB record ID: 7071
+
+CAI33537.1 Streptococcus pneumoniae 18A:
 
 ![](../../../csdb/images/7074.gif)
 
-CAI33561.1:
+CSDB record ID: 7074
+
+CAI33561.1 Streptococcus pneumoniae 18B:
 
 ![](../../../csdb/images/846.gif)
 
-CAI33585.1:
+CSDB record ID: 846
+
+CAI33585.1 Streptococcus pneumoniae 18C:
 
 ![](../../../csdb/images/939.gif)
 
+CSDB record ID: 939
+
 #### Sugars for blast hits:
 
-VOG14504.1:
+VOG14504.1 Streptococcus pneumoniae 18F:
 
 ![](../../../csdb/images/7071.gif)
 
-VQM63531.1:
+CSDB record ID: 7071
+
+VQM63531.1 Streptococcus pneumoniae 18A:
 
 ![](../../../csdb/images/7074.gif)
+
+CSDB record ID: 7074
 
 #### Alphafold models:
 
@@ -5440,13 +5834,17 @@ Q 123 (100.0%) N 130 (100.0%) Y 135 (100.0%) Y 165 (100.0%) K 201 (100.0%) Q 203
 
 #### Sugars in cluster:
 
-BAQ01361.1:
+BAQ01361.1 Escherichia coli O90:
 
 ![](../../../csdb/images/1596.gif)
 
-CAS09721.1, AAR90892.1:
+CSDB record ID: 1596
+
+CAS09721.1 Escherichia coli O127, AAR90892.1 Escherichia coli O127:
 
 ![](../../../csdb/images/1866.gif)
+
+CSDB record ID: 1866
 
 #### Sugars for blast hits:
 
@@ -5496,13 +5894,17 @@ D 56 (100.0%) S 57 (100.0%) Y 60 (100.0%) Q 63 (100.0%) K 85 (100.0%) E 87 (100.
 
 #### Sugars in cluster:
 
-AEP25500.1:
+AEP25500.1 Yersinia pseudotuberculosis O:6:
 
 ![](../../../csdb/images/12139.gif)
 
-WP_000482333.1, BAG11898.1:
+CSDB record ID: 12139
+
+WP_000482333.1 Escherichia coli O55, BAG11898.1 Escherichia coli O55:
 
 ![](../../../csdb/images/1562.gif)
+
+CSDB record ID: 1562
 
 #### Sugars for blast hits:
 
@@ -5595,9 +5997,11 @@ S 132 (100.0%) E 136 (100.0%) H 146 (100.0%) K 186 (100.0%) Q 187 (100.0%) K 189
 
 #### Sugars in cluster:
 
-ABX51880.1:
+ABX51880.1 Cronobacter sakazakii O1:
 
 ![](../../../csdb/images/27329.gif)
+
+CSDB record ID: 27329
 
 #### Sugars for blast hits:
 
@@ -5644,13 +6048,17 @@ H 150 (100.0%) R 199 (100.0%) T 251 (100.0%) R 252 (100.0%) R 327 (100.0%) Q 330
 
 #### Sugars in cluster:
 
-AAY28257.1:
+AAY28257.1 Escherichia coli O177:
 
 ![](../../../csdb/images/1919.gif)
 
-AAM27782.1:
+CSDB record ID: 1919
+
+AAM27782.1 Pseudomonas aeruginosa O4:
 
 ![](../../../csdb/images/24033.gif)
+
+CSDB record ID: 24033
 
 #### Sugars for blast hits:
 
@@ -5700,9 +6108,11 @@ S 130 (100.0%) R 146 (100.0%) Q 194 (100.0%) R 209 (100.0%) R 214 (100.0%) S 217
 
 #### Sugars in cluster:
 
-AAD45264.1, AAM27574.1:
+AAD45264.1 Pseudomonas aeruginosa O11, AAM27574.1 Pseudomonas aeruginosa O11:
 
 ![](../../../csdb/images/10219.gif)
+
+CSDB record ID: 10219
 
 #### Sugars for blast hits:
 
@@ -5752,17 +6162,23 @@ D 59 (100.0%) E 60 (100.0%) Y 63 (100.0%) D 142 (100.0%) N 146 (100.0%) Y 148 (1
 
 #### Sugars in cluster:
 
-BAQ01169.1:
+BAQ01169.1 Escherichia coli O69:
 
 ![](../../../csdb/images/1575.gif)
 
-ACA24803.1:
+CSDB record ID: 1575
+
+ACA24803.1 Escherichia coli O150:
 
 ![](../../../csdb/images/715.gif)
 
-ACA24792.1:
+CSDB record ID: 715
+
+ACA24792.1 Shigella dysenteriae 13:
 
 ![](../../../csdb/images/1891.gif)
+
+CSDB record ID: 1891
 
 #### Sugars for blast hits:
 
@@ -5810,9 +6226,11 @@ Q 149 (100.0%) N 150 (100.0%) R 249 (100.0%) E 293 (100.0%) R 344 (100.0%) R 345
 
 #### Sugars in cluster:
 
-CAI33817.1:
+CAI33817.1 Streptococcus pneumoniae 23A:
 
 ![](../../../csdb/images/7084.gif)
+
+CSDB record ID: 7084
 
 #### Sugars for blast hits:
 
@@ -5868,9 +6286,11 @@ D 85 (100.0%) R 103 (100.0%) S 111 (100.0%) Q 141 (100.0%) K 156 (100.0%) N 171 
 
 #### Sugars in cluster:
 
-AAV74543.1:
+AAV74543.1 Escherichia coli O15:
 
 ![](../../../csdb/images/1516.gif)
+
+CSDB record ID: 1516
 
 #### Sugars for blast hits:
 
@@ -5922,9 +6342,11 @@ Y 103 (100.0%) K 218 (100.0%) E 280 (100.0%) R 281 (100.0%) K 325 (100.0%) N 359
 
 #### Sugars in cluster:
 
-CAI32705.1:
+CAI32705.1 Streptococcus pneumoniae 1:
 
 ![](../../../csdb/images/31499.gif)
+
+CSDB record ID: 31499
 
 #### Sugars for blast hits:
 
@@ -5985,19 +6407,25 @@ S 28 (100.0%) Q 231 (100.0%) S 234 (100.0%) Y 235 (100.0%) R 288 (100.0%) R 354 
 
 #### Sugars in cluster:
 
-CAI33278.1:
+CAI33278.1 Streptococcus pneumoniae 12F:
 
 ![](../../../csdb/images/1955.gif)
 
-CAI33226.1:
+CSDB record ID: 1955
+
+CAI33226.1 Streptococcus pneumoniae 12A:
 
 ![](../../../csdb/images/7060.gif)
 
+CSDB record ID: 7060
+
 #### Sugars for blast hits:
 
-VPT20589.1:
+VPT20589.1 Streptococcus pneumoniae 12F:
 
 ![](../../../csdb/images/1955.gif)
+
+CSDB record ID: 1955
 
 #### Alphafold models:
 
@@ -6045,9 +6473,11 @@ D 52 (100.0%) K 73 (100.0%) N 185 (100.0%) Y 198 (100.0%) N 219 (100.0%) S 222 (
 
 #### Sugars in cluster:
 
-ADN43858.1:
+ADN43858.1 Escherichia coli O137:
 
 ![](../../../csdb/images/1879.gif)
+
+CSDB record ID: 1879
 
 #### Sugars for blast hits:
 
@@ -6104,25 +6534,35 @@ Q 127 (100.0%) H 194 (100.0%) Q 196 (100.0%) R 308 (100.0%) Y 353 (100.0%) H 355
 
 #### Sugars in cluster:
 
-CAI33207.1:
+CAI33207.1 Streptococcus pneumoniae 11F:
 
 ![](../../../csdb/images/7053.gif)
 
-CAI33128.1:
+CSDB record ID: 7053
+
+CAI33128.1 Streptococcus pneumoniae 11A:
 
 ![](../../../csdb/images/1493.gif)
 
-CAI33149.1:
+CSDB record ID: 1493
+
+CAI33149.1 Streptococcus pneumoniae 11B:
 
 ![](../../../csdb/images/7054.gif)
 
-CAI33169.1:
+CSDB record ID: 7054
+
+CAI33169.1 Streptococcus pneumoniae 11C:
 
 ![](../../../csdb/images/31003.gif)
 
-CAI33188.1:
+CSDB record ID: 31003
+
+CAI33188.1 Streptococcus pneumoniae 11D:
 
 ![](../../../csdb/images/7056.gif)
+
+CSDB record ID: 7056
 
 #### Sugars for blast hits:
 
@@ -6174,13 +6614,17 @@ R 195 (100.0%) R 201 (100.0%) R 246 (100.0%) R 323 (100.0%) Y 330 (100.0%) D 369
 
 #### Sugars in cluster:
 
-CAI33652.1:
+CAI33652.1 Streptococcus pneumoniae 19B:
 
 ![](../../../csdb/images/2254.gif)
 
-CAI33675.1:
+CSDB record ID: 2254
+
+CAI33675.1 Streptococcus pneumoniae 19C:
 
 ![](../../../csdb/images/2255.gif)
+
+CSDB record ID: 2255
 
 #### Sugars for blast hits:
 
@@ -6228,9 +6672,11 @@ R 173 (100.0%) Q 216 (100.0%) Q 263 (100.0%) T 268 (100.0%) N 273 (100.0%) S 321
 
 #### Sugars in cluster:
 
-CAI33466.1:
+CAI33466.1 Streptococcus pneumoniae 16F:
 
 ![](../../../csdb/images/1062.gif)
+
+CSDB record ID: 1062
 
 #### Sugars for blast hits:
 
@@ -6283,9 +6729,11 @@ S 63 (100.0%) D 75 (100.0%) Y 79 (100.0%) E 94 (100.0%) E 98 (100.0%) Q 122 (100
 
 #### Sugars in cluster:
 
-BAQ01716.1:
+BAQ01716.1 Escherichia coli O140:
 
 ![](../../../csdb/images/1882.gif)
+
+CSDB record ID: 1882
 
 #### Sugars for blast hits:
 
@@ -6335,9 +6783,11 @@ R 180 (100.0%) Y 183 (100.0%) K 242 (100.0%) Y 306 (100.0%) D 308 (100.0%) R 343
 
 #### Sugars in cluster:
 
-BAQ00830.1:
+BAQ00830.1 Escherichia coli O36:
 
 ![](../../../csdb/images/1543.gif)
+
+CSDB record ID: 1543
 
 #### Sugars for blast hits:
 
@@ -6395,9 +6845,11 @@ S 37 (100.0%) Y 39 (100.0%) T 45 (100.0%) N 56 (100.0%) K 57 (100.0%) T 59 (100.
 
 #### Sugars in cluster:
 
-CAD19991.1, WP_000864940.1, ADT75640.1:
+CAD19991.1 Escherichia coli O6, WP_000864940.1 Escherichia coli O6, ADT75640.1 Escherichia coli O6:
 
 ![](../../../csdb/images/114261.gif)
+
+CSDB record ID: 114261
 
 #### Sugars for blast hits:
 
@@ -6442,9 +6894,11 @@ Y 56 (100.0%) D 60 (100.0%) R 63 (100.0%) H 64 (100.0%) K 104 (100.0%) S 115 (10
 
 #### Sugars in cluster:
 
-ADV17650.1:
+ADV17650.1 Escherichia coli O11:
 
 ![](../../../csdb/images/1513.gif)
+
+CSDB record ID: 1513
 
 #### Sugars for blast hits:
 
@@ -6493,17 +6947,23 @@ D 76 (100.0%) D 102 (100.0%) Y 131 (100.0%) R 174 (100.0%) H 211 (100.0%) S 213 
 
 #### Sugars in cluster:
 
-ACD37086.1:
+ACD37086.1 Escherichia coli O112ab:
 
 ![](../../../csdb/images/705.gif)
 
-BAQ01999.1:
+CSDB record ID: 705
+
+BAQ01999.1 Escherichia coli O181:
 
 ![](../../../csdb/images/1923.gif)
 
-ACD37078.1:
+CSDB record ID: 1923
+
+ACD37078.1 Shigella boydii 15:
 
 ![](../../../csdb/images/1851.gif)
+
+CSDB record ID: 1851
 
 #### Sugars for blast hits:
 
@@ -6554,9 +7014,11 @@ S 105 (100.0%) R 113 (100.0%) S 205 (100.0%) K 241 (100.0%) R 277 (100.0%) Y 279
 
 #### Sugars in cluster:
 
-AAO37717.1:
+AAO37717.1 Escherichia coli O86:
 
 ![](../../../csdb/images/1439.gif)
+
+CSDB record ID: 1439
 
 #### Sugars for blast hits:
 
@@ -6607,13 +7069,17 @@ S 41 (100.0%) N 42 (100.0%) D 43 (100.0%) Y 47 (100.0%) D 49 (100.0%) E 64 (100.
 
 #### Sugars in cluster:
 
-AQU71717.1, AQU71739.1:
+AQU71717.1 Escherichia coli O1, AQU71739.1 Escherichia coli O1:
 
 ![](../../../csdb/images/7222.gif)
 
-AFW04812.1:
+CSDB record ID: 7222
+
+AFW04812.1 Salmonella enterica O42:
 
 ![](../../../csdb/images/703.gif)
+
+CSDB record ID: 703
 
 #### Sugars for blast hits:
 
@@ -6660,9 +7126,11 @@ Q 41 (100.0%) Y 177 (100.0%) Y 179 (100.0%) K 182 (100.0%) N 183 (100.0%) S 184 
 
 #### Sugars in cluster:
 
-CAI32797.1:
+CAI32797.1 Streptococcus pneumoniae 5:
 
 ![](../../../csdb/images/1947.gif)
+
+CSDB record ID: 1947
 
 #### Sugars for blast hits:
 
@@ -6718,15 +7186,19 @@ S 30 (100.0%) Y 33 (100.0%) Y 34 (100.0%) K 54 (100.0%) K 57 (100.0%) Y 58 (100.
 
 #### Sugars in cluster:
 
-AHG15281.1, AFD18613.1, AAX58762.1:
+AHG15281.1 Escherichia coli O145, AFD18613.1 Escherichia coli O145, AAX58762.1 Escherichia coli O145:
 
 ![](../../../csdb/images/1886.gif)
+
+CSDB record ID: 1886
 
 #### Sugars for blast hits:
 
-GEF03964.1:
+GEF03964.1 Escherichia coli O145:
 
 ![](../../../csdb/images/1886.gif)
+
+CSDB record ID: 1886
 
 #### Alphafold models:
 
@@ -6773,13 +7245,17 @@ S 60 (100.0%) S 101 (100.0%) K 126 (100.0%) H 186 (100.0%) R 197 (100.0%) R 199 
 
 #### Sugars in cluster:
 
-ACA24882.1:
+ACA24882.1 Escherichia coli O58:
 
 ![](../../../csdb/images/108653.gif)
 
-ACA24868.1:
+CSDB record ID: 108653
+
+ACA24868.1 Shigella dysenteriae 5:
 
 ![](../../../csdb/images/1565.gif)
+
+CSDB record ID: 1565
 
 #### Sugars for blast hits:
 
@@ -6833,13 +7309,17 @@ Y 8 (100.0%) D 22 (100.0%) R 52 (100.0%) Y 53 (100.0%) D 58 (100.0%) Y 62 (100.0
 
 #### Sugars in cluster:
 
-ACA24852.1:
+ACA24852.1 Escherichia coli O29:
 
 ![](../../../csdb/images/1538.gif)
 
-ACA24840.1:
+CSDB record ID: 1538
+
+ACA24840.1 Shigella dysenteriae 11:
 
 ![](../../../csdb/images/1932.gif)
+
+CSDB record ID: 1932
 
 #### Sugars for blast hits:
 
@@ -6894,9 +7374,11 @@ D 56 (100.0%) T 57 (100.0%) Y 60 (100.0%) N 89 (100.0%) S 133 (100.0%) E 138 (10
 
 #### Sugars in cluster:
 
-ABI98966.1:
+ABI98966.1 Escherichia coli O149:
 
 ![](../../../csdb/images/1890.gif)
+
+CSDB record ID: 1890
 
 #### Sugars for blast hits:
 
@@ -6950,27 +7432,37 @@ K 53 (100.0%) K 59 (100.0%) D 64 (100.0%) Q 74 (100.0%) T 83 (100.0%) Y 99 (100.
 
 #### Sugars in cluster:
 
-CAI32973.1:
+CAI32973.1 Streptococcus pneumoniae 9A:
 
 ![](../../../csdb/images/112112.gif)
 
-CAI32993.1:
+CSDB record ID: 112112
+
+CAI32993.1 Streptococcus pneumoniae 9L:
 
 ![](../../../csdb/images/7046.gif)
 
-CAI33011.1:
+CSDB record ID: 7046
+
+CAI33011.1 Streptococcus pneumoniae 9N:
 
 ![](../../../csdb/images/7415.gif)
 
-CAI33029.1:
+CSDB record ID: 7415
+
+CAI33029.1 Streptococcus pneumoniae 9V:
 
 ![](../../../csdb/images/320.gif)
 
+CSDB record ID: 320
+
 #### Sugars for blast hits:
 
-CZE39046.1:
+CZE39046.1 Streptococcus pneumoniae 5:
 
 ![](../../../csdb/images/1947.gif)
+
+CSDB record ID: 1947
 
 #### Alphafold models:
 
@@ -7014,9 +7506,11 @@ D 52 (100.0%) Y 217 (100.0%) K 219 (100.0%) S 252 (100.0%) R 332 (100.0%) E 373 
 
 #### Sugars in cluster:
 
-BAQ01456.1:
+BAQ01456.1 Escherichia coli O100:
 
 ![](../../../csdb/images/1838.gif)
+
+CSDB record ID: 1838
 
 #### Sugars for blast hits:
 
@@ -7068,9 +7562,11 @@ S 59 (100.0%) R 93 (100.0%) R 312 (100.0%) K 384 (100.0%) S 402 (100.0%) R 406 (
 
 #### Sugars in cluster:
 
-ACA24912.1:
+ACA24912.1 Shigella dysenteriae 10:
 
 ![](../../../csdb/images/23812.gif)
+
+CSDB record ID: 23812
 
 #### Sugars for blast hits:
 
@@ -7128,9 +7624,11 @@ S 33 (100.0%) S 66 (100.0%) K 95 (100.0%) S 108 (100.0%) K 109 (100.0%) Y 118 (1
 
 #### Sugars in cluster:
 
-AGS07346.1:
+AGS07346.1 Salmonella enterica D3:
 
 ![](../../../csdb/images/30907.gif)
+
+CSDB record ID: 30907
 
 #### Sugars for blast hits:
 
@@ -7178,13 +7676,17 @@ E 209 (100.0%) S 352 (100.0%) E 429 (100.0%) R 486 (100.0%)
 
 #### Sugars in cluster:
 
-ACD36996.1:
+ACD36996.1 Escherichia coli O168:
 
 ![](../../../csdb/images/1910.gif)
 
-ACD36984.1:
+CSDB record ID: 1910
+
+ACD36984.1 Shigella dysenteriae 4:
 
 ![](../../../csdb/images/1937.gif)
+
+CSDB record ID: 1937
 
 #### Sugars for blast hits:
 
@@ -7280,13 +7782,17 @@ Q 112 (100.0%) R 122 (100.0%) Q 166 (100.0%) R 192 (100.0%) R 240 (100.0%) R 317
 
 #### Sugars in cluster:
 
-CAI32889.1:
+CAI32889.1 Streptococcus pneumoniae 7B:
 
 ![](../../../csdb/images/7041.gif)
 
-CAI32910.1:
+CSDB record ID: 7041
+
+CAI32910.1 Streptococcus pneumoniae 7C:
 
 ![](../../../csdb/images/7042.gif)
+
+CSDB record ID: 7042
 
 #### Sugars for blast hits:
 
@@ -7341,9 +7847,11 @@ Y 15 (100.0%) Q 18 (100.0%) D 25 (100.0%) R 27 (100.0%) Q 44 (100.0%) Q 62 (100.
 
 #### Sugars in cluster:
 
-EKI39969.1, BAK68980.1, EKK44895.1, BAK69191.1, BAK69033.1, AAC32340.1, EKI95922.1:
+EKI39969.1 Escherichia coli O157, BAK68980.1 Escherichia coli O157, EKK44895.1 Escherichia coli O157, BAK69191.1 Escherichia coli O157, BAK69033.1 Escherichia coli O157, AAC32340.1 Escherichia coli O157, EKI95922.1 Escherichia coli O157:
 
 ![](../../../csdb/images/695.gif)
+
+CSDB record ID: 695
 
 #### Sugars for blast hits:
 
@@ -7395,21 +7903,29 @@ R 75 (100.0%) Y 93 (100.0%) E 138 (100.0%) S 148 (100.0%) R 149 (100.0%) D 152 (
 
 #### Sugars in cluster:
 
-BAQ00736.1:
+BAQ00736.1 Escherichia coli O22:
 
 ![](../../../csdb/images/1530.gif)
 
-ACD37058.1:
+CSDB record ID: 1530
+
+ACD37058.1 Escherichia coli O32:
 
 ![](../../../csdb/images/1540.gif)
 
-BAQ01277.1:
+CSDB record ID: 1540
+
+BAQ01277.1 Escherichia coli O83:
 
 ![](../../../csdb/images/1589.gif)
 
-ACD37051.1:
+CSDB record ID: 1589
+
+ACD37051.1 Shigella boydii 14:
 
 ![](../../../csdb/images/3977.gif)
+
+CSDB record ID: 3977
 
 #### Sugars for blast hits:
 
@@ -7503,17 +8019,23 @@ K 25 (100.0%) S 39 (100.0%) R 42 (100.0%) Y 43 (100.0%) D 48 (100.0%) S 51 (100.
 
 #### Sugars in cluster:
 
-ACD37138.1:
+ACD37138.1 Escherichia coli O124:
 
 ![](../../../csdb/images/1863.gif)
 
-ACD37146.1:
+CSDB record ID: 1863
+
+ACD37146.1 Escherichia coli O164:
 
 ![](../../../csdb/images/1906.gif)
 
-ACD37105.1:
+CSDB record ID: 1906
+
+ACD37105.1 Shigella dysenteriae 3:
 
 ![](../../../csdb/images/718.gif)
+
+CSDB record ID: 718
 
 #### Sugars for blast hits:
 
@@ -7560,9 +8082,11 @@ R 24 (100.0%) D 28 (100.0%) K 48 (100.0%) D 98 (100.0%) R 99 (100.0%) Y 111 (100
 
 #### Sugars in cluster:
 
-BAQ01960.1:
+BAQ01960.1 Escherichia coli O179:
 
 ![](../../../csdb/images/1921.gif)
+
+CSDB record ID: 1921
 
 #### Sugars for blast hits:
 
@@ -7657,9 +8181,11 @@ Y 3 (100.0%) S 10 (100.0%) N 13 (100.0%) R 19 (100.0%) T 21 (100.0%) S 33 (100.0
 
 #### Sugars in cluster:
 
-AAO37701.1, WP_024244058.1:
+AAO37701.1 Escherichia coli O128ab, WP_024244058.1 Escherichia coli O128ac:
 
 ![](../../../csdb/images/1867.gif)
+
+CSDB record ID: 1867
 
 #### Sugars for blast hits:
 
@@ -7706,9 +8232,11 @@ Y 29 (100.0%) S 76 (100.0%) N 82 (100.0%) D 85 (100.0%) K 86 (100.0%) S 88 (100.
 
 #### Sugars in cluster:
 
-ABE98419.1, ADN43845.1:
+ABE98419.1 Escherichia coli O126, ADN43845.1 Escherichia coli O126:
 
 ![](../../../csdb/images/1865.gif)
+
+CSDB record ID: 1865
 
 #### Sugars for blast hits:
 
@@ -7756,9 +8284,11 @@ Y 73 (100.0%) E 74 (100.0%) N 124 (100.0%) S 126 (100.0%) R 147 (100.0%) Q 148 (
 
 #### Sugars in cluster:
 
-BAQ01563.1:
+BAQ01563.1 Escherichia coli O116:
 
 ![](../../../csdb/images/1856.gif)
+
+CSDB record ID: 1856
 
 #### Sugars for blast hits:
 
@@ -7806,9 +8336,11 @@ R 138 (100.0%) R 174 (100.0%) R 224 (100.0%) R 228 (100.0%) R 252 (100.0%) S 254
 
 #### Sugars in cluster:
 
-ADB02825.1:
+ADB02825.1 Escherichia coli O119:
 
 ![](../../../csdb/images/1859.gif)
+
+CSDB record ID: 1859
 
 #### Sugars for blast hits:
 
@@ -7857,9 +8389,11 @@ Y 11 (100.0%) S 48 (100.0%) R 50 (100.0%) D 55 (100.0%) R 56 (100.0%) D 57 (100.
 
 #### Sugars in cluster:
 
-ADC54957.1:
+ADC54957.1 Escherichia coli O166:
 
 ![](../../../csdb/images/1908.gif)
+
+CSDB record ID: 1908
 
 #### Sugars for blast hits:
 
@@ -7905,13 +8439,17 @@ Y 3 (100.0%) R 44 (100.0%) H 46 (100.0%) T 47 (100.0%) D 50 (100.0%) E 52 (100.0
 
 #### Sugars in cluster:
 
-ACV67297.1:
+ACV67297.1 Escherichia coli O78:
 
 ![](../../../csdb/images/1584.gif)
 
-AFW04684.1:
+CSDB record ID: 1584
+
+AFW04684.1 Salmonella enterica O65:
 
 ![](../../../csdb/images/30392.gif)
+
+CSDB record ID: 30392
 
 #### Sugars for blast hits:
 
@@ -7961,13 +8499,17 @@ D 26 (100.0%) D 141 (100.0%) K 143 (100.0%) S 206 (100.0%) R 207 (100.0%) R 256 
 
 #### Sugars in cluster:
 
-AHB32586.1:
+AHB32586.1 Acinetobacter baumannii O24:
 
 ![](../../../csdb/images/491.gif)
 
-BAQ01516.1:
+CSDB record ID: 491
+
+BAQ01516.1 Escherichia coli O108:
 
 ![](../../../csdb/images/25389.gif)
+
+CSDB record ID: 25389
 
 #### Sugars for blast hits:
 
@@ -8020,13 +8562,17 @@ N 8 (100.0%) R 46 (100.0%) D 52 (100.0%) Y 56 (100.0%) Y 59 (100.0%) Y 70 (100.0
 
 #### Sugars in cluster:
 
-BAQ00746.1:
+BAQ00746.1 Escherichia coli O23:
 
 ![](../../../csdb/images/20006.gif)
 
-AFW04888.1:
+CSDB record ID: 20006
+
+AFW04888.1 Salmonella enterica O51:
 
 ![](../../../csdb/images/3366.gif)
+
+CSDB record ID: 3366
 
 #### Sugars for blast hits:
 
@@ -8073,9 +8619,11 @@ N 76 (100.0%) Y 119 (100.0%) D 152 (100.0%) H 153 (100.0%) Y 159 (100.0%) Y 167 
 
 #### Sugars in cluster:
 
-BAQ01238.1:
+BAQ01238.1 Escherichia coli O80:
 
 ![](../../../csdb/images/1452.gif)
+
+CSDB record ID: 1452
 
 #### Sugars for blast hits:
 
@@ -8123,23 +8671,31 @@ R 55 (100.0%) D 63 (100.0%) Y 67 (100.0%) S 117 (100.0%) Q 152 (100.0%) R 154 (1
 
 #### Sugars in cluster:
 
-BAQ01860.1:
+BAQ01860.1 Escherichia coli O169:
 
 ![](../../../csdb/images/1911.gif)
 
-BAL03056.1:
+CSDB record ID: 1911
+
+BAL03056.1 Escherichia coli O183:
 
 ![](../../../csdb/images/1925.gif)
 
-AAL27339.1:
+CSDB record ID: 1925
+
+AAL27339.1 Shigella boydii 6:
 
 ![](../../../csdb/images/712.gif)
 
+CSDB record ID: 712
+
 #### Sugars for blast hits:
 
-AIG62720.1:
+AIG62720.1 Escherichia coli O169:
 
 ![](../../../csdb/images/1911.gif)
+
+CSDB record ID: 1911
 
 #### Alphafold models:
 
@@ -8186,9 +8742,11 @@ S 51 (100.0%) N 54 (100.0%) D 57 (100.0%) Y 59 (100.0%) Y 61 (100.0%) Y 89 (100.
 
 #### Sugars in cluster:
 
-BAQ01293.1:
+BAQ01293.1 Escherichia coli O84:
 
 ![](../../../csdb/images/1590.gif)
+
+CSDB record ID: 1590
 
 #### Sugars for blast hits:
 
@@ -8235,9 +8793,11 @@ D 21 (100.0%) T 43 (100.0%) D 45 (100.0%) T 55 (100.0%) Y 115 (100.0%) R 119 (10
 
 #### Sugars in cluster:
 
-BAQ00653.1:
+BAQ00653.1 Escherichia coli O16:
 
 ![](../../../csdb/images/1517.gif)
+
+CSDB record ID: 1517
 
 #### Sugars for blast hits:
 
@@ -8284,9 +8844,11 @@ K 30 (100.0%) D 32 (100.0%) R 97 (100.0%) Q 100 (100.0%) K 162 (100.0%) D 163 (1
 
 #### Sugars in cluster:
 
-BAQ01207.1:
+BAQ01207.1 Escherichia coli O74:
 
 ![](../../../csdb/images/1580.gif)
+
+CSDB record ID: 1580
 
 #### Sugars for blast hits:
 
@@ -8381,9 +8943,11 @@ Y 100 (100.0%) N 184 (100.0%) Q 187 (100.0%) R 196 (100.0%) S 203 (100.0%) K 229
 
 #### Sugars in cluster:
 
-ABZ79721.1, ABB65530.1:
+ABZ79721.1 Escherichia coli O53, ABB65530.1 Shigella boydii 4:
 
 ![](../../../csdb/images/1560.gif)
+
+CSDB record ID: 1560
 
 #### Sugars for blast hits:
 
@@ -8433,13 +8997,17 @@ E 10 (100.0%) K 68 (100.0%) S 98 (100.0%) K 110 (100.0%) S 112 (100.0%) K 140 (1
 
 #### Sugars in cluster:
 
-ADX97403.1:
+ADX97403.1 Yersinia pseudotuberculosis O:10:
 
 ![](../../../csdb/images/12137.gif)
 
-AFE83402.1, WP_001300154.1:
+CSDB record ID: 12137
+
+AFE83402.1 Escherichia coli O111, WP_001300154.1 Escherichia coli O111:
 
 ![](../../../csdb/images/616.gif)
+
+CSDB record ID: 616
 
 #### Sugars for blast hits:
 
@@ -8491,9 +9059,11 @@ E 8 (100.0%) Y 11 (100.0%) S 41 (100.0%) Y 43 (100.0%) S 44 (100.0%) S 46 (100.0
 
 #### Sugars in cluster:
 
-BAQ02031.1:
+BAQ02031.1 Escherichia coli O184:
 
 ![](../../../csdb/images/1926.gif)
+
+CSDB record ID: 1926
 
 #### Sugars for blast hits:
 
@@ -8585,9 +9155,11 @@ Y 3 (100.0%) R 45 (100.0%) T 50 (100.0%) D 51 (100.0%) Y 55 (100.0%) E 77 (100.0
 
 #### Sugars in cluster:
 
-AFW04860.1:
+AFW04860.1 Salmonella enterica O60:
 
 ![](../../../csdb/images/3360.gif)
+
+CSDB record ID: 3360
 
 #### Sugars for blast hits:
 
@@ -8634,23 +9206,31 @@ Q 153 (100.0%) D 162 (100.0%) N 165 (100.0%) Y 173 (100.0%) S 186 (100.0%) E 218
 
 #### Sugars in cluster:
 
-CAI33412.1:
+CAI33412.1 Streptococcus pneumoniae 15F:
 
 ![](../../../csdb/images/2972.gif)
 
-CAI33343.1:
+CSDB record ID: 2972
+
+CAI33343.1 Streptococcus pneumoniae 15A:
 
 ![](../../../csdb/images/2973.gif)
+
+CSDB record ID: 2973
 
 #### Sugars for blast hits:
 
-VQD68897.1:
+VQD68897.1 Streptococcus pneumoniae 15F:
 
 ![](../../../csdb/images/2972.gif)
 
-VSN79485.1:
+CSDB record ID: 2972
+
+VSN79485.1 Streptococcus pneumoniae 15A:
 
 ![](../../../csdb/images/2973.gif)
+
+CSDB record ID: 2973
 
 #### Alphafold models:
 
@@ -8742,9 +9322,11 @@ K 27 (100.0%) N 90 (100.0%) Y 119 (100.0%) D 144 (100.0%) R 146 (100.0%) Y 147 (
 
 #### Sugars in cluster:
 
-BAQ01266.1:
+BAQ01266.1 Escherichia coli O82:
 
 ![](../../../csdb/images/1588.gif)
+
+CSDB record ID: 1588
 
 #### Sugars for blast hits:
 
@@ -8791,9 +9373,11 @@ S 2 (100.0%) Y 6 (100.0%) N 12 (100.0%) N 18 (100.0%) S 29 (100.0%) Y 37 (100.0%
 
 #### Sugars in cluster:
 
-CAI34587.1:
+CAI34587.1 Streptococcus pneumoniae 45:
 
 ![](../../../csdb/images/25004.gif)
+
+CSDB record ID: 25004
 
 #### Sugars for blast hits:
 
@@ -8838,9 +9422,11 @@ K 30 (100.0%) N 168 (100.0%) N 176 (100.0%) T 210 (100.0%) R 211 (100.0%) T 212 
 
 #### Sugars in cluster:
 
-CAI32957.1:
+CAI32957.1 Streptococcus pneumoniae 8:
 
 ![](../../../csdb/images/938.gif)
+
+CSDB record ID: 938
 
 #### Sugars for blast hits:
 
@@ -8934,9 +9520,11 @@ H 36 (100.0%) Q 76 (100.0%) S 98 (100.0%) R 101 (100.0%) E 146 (100.0%) K 167 (1
 
 #### Sugars in cluster:
 
-BAQ01419.1:
+BAQ01419.1 Escherichia coli O96:
 
 ![](../../../csdb/images/1600.gif)
+
+CSDB record ID: 1600
 
 #### Sugars for blast hits:
 
@@ -8985,13 +9573,17 @@ K 71 (100.0%) S 73 (100.0%) S 77 (100.0%) T 84 (100.0%) R 90 (100.0%) S 98 (100.
 
 #### Sugars in cluster:
 
-ACA24739.1:
+ACA24739.1 Escherichia coli O79:
 
 ![](../../../csdb/images/1585.gif)
 
-AAL27327.1:
+CSDB record ID: 1585
+
+AAL27327.1 Shigella boydii 5:
 
 ![](../../../csdb/images/1422.gif)
+
+CSDB record ID: 1422
 
 #### Sugars for blast hits:
 
@@ -9085,9 +9677,11 @@ E 134 (100.0%) N 140 (100.0%) N 158 (100.0%) Y 165 (100.0%) S 168 (100.0%) S 169
 
 #### Sugars in cluster:
 
-CAI32727.1:
+CAI32727.1 Streptococcus pneumoniae 2:
 
 ![](../../../csdb/images/1944.gif)
+
+CSDB record ID: 1944
 
 #### Sugars for blast hits:
 
@@ -9130,15 +9724,19 @@ S 15 (100.0%) E 18 (100.0%) Y 47 (100.0%) D 52 (100.0%) Y 56 (100.0%) E 71 (100.
 
 #### Sugars in cluster:
 
-BAQ00634.1:
+BAQ00634.1 Escherichia coli O12:
 
 ![](../../../csdb/images/1514.gif)
 
+CSDB record ID: 1514
+
 #### Sugars for blast hits:
 
-AXY99336.1:
+AXY99336.1 Proteus vulgaris O2:
 
 ![](../../../csdb/images/3058.gif)
+
+CSDB record ID: 3058
 
 #### Alphafold models:
 
@@ -9181,9 +9779,11 @@ Y 44 (100.0%) E 51 (100.0%) Y 53 (100.0%) Y 123 (100.0%) R 144 (100.0%) D 146 (1
 
 #### Sugars in cluster:
 
-ADJ19217.1:
+ADJ19217.1 Escherichia coli O61:
 
 ![](../../../csdb/images/1568.gif)
+
+CSDB record ID: 1568
 
 #### Sugars for blast hits:
 
@@ -9233,9 +9833,11 @@ S 89 (100.0%) R 144 (100.0%) R 153 (100.0%) T 155 (100.0%) E 160 (100.0%) S 162 
 
 #### Sugars in cluster:
 
-BAQ02015.1:
+BAQ02015.1 Escherichia coli O182:
 
 ![](../../../csdb/images/1924.gif)
+
+CSDB record ID: 1924
 
 #### Sugars for blast hits:
 
@@ -9282,13 +9884,17 @@ K 8 (100.0%) K 11 (100.0%) Y 18 (100.0%) Q 35 (100.0%) S 40 (100.0%) R 41 (100.0
 
 #### Sugars in cluster:
 
-ACD75809.1:
+ACD75809.1 Escherichia coli O2:
 
 ![](../../../csdb/images/108685.gif)
 
-BAQ01012.1:
+CSDB record ID: 108685
+
+BAQ01012.1 Escherichia coli O50:
 
 ![](../../../csdb/images/1557.gif)
+
+CSDB record ID: 1557
 
 #### Sugars for blast hits:
 
@@ -9333,13 +9939,17 @@ T 22 (100.0%) S 28 (100.0%) N 95 (100.0%) N 100 (100.0%) K 101 (100.0%) Y 107 (1
 
 #### Sugars in cluster:
 
-AJE24464.1:
+AJE24464.1 Escherichia coli O153:
 
 ![](../../../csdb/images/1894.gif)
 
-AFW04790.1:
+CSDB record ID: 1894
+
+AFW04790.1 Salmonella enterica O52:
 
 ![](../../../csdb/images/3364.gif)
+
+CSDB record ID: 3364
 
 #### Sugars for blast hits:
 
@@ -9391,9 +10001,11 @@ R 56 (100.0%) Y 64 (100.0%) N 133 (100.0%) D 181 (100.0%) N 183 (100.0%) N 189 (
 
 #### Sugars for blast hits:
 
-AAG17411.1:
+AAG17411.1 Plesiomonas shigelloides O17:
 
 ![](../../../csdb/images/22678.gif)
+
+CSDB record ID: 22678
 
 #### Alphafold models:
 
@@ -9440,17 +10052,23 @@ Y 16 (100.0%) K 145 (100.0%) Y 157 (100.0%) R 177 (100.0%) K 199 (100.0%) N 204 
 
 #### Sugars in cluster:
 
-AKA20981.1:
+AKA20981.1 Yersinia pseudotuberculosis O:5a:
 
 ![](../../../csdb/images/12125.gif)
 
-AKA20999.1:
+CSDB record ID: 12125
+
+AKA20999.1 Yersinia pseudotuberculosis O:5b:
 
 ![](../../../csdb/images/12126.gif)
 
-CAX18360.1:
+CSDB record ID: 12126
+
+CAX18360.1 Yersinia pseudotuberculosis O:15:
 
 ![](../../../csdb/images/12127.gif)
+
+CSDB record ID: 12127
 
 #### Sugars for blast hits:
 
@@ -9499,9 +10117,11 @@ S 5 (100.0%) Y 26 (100.0%) N 29 (100.0%) S 31 (100.0%) K 33 (100.0%) Y 36 (100.0
 
 #### Sugars in cluster:
 
-AAY28249.1:
+AAY28249.1 Escherichia coli O174:
 
 ![](../../../csdb/images/30040.gif)
+
+CSDB record ID: 30040
 
 #### Sugars for blast hits:
 
@@ -9549,13 +10169,17 @@ D 26 (100.0%) T 28 (100.0%) T 32 (100.0%) N 34 (100.0%) S 35 (100.0%) Q 38 (100.
 
 #### Sugars in cluster:
 
-ACD37117.1:
+ACD37117.1 Escherichia coli O40:
 
 ![](../../../csdb/images/1547.gif)
 
-ACD37111.1:
+CSDB record ID: 1547
+
+ACD37111.1 Shigella dysenteriae 9:
 
 ![](../../../csdb/images/713.gif)
+
+CSDB record ID: 713
 
 #### Sugars for blast hits:
 
@@ -9603,9 +10227,11 @@ K 6 (100.0%) Y 8 (100.0%) T 20 (100.0%) S 23 (100.0%) Y 31 (100.0%) D 64 (100.0%
 
 #### Sugars in cluster:
 
-BAQ01218.1:
+BAQ01218.1 Escherichia coli O76:
 
 ![](../../../csdb/images/1582.gif)
+
+CSDB record ID: 1582
 
 #### Sugars for blast hits:
 
@@ -9652,19 +10278,25 @@ Y 3 (100.0%) D 24 (100.0%) R 42 (100.0%) D 48 (100.0%) Y 52 (100.0%) S 88 (100.0
 
 #### Sugars in cluster:
 
-ABB29906.1:
+ABB29906.1 Escherichia coli O24:
 
 ![](../../../csdb/images/8411.gif)
 
-ABB29916.1:
+CSDB record ID: 8411
+
+ABB29916.1 Escherichia coli O56:
 
 ![](../../../csdb/images/8382.gif)
 
+CSDB record ID: 8382
+
 #### Sugars for blast hits:
 
-AXL96526.1:
+AXL96526.1 Providencia alcalifaciens O38:
 
 ![](../../../csdb/images/27606.gif)
+
+CSDB record ID: 27606
 
 #### Alphafold models:
 
@@ -9709,9 +10341,11 @@ N 14 (100.0%) S 33 (100.0%) S 38 (100.0%) D 55 (100.0%) Y 60 (100.0%) N 81 (100.
 
 #### Sugars in cluster:
 
-AAD50486.1:
+AAD50486.1 Escherichia coli O113:
 
 ![](../../../csdb/images/1853.gif)
+
+CSDB record ID: 1853
 
 #### Sugars for blast hits:
 
@@ -9758,9 +10392,11 @@ N 44 (100.0%) R 45 (100.0%) N 47 (100.0%) D 49 (100.0%) Y 50 (100.0%) Y 53 (100.
 
 #### Sugars in cluster:
 
-AAN60459.1:
+AAN60459.1 Escherichia coli O26:
 
 ![](../../../csdb/images/1534.gif)
+
+CSDB record ID: 1534
 
 #### Sugars for blast hits:
 
@@ -9890,17 +10526,23 @@ Q 21 (100.0%) Y 32 (100.0%) S 35 (100.0%) N 147 (100.0%) T 168 (100.0%) R 174 (1
 
 #### Sugars in cluster:
 
-CAI34099.1:
+CAI34099.1 Streptococcus pneumoniae 31:
 
 ![](../../../csdb/images/7087.gif)
 
-CAI34498.1:
+CSDB record ID: 7087
+
+CAI34498.1 Streptococcus pneumoniae 41F:
 
 ![](../../../csdb/images/25001.gif)
 
-CAI34475.1:
+CSDB record ID: 25001
+
+CAI34475.1 Streptococcus pneumoniae 41A:
 
 ![](../../../csdb/images/25002.gif)
+
+CSDB record ID: 25002
 
 #### Sugars for blast hits:
 
@@ -9946,9 +10588,11 @@ Y 44 (100.0%) D 49 (100.0%) Y 53 (100.0%) R 131 (100.0%) Q 132 (100.0%) H 165 (1
 
 #### Sugars in cluster:
 
-AAM27879.1:
+AAM27879.1 Pseudomonas aeruginosa O9:
 
 ![](../../../csdb/images/24037.gif)
+
+CSDB record ID: 24037
 
 #### Sugars for blast hits:
 
@@ -9993,9 +10637,11 @@ K 34 (100.0%) T 42 (100.0%) S 56 (100.0%) S 70 (100.0%) K 106 (100.0%) E 109 (10
 
 #### Sugars in cluster:
 
-BAQ01894.1:
+BAQ01894.1 Escherichia coli O171:
 
 ![](../../../csdb/images/1913.gif)
+
+CSDB record ID: 1913
 
 #### Sugars for blast hits:
 
@@ -10041,9 +10687,11 @@ Y 10 (100.0%) Y 12 (100.0%) D 32 (100.0%) R 34 (100.0%) Y 36 (100.0%) Y 38 (100.
 
 #### Sugars in cluster:
 
-AAZ20761.1:
+AAZ20761.1 Escherichia coli O66:
 
 ![](../../../csdb/images/1573.gif)
+
+CSDB record ID: 1573
 
 #### Sugars for blast hits:
 
@@ -10132,9 +10780,11 @@ K 7 (100.0%) K 8 (100.0%) Y 9 (100.0%) S 13 (100.0%) Q 23 (100.0%) S 26 (100.0%)
 
 #### Sugars in cluster:
 
-ABI34565.1:
+ABI34565.1 Escherichia coli O22:
 
 ![](../../../csdb/images/1530.gif)
+
+CSDB record ID: 1530
 
 #### Sugars for blast hits:
 
@@ -10182,13 +10832,17 @@ K 10 (100.0%) E 19 (100.0%) Y 25 (100.0%) E 31 (100.0%) D 35 (100.0%) Y 36 (100.
 
 #### Sugars in cluster:
 
-AAT28922.1:
+AAT28922.1 Escherichia coli O172:
 
 ![](../../../csdb/images/1914.gif)
 
-AAR24270.1:
+CSDB record ID: 1914
+
+AAR24270.1 Shigella boydii 13:
 
 ![](../../../csdb/images/1405.gif)
+
+CSDB record ID: 1405
 
 #### Sugars for blast hits:
 
@@ -10235,13 +10889,17 @@ Y 63 (100.0%) Y 70 (100.0%) Q 75 (100.0%) S 78 (100.0%) E 83 (100.0%) E 91 (100.
 
 #### Sugars in cluster:
 
-ADN43883.1:
+ADN43883.1 Escherichia coli O165:
 
 ![](../../../csdb/images/1907.gif)
 
-ACD37072.1:
+CSDB record ID: 1907
+
+ACD37072.1 Shigella boydii 7:
 
 ![](../../../csdb/images/3984.gif)
+
+CSDB record ID: 3984
 
 #### Sugars for blast hits:
 
@@ -10286,13 +10944,17 @@ R 7 (100.0%) Y 8 (100.0%) Y 21 (100.0%) H 29 (100.0%) K 54 (100.0%) N 69 (100.0%
 
 #### Sugars in cluster:
 
-ADI59429.1:
+ADI59429.1 Yersinia pseudotuberculosis O:1c:
 
 ![](../../../csdb/images/12131.gif)
 
-ADI59445.1:
+CSDB record ID: 12131
+
+ADI59445.1 Yersinia pseudotuberculosis O:2b:
 
 ![](../../../csdb/images/12132.gif)
+
+CSDB record ID: 12132
 
 #### Sugars for blast hits:
 
@@ -10340,9 +11002,11 @@ Y 2 (100.0%) K 22 (100.0%) Y 23 (100.0%) S 38 (100.0%) D 45 (100.0%) D 47 (100.0
 
 #### Sugars in cluster:
 
-ACA24829.1, AAS98031.1:
+ACA24829.1 Escherichia coli O105, AAS98031.1 Shigella boydii 11:
 
 ![](../../../csdb/images/1844.gif)
+
+CSDB record ID: 1844
 
 #### Sugars for blast hits:
 
@@ -10389,9 +11053,11 @@ N 105 (100.0%) E 109 (100.0%) S 113 (100.0%) R 116 (100.0%) Y 120 (100.0%) N 171
 
 #### Sugars in cluster:
 
-BAQ01702.1:
+BAQ01702.1 Escherichia coli O136:
 
 ![](../../../csdb/images/1878.gif)
+
+CSDB record ID: 1878
 
 #### Sugars for blast hits:
 
@@ -10438,9 +11104,11 @@ S 9 (100.0%) K 49 (100.0%) D 60 (100.0%) E 61 (100.0%) Y 64 (100.0%) N 66 (100.0
 
 #### Sugars in cluster:
 
-ADN43838.1:
+ADN43838.1 Escherichia coli O115:
 
 ![](../../../csdb/images/1855.gif)
+
+CSDB record ID: 1855
 
 #### Sugars for blast hits:
 
@@ -10528,9 +11196,11 @@ N 95 (100.0%) S 121 (100.0%) Q 124 (100.0%) S 170 (100.0%) Q 173 (100.0%) R 181 
 
 #### Sugars in cluster:
 
-ABD19779.1:
+ABD19779.1 Shigella boydii 16:
 
 ![](../../../csdb/images/3660.gif)
+
+CSDB record ID: 3660
 
 #### Sugars for blast hits:
 
@@ -10578,9 +11248,11 @@ N 16 (100.0%) S 28 (100.0%) S 46 (100.0%) N 54 (100.0%) Y 65 (100.0%) Y 67 (100.
 
 #### Sugars in cluster:
 
-BAQ00893.1:
+BAQ00893.1 Escherichia coli O41:
 
 ![](../../../csdb/images/1548.gif)
+
+CSDB record ID: 1548
 
 #### Sugars for blast hits:
 
@@ -10714,13 +11386,17 @@ N 2 (100.0%) N 8 (100.0%) Y 19 (100.0%) K 24 (100.0%) S 25 (100.0%) K 26 (100.0%
 
 #### Sugars in cluster:
 
-ACH97132.1:
+ACH97132.1 Escherichia coli O107:
 
 ![](../../../csdb/images/1846.gif)
 
-ACH97143.1, ABE98413.1:
+CSDB record ID: 1846
+
+ACH97143.1 Escherichia coli O117, ABE98413.1 Escherichia coli O117:
 
 ![](../../../csdb/images/1857.gif)
+
+CSDB record ID: 1857
 
 #### Sugars for blast hits:
 
@@ -10764,9 +11440,11 @@ K 1 (100.0%) Y 6 (100.0%) N 7 (100.0%) N 11 (100.0%) S 15 (100.0%) Y 21 (100.0%)
 
 #### Sugars in cluster:
 
-CAI34641.1:
+CAI34641.1 Streptococcus pneumoniae 47A:
 
 ![](../../../csdb/images/25006.gif)
+
+CSDB record ID: 25006
 
 #### Sugars for blast hits:
 
@@ -10809,9 +11487,11 @@ H 17 (100.0%) Y 26 (100.0%) K 33 (100.0%) R 37 (100.0%) K 38 (100.0%) K 39 (100.
 
 #### Sugars in cluster:
 
-AAZ85718.1:
+AAZ85718.1 Escherichia coli O139:
 
 ![](../../../csdb/images/1881.gif)
+
+CSDB record ID: 1881
 
 #### Sugars for blast hits:
 
@@ -10856,9 +11536,11 @@ N 7 (100.0%) S 20 (100.0%) K 26 (100.0%) D 28 (100.0%) Y 29 (100.0%) D 33 (100.0
 
 #### Sugars in cluster:
 
-ADC54929.1:
+ADC54929.1 Escherichia coli O1:
 
 ![](../../../csdb/images/7222.gif)
+
+CSDB record ID: 7222
 
 #### Sugars for blast hits:
 
@@ -10946,9 +11628,11 @@ T 1 (100.0%) Y 2 (100.0%) T 4 (100.0%) K 16 (100.0%) R 17 (100.0%) T 19 (100.0%)
 
 #### Sugars in cluster:
 
-ABA42232.1:
+ABA42232.1 Escherichia coli O148:
 
 ![](../../../csdb/images/1889.gif)
+
+CSDB record ID: 1889
 
 #### Sugars for blast hits:
 
@@ -10996,9 +11680,11 @@ K 3 (100.0%) Y 114 (100.0%) K 118 (100.0%) S 122 (100.0%) Y 125 (100.0%) R 134 (
 
 #### Sugars in cluster:
 
-AAL27351.1:
+AAL27351.1 Shigella boydii 9:
 
 ![](../../../csdb/images/3986.gif)
+
+CSDB record ID: 3986
 
 #### Sugars for blast hits:
 
@@ -11044,9 +11730,11 @@ S 25 (100.0%) S 40 (100.0%) N 42 (100.0%) Y 43 (100.0%) N 45 (100.0%) Y 47 (100.
 
 #### Sugars in cluster:
 
-ACA24901.1:
+ACA24901.1 Escherichia coli O87:
 
 ![](../../../csdb/images/1594.gif)
+
+CSDB record ID: 1594
 
 #### Sugars for blast hits:
 
@@ -11132,9 +11820,11 @@ Y 2 (100.0%) T 4 (100.0%) S 16 (100.0%) K 19 (100.0%) K 20 (100.0%) S 21 (100.0%
 
 #### Sugars in cluster:
 
-BAQ01137.1:
+BAQ01137.1 Escherichia coli O65:
 
 ![](../../../csdb/images/1572.gif)
+
+CSDB record ID: 1572
 
 #### Sugars for blast hits:
 
@@ -11177,9 +11867,11 @@ S 4 (100.0%) S 20 (100.0%) R 27 (100.0%) S 29 (100.0%) T 77 (100.0%) H 91 (100.0
 
 #### Sugars in cluster:
 
-ADJ19203.1:
+ADJ19203.1 Escherichia coli O161:
 
 ![](../../../csdb/images/1902.gif)
+
+CSDB record ID: 1902
 
 #### Sugars for blast hits:
 
@@ -11265,9 +11957,11 @@ Y 2 (100.0%) S 8 (100.0%) S 15 (100.0%) S 18 (100.0%) T 19 (100.0%) T 22 (100.0%
 
 #### Sugars in cluster:
 
-ADN43871.1:
+ADN43871.1 Escherichia coli O158:
 
 ![](../../../csdb/images/1287.gif)
+
+CSDB record ID: 1287
 
 #### Sugars for blast hits:
 
@@ -11354,9 +12048,11 @@ H 1 (100.0%) R 5 (100.0%) T 6 (100.0%) T 7 (100.0%) S 8 (100.0%) T 15 (100.0%) N
 
 #### Sugars in cluster:
 
-BAQ01659.1:
+BAQ01659.1 Escherichia coli O132:
 
 ![](../../../csdb/images/1874.gif)
+
+CSDB record ID: 1874
 
 #### Sugars for blast hits:
 
@@ -11484,9 +12180,11 @@ T 1 (100.0%) K 4 (100.0%) K 5 (100.0%) K 6 (100.0%) Q 7 (100.0%) N 9 (100.0%) N 
 
 #### Sugars in cluster:
 
-BAQ00927.1:
+BAQ00927.1 Escherichia coli O43:
 
 ![](../../../csdb/images/1381.gif)
+
+CSDB record ID: 1381
 
 #### Sugars for blast hits:
 
@@ -11529,9 +12227,11 @@ Y 2 (100.0%) T 4 (100.0%) N 5 (100.0%) Y 10 (100.0%) Q 11 (100.0%) T 15 (100.0%)
 
 #### Sugars in cluster:
 
-BAQ01155.1:
+BAQ01155.1 Escherichia coli O68:
 
 ![](../../../csdb/images/1574.gif)
+
+CSDB record ID: 1574
 
 #### Sugars for blast hits:
 
@@ -11616,9 +12316,11 @@ N 5 (100.0%) Q 22 (100.0%) Y 24 (100.0%) K 26 (100.0%) S 31 (100.0%) D 32 (100.0
 
 #### Sugars in cluster:
 
-AIG62747.1:
+AIG62747.1 Escherichia coli O178:
 
 ![](../../../csdb/images/1920.gif)
+
+CSDB record ID: 1920
 
 #### Sugars for blast hits:
 
@@ -12027,9 +12729,11 @@ S 4 (100.0%) T 5 (100.0%) Y 10 (100.0%) S 16 (100.0%) K 23 (100.0%) E 24 (100.0%
 
 #### Sugars in cluster:
 
-ACH97152.1:
+ACH97152.1 Escherichia coli O3:
 
 ![](../../../csdb/images/1501.gif)
+
+CSDB record ID: 1501
 
 #### Sugars for blast hits:
 
@@ -12072,9 +12776,11 @@ K 4 (100.0%) S 5 (100.0%) R 6 (100.0%) Y 22 (100.0%) K 23 (100.0%) E 25 (100.0%)
 
 #### Sugars in cluster:
 
-ACA24890.1:
+ACA24890.1 Escherichia coli O159:
 
 ![](../../../csdb/images/1900.gif)
+
+CSDB record ID: 1900
 
 #### Sugars for blast hits:
 
@@ -12117,9 +12823,11 @@ D 1 (100.0%) S 2 (100.0%) N 4 (100.0%) R 5 (100.0%) S 6 (100.0%) S 7 (100.0%) K 
 
 #### Sugars in cluster:
 
-BAQ01114.1:
+BAQ01114.1 Escherichia coli O64:
 
 ![](../../../csdb/images/1571.gif)
+
+CSDB record ID: 1571
 
 #### Sugars for blast hits:
 
@@ -12243,9 +12951,11 @@ E 1 (100.0%) H 2 (100.0%) N 4 (100.0%) R 5 (100.0%) Y 7 (100.0%) N 10 (100.0%) T
 
 #### Sugars in cluster:
 
-BAQ01780.1:
+BAQ01780.1 Escherichia coli O154:
 
 ![](../../../csdb/images/696.gif)
+
+CSDB record ID: 696
 
 #### Sugars for blast hits:
 
