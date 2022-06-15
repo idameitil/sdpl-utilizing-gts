@@ -69,6 +69,12 @@ Y 160 (98.4%) Y 275 (100.0%) Y 295 (97.8%) Y 331 (98.5%) R 338 (100.0%) R 382 (1
 
 #### Sugars in cluster:
 
+#### Sugars for blast hits:
+
+CAB3270026.1:
+
+![](../../../csdb/images/911.gif)
+
 #### Alphafold models:
 
 [ACH50550.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy_missing/af_out/ACH50550.1/ranked_0.pdb)
@@ -206,73 +212,39 @@ CAI33309.1:
 
 ![](../../../csdb/images/7061.gif)
 
-CSDB record ID: 7061
-
--4)bDGalp(1-4)[Ac(1-3),Ac(1-2)]bDGlcp(1-3)bDGalf(1-4)[Ac(1-2)]bDGlcpN(1-2)xDRib-ol(5-P-
-
 CAI33441.1:
 
 ![](../../../csdb/images/1490.gif)
-
-CSDB record ID: 1490
-
--3)[70%Ac(1-2)]bDGalf(1-3)aLRhap(1-2)aLRhap(1-3)[x?Gro(1-P-6)]aDGalp(1-3)bDGalp(1-4)bDGlcp(1-
 
 CAI34080.1:
 
 ![](../../../csdb/images/1227.gif)
 
-CSDB record ID: 1227
-
--6)bDGalf(1-1)xDRib-ol(5-P-4)[Ac(1-2)]bDGalpN(1-6)bDGalf(1-3)bDGalp(1-
-
 CAI34348.1:
 
 ![](../../../csdb/images/7095.gif)
-
-CSDB record ID: 7095
-
--6)[Ac(1-2)]bDGalf(1-3)aDGalp(1-2)x?Rib-ol(5-P-3)bDGalf(1-3)bDGalp(1-
 
 CAI34286.1:
 
 ![](../../../csdb/images/1611.gif)
 
-CSDB record ID: 1611
-
--3)bDGalp(1-3)[Ac(1-6),Ac(1-5)]bDGalf(1-3)bDGlcp(1-6)[Ac(1-2)]bDGalf(1-1)xDMan-ol(6-P-
-
 CAI34310.1:
 
 ![](../../../csdb/images/1609.gif)
-
-CSDB record ID: 1609
-
--4)[Ac(1-2)]bDGalpN(1-6)bDGalf(1-3)bDGlcp(1-6)[70%Ac(1-2)]bDGalf(1-1)xDRib-ol(5-P-
 
 CAI34328.1:
 
 ![](../../../csdb/images/7097.gif)
 
-CSDB record ID: 7097
-
--6)bDGalf(1-1)x?Man-ol(6-P-3)[aDGlcp(1-2)]bDGalp(1-3)bDGalf(1-3)bDGlcp(1-
-
 CAI34519.1:
 
 ![](../../../csdb/images/25003.gif)
-
-CSDB record ID: 25003
-
--3)[aDGlcp(1-2)]bDGalp(1-3)[%Ac(1-6),%Ac(1-5)]bDGalf(1-3)bDGlcp(1-6)aDGalf(1-1)xDMan-ol(5-P-
 
 CAI34657.1:
 
 ![](../../../csdb/images/25005.gif)
 
-CSDB record ID: 25005
-
--6)[Ac(1-5),Ac(1-3)]bDGalf(1-3)bDGalp(1-6)[Ac(1-2)]bDGalf(1-3)aDGalp(1-2)xDRib-ol(5-P-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -390,57 +362,31 @@ BAQ01024.1:
 
 ![](../../../csdb/images/1558.gif)
 
-CSDB record ID: 1558
-
--3)[Ac(1-2)bDGlcpN(1-2)]aLRhap(1-2)aLRhap(1-4)aDGlcp(1-3)[Ac(1-2)]bDGalpN(1-
-
 ADC54967.1:
 
 ![](../../../csdb/images/619.gif)
-
-CSDB record ID: 619
-
--3)[Ac(1-2)]bDGlcpN(1-3)[bDManp(1-4)]aDGalp(1-4)aLRhap(1-
 
 BAQ00622.1:
 
 ![](../../../csdb/images/1512.gif)
 
-CSDB record ID: 1512
-
--3)[<<60%Ac(1-4)|40%lR3HOBut(1-4)>>aDFucp4N(1-2)]aLRhap(1-3)aLRhap(1-3)aDGalp(1-3)[Ac(1-2)]bDGlcpN(1-
-
 AQU71752.1:
 
 ![](../../../csdb/images/7222.gif)
-
-CSDB record ID: 7222
-
--3)[Ac(1-2)bDManpN(1-2)]aLRhap(1-3)aLRhap(1-3)bLRhap(1-4)[Ac(1-2)]bDGlcpN(1-
 
 AFW04820.1:
 
 ![](../../../csdb/images/2600.gif)
 
-CSDB record ID: 2600
-
--3)[Ac(1-2)]bDGlcpN(1-3)[bDManp(1-4)]aDGalp(1-4)aLRhap(1-
-
 AFW04883.1:
 
 ![](../../../csdb/images/701.gif)
-
-CSDB record ID: 701
-
--3)[Ac(1-2)bDGlcpN(1-2)]aLRhap(1-2)aLRhap(1-4)aDGlcp(1-3)[Ac(1-2)]bDGalpN(1-
 
 ABX51892.1:
 
 ![](../../../csdb/images/27572.gif)
 
-CSDB record ID: 27572
-
--3)[Ac(1-4),%Ac(1-2)[%Ac(1-4),%Ac(1-3)]aLRhap(1-4)aDGalpA(1-2)]aLRhap(1-4)aDGlcp(1-2)aLRhap(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -556,17 +502,11 @@ CDF66396.1:
 
 ![](../../../csdb/images/12130.gif)
 
-CSDB record ID: 12130
-
--4)[Ac(1-3),Ac(1-2)]bDGlcpNA(1-4)[aDGalp(1-3),Am(1-2)]aLFucpN(1-3)[Ac(1-2)]aDGlcpN(1-
-
 BAQ00780.1:
 
 ![](../../../csdb/images/1539.gif)
 
-CSDB record ID: 1539
-
--4)bDGlcpA(1-4)[Ac(1-2)bDGlcpN(1-2)]bDGlcpA(1-3)[Ac(1-2)]aDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -713,9 +653,7 @@ AHB32215.1:
 
 ![](../../../csdb/images/2091.gif)
 
-CSDB record ID: 2091
-
--3)[aDGalp(1-6),Ac(1-2)]aDGlcpN(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -853,17 +791,11 @@ CAI34150.1:
 
 ![](../../../csdb/images/848.gif)
 
-CSDB record ID: 848
-
--4)bDGlcp(1-3)[aLRhap(1-P-2)]aDGlcp(1-4)[xXCho(1-P-3),Ac(1-2)]bLRhap(1-
-
 CAI34124.1:
 
 ![](../../../csdb/images/918.gif)
 
-CSDB record ID: 918
-
--4)bDGlcp(1-3)[Ac(1-4),aLRhap(1-P-2)]aDGlcp(1-4)[xXCho(1-P-3),Ac(1-2)]bLRhap(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -967,41 +899,43 @@ CAI32823.1:
 
 ![](../../../csdb/images/1087.gif)
 
-CSDB record ID: 1087
-
--3)aLRhap(1-3)xDRib-ol(5-P-2)aDGalp(1-3)aDGlcp(1-
-
 CAI32843.1:
 
 ![](../../../csdb/images/937.gif)
-
-CSDB record ID: 937
-
--2)aDGalp(1-3)aDGlcp(1-3)aLRhap(1-4)xDRib-ol(5-P-
 
 CAI33700.1:
 
 ![](../../../csdb/images/739.gif)
 
-CSDB record ID: 739
-
--4)[Ac(1-2)]bDManpN(1-4)aDGlcp(1-2)aLRhap(1-P-
-
 CAI33631.1:
 
 ![](../../../csdb/images/740.gif)
-
-CSDB record ID: 740
-
--4)[Ac(1-2)]bDManpN(1-4)aDGlcp(1-3)aLRhap(1-P-
 
 CAI34269.1:
 
 ![](../../../csdb/images/7043.gif)
 
-CSDB record ID: 7043
+#### Sugars for blast hits:
 
--2)[%Ac(1-6)]bDGalf(1-3)aDGalp(1-2)xDRib-ol(5-P-3)bDGalf(1-3)aDGlcp(1-
+AAL82786.1:
+
+![](../../../csdb/images/1087.gif)
+
+VJK41440.1:
+
+![](../../../csdb/images/3661.gif)
+
+VNC99741.1, VSB76654.1, CMX58981.1:
+
+![](../../../csdb/images/739.gif)
+
+VOS41126.1:
+
+![](../../../csdb/images/740.gif)
+
+VMG48693.1:
+
+![](../../../csdb/images/7043.gif)
 
 #### Alphafold models:
 
@@ -1100,17 +1034,11 @@ AHB32411.1:
 
 ![](../../../csdb/images/27746.gif)
 
-CSDB record ID: 27746
-
--2)[Ac(1-2)aDManpN(1-3)]aLRhap(1-2)aLRhap(1-3)aLRhap(1-3)[Ac(1-2)]aDGlcpN(1-
-
 AFC91458.1, AFC91419.1, AAX07747.1:
 
 ![](../../../csdb/images/1552.gif)
 
-CSDB record ID: 1552
-
--2)bDGlcp(1-3)[Ac(1-2)]aL6dTalp(1-3)[Ac(1-2)]aDFucpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -1210,17 +1138,15 @@ AHB32715.1, AHB32637.1:
 
 ![](../../../csdb/images/563.gif)
 
-CSDB record ID: 563
-
--6)[Ac(1-2)]bDGlcpN(1-4)[bDGlcp(1-3),Ac(1-2)]bDGalpN(1-3)[Ac(1-2)]aDGlcpN(1-
-
 CAI33718.1:
 
 ![](../../../csdb/images/1928.gif)
 
-CSDB record ID: 1928
+#### Sugars for blast hits:
 
--6)aDGlcp(1-6)bDGlcp(1-3)bDGalf(1-3)bDGlcp(1-3)[bDGalf(1-4),Ac(1-2)]aDGlcpN(1-P-
+VLD07009.1:
+
+![](../../../csdb/images/7079.gif)
 
 #### Alphafold models:
 
@@ -1314,25 +1240,15 @@ AAT77177.1:
 
 ![](../../../csdb/images/1854.gif)
 
-CSDB record ID: 1854
-
--4)[Ac(1-2)xLSer(1-3)]bDQuip3N(1-3)bDRibf(1-4)bDGalp(1-3)[Ac(1-2)]aDGlcpN(1-
-
 AFN02899.1:
 
 ![](../../../csdb/images/704.gif)
-
-CSDB record ID: 704
-
--4)[Ac(1-3),Ac(1-2)]bDManpN3NA(1-2)aLRhap(1-3)bLRhap(1-4)[Ac(1-2)]aDGlcpN(1-
 
 BAQ00569.1:
 
 ![](../../../csdb/images/3191.gif)
 
-CSDB record ID: 3191
-
--4)[Ac(1-3)]bDQuip3N(1-3)bDRibf(1-4)bDGalp(1-3)[Ac(1-2)]aDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -1427,9 +1343,11 @@ BAQ00795.1:
 
 ![](../../../csdb/images/1401.gif)
 
-CSDB record ID: 1401
+#### Sugars for blast hits:
 
--2)[x?Gro(2-P-3)]bDGalp(1-4)[Ac(1-2)]bDGlcpN(1-3)bDGalp(1-3)[Ac(1-2)]bDGalpN(1-
+QEH45435.1:
+
+![](../../../csdb/images/27705.gif)
 
 #### Alphafold models:
 
@@ -1500,41 +1418,31 @@ CAI34254.1:
 
 ![](../../../csdb/images/1965.gif)
 
-CSDB record ID: 1965
-
--3)bDGalp(1-3)[aDGalp(1-2)]aDGalp(1-3)[40%Ac(1-?)]bDGalf(1-3)bDGlcp(1-5)bDGalf(1-
-
 CAI34177.1:
 
 ![](../../../csdb/images/7091.gif)
-
-CSDB record ID: 7091
-
--3)bDGalp(1-3)[aDGalp(1-2)]aDGalp(1-3)[Ac(1-6),Ac(1-5)]bDGalf(1-3)bDGlcp(1-5)[Ac(1-2)]bDGalf(1-
 
 CAI34198.1:
 
 ![](../../../csdb/images/7092.gif)
 
-CSDB record ID: 7092
-
--5)[Ac(1-2)]bDGalf(1-3)[Ac(1-2)]bDGalpN(1-3)[aDGalp(1-2)]aDGalp(1-4)xDRib-ol(5-P-2)aDGlcp(1-3)bDGlcp(1-
-
 CAI34217.1:
 
 ![](../../../csdb/images/7093.gif)
-
-CSDB record ID: 7093
-
--5)[Ac(1-6)]bDGalf(1-3)[Ac(1-2)]bDGalpN(1-3)[aDGalp(1-2)]aDGalp(1-3)xDRib-ol(5-P-3)aDGalp(1-3)bDGalp(1-
 
 CAI34236.1:
 
 ![](../../../csdb/images/7094.gif)
 
-CSDB record ID: 7094
+#### Sugars for blast hits:
 
--5)[Ac(1-2)]bDGalf(1-3)[Ac(1-2)]bDGalpN(1-3)[aDGalp(1-2)]aDGalp(1-4)xDRib-ol(5-P-2)aDGalp(1-3)bDGlcp(1-
+VQJ42306.1:
+
+![](../../../csdb/images/1965.gif)
+
+VIU37569.1:
+
+![](../../../csdb/images/7094.gif)
 
 #### Alphafold models:
 
@@ -1620,25 +1528,15 @@ ACA24764.1, ACA24754.1:
 
 ![](../../../csdb/images/1885.gif)
 
-CSDB record ID: 1885
-
--2)[x?GroN(2-6),%Ac(1-4),%Ac(1-3)]bDGalpA(1-3)[Ac(1-2)]aDGalpN(1-4)bDGlcpA(1-3)[Ac(1-2)]bDGlcpN(1-
-
 BAQ02088.1:
 
 ![](../../../csdb/images/1934.gif)
-
-CSDB record ID: 1934
-
--2)[Ac(1-3)]bDFucp3N(1-3)[Ac(1-2)]aDGlcpN(1-4)aDGlcpA(1-3)aDManp(1-2)aDManp(1-3)[Ac(1-2)]bDGlcpN(1-
 
 AFW04847.1:
 
 ![](../../../csdb/images/3362.gif)
 
-CSDB record ID: 3362
-
--2)bDGalp(1-3)[Ac(1-2)]aDGlcpN(1-4)aLRhap(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -1730,17 +1628,11 @@ CAI32935.1:
 
 ![](../../../csdb/images/1949.gif)
 
-CSDB record ID: 1949
-
--6)[bDGalp(1-2)]aDGalp(1-3)[Ac(1-2)]bLRhap(1-4)bDGlcp(1-3)[Ac(1-2)aDGlcpN(1-2)aLRhap(1-4),Ac(1-2)]bDGalpN(1-
-
 CAI32867.1:
 
 ![](../../../csdb/images/2624.gif)
 
-CSDB record ID: 2624
-
--6)aDGalp(1-3)bLRhap(1-4)bDGlcp(1-3)[Ac(1-2)aDGlcpN(1-2)aLRhap(1-4),Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -1817,9 +1709,7 @@ WP_097449287.1:
 
 ![](../../../csdb/images/699.gif)
 
-CSDB record ID: 699
-
--3)[<<40%Ac(1-3)|30%Ac(1-2)>>aDGalpA(1-2)]aDGalp(1-3)[bDGlcp(1-4),Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]aDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -1906,33 +1796,19 @@ ABF01010.1:
 
 ![](../../../csdb/images/1537.gif)
 
-CSDB record ID: 1537
-
--2)xRGro(1-P-4)[Ac(1-2)]bDGlcpN(1-3)[Ac(1-2)]bDGalf(1-3)[Ac(1-2)]aDGlcpN(1-
-
 ACK44379.1:
 
 ![](../../../csdb/images/1549.gif)
-
-CSDB record ID: 1549
-
--2)xRGro(1-P-4)[aDGlcp(1-3),Ac(1-2)]bDGlcpN(1-3)[Ac(1-2)]bDGalf(1-3)[Ac(1-2)]aDGlcpN(1-
 
 BAQ02048.1:
 
 ![](../../../csdb/images/1929.gif)
 
-CSDB record ID: 1929
-
--4)[Ac(1-2)]bDGalpN(1-4)bDGlcpA(1-3)bDRibf(1-4)bDGalp(1-3)[Ac(1-2)]aDGalpN(1-
-
 AAM27546.1:
 
 ![](../../../csdb/images/6636.gif)
 
-CSDB record ID: 6636
-
--4)[Ac(1-2)]aDGalpN(1-4)[Ac(1-3),Ac(1-2)]bDGlcpN3NA(1-3)[Ac(1-2)]aDFucpN(1-3)[Ac(1-2)]aDQuipN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -2007,17 +1883,15 @@ ADI43263.1:
 
 ![](../../../csdb/images/12694.gif)
 
-CSDB record ID: 12694
-
--4)[bDGlcp(1-6),aLRhap(1-3)]aDGlcp(1-3)[Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]bDGlcpN(1-
-
 ADR74237.1:
 
 ![](../../../csdb/images/1848.gif)
 
-CSDB record ID: 1848
+#### Sugars for blast hits:
 
--4)[Ac(1-2)[Ac(1-4),Ac(1-3)]bLRhapN3N(1-3)]aDGlcp(1-3)[Ac(1-2)]aL6dTalp(1-3)[Ac(1-2)]bDGlcpN(1-
+ADC84238.1:
+
+![](../../../csdb/images/12694.gif)
 
 #### Alphafold models:
 
@@ -2097,33 +1971,19 @@ AAZ85713.1:
 
 ![](../../../csdb/images/1880.gif)
 
-CSDB record ID: 1880
-
--2)aLRhap(1-3)aLRhap(1-4)[Ac(1-2)]aDGalpNA(1-3)[Ac(1-2)]bDGlcpN(1-
-
 AAM27766.1:
 
 ![](../../../csdb/images/24032.gif)
-
-CSDB record ID: 24032
-
--2)[Ac(1-3)]aLRhap(1-6)[Ac(1-2)]aDGlcpN(1-4)[Ac(1-3),Ac(1-2)]aLGalpNA(1-3)[lS3HOBut(1-4),Ac(1-2)]bDQuipN4N(1-
 
 AAM27615.1:
 
 ![](../../../csdb/images/24042.gif)
 
-CSDB record ID: 24042
-
--2)aLRhap(1-3)aLRhap(1-4)[Ac(1-3),Ac(1-2)]aDGalpNA(1-3)[Ac(1-2)]bDQuipN(1-
-
 AAM27645.1:
 
 ![](../../../csdb/images/3929.gif)
 
-CSDB record ID: 3929
-
--2)bDRibf(1-3)[Ac(1-2)]aDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -2207,33 +2067,23 @@ ADC54950.1:
 
 ![](../../../csdb/images/20645.gif)
 
-CSDB record ID: 20645
-
--2)aLRhap(1-6)aDGlcp(1-4)[Ac(1-2)bDGlcpN(1-3)]aDGalp(1-3)[Ac(1-2)]aDGlcpN(1-
-
 BAQ00669.1:
 
 ![](../../../csdb/images/1524.gif)
-
-CSDB record ID: 1524
-
--3)aLRhap(1-6)aDGlcp(1-4)[bDGlcp(1-3)]aDGalp(1-3)[Ac(1-2)]aDGlcpN(1-
 
 BAQ01732.1:
 
 ![](../../../csdb/images/1884.gif)
 
-CSDB record ID: 1884
-
--2)aLRhap(1-6)[Ac(1-2)]aDGalpN(1-4)[Ac(1-2)bDGlcpN(1-3),Ac(1-2)]aDGalpN(1-3)[Ac(1-2)]aDGalpN(1-
-
 BAQ00687.1:
 
 ![](../../../csdb/images/1521.gif)
 
-CSDB record ID: 1521
+#### Sugars for blast hits:
 
--2)aLRhap(1-6)aDGlcp(1-4)[Ac(1-2)bDGlcpN(1-3)]aDGalp(1-3)[Ac(1-2)]aDGlcpN(1-
+ARD51912.1:
+
+![](../../../csdb/images/1574.gif)
 
 #### Alphafold models:
 
@@ -2309,57 +2159,31 @@ BAQ00758.1:
 
 ![](../../../csdb/images/736.gif)
 
-CSDB record ID: 736
-
--3)bDGlcp(1-3)xDGro(1-P-4)[Ac(1-2)]bDGlcpN(1-3)[Ac(1-2)]aDGlcpN(1-
-
 BAQ00879.1:
 
 ![](../../../csdb/images/1383.gif)
-
-CSDB record ID: 1383
-
--3)[lR3HOBut(1-4)]bDQuip4N(1-2)[aDGalp(1-3)]aDManp(1-4)aLRhap(1-3)[Ac(1-2)]aDGlcpN(1-
 
 ABG81806.1, BAQ02224.1:
 
 ![](../../../csdb/images/697.gif)
 
-CSDB record ID: 697
-
--3)[lS3HOBut(1-2)xDAla?(1-4)]bDQuip4N(1-6)[Ac(1-2)]aDGlcpN(1-3)[Ac(1-2)]aLQuipN(1-3)[30%Ac(1-6),Ac(1-2)]aDGlcpN(1-
-
 BAQ02068.1, AJR19430.1:
 
 ![](../../../csdb/images/1933.gif)
-
-CSDB record ID: 1933
-
--3)[lS3HOBut(1-2)xDAla?(1-4)]bDQuip4N(1-6)aDGlcp(1-3)[Ac(1-2)]aLQuipN(1-3)[80%Ac(1-6),Ac(1-2)]aDGlcpN(1-
 
 AAD44158.1, BAH24292.1:
 
 ![](../../../csdb/images/1385.gif)
 
-CSDB record ID: 1385
-
--3)[Ac(1-4)]bDQuip4N(1-2)[aLRhap(1-3)]aDManp(1-4)bDGalp(1-3)[Ac(1-2)]aDGlcpN(1-
-
 AFC91472.1, AFC91514.1, AAO39700.1, AFC91570.1:
 
 ![](../../../csdb/images/1861.gif)
-
-CSDB record ID: 1861
-
--3)[Ac(1-2)xXGly(1-4)]bDQuip4N(1-4)[NH2(1-6),60%Ac(1-3),Ac(1-2)]aDGalpNA(1-4)[Ac(1-2)]aDGalpNA(1-3)[Ac(1-2)]aDGlcpN(1-
 
 AAR97964.1:
 
 ![](../../../csdb/images/108660.gif)
 
-CSDB record ID: 108660
-
--4)[NH2(1-6),Ac(1-3),Ac(1-2)]aDGalpNA(1-4)[Ac(1-2)]aDGalpNA(1-3)[Ac(1-2)]aDGlcpN(1-3)[Ac(1-2)xXGly(1-4)]bDQuip4N(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -2442,57 +2266,31 @@ BAQ00846.1:
 
 ![](../../../csdb/images/1544.gif)
 
-CSDB record ID: 1544
-
--4)[xDGro(1-P-3),Ac(1-2)]bDGalpN(1-3)aDGalp(1-4)bDGalp(1-3)[Ac(1-2)]bDGalpN(1-
-
 BAQ00975.1:
 
 ![](../../../csdb/images/1555.gif)
-
-CSDB record ID: 1555
-
--4)[Ac(1-2)[Ac(1-3)]aDGalpA(1-3),Ac(1-2)]bDGalpN(1-3)aDGalp(1-4)aLRhap(1-3)[Ac(1-2)]bDGlcpN(1-
 
 ACD37014.1:
 
 ![](../../../csdb/images/1852.gif)
 
-CSDB record ID: 1852
-
--4)[xSPyr(2-6:2-4)[Ac(1-2)]bDGlcpN(1-3),Ac(1-2)]aDGalpN(1-4)aDGlcp(1-4)bDGalp(1-3)[Ac(1-2)]bDGalpN(1-
-
 ACD37157.1:
 
 ![](../../../csdb/images/1871.gif)
-
-CSDB record ID: 1871
-
--4)[Ac(1-2)[x?Gro(2-P-4)]bDGalpN(1-3)]aDGalp(1-6)bDGlcp(1-3)[Ac(1-2)]bDGalpN(1-
 
 BAQ01494.1, AFS33314.1:
 
 ![](../../../csdb/images/1841.gif)
 
-CSDB record ID: 1841
-
--4)[aLRhap(1-4)[Ac(1-2)]bDGalpN(1-3)]aDGalp(1-6)bDGlcp(1-3)[Ac(1-2)]bDGalpN(1-
-
 ACD37006.1:
 
 ![](../../../csdb/images/1869.gif)
-
-CSDB record ID: 1869
-
--4)[xSPyr(2-6:2-4)[70%Ac(1-3),Ac(1-2)]bDGlcpN(1-3),Ac(1-2)]aDGalpN(1-4)aDGlcp(1-4)bDGalp(1-3)[Ac(1-2)]bDGalpN(1-
 
 AFW04741.1:
 
 ![](../../../csdb/images/30351.gif)
 
-CSDB record ID: 30351
-
--4)[Ac(1-2)aDGlcpN(1-3),Ac(1-2)]bDGalpN(1-3)aDGalp(1-4)bDGalp(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -2570,33 +2368,19 @@ ADQ37335.1:
 
 ![](../../../csdb/images/1858.gif)
 
-CSDB record ID: 1858
-
--3)xDRib-ol(5-P-6)aDGalp(1-3)[Am(1-2)]aLFucpN(1-3)[Ac(1-2)]bDGlcpN(1-
-
 ACA24821.1, ACA24811.1:
 
 ![](../../../csdb/images/1893.gif)
-
-CSDB record ID: 1893
-
--3)[bLRhap(1-4),Ac(1-2)]aDGlcpN(1-P-6)aDGlcp(1-2)bDGlcp(1-3)[Ac(1-2)]bDGlcpN(1-
 
 ADN43894.1:
 
 ![](../../../csdb/images/3159.gif)
 
-CSDB record ID: 3159
-
--3)[aLFucp(1-4)]aDGlcp(1-P-6)aDGlcp(1-2)bDGlcp(1-3)[Ac(1-2)]bDGlcpN(1-
-
 ADQ37322.1:
 
 ![](../../../csdb/images/1892.gif)
 
-CSDB record ID: 1892
-
--2)xDRib-ol(5-P-6)aDGalp(1-3)[Am(1-2)]aLFucpN(1-3)[Ac(1-2)bDGlcpN(1-4),Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -2666,9 +2450,7 @@ ACH97162.1:
 
 ![](../../../csdb/images/1529.gif)
 
-CSDB record ID: 1529
-
--3)[bDGalp(1-4)]bDGalp(1-4)[Ac(1-2)bDGlcpN(1-2)]bDGlcp(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -2743,49 +2525,27 @@ BAQ00994.1:
 
 ![](../../../csdb/images/1556.gif)
 
-CSDB record ID: 1556
-
--2)[lS3HOBut(1-4)]aDQuip4N(1-4)[Ac(1-2)]bDGalpN(1-4)aLRhap(1-3)[30%Ac(1-6),Ac(1-2)]bDGlcpN(1-
-
 ADC54974.1:
 
 ![](../../../csdb/images/1591.gif)
-
-CSDB record ID: 1591
-
--2)[aDGalf(1-4)]aDGalp(1-3)[Ac(1-2)]bDManpN(1-6)bDGalf(1-3)[Ac(1-2)]bDGlcpN(1-
 
 BAQ01917.1:
 
 ![](../../../csdb/images/1917.gif)
 
-CSDB record ID: 1917
-
--2)aDGlcp(1-4)aDGlcpA(1-3)aDManp(1-2)aDManp(1-3)[Ac(1-2)]bDGalpN(1-
-
 CAN87666.1:
 
 ![](../../../csdb/images/1552.gif)
-
-CSDB record ID: 1552
-
--2)bDGlcp(1-3)[Ac(1-2)]aL6dTalp(1-3)[Ac(1-2)]aDFucpN(1-
 
 AFW04828.1:
 
 ![](../../../csdb/images/3367.gif)
 
-CSDB record ID: 3367
-
--2)aDGlcp(1-6)aDGlcp(1-4)[Ac(1-2)bDGlcpN(1-3)]aDGalp(1-3)[Ac(1-2)]bDGlcpN(1-
-
 AFW04837.1:
 
 ![](../../../csdb/images/26312.gif)
 
-CSDB record ID: 26312
-
--2)aDGalf(1-4)[Ac(1-2)]bDGalpN(1-4)[30%Ac(1-3),60%Ac(1-2)]aLRhap(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -2849,9 +2609,7 @@ ABI55342.1:
 
 ![](../../../csdb/images/714.gif)
 
-CSDB record ID: 714
-
--6)[lRLac(2-4)]bDGlcp(1-4)[Ac(1-2)]aDGalpN(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -2914,17 +2672,11 @@ AAN23078.1:
 
 ![](../../../csdb/images/12135.gif)
 
-CSDB record ID: 12135
-
--3)[aXAbep(1-3)bD6dmanHepp(1-4)]aDGalp(1-3)[Ac(1-2)]bDGlcpN(1-
-
 AAN23057.1:
 
 ![](../../../csdb/images/12136.gif)
 
-CSDB record ID: 12136
-
--3)[aXTyvp(1-3)bD6dmanHepp(1-4)]aDGalp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -3000,33 +2752,19 @@ WP_000905563.1, AAO68867.1:
 
 ![](../../../csdb/images/21859.gif)
 
-CSDB record ID: 21859
-
--2)[aXTyvp(1-4)]aDManp(1-4)aLRhap(1-3)[aDGlcp(1-4)]aDGalp(1-
-
 AAV77445.1, CAR59582.1:
 
 ![](../../../csdb/images/7418.gif)
-
-CSDB record ID: 7418
-
--2)[aXParp(1-3)]aDManp(1-4)[Ac(1-3)]aLRhap(1-3)[aDGlcp(1-6)]aDGalp(1-
 
 CAR37642.1:
 
 ![](../../../csdb/images/30403.gif)
 
-CSDB record ID: 30403
-
--2)[aXTyvp(1-3)]aDManp(1-4)aLRhap(1-3)aDGalp(1-
-
 AAL20257.1:
 
 ![](../../../csdb/images/30397.gif)
 
-CSDB record ID: 30397
-
--2)[Ac(1-2)aXAbep(1-3)]aDManp(1-4)aLRhap(1-3)[aDGlcp(1-4)]aDGalp(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -3087,9 +2825,15 @@ ADI43271.1:
 
 ![](../../../csdb/images/1535.gif)
 
-CSDB record ID: 1535
+#### Sugars for blast hits:
 
--4)[<<37%Ac(1-4)|22%Ac(1-3)>>bDGlcpA(1-3),bDGlcp(1-2)]aDGalp(1-6)bDGlcp(1-3)[bDGlcp(1-6),Ac(1-2)]bDGalpN(1-
+CZQ24278.1:
+
+![](../../../csdb/images/6079.gif)
+
+AXY99682.1:
+
+![](../../../csdb/images/20104.gif)
 
 #### Alphafold models:
 
@@ -3146,9 +2890,7 @@ CAI34008.1:
 
 ![](../../../csdb/images/7085.gif)
 
-CSDB record ID: 7085
-
--3)[xSPyr(2-6:2-4),Ac(1-2)]bDGlcpN(1-3)aDGalp(1-4)[xXCho(1-P-2)]bLRhap(1-4)bDGlcp(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -3220,25 +2962,15 @@ BAQ00957.1:
 
 ![](../../../csdb/images/1554.gif)
 
-CSDB record ID: 1554
-
--4)[70%Ac(1-3)xLThr(2-6)]bDGlcpA(1-6)bDGalp(1-6)bDGlcp(1-3)[15%Ac(1-6),Ac(1-2)]bDGalpN(1-
-
 BAQ01812.1:
 
 ![](../../../csdb/images/1901.gif)
-
-CSDB record ID: 1901
-
--4)[bDGlcp(1-6),Ac(1-2)]bDGlcpN(1-3)aDGalp(1-P-6)bDGalp(1-3)[Ac(1-2)]bDGalpN(1-
 
 BAQ01687.1:
 
 ![](../../../csdb/images/1876.gif)
 
-CSDB record ID: 1876
-
--4)[xLThr(2-6)]bDGlcpA(1-6)bDGalp(1-6)bDGlcp(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -3295,9 +3027,7 @@ CAI33798.1:
 
 ![](../../../csdb/images/625.gif)
 
-CSDB record ID: 625
-
--4)bDGlcpA(1-4)[aDGlcp(1-3)]bLRhap(1-4)aDGlcp(1-3)aDGalf(1-2)aLRhap(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -3364,9 +3094,11 @@ ACD75796.1:
 
 ![](../../../csdb/images/1570.gif)
 
-CSDB record ID: 1570
+#### Sugars for blast hits:
 
--2)[Ac(1-2)xDaThr(1-3)]bDQuip3N(1-2)bDRibf(1-4)bDGalp(1-3)[Ac(1-2)]aDGlcpN(1- // aThr = (2R,3R) for D-allo-threonine
+AXY99492.1:
+
+![](../../../csdb/images/5227.gif)
 
 #### Alphafold models:
 
@@ -3429,9 +3161,7 @@ AAK60458.1:
 
 ![](../../../csdb/images/895.gif)
 
-CSDB record ID: 895
-
--4)[lR3HOBut(1-3)]aDQuip3N(1-4)bDGalp(1-4)[Ac(1-2)]bDGlcpN(1-4)[xXGly(2-6)]bDGlcpA(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -3502,65 +3232,35 @@ AKA20935.1:
 
 ![](../../../csdb/images/12128.gif)
 
-CSDB record ID: 12128
-
--6)[aXAbep(1-3)]aDManp(1-2)aDManp(1-2)bDManp(1-3)[Ac(1-2)]aDGalpN(1-
-
 AKA20966.1:
 
 ![](../../../csdb/images/12129.gif)
-
-CSDB record ID: 12129
-
--6)[aXTyvp(1-2)]aDManp(1-2)aDManp(1-2)bDManp(1-3)[Ac(1-2)]aDGalpN(1-
 
 AAY23739.1, BAQ02177.1:
 
 ![](../../../csdb/images/1583.gif)
 
-CSDB record ID: 1583
-
--6)aDManp(1-2)aDManp(1-2)bDManp(1-3)[Ac(1-2)]aDGlcpN(1-
-
 AAY23733.1:
 
 ![](../../../csdb/images/1578.gif)
-
-CSDB record ID: 1578
-
--6)aDManp(1-2)[aDGlcp(1-4)]aDManp(1-2)[aDGlcp(1-3)]bDManp(1-3)[Ac(1-2)]aDGlcpN(1-
 
 AAY23745.1:
 
 ![](../../../csdb/images/1845.gif)
 
-CSDB record ID: 1845
-
--6)aDManp(1-2)aDManp(1-2)[aDGlcp(1-4)]bDManp(1-3)[aDGlcp(1-6),Ac(1-2)]aDGlcpN(1-
-
 BAQ01935.1:
 
 ![](../../../csdb/images/1918.gif)
-
-CSDB record ID: 1918
-
--4)aDManp(1-2)aDManp(1-2)bDManp(1-3)[Ac(1-2)]aDGalpN(1-
 
 BAQ02105.1:
 
 ![](../../../csdb/images/1520.gif)
 
-CSDB record ID: 1520
-
--6)aDManp(1-2)aDManp(1-2)bDManp(1-3)[aDGlcp(1-6),Ac(1-2)]aDGlcpN(1-
-
 BAQ00945.1:
 
 ![](../../../csdb/images/1551.gif)
 
-CSDB record ID: 1551
-
--6)aDManp(1-2)aDManp(1-2)[aDGlcp(1-4)]bDManp(1-3)[Ac(1-2)]aDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -3615,9 +3315,7 @@ AAM27595.1:
 
 ![](../../../csdb/images/31934.gif)
 
-CSDB record ID: 31934
-
--8)[Ac(1-7),Ac(1-5)]aX8eLegp(2-3)[Am(1-2)]aLFucpN(1-3)[Ac(1-2)]aDQuipN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -3678,17 +3376,11 @@ AAM27560.1:
 
 ![](../../../csdb/images/11180.gif)
 
-CSDB record ID: 11180
-
--3)[Ac(1-2)]aLRhap(1-4)[Ac(1-2)]aLGalpNA(1-3)[Ac(1-2)]aDQuipN(1-
-
 AAM27711.1:
 
 ![](../../../csdb/images/11026.gif)
 
-CSDB record ID: 11026
-
--3)aLRhap(1-4)[Ac(1-2)]aLGalpNA(1-3)[Ac(1-2)]aDQuipN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -3748,17 +3440,15 @@ CAI33515.1:
 
 ![](../../../csdb/images/815.gif)
 
-CSDB record ID: 815
-
--3)bLRhap(1-4)bDGlcp(1-3)aDGalp(1-3)[bDGalp(1-4),80%Ac(1-2)]bLRhap(1-4)aLRhap(1-2)xDAra-ol(1-P-
-
 CAI33491.1:
 
 ![](../../../csdb/images/7070.gif)
 
-CSDB record ID: 7070
+#### Sugars for blast hits:
 
--3)bDGlcp(1-3)aDGalp(1-3)[bDGalp(1-4),Ac(1-2)]bLRhap(1-4)aLRhap(1-4)bDGlcpA(1-3)[aDGlcp(1-2)]bDGalf(1-
+VIQ20135.1:
+
+![](../../../csdb/images/815.gif)
 
 #### Alphafold models:
 
@@ -3813,6 +3503,8 @@ D 52 (97.2%) K 243 (97.2%) R 326 (100.0%) D 332 (100.0%) N 408 (100.0%) R 410 (1
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0036_94/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -3878,25 +3570,15 @@ ABE98437.1:
 
 ![](../../../csdb/images/1887.gif)
 
-CSDB record ID: 1887
-
--2)[lSLac(2-3)aDGlcp(1-3)]aLRhap(1-2)aLRhap(1-4)bDGalp(1-3)[Ac(1-2)]bDGalpN(1-
-
 ABI98986.1:
 
 ![](../../../csdb/images/1624.gif)
-
-CSDB record ID: 1624
-
--2)aLRhap(1-2)aLRhap(1-4)bDGalpA(1-3)[Ac(1-2)]bDGalpN(1-
 
 ABU80601.1:
 
 ![](../../../csdb/images/188.gif)
 
-CSDB record ID: 188
-
--3)[Ac(1-2)]bDGalpN(1-2)aLRhap(1-2)[Ac(1-3)]aLRhap(1-4)bDGalpA(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -3961,17 +3643,15 @@ BAQ02116.1:
 
 ![](../../../csdb/images/1561.gif)
 
-CSDB record ID: 1561
-
--4)aDGalpA(1-2)aLRhap(1-2)bDRibf(1-4)bDGalp(1-3)[Ac(1-2)]bDGlcpN(1-
-
 AAK64372.1:
 
 ![](../../../csdb/images/1843.gif)
 
-CSDB record ID: 1843
+#### Sugars for blast hits:
 
--4)aDGalp(1-4)[Ac(1-9),Ac(1-7),Ac(1-5)]aXNeup(2-3)bDGalp(1-3)[Ac(1-2)]bDGalpN(1-
+EGR73751.1:
+
+![](../../../csdb/images/1843.gif)
 
 #### Alphafold models:
 
@@ -4037,17 +3717,11 @@ AHB32774.1:
 
 ![](../../../csdb/images/493.gif)
 
-CSDB record ID: 493
-
--3)[Ac(1-2)]bDGlcpN(1-3)[lR3HOBut(1-3)bDQuip3N(1-6)[Ac(1-2)]aDGlcpN(1-4),Ac(1-2)]bDGalpN(1-3)aDGalp(1-
-
 AHB32438.2:
 
 ![](../../../csdb/images/2196.gif)
 
-CSDB record ID: 2196
-
--3)[aDGalp(1-6)]bDGlcp(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -4113,25 +3787,15 @@ AKA20948.1:
 
 ![](../../../csdb/images/12133.gif)
 
-CSDB record ID: 12133
-
--2)aDManp(1-3)[bXParp(1-4)]aLFucp(1-3)[Ac(1-2)]aDGalpN(1-
-
 ACV52983.1:
 
 ![](../../../csdb/images/12124.gif)
-
-CSDB record ID: 12124
-
--2)[aL6dAltf(1-3)]bDManp(1-4)aDManp(1-3)aLFucp(1-3)[Ac(1-2)]aDGlcpN(1-
 
 BAQ01843.1:
 
 ![](../../../csdb/images/1905.gif)
 
-CSDB record ID: 1905
-
--2)bDManp(1-4)bDGlcpA(1-3)[Ac(1-2)]aLQuipN(1-3)[Ac(1-2)]aDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -4193,17 +3857,11 @@ AHB32888.2:
 
 ![](../../../csdb/images/495.gif)
 
-CSDB record ID: 495
-
--3)[Ac(1-2)]aDGlcpN(1-2)[bLRhap(1-4)[Ac(1-2)]bDGlcpN(1-3)]aLRhap(1-2)aLRhap(1-3)aLRhap(1-
-
 AHB32334.1:
 
 ![](../../../csdb/images/483.gif)
 
-CSDB record ID: 483
-
--3)[Ac(1-2)]bDGalpN(1-3)[Ac(1-2)bDManpN(1-4)aDGalp(1-4)]bDGalp(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -4264,25 +3922,15 @@ ACD37165.1:
 
 ![](../../../csdb/images/1515.gif)
 
-CSDB record ID: 1515
-
--2)aLRhap(1-2)aLRhap(1-3)[aDGlcp(1-2)]aLRhap(1-3)[%Ac(1-6),Ac(1-2)]bDGlcpN(1-
-
 ACD37173.1:
 
 ![](../../../csdb/images/1877.gif)
-
-CSDB record ID: 1877
-
--2)aLRhap(1-2)aLRhap(1-3)[Ac(1-2)]aLRhap(1-3)[aDGlcp(1-6),Ac(1-2)]bDGlcpN(1-
 
 ACD37181.1:
 
 ![](../../../csdb/images/1870.gif)
 
-CSDB record ID: 1870
-
--2)[25%Ac(1-4),35%Ac(1-3)]aLRhap(1-2)[aDGlcp(1-3)]aLRhap(1-3)aLRhap(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -4343,9 +3991,7 @@ ACD37046.1, ACD37037.1:
 
 ![](../../../csdb/images/1909.gif)
 
-CSDB record ID: 1909
-
--2)[xLAla?(2-6),aDGalf(1-4)]bDGalpA(1-3)[Ac(1-2)]aDGlcpN(1-2)bDGalf(1-5)bDGalf(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -4409,41 +4055,23 @@ AAA97573.1, AAC45857.1, AAM27801.1:
 
 ![](../../../csdb/images/1672.gif)
 
-CSDB record ID: 1672
-
--4)[Am(1-3),Ac(1-2)]bDManpN3NA(1-4)[Ac(1-3),Ac(1-2)]bDManpN3NA(1-3)[Ac(1-2)]aDFucpN(1-
-
 AAM27728.1:
 
 ![](../../../csdb/images/6565.gif)
-
-CSDB record ID: 6565
-
--4)[Am(1-3),Ac(1-2)]bDManpN3NA(1-4)[Ac(1-3),Ac(1-2)]aLGulpN3NA(1-3)[Ac(1-2)]aDFucpN(1-
 
 AAM27662.1:
 
 ![](../../../csdb/images/6654.gif)
 
-CSDB record ID: 6654
-
--4)[Am(1-3),Ac(1-2)]bDManpN3NA(1-4)[Ac(1-3),Ac(1-2)]bDManpN3NA(1-3)[Ac(1-2)]bDFucpN(1-
-
 AAM27693.1:
 
 ![](../../../csdb/images/7836.gif)
-
-CSDB record ID: 7836
-
--4)[Am(1-3),Ac(1-2)]aLGulpN3NA(1-4)[Ac(1-3),Ac(1-2)]bDManpN3NA(1-3)[Ac(1-2)]aDFucpN(1-
 
 AAM27748.1:
 
 ![](../../../csdb/images/6655.gif)
 
-CSDB record ID: 6655
-
--4)[Am(1-3),Ac(1-2)]bDGulpN3NA(1-4)[Ac(1-3),Ac(1-2)]bDManpN3NA(1-3)[Ac(1-2)]aDFucpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -4496,9 +4124,7 @@ ACD37026.1:
 
 ![](../../../csdb/images/1931.gif)
 
-CSDB record ID: 1931
-
--4)[Ac(1-3)]bDGlcpA(1-2)[Ac(1-3)aLRhap(1-3)]aDManp(1-4)bDGalp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -4555,17 +4181,11 @@ BAQ01584.1:
 
 ![](../../../csdb/images/1860.gif)
 
-CSDB record ID: 1860
-
--3)[aLRhap(1-4)]aDGlcpA(1-2)aLRhap(1-2)aLRhap(1-2)aDGalp(1-3)[Ac(1-2)]bDGalpN(1-
-
 BAQ01641.1:
 
 ![](../../../csdb/images/1873.gif)
 
-CSDB record ID: 1873
-
--8)[Ac(1-5)]aXNeup(2-6)bDGalp(1-6)bDGalp(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -4626,9 +4246,7 @@ ABK27355.1, ABK27354.1, ABK27351.1, BAI31288.1, ABK27350.1, ABK27321.1, ABK27352
 
 ![](../../../csdb/images/1842.gif)
 
-CSDB record ID: 1842
-
--2)bDGlcp(1-2)[lR3HOBut(1-3)]bDFucp3N(1-6)[Ac(1-2)]aDGlcpN(1-4)[Ac(1-2)]aDGalpN(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -4689,41 +4307,27 @@ CAI33105.1:
 
 ![](../../../csdb/images/7049.gif)
 
-CSDB record ID: 7049
-
--4)[bDGalf(1-6),Ac(1-2)]bDGalpN(1-3)aDGalp(1-4)xDRib-ol(5-P-5)bDGalf(1-3)bDGalp(1-
-
 CAI33048.1:
 
 ![](../../../csdb/images/1953.gif)
-
-CSDB record ID: 1953
-
--5)bDGalf(1-3)bDGalp(1-4)[bDGalp(1-6),bDGalf(1-3),Ac(1-2)]bDGalpN(1-3)aDGalp(1-2)xDRib-ol(5-P-
 
 CAI34733.1:
 
 ![](../../../csdb/images/7051.gif)
 
-CSDB record ID: 7051
-
--4)[bDGalf(1-3),Ac(1-2)]bDGalpN(1-3)aDGalp(1-4)xDRib-ol(5-P-5)bDGalf(1-3)bDGalp(1-
-
 CAI33084.1:
 
 ![](../../../csdb/images/7052.gif)
-
-CSDB record ID: 7052
-
--4)[bDGalf(1-6),Ac(1-2)]bDGalpN(1-3)aDGalp(1-2)xDRib-ol(5-P-5)bDGalf(1-3)bDGalp(1-
 
 CAI34436.1:
 
 ![](../../../csdb/images/3663.gif)
 
-CSDB record ID: 3663
+#### Sugars for blast hits:
 
--6)bDGalf(1-3)bDGalp(1-4)[bDGalp(1-6),35%Ac(1-3)[65%Ac(1-6)]bDGalf(1-3),Ac(1-2)]bDGalpN(1-3)aDGalp(1-1)xDRib-ol(5-P-
+CIV98579.1:
+
+![](../../../csdb/images/7051.gif)
 
 #### Alphafold models:
 
@@ -4775,17 +4379,19 @@ CAI33862.1:
 
 ![](../../../csdb/images/1964.gif)
 
-CSDB record ID: 1964
-
--4)bDGlcp(1-4)[x?Gro(2-P-3),aLRhap(1-2)]bDGalp(1-4)bLRhap(1-
-
 CAI33840.1:
 
 ![](../../../csdb/images/7083.gif)
 
-CSDB record ID: 7083
+#### Sugars for blast hits:
 
--4)bDGlcp(1-4)[x?Gro(2-P-3)]bDGalp(1-4)bLRhap(1-
+VOC17485.1:
+
+![](../../../csdb/images/1964.gif)
+
+VMO60215.1:
+
+![](../../../csdb/images/7083.gif)
 
 #### Alphafold models:
 
@@ -4843,17 +4449,11 @@ BAQ01793.1:
 
 ![](../../../csdb/images/1897.gif)
 
-CSDB record ID: 1897
-
--4)[xRPyr(2-6:2-4)[Ac(1-2)]aDGalp(1-3)]aLFucp(1-6)aDGalp(1-3)aLFucp(1-3)[Ac(1-2)]bDGlcpN(1-
-
 BAQ01878.1:
 
 ![](../../../csdb/images/1407.gif)
 
-CSDB record ID: 1407
-
--4)[bDGalf(1-3),Ac(1-2)]bDGlcpN(1-4)bDGlcpA(1-3)bDGalf(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -4918,17 +4518,11 @@ WP_001529369.1, WP_000936589.1:
 
 ![](../../../csdb/images/27410.gif)
 
-CSDB record ID: 27410
-
--4)[aXAbep(1-3)]bLRhap(1-2)aDManp(1-2)aDManp(1-3)[%aDGlcp(1-2)]bDGalp(1-
-
 WP_000936592.1, ACF64132.1:
 
 ![](../../../csdb/images/28331.gif)
 
-CSDB record ID: 28331
-
--4)[aXAbep(1-3),Ac(1-2)]bLRhap(1-2)aDManp(1-2)[Ac(1-2)aDGlcp(1-3)]aDManp(1-3)bDGalp(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -4977,9 +4571,7 @@ BAQ01533.1:
 
 ![](../../../csdb/images/1849.gif)
 
-CSDB record ID: 1849
-
--4)[xDaThr(2-6)]aDGlcpA(1-4)aDGalp(1-3)aDGalp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -5036,9 +4628,7 @@ ABI98976.1:
 
 ![](../../../csdb/images/1883.gif)
 
-CSDB record ID: 1883
-
--4)[aLRhap(1-3),bDGlcpA(1-2)]aDManp(1-3)[Ac(1-6)]aDManp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -5090,17 +4680,11 @@ CBN82200.1:
 
 ![](../../../csdb/images/1576.gif)
 
-CSDB record ID: 1576
-
--4)[Ac(1-3)]bDQuip3N(1-3)aDFucp(1-3)bDGalp(1-3)[aDGlcp(1-4),Ac(1-2)]aDGalpN(1-
-
 ADI77033.1:
 
 ![](../../../csdb/images/1577.gif)
 
-CSDB record ID: 1577
-
--4)[Ac(1-3)]aDQuip3N(1-3)[10%Ac(1-4)]aLRhap(1-4)[55%Ac(1-3),30%Ac(1-2)]bDGalp(1-3)[Ac(1-2)]aDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -5161,25 +4745,19 @@ CAI33324.1:
 
 ![](../../../csdb/images/5348.gif)
 
-CSDB record ID: 5348
-
--4)bDGlcp(1-6)[bDGalp(1-4),Ac(1-2)]bDGlcpN(1-3)bDGalp(1-
-
 CAI33366.1:
 
 ![](../../../csdb/images/1957.gif)
-
-CSDB record ID: 1957
-
--6)[%Ac(1-2)[%Ac(1-6),%Ac(1-4),%Ac(1-3)]aDGalp(1-2)[x?Gro(2-P-3)]bDGalp(1-4),Ac(1-2)]bDGlcpN(1-3)bDGalp(1-4)bDGlcp(1-
 
 CAI33389.1:
 
 ![](../../../csdb/images/2251.gif)
 
-CSDB record ID: 2251
+#### Sugars for blast hits:
 
--6)[aDGalp(1-2)[x?Gro(2-P-3)]bDGalp(1-4),Ac(1-2)]bDGlcpN(1-3)bDGalp(1-4)bDGlcp(1-
+AAL57082.1:
+
+![](../../../csdb/images/6001.gif)
 
 #### Alphafold models:
 
@@ -5240,25 +4818,15 @@ CAA43077.1, AGS07327.1:
 
 ![](../../../csdb/images/30407.gif)
 
-CSDB record ID: 30407
-
--6)bDManp(1-4)aLRhap(1-3)[Ac(1-6)]aDGalp(1-
-
 AAB48190.1, AGS07363.1:
 
 ![](../../../csdb/images/30404.gif)
-
-CSDB record ID: 30404
-
--6)[aXTyvp(1-3)]bDManp(1-4)aLRhap(1-3)[%aDGlcp(1-4)]aDGalp(1-
 
 AGS07316.1:
 
 ![](../../../csdb/images/30411.gif)
 
-CSDB record ID: 30411
-
--6)bDManp(1-4)aLRhap(1-3)[aDGlcp(1-6)]aDGalp(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -5306,9 +4874,7 @@ CAI32772.1:
 
 ![](../../../csdb/images/805.gif)
 
-CSDB record ID: 805
-
--3)[Ac(1-2)]bDManpN(1-3)[Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]aDGalpN(1-4)[x?Pyr(2-3:2-2)]aDGalp(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -5366,9 +4932,7 @@ ABB04486.1:
 
 ![](../../../csdb/images/1836.gif)
 
-CSDB record ID: 1836
-
--3)[Ac(1-2)]aLQuipN(1-4)[Ac(1-2)]aDGalpNA(1-3)[Ac(1-2)]aLQuipN(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -5421,9 +4985,7 @@ BAQ01317.1:
 
 ![](../../../csdb/images/1595.gif)
 
-CSDB record ID: 1595
-
--4)[aL6dTalp(1-3)]aDManp(1-3)aDManp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -5474,17 +5036,11 @@ ACV67289.1:
 
 ![](../../../csdb/images/1542.gif)
 
-CSDB record ID: 1542
-
--3)[Ac(1-2)[NH2(1-6)]aDGalpNA(1-2)]aLRhap(1-2)aLRhap(1-3)aLRhap(1-2)aLRhap(1-3)[Ac(1-2)]bDGlcpN(1-
-
 AFW04785.1:
 
 ![](../../../csdb/images/3359.gif)
 
-CSDB record ID: 3359
-
--3)[Ac(1-2)[NH2(1-6)]aDGalpNA(1-2)]aLRhap(1-2)aLRhap(1-3)aLRhap(1-2)aLRhap(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -5538,17 +5094,11 @@ BAQ01675.1:
 
 ![](../../../csdb/images/1875.gif)
 
-CSDB record ID: 1875
-
--3)aLRhap(1-2)aLRhap(1-2)aLRhap(1-4)[aDGlcp(1-3)]aDGalpA(1-3)[Ac(1-2)]aDGlcpN(1-
-
 ACD37126.1:
 
 ![](../../../csdb/images/3982.gif)
 
-CSDB record ID: 3982
-
--3)[Ac(1-2)]aDGlcpN(1-2)[bDGalf(1-3)]aLRhap(1-2)aLRhap(1-2)bDRibf(1-4)aDGalpA(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -5597,9 +5147,7 @@ AAT85653.1:
 
 ![](../../../csdb/images/10216.gif)
 
-CSDB record ID: 10216
-
--3)[Ac(1-2)]bDGlcpN(1-2)[aDGlcp(1-3)]aLRhap(1-6)aDGlcp(1-3)[Ac(1-2)]aLFucpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -5651,25 +5199,15 @@ BAQ00858.1:
 
 ![](../../../csdb/images/1545.gif)
 
-CSDB record ID: 1545
-
--6)[Ac(1-2)]bDGlcpN(1-3)[Ac(1-2)aDGlcpN(1-4),Ac(1-2)]bDGalpN(1-4)bDGlcpA(1-3)[Ac(1-2)]bDGalpN(1-
-
 WP_016238111.1:
 
 ![](../../../csdb/images/1587.gif)
-
-CSDB record ID: 1587
-
--6)[Ac(1-2)]bDGalpN(1-4)[xDGro(1-P-3),Ac(1-2)]bDGalpN(1-4)[aDGalp(1-6)]bDGlcp(1-3)[Ac(1-2)]bDGalpN(1-
 
 ACA24776.1:
 
 ![](../../../csdb/images/11557.gif)
 
-CSDB record ID: 11557
-
--6)[Ac(1-2)]bDGlcpN(1-3)[Ac(1-2)aDGlcpN(1-4),Ac(1-2)]bDGalpN(1-4)bDGlcpA(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -5720,6 +5258,8 @@ R 300 (100.0%) T 301 (100.0%) R 362 (100.0%) Y 424 (100.0%) D 438 (100.0%) E 483
 
 #### Sugars in cluster:
 
+#### Sugars for blast hits:
+
 #### Alphafold models:
 
 #### Taxonomy:
@@ -5769,9 +5309,7 @@ AHB32242.2:
 
 ![](../../../csdb/images/487.gif)
 
-CSDB record ID: 487
-
--3)[Ac(1-2)aLFucpN(1-4),Ac(1-2)]aDGalpNA(1-3)[Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -5833,33 +5371,27 @@ CAI33610.1:
 
 ![](../../../csdb/images/7071.gif)
 
-CSDB record ID: 7071
-
--4)bDGlcp(1-4)[x?Gro(1-P-3),Ac(1-6)aDGlcp(1-2)]bDGalp(1-4)aDGlcp(1-3)[Ac(1-2)]bLRhap(1-
-
 CAI33537.1:
 
 ![](../../../csdb/images/7074.gif)
-
-CSDB record ID: 7074
-
--4)bDGlcp(1-4)[xDGro(1-P-3),aDGlcp(1-2)]bDGalp(1-4)[Ac(1-2)]aDGlcpN(1-3)bLRhap(1-
 
 CAI33561.1:
 
 ![](../../../csdb/images/846.gif)
 
-CSDB record ID: 846
-
--4)bDGlcp(1-4)[xDGro(1-P-3),aDGlcp(1-2)]bDGalp(1-4)aDGlcp(1-3)bLRhap(1-
-
 CAI33585.1:
 
 ![](../../../csdb/images/939.gif)
 
-CSDB record ID: 939
+#### Sugars for blast hits:
 
--4)bDGlcp(1-4)[xDGro(1-P-3),Ac(1-3)aDGlcp(1-2)]bDGalp(1-4)aDGlcp(1-3)aLRhap(1-
+VOG14504.1:
+
+![](../../../csdb/images/7071.gif)
+
+VQM63531.1:
+
+![](../../../csdb/images/7074.gif)
 
 #### Alphafold models:
 
@@ -5912,17 +5444,11 @@ BAQ01361.1:
 
 ![](../../../csdb/images/1596.gif)
 
-CSDB record ID: 1596
-
--4)[<<Ac(1-3)|Ac(1-2)>>]aLFucp(1-2)bDGalp(1-3)[Ac(1-2)]aDGalpN(1-3)[Ac(1-2)]bDGalpN(1-
-
 CAS09721.1, AAR90892.1:
 
 ![](../../../csdb/images/1866.gif)
 
-CSDB record ID: 1866
-
--2)[35%Ac(1-4),65%Ac(1-3)]aLFucp(1-2)bDGalp(1-3)[Ac(1-2)]aDGalpN(1-3)[Ac(1-2)]aDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -5974,17 +5500,11 @@ AEP25500.1:
 
 ![](../../../csdb/images/12139.gif)
 
-CSDB record ID: 12139
-
--3)[Ac(1-2)]bDGlcpN(1-6)[aXColp(1-2)bXYerp(1-3),Ac(1-2)]aDGalpN(1-3)[Ac(1-2)]bDGalpN(1- // Yer = 3,6-dideoxy-4-C-[(S)-1-hydroxyethyl]-D-xylo-hexose (yersiniose A)
-
 WP_000482333.1, BAG11898.1:
 
 ![](../../../csdb/images/1562.gif)
 
-CSDB record ID: 1562
-
--6)[aXColp(1-2)bDGalp(1-3),Ac(1-2)]bDGlcpN(1-3)aDGalp(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -6032,6 +5552,8 @@ D 79 (100.0%) Y 80 (100.0%) Y 83 (100.0%) E 99 (100.0%) K 131 (100.0%) Y 157 (10
 
 #### Sugars in cluster:
 
+#### Sugars for blast hits:
+
 #### Alphafold models:
 
 #### Taxonomy:
@@ -6077,9 +5599,7 @@ ABX51880.1:
 
 ![](../../../csdb/images/27329.gif)
 
-CSDB record ID: 27329
-
--2)[Ac(1-2)xLAla?(1-3)]bDQuip3N(1-6)[aDGlcp(1-4)aDGlcpA(1-4)]bDGlcp(1-3)[Ac(1-2)]aDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -6128,17 +5648,11 @@ AAY28257.1:
 
 ![](../../../csdb/images/1919.gif)
 
-CSDB record ID: 1919
-
--2)aLRhap(1-3)[Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]bDGlcpN(1-
-
 AAM27782.1:
 
 ![](../../../csdb/images/24033.gif)
 
-CSDB record ID: 24033
-
--2)aLRhap(1-3)[Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]aDQuipN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -6190,9 +5704,7 @@ AAD45264.1, AAM27574.1:
 
 ![](../../../csdb/images/10219.gif)
 
-CSDB record ID: 10219
-
--2)bDGlcp(1-3)[Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]bDFucpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -6244,25 +5756,15 @@ BAQ01169.1:
 
 ![](../../../csdb/images/1575.gif)
 
-CSDB record ID: 1575
-
--3)[70%Ac(1-6),lRLac(2-4),Ac(1-2)]bDGlcpN(1-2)aLRhap(1-2)aLRhap(1-2)aDGalp(1-3)[Ac(1-2)]bDGlcpN(1-
-
 ACA24803.1:
 
 ![](../../../csdb/images/715.gif)
-
-CSDB record ID: 715
-
--3)[lSLac(2-4),Ac(1-2)]bDGlcpN(1-2)aLRhap(1-2)aLRhap(1-3)[bDGlcp(1-2)]aLRhap(1-3)[Ac(1-2)]bDGlcpN(1-
 
 ACA24792.1:
 
 ![](../../../csdb/images/1891.gif)
 
-CSDB record ID: 1891
-
--3)[lSLac(2-4),Ac(1-2)]bDGlcpN(1-2)aLRhap(1-2)aLRhap(1-3)[bDGlcp(1-2)]aLRhap(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -6312,9 +5814,7 @@ CAI33817.1:
 
 ![](../../../csdb/images/7084.gif)
 
-CSDB record ID: 7084
-
--4)bDGlcp(1-3)[aLRhap(1-2)[x?Gro(2-P-3)]bDGalp(1-4)]bLRhap(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -6372,9 +5872,7 @@ AAV74543.1:
 
 ![](../../../csdb/images/1516.gif)
 
-CSDB record ID: 1516
-
--2)bDGalp(1-3)[Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -6428,9 +5926,7 @@ CAI32705.1:
 
 ![](../../../csdb/images/31499.gif)
 
-CSDB record ID: 31499
-
--3)[Ac(1-2)]aDFucpN4N(1-4)aDGalpA(1-3)aDGalpA(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -6493,17 +5989,15 @@ CAI33278.1:
 
 ![](../../../csdb/images/1955.gif)
 
-CSDB record ID: 1955
-
--4)[aDGalp(1-3),Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]bDGalpN(1-4)[aDGlcp(1-2)aDGlcp(1-3),Ac(1-2)]bDManpNA(1-
-
 CAI33226.1:
 
 ![](../../../csdb/images/7060.gif)
 
-CSDB record ID: 7060
+#### Sugars for blast hits:
 
--4)[Ac(1-2)aDGalpN(1-3),Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]bDGlcpN(1-4)[aDGlcp(1-2)aDGlcp(1-3),Ac(1-2)]bDManpNA(1-
+VPT20589.1:
+
+![](../../../csdb/images/1955.gif)
 
 #### Alphafold models:
 
@@ -6555,9 +6049,7 @@ ADN43858.1:
 
 ![](../../../csdb/images/1879.gif)
 
-CSDB record ID: 1879
-
--6)[bDGlcp(1-4),Ac(1-2)]aDGlcpN(1-4)bDGlcpA(1-4)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -6616,41 +6108,23 @@ CAI33207.1:
 
 ![](../../../csdb/images/7053.gif)
 
-CSDB record ID: 7053
-
--6)[x?Rib-ol(1-P-4),Ac(1-3),Ac(1-2)]aDGlcpN(1-4)aDGalp(1-3)[%Ac(1-6),%Ac(1-4)]bDGalp(1-4)bDGlcp(1-
-
 CAI33128.1:
 
 ![](../../../csdb/images/1493.gif)
-
-CSDB record ID: 1493
-
--6)[x?Gro(1-P-4),<<50%Ac(1-3)|60%Ac(1-2)>>]aDGlcp(1-4)aDGalp(1-3)[50%Ac(1-6),Ac(1-4)]bDGalp(1-4)bDGlcp(1-
 
 CAI33149.1:
 
 ![](../../../csdb/images/7054.gif)
 
-CSDB record ID: 7054
-
--6)[x?Rib-ol(1-P-4),%Ac(1-3),Ac(1-2)]aDGlcpN(1-4)[%Ac(1-2)]aDGalp(1-3)bDGalp(1-4)bDGlcp(1-
-
 CAI33169.1:
 
 ![](../../../csdb/images/31003.gif)
-
-CSDB record ID: 31003
-
--6)[x?Gro(1-P-4),Ac(1-2)]aDGlcpN(1-4)aDGalp(1-3)bDGalp(1-4)bDGlcp(1-
 
 CAI33188.1:
 
 ![](../../../csdb/images/7056.gif)
 
-CSDB record ID: 7056
-
--6)[x?Gro(1-P-4),%Ac(1-3),%Ac(1-2)]aDGlcp(1-4)aDGalp(1-3)[%Ac(1-6),Ac(1-4)]bDGalp(1-4)bDGlcp(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -6704,17 +6178,11 @@ CAI33652.1:
 
 ![](../../../csdb/images/2254.gif)
 
-CSDB record ID: 2254
-
--4)[bDRibf(1-4)aLRhap(1-3),Ac(1-2)]bDManpN(1-4)aLRhap(1-P-4)[Ac(1-2)]bDManpN(1-4)bDGlcp(1-
-
 CAI33675.1:
 
 ![](../../../csdb/images/2255.gif)
 
-CSDB record ID: 2255
-
--4)[bDGlcp(1-6),bDRibf(1-4)aLRhap(1-3),Ac(1-2)]bDManpN(1-4)aLRhap(1-P-4)[Ac(1-2)]bDManpN(1-4)bDGlcp(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -6764,9 +6232,7 @@ CAI33466.1:
 
 ![](../../../csdb/images/1062.gif)
 
-CSDB record ID: 1062
-
--3)[x?Gro(1-P-4)]aLRhap(1-3)[x?Gro(1-P-6)]aDGlcp(1-3)[Ac(1-2)]bLRhap(1-4)bDGlcp(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -6821,9 +6287,7 @@ BAQ01716.1:
 
 ![](../../../csdb/images/1882.gif)
 
-CSDB record ID: 1882
-
--3)[aDGalf(1-2)aLRhap(1-4)]bDGalp(1-4)aDGlcp(1-4)bDGlcpA(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -6875,9 +6339,7 @@ BAQ00830.1:
 
 ![](../../../csdb/images/1543.gif)
 
-CSDB record ID: 1543
-
--4)[aLRhap(1-2)aLFucp(1-3)]aDManp(1-3)aLFucp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -6937,9 +6399,7 @@ CAD19991.1, WP_000864940.1, ADT75640.1:
 
 ![](../../../csdb/images/114261.gif)
 
-CSDB record ID: 114261
-
--4)[Ac(1-2)]aDGalpN(1-3)[bDGlcp(1-2)]bDManp(1-4)bDManp(1-3)[Ac(1-2)]aDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -6986,9 +6446,7 @@ ADV17650.1:
 
 ![](../../../csdb/images/1513.gif)
 
-CSDB record ID: 1513
-
--4)[aLFucp(1-3),Ac(1-2)]aDGalpN(1-6)aDManp(1-3)aLFucp(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -7039,25 +6497,15 @@ ACD37086.1:
 
 ![](../../../csdb/images/705.gif)
 
-CSDB record ID: 705
-
--4)[Ac(1-2)bDGlcpN(1-3),Ac(1-2)]aDGalpN(1-4)aDGlcp(1-4)aLIdopA(1-3)[Ac(1-2)]bDGalpN(1-
-
 BAQ01999.1:
 
 ![](../../../csdb/images/1923.gif)
-
-CSDB record ID: 1923
-
--4)[40%Ac(1-6),Ac(1-2)aLQuipN(1-3),Ac(1-2)]aDGalpN(1-6)aDGlcp(1-P-4)[Ac(1-2)]aLQuipN(1-3)[Ac(1-2)]bDGlcpN(1-
 
 ACD37078.1:
 
 ![](../../../csdb/images/1851.gif)
 
-CSDB record ID: 1851
-
--4)[Ac(1-2)bDGlcpN(1-3),Ac(1-2)]aDGalpN(1-4)aDGlcp(1-4)aLIdopA(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -7110,9 +6558,7 @@ AAO37717.1:
 
 ![](../../../csdb/images/1439.gif)
 
-CSDB record ID: 1439
-
--4)aLFucp(1-2)[aDGalp(1-3)]bDGalp(1-3)[Ac(1-2)]aDGalpN(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -7165,17 +6611,11 @@ AQU71717.1, AQU71739.1:
 
 ![](../../../csdb/images/7222.gif)
 
-CSDB record ID: 7222
-
--3)[Ac(1-2)bDManpN(1-2)]aLRhap(1-3)aLRhap(1-3)bLRhap(1-4)[Ac(1-2)]bDGlcpN(1-
-
 AFW04812.1:
 
 ![](../../../csdb/images/703.gif)
 
-CSDB record ID: 703
-
--3)[Ac(1-2)bDManpN(1-2)]aLRhap(1-2)aLRhap(1-2)aDGalp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -7224,9 +6664,7 @@ CAI32797.1:
 
 ![](../../../csdb/images/1947.gif)
 
-CSDB record ID: 1947
-
--4)bDGlcp(1-4)[Ac(1-2)aL6dTalpN(1-2)bDGlcpA(1-3),Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]bD6dxylHexpN-4-ulo(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -7284,9 +6722,11 @@ AHG15281.1, AFD18613.1, AAX58762.1:
 
 ![](../../../csdb/images/1886.gif)
 
-CSDB record ID: 1886
+#### Sugars for blast hits:
 
--4)[Ac(1-5)]aXNeup(2-3)[Am(1-2)]aLFucpN(1-3)[Ac(1-2)]bDGlcpN(1-
+GEF03964.1:
+
+![](../../../csdb/images/1886.gif)
 
 #### Alphafold models:
 
@@ -7337,17 +6777,11 @@ ACA24882.1:
 
 ![](../../../csdb/images/108653.gif)
 
-CSDB record ID: 108653
-
--4)[lRLac(2-3)[Ac(1-2)]aLRhap(1-3)]bDManp(1-4)aDManp(1-3)[Ac(1-2)]bDGlcpN(1-
-
 ACA24868.1:
 
 ![](../../../csdb/images/1565.gif)
 
-CSDB record ID: 1565
-
--4)[lRLac(2-3)[Ac(1-2)]aLRhap(1-3)]bDManp(1-4)aDManp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -7403,17 +6837,11 @@ ACA24852.1:
 
 ![](../../../csdb/images/1538.gif)
 
-CSDB record ID: 1538
-
--3)xDGro(1-P-6)bDGlcp(1-4)[aDGlcp(1-6)aDGalp(1-3),Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]bDGlcpN(1-
-
 ACA24840.1:
 
 ![](../../../csdb/images/1932.gif)
 
-CSDB record ID: 1932
-
--3)xDGro(1-P-6)bDGlcp(1-4)[aDGlcp(1-6)[Ac(1-2)]aDGalp(1-3),Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -7470,9 +6898,7 @@ ABI98966.1:
 
 ![](../../../csdb/images/1890.gif)
 
-CSDB record ID: 1890
-
--3)[xSPyr(2-6:2-4),Ac(1-2)]bDGlcpN(1-3)bLRhap(1-4)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -7528,33 +6954,23 @@ CAI32973.1:
 
 ![](../../../csdb/images/112112.gif)
 
-CSDB record ID: 112112
-
--4)aDGlcpA(1-3)aDGalp(1-3)[Ac(1-2)]bDManpN(1-4)aDGlcp(1-4)bDGlcp(1-
-
 CAI32993.1:
 
 ![](../../../csdb/images/7046.gif)
-
-CSDB record ID: 7046
-
--4)aDGlcpA(1-3)aDGalp(1-3)[Ac(1-2)]bDManpN(1-4)bDGlcp(1-4)[Ac(1-2)]aDGlcpN(1-
 
 CAI33011.1:
 
 ![](../../../csdb/images/7415.gif)
 
-CSDB record ID: 7415
-
--4)aDGlcpA(1-3)aDGlcp(1-3)[Ac(1-2)]bDManpN(1-4)bDGlcp(1-4)[Ac(1-2)]aDGlcpN(1-
-
 CAI33029.1:
 
 ![](../../../csdb/images/320.gif)
 
-CSDB record ID: 320
+#### Sugars for blast hits:
 
--4)[4%Ac(1-3),3%Ac(1-2)]aDGlcp(1-4)[25%Ac(1-3),17%Ac(1-2)]aDGlcpA(1-3)aDGalp(1-3)[55%Ac(1-6),6%Ac(1-4),Ac(1-2)]bDManpN(1-4)bDGlcp(1-
+CZE39046.1:
+
+![](../../../csdb/images/1947.gif)
 
 #### Alphafold models:
 
@@ -7602,9 +7018,7 @@ BAQ01456.1:
 
 ![](../../../csdb/images/1838.gif)
 
-CSDB record ID: 1838
-
--2)[xDGro(1-P-3)]aLRhap(1-3)aLRhap(1-3)aDGalp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -7658,9 +7072,7 @@ ACA24912.1:
 
 ![](../../../csdb/images/23812.gif)
 
-CSDB record ID: 23812
-
--2)bDManp(1-3)[Ac(1-2)]aDManpN(1-3)bLRhap(1-4)[Ac(1-2)]aDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -7720,9 +7132,7 @@ AGS07346.1:
 
 ![](../../../csdb/images/30907.gif)
 
-CSDB record ID: 30907
-
--6)[aXTyvp(1-3)]<<bDManp(1-4)|aDManp(1-4)>>aLRhap(1-3)aDGalp(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -7772,17 +7182,11 @@ ACD36996.1:
 
 ![](../../../csdb/images/1910.gif)
 
-CSDB record ID: 1910
-
--4)[Ac(1-6),aLFucp(1-3),Ac(1-2)]aDGlcpN(1-4)aDGlcpA(1-3)aLFucp(1-3)[Ac(1-2)]bDGlcpN(1-
-
 ACD36984.1:
 
 ![](../../../csdb/images/1937.gif)
 
-CSDB record ID: 1937
-
--4)[Ac(1-6),Ac(1-2)[Ac(1-4),Ac(1-3)]aLFucp(1-3),Ac(1-2)]aDGlcpN(1-4)aDGlcpA(1-3)aLFucp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -7831,6 +7235,8 @@ H 26 (100.0%) H 114 (100.0%) Y 140 (100.0%) R 143 (100.0%) E 150 (100.0%) N 159 
 
 #### Sugars in cluster:
 
+#### Sugars for blast hits:
+
 #### Alphafold models:
 
 #### Taxonomy:
@@ -7878,17 +7284,11 @@ CAI32889.1:
 
 ![](../../../csdb/images/7041.gif)
 
-CSDB record ID: 7041
-
--6)[Ac(1-2)]aDGlcpN(1-2)aLRhap(1-2)bLRhap(1-4)bDGlcp(1-4)[bDRibf(1-4)aLRhap(1-3)]aDGlcp(1-P-
-
 CAI32910.1:
 
 ![](../../../csdb/images/7042.gif)
 
-CSDB record ID: 7042
-
--6)[Ac(1-2)]aDGlcpN(1-2)aLRhap(1-2)bLRhap(1-4)bDGlcp(1-4)[bDRibf(1-4)aLRhap(1-3),Ac(1-2)]aDGalpN(1-P-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -7945,9 +7345,7 @@ EKI39969.1, BAK68980.1, EKK44895.1, BAK69191.1, BAK69033.1, AAC32340.1, EKI95922
 
 ![](../../../csdb/images/695.gif)
 
-CSDB record ID: 695
-
--2)[Ac(1-4)]aDRhap4N(1-3)aLFucp(1-4)bDGlcp(1-3)[Ac(1-2)]aDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -8001,33 +7399,19 @@ BAQ00736.1:
 
 ![](../../../csdb/images/1530.gif)
 
-CSDB record ID: 1530
-
--6)aDGlcp(1-4)bDGlcpA(1-4)[Ac(1-3),Ac(1-2)]bDGalpN(1-3)aDGalp(1-3)[Ac(1-2)]bDGalpN(1-
-
 ACD37058.1:
 
 ![](../../../csdb/images/1540.gif)
-
-CSDB record ID: 1540
-
--6)aDGalp(1-4)bDGlcpA(1-6)bDGalp(1-4)[<<30%Ac(1-3)|20%Ac(1-2)>>]bDGalp(1-4)[Ac(1-2)]bDGlcpN(1-
 
 BAQ01277.1:
 
 ![](../../../csdb/images/1589.gif)
 
-CSDB record ID: 1589
-
--6)aDGlcp(1-4)bDGlcpA(1-6)bDGalp(1-4)bDGalp(1-4)[Ac(1-2)]bDGlcpN(1-
-
 ACD37051.1:
 
 ![](../../../csdb/images/3977.gif)
 
-CSDB record ID: 3977
-
--6)aDGalp(1-4)bDGlcpA(1-6)bDGalp(1-4)bDGalp(1-4)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -8072,6 +7456,8 @@ N 150 (100.0%) R 180 (100.0%) D 187 (100.0%) Y 221 (100.0%) R 229 (100.0%) R 296
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0012_20/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -8121,25 +7507,15 @@ ACD37138.1:
 
 ![](../../../csdb/images/1863.gif)
 
-CSDB record ID: 1863
-
--3)[lRLac(2-4)bDGlcp(1-6)aDGlcp(1-4)]bDGalp(1-6)bDGalf(1-3)[Ac(1-2)]bDGalpN(1-
-
 ACD37146.1:
 
 ![](../../../csdb/images/1906.gif)
-
-CSDB record ID: 1906
-
--3)[bDGlcp(1-6)aDGlcp(1-4)]bDGalp(1-6)bDGalf(1-3)[Ac(1-2)]bDGalpN(1-
 
 ACD37105.1:
 
 ![](../../../csdb/images/718.gif)
 
-CSDB record ID: 718
-
--3)[lRLac(2-4)bDGlcp(1-6)aDGlcp(1-4)]bDGalp(1-6)bDGalf(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -8188,9 +7564,7 @@ BAQ01960.1:
 
 ![](../../../csdb/images/1921.gif)
 
-CSDB record ID: 1921
-
--4)aDGlcpA(1-3)[bDGlcp(1-2)]bDManp(1-4)bDManp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -8236,6 +7610,8 @@ R 183 (100.0%) S 238 (100.0%) R 239 (100.0%) T 240 (100.0%) K 305 (100.0%) E 312
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0012_102/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -8285,9 +7661,7 @@ AAO37701.1, WP_024244058.1:
 
 ![](../../../csdb/images/1867.gif)
 
-CSDB record ID: 1867
-
--6)[aLFucp(1-2)]bDGalp(1-3)[Ac(1-2)]bDGalpN(1-4)aDGalp(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -8336,9 +7710,7 @@ ABE98419.1, ADN43845.1:
 
 ![](../../../csdb/images/1865.gif)
 
-CSDB record ID: 1865
-
--2)bDManp(1-3)[aLFucp(1-2)]bDGalp(1-3)[Ac(1-2)]aDGlcpN(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -8388,9 +7760,7 @@ BAQ01563.1:
 
 ![](../../../csdb/images/1856.gif)
 
-CSDB record ID: 1856
-
--2)[Ac(1-4)]bDQuip4N(1-6)[Ac(1-2)]aDGlcpN(1-4)[Ac(1-2)]aDGalpN(1-4)aDGalpA(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -8440,9 +7810,7 @@ ADB02825.1:
 
 ![](../../../csdb/images/1859.gif)
 
-CSDB record ID: 1859
-
--2)[Ac(1-2)[Fo(1-3)]bLRhapN3N(1-3)]bDManp(1-3)aDGalp(1-4)aLRhap(1-3)[Ac(1-2)]aDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -8493,9 +7861,7 @@ ADC54957.1:
 
 ![](../../../csdb/images/1908.gif)
 
-CSDB record ID: 1908
-
--3)aDGalp(1-6)aDGalp(1-4)[bDGlcp(1-3),Ac(1-2)]aDGalpN(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -8543,17 +7909,11 @@ ACV67297.1:
 
 ![](../../../csdb/images/1584.gif)
 
-CSDB record ID: 1584
-
--4)[Ac(1-2)]bDGlcpN(1-4)bDManp(1-4)aDManp(1-3)[Ac(1-2)]bDGlcpN(1-
-
 AFW04684.1:
 
 ![](../../../csdb/images/30392.gif)
 
-CSDB record ID: 30392
-
--4)bDManp(1-4)aDManp(1-3)[Ac(1-2)]bDGlcpN(1-4)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -8605,17 +7965,11 @@ AHB32586.1:
 
 ![](../../../csdb/images/491.gif)
 
-CSDB record ID: 491
-
--6)[Ac(1-2)]aDGlcpN(1-3)[Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]aDGlcpN(1-4)[Ac(1-7),lS3HOBut(1-5)]bXLegp(2-
-
 BAQ01516.1:
 
 ![](../../../csdb/images/25389.gif)
 
-CSDB record ID: 25389
-
--4)[Ac(1-7),Ac(1-5)]aX8eLegp(2-6)aDGalp(1-3)[Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]aDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -8670,17 +8024,11 @@ BAQ00746.1:
 
 ![](../../../csdb/images/20006.gif)
 
-CSDB record ID: 20006
-
--6)aDGlcp(1-4)[Ac(1-2)bDGlcN(1-3)]bDGalp(1-3)[Ac(1-2)]aDGalpN(1-3)[aDGlcp(1-6),Ac(1-2)]bDGlcpN(1-
-
 AFW04888.1:
 
 ![](../../../csdb/images/3366.gif)
 
-CSDB record ID: 3366
-
--6)aDGlcp(1-4)[Ac(1-2)bDGlcpN(1-3)]bDGalp(1-3)[Ac(1-2)]aDGalpN(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -8729,9 +8077,7 @@ BAQ01238.1:
 
 ![](../../../csdb/images/1452.gif)
 
-CSDB record ID: 1452
-
-bDGlcpA(1-3)[Ac(1-2)]?DGlcpN
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -8781,25 +8127,19 @@ BAQ01860.1:
 
 ![](../../../csdb/images/1911.gif)
 
-CSDB record ID: 1911
-
--3)[bDGlcp(1-6),bDGlcpA(1-4)]aDGalp(1-6)aDManp(1-2)aDManp(1-3)[Ac(1-2)]bDGalpN(1-
-
 BAL03056.1:
 
 ![](../../../csdb/images/1925.gif)
-
-CSDB record ID: 1925
-
--3)[bDRibf(1-4)bDGlcpA(1-4)]aDGalp(1-6)aDManp(1-2)aDManp(1-3)[Ac(1-2)]bDGalpN(1-
 
 AAL27339.1:
 
 ![](../../../csdb/images/712.gif)
 
-CSDB record ID: 712
+#### Sugars for blast hits:
 
--3)[bDGlcpA(1-4)]aDGalp(1-6)aDManp(1-2)aDManp(1-3)[Ac(1-2)]bDGalpN(1-
+AIG62720.1:
+
+![](../../../csdb/images/1911.gif)
 
 #### Alphafold models:
 
@@ -8850,9 +8190,7 @@ BAQ01293.1:
 
 ![](../../../csdb/images/1590.gif)
 
-CSDB record ID: 1590
-
--2)[Ac(1-2)[<<Ac(1-4)|Ac(1-3)>>]aD6dTalp(1-3)]bLFucp(1-P-4)aDGlcp(1-3)aLFucp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -8901,9 +8239,7 @@ BAQ00653.1:
 
 ![](../../../csdb/images/1517.gif)
 
-CSDB record ID: 1517
-
--2)bDGalf(1-6)aDGlcp(1-3)[Ac(1-2)]aLRhap(1-3)[aDGlcp(1-6),Ac(1-2)]aDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -8952,9 +8288,7 @@ BAQ01207.1:
 
 ![](../../../csdb/images/1580.gif)
 
-CSDB record ID: 1580
-
--6)[Ac(1-3)bDFucp3N(1-3),Ac(1-2)]aDGlcpN(1-4)bDGalpA(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -8999,6 +8333,8 @@ S 127 (100.0%) R 146 (100.0%) E 236 (100.0%) K 284 (100.0%) R 285 (100.0%) Y 332
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0010_105/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -9049,9 +8385,7 @@ ABZ79721.1, ABB65530.1:
 
 ![](../../../csdb/images/1560.gif)
 
-CSDB record ID: 1560
-
--3)[aDGlcp(1-2)]aLRhap(1-4)bDGlcpA(1-3)bLRhap(1-4)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -9103,17 +8437,11 @@ ADX97403.1:
 
 ![](../../../csdb/images/12137.gif)
 
-CSDB record ID: 12137
-
--4)[aXColp(1-6),aXColp(1-3)]aDGlcp(1-4)aDGalp(1-3)[Ac(1-2)]bDGalpN(1-
-
 AFE83402.1, WP_001300154.1:
 
 ![](../../../csdb/images/616.gif)
 
-CSDB record ID: 616
-
--4)[aXColp(1-6),aXColp(1-3)]aDGlcp(1-4)aDGalp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -9167,9 +8495,7 @@ BAQ02031.1:
 
 ![](../../../csdb/images/1926.gif)
 
-CSDB record ID: 1926
-
--2)[lR3HOBut(1-3)]aDFucp3N(1-3)[70%Ac(1-6)]aDManp(1-3)aLFucp(1-3)[Ac(1-2)]aDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -9214,6 +8540,8 @@ Q 9 (100.0%) Q 24 (100.0%) Q 27 (100.0%) R 33 (100.0%) E 39 (100.0%) N 47 (100.0
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0009_168/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -9261,9 +8589,7 @@ AFW04860.1:
 
 ![](../../../csdb/images/3360.gif)
 
-CSDB record ID: 3360
-
--2)[Fo(1-3)aDFucp3N(1-3)]bDManp(1-3)bDGlcp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -9312,17 +8638,19 @@ CAI33412.1:
 
 ![](../../../csdb/images/2972.gif)
 
-CSDB record ID: 2972
-
--3)aDGalp(1-2)[xXCho(1-P-3)]bDGalp(1-4)[Ac(1-2)]bDGlcpN(1-3)bDGalp(1-4)bDGlcp(1-
-
 CAI33343.1:
 
 ![](../../../csdb/images/2973.gif)
 
-CSDB record ID: 2973
+#### Sugars for blast hits:
 
--3)aDGalp(1-2)[x?Gro(2-P-3)]bDGalp(1-4)[Ac(1-2)]bDGlcpN(1-3)bDGalp(1-4)bDGlcp(1-
+VQD68897.1:
+
+![](../../../csdb/images/2972.gif)
+
+VSN79485.1:
+
+![](../../../csdb/images/2973.gif)
 
 #### Alphafold models:
 
@@ -9370,6 +8698,8 @@ Y 10 (100.0%) E 23 (100.0%) H 26 (100.0%) H 31 (100.0%) E 47 (100.0%) Y 50 (100.
 
 #### Sugars in cluster:
 
+#### Sugars for blast hits:
+
 #### Alphafold models:
 
 #### Taxonomy:
@@ -9416,9 +8746,7 @@ BAQ01266.1:
 
 ![](../../../csdb/images/1588.gif)
 
-CSDB record ID: 1588
-
--4)[lDGroA(2-P-6)]aDGlcp(1-4)bDGalp(1-4)bDGlcp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -9467,9 +8795,7 @@ CAI34587.1:
 
 ![](../../../csdb/images/25004.gif)
 
-CSDB record ID: 25004
-
--3)[aDGalp(1-6)]aDGalp(1-3)[Ac(1-2)[x?Gro(1-P-6)]bDGlcpN(1-4),Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]bDGalpN(1-2)aLRhap(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -9516,9 +8842,7 @@ CAI32957.1:
 
 ![](../../../csdb/images/938.gif)
 
-CSDB record ID: 938
-
--4)bDGlcpA(1-4)bDGlcp(1-4)aDGlcp(1-4)aDGalp(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -9566,6 +8890,8 @@ Y 52 (100.0%) D 55 (100.0%) Y 129 (100.0%) R 196 (100.0%) R 201 (100.0%) K 251 (
 
 #### Sugars in cluster:
 
+#### Sugars for blast hits:
+
 #### Alphafold models:
 
 #### Taxonomy:
@@ -9612,9 +8938,7 @@ BAQ01419.1:
 
 ![](../../../csdb/images/1600.gif)
 
-CSDB record ID: 1600
-
--2)[bDGalf(1-4)]aDGlcpA(1-4)[Ac(1-2)]bDGlcpN(1-5)bDGalf(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -9665,17 +8989,11 @@ ACA24739.1:
 
 ![](../../../csdb/images/1585.gif)
 
-CSDB record ID: 1585
-
--2)bDGalp(1-4)[50%Ac(1-6),aLRhap(1-3)]bDManp(1-3)bDManp(1-4)bDGlcpA(1-3)[Ac(1-2)]aDGlcpN(1-
-
 AAL27327.1:
 
 ![](../../../csdb/images/1422.gif)
 
-CSDB record ID: 1422
-
--3)bDManp(1-4)bDGlcpA(1-3)[Ac(1-2)]aDGlcpN(1-2)bDGalp(1-4)[aLRhap(1-3)]bDManp(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -9723,6 +9041,8 @@ D 41 (100.0%) D 73 (100.0%) Y 83 (100.0%) S 87 (100.0%) R 127 (100.0%) S 165 (10
 
 #### Sugars in cluster:
 
+#### Sugars for blast hits:
+
 #### Alphafold models:
 
 #### Taxonomy:
@@ -9769,9 +9089,7 @@ CAI32727.1:
 
 ![](../../../csdb/images/1944.gif)
 
-CSDB record ID: 1944
-
--4)bDGlcp(1-3)[aDGlcpA(1-6)aDGlcp(1-2)]aLRhap(1-3)aLRhap(1-3)bLRhap(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -9816,9 +9134,11 @@ BAQ00634.1:
 
 ![](../../../csdb/images/1514.gif)
 
-CSDB record ID: 1514
+#### Sugars for blast hits:
 
--2)bDGlcp(1-6)[Ac(1-2)]aDGlcpN(1-3)[Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]bDGlcpN(1-
+AXY99336.1:
+
+![](../../../csdb/images/3058.gif)
 
 #### Alphafold models:
 
@@ -9865,9 +9185,7 @@ ADJ19217.1:
 
 ![](../../../csdb/images/1568.gif)
 
-CSDB record ID: 1568
-
--4)[70%Ac(1-8),Ac(1-7),Ac(1-5)]aX8eLegp(2-4)bDGlcp(1-3)[Ac(1-2)]aDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -9919,9 +9237,7 @@ BAQ02015.1:
 
 ![](../../../csdb/images/1924.gif)
 
-CSDB record ID: 1924
-
--4)[Ac(1-2)[Ac(1-3)]bLRhapN3N(1-3),Ac(1-2)]bDGlcpN(1-4)bDGlcpA(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -9970,17 +9286,11 @@ ACD75809.1:
 
 ![](../../../csdb/images/108685.gif)
 
-CSDB record ID: 108685
-
--4)[Ac(1-2)]bDGlcpN(1-3)[Ac(1-3)aDFucp3N(1-2)]aLRhap(1-2)aLRhap(1-3)bLRhap(1-
-
 BAQ01012.1:
 
 ![](../../../csdb/images/1557.gif)
 
-CSDB record ID: 1557
-
--3)aLRhap(1-2)aLRhap(1-3)bLRhap(1-4)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -10027,17 +9337,11 @@ AJE24464.1:
 
 ![](../../../csdb/images/1894.gif)
 
-CSDB record ID: 1894
-
--2)bDRibf(1-4)bDGalp(1-4)[Ac(1-2)]aDGlcpN(1-4)bDGalp(1-3)[Ac(1-2)]aDGlcpN(1-
-
 AFW04790.1:
 
 ![](../../../csdb/images/3364.gif)
 
-CSDB record ID: 3364
-
--2)bDRibf(1-4)bDGalp(1-4)[Ac(1-2)]aDGlcpN(1-4)bDGalp(1-3)[Ac(1-2)]aDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -10084,6 +9388,12 @@ R 56 (100.0%) Y 64 (100.0%) N 133 (100.0%) D 181 (100.0%) N 183 (100.0%) N 189 (
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_186/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
+
+AAG17411.1:
+
+![](../../../csdb/images/22678.gif)
 
 #### Alphafold models:
 
@@ -10134,25 +9444,15 @@ AKA20981.1:
 
 ![](../../../csdb/images/12125.gif)
 
-CSDB record ID: 12125
-
--2)[aXAsc?(1-3)]aLFucp(1-3)aDManp(1-4)aLFucp(1-3)[Ac(1-2)]aDGalpN(1-
-
 AKA20999.1:
 
 ![](../../../csdb/images/12126.gif)
-
-CSDB record ID: 12126
-
--2)[aLAltf(1-3)]aLFucp(1-3)aDManp(1-4)aLFucp(1-3)[Ac(1-2)]aDGalpN(1-
 
 CAX18360.1:
 
 ![](../../../csdb/images/12127.gif)
 
-CSDB record ID: 12127
-
--2)[bXParf(1-3)]aLFucp(1-3)aDManp(1-4)aLFucp(1-3)[Ac(1-2)]aDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -10203,9 +9503,7 @@ AAY28249.1:
 
 ![](../../../csdb/images/30040.gif)
 
-CSDB record ID: 30040
-
--4)[Ac(1-2)bDGlcpN(1-2)]bDGlcpA(1-3)bDGalp(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -10255,17 +9553,11 @@ ACD37117.1:
 
 ![](../../../csdb/images/1547.gif)
 
-CSDB record ID: 1547
-
--2)bDGalp(1-4)bDManp(1-4)aDGalp(1-3)[Ac(1-2)]bDGlcpN(1-
-
 ACD37111.1:
 
 ![](../../../csdb/images/713.gif)
 
-CSDB record ID: 713
-
--2)[xRPyr(2-4:2-3)]bDGalp(1-4)bDManp(1-4)aDGalp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -10315,9 +9607,7 @@ BAQ01218.1:
 
 ![](../../../csdb/images/1582.gif)
 
-CSDB record ID: 1582
-
--4)bDGlcpA(1-4)[70%Ac(1-3),Ac(1-2)]bDGalpN(1-4)[Ac(1-2)]aDGalpN(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -10366,17 +9656,15 @@ ABB29906.1:
 
 ![](../../../csdb/images/8411.gif)
 
-CSDB record ID: 8411
-
--7)[Ac(1-5)]aXNeup(2-3)[aDGlcp(1-2)]bDGlcp(1-3)[Ac(1-2)]bDGalpN(1-
-
 ABB29916.1:
 
 ![](../../../csdb/images/8382.gif)
 
-CSDB record ID: 8382
+#### Sugars for blast hits:
 
--7)[Ac(1-5)]aXNeup(2-3)[aDGalp(1-2)]bDGlcp(1-3)[Ac(1-2)]bDGlcpN(1-
+AXL96526.1:
+
+![](../../../csdb/images/27606.gif)
 
 #### Alphafold models:
 
@@ -10425,9 +9713,7 @@ AAD50486.1:
 
 ![](../../../csdb/images/1853.gif)
 
-CSDB record ID: 1853
-
--4)[bDGalp(1-3),Ac(1-2)]aDGalpN(1-4)aDGalpA(1-3)aDGalp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -10476,9 +9762,7 @@ AAN60459.1:
 
 ![](../../../csdb/images/1534.gif)
 
-CSDB record ID: 1534
-
--3)aLRhap(1-4)[Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -10522,6 +9806,8 @@ N 9 (100.0%) N 30 (100.0%) S 38 (100.0%) Y 53 (100.0%) D 55 (100.0%) Y 59 (100.0
 
 #### Sugars in cluster:
 
+#### Sugars for blast hits:
+
 #### Alphafold models:
 
 #### Taxonomy:
@@ -10560,6 +9846,8 @@ Y 20 (100.0%) Y 24 (100.0%) K 38 (100.0%) R 39 (100.0%) Y 40 (100.0%) S 72 (100.
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_132/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -10606,25 +9894,15 @@ CAI34099.1:
 
 ![](../../../csdb/images/7087.gif)
 
-CSDB record ID: 7087
-
--2)bLRhap(1-3)bDGalf(1-3)bLRhap(1-4)bDGlcpA(1-3)bDGalf(1-
-
 CAI34498.1:
 
 ![](../../../csdb/images/25001.gif)
-
-CSDB record ID: 25001
-
--4)bDGlcpA(1-3)[aDGlcp(1-2)]bDGalf(1-3)bDGlcp(1-3)bDGlcp(1-3)[%Ac(1-2)[%Ac(1-4),%Ac(1-3)]bDRhap(1-2)]aDRhap(1-
 
 CAI34475.1:
 
 ![](../../../csdb/images/25002.gif)
 
-CSDB record ID: 25002
-
--4)bDGlcpA(1-3)[aDGlcp(1-2)]bDGalf(1-3)bDGlcp(1-3)bDGlcp(1-3)[bLRhap(1-2)]aDRhap(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -10672,9 +9950,7 @@ AAM27879.1:
 
 ![](../../../csdb/images/24037.gif)
 
-CSDB record ID: 24037
-
--3)lR3HOBut(1-7)[Ac(1-5),Ac(1-4)]aXPsep(2-4)[Ac(1-2)]aDFucpN(1-3)[Ac(1-2)]bDQuipN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -10721,9 +9997,7 @@ BAQ01894.1:
 
 ![](../../../csdb/images/1913.gif)
 
-CSDB record ID: 1913
-
--4)[<<Ac(1-9)|Ac(1-7)>>,Ac(1-5)]aXNeup(2-6)bDGalp(1-6)bDGlcp(1-3)bDGalp(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -10771,9 +10045,7 @@ AAZ20761.1:
 
 ![](../../../csdb/images/1573.gif)
 
-CSDB record ID: 1573
-
--2)bDManp(1-3)[Ac(1-2)]aDGlcpN(1-2)[Ac(1-3)]bDGlcp(1-3)aL6dTalp(1-3)[Ac(1-2)]aDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -10816,6 +10088,8 @@ E 31 (100.0%) S 70 (100.0%) Y 73 (100.0%) Y 76 (100.0%) Y 82 (100.0%) Y 83 (100.
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0006_142/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -10862,9 +10136,7 @@ ABI34565.1:
 
 ![](../../../csdb/images/1530.gif)
 
-CSDB record ID: 1530
-
--6)aDGlcp(1-4)bDGlcpA(1-4)[Ac(1-3),Ac(1-2)]bDGalpN(1-3)aDGalp(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -10914,17 +10186,11 @@ AAT28922.1:
 
 ![](../../../csdb/images/1914.gif)
 
-CSDB record ID: 1914
-
--3)[Ac(1-2)]aLFucpN(1-4)[Ac(1-6)]aDGlcp(1-P-4)aDGlcp(1-3)[Ac(1-2)]aLFucpN(1-3)[Ac(1-2)]aDGlcpN(1-
-
 AAR24270.1:
 
 ![](../../../csdb/images/1405.gif)
 
-CSDB record ID: 1405
-
--3)[Ac(1-2)]aLQuipN(1-4)aDGlcp(1-P-4)[Ac(1-2)]aDGlcpN(1-3)[Ac(1-2)]aLQuipN(1-3)[Ac(1-2)]aDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -10973,17 +10239,11 @@ ADN43883.1:
 
 ![](../../../csdb/images/1907.gif)
 
-CSDB record ID: 1907
-
--8)[Ac(1-7),lR3HOBut(1-5)]aXPsep(2-6)bDGalp(1-4)bDGlcp(1-3)[Ac(1-2)]aDGlcpN(1-
-
 ACD37072.1:
 
 ![](../../../csdb/images/3984.gif)
 
-CSDB record ID: 3984
-
--2)bDGalf(1-3)[Ac(1-2)]aDGlcpN(1-8)[lR3HOBut(1-7),Ac(1-5),Ac(1-4)]aXPsep(2-6)aDGalp(1-6)aDGlcp(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -11030,17 +10290,11 @@ ADI59429.1:
 
 ![](../../../csdb/images/12131.gif)
 
-CSDB record ID: 12131
-
--2)[bXParf(1-3)]aDManp(1-3)aLFucp(1-3)[Ac(1-2)]bDGalpN(1-
-
 ADI59445.1:
 
 ![](../../../csdb/images/12132.gif)
 
-CSDB record ID: 12132
-
--2)[aXAbep(1-3)]aDManp(1-3)aLFucp(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -11090,9 +10344,7 @@ ACA24829.1, AAS98031.1:
 
 ![](../../../csdb/images/1844.gif)
 
-CSDB record ID: 1844
-
--3)[bDRibf(1-4)aDGlcpA(1-2)]aLRhap(1-3)bLRhap(1-4)aLRhap(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -11141,9 +10393,7 @@ BAQ01702.1:
 
 ![](../../../csdb/images/1878.gif)
 
-CSDB record ID: 1878
-
--4)[Ac(1-7),Ac(1-5)]bXPsep(2-4)bDGalp(1-4)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -11192,9 +10442,7 @@ ADN43838.1:
 
 ![](../../../csdb/images/1855.gif)
 
-CSDB record ID: 1855
-
--3)[bLRhap(1-4),Ac(1-2)]bDGlcpN(1-4)aDGalpA(1-3)aDManp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -11236,6 +10484,8 @@ R 133 (100.0%) Q 134 (100.0%) H 165 (100.0%) S 166 (100.0%) Y 211 (100.0%) R 215
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0005_137/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -11282,9 +10532,7 @@ ABD19779.1:
 
 ![](../../../csdb/images/3660.gif)
 
-CSDB record ID: 3660
-
--4)bDGlcpA(1-2)[50%Ac(1-6),aDGalp(1-3)]bDManp(1-4)bDManp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -11334,9 +10582,7 @@ BAQ00893.1:
 
 ![](../../../csdb/images/1548.gif)
 
-CSDB record ID: 1548
-
--3)aDGalp(1-3)[bDGlcpA(1-4)]aLFucp(1-4)[Ac(1-2)]bDGlcpN(1-3)aLFucp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -11379,6 +10625,8 @@ Y 28 (100.0%) N 36 (100.0%) Y 38 (100.0%) Y 41 (100.0%) D 47 (100.0%) R 71 (100.
 
 #### Sugars in cluster:
 
+#### Sugars for blast hits:
+
 #### Alphafold models:
 
 #### Taxonomy:
@@ -11419,6 +10667,8 @@ S 22 (100.0%) K 27 (100.0%) S 75 (100.0%) N 79 (100.0%) D 83 (100.0%) D 109 (100
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_204/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -11468,17 +10718,11 @@ ACH97132.1:
 
 ![](../../../csdb/images/1846.gif)
 
-CSDB record ID: 1846
-
--4)[Ac(1-2)]bDGalpN(1-3)aLRhap(1-4)[Ac(1-2)]aDGlcpN(1-4)bDGalp(1-3)[Ac(1-2)]aDGalpN(1-
-
 ACH97143.1, ABE98413.1:
 
 ![](../../../csdb/images/1857.gif)
 
-CSDB record ID: 1857
-
--4)[Ac(1-2)]bDGalpN(1-3)aLRhap(1-4)aDGlcp(1-4)bDGalp(1-3)[Ac(1-2)]aDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -11524,9 +10768,7 @@ CAI34641.1:
 
 ![](../../../csdb/images/25006.gif)
 
-CSDB record ID: 25006
-
--6)[Ac(1-5),Ac(1-3)]bDGalf(1-3)bDGalp(1-4)[bDGlcp(1-6),Ac(1-2)]aDGlcpN(1-4)[bDGlcp(1-3)]aDGalp(1-2)xDRib-ol(5-P-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -11571,9 +10813,7 @@ AAZ85718.1:
 
 ![](../../../csdb/images/1881.gif)
 
-CSDB record ID: 1881
-
--3)aLRhap(1-4)aDGalpA(1-2)[bDGlcp(1-3)]aLRhap(1-3)aLRhap(1-2)aLRhap(1-3)[Ac(1-2)]aDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -11620,9 +10860,7 @@ ADC54929.1:
 
 ![](../../../csdb/images/7222.gif)
 
-CSDB record ID: 7222
-
--3)[Ac(1-2)bDManpN(1-2)]aLRhap(1-3)aLRhap(1-3)bLRhap(1-4)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -11663,6 +10901,8 @@ Y 33 (100.0%) S 35 (100.0%) D 44 (100.0%) T 45 (100.0%) Y 48 (100.0%) N 51 (100.
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_159/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -11710,9 +10950,7 @@ ABA42232.1:
 
 ![](../../../csdb/images/1889.gif)
 
-CSDB record ID: 1889
-
--3)aLRhap(1-3)aLRhap(1-2)aDGlcp(1-3)[Ac(1-2)]aDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -11762,9 +11000,7 @@ AAL27351.1:
 
 ![](../../../csdb/images/3986.gif)
 
-CSDB record ID: 3986
-
--4)aDGlcp(1-4)bDGlcpA(1-3)[Ac(1-2)]aDGlcpN(1-3)aLRhap(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -11812,9 +11048,7 @@ ACA24901.1:
 
 ![](../../../csdb/images/1594.gif)
 
-CSDB record ID: 1594
-
--3)bDGalf(1-4)aDGalp(1-3)[Ac(1-4)]aDGalpA(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -11854,6 +11088,8 @@ S 126 (100.0%) N 134 (100.0%) R 141 (100.0%) Y 142 (100.0%) Q 153 (100.0%) Y 160
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_90/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -11900,9 +11136,7 @@ BAQ01137.1:
 
 ![](../../../csdb/images/1572.gif)
 
-CSDB record ID: 1572
-
--2)[Ac(1-3)]bDQuip3N(1-4)[NH2(1-6)]aDGalpA(1-4)[Ac(1-2)]aDGalpN(1-4)bDGalpA(1-3)[Ac(1-2)]aDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -11947,9 +11181,7 @@ ADJ19203.1:
 
 ![](../../../csdb/images/1902.gif)
 
-CSDB record ID: 1902
-
--8)[xDAla?(1-7),Ac(1-5)]aXLegp(2-4)bDGlcpA(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -11991,6 +11223,8 @@ S 13 (100.0%) Y 14 (100.0%) H 17 (100.0%) S 19 (100.0%) N 23 (100.0%) Y 30 (100.
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_196/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -12035,9 +11269,7 @@ ADN43871.1:
 
 ![](../../../csdb/images/1287.gif)
 
-CSDB record ID: 1287
-
--4)[bDGlcp(1-6),Ac(1-3)[Ac(1-4)]aLRhap(1-3),Ac(1-2)]bDManpN(1-4)aDGalpA(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -12078,6 +11310,8 @@ K 28 (100.0%) Y 29 (100.0%) E 70 (100.0%) Y 81 (100.0%) S 115 (100.0%) N 127 (10
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_194/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -12124,9 +11358,7 @@ BAQ01659.1:
 
 ![](../../../csdb/images/1874.gif)
 
-CSDB record ID: 1874
-
--2)aDGalf(1-3)[Ac(1-2)]aLRhap(1-4)aDGlcp(1-2)aLRhap(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -12169,6 +11401,8 @@ K 7 (100.0%) S 23 (100.0%) T 38 (100.0%) Y 40 (100.0%) D 41 (100.0%) E 42 (100.0
 
 #### Sugars in cluster:
 
+#### Sugars for blast hits:
+
 #### Alphafold models:
 
 [AHB32267.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2202060002-wzy_100/af_out/AHB32267.1/ranked_0.pdb)
@@ -12208,6 +11442,8 @@ S 15 (100.0%) T 30 (100.0%) N 51 (100.0%) D 56 (100.0%) Y 60 (100.0%) S 67 (100.
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_165/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -12252,9 +11488,7 @@ BAQ00927.1:
 
 ![](../../../csdb/images/1381.gif)
 
-CSDB record ID: 1381
-
--4)[aLFucp(1-3),70%Ac(1-2)]bDManp(1-3)aDManp(1-3)aLFucp(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -12299,9 +11533,7 @@ BAQ01155.1:
 
 ![](../../../csdb/images/1574.gif)
 
-CSDB record ID: 1574
-
--6)[aLRhap(1-3)]aDManp(1-2)[aDGlcp(1-3)]aDManp(1-2)aDManp(1-2)bDManp(1-3)[Ac(1-2)]aDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -12341,6 +11573,8 @@ Y 30 (100.0%) Y 40 (100.0%) Q 41 (100.0%) D 42 (100.0%) N 47 (100.0%) E 51 (100.
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_117/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -12386,9 +11620,7 @@ AIG62747.1:
 
 ![](../../../csdb/images/1920.gif)
 
-CSDB record ID: 1920
-
--4)[Ac(1-2)]aDGlcpN(1-4)aDGalpA(1-2)bDRibf(1-4)bDGalp(1-3)[Ac(1-2)]bDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -12431,6 +11663,8 @@ N 2 (100.0%) Y 3 (100.0%) K 5 (100.0%) N 11 (100.0%) H 13 (100.0%) S 21 (100.0%)
 
 #### Sugars in cluster:
 
+#### Sugars for blast hits:
+
 #### Alphafold models:
 
 #### Taxonomy:
@@ -12468,6 +11702,8 @@ D 4 (100.0%) R 70 (100.0%) R 108 (100.0%) Y 122 (100.0%) T 123 (100.0%) D 128 (1
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_82/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -12508,6 +11744,8 @@ T 1 (100.0%) N 2 (100.0%) T 3 (100.0%) N 4 (100.0%) Y 5 (100.0%) Y 7 (100.0%) N 
 
 #### Sugars in cluster:
 
+#### Sugars for blast hits:
+
 #### Alphafold models:
 
 #### Taxonomy:
@@ -12545,6 +11783,8 @@ N 5 (100.0%) S 7 (100.0%) Y 8 (100.0%) K 10 (100.0%) K 12 (100.0%) K 13 (100.0%)
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_205/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -12584,6 +11824,8 @@ Y 2 (100.0%) T 10 (100.0%) T 13 (100.0%) D 15 (100.0%) R 20 (100.0%) S 21 (100.0
 
 #### Sugars in cluster:
 
+#### Sugars for blast hits:
+
 #### Alphafold models:
 
 #### Taxonomy:
@@ -12621,6 +11863,8 @@ D 2 (100.0%) Y 3 (100.0%) R 26 (100.0%) S 28 (100.0%) S 43 (100.0%) R 46 (100.0%
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_193/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -12661,6 +11905,8 @@ T 46 (100.0%) Y 48 (100.0%) T 56 (100.0%) S 62 (100.0%) R 64 (100.0%) K 68 (100.
 
 #### Sugars in cluster:
 
+#### Sugars for blast hits:
+
 #### Alphafold models:
 
 #### Taxonomy:
@@ -12698,6 +11944,8 @@ Y 2 (100.0%) S 41 (100.0%) D 43 (100.0%) N 46 (100.0%) Y 47 (100.0%) N 49 (100.0
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_188/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -12737,6 +11985,8 @@ Y 3 (100.0%) Y 19 (100.0%) N 20 (100.0%) Y 24 (100.0%) N 28 (100.0%) R 39 (100.0
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_187/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -12781,9 +12031,7 @@ ACH97152.1:
 
 ![](../../../csdb/images/1501.gif)
 
-CSDB record ID: 1501
-
--3)[Ac(1-2)bLRhapN(1-4),Ac(1-2)]bDGlcpN(1-3)[aDGlcp(1-4)]aDGalp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -12828,9 +12076,7 @@ ACA24890.1:
 
 ![](../../../csdb/images/1900.gif)
 
-CSDB record ID: 1900
-
--3)[aLFucp(1-4),Ac(1-2)]bDGlcpN(1-4)aDGalpA(1-3)aLFucp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -12875,9 +12121,7 @@ BAQ01114.1:
 
 ![](../../../csdb/images/1571.gif)
 
-CSDB record ID: 1571
-
--3)[Ac(1-2)]aDManpN(1-3)bDGlcpA(1-3)[bDGalp(1-6)]bDGalp(1-3)[Ac(1-2)]bDGlcpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -12917,6 +12161,8 @@ S 42 (100.0%) N 68 (100.0%) Y 76 (100.0%) S 92 (100.0%) D 99 (100.0%) D 153 (100
 
 #### Sugars in cluster:
 
+#### Sugars for blast hits:
+
 #### Alphafold models:
 
 #### Taxonomy:
@@ -12955,6 +12201,8 @@ N 1 (100.0%) K 6 (100.0%) S 25 (100.0%) Y 34 (100.0%) Y 36 (100.0%) T 37 (100.0%
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_172/hits.tsv)
 
 #### Sugars in cluster:
+
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
@@ -12999,9 +12247,7 @@ BAQ01780.1:
 
 ![](../../../csdb/images/696.gif)
 
-CSDB record ID: 696
-
--2)[Ac(1-2)aDManpN(1-3)]aLRhap(1-3)aLRhap(1-3)aLRhap(1-3)[Ac(1-2)]aDGalpN(1-
+#### Sugars for blast hits:
 
 #### Alphafold models:
 
