@@ -18,6 +18,7 @@ csdb_df = pd.read_csv("data/csdb/CSDB_slice_for_Ida.txt",
 # Make dataframe with the needed sugars
 data = []
 row_id_done = []
+banned_sugars = ['911', '22678']
 print('getting csdb')
 # Loop through polymerase df
 for index, row in hits_df.iterrows():
@@ -25,7 +26,7 @@ for index, row in hits_df.iterrows():
     # if pd.isna(row.CSDB_record_ID_forced):
         # Get rows in csdb df with that serotype
     rows_condition_true = csdb_df[(csdb_df.Taxonomic_name == row.species) & (csdb_df.Strain_or_Serogroup == row.serotype_x)]
-    if len(rows_condition_true) > 0 and row.id not in row_id_done:
+    if len(rows_condition_true) > 0 and row.id not in row_id_done and rows_condition_true['CSDB_record_ID'].iloc[0] not in banned_sugars:
         data.append([row.id] + list(rows_condition_true.iloc[0]))
         row_id_done.append(row.id)
     # If there is a forced sugar, save that one

@@ -71,12 +71,6 @@ Y 160 (98.4%) Y 275 (100.0%) Y 295 (97.8%) Y 331 (98.5%) R 338 (100.0%) R 382 (1
 
 #### Sugars for blast hits:
 
-CAB3270026.1 Salmonella enterica Typhimurium:
-
-![](../../../csdb/images/911.gif)
-
-CSDB record ID: 911
-
 #### Alphafold models:
 
 [ACH50550.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/2205031317-wzy_missing/af_out/ACH50550.1/ranked_0.pdb)
@@ -10000,12 +9994,6 @@ R 56 (100.0%) Y 64 (100.0%) N 133 (100.0%) D 181 (100.0%) N 183 (100.0%) N 189 (
 #### Sugars in cluster:
 
 #### Sugars for blast hits:
-
-AAG17411.1 Plesiomonas shigelloides O17:
-
-![](../../../csdb/images/22678.gif)
-
-CSDB record ID: 22678
 
 #### Alphafold models:
 
