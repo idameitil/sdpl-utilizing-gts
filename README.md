@@ -12,10 +12,10 @@ To enrich the selected wzys with csdb sugars and taxonomy run `python src/data-c
 This will create the file `data/wzy/wzy.tsv`
 
 ### Downloading CSDB images
-In order to download new CSDB images, run `python3 src/data-collection-and-preprocessing/download-csdb-images.py`
+In order to download new CSDB images, run `python src/data-collection-and-preprocessing/download-csdb-images.py`
 
 ### Retrieving Wzxs, Wzzs and WaaLs
-To retrieve the Wzx, Wzz and Waal entries run `python3 src/data-collection-and-preprocessing/retrieve-wzx-wzz-and-waal.py`
+To retrieve the Wzx, Wzz and Waal entries run `python src/data-collection-and-preprocessing/retrieve-wzx-wzz-and-waal.py`
 
 This will create the files `data/wzx/wzx.tsv`, `data/wzz/wzz.tsv` and `data/waal/waal.tsv`
 
@@ -72,6 +72,15 @@ To filter blast hits by length and perform redundancy reduction with cd-hit run:
 
 This will create the files `data/wzy/blast/unique-hits-min320max600.fasta` and `data/wzy/blast/unique-hits-min320max600-cdhit99.fasta`.
 
+### Retrieving blast hit serotypes
+The list of accessions for 1e-15 is split into files of 1000 lines each by running `split data/wzy/ssn-clusterings/2206101141/included_accessions.txt data/wzy/blast-full-genbank/1e-15/hits`
+
+Each file is uploaded to NCBI batch entry and the gp files are downloaded and saved in `data/wzy/blast-full-genbank/1e-15`. 
+
+To retrieve serotypes for the blast hits (the ones where available), run `python src/data-collection-and-preprocessing/get-serotypes.py`. This will create the file `data/wzy/blast-full-genbank/1e-15/hits-serotypes.tsv`.
+
+Then, to enrich with sugar data, run `python src/data-collection-and-preprocessing/enrich-blast-hits.py`. This will create the file `data/wzy/blast-full-genbank/1e-15/hits-enriched.tsv`.
+
 ## All-vs-all blast
 
 Locally run `sh src/all-vs-all-blast/all-vs-all.sh`
@@ -85,7 +94,8 @@ When all jobs are finished, run:
 
 `tar -czvf /work3/idamei/all-vs-all-blast.tar.gz /work3/idamei/all-vs-all-blast`
 
-Then locally run: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/all-vs-all-blast.tar.gz data/wzy/all-vs-all-blast`
+Then locally delete the old run: `rm -r data/wzy/all-vs-all-blast`
+And download the new one: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/all-vs-all-blast.tar.gz data/wzy/all-vs-all-blast`
 Unpack it and move to `data/wzy/all-vs-all-blast/`.
 This file is too big to store in GitHub, so is only stored locally.
 
