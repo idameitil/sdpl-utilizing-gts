@@ -158,8 +158,20 @@ before_after_df = pd.DataFrame(data, ['before', 'after'])
 outfile.write(f"{before_after_df.to_markdown()}\n\n")
 
 # Navigation
-outfile.write('## Navigation\n')
+outfile.write('## Navigation by cluster size\n')
+name2cluster = dict()
 for cluster in clusters:
+    name = cluster.split('_')[1]
+    count = cluster.split('_')[0].lstrip('0')
+    navigation_url = f"#cluster-{name}"
+    outfile.write(f"[{name}({count})]({navigation_url})  ")
+    # Save in dict
+    name2cluster[int(name)] = cluster
+outfile.write('\n\n')
+
+outfile.write('## Navigation by cluster name\n')
+for cluster_name in sorted(name2cluster):
+    cluster = name2cluster[cluster_name]
     name = cluster.split('_')[1]
     count = cluster.split('_')[0].lstrip('0')
     navigation_url = f"#cluster-{name}"
