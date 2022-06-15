@@ -99,11 +99,14 @@ github_url = 'https://github.com/idameitil/phd/tree/master'
 
 resultsdir = f"data/wzy/ssn-clusterings/{timestamp}"
 
-outfile = open(f"{resultsdir}/report.md", "w")
-outfile.write(f"# Report of ssn-clustering run {timestamp}\n")
-
+# Read files
 seed_df = pd.read_csv("data/wzy/wzy.tsv", sep='\t', dtype=object)
 seeds_and_hits_df = pd.read_csv("data/wzy/seeds-and-hits.tsv", sep='\t', dtype=object)
+hits_enriched_df = pd.read_csv("data/wzy/blast-full-genbank/1e-15/hits-enriched.tsv", sep='\t', dtype=object)
+
+# Start report
+outfile = open(f"{resultsdir}/report.md", "w")
+outfile.write(f"# Report of ssn-clustering run {timestamp}\n")
 
 # Metadata
 outfile.write('## Metadata\n')
@@ -262,8 +265,33 @@ for cluster in clusters:
         seeds = image2seeds[CSDB_record_id]
         outfile.write(f"{', '.join(seeds)}:\n\n")
         outfile.write(f"![]({image_path})\n\n")
-        outfile.write(f"CSDB record ID: {CSDB_record_id}\n\n")
-        outfile.write(f"{image2linear[CSDB_record_id]}\n\n")
+        #outfile.write(f"CSDB record ID: {CSDB_record_id}\n\n")
+        #outfile.write(f"{image2linear[CSDB_record_id]}\n\n")
+
+    # Sugar images for hits
+    outfile.write("#### Sugars for blast hits:\n\n")
+    image2seeds = dict()
+    # image2linear = dict()
+    for acc in hit_accessions:
+        if acc in list(hits_enriched_df.protein_accession):
+            CSDB_record_id = hits_enriched_df.loc[hits_enriched_df.protein_accession == acc, 'CSDB_record_ID_y'].item()
+            print(CSDB_record_id)
+            if not pd.isnull(CSDB_record_id):
+                if CSDB_record_id in image2seeds:
+                    image2seeds[CSDB_record_id].append(acc)
+                else:
+                    image2seeds[CSDB_record_id] = [acc]
+                    # image2linear[CSDB_record_id] = hits_enriched_df.loc[hits_enriched_df.protein_accession ==
+                                        # acc, 'CSDB_Linear'].item()
+    for CSDB_record_id in image2seeds:
+        image_path = f"../../../csdb/images/{CSDB_record_id}.gif"
+        #image_path = f"/Users/idamei/phd/data/csdb/images/{CSDB_record_id}.gif"
+        seeds = image2seeds[CSDB_record_id]
+        outfile.write(f"{', '.join(seeds)}:\n\n")
+        outfile.write(f"![]({image_path})\n\n")
+        #outfile.write(f"CSDB record ID: {CSDB_record_id}\n\n")
+        #outfile.write(f"{image2linear[CSDB_record_id]}\n\n")
+
     # AlphaFold models
     outfile.write("#### Alphafold models:\n\n")
     rows_alphafold = seeds_and_hits_df.loc[(seeds_and_hits_df.protein_accession.isin(accessions))
