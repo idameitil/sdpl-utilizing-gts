@@ -84,9 +84,10 @@ clusters = [f for f in os.listdir(cluster_dir) if not f.startswith('.')]
 pymol_script_path = f"data/wzy/ssn-clusterings/{timestamp}/pymol-visualization.pml"
 outfile = open(pymol_script_path, 'w')
 outfile.write(string1 + '\n')
+all_conserved = dict()
 for cluster in clusters:
     cluster_size = int(cluster.split('_')[0])
-    if cluster_size < 100:
+    if cluster_size < 50:
         continue
     # Read fasta
     MSA_file = f"{cluster_dir}/{cluster}/sequences.afa"
@@ -97,6 +98,7 @@ for cluster in clusters:
     df = pd.DataFrame(data)
     # Get conserved
     conserved_residues = get_conserved_residues(df)
+    all_conserved[cluster] = (conserved_residues)
     alphafold_accessions = [acc for acc in df.columns if acc in accession2path]
     # Get positions in alphafold models
     for alphafold_accession in alphafold_accessions:
@@ -121,3 +123,25 @@ outfile.write("center \n")
 outfile.write("disable \n")
 outfile.write("bg_color white \n")
 outfile.close()
+
+data = dict()
+residues = ['S', 'T', 'Y', 'N', 'Q', 'K', 'R', 'H', 'D', 'E']
+for cluster in all_conserved:
+    conserved_dict = all_conserved[cluster]
+    # Get counts
+    counts = dict()
+    for pos in conserved_dict:
+        res, freq = conserved_dict[pos]
+        if res in counts:
+            counts[res] += 1
+        else:
+            counts[res] = 1
+    # Report in data
+    data[cluster] = dict()
+    for residue in residues:
+        if residue in counts:
+            data[cluster][residue] = counts[residue]
+        else:
+            data[cluster][residue] = 0
+
+pd.DataFrame(data).T.to_csv(f"data/wzy/ssn-clusterings/{timestamp}/conserved-residues.tsv", sep = '\t')
