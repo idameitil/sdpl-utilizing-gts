@@ -35,6 +35,8 @@ Then run `genscript.py > submit.sh`
 
 Check the generated folders in `run`and then run `sh submit.sh`
 
+For Wzx, Wzz and WaaL, it is the same procedure, just `/work3/idamei/waal_blast/`
+
 ### Parsing Blast results
 To parse the blast expansion output files run `python3 src/data-collection-and-preprocessing/parse-blast-results.py`
 
@@ -80,6 +82,25 @@ Each file is uploaded to NCBI batch entry and the gp files are downloaded and sa
 To retrieve serotypes for the blast hits (the ones where available), run `python src/data-collection-and-preprocessing/get-serotypes.py`. This will create the file `data/wzy/blast-full-genbank/1e-15/hits-serotypes.tsv`.
 
 Then, to enrich with sugar data, run `python src/data-collection-and-preprocessing/enrich-blast-hits.py`. This will create the file `data/wzy/blast-full-genbank/1e-15/hits-enriched.tsv`.
+
+### GT66
+`data/gt66/GT66.txt` is downloaded from CAZy.
+
+To retrieve the sequences, run on the hpc `mkdir /work3/idamei/gt66`.
+
+Locally run `scp data/gt66/GT66.txt idamei@transfer.gbar.dtu.dk:/work3/idamei/gt66/`. 
+
+Then on the HPC, run `cut GT66.txt -f 4 /work3/idamei/gt66/GT66.txt > /work3/idamei/gt66/GT66_accessions.txt`, and `qrsh` and `blastdbcmd -db nr -entry_batch /work3/idamei/gt66/GT66_accessions.txt > /work3/idamei/gt66/GT66.fasta` and `muscle -super5 /work3/idamei/gt66/GT66.fasta -output /work3/idamei/gt66/GT66.afa`
+
+`python2 /work3/idamei/bin/seq2logo-2.1/Seq2Logo.py -f /work3/idamei/gt66/GT66.afa -m 0.0001 -b 0 -o /work3/idamei/gt66/GT66.logo  -p 640x1000 -l 30  -I 1`
+
+Then, locally run `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/gt66/GT66.fasta data/gt66/GT66.fasta`.
+
+`scp idamei@transfer.gbar.dtu.dk:/work3/idamei/gt66/GT66.fasta data/gt66/GT66.afa`
+
+`scp idamei@transfer.gbar.dtu.dk:/work3/idamei/gt66/GT66.fasta data/gt66/GT66.logo.eps`
+
+Convert logos to pdf: `ps2pdf -dEPSCrop data/gt66/GT66.logo.eps data/gt66/GT66.logo.pdf`
 
 ## All-vs-all blast
 

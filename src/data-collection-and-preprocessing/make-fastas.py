@@ -1,6 +1,7 @@
 import pandas as pd
 
-files = [('data/wzx/wzx.tsv', 'data/wzx/wzx.fasta'), ('data/wzy/wzy.tsv', 'data/wzy/wzy.fasta'), ('data/wzz/wzz.tsv', 'data/wzz/wzz.fasta')]
+files = [('data/wzx/wzx.tsv', 'data/wzx/wzx.fasta'), ('data/wzy/wzy.tsv', 'data/wzy/wzy.fasta'), \
+    ('data/wzz/wzz.tsv', 'data/wzz/wzz.fasta'), ('data/waal/waal.tsv', 'data/waal/waal.fasta')]
 
 for infilename, outfilename in files:
     tsv_file_df = pd.read_csv(infilename, sep='\t')
