@@ -1,0 +1,11 @@
+bsub < run/AAO71288.1/blast.sh
+bsub < run/AAV79366.1/blast.sh
+bsub < run/ACF62503.1/blast.sh
+bsub < run/ACF69468.1/blast.sh
+bsub < run/ACF92659.1/blast.sh
+bsub < run/CAR61594.1/blast.sh
+bsub < run/ACH77456.1/blast.sh
+bsub < run/CAR39498.1/blast.sh
+bsub < run/CAR10296.1/blast.sh
+bsub < run/BAI33254.1/blast.sh
+bsub < run/AAL22572.1/blast.sh
