@@ -4,7 +4,7 @@ import shutil
 
 chunk_number = 200
 
-work_dir = f"/work3/idamei/all-vs-all-blast"
+work_dir = f"/work3/idamei/wzy/all-vs-all-blast"
 
 # Make fasta with unique hits and seeds
 

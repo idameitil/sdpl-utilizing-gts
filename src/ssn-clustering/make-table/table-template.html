@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <style>
+td{
+    border: black solid 1px;
+    height: 1px;
+}
+td>div {
+    height: 100%;
+}
+    </style>
+</head>
+<body>
+    <table>
+        {% for cluster_chunks in cluster_groups %}
+        <tr>
+            {% for cluster in cluster_chunks %}
+            {% set cluster_name = cluster.cluster_name %}
+            {% set members_in_cluster = cluster.members_in_cluster %}
+            {% set conserved_residues = cluster.conserved_residues %}
+            {% set sugars = cluster.sugars %}
+            <td>
+                <div>
+                    <a href="#">{{cluster_name}}</a>
+                    <p>Members in cluster: {{members_in_cluster}}</p>
+                    <p>Conserved residues: {{conserved_residues}} </p>
+                    {% for sugar in sugars %}
+                        <img src="{{sugar}}" alt="">
+                    {% endfor %}
+                </div>
+            </td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>
