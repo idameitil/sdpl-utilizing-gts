@@ -118,7 +118,7 @@ This will create the folder `data/wzy/ssn-clusterings/[timestamp]` which contain
 
 On the HPC, run `sh /work3/idamei/wzy/ssn-clusterings/[timestamp]/submit.sh`.
 
-When all jobs are finished (check with bstat), run locally: `sh /work3/idamei/wzy/ssn-clusterings/[timestamp]/submit2.sh`
+When all jobs are finished (check with bstat), run locally: `sh src/ssn-clustering/cluster2.sh [timestamp]`
 
 Push changes.
 
@@ -136,7 +136,9 @@ The MUSCLE tree is generated at: `https://www.ebi.ac.uk/Tools/msa/muscle/` by up
 ### Ligase alignment
 To align Wzy alphafold models from different clusters with the O-antigen ligase (WaaL) and compare conserved arginines, run `pymol src/pymol-visualization/ligase-alignment.pml`.
 
-## GT66
+## GT66 analysis
+
+### Complete family analysis
 `data/gt66/GT66.fasta` was received from Bernard.
 
 To filter based on length and allowed characters, run `python src/data-collection-and-preprocessing/filter-gt66.py`.
@@ -154,6 +156,17 @@ To make the logoplot, run on the HPC (still with qrsh) `python2 /work3/idamei/bi
 `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/gt66/logo data/gt66/`
 
 Convert logos to pdf: `ps2pdf -dEPSCrop data/gt66/logo/GT66-filtered-cdhit99.logo.eps data/gt66/GT66.logo.pdf`
+
+### Subfamily analysis
+To prepare for alignments and logoplots, run: `python src/gt66-analysis/prepare-alignments.py`
+
+Then copy to the HPC: `scp -r data/gt66/subfamilies idamei@transfer.gbar.dtu.dk:/work3/idamei/gt66/`
+
+On the HPC, run `sh /work3/idamei/gt66/subfamilies/submit.sh`
+
+When all jobs are finished, download the results: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/gt66/subfamilies data/gt66/`
+
+Then convert the logos to pdf: `python src/gt66-analysis/convert-logos-to-pdf.py`
 
 ## WaaL
 
