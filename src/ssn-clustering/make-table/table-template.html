@@ -3,40 +3,50 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Page Title</title>
+    <title>{{ssn_clustering_id}} - WZY SSN Clusters</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <style>
-td{
-    border: black solid 1px;
-    height: 1px;
+.table{
+    display: flex;
+    flex-direction: column;
 }
-td>div {
-    height: 100%;
+.row{
+    display: flex;
+    border-bottom: solid 1px black;
+    margin-top: 15px;
+}
+.column{
+    display: flex;
+    flex-direction: column;
+    width: 330px;
+    padding: 0 15px;
+}
+.column>img{
+    width: 100%;
+    max-width: fit-content;
 }
     </style>
 </head>
 <body>
-    <table>
+    <div class="table">
         {% for cluster_chunks in cluster_groups %}
-        <tr>
+        <div class="row">
             {% for cluster in cluster_chunks %}
-            {% set cluster_name = cluster.cluster_name %}
-            {% set members_in_cluster = cluster.members_in_cluster %}
+            {% set cluster_name = cluster.name %}
+            {% set members_in_cluster = cluster.size %}
             {% set conserved_residues = cluster.conserved_residues %}
             {% set sugars = cluster.sugars %}
-            <td>
-                <div>
-                    <a href="#">{{cluster_name}}</a>
-                    <p>Members in cluster: {{members_in_cluster}}</p>
-                    <p>Conserved residues: {{conserved_residues}} </p>
-                    {% for sugar in sugars %}
-                        <img src="{{sugar}}" alt="">
-                    {% endfor %}
-                </div>
-            </td>
+            <div class="column">
+                <p>Cluster {{cluster_name}}</p>
+                <p>Members in cluster: {{members_in_cluster}}</p>
+                <p>Conserved residues: {{conserved_residues}} </p>
+                {% for sugar in sugars %}
+                    <img src="{{sugar}}" alt="">
+                {% endfor %}
+            </div>
             {% endfor %}
-        </tr>
+        </div>
         {% endfor %}
-    </table>
+    </div>
 </body>
 </html>

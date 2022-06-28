@@ -15,3 +15,6 @@ pandoc data/wzy/ssn-clusterings/$1/report.md -o data/wzy/ssn-clusterings/$1/repo
 
 echo "\n*** GENERATING PYMOL SCRIPT ***\n"
 python src/ssn-clustering/make-pymol-script.py $1
+
+echo "\n*** GENERATING SSN TABLE ***\n"
+python /Users/idamei/phd/src/ssn-clustering/make-table.py $1
