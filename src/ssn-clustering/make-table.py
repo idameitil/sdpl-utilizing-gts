@@ -13,7 +13,6 @@ def make_table(ssn_clustering_id):
     jinja_env = Environment(
         loader=FileSystemLoader("src/ssn-clustering/make-table"),
         autoescape=select_autoescape())
-    
 
     html_jinja_template = jinja_env.get_template("table-template.html")
 
