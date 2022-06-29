@@ -40,7 +40,9 @@ Number of different taxons before and after expansion:
 
 Total number of members in cluster: 548
 
-#### Conserved resiudes: Y 160, Y 275, Y 295, Y 331, R 338, R 382, Y 383, D 415, S 418, N 473, T 479, S 506, T 508, S 512, D 538, R 578
+#### Conserved (non-aliphatic) residues:
+
+Y 160, Y 275, Y 295, Y 331, R 338, R 382, Y 383, D 415, S 418, N 473, T 479, S 506, T 508, S 512, D 538, R 578
 
 #### Seeds in cluster:
 
@@ -174,7 +176,9 @@ Total number of members in cluster: 548
 
 Total number of members in cluster: 478
 
-#### Conserved resiudes: R 824, R 1156, D 1224
+#### Conserved (non-aliphatic) residues:
+
+R 824, R 1156, D 1224
 
 #### Seeds in cluster:
 
@@ -205,59 +209,59 @@ Total number of members in cluster: 478
 
 #### Sugars in cluster for seeds:
 
-CAI34328.1:
+CAI34519.1:
 
-![](../../../csdb/images/7097.gif)
+![](../../../csdb/images/25003.gif)
 
-7097
-
-CAI34657.1:
-
-![](../../../csdb/images/25005.gif)
-
-25005
-
-CAI34286.1:
-
-![](../../../csdb/images/1611.gif)
-
-1611
+CSDB record ID: 25003
 
 CAI34080.1:
 
 ![](../../../csdb/images/1227.gif)
 
-1227
+CSDB record ID: 1227
 
-CAI34519.1:
+CAI34657.1:
 
-![](../../../csdb/images/25003.gif)
+![](../../../csdb/images/25005.gif)
 
-25003
-
-CAI33309.1:
-
-![](../../../csdb/images/7061.gif)
-
-7061
-
-CAI34310.1:
-
-![](../../../csdb/images/1609.gif)
-
-1609
-
-CAI34348.1:
-
-![](../../../csdb/images/7095.gif)
-
-7095
+CSDB record ID: 25005
 
 CAI33441.1:
 
 ![](../../../csdb/images/1490.gif)
 
-1490
+CSDB record ID: 1490
+
+CAI34348.1:
+
+![](../../../csdb/images/7095.gif)
+
+CSDB record ID: 7095
+
+CAI33309.1:
+
+![](../../../csdb/images/7061.gif)
+
+CSDB record ID: 7061
+
+CAI34310.1:
+
+![](../../../csdb/images/1609.gif)
+
+CSDB record ID: 1609
+
+CAI34286.1:
+
+![](../../../csdb/images/1611.gif)
+
+CSDB record ID: 1611
+
+CAI34328.1:
+
+![](../../../csdb/images/7097.gif)
+
+CSDB record ID: 7097
 
 #### Sugars in cluster for blast hits:
 
@@ -343,7 +347,9 @@ CAI33441.1:
 
 Total number of members in cluster: 270
 
-#### Conserved resiudes: D 199, Y 205, R 351, H 393, R 664
+#### Conserved (non-aliphatic) residues:
+
+D 199, Y 205, R 351, H 393, R 664
 
 #### Seeds in cluster:
 
@@ -373,47 +379,47 @@ Total number of members in cluster: 270
 
 #### Sugars in cluster for seeds:
 
-AFW04883.1:
+AQU71752.1:
 
-![](../../../csdb/images/701.gif)
+![](../../../csdb/images/7222.gif)
 
-701
+CSDB record ID: 7222
 
 AFW04820.1:
 
 ![](../../../csdb/images/2600.gif)
 
-2600
-
-AQU71752.1:
-
-![](../../../csdb/images/7222.gif)
-
-7222
-
-ABX51892.1:
-
-![](../../../csdb/images/27572.gif)
-
-27572
+CSDB record ID: 2600
 
 BAQ01024.1:
 
 ![](../../../csdb/images/1558.gif)
 
-1558
-
-ADC54967.1:
-
-![](../../../csdb/images/619.gif)
-
-619
+CSDB record ID: 1558
 
 BAQ00622.1:
 
 ![](../../../csdb/images/1512.gif)
 
-1512
+CSDB record ID: 1512
+
+ADC54967.1:
+
+![](../../../csdb/images/619.gif)
+
+CSDB record ID: 619
+
+ABX51892.1:
+
+![](../../../csdb/images/27572.gif)
+
+CSDB record ID: 27572
+
+AFW04883.1:
+
+![](../../../csdb/images/701.gif)
+
+CSDB record ID: 701
 
 #### Sugars in cluster for blast hits:
 
@@ -504,7 +510,9 @@ BAQ00622.1:
 
 Total number of members in cluster: 258
 
-#### Conserved resiudes: Y 503, R 506, Y 533, K 582, R 709, N 814
+#### Conserved (non-aliphatic) residues:
+
+Y 503, R 506, Y 533, K 582, R 709, N 814
 
 #### Seeds in cluster:
 
@@ -527,17 +535,17 @@ Total number of members in cluster: 258
 
 #### Sugars in cluster for seeds:
 
-BAQ00780.1:
-
-![](../../../csdb/images/1539.gif)
-
-1539
-
 CDF66396.1:
 
 ![](../../../csdb/images/12130.gif)
 
-12130
+CSDB record ID: 12130
+
+BAQ00780.1:
+
+![](../../../csdb/images/1539.gif)
+
+CSDB record ID: 1539
 
 #### Sugars in cluster for blast hits:
 
@@ -659,7 +667,9 @@ CDF66396.1:
 
 Total number of members in cluster: 240
 
-#### Conserved resiudes: R 234, D 240, Y 244, R 417, Q 418, H 459, Y 578, R 627, D 710, R 711
+#### Conserved (non-aliphatic) residues:
+
+R 234, D 240, Y 244, R 417, Q 418, H 459, Y 578, R 627, D 710, R 711
 
 #### Seeds in cluster:
 
@@ -687,7 +697,7 @@ AHB32215.1:
 
 ![](../../../csdb/images/2091.gif)
 
-2091
+CSDB record ID: 2091
 
 #### Sugars in cluster for blast hits:
 
@@ -800,7 +810,9 @@ AHB32215.1:
 
 Total number of members in cluster: 152
 
-#### Conserved resiudes: R 593, Y 633, D 664
+#### Conserved (non-aliphatic) residues:
+
+R 593, Y 633, D 664
 
 #### Seeds in cluster:
 
@@ -824,17 +836,17 @@ Total number of members in cluster: 152
 
 #### Sugars in cluster for seeds:
 
-CAI34150.1:
-
-![](../../../csdb/images/848.gif)
-
-848
-
 CAI34124.1:
 
 ![](../../../csdb/images/918.gif)
 
-918
+CSDB record ID: 918
+
+CAI34150.1:
+
+![](../../../csdb/images/848.gif)
+
+CSDB record ID: 848
 
 #### Sugars in cluster for blast hits:
 
@@ -907,7 +919,9 @@ CAI34124.1:
 
 Total number of members in cluster: 139
 
-#### Conserved resiudes: R 401, Y 510, N 608, D 619
+#### Conserved (non-aliphatic) residues:
+
+R 401, Y 510, N 608, D 619
 
 #### Seeds in cluster:
 
@@ -937,31 +951,31 @@ VOS41126.1, CAI33631.1:
 
 ![](../../../csdb/images/740.gif)
 
-740
-
-CAI32823.1, AAL82786.1:
-
-![](../../../csdb/images/1087.gif)
-
-1087
-
-CMX58981.1, VSB76654.1, CAI33700.1, VNC99741.1:
-
-![](../../../csdb/images/739.gif)
-
-739
+CSDB record ID: 740
 
 CAI32843.1:
 
 ![](../../../csdb/images/937.gif)
 
-937
+CSDB record ID: 937
 
-VMG48693.1, CAI34269.1:
+VNC99741.1, VSB76654.1, CAI33700.1, CMX58981.1:
+
+![](../../../csdb/images/739.gif)
+
+CSDB record ID: 739
+
+CAI34269.1, VMG48693.1:
 
 ![](../../../csdb/images/7043.gif)
 
-7043
+CSDB record ID: 7043
+
+AAL82786.1, CAI32823.1:
+
+![](../../../csdb/images/1087.gif)
+
+CSDB record ID: 1087
 
 #### Sugars in cluster for blast hits:
 
@@ -969,7 +983,7 @@ VJK41440.1:
 
 ![](../../../csdb/images/3661.gif)
 
-3661
+CSDB record ID: 3661
 
 #### Alphafold models:
 
@@ -1037,7 +1051,9 @@ VJK41440.1:
 
 Total number of members in cluster: 136
 
-#### Conserved resiudes: R 292, R 364, Y 423, Y 425, N 432
+#### Conserved (non-aliphatic) residues:
+
+R 292, R 364, Y 423, Y 425, N 432
 
 #### Seeds in cluster:
 
@@ -1066,13 +1082,13 @@ AAX07747.1, AFC91419.1, AFC91458.1:
 
 ![](../../../csdb/images/1552.gif)
 
-1552
+CSDB record ID: 1552
 
 AHB32411.1:
 
 ![](../../../csdb/images/27746.gif)
 
-27746
+CSDB record ID: 27746
 
 #### Sugars in cluster for blast hits:
 
@@ -1145,7 +1161,9 @@ AHB32411.1:
 
 Total number of members in cluster: 134
 
-#### Conserved resiudes: R 163, D 170, Y 175, R 298, H 336, R 561
+#### Conserved (non-aliphatic) residues:
+
+R 163, D 170, Y 175, R 298, H 336, R 561
 
 #### Seeds in cluster:
 
@@ -1173,13 +1191,13 @@ CAI33718.1:
 
 ![](../../../csdb/images/1928.gif)
 
-1928
+CSDB record ID: 1928
 
-AHB32715.1, AHB32637.1:
+AHB32637.1, AHB32715.1:
 
 ![](../../../csdb/images/563.gif)
 
-563
+CSDB record ID: 563
 
 #### Sugars in cluster for blast hits:
 
@@ -1187,7 +1205,7 @@ VLD07009.1:
 
 ![](../../../csdb/images/7079.gif)
 
-7079
+CSDB record ID: 7079
 
 #### Alphafold models:
 
@@ -1251,7 +1269,9 @@ VLD07009.1:
 
 Total number of members in cluster: 129
 
-#### Conserved resiudes: R 250, K 324, R 402, K 516
+#### Conserved (non-aliphatic) residues:
+
+R 250, K 324, R 402, K 516
 
 #### Seeds in cluster:
 
@@ -1275,23 +1295,23 @@ Total number of members in cluster: 129
 
 #### Sugars in cluster for seeds:
 
+BAQ00569.1:
+
+![](../../../csdb/images/3191.gif)
+
+CSDB record ID: 3191
+
 AFN02899.1:
 
 ![](../../../csdb/images/704.gif)
 
-704
+CSDB record ID: 704
 
 AAT77177.1:
 
 ![](../../../csdb/images/1854.gif)
 
-1854
-
-BAQ00569.1:
-
-![](../../../csdb/images/3191.gif)
-
-3191
+CSDB record ID: 1854
 
 #### Sugars in cluster for blast hits:
 
@@ -1361,7 +1381,9 @@ BAQ00569.1:
 
 Total number of members in cluster: 129
 
-#### Conserved resiudes: D 33, R 42, Y 118, K 120, Q 159, S 199, E 200, Q 204, Y 206, R 207, T 212, S 220, R 261, S 270, Y 274, Y 283, H 310, E 313, N 317, S 345, Q 361, D 366, Y 369, Y 380, Y 381, D 385, S 386, R 390, Q 391, Y 394, Y 399, S 430, K 441, D 443
+#### Conserved (non-aliphatic) residues:
+
+D 33, R 42, Y 118, K 120, Q 159, S 199, E 200, Q 204, Y 206, R 207, T 212, S 220, R 261, S 270, Y 274, Y 283, H 310, E 313, N 317, S 345, Q 361, D 366, Y 369, Y 380, Y 381, D 385, S 386, R 390, Q 391, Y 394, Y 399, S 430, K 441, D 443
 
 #### Seeds in cluster:
 
@@ -1387,7 +1409,7 @@ BAQ00795.1:
 
 ![](../../../csdb/images/1401.gif)
 
-1401
+CSDB record ID: 1401
 
 #### Sugars in cluster for blast hits:
 
@@ -1395,7 +1417,7 @@ QEH45435.1:
 
 ![](../../../csdb/images/27705.gif)
 
-27705
+CSDB record ID: 27705
 
 #### Alphafold models:
 
@@ -1433,7 +1455,9 @@ QEH45435.1:
 
 Total number of members in cluster: 119
 
-#### Conserved resiudes: R 501, N 502, E 508, S 685
+#### Conserved (non-aliphatic) residues:
+
+R 501, N 502, E 508, S 685
 
 #### Seeds in cluster:
 
@@ -1459,35 +1483,35 @@ Total number of members in cluster: 119
 
 #### Sugars in cluster for seeds:
 
-CAI34217.1:
-
-![](../../../csdb/images/7093.gif)
-
-7093
-
-CAI34198.1:
-
-![](../../../csdb/images/7092.gif)
-
-7092
-
 VIU37569.1, CAI34236.1:
 
 ![](../../../csdb/images/7094.gif)
 
-7094
+CSDB record ID: 7094
 
-CAI34254.1, VQJ42306.1:
+VQJ42306.1, CAI34254.1:
 
 ![](../../../csdb/images/1965.gif)
 
-1965
+CSDB record ID: 1965
 
 CAI34177.1:
 
 ![](../../../csdb/images/7091.gif)
 
-7091
+CSDB record ID: 7091
+
+CAI34217.1:
+
+![](../../../csdb/images/7093.gif)
+
+CSDB record ID: 7093
+
+CAI34198.1:
+
+![](../../../csdb/images/7092.gif)
+
+CSDB record ID: 7092
 
 #### Sugars in cluster for blast hits:
 
@@ -1542,7 +1566,9 @@ CAI34177.1:
 
 Total number of members in cluster: 107
 
-#### Conserved resiudes: Q 243, R 291, R 356, S 480, D 537, R 542
+#### Conserved (non-aliphatic) residues:
+
+Q 243, R 291, R 356, S 480, D 537, R 542
 
 #### Seeds in cluster:
 
@@ -1568,23 +1594,23 @@ Total number of members in cluster: 107
 
 #### Sugars in cluster for seeds:
 
-AFW04847.1:
-
-![](../../../csdb/images/3362.gif)
-
-3362
-
 ACA24764.1, ACA24754.1:
 
 ![](../../../csdb/images/1885.gif)
 
-1885
+CSDB record ID: 1885
 
 BAQ02088.1:
 
 ![](../../../csdb/images/1934.gif)
 
-1934
+CSDB record ID: 1934
+
+AFW04847.1:
+
+![](../../../csdb/images/3362.gif)
+
+CSDB record ID: 3362
 
 #### Sugars in cluster for blast hits:
 
@@ -1649,7 +1675,9 @@ BAQ02088.1:
 
 Total number of members in cluster: 91
 
-#### Conserved resiudes: D 344, E 408, R 538
+#### Conserved (non-aliphatic) residues:
+
+D 344, E 408, R 538
 
 #### Seeds in cluster:
 
@@ -1676,13 +1704,13 @@ CAI32935.1:
 
 ![](../../../csdb/images/1949.gif)
 
-1949
+CSDB record ID: 1949
 
 CAI32867.1:
 
 ![](../../../csdb/images/2624.gif)
 
-2624
+CSDB record ID: 2624
 
 #### Sugars in cluster for blast hits:
 
@@ -1732,7 +1760,9 @@ CAI32867.1:
 
 Total number of members in cluster: 89
 
-#### Conserved resiudes: Q 78, R 249, R 295, E 364, Q 399, K 406, T 462, H 519
+#### Conserved (non-aliphatic) residues:
+
+Q 78, R 249, R 295, E 364, Q 399, K 406, T 462, H 519
 
 #### Seeds in cluster:
 
@@ -1758,7 +1788,7 @@ WP_097449287.1:
 
 ![](../../../csdb/images/699.gif)
 
-699
+CSDB record ID: 699
 
 #### Sugars in cluster for blast hits:
 
@@ -1814,7 +1844,9 @@ WP_097449287.1:
 
 Total number of members in cluster: 83
 
-#### Conserved resiudes: Y 264, R 345, R 421
+#### Conserved (non-aliphatic) residues:
+
+Y 264, R 345, R 421
 
 #### Seeds in cluster:
 
@@ -1845,25 +1877,25 @@ BAQ02048.1:
 
 ![](../../../csdb/images/1929.gif)
 
-1929
-
-ABF01010.1:
-
-![](../../../csdb/images/1537.gif)
-
-1537
-
-AAM27546.1:
-
-![](../../../csdb/images/6636.gif)
-
-6636
+CSDB record ID: 1929
 
 ACK44379.1:
 
 ![](../../../csdb/images/1549.gif)
 
-1549
+CSDB record ID: 1549
+
+AAM27546.1:
+
+![](../../../csdb/images/6636.gif)
+
+CSDB record ID: 6636
+
+ABF01010.1:
+
+![](../../../csdb/images/1537.gif)
+
+CSDB record ID: 1537
 
 #### Sugars in cluster for blast hits:
 
@@ -1910,7 +1942,9 @@ ACK44379.1:
 
 Total number of members in cluster: 82
 
-#### Conserved resiudes: E 271, S 273, Y 377, R 381, N 393, N 457, D 460, K 467, E 471
+#### Conserved (non-aliphatic) residues:
+
+E 271, S 273, Y 377, R 381, N 393, N 457, D 460, K 467, E 471
 
 #### Seeds in cluster:
 
@@ -1933,17 +1967,17 @@ Total number of members in cluster: 82
 
 #### Sugars in cluster for seeds:
 
-ADC84238.1, ADI43263.1:
-
-![](../../../csdb/images/12694.gif)
-
-12694
-
 ADR74237.1:
 
 ![](../../../csdb/images/1848.gif)
 
-1848
+CSDB record ID: 1848
+
+ADI43263.1, ADC84238.1:
+
+![](../../../csdb/images/12694.gif)
+
+CSDB record ID: 12694
 
 #### Sugars in cluster for blast hits:
 
@@ -1994,7 +2028,9 @@ ADR74237.1:
 
 Total number of members in cluster: 71
 
-#### Conserved resiudes: R 320, R 321, R 460, Q 463, R 498, E 507, Y 510
+#### Conserved (non-aliphatic) residues:
+
+R 320, R 321, R 460, Q 463, R 498, E 507, Y 510
 
 #### Seeds in cluster:
 
@@ -2019,29 +2055,29 @@ Total number of members in cluster: 71
 
 #### Sugars in cluster for seeds:
 
+AAZ85713.1:
+
+![](../../../csdb/images/1880.gif)
+
+CSDB record ID: 1880
+
 AAM27615.1:
 
 ![](../../../csdb/images/24042.gif)
 
-24042
+CSDB record ID: 24042
 
 AAM27645.1:
 
 ![](../../../csdb/images/3929.gif)
 
-3929
+CSDB record ID: 3929
 
 AAM27766.1:
 
 ![](../../../csdb/images/24032.gif)
 
-24032
-
-AAZ85713.1:
-
-![](../../../csdb/images/1880.gif)
-
-1880
+CSDB record ID: 24032
 
 #### Sugars in cluster for blast hits:
 
@@ -2095,7 +2131,9 @@ AAZ85713.1:
 
 Total number of members in cluster: 67
 
-#### Conserved resiudes: R 189, K 255, R 301, Y 326, N 393, D 404, Y 441
+#### Conserved (non-aliphatic) residues:
+
+R 189, K 255, R 301, Y 326, N 393, D 404, Y 441
 
 #### Seeds in cluster:
 
@@ -2120,29 +2158,29 @@ Total number of members in cluster: 67
 
 #### Sugars in cluster for seeds:
 
-BAQ00687.1:
+BAQ01732.1:
 
-![](../../../csdb/images/1521.gif)
+![](../../../csdb/images/1884.gif)
 
-1521
+CSDB record ID: 1884
 
 BAQ00669.1:
 
 ![](../../../csdb/images/1524.gif)
 
-1524
+CSDB record ID: 1524
 
 ADC54950.1:
 
 ![](../../../csdb/images/20645.gif)
 
-20645
+CSDB record ID: 20645
 
-BAQ01732.1:
+BAQ00687.1:
 
-![](../../../csdb/images/1884.gif)
+![](../../../csdb/images/1521.gif)
 
-1884
+CSDB record ID: 1521
 
 #### Sugars in cluster for blast hits:
 
@@ -2150,7 +2188,7 @@ ARD51912.1:
 
 ![](../../../csdb/images/1574.gif)
 
-1574
+CSDB record ID: 1574
 
 #### Alphafold models:
 
@@ -2186,7 +2224,9 @@ ARD51912.1:
 
 Total number of members in cluster: 66
 
-#### Conserved resiudes: D 220, S 252, R 256, K 321, R 325, R 401, Q 403
+#### Conserved (non-aliphatic) residues:
+
+D 220, S 252, R 256, K 321, R 325, R 401, Q 403
 
 #### Seeds in cluster:
 
@@ -2220,47 +2260,47 @@ Total number of members in cluster: 66
 
 #### Sugars in cluster for seeds:
 
-AJR19430.1, BAQ02068.1:
-
-![](../../../csdb/images/1933.gif)
-
-1933
-
 BAQ00758.1:
 
 ![](../../../csdb/images/736.gif)
 
-736
-
-BAQ02224.1, ABG81806.1:
-
-![](../../../csdb/images/697.gif)
-
-697
-
-AAD44158.1, BAH24292.1:
-
-![](../../../csdb/images/1385.gif)
-
-1385
+CSDB record ID: 736
 
 AFC91514.1, AFC91570.1, AAO39700.1, AFC91472.1:
 
 ![](../../../csdb/images/1861.gif)
 
-1861
-
-BAQ00879.1:
-
-![](../../../csdb/images/1383.gif)
-
-1383
+CSDB record ID: 1861
 
 AAR97964.1:
 
 ![](../../../csdb/images/108660.gif)
 
-108660
+CSDB record ID: 108660
+
+BAQ00879.1:
+
+![](../../../csdb/images/1383.gif)
+
+CSDB record ID: 1383
+
+ABG81806.1, BAQ02224.1:
+
+![](../../../csdb/images/697.gif)
+
+CSDB record ID: 697
+
+BAH24292.1, AAD44158.1:
+
+![](../../../csdb/images/1385.gif)
+
+CSDB record ID: 1385
+
+AJR19430.1, BAQ02068.1:
+
+![](../../../csdb/images/1933.gif)
+
+CSDB record ID: 1933
 
 #### Sugars in cluster for blast hits:
 
@@ -2308,7 +2348,9 @@ AAR97964.1:
 
 Total number of members in cluster: 66
 
-#### Conserved resiudes: R 188, K 218, D 226, S 227, N 228, S 281, R 282, D 367, S 369, K 373, H 414, E 423
+#### Conserved (non-aliphatic) residues:
+
+R 188, K 218, D 226, S 227, N 228, S 281, R 282, D 367, S 369, K 373, H 414, E 423
 
 #### Seeds in cluster:
 
@@ -2338,47 +2380,47 @@ Total number of members in cluster: 66
 
 #### Sugars in cluster for seeds:
 
-AFW04741.1:
-
-![](../../../csdb/images/30351.gif)
-
-30351
-
-BAQ01494.1, AFS33314.1:
+AFS33314.1, BAQ01494.1:
 
 ![](../../../csdb/images/1841.gif)
 
-1841
-
-BAQ00975.1:
-
-![](../../../csdb/images/1555.gif)
-
-1555
-
-ACD37014.1:
-
-![](../../../csdb/images/1852.gif)
-
-1852
+CSDB record ID: 1841
 
 ACD37006.1:
 
 ![](../../../csdb/images/1869.gif)
 
-1869
+CSDB record ID: 1869
 
 ACD37157.1:
 
 ![](../../../csdb/images/1871.gif)
 
-1871
+CSDB record ID: 1871
+
+BAQ00975.1:
+
+![](../../../csdb/images/1555.gif)
+
+CSDB record ID: 1555
+
+AFW04741.1:
+
+![](../../../csdb/images/30351.gif)
+
+CSDB record ID: 30351
+
+ACD37014.1:
+
+![](../../../csdb/images/1852.gif)
+
+CSDB record ID: 1852
 
 BAQ00846.1:
 
 ![](../../../csdb/images/1544.gif)
 
-1544
+CSDB record ID: 1544
 
 #### Sugars in cluster for blast hits:
 
@@ -2424,7 +2466,9 @@ BAQ00846.1:
 
 Total number of members in cluster: 59
 
-#### Conserved resiudes: R 65, D 71, Y 75, E 101, R 168, H 214, Y 288, R 371, Y 443
+#### Conserved (non-aliphatic) residues:
+
+R 65, D 71, Y 75, E 101, R 168, H 214, Y 288, R 371, Y 443
 
 #### Seeds in cluster:
 
@@ -2451,29 +2495,29 @@ Total number of members in cluster: 59
 
 #### Sugars in cluster for seeds:
 
-ADN43894.1:
-
-![](../../../csdb/images/3159.gif)
-
-3159
-
-ADQ37335.1:
-
-![](../../../csdb/images/1858.gif)
-
-1858
-
-ACA24811.1, ACA24821.1:
+ACA24821.1, ACA24811.1:
 
 ![](../../../csdb/images/1893.gif)
 
-1893
+CSDB record ID: 1893
 
 ADQ37322.1:
 
 ![](../../../csdb/images/1892.gif)
 
-1892
+CSDB record ID: 1892
+
+ADQ37335.1:
+
+![](../../../csdb/images/1858.gif)
+
+CSDB record ID: 1858
+
+ADN43894.1:
+
+![](../../../csdb/images/3159.gif)
+
+CSDB record ID: 3159
 
 #### Sugars in cluster for blast hits:
 
@@ -2515,7 +2559,9 @@ ADQ37322.1:
 
 Total number of members in cluster: 59
 
-#### Conserved resiudes: Q 75, D 81, Y 82, Y 85, E 106, N 178, R 181, H 216, Y 292, K 314, R 380
+#### Conserved (non-aliphatic) residues:
+
+Q 75, D 81, Y 82, Y 85, E 106, N 178, R 181, H 216, Y 292, K 314, R 380
 
 #### Seeds in cluster:
 
@@ -2542,7 +2588,7 @@ ACH97162.1:
 
 ![](../../../csdb/images/1529.gif)
 
-1529
+CSDB record ID: 1529
 
 #### Sugars in cluster for blast hits:
 
@@ -2585,7 +2631,9 @@ ACH97162.1:
 
 Total number of members in cluster: 58
 
-#### Conserved resiudes: Q 170, D 185, R 198, R 212, E 219, S 262, R 313, D 322, S 324, K 328, D 366, K 413
+#### Conserved (non-aliphatic) residues:
+
+Q 170, D 185, R 198, R 212, E 219, S 262, R 313, D 322, S 324, K 328, D 366, K 413
 
 #### Seeds in cluster:
 
@@ -2612,41 +2660,41 @@ Total number of members in cluster: 58
 
 #### Sugars in cluster for seeds:
 
-CAN87666.1:
-
-![](../../../csdb/images/1552.gif)
-
-1552
-
 BAQ00994.1:
 
 ![](../../../csdb/images/1556.gif)
 
-1556
-
-ADC54974.1:
-
-![](../../../csdb/images/1591.gif)
-
-1591
-
-AFW04837.1:
-
-![](../../../csdb/images/26312.gif)
-
-26312
+CSDB record ID: 1556
 
 BAQ01917.1:
 
 ![](../../../csdb/images/1917.gif)
 
-1917
+CSDB record ID: 1917
+
+ADC54974.1:
+
+![](../../../csdb/images/1591.gif)
+
+CSDB record ID: 1591
+
+CAN87666.1:
+
+![](../../../csdb/images/1552.gif)
+
+CSDB record ID: 1552
+
+AFW04837.1:
+
+![](../../../csdb/images/26312.gif)
+
+CSDB record ID: 26312
 
 AFW04828.1:
 
 ![](../../../csdb/images/3367.gif)
 
-3367
+CSDB record ID: 3367
 
 #### Sugars in cluster for blast hits:
 
@@ -2681,7 +2729,9 @@ AFW04828.1:
 
 Total number of members in cluster: 51
 
-#### Conserved resiudes: S 57, R 84, S 101, D 114, E 146, R 221, Q 222, H 255, K 320, R 399
+#### Conserved (non-aliphatic) residues:
+
+S 57, R 84, S 101, D 114, E 146, R 221, Q 222, H 255, K 320, R 399
 
 #### Seeds in cluster:
 
@@ -2709,7 +2759,7 @@ ABI55342.1:
 
 ![](../../../csdb/images/714.gif)
 
-714
+CSDB record ID: 714
 
 #### Sugars in cluster for blast hits:
 
@@ -2743,7 +2793,9 @@ ABI55342.1:
 
 Total number of members in cluster: 48
 
-#### Conserved resiudes: D 86, Y 90, E 195, R 337, E 373, N 439, R 445
+#### Conserved (non-aliphatic) residues:
+
+D 86, Y 90, E 195, R 337, E 373, N 439, R 445
 
 #### Seeds in cluster:
 
@@ -2767,17 +2819,17 @@ Total number of members in cluster: 48
 
 #### Sugars in cluster for seeds:
 
-AAN23078.1:
-
-![](../../../csdb/images/12135.gif)
-
-12135
-
 AAN23057.1:
 
 ![](../../../csdb/images/12136.gif)
 
-12136
+CSDB record ID: 12136
+
+AAN23078.1:
+
+![](../../../csdb/images/12135.gif)
+
+CSDB record ID: 12135
 
 #### Sugars in cluster for blast hits:
 
@@ -2819,7 +2871,9 @@ AAN23057.1:
 
 Total number of members in cluster: 46
 
-#### Conserved resiudes: R 160, Y 163, T 166, R 167, S 177, K 216, Y 304, D 306, R 309, N 310, E 331, R 340, K 346, D 381, E 440
+#### Conserved (non-aliphatic) residues:
+
+R 160, Y 163, T 166, R 167, S 177, K 216, Y 304, D 306, R 309, N 310, E 331, R 340, K 346, D 381, E 440
 
 #### Seeds in cluster:
 
@@ -2848,29 +2902,29 @@ Total number of members in cluster: 46
 
 #### Sugars in cluster for seeds:
 
-AAO68867.1, WP_000905563.1:
-
-![](../../../csdb/images/21859.gif)
-
-21859
-
-CAR37642.1:
-
-![](../../../csdb/images/30403.gif)
-
-30403
-
 AAV77445.1, CAR59582.1:
 
 ![](../../../csdb/images/7418.gif)
 
-7418
+CSDB record ID: 7418
 
 AAL20257.1:
 
 ![](../../../csdb/images/30397.gif)
 
-30397
+CSDB record ID: 30397
+
+AAO68867.1, WP_000905563.1:
+
+![](../../../csdb/images/21859.gif)
+
+CSDB record ID: 21859
+
+CAR37642.1:
+
+![](../../../csdb/images/30403.gif)
+
+CSDB record ID: 30403
 
 #### Sugars in cluster for blast hits:
 
@@ -2904,7 +2958,9 @@ AAL20257.1:
 
 Total number of members in cluster: 45
 
-#### Conserved resiudes: D 82, D 109, R 191, H 228, S 230, Y 287, R 371, R 436
+#### Conserved (non-aliphatic) residues:
+
+D 82, D 109, R 191, H 228, S 230, Y 287, R 371, R 436
 
 #### Seeds in cluster:
 
@@ -2930,21 +2986,21 @@ ADI43271.1:
 
 ![](../../../csdb/images/1535.gif)
 
-1535
+CSDB record ID: 1535
 
 #### Sugars in cluster for blast hits:
-
-AXY99682.1:
-
-![](../../../csdb/images/20104.gif)
-
-20104
 
 CZQ24278.1:
 
 ![](../../../csdb/images/6079.gif)
 
-6079
+CSDB record ID: 6079
+
+AXY99682.1:
+
+![](../../../csdb/images/20104.gif)
+
+CSDB record ID: 20104
 
 #### Alphafold models:
 
@@ -2972,7 +3028,9 @@ CZQ24278.1:
 
 Total number of members in cluster: 43
 
-#### Conserved resiudes: Y 31, R 85, D 92, Y 96, N 203, Q 207, H 249, R 485
+#### Conserved (non-aliphatic) residues:
+
+Y 31, R 85, D 92, Y 96, N 203, Q 207, H 249, R 485
 
 #### Seeds in cluster:
 
@@ -2998,7 +3056,7 @@ CAI34008.1:
 
 ![](../../../csdb/images/7085.gif)
 
-7085
+CSDB record ID: 7085
 
 #### Sugars in cluster for blast hits:
 
@@ -3041,7 +3099,9 @@ CAI34008.1:
 
 Total number of members in cluster: 43
 
-#### Conserved resiudes: D 160, R 162, R 166, T 168, N 175, S 228, R 229, T 230, Q 283, R 307, Y 332, D 336, Y 344, E 386
+#### Conserved (non-aliphatic) residues:
+
+D 160, R 162, R 166, T 168, N 175, S 228, R 229, T 230, Q 283, R 307, Y 332, D 336, Y 344, E 386
 
 #### Seeds in cluster:
 
@@ -3065,23 +3125,23 @@ Total number of members in cluster: 43
 
 #### Sugars in cluster for seeds:
 
-BAQ01812.1:
-
-![](../../../csdb/images/1901.gif)
-
-1901
-
 BAQ00957.1:
 
 ![](../../../csdb/images/1554.gif)
 
-1554
+CSDB record ID: 1554
+
+BAQ01812.1:
+
+![](../../../csdb/images/1901.gif)
+
+CSDB record ID: 1901
 
 BAQ01687.1:
 
 ![](../../../csdb/images/1876.gif)
 
-1876
+CSDB record ID: 1876
 
 #### Sugars in cluster for blast hits:
 
@@ -3110,7 +3170,9 @@ BAQ01687.1:
 
 Total number of members in cluster: 42
 
-#### Conserved resiudes: R 264, N 449, D 461
+#### Conserved (non-aliphatic) residues:
+
+R 264, N 449, D 461
 
 #### Seeds in cluster:
 
@@ -3137,7 +3199,7 @@ CAI33798.1:
 
 ![](../../../csdb/images/625.gif)
 
-625
+CSDB record ID: 625
 
 #### Sugars in cluster for blast hits:
 
@@ -3177,7 +3239,9 @@ CAI33798.1:
 
 Total number of members in cluster: 41
 
-#### Conserved resiudes: Y 104, R 194, R 207, K 263, R 346, H 425, D 427
+#### Conserved (non-aliphatic) residues:
+
+Y 104, R 194, R 207, K 263, R 346, H 425, D 427
 
 #### Seeds in cluster:
 
@@ -3203,7 +3267,7 @@ ACD75796.1:
 
 ![](../../../csdb/images/1570.gif)
 
-1570
+CSDB record ID: 1570
 
 #### Sugars in cluster for blast hits:
 
@@ -3211,7 +3275,7 @@ AXY99492.1:
 
 ![](../../../csdb/images/5227.gif)
 
-5227
+CSDB record ID: 5227
 
 #### Alphafold models:
 
@@ -3245,7 +3309,9 @@ AXY99492.1:
 
 Total number of members in cluster: 41
 
-#### Conserved resiudes: Y 279, R 310, E 317, T 323, S 357, S 359, R 460, N 473, R 474
+#### Conserved (non-aliphatic) residues:
+
+Y 279, R 310, E 317, T 323, S 357, S 359, R 460, N 473, R 474
 
 #### Seeds in cluster:
 
@@ -3271,7 +3337,7 @@ AAK60458.1:
 
 ![](../../../csdb/images/895.gif)
 
-895
+CSDB record ID: 895
 
 #### Sugars in cluster for blast hits:
 
@@ -3306,7 +3372,9 @@ AAK60458.1:
 
 Total number of members in cluster: 40
 
-#### Conserved resiudes: Y 76, R 79, Q 176, K 179, Y 183, S 190, H 194, R 213, S 216, S 246, R 253, K 255, S 297, S 300, R 303, E 304, Y 313, D 319, S 320, Q 356, S 390, S 391, S 392, E 396, Y 413, R 449, E 451, K 461
+#### Conserved (non-aliphatic) residues:
+
+Y 76, R 79, Q 176, K 179, Y 183, S 190, H 194, R 213, S 216, S 246, R 253, K 255, S 297, S 300, R 303, E 304, Y 313, D 319, S 320, Q 356, S 390, S 391, S 392, E 396, Y 413, R 449, E 451, K 461
 
 #### Seeds in cluster:
 
@@ -3337,53 +3405,53 @@ Total number of members in cluster: 40
 
 #### Sugars in cluster for seeds:
 
-BAQ02105.1:
+BAQ02177.1, AAY23739.1:
 
-![](../../../csdb/images/1520.gif)
+![](../../../csdb/images/1583.gif)
 
-1520
-
-AKA20935.1:
-
-![](../../../csdb/images/12128.gif)
-
-12128
-
-AKA20966.1:
-
-![](../../../csdb/images/12129.gif)
-
-12129
-
-AAY23745.1:
-
-![](../../../csdb/images/1845.gif)
-
-1845
+CSDB record ID: 1583
 
 AAY23733.1:
 
 ![](../../../csdb/images/1578.gif)
 
-1578
-
-BAQ01935.1:
-
-![](../../../csdb/images/1918.gif)
-
-1918
-
-BAQ02177.1, AAY23739.1:
-
-![](../../../csdb/images/1583.gif)
-
-1583
+CSDB record ID: 1578
 
 BAQ00945.1:
 
 ![](../../../csdb/images/1551.gif)
 
-1551
+CSDB record ID: 1551
+
+AAY23745.1:
+
+![](../../../csdb/images/1845.gif)
+
+CSDB record ID: 1845
+
+AKA20935.1:
+
+![](../../../csdb/images/12128.gif)
+
+CSDB record ID: 12128
+
+BAQ02105.1:
+
+![](../../../csdb/images/1520.gif)
+
+CSDB record ID: 1520
+
+BAQ01935.1:
+
+![](../../../csdb/images/1918.gif)
+
+CSDB record ID: 1918
+
+AKA20966.1:
+
+![](../../../csdb/images/12129.gif)
+
+CSDB record ID: 12129
 
 #### Sugars in cluster for blast hits:
 
@@ -3411,7 +3479,9 @@ BAQ00945.1:
 
 Total number of members in cluster: 39
 
-#### Conserved resiudes: K 350, R 393, Y 411, K 440, D 456, T 462, T 476, Q 478, Y 486, R 540
+#### Conserved (non-aliphatic) residues:
+
+K 350, R 393, Y 411, K 440, D 456, T 462, T 476, Q 478, Y 486, R 540
 
 #### Seeds in cluster:
 
@@ -3438,7 +3508,7 @@ AAM27595.1:
 
 ![](../../../csdb/images/31934.gif)
 
-31934
+CSDB record ID: 31934
 
 #### Sugars in cluster for blast hits:
 
@@ -3471,7 +3541,9 @@ AAM27595.1:
 
 Total number of members in cluster: 37
 
-#### Conserved resiudes: K 257, R 311, Y 371, N 483, T 486, R 489, D 494, S 546
+#### Conserved (non-aliphatic) residues:
+
+K 257, R 311, Y 371, N 483, T 486, R 489, D 494, S 546
 
 #### Seeds in cluster:
 
@@ -3498,13 +3570,13 @@ AAM27560.1:
 
 ![](../../../csdb/images/11180.gif)
 
-11180
+CSDB record ID: 11180
 
 AAM27711.1:
 
 ![](../../../csdb/images/11026.gif)
 
-11026
+CSDB record ID: 11026
 
 #### Sugars in cluster for blast hits:
 
@@ -3537,7 +3609,9 @@ AAM27711.1:
 
 Total number of members in cluster: 37
 
-#### Conserved resiudes: N 160, S 247, R 343, H 399, E 455
+#### Conserved (non-aliphatic) residues:
+
+N 160, S 247, R 343, H 399, E 455
 
 #### Seeds in cluster:
 
@@ -3560,17 +3634,17 @@ Total number of members in cluster: 37
 
 #### Sugars in cluster for seeds:
 
-CAI33515.1, VIQ20135.1:
-
-![](../../../csdb/images/815.gif)
-
-815
-
 CAI33491.1:
 
 ![](../../../csdb/images/7070.gif)
 
-7070
+CSDB record ID: 7070
+
+CAI33515.1, VIQ20135.1:
+
+![](../../../csdb/images/815.gif)
+
+CSDB record ID: 815
 
 #### Sugars in cluster for blast hits:
 
@@ -3603,7 +3677,9 @@ CAI33491.1:
 
 Total number of members in cluster: 36
 
-#### Conserved resiudes: D 52, K 243, R 326, D 332, N 408, R 410, D 470
+#### Conserved (non-aliphatic) residues:
+
+D 52, K 243, R 326, D 332, N 408, R 410, D 470
 
 #### Seeds in cluster:
 
@@ -3660,7 +3736,9 @@ Total number of members in cluster: 36
 
 Total number of members in cluster: 36
 
-#### Conserved resiudes: R 190, D 201, Y 203, N 218, N 257, R 353, Q 356, Y 395, E 397, Q 399, Y 402, Q 406, Y 440, N 447, Y 449, D 452
+#### Conserved (non-aliphatic) residues:
+
+R 190, D 201, Y 203, N 218, N 257, R 353, Q 356, Y 395, E 397, Q 399, Y 402, Q 406, Y 440, N 447, Y 449, D 452
 
 #### Seeds in cluster:
 
@@ -3684,23 +3762,23 @@ Total number of members in cluster: 36
 
 #### Sugars in cluster for seeds:
 
-ABI98986.1:
-
-![](../../../csdb/images/1624.gif)
-
-1624
-
 ABE98437.1:
 
 ![](../../../csdb/images/1887.gif)
 
-1887
+CSDB record ID: 1887
+
+ABI98986.1:
+
+![](../../../csdb/images/1624.gif)
+
+CSDB record ID: 1624
 
 ABU80601.1:
 
 ![](../../../csdb/images/188.gif)
 
-188
+CSDB record ID: 188
 
 #### Sugars in cluster for blast hits:
 
@@ -3738,7 +3816,9 @@ ABU80601.1:
 
 Total number of members in cluster: 36
 
-#### Conserved resiudes: R 60, D 66, Y 67, Y 70, R 184, Q 185, H 219, R 360
+#### Conserved (non-aliphatic) residues:
+
+R 60, D 66, Y 67, Y 70, R 184, Q 185, H 219, R 360
 
 #### Seeds in cluster:
 
@@ -3761,17 +3841,17 @@ Total number of members in cluster: 36
 
 #### Sugars in cluster for seeds:
 
-AAK64372.1, EGR73751.1:
+EGR73751.1, AAK64372.1:
 
 ![](../../../csdb/images/1843.gif)
 
-1843
+CSDB record ID: 1843
 
 BAQ02116.1:
 
 ![](../../../csdb/images/1561.gif)
 
-1561
+CSDB record ID: 1561
 
 #### Sugars in cluster for blast hits:
 
@@ -3809,7 +3889,9 @@ BAQ02116.1:
 
 Total number of members in cluster: 35
 
-#### Conserved resiudes: R 63, D 70, Y 74, Y 94, E 98, D 124, Y 147, N 166, R 169, Q 170, H 215, N 216, K 271, S 272, R 336
+#### Conserved (non-aliphatic) residues:
+
+R 63, D 70, Y 74, Y 94, E 98, D 124, Y 147, N 166, R 169, Q 170, H 215, N 216, K 271, S 272, R 336
 
 #### Seeds in cluster:
 
@@ -3832,17 +3914,17 @@ Total number of members in cluster: 35
 
 #### Sugars in cluster for seeds:
 
-AHB32438.2:
-
-![](../../../csdb/images/2196.gif)
-
-2196
-
 AHB32774.1:
 
 ![](../../../csdb/images/493.gif)
 
-493
+CSDB record ID: 493
+
+AHB32438.2:
+
+![](../../../csdb/images/2196.gif)
+
+CSDB record ID: 2196
 
 #### Sugars in cluster for blast hits:
 
@@ -3878,7 +3960,9 @@ AHB32774.1:
 
 Total number of members in cluster: 34
 
-#### Conserved resiudes: R 204, E 244, Y 282, K 289, R 293, R 316, E 349, Y 397
+#### Conserved (non-aliphatic) residues:
+
+R 204, E 244, Y 282, K 289, R 293, R 316, E 349, Y 397
 
 #### Seeds in cluster:
 
@@ -3908,19 +3992,19 @@ AKA20948.1:
 
 ![](../../../csdb/images/12133.gif)
 
-12133
-
-BAQ01843.1:
-
-![](../../../csdb/images/1905.gif)
-
-1905
+CSDB record ID: 12133
 
 ACV52983.1:
 
 ![](../../../csdb/images/12124.gif)
 
-12124
+CSDB record ID: 12124
+
+BAQ01843.1:
+
+![](../../../csdb/images/1905.gif)
+
+CSDB record ID: 1905
 
 #### Sugars in cluster for blast hits:
 
@@ -3953,7 +4037,9 @@ ACV52983.1:
 
 Total number of members in cluster: 33
 
-#### Conserved resiudes: Y 78, Y 134, Q 144, Q 147, R 149, Q 150, H 189, Y 258, R 327, E 336, Y 384
+#### Conserved (non-aliphatic) residues:
+
+Y 78, Y 134, Q 144, Q 147, R 149, Q 150, H 189, Y 258, R 327, E 336, Y 384
 
 #### Seeds in cluster:
 
@@ -3981,13 +4067,13 @@ AHB32334.1:
 
 ![](../../../csdb/images/483.gif)
 
-483
+CSDB record ID: 483
 
 AHB32888.2:
 
 ![](../../../csdb/images/495.gif)
 
-495
+CSDB record ID: 495
 
 #### Sugars in cluster for blast hits:
 
@@ -4018,7 +4104,9 @@ AHB32888.2:
 
 Total number of members in cluster: 33
 
-#### Conserved resiudes: R 61, D 118, R 197, K 206, R 248, R 334, K 378
+#### Conserved (non-aliphatic) residues:
+
+R 61, D 118, R 197, K 206, R 248, R 334, K 378
 
 #### Seeds in cluster:
 
@@ -4047,19 +4135,19 @@ ACD37165.1:
 
 ![](../../../csdb/images/1515.gif)
 
-1515
+CSDB record ID: 1515
 
 ACD37181.1:
 
 ![](../../../csdb/images/1870.gif)
 
-1870
+CSDB record ID: 1870
 
 ACD37173.1:
 
 ![](../../../csdb/images/1877.gif)
 
-1877
+CSDB record ID: 1877
 
 #### Sugars in cluster for blast hits:
 
@@ -4092,7 +4180,9 @@ ACD37173.1:
 
 Total number of members in cluster: 29
 
-#### Conserved resiudes: Y 165, R 210, Y 267, R 269, S 371, T 415, D 416, R 421, E 483, K 485
+#### Conserved (non-aliphatic) residues:
+
+Y 165, R 210, Y 267, R 269, S 371, T 415, D 416, R 421, E 483, K 485
 
 #### Seeds in cluster:
 
@@ -4115,11 +4205,11 @@ Total number of members in cluster: 29
 
 #### Sugars in cluster for seeds:
 
-ACD37037.1, ACD37046.1:
+ACD37046.1, ACD37037.1:
 
 ![](../../../csdb/images/1909.gif)
 
-1909
+CSDB record ID: 1909
 
 #### Sugars in cluster for blast hits:
 
@@ -4151,7 +4241,9 @@ ACD37037.1, ACD37046.1:
 
 Total number of members in cluster: 29
 
-#### Conserved resiudes: R 187, R 188, Y 203, S 206, D 300, R 304, R 305, Y 329, D 331
+#### Conserved (non-aliphatic) residues:
+
+R 187, R 188, Y 203, S 206, D 300, R 304, R 305, Y 329, D 331
 
 #### Seeds in cluster:
 
@@ -4179,35 +4271,35 @@ Total number of members in cluster: 29
 
 #### Sugars in cluster for seeds:
 
-AAM27801.1, AAC45857.1, AAA97573.1:
-
-![](../../../csdb/images/1672.gif)
-
-1672
-
 AAM27693.1:
 
 ![](../../../csdb/images/7836.gif)
 
-7836
+CSDB record ID: 7836
 
 AAM27662.1:
 
 ![](../../../csdb/images/6654.gif)
 
-6654
+CSDB record ID: 6654
 
 AAM27728.1:
 
 ![](../../../csdb/images/6565.gif)
 
-6565
+CSDB record ID: 6565
+
+AAA97573.1, AAM27801.1, AAC45857.1:
+
+![](../../../csdb/images/1672.gif)
+
+CSDB record ID: 1672
 
 AAM27748.1:
 
 ![](../../../csdb/images/6655.gif)
 
-6655
+CSDB record ID: 6655
 
 #### Sugars in cluster for blast hits:
 
@@ -4232,7 +4324,9 @@ AAM27748.1:
 
 Total number of members in cluster: 28
 
-#### Conserved resiudes: Y 197, S 211, R 272, S 350, R 352, H 384, N 385, D 389
+#### Conserved (non-aliphatic) residues:
+
+Y 197, S 211, R 272, S 350, R 352, H 384, N 385, D 389
 
 #### Seeds in cluster:
 
@@ -4259,7 +4353,7 @@ ACD37026.1:
 
 ![](../../../csdb/images/1931.gif)
 
-1931
+CSDB record ID: 1931
 
 #### Sugars in cluster for blast hits:
 
@@ -4288,7 +4382,9 @@ ACD37026.1:
 
 Total number of members in cluster: 26
 
-#### Conserved resiudes: D 159, Y 163, Y 164, N 166, E 188, N 195, K 256, R 265, Q 266, H 296, K 355, R 435, Y 502, R 518
+#### Conserved (non-aliphatic) residues:
+
+D 159, Y 163, Y 164, N 166, E 188, N 195, K 256, R 265, Q 266, H 296, K 355, R 435, Y 502, R 518
 
 #### Seeds in cluster:
 
@@ -4315,13 +4411,13 @@ BAQ01641.1:
 
 ![](../../../csdb/images/1873.gif)
 
-1873
+CSDB record ID: 1873
 
 BAQ01584.1:
 
 ![](../../../csdb/images/1860.gif)
 
-1860
+CSDB record ID: 1860
 
 #### Sugars in cluster for blast hits:
 
@@ -4349,7 +4445,9 @@ BAQ01584.1:
 
 Total number of members in cluster: 25
 
-#### Conserved resiudes: Y 43, N 45, D 48, Y 52, E 69, N 113, E 132, Q 133, R 135, Q 136, H 171, K 226, Y 230, R 296, S 350
+#### Conserved (non-aliphatic) residues:
+
+Y 43, N 45, D 48, Y 52, E 69, N 113, E 132, Q 133, R 135, Q 136, H 171, K 226, Y 230, R 296, S 350
 
 #### Seeds in cluster:
 
@@ -4377,11 +4475,11 @@ Total number of members in cluster: 25
 
 #### Sugars in cluster for seeds:
 
-ABK27354.1, ABK27321.1, ABK27351.1, BAI31288.1, ABK27352.1, ABK27350.1, ABK27355.1:
+ABK27352.1, ABK27350.1, ABK27354.1, ABK27351.1, BAI31288.1, ABK27321.1, ABK27355.1:
 
 ![](../../../csdb/images/1842.gif)
 
-1842
+CSDB record ID: 1842
 
 #### Sugars in cluster for blast hits:
 
@@ -4411,7 +4509,9 @@ ABK27354.1, ABK27321.1, ABK27351.1, BAI31288.1, ABK27352.1, ABK27350.1, ABK27355
 
 Total number of members in cluster: 24
 
-#### Conserved resiudes: R 53, D 60, D 61, H 65, Y 96, Y 98, Y 109, S 118, S 121, Y 129, N 167, R 169, S 173, R 176, Y 208, H 215, R 225, K 272, Y 276, Y 331, R 348, N 402, D 414, N 424
+#### Conserved (non-aliphatic) residues:
+
+R 53, D 60, D 61, H 65, Y 96, Y 98, Y 109, S 118, S 121, Y 129, N 167, R 169, S 173, R 176, Y 208, H 215, R 225, K 272, Y 276, Y 331, R 348, N 402, D 414, N 424
 
 #### Seeds in cluster:
 
@@ -4437,35 +4537,35 @@ Total number of members in cluster: 24
 
 #### Sugars in cluster for seeds:
 
-CIV98579.1, CAI34733.1:
-
-![](../../../csdb/images/7051.gif)
-
-7051
-
 CAI33105.1:
 
 ![](../../../csdb/images/7049.gif)
 
-7049
-
-CAI33084.1:
-
-![](../../../csdb/images/7052.gif)
-
-7052
+CSDB record ID: 7049
 
 CAI33048.1:
 
 ![](../../../csdb/images/1953.gif)
 
-1953
+CSDB record ID: 1953
+
+CIV98579.1, CAI34733.1:
+
+![](../../../csdb/images/7051.gif)
+
+CSDB record ID: 7051
+
+CAI33084.1:
+
+![](../../../csdb/images/7052.gif)
+
+CSDB record ID: 7052
 
 CAI34436.1:
 
 ![](../../../csdb/images/3663.gif)
 
-3663
+CSDB record ID: 3663
 
 #### Sugars in cluster for blast hits:
 
@@ -4489,7 +4589,9 @@ CAI34436.1:
 
 Total number of members in cluster: 24
 
-#### Conserved resiudes: N 194, R 302, Y 336, R 341, K 360
+#### Conserved (non-aliphatic) residues:
+
+N 194, R 302, Y 336, R 341, K 360
 
 #### Seeds in cluster:
 
@@ -4512,17 +4614,17 @@ Total number of members in cluster: 24
 
 #### Sugars in cluster for seeds:
 
-CAI33862.1, VOC17485.1:
-
-![](../../../csdb/images/1964.gif)
-
-1964
-
-CAI33840.1, VMO60215.1:
+VMO60215.1, CAI33840.1:
 
 ![](../../../csdb/images/7083.gif)
 
-7083
+CSDB record ID: 7083
+
+VOC17485.1, CAI33862.1:
+
+![](../../../csdb/images/1964.gif)
+
+CSDB record ID: 1964
 
 #### Sugars in cluster for blast hits:
 
@@ -4553,7 +4655,9 @@ CAI33840.1, VMO60215.1:
 
 Total number of members in cluster: 23
 
-#### Conserved resiudes: R 206, R 229, D 235, E 236, T 272, S 274, R 342, R 358, Q 454, R 455
+#### Conserved (non-aliphatic) residues:
+
+R 206, R 229, D 235, E 236, T 272, S 274, R 342, R 358, Q 454, R 455
 
 #### Seeds in cluster:
 
@@ -4576,17 +4680,17 @@ Total number of members in cluster: 23
 
 #### Sugars in cluster for seeds:
 
-BAQ01793.1:
-
-![](../../../csdb/images/1897.gif)
-
-1897
-
 BAQ01878.1:
 
 ![](../../../csdb/images/1407.gif)
 
-1407
+CSDB record ID: 1407
+
+BAQ01793.1:
+
+![](../../../csdb/images/1897.gif)
+
+CSDB record ID: 1897
 
 #### Sugars in cluster for blast hits:
 
@@ -4619,7 +4723,9 @@ BAQ01878.1:
 
 Total number of members in cluster: 22
 
-#### Conserved resiudes: R 64, Q 117, D 175, Y 188, Y 192, Y 203, R 208, D 215, Y 221, T 260, R 261, Y 308, R 315, D 318, S 319, S 323, S 326, R 330, S 337, Q 353, R 365, N 367, T 368, D 369, N 370, E 378
+#### Conserved (non-aliphatic) residues:
+
+R 64, Q 117, D 175, Y 188, Y 192, Y 203, R 208, D 215, Y 221, T 260, R 261, Y 308, R 315, D 318, S 319, S 323, S 326, R 330, S 337, Q 353, R 365, N 367, T 368, D 369, N 370, E 378
 
 #### Seeds in cluster:
 
@@ -4646,17 +4752,17 @@ Total number of members in cluster: 22
 
 #### Sugars in cluster for seeds:
 
-ACF64132.1, WP_000936592.1:
+WP_000936592.1, ACF64132.1:
 
 ![](../../../csdb/images/28331.gif)
 
-28331
+CSDB record ID: 28331
 
-WP_000936589.1, WP_001529369.1:
+WP_001529369.1, WP_000936589.1:
 
 ![](../../../csdb/images/27410.gif)
 
-27410
+CSDB record ID: 27410
 
 #### Sugars in cluster for blast hits:
 
@@ -4678,7 +4784,9 @@ WP_000936589.1, WP_001529369.1:
 
 Total number of members in cluster: 22
 
-#### Conserved resiudes: Q 160, Y 170, D 172, R 183, R 199, T 201, E 206, S 208, R 322, N 379, D 380
+#### Conserved (non-aliphatic) residues:
+
+Q 160, Y 170, D 172, R 183, R 199, T 201, E 206, S 208, R 322, N 379, D 380
 
 #### Seeds in cluster:
 
@@ -4704,7 +4812,7 @@ BAQ01533.1:
 
 ![](../../../csdb/images/1849.gif)
 
-1849
+CSDB record ID: 1849
 
 #### Sugars in cluster for blast hits:
 
@@ -4732,7 +4840,9 @@ BAQ01533.1:
 
 Total number of members in cluster: 22
 
-#### Conserved resiudes: Y 56, D 57, Y 61, E 80, Y 113, E 140, R 143, Q 144, H 177, K 242, R 311
+#### Conserved (non-aliphatic) residues:
+
+Y 56, D 57, Y 61, E 80, Y 113, E 140, R 143, Q 144, H 177, K 242, R 311
 
 #### Seeds in cluster:
 
@@ -4760,7 +4870,7 @@ ABI98976.1:
 
 ![](../../../csdb/images/1883.gif)
 
-1883
+CSDB record ID: 1883
 
 #### Sugars in cluster for blast hits:
 
@@ -4784,7 +4894,9 @@ ABI98976.1:
 
 Total number of members in cluster: 21
 
-#### Conserved resiudes: Q 240, K 241, R 306, Q 311, N 369
+#### Conserved (non-aliphatic) residues:
+
+Q 240, K 241, R 306, Q 311, N 369
 
 #### Seeds in cluster:
 
@@ -4807,17 +4919,17 @@ Total number of members in cluster: 21
 
 #### Sugars in cluster for seeds:
 
-ADI77033.1:
-
-![](../../../csdb/images/1577.gif)
-
-1577
-
 CBN82200.1:
 
 ![](../../../csdb/images/1576.gif)
 
-1576
+CSDB record ID: 1576
+
+ADI77033.1:
+
+![](../../../csdb/images/1577.gif)
+
+CSDB record ID: 1577
 
 #### Sugars in cluster for blast hits:
 
@@ -4849,7 +4961,9 @@ CBN82200.1:
 
 Total number of members in cluster: 21
 
-#### Conserved resiudes: R 229, R 284, R 356, S 359, R 363, S 398, H 399, Y 407, D 460
+#### Conserved (non-aliphatic) residues:
+
+R 229, R 284, R 356, S 359, R 363, S 398, H 399, Y 407, D 460
 
 #### Seeds in cluster:
 
@@ -4877,19 +4991,19 @@ CAI33366.1:
 
 ![](../../../csdb/images/1957.gif)
 
-1957
-
-CAI33324.1:
-
-![](../../../csdb/images/5348.gif)
-
-5348
+CSDB record ID: 1957
 
 CAI33389.1:
 
 ![](../../../csdb/images/2251.gif)
 
-2251
+CSDB record ID: 2251
+
+CAI33324.1:
+
+![](../../../csdb/images/5348.gif)
+
+CSDB record ID: 5348
 
 #### Sugars in cluster for blast hits:
 
@@ -4897,7 +5011,7 @@ AAL57082.1:
 
 ![](../../../csdb/images/6001.gif)
 
-6001
+CSDB record ID: 6001
 
 #### Alphafold models:
 
@@ -4924,7 +5038,9 @@ AAL57082.1:
 
 Total number of members in cluster: 21
 
-#### Conserved resiudes: Y 30, Y 37, Y 73, Y 115, Y 118, T 124, Y 126, N 136, D 140, S 144, S 182, Q 186, R 188, R 189, E 190, S 201, Y 233, R 235, S 237, T 240, S 241, E 256, T 257, H 258, N 266, E 267, H 271, K 304, E 314, Y 318, D 320, K 321, T 328, H 332, Y 354, R 378, K 379, D 380, Y 383, K 386, Y 387, S 389, Y 402, K 408
+#### Conserved (non-aliphatic) residues:
+
+Y 30, Y 37, Y 73, Y 115, Y 118, T 124, Y 126, N 136, D 140, S 144, S 182, Q 186, R 188, R 189, E 190, S 201, Y 233, R 235, S 237, T 240, S 241, E 256, T 257, H 258, N 266, E 267, H 271, K 304, E 314, Y 318, D 320, K 321, T 328, H 332, Y 354, R 378, K 379, D 380, Y 383, K 386, Y 387, S 389, Y 402, K 408
 
 #### Seeds in cluster:
 
@@ -4951,23 +5067,23 @@ Total number of members in cluster: 21
 
 #### Sugars in cluster for seeds:
 
-AGS07316.1:
-
-![](../../../csdb/images/30411.gif)
-
-30411
-
-AGS07327.1, CAA43077.1:
+CAA43077.1, AGS07327.1:
 
 ![](../../../csdb/images/30407.gif)
 
-30407
+CSDB record ID: 30407
 
 AGS07363.1, AAB48190.1:
 
 ![](../../../csdb/images/30404.gif)
 
-30404
+CSDB record ID: 30404
+
+AGS07316.1:
+
+![](../../../csdb/images/30411.gif)
+
+CSDB record ID: 30411
 
 #### Sugars in cluster for blast hits:
 
@@ -4988,7 +5104,9 @@ AGS07363.1, AAB48190.1:
 
 Total number of members in cluster: 21
 
-#### Conserved resiudes: R 277, R 330, E 361, R 488, R 496
+#### Conserved (non-aliphatic) residues:
+
+R 277, R 330, E 361, R 488, R 496
 
 #### Seeds in cluster:
 
@@ -5014,7 +5132,7 @@ CAI32772.1:
 
 ![](../../../csdb/images/805.gif)
 
-805
+CSDB record ID: 805
 
 #### Sugars in cluster for blast hits:
 
@@ -5046,7 +5164,9 @@ CAI32772.1:
 
 Total number of members in cluster: 21
 
-#### Conserved resiudes: Y 31, N 58, Y 65, N 86, Y 94, N 118, Y 154, Q 157, N 160, K 161, T 165, R 199, Q 201, Y 229, N 269, Y 272, N 281, Q 287, D 306, N 359
+#### Conserved (non-aliphatic) residues:
+
+Y 31, N 58, Y 65, N 86, Y 94, N 118, Y 154, Q 157, N 160, K 161, T 165, R 199, Q 201, Y 229, N 269, Y 272, N 281, Q 287, D 306, N 359
 
 #### Seeds in cluster:
 
@@ -5072,7 +5192,7 @@ ABB04486.1:
 
 ![](../../../csdb/images/1836.gif)
 
-1836
+CSDB record ID: 1836
 
 #### Sugars in cluster for blast hits:
 
@@ -5098,7 +5218,9 @@ ABB04486.1:
 
 Total number of members in cluster: 20
 
-#### Conserved resiudes: D 189, R 193, E 200, S 202, S 237, K 240, T 307, T 310, R 311, E 362, Y 366, K 381, D 382, S 385
+#### Conserved (non-aliphatic) residues:
+
+D 189, R 193, E 200, S 202, S 237, K 240, T 307, T 310, R 311, E 362, Y 366, K 381, D 382, S 385
 
 #### Seeds in cluster:
 
@@ -5124,7 +5246,7 @@ BAQ01317.1:
 
 ![](../../../csdb/images/1595.gif)
 
-1595
+CSDB record ID: 1595
 
 #### Sugars in cluster for blast hits:
 
@@ -5147,7 +5269,9 @@ BAQ01317.1:
 
 Total number of members in cluster: 20
 
-#### Conserved resiudes: D 76, K 101, D 102, S 130, Q 166, R 168, H 202, R 266, Y 270, D 340, R 345, D 354
+#### Conserved (non-aliphatic) residues:
+
+D 76, K 101, D 102, S 130, Q 166, R 168, H 202, R 266, Y 270, D 340, R 345, D 354
 
 #### Seeds in cluster:
 
@@ -5174,13 +5298,13 @@ AFW04785.1:
 
 ![](../../../csdb/images/3359.gif)
 
-3359
+CSDB record ID: 3359
 
 ACV67289.1:
 
 ![](../../../csdb/images/1542.gif)
 
-1542
+CSDB record ID: 1542
 
 #### Sugars in cluster for blast hits:
 
@@ -5206,7 +5330,9 @@ ACV67289.1:
 
 Total number of members in cluster: 19
 
-#### Conserved resiudes: R 156, N 160, Y 161, Y 173, Y 175, Y 226, T 231, K 233, K 235, R 247, S 254, S 272, K 278, Y 297, N 301, D 306, T 338, N 339, T 342, Y 345, H 367, Q 396, Y 402, Y 407
+#### Conserved (non-aliphatic) residues:
+
+R 156, N 160, Y 161, Y 173, Y 175, Y 226, T 231, K 233, K 235, R 247, S 254, S 272, K 278, Y 297, N 301, D 306, T 338, N 339, T 342, Y 345, H 367, Q 396, Y 402, Y 407
 
 #### Seeds in cluster:
 
@@ -5229,17 +5355,17 @@ Total number of members in cluster: 19
 
 #### Sugars in cluster for seeds:
 
-ACD37126.1:
-
-![](../../../csdb/images/3982.gif)
-
-3982
-
 BAQ01675.1:
 
 ![](../../../csdb/images/1875.gif)
 
-1875
+CSDB record ID: 1875
+
+ACD37126.1:
+
+![](../../../csdb/images/3982.gif)
+
+CSDB record ID: 3982
 
 #### Sugars in cluster for blast hits:
 
@@ -5261,7 +5387,9 @@ BAQ01675.1:
 
 Total number of members in cluster: 19
 
-#### Conserved resiudes: D 43, Y 47, Y 51, E 67, N 93, Y 123, E 125, R 128, Q 129, S 134, H 162, K 220, Y 224, Y 230, D 243, R 295, Y 299, Q 341, R 344, K 380
+#### Conserved (non-aliphatic) residues:
+
+D 43, Y 47, Y 51, E 67, N 93, Y 123, E 125, R 128, Q 129, S 134, H 162, K 220, Y 224, Y 230, D 243, R 295, Y 299, Q 341, R 344, K 380
 
 #### Seeds in cluster:
 
@@ -5287,7 +5415,7 @@ AAT85653.1:
 
 ![](../../../csdb/images/10216.gif)
 
-10216
+CSDB record ID: 10216
 
 #### Sugars in cluster for blast hits:
 
@@ -5310,7 +5438,9 @@ AAT85653.1:
 
 Total number of members in cluster: 18
 
-#### Conserved resiudes: S 59, D 90, E 93, Y 94, Y 98, R 113, E 119, N 136, Y 183, R 186, S 190, H 219, S 221, R 351
+#### Conserved (non-aliphatic) residues:
+
+S 59, D 90, E 93, Y 94, Y 98, R 113, E 119, N 136, Y 183, R 186, S 190, H 219, S 221, R 351
 
 #### Seeds in cluster:
 
@@ -5334,23 +5464,23 @@ Total number of members in cluster: 18
 
 #### Sugars in cluster for seeds:
 
-WP_016238111.1:
+ACA24776.1:
 
-![](../../../csdb/images/1587.gif)
+![](../../../csdb/images/11557.gif)
 
-1587
+CSDB record ID: 11557
 
 BAQ00858.1:
 
 ![](../../../csdb/images/1545.gif)
 
-1545
+CSDB record ID: 1545
 
-ACA24776.1:
+WP_016238111.1:
 
-![](../../../csdb/images/11557.gif)
+![](../../../csdb/images/1587.gif)
 
-11557
+CSDB record ID: 1587
 
 #### Sugars in cluster for blast hits:
 
@@ -5376,7 +5506,9 @@ ACA24776.1:
 
 Total number of members in cluster: 18
 
-#### Conserved resiudes: R 300, T 301, R 362, Y 424, D 438, E 483, N 487, Y 523, R 537, R 538
+#### Conserved (non-aliphatic) residues:
+
+R 300, T 301, R 362, Y 424, D 438, E 483, N 487, Y 523, R 537, R 538
 
 #### Seeds in cluster:
 
@@ -5422,7 +5554,9 @@ Total number of members in cluster: 18
 
 Total number of members in cluster: 18
 
-#### Conserved resiudes: D 99, Y 103, E 132, Y 191, E 200, K 203, H 236, Q 238, K 311, Y 315, R 369, Y 399
+#### Conserved (non-aliphatic) residues:
+
+D 99, Y 103, E 132, Y 191, E 200, K 203, H 236, Q 238, K 311, Y 315, R 369, Y 399
 
 #### Seeds in cluster:
 
@@ -5448,7 +5582,7 @@ AHB32242.2:
 
 ![](../../../csdb/images/487.gif)
 
-487
+CSDB record ID: 487
 
 #### Sugars in cluster for blast hits:
 
@@ -5480,7 +5614,9 @@ AHB32242.2:
 
 Total number of members in cluster: 18
 
-#### Conserved resiudes: E 215, K 264, R 265, R 339, H 387, D 443
+#### Conserved (non-aliphatic) residues:
+
+E 215, K 264, R 265, R 339, H 387, D 443
 
 #### Seeds in cluster:
 
@@ -5505,29 +5641,29 @@ Total number of members in cluster: 18
 
 #### Sugars in cluster for seeds:
 
-VQM63531.1, CAI33537.1:
+CAI33561.1:
+
+![](../../../csdb/images/846.gif)
+
+CSDB record ID: 846
+
+CAI33537.1, VQM63531.1:
 
 ![](../../../csdb/images/7074.gif)
 
-7074
+CSDB record ID: 7074
 
 VOG14504.1, CAI33610.1:
 
 ![](../../../csdb/images/7071.gif)
 
-7071
-
-CAI33561.1:
-
-![](../../../csdb/images/846.gif)
-
-846
+CSDB record ID: 7071
 
 CAI33585.1:
 
 ![](../../../csdb/images/939.gif)
 
-939
+CSDB record ID: 939
 
 #### Sugars in cluster for blast hits:
 
@@ -5551,7 +5687,9 @@ CAI33585.1:
 
 Total number of members in cluster: 18
 
-#### Conserved resiudes: Q 123, N 130, Y 135, Y 165, K 201, Q 203, S 204, K 224, T 239, R 240, R 243, N 244, Y 264, S 267, N 271, Y 274, D 282, Y 285, Q 293, K 294, S 299, D 307, T 309, S 310, S 321, Y 329, Q 338
+#### Conserved (non-aliphatic) residues:
+
+Q 123, N 130, Y 135, Y 165, K 201, Q 203, S 204, K 224, T 239, R 240, R 243, N 244, Y 264, S 267, N 271, Y 274, D 282, Y 285, Q 293, K 294, S 299, D 307, T 309, S 310, S 321, Y 329, Q 338
 
 #### Seeds in cluster:
 
@@ -5575,17 +5713,17 @@ Total number of members in cluster: 18
 
 #### Sugars in cluster for seeds:
 
-AAR90892.1, CAS09721.1:
-
-![](../../../csdb/images/1866.gif)
-
-1866
-
 BAQ01361.1:
 
 ![](../../../csdb/images/1596.gif)
 
-1596
+CSDB record ID: 1596
+
+CAS09721.1, AAR90892.1:
+
+![](../../../csdb/images/1866.gif)
+
+CSDB record ID: 1866
 
 #### Sugars in cluster for blast hits:
 
@@ -5607,7 +5745,9 @@ BAQ01361.1:
 
 Total number of members in cluster: 18
 
-#### Conserved resiudes: D 56, S 57, Y 60, Q 63, K 85, E 87, N 112, N 117, Y 149, N 154, Y 157, R 160, H 191, S 242, R 264, S 301, N 307, Q 309, R 313, S 346
+#### Conserved (non-aliphatic) residues:
+
+D 56, S 57, Y 60, Q 63, K 85, E 87, N 112, N 117, Y 149, N 154, Y 157, R 160, H 191, S 242, R 264, S 301, N 307, Q 309, R 313, S 346
 
 #### Seeds in cluster:
 
@@ -5636,13 +5776,13 @@ BAG11898.1, WP_000482333.1:
 
 ![](../../../csdb/images/1562.gif)
 
-1562
+CSDB record ID: 1562
 
 AEP25500.1:
 
 ![](../../../csdb/images/12139.gif)
 
-12139
+CSDB record ID: 12139
 
 #### Sugars in cluster for blast hits:
 
@@ -5667,7 +5807,9 @@ AEP25500.1:
 
 Total number of members in cluster: 17
 
-#### Conserved resiudes: D 79, Y 80, Y 83, E 99, K 131, Y 157, Q 169, R 171, H 203, Y 249, S 262, K 264, R 319, D 322
+#### Conserved (non-aliphatic) residues:
+
+D 79, Y 80, Y 83, E 99, K 131, Y 157, Q 169, R 171, H 203, Y 249, S 262, K 264, R 319, D 322
 
 #### Seeds in cluster:
 
@@ -5707,7 +5849,9 @@ Total number of members in cluster: 17
 
 Total number of members in cluster: 17
 
-#### Conserved resiudes: S 132, E 136, H 146, K 186, Q 187, K 189, Y 235, K 238, H 260, Y 264, S 267, S 273, Y 275, N 298, N 329, T 336, Y 349, S 378, S 383, Y 387, Y 388, Y 389, E 396
+#### Conserved (non-aliphatic) residues:
+
+S 132, E 136, H 146, K 186, Q 187, K 189, Y 235, K 238, H 260, Y 264, S 267, S 273, Y 275, N 298, N 329, T 336, Y 349, S 378, S 383, Y 387, Y 388, Y 389, E 396
 
 #### Seeds in cluster:
 
@@ -5733,7 +5877,7 @@ ABX51880.1:
 
 ![](../../../csdb/images/27329.gif)
 
-27329
+CSDB record ID: 27329
 
 #### Sugars in cluster for blast hits:
 
@@ -5754,7 +5898,9 @@ ABX51880.1:
 
 Total number of members in cluster: 17
 
-#### Conserved resiudes: H 150, R 199, T 251, R 252, R 327, Q 330, R 357, Y 365, E 366, S 368, K 375
+#### Conserved (non-aliphatic) residues:
+
+H 150, R 199, T 251, R 252, R 327, Q 330, R 357, Y 365, E 366, S 368, K 375
 
 #### Seeds in cluster:
 
@@ -5777,17 +5923,17 @@ Total number of members in cluster: 17
 
 #### Sugars in cluster for seeds:
 
-AAY28257.1:
-
-![](../../../csdb/images/1919.gif)
-
-1919
-
 AAM27782.1:
 
 ![](../../../csdb/images/24033.gif)
 
-24033
+CSDB record ID: 24033
+
+AAY28257.1:
+
+![](../../../csdb/images/1919.gif)
+
+CSDB record ID: 1919
 
 #### Sugars in cluster for blast hits:
 
@@ -5811,7 +5957,9 @@ AAM27782.1:
 
 Total number of members in cluster: 17
 
-#### Conserved resiudes: S 130, R 146, Q 194, R 209, R 214, S 217, S 221, T 223, R 252, Q 268, K 269, N 274, R 384
+#### Conserved (non-aliphatic) residues:
+
+S 130, R 146, Q 194, R 209, R 214, S 217, S 221, T 223, R 252, Q 268, K 269, N 274, R 384
 
 #### Seeds in cluster:
 
@@ -5838,7 +5986,7 @@ AAM27574.1, AAD45264.1:
 
 ![](../../../csdb/images/10219.gif)
 
-10219
+CSDB record ID: 10219
 
 #### Sugars in cluster for blast hits:
 
@@ -5861,7 +6009,9 @@ AAM27574.1, AAD45264.1:
 
 Total number of members in cluster: 17
 
-#### Conserved resiudes: D 59, E 60, Y 63, D 142, N 146, Y 148, R 149, Q 150, H 183, S 185, Y 250, Y 262, R 269, Y 307, R 319, N 320
+#### Conserved (non-aliphatic) residues:
+
+D 59, E 60, Y 63, D 142, N 146, Y 148, R 149, Q 150, H 183, S 185, Y 250, Y 262, R 269, Y 307, R 319, N 320
 
 #### Seeds in cluster:
 
@@ -5885,23 +6035,23 @@ Total number of members in cluster: 17
 
 #### Sugars in cluster for seeds:
 
+ACA24792.1:
+
+![](../../../csdb/images/1891.gif)
+
+CSDB record ID: 1891
+
 BAQ01169.1:
 
 ![](../../../csdb/images/1575.gif)
 
-1575
+CSDB record ID: 1575
 
 ACA24803.1:
 
 ![](../../../csdb/images/715.gif)
 
-715
-
-ACA24792.1:
-
-![](../../../csdb/images/1891.gif)
-
-1891
+CSDB record ID: 715
 
 #### Sugars in cluster for blast hits:
 
@@ -5924,7 +6074,9 @@ ACA24792.1:
 
 Total number of members in cluster: 17
 
-#### Conserved resiudes: Q 149, N 150, R 249, E 293, R 344, R 345, D 352, S 396, K 397, S 446, H 450, E 493, E 556, S 560
+#### Conserved (non-aliphatic) residues:
+
+Q 149, N 150, R 249, E 293, R 344, R 345, D 352, S 396, K 397, S 446, H 450, E 493, E 556, S 560
 
 #### Seeds in cluster:
 
@@ -5950,7 +6102,7 @@ CAI33817.1:
 
 ![](../../../csdb/images/7084.gif)
 
-7084
+CSDB record ID: 7084
 
 #### Sugars in cluster for blast hits:
 
@@ -5981,7 +6133,9 @@ CAI33817.1:
 
 Total number of members in cluster: 16
 
-#### Conserved resiudes: D 85, R 103, S 111, Q 141, K 156, N 171, N 177, R 181, N 190, Q 219, N 222, S 223, N 224, E 283, T 292, D 332
+#### Conserved (non-aliphatic) residues:
+
+D 85, R 103, S 111, Q 141, K 156, N 171, N 177, R 181, N 190, Q 219, N 222, S 223, N 224, E 283, T 292, D 332
 
 #### Seeds in cluster:
 
@@ -6007,7 +6161,7 @@ AAV74543.1:
 
 ![](../../../csdb/images/1516.gif)
 
-1516
+CSDB record ID: 1516
 
 #### Sugars in cluster for blast hits:
 
@@ -6034,7 +6188,9 @@ AAV74543.1:
 
 Total number of members in cluster: 16
 
-#### Conserved resiudes: Y 103, K 218, E 280, R 281, K 325, N 359, Y 471, R 483, K 495
+#### Conserved (non-aliphatic) residues:
+
+Y 103, K 218, E 280, R 281, K 325, N 359, Y 471, R 483, K 495
 
 #### Seeds in cluster:
 
@@ -6060,7 +6216,7 @@ CAI32705.1:
 
 ![](../../../csdb/images/31499.gif)
 
-31499
+CSDB record ID: 31499
 
 #### Sugars in cluster for blast hits:
 
@@ -6092,7 +6248,9 @@ CAI32705.1:
 
 Total number of members in cluster: 16
 
-#### Conserved resiudes: S 28, Q 231, S 234, Y 235, R 288, R 354, R 373, H 406, S 462, Y 465
+#### Conserved (non-aliphatic) residues:
+
+S 28, Q 231, S 234, Y 235, R 288, R 354, R 373, H 406, S 462, Y 465
 
 #### Seeds in cluster:
 
@@ -6118,17 +6276,17 @@ Total number of members in cluster: 16
 
 #### Sugars in cluster for seeds:
 
-CAI33226.1:
-
-![](../../../csdb/images/7060.gif)
-
-7060
-
 VPT20589.1, CAI33278.1:
 
 ![](../../../csdb/images/1955.gif)
 
-1955
+CSDB record ID: 1955
+
+CAI33226.1:
+
+![](../../../csdb/images/7060.gif)
+
+CSDB record ID: 7060
 
 #### Sugars in cluster for blast hits:
 
@@ -6153,7 +6311,9 @@ VPT20589.1, CAI33278.1:
 
 Total number of members in cluster: 16
 
-#### Conserved resiudes: D 52, K 73, N 185, Y 198, N 219, S 222, T 263, K 264, R 332, S 348, R 350, E 388, D 390, D 393, H 454
+#### Conserved (non-aliphatic) residues:
+
+D 52, K 73, N 185, Y 198, N 219, S 222, T 263, K 264, R 332, S 348, R 350, E 388, D 390, D 393, H 454
 
 #### Seeds in cluster:
 
@@ -6179,7 +6339,7 @@ ADN43858.1:
 
 ![](../../../csdb/images/1879.gif)
 
-1879
+CSDB record ID: 1879
 
 #### Sugars in cluster for blast hits:
 
@@ -6207,7 +6367,9 @@ ADN43858.1:
 
 Total number of members in cluster: 16
 
-#### Conserved resiudes: Q 127, H 194, Q 196, R 308, Y 353, H 355, Q 360, D 364, S 411, Y 415, Y 417
+#### Conserved (non-aliphatic) residues:
+
+Q 127, H 194, Q 196, R 308, Y 353, H 355, Q 360, D 364, S 411, Y 415, Y 417
 
 #### Seeds in cluster:
 
@@ -6237,31 +6399,31 @@ CAI33149.1:
 
 ![](../../../csdb/images/7054.gif)
 
-7054
-
-CAI33169.1:
-
-![](../../../csdb/images/31003.gif)
-
-31003
-
-CAI33188.1:
-
-![](../../../csdb/images/7056.gif)
-
-7056
-
-CAI33128.1:
-
-![](../../../csdb/images/1493.gif)
-
-1493
+CSDB record ID: 7054
 
 CAI33207.1:
 
 ![](../../../csdb/images/7053.gif)
 
-7053
+CSDB record ID: 7053
+
+CAI33169.1:
+
+![](../../../csdb/images/31003.gif)
+
+CSDB record ID: 31003
+
+CAI33128.1:
+
+![](../../../csdb/images/1493.gif)
+
+CSDB record ID: 1493
+
+CAI33188.1:
+
+![](../../../csdb/images/7056.gif)
+
+CSDB record ID: 7056
 
 #### Sugars in cluster for blast hits:
 
@@ -6288,7 +6450,9 @@ CAI33207.1:
 
 Total number of members in cluster: 16
 
-#### Conserved resiudes: R 195, R 201, R 246, R 323, Y 330, D 369
+#### Conserved (non-aliphatic) residues:
+
+R 195, R 201, R 246, R 323, Y 330, D 369
 
 #### Seeds in cluster:
 
@@ -6311,17 +6475,17 @@ Total number of members in cluster: 16
 
 #### Sugars in cluster for seeds:
 
-CAI33652.1:
-
-![](../../../csdb/images/2254.gif)
-
-2254
-
 CAI33675.1:
 
 ![](../../../csdb/images/2255.gif)
 
-2255
+CSDB record ID: 2255
+
+CAI33652.1:
+
+![](../../../csdb/images/2254.gif)
+
+CSDB record ID: 2254
 
 #### Sugars in cluster for blast hits:
 
@@ -6345,7 +6509,9 @@ CAI33675.1:
 
 Total number of members in cluster: 16
 
-#### Conserved resiudes: R 173, Q 216, Q 263, T 268, N 273, S 321, S 424, E 473, E 552
+#### Conserved (non-aliphatic) residues:
+
+R 173, Q 216, Q 263, T 268, N 273, S 321, S 424, E 473, E 552
 
 #### Seeds in cluster:
 
@@ -6371,7 +6537,7 @@ CAI33466.1:
 
 ![](../../../csdb/images/1062.gif)
 
-1062
+CSDB record ID: 1062
 
 #### Sugars in cluster for blast hits:
 
@@ -6399,7 +6565,9 @@ CAI33466.1:
 
 Total number of members in cluster: 16
 
-#### Conserved resiudes: S 63, D 75, Y 79, E 94, E 98, Q 122, N 127, Q 157, R 164, Q 165, H 200, D 257, R 258, K 259, S 280, H 287, Y 318, R 333, K 359, R 379, N 384, D 385
+#### Conserved (non-aliphatic) residues:
+
+S 63, D 75, Y 79, E 94, E 98, Q 122, N 127, Q 157, R 164, Q 165, H 200, D 257, R 258, K 259, S 280, H 287, Y 318, R 333, K 359, R 379, N 384, D 385
 
 #### Seeds in cluster:
 
@@ -6425,7 +6593,7 @@ BAQ01716.1:
 
 ![](../../../csdb/images/1882.gif)
 
-1882
+CSDB record ID: 1882
 
 #### Sugars in cluster for blast hits:
 
@@ -6450,7 +6618,9 @@ BAQ01716.1:
 
 Total number of members in cluster: 16
 
-#### Conserved resiudes: R 180, Y 183, K 242, Y 306, D 308, R 343, K 349, Y 353, D 384
+#### Conserved (non-aliphatic) residues:
+
+R 180, Y 183, K 242, Y 306, D 308, R 343, K 349, Y 353, D 384
 
 #### Seeds in cluster:
 
@@ -6476,7 +6646,7 @@ BAQ00830.1:
 
 ![](../../../csdb/images/1543.gif)
 
-1543
+CSDB record ID: 1543
 
 #### Sugars in cluster for blast hits:
 
@@ -6506,7 +6676,9 @@ BAQ00830.1:
 
 Total number of members in cluster: 16
 
-#### Conserved resiudes: S 37, Y 39, T 45, N 56, K 57, T 59, S 60, S 63, S 68, S 69, R 76, S 80, D 86, R 88, D 91, Y 97, N 106, Y 107, Y 113, Y 116, N 125, K 160, S 170, N 171, S 172, Y 173, Y 177, Y 187, S 191, Y 195, R 209, S 225, K 228, S 230, R 231, E 233, T 236, T 240, Y 245, N 247, N 253, S 271, E 272, S 275, R 278, S 282, N 291, Y 298, S 303, Y 304, Q 309, S 310, Q 328, T 332, S 335, S 347, Y 348, S 349, S 353, T 355, N 357, Y 361, S 370, Y 371, E 374, S 375, N 396, E 399, T 402, Y 409, Y 412, S 414, R 424, E 425, Y 429, K 436, Y 447
+#### Conserved (non-aliphatic) residues:
+
+S 37, Y 39, T 45, N 56, K 57, T 59, S 60, S 63, S 68, S 69, R 76, S 80, D 86, R 88, D 91, Y 97, N 106, Y 107, Y 113, Y 116, N 125, K 160, S 170, N 171, S 172, Y 173, Y 177, Y 187, S 191, Y 195, R 209, S 225, K 228, S 230, R 231, E 233, T 236, T 240, Y 245, N 247, N 253, S 271, E 272, S 275, R 278, S 282, N 291, Y 298, S 303, Y 304, Q 309, S 310, Q 328, T 332, S 335, S 347, Y 348, S 349, S 353, T 355, N 357, Y 361, S 370, Y 371, E 374, S 375, N 396, E 399, T 402, Y 409, Y 412, S 414, R 424, E 425, Y 429, K 436, Y 447
 
 #### Seeds in cluster:
 
@@ -6531,11 +6703,11 @@ Total number of members in cluster: 16
 
 #### Sugars in cluster for seeds:
 
-CAD19991.1, ADT75640.1, WP_000864940.1:
+ADT75640.1, CAD19991.1, WP_000864940.1:
 
 ![](../../../csdb/images/114261.gif)
 
-114261
+CSDB record ID: 114261
 
 #### Sugars in cluster for blast hits:
 
@@ -6555,7 +6727,9 @@ CAD19991.1, ADT75640.1, WP_000864940.1:
 
 Total number of members in cluster: 15
 
-#### Conserved resiudes: Y 56, D 60, R 63, H 64, K 104, S 115, Y 116, S 163, R 166, Y 176, H 206, S 208, Y 272, Y 276, D 278, S 344, S 346, R 352, S 375, S 408, Y 414
+#### Conserved (non-aliphatic) residues:
+
+Y 56, D 60, R 63, H 64, K 104, S 115, Y 116, S 163, R 166, Y 176, H 206, S 208, Y 272, Y 276, D 278, S 344, S 346, R 352, S 375, S 408, Y 414
 
 #### Seeds in cluster:
 
@@ -6581,7 +6755,7 @@ ADV17650.1:
 
 ![](../../../csdb/images/1513.gif)
 
-1513
+CSDB record ID: 1513
 
 #### Sugars in cluster for blast hits:
 
@@ -6603,7 +6777,9 @@ ADV17650.1:
 
 Total number of members in cluster: 15
 
-#### Conserved resiudes: D 76, D 102, Y 131, R 174, H 211, S 213, Y 292, R 374
+#### Conserved (non-aliphatic) residues:
+
+D 76, D 102, Y 131, R 174, H 211, S 213, Y 292, R 374
 
 #### Seeds in cluster:
 
@@ -6627,23 +6803,23 @@ Total number of members in cluster: 15
 
 #### Sugars in cluster for seeds:
 
-BAQ01999.1:
+ACD37078.1:
 
-![](../../../csdb/images/1923.gif)
+![](../../../csdb/images/1851.gif)
 
-1923
+CSDB record ID: 1851
 
 ACD37086.1:
 
 ![](../../../csdb/images/705.gif)
 
-705
+CSDB record ID: 705
 
-ACD37078.1:
+BAQ01999.1:
 
-![](../../../csdb/images/1851.gif)
+![](../../../csdb/images/1923.gif)
 
-1851
+CSDB record ID: 1923
 
 #### Sugars in cluster for blast hits:
 
@@ -6668,7 +6844,9 @@ ACD37078.1:
 
 Total number of members in cluster: 15
 
-#### Conserved resiudes: S 105, R 113, S 205, K 241, R 277, Y 279, Y 283, R 320, Q 342, E 347, D 380, R 383, S 396, E 400, Y 403, N 456, Y 459, R 462, S 463, K 471
+#### Conserved (non-aliphatic) residues:
+
+S 105, R 113, S 205, K 241, R 277, Y 279, Y 283, R 320, Q 342, E 347, D 380, R 383, S 396, E 400, Y 403, N 456, Y 459, R 462, S 463, K 471
 
 #### Seeds in cluster:
 
@@ -6695,7 +6873,7 @@ AAO37717.1:
 
 ![](../../../csdb/images/1439.gif)
 
-1439
+CSDB record ID: 1439
 
 #### Sugars in cluster for blast hits:
 
@@ -6719,7 +6897,9 @@ AAO37717.1:
 
 Total number of members in cluster: 15
 
-#### Conserved resiudes: S 41, N 42, D 43, Y 47, D 49, E 64, S 92, K 96, Y 117, S 120, H 125, E 126, T 128, Q 129, R 131, H 165, Y 166, S 167, N 214, Y 220, N 223, S 224, S 234, T 236, S 294, S 296, S 300, R 302, Y 304, E 305, S 308, R 343, S 354, H 356, R 357, N 365
+#### Conserved (non-aliphatic) residues:
+
+S 41, N 42, D 43, Y 47, D 49, E 64, S 92, K 96, Y 117, S 120, H 125, E 126, T 128, Q 129, R 131, H 165, Y 166, S 167, N 214, Y 220, N 223, S 224, S 234, T 236, S 294, S 296, S 300, R 302, Y 304, E 305, S 308, R 343, S 354, H 356, R 357, N 365
 
 #### Seeds in cluster:
 
@@ -6743,17 +6923,17 @@ Total number of members in cluster: 15
 
 #### Sugars in cluster for seeds:
 
-AQU71717.1, AQU71739.1:
+AQU71739.1, AQU71717.1:
 
 ![](../../../csdb/images/7222.gif)
 
-7222
+CSDB record ID: 7222
 
 AFW04812.1:
 
 ![](../../../csdb/images/703.gif)
 
-703
+CSDB record ID: 703
 
 #### Sugars in cluster for blast hits:
 
@@ -6775,7 +6955,9 @@ AFW04812.1:
 
 Total number of members in cluster: 15
 
-#### Conserved resiudes: Q 41, Y 177, Y 179, K 182, N 183, S 184, R 234, S 312, R 314, E 400
+#### Conserved (non-aliphatic) residues:
+
+Q 41, Y 177, Y 179, K 182, N 183, S 184, R 234, S 312, R 314, E 400
 
 #### Seeds in cluster:
 
@@ -6801,7 +6983,7 @@ CAI32797.1:
 
 ![](../../../csdb/images/1947.gif)
 
-1947
+CSDB record ID: 1947
 
 #### Sugars in cluster for blast hits:
 
@@ -6830,7 +7012,9 @@ CAI32797.1:
 
 Total number of members in cluster: 15
 
-#### Conserved resiudes: S 30, Y 33, Y 34, K 54, K 57, Y 58, S 65, E 154, Y 165, T 169, R 173, S 174, S 176, N 180, N 183, Y 187, S 220, S 222, R 223, T 224, Y 271, R 284, R 294, D 306, D 313, Y 327, N 332, Y 378, S 391, N 395, Q 396, S 401
+#### Conserved (non-aliphatic) residues:
+
+S 30, Y 33, Y 34, K 54, K 57, Y 58, S 65, E 154, Y 165, T 169, R 173, S 174, S 176, N 180, N 183, Y 187, S 220, S 222, R 223, T 224, Y 271, R 284, R 294, D 306, D 313, Y 327, N 332, Y 378, S 391, N 395, Q 396, S 401
 
 #### Seeds in cluster:
 
@@ -6855,11 +7039,11 @@ Total number of members in cluster: 15
 
 #### Sugars in cluster for seeds:
 
-GEF03964.1, AFD18613.1, AAX58762.1, AHG15281.1:
+AFD18613.1, AAX58762.1, AHG15281.1, GEF03964.1:
 
 ![](../../../csdb/images/1886.gif)
 
-1886
+CSDB record ID: 1886
 
 #### Sugars in cluster for blast hits:
 
@@ -6882,7 +7066,9 @@ GEF03964.1, AFD18613.1, AAX58762.1, AHG15281.1:
 
 Total number of members in cluster: 15
 
-#### Conserved resiudes: S 60, S 101, K 126, H 186, R 197, R 199, E 204, S 206, S 245, K 246, D 299, S 305, T 308, R 309, Y 329, E 363, K 377, K 416, Y 440
+#### Conserved (non-aliphatic) residues:
+
+S 60, S 101, K 126, H 186, R 197, R 199, E 204, S 206, S 245, K 246, D 299, S 305, T 308, R 309, Y 329, E 363, K 377, K 416, Y 440
 
 #### Seeds in cluster:
 
@@ -6905,17 +7091,17 @@ Total number of members in cluster: 15
 
 #### Sugars in cluster for seeds:
 
-ACA24882.1:
-
-![](../../../csdb/images/108653.gif)
-
-108653
-
 ACA24868.1:
 
 ![](../../../csdb/images/1565.gif)
 
-1565
+CSDB record ID: 1565
+
+ACA24882.1:
+
+![](../../../csdb/images/108653.gif)
+
+CSDB record ID: 108653
 
 #### Sugars in cluster for blast hits:
 
@@ -6943,7 +7129,9 @@ ACA24868.1:
 
 Total number of members in cluster: 14
 
-#### Conserved resiudes: Y 8, D 22, R 52, Y 53, D 58, Y 62, E 77, E 137, R 140, Q 141, H 174, S 176, K 235, Y 239, K 256, T 306, R 310, Y 314, Y 359, Y 367, N 369, R 386
+#### Conserved (non-aliphatic) residues:
+
+Y 8, D 22, R 52, Y 53, D 58, Y 62, E 77, E 137, R 140, Q 141, H 174, S 176, K 235, Y 239, K 256, T 306, R 310, Y 314, Y 359, Y 367, N 369, R 386
 
 #### Seeds in cluster:
 
@@ -6966,17 +7154,17 @@ Total number of members in cluster: 14
 
 #### Sugars in cluster for seeds:
 
-ACA24840.1:
-
-![](../../../csdb/images/1932.gif)
-
-1932
-
 ACA24852.1:
 
 ![](../../../csdb/images/1538.gif)
 
-1538
+CSDB record ID: 1538
+
+ACA24840.1:
+
+![](../../../csdb/images/1932.gif)
+
+CSDB record ID: 1932
 
 #### Sugars in cluster for blast hits:
 
@@ -7005,7 +7193,9 @@ ACA24852.1:
 
 Total number of members in cluster: 14
 
-#### Conserved resiudes: D 56, T 57, Y 60, N 89, S 133, E 138, T 141, N 142, R 145, Q 146, S 149, H 179, Y 235, R 246, Y 297, R 301, Y 304, N 339, S 350
+#### Conserved (non-aliphatic) residues:
+
+D 56, T 57, Y 60, N 89, S 133, E 138, T 141, N 142, R 145, Q 146, S 149, H 179, Y 235, R 246, Y 297, R 301, Y 304, N 339, S 350
 
 #### Seeds in cluster:
 
@@ -7032,7 +7222,7 @@ ABI98966.1:
 
 ![](../../../csdb/images/1890.gif)
 
-1890
+CSDB record ID: 1890
 
 #### Sugars in cluster for blast hits:
 
@@ -7058,7 +7248,9 @@ ABI98966.1:
 
 Total number of members in cluster: 14
 
-#### Conserved resiudes: K 53, K 59, D 64, Q 74, T 83, Y 99, K 103, Q 128, Q 132, D 140, D 147, R 149, Y 151, R 155, K 156, N 157, T 160, Y 162, Y 173, S 203, T 205, Y 229, S 270, R 272, N 286, T 301, N 302, H 310, N 311, D 315, R 319, K 339, Y 357, E 361
+#### Conserved (non-aliphatic) residues:
+
+K 53, K 59, D 64, Q 74, T 83, Y 99, K 103, Q 128, Q 132, D 140, D 147, R 149, Y 151, R 155, K 156, N 157, T 160, Y 162, Y 173, S 203, T 205, Y 229, S 270, R 272, N 286, T 301, N 302, H 310, N 311, D 315, R 319, K 339, Y 357, E 361
 
 #### Seeds in cluster:
 
@@ -7083,29 +7275,29 @@ Total number of members in cluster: 14
 
 #### Sugars in cluster for seeds:
 
+CAI32993.1:
+
+![](../../../csdb/images/7046.gif)
+
+CSDB record ID: 7046
+
 CAI33029.1:
 
 ![](../../../csdb/images/320.gif)
 
-320
-
-CAI33011.1:
-
-![](../../../csdb/images/7415.gif)
-
-7415
+CSDB record ID: 320
 
 CAI32973.1:
 
 ![](../../../csdb/images/112112.gif)
 
-112112
+CSDB record ID: 112112
 
-CAI32993.1:
+CAI33011.1:
 
-![](../../../csdb/images/7046.gif)
+![](../../../csdb/images/7415.gif)
 
-7046
+CSDB record ID: 7415
 
 #### Sugars in cluster for blast hits:
 
@@ -7113,7 +7305,7 @@ CZE39046.1:
 
 ![](../../../csdb/images/1947.gif)
 
-1947
+CSDB record ID: 1947
 
 #### Alphafold models:
 
@@ -7132,7 +7324,9 @@ CZE39046.1:
 
 Total number of members in cluster: 14
 
-#### Conserved resiudes: D 52, Y 217, K 219, S 252, R 332, E 373, D 375, H 376, R 381, N 427
+#### Conserved (non-aliphatic) residues:
+
+D 52, Y 217, K 219, S 252, R 332, E 373, D 375, H 376, R 381, N 427
 
 #### Seeds in cluster:
 
@@ -7158,7 +7352,7 @@ BAQ01456.1:
 
 ![](../../../csdb/images/1838.gif)
 
-1838
+CSDB record ID: 1838
 
 #### Sugars in cluster for blast hits:
 
@@ -7184,7 +7378,9 @@ BAQ01456.1:
 
 Total number of members in cluster: 14
 
-#### Conserved resiudes: S 59, R 93, R 312, K 384, S 402, R 406, E 409, N 412, H 467, Y 485
+#### Conserved (non-aliphatic) residues:
+
+S 59, R 93, R 312, K 384, S 402, R 406, E 409, N 412, H 467, Y 485
 
 #### Seeds in cluster:
 
@@ -7211,7 +7407,7 @@ ACA24912.1:
 
 ![](../../../csdb/images/23812.gif)
 
-23812
+CSDB record ID: 23812
 
 #### Sugars in cluster for blast hits:
 
@@ -7237,7 +7433,9 @@ ACA24912.1:
 
 Total number of members in cluster: 14
 
-#### Conserved resiudes: S 33, S 66, K 95, S 108, K 109, Y 118, Y 121, D 124, S 136, S 140, E 141, S 170, N 172, H 175, T 177, R 178, T 181, Y 191, K 203, R 226, S 227, S 246, Y 250, E 251, S 252, Q 256, S 258, D 281, T 286, K 295, S 309, S 315, Y 317, Y 323, Y 332, Y 359, Y 361, D 365, R 369, R 372, D 373, K 380
+#### Conserved (non-aliphatic) residues:
+
+S 33, S 66, K 95, S 108, K 109, Y 118, Y 121, D 124, S 136, S 140, E 141, S 170, N 172, H 175, T 177, R 178, T 181, Y 191, K 203, R 226, S 227, S 246, Y 250, E 251, S 252, Q 256, S 258, D 281, T 286, K 295, S 309, S 315, Y 317, Y 323, Y 332, Y 359, Y 361, D 365, R 369, R 372, D 373, K 380
 
 #### Seeds in cluster:
 
@@ -7270,7 +7468,7 @@ AGS07346.1:
 
 ![](../../../csdb/images/30907.gif)
 
-30907
+CSDB record ID: 30907
 
 #### Sugars in cluster for blast hits:
 
@@ -7292,7 +7490,9 @@ AGS07346.1:
 
 Total number of members in cluster: 14
 
-#### Conserved resiudes: E 209, S 352, E 429, R 486
+#### Conserved (non-aliphatic) residues:
+
+E 209, S 352, E 429, R 486
 
 #### Seeds in cluster:
 
@@ -7319,13 +7519,13 @@ ACD36984.1:
 
 ![](../../../csdb/images/1937.gif)
 
-1937
+CSDB record ID: 1937
 
 ACD36996.1:
 
 ![](../../../csdb/images/1910.gif)
 
-1910
+CSDB record ID: 1910
 
 #### Sugars in cluster for blast hits:
 
@@ -7352,7 +7552,9 @@ ACD36996.1:
 
 Total number of members in cluster: 13
 
-#### Conserved resiudes: H 26, H 114, Y 140, R 143, E 150, N 159, Y 160, R 202, Y 216, K 248, Y 271, Q 274, Y 282, H 315, N 329, Y 331, S 332, S 336, Y 353, S 385, S 388, D 389, K 400
+#### Conserved (non-aliphatic) residues:
+
+H 26, H 114, Y 140, R 143, E 150, N 159, Y 160, R 202, Y 216, K 248, Y 271, Q 274, Y 282, H 315, N 329, Y 331, S 332, S 336, Y 353, S 385, S 388, D 389, K 400
 
 #### Seeds in cluster:
 
@@ -7391,7 +7593,9 @@ Total number of members in cluster: 13
 
 Total number of members in cluster: 13
 
-#### Conserved resiudes: Q 112, R 122, Q 166, R 192, R 240, R 317, D 367, N 368
+#### Conserved (non-aliphatic) residues:
+
+Q 112, R 122, Q 166, R 192, R 240, R 317, D 367, N 368
 
 #### Seeds in cluster:
 
@@ -7419,13 +7623,13 @@ CAI32889.1:
 
 ![](../../../csdb/images/7041.gif)
 
-7041
+CSDB record ID: 7041
 
 CAI32910.1:
 
 ![](../../../csdb/images/7042.gif)
 
-7042
+CSDB record ID: 7042
 
 #### Sugars in cluster for blast hits:
 
@@ -7448,7 +7652,9 @@ CAI32910.1:
 
 Total number of members in cluster: 13
 
-#### Conserved resiudes: Y 15, Q 18, D 25, R 27, Q 44, Q 62, T 82, E 84, K 93, E 94, D 100, D 102, K 107, N 114, Y 117, R 119, Y 120, K 122, Y 123, N 126, K 140, Y 150, T 153, Y 159, R 160, S 161, E 162, Q 169, Y 170, Y 205, S 207, Q 210, N 215, N 220, R 223, N 226, R 227, T 229, E 231, Q 232, E 234, Y 238, E 242, S 243, D 247, T 251, E 253, K 256, E 257, N 263, R 264, K 269, Y 275, E 277, R 278, H 280, K 281, D 286, N 290, S 293, T 295, T 296, E 300, T 330, Y 339, S 340, Q 348, Y 349, N 354, S 356, H 377, D 378, K 381, R 382
+#### Conserved (non-aliphatic) residues:
+
+Y 15, Q 18, D 25, R 27, Q 44, Q 62, T 82, E 84, K 93, E 94, D 100, D 102, K 107, N 114, Y 117, R 119, Y 120, K 122, Y 123, N 126, K 140, Y 150, T 153, Y 159, R 160, S 161, E 162, Q 169, Y 170, Y 205, S 207, Q 210, N 215, N 220, R 223, N 226, R 227, T 229, E 231, Q 232, E 234, Y 238, E 242, S 243, D 247, T 251, E 253, K 256, E 257, N 263, R 264, K 269, Y 275, E 277, R 278, H 280, K 281, D 286, N 290, S 293, T 295, T 296, E 300, T 330, Y 339, S 340, Q 348, Y 349, N 354, S 356, H 377, D 378, K 381, R 382
 
 #### Seeds in cluster:
 
@@ -7477,11 +7683,11 @@ Total number of members in cluster: 13
 
 #### Sugars in cluster for seeds:
 
-EKK44895.1, BAK69191.1, EKI95922.1, BAK68980.1, AAC32340.1, BAK69033.1, EKI39969.1:
+EKI39969.1, BAK68980.1, EKI95922.1, AAC32340.1, BAK69191.1, BAK69033.1, EKK44895.1:
 
 ![](../../../csdb/images/695.gif)
 
-695
+CSDB record ID: 695
 
 #### Sugars in cluster for blast hits:
 
@@ -7505,7 +7711,9 @@ EKK44895.1, BAK69191.1, EKI95922.1, BAK68980.1, AAC32340.1, BAK69033.1, EKI39969
 
 Total number of members in cluster: 13
 
-#### Conserved resiudes: R 75, Y 93, E 138, S 148, R 149, D 152, N 155, T 166, Y 169, Y 170, N 171, E 172, N 173, D 174, S 212, K 213, Y 222, K 232, R 277, D 295, S 297, E 300, R 301, Y 305, Y 329, E 330, R 340, H 345, N 346, E 350, T 353, Y 360
+#### Conserved (non-aliphatic) residues:
+
+R 75, Y 93, E 138, S 148, R 149, D 152, N 155, T 166, Y 169, Y 170, N 171, E 172, N 173, D 174, S 212, K 213, Y 222, K 232, R 277, D 295, S 297, E 300, R 301, Y 305, Y 329, E 330, R 340, H 345, N 346, E 350, T 353, Y 360
 
 #### Seeds in cluster:
 
@@ -7534,25 +7742,25 @@ BAQ01277.1:
 
 ![](../../../csdb/images/1589.gif)
 
-1589
-
-ACD37058.1:
-
-![](../../../csdb/images/1540.gif)
-
-1540
-
-ACD37051.1:
-
-![](../../../csdb/images/3977.gif)
-
-3977
+CSDB record ID: 1589
 
 BAQ00736.1:
 
 ![](../../../csdb/images/1530.gif)
 
-1530
+CSDB record ID: 1530
+
+ACD37058.1:
+
+![](../../../csdb/images/1540.gif)
+
+CSDB record ID: 1540
+
+ACD37051.1:
+
+![](../../../csdb/images/3977.gif)
+
+CSDB record ID: 3977
 
 #### Sugars in cluster for blast hits:
 
@@ -7575,7 +7783,9 @@ BAQ00736.1:
 
 Total number of members in cluster: 12
 
-#### Conserved resiudes: N 150, R 180, D 187, Y 221, R 229, R 296, D 343
+#### Conserved (non-aliphatic) residues:
+
+N 150, R 180, D 187, Y 221, R 229, R 296, D 343
 
 #### Seeds in cluster:
 
@@ -7616,7 +7826,9 @@ Total number of members in cluster: 12
 
 Total number of members in cluster: 12
 
-#### Conserved resiudes: K 25, S 39, R 42, Y 43, D 48, S 51, Y 52, Y 55, Y 66, N 84, Q 86, Y 92, Y 101, Y 128, S 129, N 137, Q 138, R 140, S 144, Y 150, H 172, S 173, Y 227, S 230, E 240, Y 243, S 284, D 286, R 292, D 295, K 298, K 318, N 341, S 346, N 347, Y 359, Y 361, N 364
+#### Conserved (non-aliphatic) residues:
+
+K 25, S 39, R 42, Y 43, D 48, S 51, Y 52, Y 55, Y 66, N 84, Q 86, Y 92, Y 101, Y 128, S 129, N 137, Q 138, R 140, S 144, Y 150, H 172, S 173, Y 227, S 230, E 240, Y 243, S 284, D 286, R 292, D 295, K 298, K 318, N 341, S 346, N 347, Y 359, Y 361, N 364
 
 #### Seeds in cluster:
 
@@ -7640,23 +7852,23 @@ Total number of members in cluster: 12
 
 #### Sugars in cluster for seeds:
 
-ACD37105.1:
+ACD37138.1:
 
-![](../../../csdb/images/718.gif)
+![](../../../csdb/images/1863.gif)
 
-718
+CSDB record ID: 1863
 
 ACD37146.1:
 
 ![](../../../csdb/images/1906.gif)
 
-1906
+CSDB record ID: 1906
 
-ACD37138.1:
+ACD37105.1:
 
-![](../../../csdb/images/1863.gif)
+![](../../../csdb/images/718.gif)
 
-1863
+CSDB record ID: 718
 
 #### Sugars in cluster for blast hits:
 
@@ -7678,7 +7890,9 @@ ACD37138.1:
 
 Total number of members in cluster: 12
 
-#### Conserved resiudes: R 24, D 28, K 48, D 98, R 99, Y 111, R 112, Y 117, R 119, Y 120, Y 126, R 171, N 178, S 216, T 218, S 220, Y 270, Y 272, S 275, N 278, R 279, D 309, N 310, S 317, Y 329, Q 350, Y 361
+#### Conserved (non-aliphatic) residues:
+
+R 24, D 28, K 48, D 98, R 99, Y 111, R 112, Y 117, R 119, Y 120, Y 126, R 171, N 178, S 216, T 218, S 220, Y 270, Y 272, S 275, N 278, R 279, D 309, N 310, S 317, Y 329, Q 350, Y 361
 
 #### Seeds in cluster:
 
@@ -7704,7 +7918,7 @@ BAQ01960.1:
 
 ![](../../../csdb/images/1921.gif)
 
-1921
+CSDB record ID: 1921
 
 #### Sugars in cluster for blast hits:
 
@@ -7727,7 +7941,9 @@ BAQ01960.1:
 
 Total number of members in cluster: 12
 
-#### Conserved resiudes: R 183, S 238, R 239, T 240, K 305, E 312, R 331, E 334, H 386, N 387, Y 389
+#### Conserved (non-aliphatic) residues:
+
+R 183, S 238, R 239, T 240, K 305, E 312, R 331, E 334, H 386, N 387, Y 389
 
 #### Seeds in cluster:
 
@@ -7770,7 +7986,9 @@ Total number of members in cluster: 12
 
 Total number of members in cluster: 11
 
-#### Conserved resiudes: Y 3, S 10, N 13, R 19, T 21, S 33, Y 37, N 38, D 42, N 45, Y 46, Y 50, D 55, E 61, Y 78, S 83, S 86, T 89, Y 93, Y 94, R 98, Y 113, Y 118, Y 120, E 122, H 123, N 125, R 128, Q 129, Y 138, S 139, K 141, Y 151, S 159, H 162, Y 172, R 176, K 181, Y 184, Y 185, D 199, S 207, K 213, D 216, R 220, Y 221, S 225, D 230, S 233, K 234, K 235, S 236, S 241, K 242, Y 244, R 264, D 265, N 270, S 282, Q 284, D 286, R 290, S 293, E 296, S 298, Y 303, N 311, Y 342
+#### Conserved (non-aliphatic) residues:
+
+Y 3, S 10, N 13, R 19, T 21, S 33, Y 37, N 38, D 42, N 45, Y 46, Y 50, D 55, E 61, Y 78, S 83, S 86, T 89, Y 93, Y 94, R 98, Y 113, Y 118, Y 120, E 122, H 123, N 125, R 128, Q 129, Y 138, S 139, K 141, Y 151, S 159, H 162, Y 172, R 176, K 181, Y 184, Y 185, D 199, S 207, K 213, D 216, R 220, Y 221, S 225, D 230, S 233, K 234, K 235, S 236, S 241, K 242, Y 244, R 264, D 265, N 270, S 282, Q 284, D 286, R 290, S 293, E 296, S 298, Y 303, N 311, Y 342
 
 #### Seeds in cluster:
 
@@ -7797,7 +8015,7 @@ AAO37701.1, WP_024244058.1:
 
 ![](../../../csdb/images/1867.gif)
 
-1867
+CSDB record ID: 1867
 
 #### Sugars in cluster for blast hits:
 
@@ -7818,7 +8036,9 @@ AAO37701.1, WP_024244058.1:
 
 Total number of members in cluster: 11
 
-#### Conserved resiudes: Y 29, S 76, N 82, D 85, K 86, S 88, Y 89, S 100, D 101, N 107, T 108, D 110, S 111, Y 114, Y 115, Q 135, N 136, K 149, H 164, S 170, R 172, H 174, H 203, K 248, Y 252, Y 259, K 296, S 306, R 317, D 323, R 355, K 358
+#### Conserved (non-aliphatic) residues:
+
+Y 29, S 76, N 82, D 85, K 86, S 88, Y 89, S 100, D 101, N 107, T 108, D 110, S 111, Y 114, Y 115, Q 135, N 136, K 149, H 164, S 170, R 172, H 174, H 203, K 248, Y 252, Y 259, K 296, S 306, R 317, D 323, R 355, K 358
 
 #### Seeds in cluster:
 
@@ -7841,11 +8061,11 @@ Total number of members in cluster: 11
 
 #### Sugars in cluster for seeds:
 
-ADN43845.1, ABE98419.1:
+ABE98419.1, ADN43845.1:
 
 ![](../../../csdb/images/1865.gif)
 
-1865
+CSDB record ID: 1865
 
 #### Sugars in cluster for blast hits:
 
@@ -7868,7 +8088,9 @@ ADN43845.1, ABE98419.1:
 
 Total number of members in cluster: 11
 
-#### Conserved resiudes: Y 73, E 74, N 124, S 126, R 147, Q 148, H 181, S 183, K 238, D 259, H 294, Q 304, R 305, Y 357, D 396
+#### Conserved (non-aliphatic) residues:
+
+Y 73, E 74, N 124, S 126, R 147, Q 148, H 181, S 183, K 238, D 259, H 294, Q 304, R 305, Y 357, D 396
 
 #### Seeds in cluster:
 
@@ -7894,7 +8116,7 @@ BAQ01563.1:
 
 ![](../../../csdb/images/1856.gif)
 
-1856
+CSDB record ID: 1856
 
 #### Sugars in cluster for blast hits:
 
@@ -7917,7 +8139,9 @@ BAQ01563.1:
 
 Total number of members in cluster: 11
 
-#### Conserved resiudes: R 138, R 174, R 224, R 228, R 252, S 254, S 255, E 302, N 341, S 378, E 383
+#### Conserved (non-aliphatic) residues:
+
+R 138, R 174, R 224, R 228, R 252, S 254, S 255, E 302, N 341, S 378, E 383
 
 #### Seeds in cluster:
 
@@ -7943,7 +8167,7 @@ ADB02825.1:
 
 ![](../../../csdb/images/1859.gif)
 
-1859
+CSDB record ID: 1859
 
 #### Sugars in cluster for blast hits:
 
@@ -7967,7 +8191,9 @@ ADB02825.1:
 
 Total number of members in cluster: 10
 
-#### Conserved resiudes: Y 11, S 48, R 50, D 55, R 56, D 57, Y 61, S 81, Q 86, E 87, K 95, R 108, Y 139, R 147, D 148, T 150, Q 151, R 153, S 164, S 176, H 187, N 188, Q 242, T 244, R 245, Y 246, T 257, Y 286, K 287, Y 290, Q 313, T 318
+#### Conserved (non-aliphatic) residues:
+
+Y 11, S 48, R 50, D 55, R 56, D 57, Y 61, S 81, Q 86, E 87, K 95, R 108, Y 139, R 147, D 148, T 150, Q 151, R 153, S 164, S 176, H 187, N 188, Q 242, T 244, R 245, Y 246, T 257, Y 286, K 287, Y 290, Q 313, T 318
 
 #### Seeds in cluster:
 
@@ -7993,7 +8219,7 @@ ADC54957.1:
 
 ![](../../../csdb/images/1908.gif)
 
-1908
+CSDB record ID: 1908
 
 #### Sugars in cluster for blast hits:
 
@@ -8013,7 +8239,9 @@ ADC54957.1:
 
 Total number of members in cluster: 10
 
-#### Conserved resiudes: Y 3, R 44, H 46, T 47, D 50, E 52, Y 54, D 55, Y 56, N 73, Y 77, E 78, T 103, S 110, Y 114, Y 127, Y 130, Y 132, H 134, N 135, S 137, R 140, Q 141, Y 150, S 151, R 153, H 174, S 176, S 206, S 216, S 226, Y 235, N 238, S 242, Y 243, K 244, S 248, K 250, Y 251, E 253, Y 293, S 294, N 297, D 298, S 300, Y 303, E 304, R 305, E 311, S 313, R 345, Y 346, R 358, E 362, H 365, E 367, R 368, E 370, N 371, Y 372, S 374, R 383
+#### Conserved (non-aliphatic) residues:
+
+Y 3, R 44, H 46, T 47, D 50, E 52, Y 54, D 55, Y 56, N 73, Y 77, E 78, T 103, S 110, Y 114, Y 127, Y 130, Y 132, H 134, N 135, S 137, R 140, Q 141, Y 150, S 151, R 153, H 174, S 176, S 206, S 216, S 226, Y 235, N 238, S 242, Y 243, K 244, S 248, K 250, Y 251, E 253, Y 293, S 294, N 297, D 298, S 300, Y 303, E 304, R 305, E 311, S 313, R 345, Y 346, R 358, E 362, H 365, E 367, R 368, E 370, N 371, Y 372, S 374, R 383
 
 #### Seeds in cluster:
 
@@ -8040,13 +8268,13 @@ AFW04684.1:
 
 ![](../../../csdb/images/30392.gif)
 
-30392
+CSDB record ID: 30392
 
 ACV67297.1:
 
 ![](../../../csdb/images/1584.gif)
 
-1584
+CSDB record ID: 1584
 
 #### Sugars in cluster for blast hits:
 
@@ -8070,7 +8298,9 @@ ACV67297.1:
 
 Total number of members in cluster: 10
 
-#### Conserved resiudes: D 26, D 141, K 143, S 206, R 207, R 256, Y 280, Y 282, N 289, N 291, N 338, D 349, Y 370, K 389, N 398, Y 399, Y 410
+#### Conserved (non-aliphatic) residues:
+
+D 26, D 141, K 143, S 206, R 207, R 256, Y 280, Y 282, N 289, N 291, N 338, D 349, Y 370, K 389, N 398, Y 399, Y 410
 
 #### Seeds in cluster:
 
@@ -8093,17 +8323,17 @@ Total number of members in cluster: 10
 
 #### Sugars in cluster for seeds:
 
-BAQ01516.1:
-
-![](../../../csdb/images/25389.gif)
-
-25389
-
 AHB32586.1:
 
 ![](../../../csdb/images/491.gif)
 
-491
+CSDB record ID: 491
+
+BAQ01516.1:
+
+![](../../../csdb/images/25389.gif)
+
+CSDB record ID: 25389
 
 #### Sugars in cluster for blast hits:
 
@@ -8130,7 +8360,9 @@ AHB32586.1:
 
 Total number of members in cluster: 10
 
-#### Conserved resiudes: N 8, R 46, D 52, Y 56, Y 59, Y 70, Y 74, N 78, K 82, S 95, Q 103, Y 108, Y 122, S 125, D 130, R 135, S 137, H 169, E 170, N 213, N 219, N 221, Y 225, S 233, E 261, Y 265, S 279, Y 280, R 287, E 290, Y 296, Y 323, R 327, N 329, D 336
+#### Conserved (non-aliphatic) residues:
+
+N 8, R 46, D 52, Y 56, Y 59, Y 70, Y 74, N 78, K 82, S 95, Q 103, Y 108, Y 122, S 125, D 130, R 135, S 137, H 169, E 170, N 213, N 219, N 221, Y 225, S 233, E 261, Y 265, S 279, Y 280, R 287, E 290, Y 296, Y 323, R 327, N 329, D 336
 
 #### Seeds in cluster:
 
@@ -8153,17 +8385,17 @@ Total number of members in cluster: 10
 
 #### Sugars in cluster for seeds:
 
-BAQ00746.1:
-
-![](../../../csdb/images/20006.gif)
-
-20006
-
 AFW04888.1:
 
 ![](../../../csdb/images/3366.gif)
 
-3366
+CSDB record ID: 3366
+
+BAQ00746.1:
+
+![](../../../csdb/images/20006.gif)
+
+CSDB record ID: 20006
 
 #### Sugars in cluster for blast hits:
 
@@ -8185,7 +8417,9 @@ AFW04888.1:
 
 Total number of members in cluster: 10
 
-#### Conserved resiudes: N 76, Y 119, D 152, H 153, Y 159, Y 167, R 183, E 190, T 193, Y 197, R 221, S 232, S 234, K 253, Y 289, R 290, D 294, R 297, N 302, R 304, K 343, Q 346, R 347, Q 388, E 390
+#### Conserved (non-aliphatic) residues:
+
+N 76, Y 119, D 152, H 153, Y 159, Y 167, R 183, E 190, T 193, Y 197, R 221, S 232, S 234, K 253, Y 289, R 290, D 294, R 297, N 302, R 304, K 343, Q 346, R 347, Q 388, E 390
 
 #### Seeds in cluster:
 
@@ -8211,7 +8445,7 @@ BAQ01238.1:
 
 ![](../../../csdb/images/1452.gif)
 
-1452
+CSDB record ID: 1452
 
 #### Sugars in cluster for blast hits:
 
@@ -8232,7 +8466,9 @@ BAQ01238.1:
 
 Total number of members in cluster: 10
 
-#### Conserved resiudes: R 55, D 63, Y 67, S 117, Q 152, R 154, Q 155, H 188, S 218, K 247, Y 251, S 263, Y 269, K 282, N 306, N 310, S 311, R 317, T 319, Y 320
+#### Conserved (non-aliphatic) residues:
+
+R 55, D 63, Y 67, S 117, Q 152, R 154, Q 155, H 188, S 218, K 247, Y 251, S 263, Y 269, K 282, N 306, N 310, S 311, R 317, T 319, Y 320
 
 #### Seeds in cluster:
 
@@ -8256,23 +8492,23 @@ Total number of members in cluster: 10
 
 #### Sugars in cluster for seeds:
 
-BAQ01860.1, AIG62720.1:
+AIG62720.1, BAQ01860.1:
 
 ![](../../../csdb/images/1911.gif)
 
-1911
-
-AAL27339.1:
-
-![](../../../csdb/images/712.gif)
-
-712
+CSDB record ID: 1911
 
 BAL03056.1:
 
 ![](../../../csdb/images/1925.gif)
 
-1925
+CSDB record ID: 1925
+
+AAL27339.1:
+
+![](../../../csdb/images/712.gif)
+
+CSDB record ID: 712
 
 #### Sugars in cluster for blast hits:
 
@@ -8296,7 +8532,9 @@ BAL03056.1:
 
 Total number of members in cluster: 10
 
-#### Conserved resiudes: S 51, N 54, D 57, Y 59, Y 61, Y 89, N 115, R 143, E 145, S 147, T 148, R 150, Q 151, H 186, S 188, Y 315, R 326, Y 329, Y 330, R 370, R 375, Y 381, R 397
+#### Conserved (non-aliphatic) residues:
+
+S 51, N 54, D 57, Y 59, Y 61, Y 89, N 115, R 143, E 145, S 147, T 148, R 150, Q 151, H 186, S 188, Y 315, R 326, Y 329, Y 330, R 370, R 375, Y 381, R 397
 
 #### Seeds in cluster:
 
@@ -8322,7 +8560,7 @@ BAQ01293.1:
 
 ![](../../../csdb/images/1590.gif)
 
-1590
+CSDB record ID: 1590
 
 #### Sugars in cluster for blast hits:
 
@@ -8344,7 +8582,9 @@ BAQ01293.1:
 
 Total number of members in cluster: 10
 
-#### Conserved resiudes: D 21, T 43, D 45, T 55, Y 115, R 119, Y 123, S 128, Y 153, T 200, K 202, Q 203, S 211, R 244, Y 258, Y 262, S 265, Q 271, E 272, Y 274, S 284, H 307, T 317, N 318, Y 320, S 324, Y 326, H 341, Y 362, H 375, E 376, S 383, Q 387, S 396
+#### Conserved (non-aliphatic) residues:
+
+D 21, T 43, D 45, T 55, Y 115, R 119, Y 123, S 128, Y 153, T 200, K 202, Q 203, S 211, R 244, Y 258, Y 262, S 265, Q 271, E 272, Y 274, S 284, H 307, T 317, N 318, Y 320, S 324, Y 326, H 341, Y 362, H 375, E 376, S 383, Q 387, S 396
 
 #### Seeds in cluster:
 
@@ -8370,7 +8610,7 @@ BAQ00653.1:
 
 ![](../../../csdb/images/1517.gif)
 
-1517
+CSDB record ID: 1517
 
 #### Sugars in cluster for blast hits:
 
@@ -8392,7 +8632,9 @@ BAQ00653.1:
 
 Total number of members in cluster: 10
 
-#### Conserved resiudes: K 30, D 32, R 97, Q 100, K 162, D 163, H 176, N 178, K 220, R 281, Y 285, Y 299, H 319, N 320, S 324, E 328, N 373, Y 376, Y 378, K 379, H 381
+#### Conserved (non-aliphatic) residues:
+
+K 30, D 32, R 97, Q 100, K 162, D 163, H 176, N 178, K 220, R 281, Y 285, Y 299, H 319, N 320, S 324, E 328, N 373, Y 376, Y 378, K 379, H 381
 
 #### Seeds in cluster:
 
@@ -8418,7 +8660,7 @@ BAQ01207.1:
 
 ![](../../../csdb/images/1580.gif)
 
-1580
+CSDB record ID: 1580
 
 #### Sugars in cluster for blast hits:
 
@@ -8442,7 +8684,9 @@ BAQ01207.1:
 
 Total number of members in cluster: 10
 
-#### Conserved resiudes: S 127, R 146, E 236, K 284, R 285, Y 332, R 355, Y 359, H 407, T 462, N 464
+#### Conserved (non-aliphatic) residues:
+
+S 127, R 146, E 236, K 284, R 285, Y 332, R 355, Y 359, H 407, T 462, N 464
 
 #### Seeds in cluster:
 
@@ -8484,7 +8728,9 @@ Total number of members in cluster: 10
 
 Total number of members in cluster: 9
 
-#### Conserved resiudes: Y 100, N 184, Q 187, R 196, S 203, K 229, N 246, R 247, N 248, K 315, T 318, R 322, Q 346, D 358, N 359, N 425, N 426, E 430
+#### Conserved (non-aliphatic) residues:
+
+Y 100, N 184, Q 187, R 196, S 203, K 229, N 246, R 247, N 248, K 315, T 318, R 322, Q 346, D 358, N 359, N 425, N 426, E 430
 
 #### Seeds in cluster:
 
@@ -8507,11 +8753,11 @@ Total number of members in cluster: 9
 
 #### Sugars in cluster for seeds:
 
-ABB65530.1, ABZ79721.1:
+ABZ79721.1, ABB65530.1:
 
 ![](../../../csdb/images/1560.gif)
 
-1560
+CSDB record ID: 1560
 
 #### Sugars in cluster for blast hits:
 
@@ -8534,7 +8780,9 @@ ABB65530.1, ABZ79721.1:
 
 Total number of members in cluster: 9
 
-#### Conserved resiudes: E 10, K 68, S 98, K 110, S 112, K 140, D 152, Q 155, R 162, Q 164, Y 196, T 218, S 220, N 221, E 223, R 224, Y 229, D 237, Y 255, K 256, Y 259, N 267, D 268, H 270, Q 320, R 335
+#### Conserved (non-aliphatic) residues:
+
+E 10, K 68, S 98, K 110, S 112, K 140, D 152, Q 155, R 162, Q 164, Y 196, T 218, S 220, N 221, E 223, R 224, Y 229, D 237, Y 255, K 256, Y 259, N 267, D 268, H 270, Q 320, R 335
 
 #### Seeds in cluster:
 
@@ -8562,13 +8810,13 @@ WP_001300154.1, AFE83402.1:
 
 ![](../../../csdb/images/616.gif)
 
-616
+CSDB record ID: 616
 
 ADX97403.1:
 
 ![](../../../csdb/images/12137.gif)
 
-12137
+CSDB record ID: 12137
 
 #### Sugars in cluster for blast hits:
 
@@ -8594,7 +8842,9 @@ ADX97403.1:
 
 Total number of members in cluster: 9
 
-#### Conserved resiudes: E 8, Y 11, S 41, Y 43, S 44, S 46, R 51, Q 52, D 53, Y 58, Y 61, N 63, N 68, N 71, Y 73, K 74, S 79, D 82, N 92, Y 118, S 121, E 129, D 131, K 141, Y 145, Y 150, Y 176, Y 191, T 192, K 195, Y 196, N 199, Y 200, D 204, Q 205, T 206, D 207, Q 208, K 230, S 243, K 246, Y 250, S 251, S 282, S 286, D 295, S 297, Y 299, R 301, Y 302, Q 304, Q 307, N 311, Y 312, K 327, Y 329, D 339, Y 343, E 347, Q 357, Y 360, K 365, N 366, Y 406, D 414, K 421, T 422, Y 429, Y 431
+#### Conserved (non-aliphatic) residues:
+
+E 8, Y 11, S 41, Y 43, S 44, S 46, R 51, Q 52, D 53, Y 58, Y 61, N 63, N 68, N 71, Y 73, K 74, S 79, D 82, N 92, Y 118, S 121, E 129, D 131, K 141, Y 145, Y 150, Y 176, Y 191, T 192, K 195, Y 196, N 199, Y 200, D 204, Q 205, T 206, D 207, Q 208, K 230, S 243, K 246, Y 250, S 251, S 282, S 286, D 295, S 297, Y 299, R 301, Y 302, Q 304, Q 307, N 311, Y 312, K 327, Y 329, D 339, Y 343, E 347, Q 357, Y 360, K 365, N 366, Y 406, D 414, K 421, T 422, Y 429, Y 431
 
 #### Seeds in cluster:
 
@@ -8621,7 +8871,7 @@ BAQ02031.1:
 
 ![](../../../csdb/images/1926.gif)
 
-1926
+CSDB record ID: 1926
 
 #### Sugars in cluster for blast hits:
 
@@ -8645,7 +8895,9 @@ BAQ02031.1:
 
 Total number of members in cluster: 9
 
-#### Conserved resiudes: Q 9, Q 24, Q 27, R 33, E 39, N 47, Q 57, D 58, S 62, S 63, Y 64, Q 69, Q 76, S 77, T 78, N 83, T 90, Y 105, S 118, N 120, S 128, Q 129, Y 130, Q 131, H 133, K 136, K 138, E 147, K 151, N 179, Y 212, Q 216, S 219, Q 220, N 223, Q 224, R 226, T 227, Q 228, D 230, K 236, Y 246, S 247, K 250, Q 255, K 258, N 265, R 266, R 271, E 274, Q 276, S 297, Y 316, R 337, T 343, Q 348, N 350, T 353, E 356, N 360, S 388, Q 391, S 395, Y 414
+#### Conserved (non-aliphatic) residues:
+
+Q 9, Q 24, Q 27, R 33, E 39, N 47, Q 57, D 58, S 62, S 63, Y 64, Q 69, Q 76, S 77, T 78, N 83, T 90, Y 105, S 118, N 120, S 128, Q 129, Y 130, Q 131, H 133, K 136, K 138, E 147, K 151, N 179, Y 212, Q 216, S 219, Q 220, N 223, Q 224, R 226, T 227, Q 228, D 230, K 236, Y 246, S 247, K 250, Q 255, K 258, N 265, R 266, R 271, E 274, Q 276, S 297, Y 316, R 337, T 343, Q 348, N 350, T 353, E 356, N 360, S 388, Q 391, S 395, Y 414
 
 #### Seeds in cluster:
 
@@ -8685,7 +8937,9 @@ Total number of members in cluster: 9
 
 Total number of members in cluster: 9
 
-#### Conserved resiudes: Y 3, R 45, T 50, D 51, Y 55, E 77, N 84, Y 94, K 109, D 134, R 139, Q 140, H 175, R 323, Y 360
+#### Conserved (non-aliphatic) residues:
+
+Y 3, R 45, T 50, D 51, Y 55, E 77, N 84, Y 94, K 109, D 134, R 139, Q 140, H 175, R 323, Y 360
 
 #### Seeds in cluster:
 
@@ -8711,7 +8965,7 @@ AFW04860.1:
 
 ![](../../../csdb/images/3360.gif)
 
-3360
+CSDB record ID: 3360
 
 #### Sugars in cluster for blast hits:
 
@@ -8732,7 +8986,9 @@ AFW04860.1:
 
 Total number of members in cluster: 9
 
-#### Conserved resiudes: Q 153, D 162, N 165, Y 173, S 186, E 218, K 220, N 272, Y 285, R 300, N 302, Y 334, K 338, N 393
+#### Conserved (non-aliphatic) residues:
+
+Q 153, D 162, N 165, Y 173, S 186, E 218, K 220, N 272, Y 285, R 300, N 302, Y 334, K 338, N 393
 
 #### Seeds in cluster:
 
@@ -8759,13 +9015,13 @@ VSN79485.1, CAI33343.1:
 
 ![](../../../csdb/images/2973.gif)
 
-2973
+CSDB record ID: 2973
 
-VQD68897.1, CAI33412.1:
+CAI33412.1, VQD68897.1:
 
 ![](../../../csdb/images/2972.gif)
 
-2972
+CSDB record ID: 2972
 
 #### Sugars in cluster for blast hits:
 
@@ -8790,7 +9046,9 @@ VQD68897.1, CAI33412.1:
 
 Total number of members in cluster: 9
 
-#### Conserved resiudes: Y 10, E 23, H 26, H 31, E 47, Y 50, Y 55, N 61, K 78, Y 104, N 118, S 120, R 123, Y 125, D 129, D 130, N 133, R 139, S 144, S 147, S 148, S 162, K 176, Y 182, T 190, S 197, K 198, R 217, Y 218, Y 228, Y 229, Y 231, N 232, Y 233, S 235, Q 243, S 256, R 258, N 259, Y 261, Q 277, N 287, Y 289, Y 291, R 293, Y 295, D 298, Y 301, S 303, S 314, R 316, Y 318, K 321, Y 328, Y 329, Y 332, Y 337, Q 342, D 346, Q 347, Y 348, T 350, N 354
+#### Conserved (non-aliphatic) residues:
+
+Y 10, E 23, H 26, H 31, E 47, Y 50, Y 55, N 61, K 78, Y 104, N 118, S 120, R 123, Y 125, D 129, D 130, N 133, R 139, S 144, S 147, S 148, S 162, K 176, Y 182, T 190, S 197, K 198, R 217, Y 218, Y 228, Y 229, Y 231, N 232, Y 233, S 235, Q 243, S 256, R 258, N 259, Y 261, Q 277, N 287, Y 289, Y 291, R 293, Y 295, D 298, Y 301, S 303, S 314, R 316, Y 318, K 321, Y 328, Y 329, Y 332, Y 337, Q 342, D 346, Q 347, Y 348, T 350, N 354
 
 #### Seeds in cluster:
 
@@ -8831,7 +9089,9 @@ Total number of members in cluster: 9
 
 Total number of members in cluster: 9
 
-#### Conserved resiudes: K 27, N 90, Y 119, D 144, R 146, Y 147, N 157, N 159, S 160, Q 163, Y 203, S 261, R 263, D 298, S 300, Y 345, E 349, N 350, N 358, Y 362
+#### Conserved (non-aliphatic) residues:
+
+K 27, N 90, Y 119, D 144, R 146, Y 147, N 157, N 159, S 160, Q 163, Y 203, S 261, R 263, D 298, S 300, Y 345, E 349, N 350, N 358, Y 362
 
 #### Seeds in cluster:
 
@@ -8857,7 +9117,7 @@ BAQ01266.1:
 
 ![](../../../csdb/images/1588.gif)
 
-1588
+CSDB record ID: 1588
 
 #### Sugars in cluster for blast hits:
 
@@ -8879,7 +9139,9 @@ BAQ01266.1:
 
 Total number of members in cluster: 8
 
-#### Conserved resiudes: S 2, Y 6, N 12, N 18, S 29, Y 37, N 40, R 42, S 46, D 47, Y 51, R 52, R 54, Y 55, S 61, D 66, Y 69, D 74, S 77, H 78, S 82, Q 84, S 94, S 95, Y 99, K 103, K 104, N 108, Y 109, N 110, S 117, Y 120, Y 123, E 126, R 129, S 135, Y 142, R 149, H 163, S 165, Y 176, K 179, K 183, S 192, N 199, N 204, S 206, S 207, Y 208, S 219, K 223, R 225, Y 229, T 230, S 233, T 234, R 235, Y 241, Y 244, N 248, K 257, N 264, Y 277, Q 278, R 298, Y 299, T 303, N 307, S 321, K 324, T 339, E 347, N 348, Y 353, E 354, N 359, N 362
+#### Conserved (non-aliphatic) residues:
+
+S 2, Y 6, N 12, N 18, S 29, Y 37, N 40, R 42, S 46, D 47, Y 51, R 52, R 54, Y 55, S 61, D 66, Y 69, D 74, S 77, H 78, S 82, Q 84, S 94, S 95, Y 99, K 103, K 104, N 108, Y 109, N 110, S 117, Y 120, Y 123, E 126, R 129, S 135, Y 142, R 149, H 163, S 165, Y 176, K 179, K 183, S 192, N 199, N 204, S 206, S 207, Y 208, S 219, K 223, R 225, Y 229, T 230, S 233, T 234, R 235, Y 241, Y 244, N 248, K 257, N 264, Y 277, Q 278, R 298, Y 299, T 303, N 307, S 321, K 324, T 339, E 347, N 348, Y 353, E 354, N 359, N 362
 
 #### Seeds in cluster:
 
@@ -8905,7 +9167,7 @@ CAI34587.1:
 
 ![](../../../csdb/images/25004.gif)
 
-25004
+CSDB record ID: 25004
 
 #### Sugars in cluster for blast hits:
 
@@ -8925,7 +9187,9 @@ CAI34587.1:
 
 Total number of members in cluster: 8
 
-#### Conserved resiudes: K 30, N 168, N 176, T 210, R 211, T 212, R 278, D 306, T 316, D 318, Y 321, Y 361, T 364, E 365
+#### Conserved (non-aliphatic) residues:
+
+K 30, N 168, N 176, T 210, R 211, T 212, R 278, D 306, T 316, D 318, Y 321, Y 361, T 364, E 365
 
 #### Seeds in cluster:
 
@@ -8951,7 +9215,7 @@ CAI32957.1:
 
 ![](../../../csdb/images/938.gif)
 
-938
+CSDB record ID: 938
 
 #### Sugars in cluster for blast hits:
 
@@ -8974,7 +9238,9 @@ CAI32957.1:
 
 Total number of members in cluster: 8
 
-#### Conserved resiudes: Y 52, D 55, Y 129, R 196, R 201, K 251, T 252, R 253, Y 258, D 311, R 317, Y 324, Y 364, Y 365, S 367, D 368, N 404, D 434
+#### Conserved (non-aliphatic) residues:
+
+Y 52, D 55, Y 129, R 196, R 201, K 251, T 252, R 253, Y 258, D 311, R 317, Y 324, Y 364, Y 365, S 367, D 368, N 404, D 434
 
 #### Seeds in cluster:
 
@@ -9017,7 +9283,9 @@ Total number of members in cluster: 8
 
 Total number of members in cluster: 8
 
-#### Conserved resiudes: H 36, Q 76, S 98, R 101, E 146, K 167, Y 182, Y 183, Q 225, S 226, K 227, T 287, R 304, E 333, R 342, Y 343, Q 396, S 398, E 403, K 406
+#### Conserved (non-aliphatic) residues:
+
+H 36, Q 76, S 98, R 101, E 146, K 167, Y 182, Y 183, Q 225, S 226, K 227, T 287, R 304, E 333, R 342, Y 343, Q 396, S 398, E 403, K 406
 
 #### Seeds in cluster:
 
@@ -9043,7 +9311,7 @@ BAQ01419.1:
 
 ![](../../../csdb/images/1600.gif)
 
-1600
+CSDB record ID: 1600
 
 #### Sugars in cluster for blast hits:
 
@@ -9066,7 +9334,9 @@ BAQ01419.1:
 
 Total number of members in cluster: 8
 
-#### Conserved resiudes: K 71, S 73, S 77, T 84, R 90, S 98, N 100, Y 104, Y 105, N 110, K 132, S 150, R 151, S 164, Q 193, R 195, T 196, R 205, N 209, Y 213, S 235, Y 238, Y 241, S 244, N 254, D 258, Y 263, S 271, Y 274, N 280, Y 283, D 292, Y 301, R 326, S 335, R 340, D 341, E 345
+#### Conserved (non-aliphatic) residues:
+
+K 71, S 73, S 77, T 84, R 90, S 98, N 100, Y 104, Y 105, N 110, K 132, S 150, R 151, S 164, Q 193, R 195, T 196, R 205, N 209, Y 213, S 235, Y 238, Y 241, S 244, N 254, D 258, Y 263, S 271, Y 274, N 280, Y 283, D 292, Y 301, R 326, S 335, R 340, D 341, E 345
 
 #### Seeds in cluster:
 
@@ -9089,17 +9359,17 @@ Total number of members in cluster: 8
 
 #### Sugars in cluster for seeds:
 
-AAL27327.1:
-
-![](../../../csdb/images/1422.gif)
-
-1422
-
 ACA24739.1:
 
 ![](../../../csdb/images/1585.gif)
 
-1585
+CSDB record ID: 1585
+
+AAL27327.1:
+
+![](../../../csdb/images/1422.gif)
+
+CSDB record ID: 1422
 
 #### Sugars in cluster for blast hits:
 
@@ -9123,7 +9393,9 @@ ACA24739.1:
 
 Total number of members in cluster: 8
 
-#### Conserved resiudes: D 41, D 73, Y 83, S 87, R 127, S 165, S 176, R 185, E 187, K 200, Y 201, Y 206, Y 237, S 246, R 247, R 248, E 249, R 293, N 307, E 311, S 317, T 318, Y 321, S 335, Q 338, N 342, K 346, K 353, Y 376, T 379, T 382, E 383, N 387, S 404, E 408, Q 424, N 427, Q 429, R 430, S 435, E 439
+#### Conserved (non-aliphatic) residues:
+
+D 41, D 73, Y 83, S 87, R 127, S 165, S 176, R 185, E 187, K 200, Y 201, Y 206, Y 237, S 246, R 247, R 248, E 249, R 293, N 307, E 311, S 317, T 318, Y 321, S 335, Q 338, N 342, K 346, K 353, Y 376, T 379, T 382, E 383, N 387, S 404, E 408, Q 424, N 427, Q 429, R 430, S 435, E 439
 
 #### Seeds in cluster:
 
@@ -9165,7 +9437,9 @@ Total number of members in cluster: 8
 
 Total number of members in cluster: 8
 
-#### Conserved resiudes: E 134, N 140, N 158, Y 165, S 168, S 169, H 173, Y 174, T 175, Y 176, Y 179, N 195, Q 214, R 216, R 275, D 286, S 288, Q 291, R 292, T 295, N 298, Y 327, S 328, T 335, D 337, S 338, T 341, D 395, N 399, Y 407
+#### Conserved (non-aliphatic) residues:
+
+E 134, N 140, N 158, Y 165, S 168, S 169, H 173, Y 174, T 175, Y 176, Y 179, N 195, Q 214, R 216, R 275, D 286, S 288, Q 291, R 292, T 295, N 298, Y 327, S 328, T 335, D 337, S 338, T 341, D 395, N 399, Y 407
 
 #### Seeds in cluster:
 
@@ -9191,7 +9465,7 @@ CAI32727.1:
 
 ![](../../../csdb/images/1944.gif)
 
-1944
+CSDB record ID: 1944
 
 #### Sugars in cluster for blast hits:
 
@@ -9209,7 +9483,9 @@ CAI32727.1:
 
 Total number of members in cluster: 8
 
-#### Conserved resiudes: S 15, E 18, Y 47, D 52, Y 56, E 71, K 96, T 119, N 130, D 131, R 134, Q 135, H 166, K 227, Y 231, N 239, Y 241, R 246, E 287, Q 298, R 299, Y 303, N 314, Y 352, N 357, N 369
+#### Conserved (non-aliphatic) residues:
+
+S 15, E 18, Y 47, D 52, Y 56, E 71, K 96, T 119, N 130, D 131, R 134, Q 135, H 166, K 227, Y 231, N 239, Y 241, R 246, E 287, Q 298, R 299, Y 303, N 314, Y 352, N 357, N 369
 
 #### Seeds in cluster:
 
@@ -9235,7 +9511,7 @@ BAQ00634.1:
 
 ![](../../../csdb/images/1514.gif)
 
-1514
+CSDB record ID: 1514
 
 #### Sugars in cluster for blast hits:
 
@@ -9243,7 +9519,7 @@ AXY99336.1:
 
 ![](../../../csdb/images/3058.gif)
 
-3058
+CSDB record ID: 3058
 
 #### Alphafold models:
 
@@ -9261,7 +9537,9 @@ AXY99336.1:
 
 Total number of members in cluster: 8
 
-#### Conserved resiudes: Y 44, E 51, Y 53, Y 123, R 144, D 146, K 149, N 201, K 202, Y 238, Y 254, S 258, R 262, Q 267, K 293, Y 301, S 304, S 307, E 315
+#### Conserved (non-aliphatic) residues:
+
+Y 44, E 51, Y 53, Y 123, R 144, D 146, K 149, N 201, K 202, Y 238, Y 254, S 258, R 262, Q 267, K 293, Y 301, S 304, S 307, E 315
 
 #### Seeds in cluster:
 
@@ -9287,7 +9565,7 @@ ADJ19217.1:
 
 ![](../../../csdb/images/1568.gif)
 
-1568
+CSDB record ID: 1568
 
 #### Sugars in cluster for blast hits:
 
@@ -9312,7 +9590,9 @@ ADJ19217.1:
 
 Total number of members in cluster: 8
 
-#### Conserved resiudes: S 89, R 144, R 153, T 155, E 160, S 162, H 163, Y 164, T 195, S 197, S 199, K 250, S 267, R 271, S 274, Y 310, Y 311, N 314, N 325, S 333, S 368, Y 373
+#### Conserved (non-aliphatic) residues:
+
+S 89, R 144, R 153, T 155, E 160, S 162, H 163, Y 164, T 195, S 197, S 199, K 250, S 267, R 271, S 274, Y 310, Y 311, N 314, N 325, S 333, S 368, Y 373
 
 #### Seeds in cluster:
 
@@ -9338,7 +9618,7 @@ BAQ02015.1:
 
 ![](../../../csdb/images/1924.gif)
 
-1924
+CSDB record ID: 1924
 
 #### Sugars in cluster for blast hits:
 
@@ -9359,7 +9639,9 @@ BAQ02015.1:
 
 Total number of members in cluster: 7
 
-#### Conserved resiudes: K 8, K 11, Y 18, Q 35, S 40, R 41, D 42, Y 43, N 45, Y 46, Q 48, S 51, E 54, E 60, Y 63, R 64, T 70, S 84, K 88, Y 95, N 98, S 100, Y 108, Y 109, D 118, Y 119, T 120, Q 121, R 123, N 124, S 129, S 134, Y 136, Y 137, Y 147, S 149, T 156, H 157, S 159, Y 167, Y 171, S 172, R 176, Y 180, S 184, S 192, E 197, R 203, Q 209, K 210, N 213, N 218, N 221, S 222, S 224, T 226, S 234, S 237, E 242, R 247, Y 252, Q 256, Y 257, S 264, R 271, E 274, Y 276, Q 289, Y 294, K 300, Y 306, T 308, Y 309, Y 310, Y 311, H 312, N 319
+#### Conserved (non-aliphatic) residues:
+
+K 8, K 11, Y 18, Q 35, S 40, R 41, D 42, Y 43, N 45, Y 46, Q 48, S 51, E 54, E 60, Y 63, R 64, T 70, S 84, K 88, Y 95, N 98, S 100, Y 108, Y 109, D 118, Y 119, T 120, Q 121, R 123, N 124, S 129, S 134, Y 136, Y 137, Y 147, S 149, T 156, H 157, S 159, Y 167, Y 171, S 172, R 176, Y 180, S 184, S 192, E 197, R 203, Q 209, K 210, N 213, N 218, N 221, S 222, S 224, T 226, S 234, S 237, E 242, R 247, Y 252, Q 256, Y 257, S 264, R 271, E 274, Y 276, Q 289, Y 294, K 300, Y 306, T 308, Y 309, Y 310, Y 311, H 312, N 319
 
 #### Seeds in cluster:
 
@@ -9386,13 +9668,13 @@ ACD75809.1:
 
 ![](../../../csdb/images/108685.gif)
 
-108685
+CSDB record ID: 108685
 
 BAQ01012.1:
 
 ![](../../../csdb/images/1557.gif)
 
-1557
+CSDB record ID: 1557
 
 #### Sugars in cluster for blast hits:
 
@@ -9411,7 +9693,9 @@ BAQ01012.1:
 
 Total number of members in cluster: 7
 
-#### Conserved resiudes: T 22, S 28, N 95, N 100, K 101, Y 107, R 108, D 113, S 115, R 116, N 118, Y 129, Y 131, Y 132, Y 164, D 165, S 170, R 171, T 172, Y 175, Y 176, K 193, S 206, S 210, R 213, N 229, Y 230, H 231, D 239, N 241, Y 250, S 257, Y 261, N 262, D 269, N 277, R 280, N 284, Y 287, Y 297, Y 300, N 301, Y 303, Y 304, T 305, Y 311, D 313, S 340, E 356, S 357
+#### Conserved (non-aliphatic) residues:
+
+T 22, S 28, N 95, N 100, K 101, Y 107, R 108, D 113, S 115, R 116, N 118, Y 129, Y 131, Y 132, Y 164, D 165, S 170, R 171, T 172, Y 175, Y 176, K 193, S 206, S 210, R 213, N 229, Y 230, H 231, D 239, N 241, Y 250, S 257, Y 261, N 262, D 269, N 277, R 280, N 284, Y 287, Y 297, Y 300, N 301, Y 303, Y 304, T 305, Y 311, D 313, S 340, E 356, S 357
 
 #### Seeds in cluster:
 
@@ -9434,17 +9718,17 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster for seeds:
 
-AFW04790.1:
-
-![](../../../csdb/images/3364.gif)
-
-3364
-
 AJE24464.1:
 
 ![](../../../csdb/images/1894.gif)
 
-1894
+CSDB record ID: 1894
+
+AFW04790.1:
+
+![](../../../csdb/images/3364.gif)
+
+CSDB record ID: 3364
 
 #### Sugars in cluster for blast hits:
 
@@ -9469,7 +9753,9 @@ AJE24464.1:
 
 Total number of members in cluster: 7
 
-#### Conserved resiudes: R 56, Y 64, N 133, D 181, N 183, N 189, N 191, T 193, S 239, R 240, R 304, D 328, R 331, T 350, Y 357, H 378, N 379, Y 381, S 383, Y 384, N 435, E 436
+#### Conserved (non-aliphatic) residues:
+
+R 56, Y 64, N 133, D 181, N 183, N 189, N 191, T 193, S 239, R 240, R 304, D 328, R 331, T 350, Y 357, H 378, N 379, Y 381, S 383, Y 384, N 435, E 436
 
 #### Seeds in cluster:
 
@@ -9511,7 +9797,9 @@ Total number of members in cluster: 7
 
 Total number of members in cluster: 7
 
-#### Conserved resiudes: Y 16, K 145, Y 157, R 177, K 199, N 204, R 260, D 266, T 268, Y 277, Y 289, D 292, S 296, Y 299, Y 317, N 324, D 325, S 326, N 329, Y 330, K 339, D 357, Y 380, Q 388, T 392, R 399, Y 401
+#### Conserved (non-aliphatic) residues:
+
+Y 16, K 145, Y 157, R 177, K 199, N 204, R 260, D 266, T 268, Y 277, Y 289, D 292, S 296, Y 299, Y 317, N 324, D 325, S 326, N 329, Y 330, K 339, D 357, Y 380, Q 388, T 392, R 399, Y 401
 
 #### Seeds in cluster:
 
@@ -9539,19 +9827,19 @@ AKA20981.1:
 
 ![](../../../csdb/images/12125.gif)
 
-12125
+CSDB record ID: 12125
 
 AKA20999.1:
 
 ![](../../../csdb/images/12126.gif)
 
-12126
+CSDB record ID: 12126
 
 CAX18360.1:
 
 ![](../../../csdb/images/12127.gif)
 
-12127
+CSDB record ID: 12127
 
 #### Sugars in cluster for blast hits:
 
@@ -9575,7 +9863,9 @@ CAX18360.1:
 
 Total number of members in cluster: 7
 
-#### Conserved resiudes: S 5, Y 26, N 29, S 31, K 33, Y 36, K 37, N 42, K 63, S 91, R 100, S 103, Y 145, D 147, N 152, H 153, N 155, T 157, N 195, S 201, R 202, K 226, S 243, Y 254, K 258, D 269, S 270, R 271, Y 272, Y 275, Y 291, N 293, Y 294, E 300, Y 302, H 304, N 305, E 309, N 313, S 314
+#### Conserved (non-aliphatic) residues:
+
+S 5, Y 26, N 29, S 31, K 33, Y 36, K 37, N 42, K 63, S 91, R 100, S 103, Y 145, D 147, N 152, H 153, N 155, T 157, N 195, S 201, R 202, K 226, S 243, Y 254, K 258, D 269, S 270, R 271, Y 272, Y 275, Y 291, N 293, Y 294, E 300, Y 302, H 304, N 305, E 309, N 313, S 314
 
 #### Seeds in cluster:
 
@@ -9601,7 +9891,7 @@ AAY28249.1:
 
 ![](../../../csdb/images/30040.gif)
 
-30040
+CSDB record ID: 30040
 
 #### Sugars in cluster for blast hits:
 
@@ -9623,7 +9913,9 @@ AAY28249.1:
 
 Total number of members in cluster: 7
 
-#### Conserved resiudes: D 26, T 28, T 32, N 34, S 35, Q 38, T 41, K 59, H 78, E 80, Y 83, H 84, Y 85, K 91, T 92, N 98, Y 109, Q 126, S 129, Y 133, S 134, Q 139, R 142, S 147, R 149, H 152, N 156, S 160, Y 163, R 164, D 165, T 167, S 169, N 170, Q 171, Y 173, S 174, Y 176, H 189, S 198, Y 201, N 218, R 220, S 221, Y 229, Y 232, Y 244, S 268, E 276, Q 277, K 278, D 285, S 286, D 289, N 293, H 294, T 302, Y 309, S 320, D 321, Y 325, R 326, Q 327, Y 339, S 342, R 348, N 367, K 369, Q 370, E 371, N 374, N 375, Y 380
+#### Conserved (non-aliphatic) residues:
+
+D 26, T 28, T 32, N 34, S 35, Q 38, T 41, K 59, H 78, E 80, Y 83, H 84, Y 85, K 91, T 92, N 98, Y 109, Q 126, S 129, Y 133, S 134, Q 139, R 142, S 147, R 149, H 152, N 156, S 160, Y 163, R 164, D 165, T 167, S 169, N 170, Q 171, Y 173, S 174, Y 176, H 189, S 198, Y 201, N 218, R 220, S 221, Y 229, Y 232, Y 244, S 268, E 276, Q 277, K 278, D 285, S 286, D 289, N 293, H 294, T 302, Y 309, S 320, D 321, Y 325, R 326, Q 327, Y 339, S 342, R 348, N 367, K 369, Q 370, E 371, N 374, N 375, Y 380
 
 #### Seeds in cluster:
 
@@ -9646,17 +9938,17 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster for seeds:
 
-ACD37111.1:
-
-![](../../../csdb/images/713.gif)
-
-713
-
 ACD37117.1:
 
 ![](../../../csdb/images/1547.gif)
 
-1547
+CSDB record ID: 1547
+
+ACD37111.1:
+
+![](../../../csdb/images/713.gif)
+
+CSDB record ID: 713
 
 #### Sugars in cluster for blast hits:
 
@@ -9679,7 +9971,9 @@ ACD37117.1:
 
 Total number of members in cluster: 7
 
-#### Conserved resiudes: K 6, Y 8, T 20, S 23, Y 31, D 64, S 86, Y 87, T 88, E 89, D 90, R 92, S 95, R 98, Y 99, Y 100, S 107, Y 111, K 115, Y 128, Y 134, T 141, K 151, D 153, S 155, D 159, S 161, Y 166, Q 167, S 170, D 171, S 172, S 187, K 188, T 198, N 206, R 208, S 209, D 252, E 261, N 264, S 265, R 266, Y 268, N 269, S 272, N 274, D 277, D 278, S 280, R 284, K 286, H 290, S 291, S 293, H 298, S 306, Q 307, D 313, R 318, Y 322, T 323, H 324, N 325, Y 329, D 331, Q 332, Y 350, N 351, N 352, K 356, D 362, S 372, Q 373, Q 374, K 378, S 379, T 381, Y 382, Y 384, E 393, K 396, K 400, N 402, Y 403, N 404, K 407
+#### Conserved (non-aliphatic) residues:
+
+K 6, Y 8, T 20, S 23, Y 31, D 64, S 86, Y 87, T 88, E 89, D 90, R 92, S 95, R 98, Y 99, Y 100, S 107, Y 111, K 115, Y 128, Y 134, T 141, K 151, D 153, S 155, D 159, S 161, Y 166, Q 167, S 170, D 171, S 172, S 187, K 188, T 198, N 206, R 208, S 209, D 252, E 261, N 264, S 265, R 266, Y 268, N 269, S 272, N 274, D 277, D 278, S 280, R 284, K 286, H 290, S 291, S 293, H 298, S 306, Q 307, D 313, R 318, Y 322, T 323, H 324, N 325, Y 329, D 331, Q 332, Y 350, N 351, N 352, K 356, D 362, S 372, Q 373, Q 374, K 378, S 379, T 381, Y 382, Y 384, E 393, K 396, K 400, N 402, Y 403, N 404, K 407
 
 #### Seeds in cluster:
 
@@ -9705,7 +9999,7 @@ BAQ01218.1:
 
 ![](../../../csdb/images/1582.gif)
 
-1582
+CSDB record ID: 1582
 
 #### Sugars in cluster for blast hits:
 
@@ -9726,7 +10020,9 @@ BAQ01218.1:
 
 Total number of members in cluster: 7
 
-#### Conserved resiudes: Y 3, D 24, R 42, D 48, Y 52, S 88, K 104, K 109, T 110, T 125, R 129, Q 130, Y 150, H 161, S 163, K 177, S 179, Y 223, Y 227, S 232, Y 238, N 264, Y 266, K 277, D 278, N 279, N 284, R 285, T 290, N 291, K 311, Y 321, Y 326, K 328, T 332, R 335, Y 342, Y 345, N 352
+#### Conserved (non-aliphatic) residues:
+
+Y 3, D 24, R 42, D 48, Y 52, S 88, K 104, K 109, T 110, T 125, R 129, Q 130, Y 150, H 161, S 163, K 177, S 179, Y 223, Y 227, S 232, Y 238, N 264, Y 266, K 277, D 278, N 279, N 284, R 285, T 290, N 291, K 311, Y 321, Y 326, K 328, T 332, R 335, Y 342, Y 345, N 352
 
 #### Seeds in cluster:
 
@@ -9749,17 +10045,17 @@ Total number of members in cluster: 7
 
 #### Sugars in cluster for seeds:
 
-ABB29916.1:
-
-![](../../../csdb/images/8382.gif)
-
-8382
-
 ABB29906.1:
 
 ![](../../../csdb/images/8411.gif)
 
-8411
+CSDB record ID: 8411
+
+ABB29916.1:
+
+![](../../../csdb/images/8382.gif)
+
+CSDB record ID: 8382
 
 #### Sugars in cluster for blast hits:
 
@@ -9767,7 +10063,7 @@ AXL96526.1:
 
 ![](../../../csdb/images/27606.gif)
 
-27606
+CSDB record ID: 27606
 
 #### Alphafold models:
 
@@ -9787,7 +10083,9 @@ AXL96526.1:
 
 Total number of members in cluster: 7
 
-#### Conserved resiudes: N 14, S 33, S 38, D 55, Y 60, N 81, K 89, K 98, E 99, T 106, Y 110, S 146, N 149, R 152, S 153, H 186, S 187, K 214, S 241, Y 245, Y 255, S 310, S 320, R 322, Y 323, Q 324, Y 369, R 372, Y 373, S 378
+#### Conserved (non-aliphatic) residues:
+
+N 14, S 33, S 38, D 55, Y 60, N 81, K 89, K 98, E 99, T 106, Y 110, S 146, N 149, R 152, S 153, H 186, S 187, K 214, S 241, Y 245, Y 255, S 310, S 320, R 322, Y 323, Q 324, Y 369, R 372, Y 373, S 378
 
 #### Seeds in cluster:
 
@@ -9813,7 +10111,7 @@ AAD50486.1:
 
 ![](../../../csdb/images/1853.gif)
 
-1853
+CSDB record ID: 1853
 
 #### Sugars in cluster for blast hits:
 
@@ -9835,7 +10133,9 @@ AAD50486.1:
 
 Total number of members in cluster: 7
 
-#### Conserved resiudes: N 44, R 45, N 47, D 49, Y 50, Y 53, E 65, Y 68, K 76, K 106, Y 115, D 123, Q 126, R 128, N 129, H 162, Y 168, Y 221, D 241, K 261, E 286, R 289, R 292, N 293, K 298, Y 299, Y 335
+#### Conserved (non-aliphatic) residues:
+
+N 44, R 45, N 47, D 49, Y 50, Y 53, E 65, Y 68, K 76, K 106, Y 115, D 123, Q 126, R 128, N 129, H 162, Y 168, Y 221, D 241, K 261, E 286, R 289, R 292, N 293, K 298, Y 299, Y 335
 
 #### Seeds in cluster:
 
@@ -9861,7 +10161,7 @@ AAN60459.1:
 
 ![](../../../csdb/images/1534.gif)
 
-1534
+CSDB record ID: 1534
 
 #### Sugars in cluster for blast hits:
 
@@ -9882,7 +10182,9 @@ AAN60459.1:
 
 Total number of members in cluster: 7
 
-#### Conserved resiudes: N 9, N 30, S 38, Y 53, D 55, Y 59, Y 63, E 73, T 102, T 129, S 131, Y 134, E 138, R 141, K 166, Y 168, H 178, Y 179, S 180, K 230, Y 234, T 238, S 241, T 243, R 247, Y 267, Y 271, Y 274, D 285, E 286, R 289, R 290, K 311, Y 326, Y 334, Y 338, Y 343
+#### Conserved (non-aliphatic) residues:
+
+N 9, N 30, S 38, Y 53, D 55, Y 59, Y 63, E 73, T 102, T 129, S 131, Y 134, E 138, R 141, K 166, Y 168, H 178, Y 179, S 180, K 230, Y 234, T 238, S 241, T 243, R 247, Y 267, Y 271, Y 274, D 285, E 286, R 289, R 290, K 311, Y 326, Y 334, Y 338, Y 343
 
 #### Seeds in cluster:
 
@@ -9921,7 +10223,9 @@ Total number of members in cluster: 7
 
 Total number of members in cluster: 7
 
-#### Conserved resiudes: Y 20, Y 24, K 38, R 39, Y 40, S 72, Y 94, D 101, S 111, S 113, D 115, Y 127, K 129, Y 140, D 147, R 152, R 159, H 160, S 161, Y 162, H 166, N 168, S 169, D 180, S 182, K 186, T 208, D 209, S 210, R 211, T 212, N 269, R 275, H 280, Y 282, R 293, N 302, Y 312, D 314, R 318, Q 319, Q 334, H 344, E 358, Y 360, N 373, Y 374
+#### Conserved (non-aliphatic) residues:
+
+Y 20, Y 24, K 38, R 39, Y 40, S 72, Y 94, D 101, S 111, S 113, D 115, Y 127, K 129, Y 140, D 147, R 152, R 159, H 160, S 161, Y 162, H 166, N 168, S 169, D 180, S 182, K 186, T 208, D 209, S 210, R 211, T 212, N 269, R 275, H 280, Y 282, R 293, N 302, Y 312, D 314, R 318, Q 319, Q 334, H 344, E 358, Y 360, N 373, Y 374
 
 #### Seeds in cluster:
 
@@ -9958,7 +10262,9 @@ Total number of members in cluster: 7
 
 Total number of members in cluster: 7
 
-#### Conserved resiudes: Q 21, Y 32, S 35, N 147, T 168, R 174, E 178, S 184, K 219, R 220, T 221, S 299, R 303, N 318, N 326, D 351, N 352, Y 354, D 360, D 414
+#### Conserved (non-aliphatic) residues:
+
+Q 21, Y 32, S 35, N 147, T 168, R 174, E 178, S 184, K 219, R 220, T 221, S 299, R 303, N 318, N 326, D 351, N 352, Y 354, D 360, D 414
 
 #### Seeds in cluster:
 
@@ -9986,19 +10292,19 @@ CAI34498.1:
 
 ![](../../../csdb/images/25001.gif)
 
-25001
-
-CAI34099.1:
-
-![](../../../csdb/images/7087.gif)
-
-7087
+CSDB record ID: 25001
 
 CAI34475.1:
 
 ![](../../../csdb/images/25002.gif)
 
-25002
+CSDB record ID: 25002
+
+CAI34099.1:
+
+![](../../../csdb/images/7087.gif)
+
+CSDB record ID: 7087
 
 #### Sugars in cluster for blast hits:
 
@@ -10019,7 +10325,9 @@ CAI34475.1:
 
 Total number of members in cluster: 7
 
-#### Conserved resiudes: Y 44, D 49, Y 53, R 131, Q 132, H 165, S 167, Y 232, R 248, Y 293, E 294, R 306, Y 342, Y 361, Y 364
+#### Conserved (non-aliphatic) residues:
+
+Y 44, D 49, Y 53, R 131, Q 132, H 165, S 167, Y 232, R 248, Y 293, E 294, R 306, Y 342, Y 361, Y 364
 
 #### Seeds in cluster:
 
@@ -10045,7 +10353,7 @@ AAM27879.1:
 
 ![](../../../csdb/images/24037.gif)
 
-24037
+CSDB record ID: 24037
 
 #### Sugars in cluster for blast hits:
 
@@ -10065,7 +10373,9 @@ AAM27879.1:
 
 Total number of members in cluster: 6
 
-#### Conserved resiudes: K 34, T 42, S 56, S 70, K 106, E 109, N 116, S 127, K 132, R 134, S 140, H 148, Y 150, Y 157, N 166, E 167, N 168, N 171, S 178, R 179, N 180, S 183, Y 198, K 203, Y 205, S 207, S 216, R 222, S 223, S 228, Y 237, K 239, K 242, K 247, T 284, N 285, S 288, D 291, T 292, R 294, Y 301, N 304, D 306, S 319, N 328, H 330, N 331, S 332, Q 337, R 339, Y 353, R 375, D 379, D 388, N 401, N 402
+#### Conserved (non-aliphatic) residues:
+
+K 34, T 42, S 56, S 70, K 106, E 109, N 116, S 127, K 132, R 134, S 140, H 148, Y 150, Y 157, N 166, E 167, N 168, N 171, S 178, R 179, N 180, S 183, Y 198, K 203, Y 205, S 207, S 216, R 222, S 223, S 228, Y 237, K 239, K 242, K 247, T 284, N 285, S 288, D 291, T 292, R 294, Y 301, N 304, D 306, S 319, N 328, H 330, N 331, S 332, Q 337, R 339, Y 353, R 375, D 379, D 388, N 401, N 402
 
 #### Seeds in cluster:
 
@@ -10091,7 +10401,7 @@ BAQ01894.1:
 
 ![](../../../csdb/images/1913.gif)
 
-1913
+CSDB record ID: 1913
 
 #### Sugars in cluster for blast hits:
 
@@ -10112,7 +10422,9 @@ BAQ01894.1:
 
 Total number of members in cluster: 6
 
-#### Conserved resiudes: Y 10, Y 12, D 32, R 34, Y 36, Y 38, K 64, T 95, K 121, N 123, Q 155, S 157, Q 159, Y 205, R 208, R 212, R 228, S 230, S 233, S 234, S 250, S 272, S 274, N 278, Y 288, S 331, N 354, R 377, Y 386, S 391, D 393, E 396, S 398, Q 402
+#### Conserved (non-aliphatic) residues:
+
+Y 10, Y 12, D 32, R 34, Y 36, Y 38, K 64, T 95, K 121, N 123, Q 155, S 157, Q 159, Y 205, R 208, R 212, R 228, S 230, S 233, S 234, S 250, S 272, S 274, N 278, Y 288, S 331, N 354, R 377, Y 386, S 391, D 393, E 396, S 398, Q 402
 
 #### Seeds in cluster:
 
@@ -10138,7 +10450,7 @@ AAZ20761.1:
 
 ![](../../../csdb/images/1573.gif)
 
-1573
+CSDB record ID: 1573
 
 #### Sugars in cluster for blast hits:
 
@@ -10159,7 +10471,9 @@ AAZ20761.1:
 
 Total number of members in cluster: 6
 
-#### Conserved resiudes: E 31, S 70, Y 73, Y 76, Y 82, Y 83, K 92, K 132, S 142, Y 168, Q 188, H 192, Y 204, Y 207, Y 208, S 243, R 246, T 248, R 269, Y 287, R 290, S 293, N 294, D 301, N 318, D 321, Q 323, Q 324, T 331, Y 343, D 345, N 349, S 361, Y 370, S 375, T 379, E 385, Y 387, N 389, Y 424, S 425, Y 435, K 437, D 439, S 440, T 441, N 445
+#### Conserved (non-aliphatic) residues:
+
+E 31, S 70, Y 73, Y 76, Y 82, Y 83, K 92, K 132, S 142, Y 168, Q 188, H 192, Y 204, Y 207, Y 208, S 243, R 246, T 248, R 269, Y 287, R 290, S 293, N 294, D 301, N 318, D 321, Q 323, Q 324, T 331, Y 343, D 345, N 349, S 361, Y 370, S 375, T 379, E 385, Y 387, N 389, Y 424, S 425, Y 435, K 437, D 439, S 440, T 441, N 445
 
 #### Seeds in cluster:
 
@@ -10199,7 +10513,9 @@ Total number of members in cluster: 6
 
 Total number of members in cluster: 6
 
-#### Conserved resiudes: K 7, K 8, Y 9, S 13, Q 23, S 26, H 32, E 38, T 47, S 56, D 57, S 60, S 61, K 68, N 82, S 86, Y 124, Y 126, R 128, N 136, E 142, S 145, K 146, S 174, Y 175, R 178, Y 192, Y 212, N 215, Q 216, S 219, Q 220, N 223, Y 224, D 230, S 235, E 241, Y 246, K 250, D 251, T 253, K 255, S 257, S 261, K 266, S 270, R 314, R 335, N 339, Q 346, T 351, E 354, N 358, S 361, Y 393, S 396, Y 399, K 406
+#### Conserved (non-aliphatic) residues:
+
+K 7, K 8, Y 9, S 13, Q 23, S 26, H 32, E 38, T 47, S 56, D 57, S 60, S 61, K 68, N 82, S 86, Y 124, Y 126, R 128, N 136, E 142, S 145, K 146, S 174, Y 175, R 178, Y 192, Y 212, N 215, Q 216, S 219, Q 220, N 223, Y 224, D 230, S 235, E 241, Y 246, K 250, D 251, T 253, K 255, S 257, S 261, K 266, S 270, R 314, R 335, N 339, Q 346, T 351, E 354, N 358, S 361, Y 393, S 396, Y 399, K 406
 
 #### Seeds in cluster:
 
@@ -10225,7 +10541,7 @@ ABI34565.1:
 
 ![](../../../csdb/images/1530.gif)
 
-1530
+CSDB record ID: 1530
 
 #### Sugars in cluster for blast hits:
 
@@ -10247,7 +10563,9 @@ ABI34565.1:
 
 Total number of members in cluster: 6
 
-#### Conserved resiudes: K 10, E 19, Y 25, E 31, D 35, Y 36, K 79, N 87, Y 97, T 104, K 108, D 123, K 124, K 134, N 136, Y 142, K 149, Y 153, Y 154, E 164, R 167, E 180, N 205, Y 208, N 209, K 211, R 215, Y 220, Y 222, R 235, S 237, S 240, N 241, E 267, E 270, T 273, S 277, E 283, K 284, E 287, K 290, S 302, S 307, S 329, Q 346, Y 359, Q 360, N 368, Y 369, Y 376, K 389
+#### Conserved (non-aliphatic) residues:
+
+K 10, E 19, Y 25, E 31, D 35, Y 36, K 79, N 87, Y 97, T 104, K 108, D 123, K 124, K 134, N 136, Y 142, K 149, Y 153, Y 154, E 164, R 167, E 180, N 205, Y 208, N 209, K 211, R 215, Y 220, Y 222, R 235, S 237, S 240, N 241, E 267, E 270, T 273, S 277, E 283, K 284, E 287, K 290, S 302, S 307, S 329, Q 346, Y 359, Q 360, N 368, Y 369, Y 376, K 389
 
 #### Seeds in cluster:
 
@@ -10274,13 +10592,13 @@ AAR24270.1:
 
 ![](../../../csdb/images/1405.gif)
 
-1405
+CSDB record ID: 1405
 
 AAT28922.1:
 
 ![](../../../csdb/images/1914.gif)
 
-1914
+CSDB record ID: 1914
 
 #### Sugars in cluster for blast hits:
 
@@ -10301,7 +10619,9 @@ AAT28922.1:
 
 Total number of members in cluster: 6
 
-#### Conserved resiudes: Y 63, Y 70, Q 75, S 78, E 83, E 91, N 140, Y 161, N 171, R 172, Y 175, Y 202, K 208, E 227, K 228, Y 237, Y 243, S 270, N 274, Y 275, E 279, R 289, Q 293, Q 295, Y 299, N 302, S 336, Y 345, T 353, S 354, Y 363, S 389, S 401, K 424, Y 428
+#### Conserved (non-aliphatic) residues:
+
+Y 63, Y 70, Q 75, S 78, E 83, E 91, N 140, Y 161, N 171, R 172, Y 175, Y 202, K 208, E 227, K 228, Y 237, Y 243, S 270, N 274, Y 275, E 279, R 289, Q 293, Q 295, Y 299, N 302, S 336, Y 345, T 353, S 354, Y 363, S 389, S 401, K 424, Y 428
 
 #### Seeds in cluster:
 
@@ -10324,17 +10644,17 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster for seeds:
 
-ACD37072.1:
-
-![](../../../csdb/images/3984.gif)
-
-3984
-
 ADN43883.1:
 
 ![](../../../csdb/images/1907.gif)
 
-1907
+CSDB record ID: 1907
+
+ACD37072.1:
+
+![](../../../csdb/images/3984.gif)
+
+CSDB record ID: 3984
 
 #### Sugars in cluster for blast hits:
 
@@ -10353,7 +10673,9 @@ ADN43883.1:
 
 Total number of members in cluster: 6
 
-#### Conserved resiudes: R 7, Y 8, Y 21, H 29, K 54, N 69, E 81, H 121, R 156, K 162, Y 201, Q 204, T 218, S 229, E 236, R 237, H 239, K 242, Y 271, N 278, S 280, S 282, K 340, R 354, Y 362, Y 366, Y 372, S 375, R 378, Q 396, D 448
+#### Conserved (non-aliphatic) residues:
+
+R 7, Y 8, Y 21, H 29, K 54, N 69, E 81, H 121, R 156, K 162, Y 201, Q 204, T 218, S 229, E 236, R 237, H 239, K 242, Y 271, N 278, S 280, S 282, K 340, R 354, Y 362, Y 366, Y 372, S 375, R 378, Q 396, D 448
 
 #### Seeds in cluster:
 
@@ -10376,17 +10698,17 @@ Total number of members in cluster: 6
 
 #### Sugars in cluster for seeds:
 
-ADI59429.1:
-
-![](../../../csdb/images/12131.gif)
-
-12131
-
 ADI59445.1:
 
 ![](../../../csdb/images/12132.gif)
 
-12132
+CSDB record ID: 12132
+
+ADI59429.1:
+
+![](../../../csdb/images/12131.gif)
+
+CSDB record ID: 12131
 
 #### Sugars in cluster for blast hits:
 
@@ -10408,7 +10730,9 @@ ADI59445.1:
 
 Total number of members in cluster: 5
 
-#### Conserved resiudes: Y 2, K 22, Y 23, S 38, D 45, D 47, Y 48, N 50, Y 51, Y 54, S 60, S 64, R 66, D 72, N 76, T 86, Y 92, K 99, K 105, Y 117, Y 123, H 125, D 126, T 128, Q 129, R 131, Y 144, Y 145, Y 147, K 152, S 162, H 166, S 168, S 194, S 216, D 218, Y 222, Y 223, D 228, Q 230, K 233, N 242, K 268, S 273, Q 274, R 289, S 291, Q 292, S 297, S 306, Y 320, S 321, Y 338
+#### Conserved (non-aliphatic) residues:
+
+Y 2, K 22, Y 23, S 38, D 45, D 47, Y 48, N 50, Y 51, Y 54, S 60, S 64, R 66, D 72, N 76, T 86, Y 92, K 99, K 105, Y 117, Y 123, H 125, D 126, T 128, Q 129, R 131, Y 144, Y 145, Y 147, K 152, S 162, H 166, S 168, S 194, S 216, D 218, Y 222, Y 223, D 228, Q 230, K 233, N 242, K 268, S 273, Q 274, R 289, S 291, Q 292, S 297, S 306, Y 320, S 321, Y 338
 
 #### Seeds in cluster:
 
@@ -10435,7 +10759,7 @@ ACA24829.1, AAS98031.1:
 
 ![](../../../csdb/images/1844.gif)
 
-1844
+CSDB record ID: 1844
 
 #### Sugars in cluster for blast hits:
 
@@ -10457,7 +10781,9 @@ ACA24829.1, AAS98031.1:
 
 Total number of members in cluster: 5
 
-#### Conserved resiudes: N 105, E 109, S 113, R 116, Y 120, N 171, R 175, S 232, R 233, K 256, N 277, T 278, R 283, D 296, S 298, T 299, R 302, N 328, H 343, N 344, E 352, N 418, Y 421
+#### Conserved (non-aliphatic) residues:
+
+N 105, E 109, S 113, R 116, Y 120, N 171, R 175, S 232, R 233, K 256, N 277, T 278, R 283, D 296, S 298, T 299, R 302, N 328, H 343, N 344, E 352, N 418, Y 421
 
 #### Seeds in cluster:
 
@@ -10483,7 +10809,7 @@ BAQ01702.1:
 
 ![](../../../csdb/images/1878.gif)
 
-1878
+CSDB record ID: 1878
 
 #### Sugars in cluster for blast hits:
 
@@ -10505,7 +10831,9 @@ BAQ01702.1:
 
 Total number of members in cluster: 5
 
-#### Conserved resiudes: S 9, K 49, D 60, E 61, Y 64, N 66, Y 77, N 94, Y 135, K 142, E 143, S 146, R 176, E 178, K 195, N 196, Y 201, K 224, S 229, R 231, D 240, S 257, N 267, S 270, N 289, T 323, H 324, S 325, Y 327, R 328, Y 329, N 331, N 359
+#### Conserved (non-aliphatic) residues:
+
+S 9, K 49, D 60, E 61, Y 64, N 66, Y 77, N 94, Y 135, K 142, E 143, S 146, R 176, E 178, K 195, N 196, Y 201, K 224, S 229, R 231, D 240, S 257, N 267, S 270, N 289, T 323, H 324, S 325, Y 327, R 328, Y 329, N 331, N 359
 
 #### Seeds in cluster:
 
@@ -10531,7 +10859,7 @@ ADN43838.1:
 
 ![](../../../csdb/images/1855.gif)
 
-1855
+CSDB record ID: 1855
 
 #### Sugars in cluster for blast hits:
 
@@ -10551,7 +10879,9 @@ ADN43838.1:
 
 Total number of members in cluster: 5
 
-#### Conserved resiudes: R 133, Q 134, H 165, S 166, Y 211, R 215, Q 216, Y 220, Y 243, Y 270, R 280
+#### Conserved (non-aliphatic) residues:
+
+R 133, Q 134, H 165, S 166, Y 211, R 215, Q 216, Y 220, Y 243, Y 270, R 280
 
 #### Seeds in cluster:
 
@@ -10590,7 +10920,9 @@ Total number of members in cluster: 5
 
 Total number of members in cluster: 5
 
-#### Conserved resiudes: N 95, S 121, Q 124, S 170, Q 173, R 181, N 188, Q 190, S 209, T 232, S 234, R 303, S 309, N 333, S 341, Y 342, Q 378, S 381, Y 382, Y 383
+#### Conserved (non-aliphatic) residues:
+
+N 95, S 121, Q 124, S 170, Q 173, R 181, N 188, Q 190, S 209, T 232, S 234, R 303, S 309, N 333, S 341, Y 342, Q 378, S 381, Y 382, Y 383
 
 #### Seeds in cluster:
 
@@ -10617,7 +10949,7 @@ ABD19779.1:
 
 ![](../../../csdb/images/3660.gif)
 
-3660
+CSDB record ID: 3660
 
 #### Sugars in cluster for blast hits:
 
@@ -10640,7 +10972,9 @@ ABD19779.1:
 
 Total number of members in cluster: 4
 
-#### Conserved resiudes: N 16, S 28, S 46, N 54, Y 65, Y 67, Y 71, N 77, R 78, E 79, Y 80, E 86, D 90, D 91, T 92, R 94, Y 95, D 116, S 119, E 121, R 125, N 139, Q 145, S 161, R 163, S 177, Y 178, T 179, Y 182, T 183, H 186, R 189, Q 190, S 195, Y 200, R 209, S 219, H 220, E 231, S 242, Y 257, K 266, Y 270, N 275, N 277, Y 278, K 282, Y 286, K 299, Y 322, D 332, N 335, R 336, Y 337, S 342, R 355, K 370, D 379, N 381, Y 383, N 395, D 398, Y 403, R 406
+#### Conserved (non-aliphatic) residues:
+
+N 16, S 28, S 46, N 54, Y 65, Y 67, Y 71, N 77, R 78, E 79, Y 80, E 86, D 90, D 91, T 92, R 94, Y 95, D 116, S 119, E 121, R 125, N 139, Q 145, S 161, R 163, S 177, Y 178, T 179, Y 182, T 183, H 186, R 189, Q 190, S 195, Y 200, R 209, S 219, H 220, E 231, S 242, Y 257, K 266, Y 270, N 275, N 277, Y 278, K 282, Y 286, K 299, Y 322, D 332, N 335, R 336, Y 337, S 342, R 355, K 370, D 379, N 381, Y 383, N 395, D 398, Y 403, R 406
 
 #### Seeds in cluster:
 
@@ -10666,7 +11000,7 @@ BAQ00893.1:
 
 ![](../../../csdb/images/1548.gif)
 
-1548
+CSDB record ID: 1548
 
 #### Sugars in cluster for blast hits:
 
@@ -10687,7 +11021,9 @@ BAQ00893.1:
 
 Total number of members in cluster: 4
 
-#### Conserved resiudes: Y 28, N 36, Y 38, Y 41, D 47, R 71, S 73, N 161, S 165, Y 174, R 176, R 177, E 179, R 181, S 188, Y 192, N 199, Y 230, K 235, R 253, E 278, S 285, D 289, Y 290, R 293, R 294, E 337, N 346, N 348, N 350, Y 364, T 367, D 379, Y 382, Y 397, E 403, Q 404, T 408, S 412, S 413
+#### Conserved (non-aliphatic) residues:
+
+Y 28, N 36, Y 38, Y 41, D 47, R 71, S 73, N 161, S 165, Y 174, R 176, R 177, E 179, R 181, S 188, Y 192, N 199, Y 230, K 235, R 253, E 278, S 285, D 289, Y 290, R 293, R 294, E 337, N 346, N 348, N 350, Y 364, T 367, D 379, Y 382, Y 397, E 403, Q 404, T 408, S 412, S 413
 
 #### Seeds in cluster:
 
@@ -10726,7 +11062,9 @@ Total number of members in cluster: 4
 
 Total number of members in cluster: 4
 
-#### Conserved resiudes: S 22, K 27, S 75, N 79, D 83, D 109, T 120, N 128, N 143, N 145, S 146, Y 151, S 158, Y 167, T 189, S 192, N 193, S 194, R 195, S 200, K 220, K 221, D 253, K 258, K 262, R 273, N 283, R 291, D 300, H 304, T 306, S 309, Q 313, S 318, Y 342, S 352
+#### Conserved (non-aliphatic) residues:
+
+S 22, K 27, S 75, N 79, D 83, D 109, T 120, N 128, N 143, N 145, S 146, Y 151, S 158, Y 167, T 189, S 192, N 193, S 194, R 195, S 200, K 220, K 221, D 253, K 258, K 262, R 273, N 283, R 291, D 300, H 304, T 306, S 309, Q 313, S 318, Y 342, S 352
 
 #### Seeds in cluster:
 
@@ -10767,7 +11105,9 @@ Total number of members in cluster: 4
 
 Total number of members in cluster: 4
 
-#### Conserved resiudes: N 2, N 8, Y 19, K 24, S 25, K 26, K 27, R 30, Y 35, E 44, S 45, H 46, T 52, T 53, S 54, N 56, T 59, S 60, E 61, N 65, E 67, D 69, Y 70, N 71, T 72, K 73, T 74, E 75, T 78, S 79, N 81, S 91, S 96, T 97, T 99, Y 100, K 101, S 102, S 103, S 104, Y 105, D 106, T 108, E 110, N 111, K 112, S 113, R 116, S 118, S 124, Y 132, S 141, S 142, N 143, Y 146, S 147, Y 149, N 151, N 153, K 154, S 156, Y 159, D 162, T 167, Y 169, S 170, S 174, K 176, N 177, K 178, K 179, K 180, Y 192, T 197, R 198, E 200, K 204, Y 211, Y 212, S 216, K 217, N 218, H 220, K 221, Y 222, R 224, K 226, N 227, S 232, S 241, Q 243, Y 244, S 245, S 247, R 249, D 250, N 251, E 253, S 256, N 257, T 260, T 261, K 264, Q 265, Q 266, S 269, N 271, K 278, D 279, K 280, N 281, N 282, S 283, S 286, E 287, S 288, S 292, Y 295, D 296, S 297, S 300, N 303, S 304, Q 309, S 310, N 311, N 313, S 314, E 316, E 319, N 320, S 321, S 323, S 325, H 326, K 327, S 329, Y 330, E 332, D 333, S 335, Y 337, Y 341, E 350, Y 352, Y 357, T 367, Y 368, S 372, E 375, K 376, K 379, K 380, S 381, N 384, T 392, K 394, Y 397, S 398, R 400, E 402, S 405, S 408, D 410, R 411, T 420, S 422, Y 423, K 424, T 429, S 430, N 431, K 432, K 433, S 435, K 437, N 438, E 439
+#### Conserved (non-aliphatic) residues:
+
+N 2, N 8, Y 19, K 24, S 25, K 26, K 27, R 30, Y 35, E 44, S 45, H 46, T 52, T 53, S 54, N 56, T 59, S 60, E 61, N 65, E 67, D 69, Y 70, N 71, T 72, K 73, T 74, E 75, T 78, S 79, N 81, S 91, S 96, T 97, T 99, Y 100, K 101, S 102, S 103, S 104, Y 105, D 106, T 108, E 110, N 111, K 112, S 113, R 116, S 118, S 124, Y 132, S 141, S 142, N 143, Y 146, S 147, Y 149, N 151, N 153, K 154, S 156, Y 159, D 162, T 167, Y 169, S 170, S 174, K 176, N 177, K 178, K 179, K 180, Y 192, T 197, R 198, E 200, K 204, Y 211, Y 212, S 216, K 217, N 218, H 220, K 221, Y 222, R 224, K 226, N 227, S 232, S 241, Q 243, Y 244, S 245, S 247, R 249, D 250, N 251, E 253, S 256, N 257, T 260, T 261, K 264, Q 265, Q 266, S 269, N 271, K 278, D 279, K 280, N 281, N 282, S 283, S 286, E 287, S 288, S 292, Y 295, D 296, S 297, S 300, N 303, S 304, Q 309, S 310, N 311, N 313, S 314, E 316, E 319, N 320, S 321, S 323, S 325, H 326, K 327, S 329, Y 330, E 332, D 333, S 335, Y 337, Y 341, E 350, Y 352, Y 357, T 367, Y 368, S 372, E 375, K 376, K 379, K 380, S 381, N 384, T 392, K 394, Y 397, S 398, R 400, E 402, S 405, S 408, D 410, R 411, T 420, S 422, Y 423, K 424, T 429, S 430, N 431, K 432, K 433, S 435, K 437, N 438, E 439
 
 #### Seeds in cluster:
 
@@ -10791,17 +11131,17 @@ Total number of members in cluster: 4
 
 #### Sugars in cluster for seeds:
 
-ACH97143.1, ABE98413.1:
-
-![](../../../csdb/images/1857.gif)
-
-1857
-
 ACH97132.1:
 
 ![](../../../csdb/images/1846.gif)
 
-1846
+CSDB record ID: 1846
+
+ABE98413.1, ACH97143.1:
+
+![](../../../csdb/images/1857.gif)
+
+CSDB record ID: 1857
 
 #### Sugars in cluster for blast hits:
 
@@ -10819,7 +11159,9 @@ ACH97132.1:
 
 Total number of members in cluster: 4
 
-#### Conserved resiudes: K 1, Y 6, N 7, N 11, S 15, Y 21, K 24, N 27, H 49, Y 53, N 56, K 59, Y 90, N 97, K 102, H 104, R 131, R 137, H 144, N 146, S 147, Y 153, T 156, R 167, K 169, Y 173, N 180, D 188, S 189, R 190, T 191, S 192, S 196, D 207, S 228, E 240, N 249, K 250, T 253, N 254, R 255, S 258, E 265, Y 266, D 289, S 290, Y 292, R 314, K 316, E 324, S 330, S 334, E 338, S 339, Y 340, D 353, R 358, K 359, E 360
+#### Conserved (non-aliphatic) residues:
+
+K 1, Y 6, N 7, N 11, S 15, Y 21, K 24, N 27, H 49, Y 53, N 56, K 59, Y 90, N 97, K 102, H 104, R 131, R 137, H 144, N 146, S 147, Y 153, T 156, R 167, K 169, Y 173, N 180, D 188, S 189, R 190, T 191, S 192, S 196, D 207, S 228, E 240, N 249, K 250, T 253, N 254, R 255, S 258, E 265, Y 266, D 289, S 290, Y 292, R 314, K 316, E 324, S 330, S 334, E 338, S 339, Y 340, D 353, R 358, K 359, E 360
 
 #### Seeds in cluster:
 
@@ -10846,7 +11188,7 @@ CAI34641.1:
 
 ![](../../../csdb/images/25006.gif)
 
-25006
+CSDB record ID: 25006
 
 #### Sugars in cluster for blast hits:
 
@@ -10864,7 +11206,9 @@ CAI34641.1:
 
 Total number of members in cluster: 4
 
-#### Conserved resiudes: H 17, Y 26, K 33, R 37, K 38, K 39, T 41, H 42, T 45, S 52, S 56, Y 59, H 62, T 64, Y 68, E 69, S 71, Y 72, E 73, S 74, Y 75, Y 78, N 82, S 84, T 92, D 93, R 97, R 98, N 99, K 101, N 102, Q 105, N 109, K 117, T 122, Y 126, Y 131, E 133, K 135, H 136, T 138, D 140, K 146, R 149, R 151, E 152, R 153, E 156, E 157, Q 158, Y 160, S 161, T 162, T 164, N 165, N 166, S 171, S 172, Y 177, T 179, S 183, K 185, K 186, N 188, Y 190, Y 191, Y 192, T 195, Y 202, N 203, T 206, T 208, R 209, S 216, Y 223, N 226, T 227, N 228, K 229, S 234, K 235, S 240, T 244, K 258, D 259, E 262, R 263, D 264, E 265, S 266, N 270, N 272, K 273, D 276, N 277, Y 278, S 280, Y 281, T 282, Q 284, D 290, Y 292, R 296, E 297, K 298, T 300, N 302, D 304, S 307, S 309, E 311, N 314, K 315, T 317, S 319, N 320, S 326, K 327, S 329, E 330, S 332, H 333, K 336, K 338, D 339, N 341, T 344, Y 346, Y 350, Y 353
+#### Conserved (non-aliphatic) residues:
+
+H 17, Y 26, K 33, R 37, K 38, K 39, T 41, H 42, T 45, S 52, S 56, Y 59, H 62, T 64, Y 68, E 69, S 71, Y 72, E 73, S 74, Y 75, Y 78, N 82, S 84, T 92, D 93, R 97, R 98, N 99, K 101, N 102, Q 105, N 109, K 117, T 122, Y 126, Y 131, E 133, K 135, H 136, T 138, D 140, K 146, R 149, R 151, E 152, R 153, E 156, E 157, Q 158, Y 160, S 161, T 162, T 164, N 165, N 166, S 171, S 172, Y 177, T 179, S 183, K 185, K 186, N 188, Y 190, Y 191, Y 192, T 195, Y 202, N 203, T 206, T 208, R 209, S 216, Y 223, N 226, T 227, N 228, K 229, S 234, K 235, S 240, T 244, K 258, D 259, E 262, R 263, D 264, E 265, S 266, N 270, N 272, K 273, D 276, N 277, Y 278, S 280, Y 281, T 282, Q 284, D 290, Y 292, R 296, E 297, K 298, T 300, N 302, D 304, S 307, S 309, E 311, N 314, K 315, T 317, S 319, N 320, S 326, K 327, S 329, E 330, S 332, H 333, K 336, K 338, D 339, N 341, T 344, Y 346, Y 350, Y 353
 
 #### Seeds in cluster:
 
@@ -10890,7 +11234,7 @@ AAZ85718.1:
 
 ![](../../../csdb/images/1881.gif)
 
-1881
+CSDB record ID: 1881
 
 #### Sugars in cluster for blast hits:
 
@@ -10910,7 +11254,9 @@ AAZ85718.1:
 
 Total number of members in cluster: 4
 
-#### Conserved resiudes: N 7, S 20, K 26, D 28, Y 29, D 33, Y 37, T 38, Y 41, D 42, T 44, Y 45, E 47, E 52, Y 57, T 59, H 63, Y 64, Y 69, K 84, R 89, K 90, S 95, Y 96, Y 104, Y 108, H 112, T 115, Q 116, R 118, Y 127, Y 131, Y 133, H 153, Y 154, S 155, Y 168, R 169, Y 188, Y 195, N 198, E 199, K 200, Y 204, Y 206, S 207, S 209, S 211, N 222, N 224, S 239, R 240, K 243, E 248, K 253, Y 254, Q 256, S 258, Y 277, R 278, E 281, R 284, Y 287, K 299, N 300, S 315, T 322, R 324, S 327
+#### Conserved (non-aliphatic) residues:
+
+N 7, S 20, K 26, D 28, Y 29, D 33, Y 37, T 38, Y 41, D 42, T 44, Y 45, E 47, E 52, Y 57, T 59, H 63, Y 64, Y 69, K 84, R 89, K 90, S 95, Y 96, Y 104, Y 108, H 112, T 115, Q 116, R 118, Y 127, Y 131, Y 133, H 153, Y 154, S 155, Y 168, R 169, Y 188, Y 195, N 198, E 199, K 200, Y 204, Y 206, S 207, S 209, S 211, N 222, N 224, S 239, R 240, K 243, E 248, K 253, Y 254, Q 256, S 258, Y 277, R 278, E 281, R 284, Y 287, K 299, N 300, S 315, T 322, R 324, S 327
 
 #### Seeds in cluster:
 
@@ -10936,7 +11282,7 @@ ADC54929.1:
 
 ![](../../../csdb/images/7222.gif)
 
-7222
+CSDB record ID: 7222
 
 #### Sugars in cluster for blast hits:
 
@@ -10955,7 +11301,9 @@ ADC54929.1:
 
 Total number of members in cluster: 4
 
-#### Conserved resiudes: Y 33, S 35, D 44, T 45, Y 48, N 51, D 58, Y 62, E 65, N 107, N 125, R 131, Q 132, Y 133, K 151, S 156, S 163, S 166, H 167, R 231, K 232, Y 236, S 262, S 288, N 297, R 303, S 312
+#### Conserved (non-aliphatic) residues:
+
+Y 33, S 35, D 44, T 45, Y 48, N 51, D 58, Y 62, E 65, N 107, N 125, R 131, Q 132, Y 133, K 151, S 156, S 163, S 166, H 167, R 231, K 232, Y 236, S 262, S 288, N 297, R 303, S 312
 
 #### Seeds in cluster:
 
@@ -10995,7 +11343,9 @@ Total number of members in cluster: 4
 
 Total number of members in cluster: 4
 
-#### Conserved resiudes: T 1, Y 2, T 4, K 16, R 17, T 19, S 21, Q 22, S 23, K 24, K 25, N 26, N 32, Y 42, N 45, E 46, Q 47, Y 48, S 53, T 55, T 56, S 68, T 70, Y 71, R 76, S 77, R 79, S 83, T 86, E 90, S 91, K 92, Y 93, Y 95, N 102, S 105, Y 114, N 115, N 116, H 117, S 119, K 121, R 124, E 125, D 129, S 131, S 133, S 140, S 144, Y 149, R 152, H 153, E 154, N 155, K 156, K 157, N 158, Y 159, Y 161, T 164, S 167, S 174, T 175, S 176, K 177, Y 186, N 191, S 192, Y 193, S 195, K 196, K 197, K 198, Y 202, S 213, S 214, K 219, S 221, S 222, D 223, E 225, K 227, S 230, D 234, T 235, R 237, Y 239, S 242, N 248, Y 250, E 252, K 253, N 254, T 256, E 259, N 260, Y 264, K 267, E 268, T 272, T 273, K 274, K 278, T 279, D 280, N 286, D 291, T 292, N 293, Y 295, T 296, Y 302, Q 303, S 304, Y 308, Y 320, Y 321, S 326, R 328, Q 329, N 330, Y 336, Q 337, T 338, Q 350, E 351, H 352, Y 353, S 356, K 358, H 360, Y 363, R 373, K 374, E 377, Y 378, E 379
+#### Conserved (non-aliphatic) residues:
+
+T 1, Y 2, T 4, K 16, R 17, T 19, S 21, Q 22, S 23, K 24, K 25, N 26, N 32, Y 42, N 45, E 46, Q 47, Y 48, S 53, T 55, T 56, S 68, T 70, Y 71, R 76, S 77, R 79, S 83, T 86, E 90, S 91, K 92, Y 93, Y 95, N 102, S 105, Y 114, N 115, N 116, H 117, S 119, K 121, R 124, E 125, D 129, S 131, S 133, S 140, S 144, Y 149, R 152, H 153, E 154, N 155, K 156, K 157, N 158, Y 159, Y 161, T 164, S 167, S 174, T 175, S 176, K 177, Y 186, N 191, S 192, Y 193, S 195, K 196, K 197, K 198, Y 202, S 213, S 214, K 219, S 221, S 222, D 223, E 225, K 227, S 230, D 234, T 235, R 237, Y 239, S 242, N 248, Y 250, E 252, K 253, N 254, T 256, E 259, N 260, Y 264, K 267, E 268, T 272, T 273, K 274, K 278, T 279, D 280, N 286, D 291, T 292, N 293, Y 295, T 296, Y 302, Q 303, S 304, Y 308, Y 320, Y 321, S 326, R 328, Q 329, N 330, Y 336, Q 337, T 338, Q 350, E 351, H 352, Y 353, S 356, K 358, H 360, Y 363, R 373, K 374, E 377, Y 378, E 379
 
 #### Seeds in cluster:
 
@@ -11022,7 +11372,7 @@ ABA42232.1:
 
 ![](../../../csdb/images/1889.gif)
 
-1889
+CSDB record ID: 1889
 
 #### Sugars in cluster for blast hits:
 
@@ -11045,7 +11395,9 @@ ABA42232.1:
 
 Total number of members in cluster: 4
 
-#### Conserved resiudes: K 3, Y 114, K 118, S 122, Y 125, R 134, Y 151, S 154, D 194, R 200, N 225, N 240, R 243, R 246, S 255, Y 278, Y 280, S 283, S 284, N 313, R 324, N 339, D 346, Y 348, Y 404, N 405, S 408
+#### Conserved (non-aliphatic) residues:
+
+K 3, Y 114, K 118, S 122, Y 125, R 134, Y 151, S 154, D 194, R 200, N 225, N 240, R 243, R 246, S 255, Y 278, Y 280, S 283, S 284, N 313, R 324, N 339, D 346, Y 348, Y 404, N 405, S 408
 
 #### Seeds in cluster:
 
@@ -11071,7 +11423,7 @@ AAL27351.1:
 
 ![](../../../csdb/images/3986.gif)
 
-3986
+CSDB record ID: 3986
 
 #### Sugars in cluster for blast hits:
 
@@ -11092,7 +11444,9 @@ AAL27351.1:
 
 Total number of members in cluster: 4
 
-#### Conserved resiudes: S 25, S 40, N 42, Y 43, N 45, Y 47, D 48, N 51, Y 52, N 55, Q 57, Y 61, K 69, Y 70, Y 74, Y 79, S 82, Y 88, H 89, S 96, N 99, T 100, Y 101, N 110, N 113, S 123, Y 125, Y 130, S 131, E 132, T 133, R 135, Q 136, S 141, H 169, S 171, N 214, R 216, Y 220, N 232, Q 237, S 239, S 276, K 286, Q 290, Y 291, E 293, S 296, R 297, N 299, Y 300, Y 301, Y 309, N 321, K 322, Y 335, R 339, S 343, K 346, E 349, Y 350, Y 354
+#### Conserved (non-aliphatic) residues:
+
+S 25, S 40, N 42, Y 43, N 45, Y 47, D 48, N 51, Y 52, N 55, Q 57, Y 61, K 69, Y 70, Y 74, Y 79, S 82, Y 88, H 89, S 96, N 99, T 100, Y 101, N 110, N 113, S 123, Y 125, Y 130, S 131, E 132, T 133, R 135, Q 136, S 141, H 169, S 171, N 214, R 216, Y 220, N 232, Q 237, S 239, S 276, K 286, Q 290, Y 291, E 293, S 296, R 297, N 299, Y 300, Y 301, Y 309, N 321, K 322, Y 335, R 339, S 343, K 346, E 349, Y 350, Y 354
 
 #### Seeds in cluster:
 
@@ -11118,7 +11472,7 @@ ACA24901.1:
 
 ![](../../../csdb/images/1594.gif)
 
-1594
+CSDB record ID: 1594
 
 #### Sugars in cluster for blast hits:
 
@@ -11137,7 +11491,9 @@ ACA24901.1:
 
 Total number of members in cluster: 3
 
-#### Conserved resiudes: S 126, N 134, R 141, Y 142, Q 153, Y 160, K 177, R 179, S 185, T 195, K 199, S 249, R 253, K 268, H 276, D 281, T 301, N 336, T 339, R 342, E 346, D 347, Y 391, S 395, S 399, Y 403, S 405
+#### Conserved (non-aliphatic) residues:
+
+S 126, N 134, R 141, Y 142, Q 153, Y 160, K 177, R 179, S 185, T 195, K 199, S 249, R 253, K 268, H 276, D 281, T 301, N 336, T 339, R 342, E 346, D 347, Y 391, S 395, S 399, Y 403, S 405
 
 #### Seeds in cluster:
 
@@ -11176,7 +11532,9 @@ Total number of members in cluster: 3
 
 Total number of members in cluster: 3
 
-#### Conserved resiudes: Y 2, T 4, S 16, K 19, K 20, S 21, N 22, S 25, S 27, T 36, T 37, S 41, S 46, Y 49, T 50, S 52, Y 54, S 55, Y 58, T 63, T 64, S 65, S 67, S 70, E 74, Q 75, N 77, K 79, S 80, K 81, S 83, N 85, S 88, N 90, S 92, Y 94, Y 95, T 101, D 110, E 111, N 114, K 115, N 121, Y 125, E 127, Y 128, Y 129, R 130, S 133, T 134, S 135, E 137, D 138, K 141, D 142, S 143, N 145, Y 146, R 149, N 150, D 152, S 159, Y 164, S 167, T 168, R 169, R 170, S 172, S 173, K 176, T 178, S 186, T 188, S 193, R 196, S 197, R 201, R 215, R 217, K 219, S 226, Y 232, Y 241, S 243, Y 246, S 247, S 248, S 250, E 251, S 252, Y 255, S 259, R 262, Y 263, S 265, Y 268, Y 269, T 270, D 272, S 273, Y 274, K 278, D 280, R 284, D 289, S 290, K 294, D 296, T 297, T 298, T 300, K 307, Y 312, N 315, H 316, E 318, Q 321, E 326, N 327, S 330, N 331, Y 333, T 334, S 341, N 342, Y 350, S 352, S 360, Y 362, K 363, K 366, S 367, R 369, Y 376, S 377, S 387, S 389, E 390, Y 391, Q 395, R 401, Y 406, K 411, S 413, H 415, K 416, N 417, K 418, E 420
+#### Conserved (non-aliphatic) residues:
+
+Y 2, T 4, S 16, K 19, K 20, S 21, N 22, S 25, S 27, T 36, T 37, S 41, S 46, Y 49, T 50, S 52, Y 54, S 55, Y 58, T 63, T 64, S 65, S 67, S 70, E 74, Q 75, N 77, K 79, S 80, K 81, S 83, N 85, S 88, N 90, S 92, Y 94, Y 95, T 101, D 110, E 111, N 114, K 115, N 121, Y 125, E 127, Y 128, Y 129, R 130, S 133, T 134, S 135, E 137, D 138, K 141, D 142, S 143, N 145, Y 146, R 149, N 150, D 152, S 159, Y 164, S 167, T 168, R 169, R 170, S 172, S 173, K 176, T 178, S 186, T 188, S 193, R 196, S 197, R 201, R 215, R 217, K 219, S 226, Y 232, Y 241, S 243, Y 246, S 247, S 248, S 250, E 251, S 252, Y 255, S 259, R 262, Y 263, S 265, Y 268, Y 269, T 270, D 272, S 273, Y 274, K 278, D 280, R 284, D 289, S 290, K 294, D 296, T 297, T 298, T 300, K 307, Y 312, N 315, H 316, E 318, Q 321, E 326, N 327, S 330, N 331, Y 333, T 334, S 341, N 342, Y 350, S 352, S 360, Y 362, K 363, K 366, S 367, R 369, Y 376, S 377, S 387, S 389, E 390, Y 391, Q 395, R 401, Y 406, K 411, S 413, H 415, K 416, N 417, K 418, E 420
 
 #### Seeds in cluster:
 
@@ -11202,7 +11560,7 @@ BAQ01137.1:
 
 ![](../../../csdb/images/1572.gif)
 
-1572
+CSDB record ID: 1572
 
 #### Sugars in cluster for blast hits:
 
@@ -11220,7 +11578,9 @@ BAQ01137.1:
 
 Total number of members in cluster: 3
 
-#### Conserved resiudes: S 4, S 20, R 27, S 29, T 77, H 91, S 104, N 143, N 161, K 181, N 198, D 199, K 201, R 223, D 282, S 286, R 290, Y 296, S 304, N 313, T 314, Y 323, S 328, S 331, H 333, N 334, Q 338, S 364, K 368, S 385, S 389, S 394, N 395, Y 396
+#### Conserved (non-aliphatic) residues:
+
+S 4, S 20, R 27, S 29, T 77, H 91, S 104, N 143, N 161, K 181, N 198, D 199, K 201, R 223, D 282, S 286, R 290, Y 296, S 304, N 313, T 314, Y 323, S 328, S 331, H 333, N 334, Q 338, S 364, K 368, S 385, S 389, S 394, N 395, Y 396
 
 #### Seeds in cluster:
 
@@ -11246,7 +11606,7 @@ ADJ19203.1:
 
 ![](../../../csdb/images/1902.gif)
 
-1902
+CSDB record ID: 1902
 
 #### Sugars in cluster for blast hits:
 
@@ -11267,7 +11627,9 @@ ADJ19203.1:
 
 Total number of members in cluster: 3
 
-#### Conserved resiudes: S 13, Y 14, H 17, S 19, N 23, Y 30, K 40, K 41, E 42, S 49, S 54, T 57, T 58, S 61, E 66, T 67, E 73, E 76, S 78, T 79, N 81, T 84, N 87, S 89, T 94, S 99, N 100, N 106, R 108, N 114, T 115, S 116, N 120, E 124, Y 127, T 135, K 144, D 150, Y 151, Q 153, D 154, R 155, Y 157, Y 158, N 160, N 161, S 165, N 168, R 171, E 175, Q 176, S 177, Y 185, K 187, K 189, K 191, S 203, Q 204, E 209, K 210, T 212, Q 216, S 229, N 230, S 234, K 235, K 236, S 239, S 247, T 259, S 260, Y 261, S 263, S 265, D 267, S 268, E 273, S 274, K 276, T 277, R 278, Q 282, S 283, Q 284, T 290, S 295, S 301, N 306, E 315, N 316, T 317, S 320, Y 321, Q 329, N 333, Y 335, Q 336, E 337, T 343, N 349, T 377, Y 379, T 380, R 382, N 383, K 384, D 385, Y 386, K 394, N 397, Q 401, R 407, Y 409, E 413, K 415, H 430, S 431, K 432, R 434, N 439
+#### Conserved (non-aliphatic) residues:
+
+S 13, Y 14, H 17, S 19, N 23, Y 30, K 40, K 41, E 42, S 49, S 54, T 57, T 58, S 61, E 66, T 67, E 73, E 76, S 78, T 79, N 81, T 84, N 87, S 89, T 94, S 99, N 100, N 106, R 108, N 114, T 115, S 116, N 120, E 124, Y 127, T 135, K 144, D 150, Y 151, Q 153, D 154, R 155, Y 157, Y 158, N 160, N 161, S 165, N 168, R 171, E 175, Q 176, S 177, Y 185, K 187, K 189, K 191, S 203, Q 204, E 209, K 210, T 212, Q 216, S 229, N 230, S 234, K 235, K 236, S 239, S 247, T 259, S 260, Y 261, S 263, S 265, D 267, S 268, E 273, S 274, K 276, T 277, R 278, Q 282, S 283, Q 284, T 290, S 295, S 301, N 306, E 315, N 316, T 317, S 320, Y 321, Q 329, N 333, Y 335, Q 336, E 337, T 343, N 349, T 377, Y 379, T 380, R 382, N 383, K 384, D 385, Y 386, K 394, N 397, Q 401, R 407, Y 409, E 413, K 415, H 430, S 431, K 432, R 434, N 439
 
 #### Seeds in cluster:
 
@@ -11304,7 +11666,9 @@ Total number of members in cluster: 3
 
 Total number of members in cluster: 3
 
-#### Conserved resiudes: Y 2, S 8, S 15, S 18, T 19, T 22, S 24, S 27, N 32, Y 34, Y 36, K 38, S 40, T 41, S 42, R 47, S 56, S 66, Y 69, H 70, D 71, S 74, K 75, T 76, N 78, Y 79, Y 83, S 88, S 94, S 97, Y 98, T 99, K 100, D 103, K 105, K 106, N 108, K 109, T 111, Y 113, E 125, Y 126, Y 127, Y 128, T 131, N 132, N 133, Y 135, S 137, R 141, E 143, R 144, D 146, Y 147, S 149, N 150, S 151, S 153, Y 156, R 157, R 159, T 162, Y 163, E 164, S 165, S 166, S 167, S 174, Y 176, K 190, N 191, S 198, H 202, S 207, S 208, T 209, Q 210, Q 221, S 224, S 225, N 226, S 229, R 230, K 231, K 233, S 248, H 249, E 250, N 256, Y 257, S 259, N 260, K 261, D 263, T 267, N 269, S 271, N 272, S 274, S 276, E 277, R 278, N 279, K 280, N 287, E 291, N 292, S 301, Y 303, N 304, Y 305, D 307, T 308, N 312, H 314, Q 316, T 317, Q 319, Q 320, Y 326, T 331, Y 335, K 341, Q 342, Y 343, T 344, E 346, K 348, T 354, T 357, S 361, S 363, D 366, S 367, N 368, Y 370, Y 373, K 379, S 380, N 381, E 382, R 383
+#### Conserved (non-aliphatic) residues:
+
+Y 2, S 8, S 15, S 18, T 19, T 22, S 24, S 27, N 32, Y 34, Y 36, K 38, S 40, T 41, S 42, R 47, S 56, S 66, Y 69, H 70, D 71, S 74, K 75, T 76, N 78, Y 79, Y 83, S 88, S 94, S 97, Y 98, T 99, K 100, D 103, K 105, K 106, N 108, K 109, T 111, Y 113, E 125, Y 126, Y 127, Y 128, T 131, N 132, N 133, Y 135, S 137, R 141, E 143, R 144, D 146, Y 147, S 149, N 150, S 151, S 153, Y 156, R 157, R 159, T 162, Y 163, E 164, S 165, S 166, S 167, S 174, Y 176, K 190, N 191, S 198, H 202, S 207, S 208, T 209, Q 210, Q 221, S 224, S 225, N 226, S 229, R 230, K 231, K 233, S 248, H 249, E 250, N 256, Y 257, S 259, N 260, K 261, D 263, T 267, N 269, S 271, N 272, S 274, S 276, E 277, R 278, N 279, K 280, N 287, E 291, N 292, S 301, Y 303, N 304, Y 305, D 307, T 308, N 312, H 314, Q 316, T 317, Q 319, Q 320, Y 326, T 331, Y 335, K 341, Q 342, Y 343, T 344, E 346, K 348, T 354, T 357, S 361, S 363, D 366, S 367, N 368, Y 370, Y 373, K 379, S 380, N 381, E 382, R 383
 
 #### Seeds in cluster:
 
@@ -11330,7 +11694,7 @@ ADN43871.1:
 
 ![](../../../csdb/images/1287.gif)
 
-1287
+CSDB record ID: 1287
 
 #### Sugars in cluster for blast hits:
 
@@ -11350,7 +11714,9 @@ ADN43871.1:
 
 Total number of members in cluster: 3
 
-#### Conserved resiudes: K 28, Y 29, E 70, Y 81, S 115, N 127, Y 140, R 141, R 150, N 157, N 159, S 160, Y 172, R 176, N 181, D 184, Y 196, S 201, R 202, T 203, K 234, N 258, R 264, Y 271, D 288, D 297, S 299, Y 300, K 328, Y 344, E 348, N 349, N 357, T 359
+#### Conserved (non-aliphatic) residues:
+
+K 28, Y 29, E 70, Y 81, S 115, N 127, Y 140, R 141, R 150, N 157, N 159, S 160, Y 172, R 176, N 181, D 184, Y 196, S 201, R 202, T 203, K 234, N 258, R 264, Y 271, D 288, D 297, S 299, Y 300, K 328, Y 344, E 348, N 349, N 357, T 359
 
 #### Seeds in cluster:
 
@@ -11389,7 +11755,9 @@ Total number of members in cluster: 3
 
 Total number of members in cluster: 3
 
-#### Conserved resiudes: H 1, R 5, T 6, T 7, S 8, T 15, N 27, K 29, E 31, S 39, R 45, N 47, Q 48, K 54, S 57, S 62, Y 63, Y 66, T 72, S 76, T 78, D 80, S 83, R 85, N 86, Y 89, K 93, K 107, K 108, T 109, Q 110, T 111, Y 114, D 115, N 117, R 118, D 127, S 128, K 131, E 134, S 139, S 142, N 146, S 149, D 151, D 152, K 155, D 156, T 157, R 161, N 162, R 166, S 169, Y 171, D 172, Y 173, S 174, T 178, D 184, S 186, R 188, S 189, R 190, K 191, K 192, N 194, Y 198, S 204, S 207, S 208, R 210, T 211, T 220, Y 223, Y 225, R 226, Y 227, K 230, S 234, Y 244, S 246, H 249, S 250, N 251, E 252, H 255, N 256, Q 257, Q 258, S 260, E 264, N 268, N 271, N 273, E 275, T 276, E 277, S 278, T 279, D 280, D 281, E 284, N 285, H 286, D 291, N 292, Y 296, Q 301, Y 302, D 304, S 308, T 309, R 311, S 313, D 314, S 315, Y 317, Y 323, S 336, S 338, Y 339, Y 342, Y 344, K 346, S 347, Q 348, D 349, K 350, K 351, S 353, T 359, K 366, Y 371, S 372, D 373, Y 374, N 375, S 381, S 387, Y 389, K 393, K 395, E 396, N 397, E 398
+#### Conserved (non-aliphatic) residues:
+
+H 1, R 5, T 6, T 7, S 8, T 15, N 27, K 29, E 31, S 39, R 45, N 47, Q 48, K 54, S 57, S 62, Y 63, Y 66, T 72, S 76, T 78, D 80, S 83, R 85, N 86, Y 89, K 93, K 107, K 108, T 109, Q 110, T 111, Y 114, D 115, N 117, R 118, D 127, S 128, K 131, E 134, S 139, S 142, N 146, S 149, D 151, D 152, K 155, D 156, T 157, R 161, N 162, R 166, S 169, Y 171, D 172, Y 173, S 174, T 178, D 184, S 186, R 188, S 189, R 190, K 191, K 192, N 194, Y 198, S 204, S 207, S 208, R 210, T 211, T 220, Y 223, Y 225, R 226, Y 227, K 230, S 234, Y 244, S 246, H 249, S 250, N 251, E 252, H 255, N 256, Q 257, Q 258, S 260, E 264, N 268, N 271, N 273, E 275, T 276, E 277, S 278, T 279, D 280, D 281, E 284, N 285, H 286, D 291, N 292, Y 296, Q 301, Y 302, D 304, S 308, T 309, R 311, S 313, D 314, S 315, Y 317, Y 323, S 336, S 338, Y 339, Y 342, Y 344, K 346, S 347, Q 348, D 349, K 350, K 351, S 353, T 359, K 366, Y 371, S 372, D 373, Y 374, N 375, S 381, S 387, Y 389, K 393, K 395, E 396, N 397, E 398
 
 #### Seeds in cluster:
 
@@ -11415,7 +11783,7 @@ BAQ01659.1:
 
 ![](../../../csdb/images/1874.gif)
 
-1874
+CSDB record ID: 1874
 
 #### Sugars in cluster for blast hits:
 
@@ -11435,7 +11803,9 @@ BAQ01659.1:
 
 Total number of members in cluster: 3
 
-#### Conserved resiudes: K 7, S 23, T 38, Y 40, D 41, E 42, R 44, Y 45, T 49, D 55, K 57, Y 59, Y 63, T 64, E 66, N 67, Y 69, N 70, Y 71, Q 73, S 74, H 76, H 79, Y 80, R 87, Y 88, N 91, D 92, S 93, Y 100, Q 101, Y 105, E 119, Y 120, Y 138, S 147, R 150, D 151, Y 165, K 166, N 168, S 181, Y 183, R 184, N 186, Y 194, D 198, Q 199, Y 211, S 215, D 223, R 236, E 248, S 255, D 262, Y 268, R 270, S 276, Y 312, Y 316, E 319, R 325, Q 326, S 328, Y 335
+#### Conserved (non-aliphatic) residues:
+
+K 7, S 23, T 38, Y 40, D 41, E 42, R 44, Y 45, T 49, D 55, K 57, Y 59, Y 63, T 64, E 66, N 67, Y 69, N 70, Y 71, Q 73, S 74, H 76, H 79, Y 80, R 87, Y 88, N 91, D 92, S 93, Y 100, Q 101, Y 105, E 119, Y 120, Y 138, S 147, R 150, D 151, Y 165, K 166, N 168, S 181, Y 183, R 184, N 186, Y 194, D 198, Q 199, Y 211, S 215, D 223, R 236, E 248, S 255, D 262, Y 268, R 270, S 276, Y 312, Y 316, E 319, R 325, Q 326, S 328, Y 335
 
 #### Seeds in cluster:
 
@@ -11475,7 +11845,9 @@ Total number of members in cluster: 3
 
 Total number of members in cluster: 3
 
-#### Conserved resiudes: S 15, T 30, N 51, D 56, Y 60, S 67, H 83, T 84, E 85, Q 92, S 101, T 103, S 113, R 117, Y 118, Y 121, D 130, H 141, E 142, R 145, K 146, D 147, Q 150, R 152, N 153, S 157, Y 162, S 163, R 172, Q 186, T 188, R 199, S 203, Y 206, K 227, N 245, Y 246, Y 248, E 251, S 253, K 254, S 257, N 260, K 265, Q 266, D 283, K 285, Q 291, Y 293, T 297, Y 299, Y 300, R 304, D 305, E 307, R 312, S 315, Y 318, E 321, K 334, N 335, K 339, K 340, Y 347, N 354, T 357
+#### Conserved (non-aliphatic) residues:
+
+S 15, T 30, N 51, D 56, Y 60, S 67, H 83, T 84, E 85, Q 92, S 101, T 103, S 113, R 117, Y 118, Y 121, D 130, H 141, E 142, R 145, K 146, D 147, Q 150, R 152, N 153, S 157, Y 162, S 163, R 172, Q 186, T 188, R 199, S 203, Y 206, K 227, N 245, Y 246, Y 248, E 251, S 253, K 254, S 257, N 260, K 265, Q 266, D 283, K 285, Q 291, Y 293, T 297, Y 299, Y 300, R 304, D 305, E 307, R 312, S 315, Y 318, E 321, K 334, N 335, K 339, K 340, Y 347, N 354, T 357
 
 #### Seeds in cluster:
 
@@ -11512,7 +11884,9 @@ Total number of members in cluster: 3
 
 Total number of members in cluster: 3
 
-#### Conserved resiudes: T 1, K 4, K 5, K 6, Q 7, N 9, N 12, R 15, R 16, S 18, S 28, S 30, N 32, Y 33, Y 38, E 40, K 42, D 59, R 61, K 62, K 65, T 66, Y 67, S 68, S 69, Y 76, T 82, S 83, S 86, Y 87, Y 90, N 92, N 94, Y 97, S 99, S 101, K 105, S 115, K 117, D 118, D 120, K 126, N 130, S 139, E 143, Y 146, N 149, T 154, N 155, S 156, E 158, Q 160, T 161, Y 162, Y 164, H 165, S 168, Y 169, T 174, S 176, D 178, Y 180, K 183, R 186, N 187, Q 188, S 189, Q 192, E 193, Y 200, T 204, S 209, Q 212, K 213, Y 215, S 216, K 217, N 218, H 219, Y 224, T 230, S 233, T 234, S 236, T 238, S 243, S 247, Y 249, R 252, N 257, S 258, S 261, S 264, S 266, T 269, Y 270, S 274, D 275, N 276, Y 278, N 280, K 281, S 284, D 286, E 287, R 288, Y 290, N 294, N 297, Y 300, S 301, N 302, Y 312, E 313, S 314, E 315, D 321, K 323, N 325, N 326, E 330, Y 334, S 335, N 339, Y 343, Y 349, R 352, K 353, Y 355, K 358, K 360, Y 361, Y 367, T 370, T 371, S 376
+#### Conserved (non-aliphatic) residues:
+
+T 1, K 4, K 5, K 6, Q 7, N 9, N 12, R 15, R 16, S 18, S 28, S 30, N 32, Y 33, Y 38, E 40, K 42, D 59, R 61, K 62, K 65, T 66, Y 67, S 68, S 69, Y 76, T 82, S 83, S 86, Y 87, Y 90, N 92, N 94, Y 97, S 99, S 101, K 105, S 115, K 117, D 118, D 120, K 126, N 130, S 139, E 143, Y 146, N 149, T 154, N 155, S 156, E 158, Q 160, T 161, Y 162, Y 164, H 165, S 168, Y 169, T 174, S 176, D 178, Y 180, K 183, R 186, N 187, Q 188, S 189, Q 192, E 193, Y 200, T 204, S 209, Q 212, K 213, Y 215, S 216, K 217, N 218, H 219, Y 224, T 230, S 233, T 234, S 236, T 238, S 243, S 247, Y 249, R 252, N 257, S 258, S 261, S 264, S 266, T 269, Y 270, S 274, D 275, N 276, Y 278, N 280, K 281, S 284, D 286, E 287, R 288, Y 290, N 294, N 297, Y 300, S 301, N 302, Y 312, E 313, S 314, E 315, D 321, K 323, N 325, N 326, E 330, Y 334, S 335, N 339, Y 343, Y 349, R 352, K 353, Y 355, K 358, K 360, Y 361, Y 367, T 370, T 371, S 376
 
 #### Seeds in cluster:
 
@@ -11538,7 +11912,7 @@ BAQ00927.1:
 
 ![](../../../csdb/images/1381.gif)
 
-1381
+CSDB record ID: 1381
 
 #### Sugars in cluster for blast hits:
 
@@ -11556,7 +11930,9 @@ BAQ00927.1:
 
 Total number of members in cluster: 3
 
-#### Conserved resiudes: Y 2, T 4, N 5, Y 10, Q 11, T 15, S 22, S 23, S 26, E 31, Y 32, T 33, S 43, T 45, Y 47, T 50, K 51, R 52, N 54, S 55, K 57, Y 58, Q 60, S 62, S 67, K 68, Q 72, N 82, S 84, E 85, T 91, H 92, H 95, Q 96, Y 99, D 102, R 103, K 112, Y 120, T 123, T 128, K 129, N 130, Y 131, S 134, R 135, S 144, T 148, S 150, R 151, T 154, Y 161, T 165, R 173, K 175, S 186, Y 192, Y 193, R 194, E 195, N 198, S 200, D 203, Y 204, S 210, S 211, N 213, E 214, S 219, N 221, S 223, N 224, Q 226, S 230, N 231, T 234, Q 235, D 238, K 244, S 245, D 246, R 248, T 251, T 254, E 255, S 258, S 262, E 263, K 264, Y 266, S 269, S 270, S 271, E 275, S 276, K 277, N 282, Y 287, S 293, N 295, S 296, S 300, R 304, S 305, S 307, R 308, S 310, H 311, S 316, Y 323, S 324, R 326, T 327, E 328, Y 331, Y 333, K 338, Y 342, N 350, Q 351, K 355, S 356, S 357
+#### Conserved (non-aliphatic) residues:
+
+Y 2, T 4, N 5, Y 10, Q 11, T 15, S 22, S 23, S 26, E 31, Y 32, T 33, S 43, T 45, Y 47, T 50, K 51, R 52, N 54, S 55, K 57, Y 58, Q 60, S 62, S 67, K 68, Q 72, N 82, S 84, E 85, T 91, H 92, H 95, Q 96, Y 99, D 102, R 103, K 112, Y 120, T 123, T 128, K 129, N 130, Y 131, S 134, R 135, S 144, T 148, S 150, R 151, T 154, Y 161, T 165, R 173, K 175, S 186, Y 192, Y 193, R 194, E 195, N 198, S 200, D 203, Y 204, S 210, S 211, N 213, E 214, S 219, N 221, S 223, N 224, Q 226, S 230, N 231, T 234, Q 235, D 238, K 244, S 245, D 246, R 248, T 251, T 254, E 255, S 258, S 262, E 263, K 264, Y 266, S 269, S 270, S 271, E 275, S 276, K 277, N 282, Y 287, S 293, N 295, S 296, S 300, R 304, S 305, S 307, R 308, S 310, H 311, S 316, Y 323, S 324, R 326, T 327, E 328, Y 331, Y 333, K 338, Y 342, N 350, Q 351, K 355, S 356, S 357
 
 #### Seeds in cluster:
 
@@ -11582,7 +11958,7 @@ BAQ01155.1:
 
 ![](../../../csdb/images/1574.gif)
 
-1574
+CSDB record ID: 1574
 
 #### Sugars in cluster for blast hits:
 
@@ -11601,7 +11977,9 @@ BAQ01155.1:
 
 Total number of members in cluster: 3
 
-#### Conserved resiudes: Y 30, Y 40, Q 41, D 42, N 47, E 51, R 54, S 55, E 68, K 74, K 76, Q 85, K 86, Y 87, Y 94, Y 102, Y 112, E 117, K 122, K 125, Y 129, R 138, H 139, S 145, K 148, E 171, N 177, H 183, S 184, Y 189, R 191, R 193, T 196, E 198, S 199, S 200, T 202, Y 209, S 210, Y 215, N 222, Y 240, T 244, S 246, K 247, R 269, K 273, N 274, S 298, S 299, D 303, E 305, Y 307, T 308, S 309, T 312, R 313, T 333, Y 336, S 362, N 365, E 368, K 377, K 382, S 383, K 405, K 412, S 427, E 435, K 437, Y 438, E 439
+#### Conserved (non-aliphatic) residues:
+
+Y 30, Y 40, Q 41, D 42, N 47, E 51, R 54, S 55, E 68, K 74, K 76, Q 85, K 86, Y 87, Y 94, Y 102, Y 112, E 117, K 122, K 125, Y 129, R 138, H 139, S 145, K 148, E 171, N 177, H 183, S 184, Y 189, R 191, R 193, T 196, E 198, S 199, S 200, T 202, Y 209, S 210, Y 215, N 222, Y 240, T 244, S 246, K 247, R 269, K 273, N 274, S 298, S 299, D 303, E 305, Y 307, T 308, S 309, T 312, R 313, T 333, Y 336, S 362, N 365, E 368, K 377, K 382, S 383, K 405, K 412, S 427, E 435, K 437, Y 438, E 439
 
 #### Seeds in cluster:
 
@@ -11639,7 +12017,9 @@ Total number of members in cluster: 3
 
 Total number of members in cluster: 3
 
-#### Conserved resiudes: N 5, Q 22, Y 24, K 26, S 31, D 32, Q 36, Y 41, S 54, S 67, Y 71, N 76, K 81, D 93, D 129, R 136, T 138, D 142, N 143, N 145, K 146, Y 150, K 165, Y 183, T 188, T 192, Y 207, S 240, Y 247, H 248, N 254, R 260, Y 263, Y 265, D 290, N 291, S 292, N 325, S 327, Y 339, E 343, T 344, E 348, N 352, T 354, Y 361, R 363, N 366, E 369
+#### Conserved (non-aliphatic) residues:
+
+N 5, Q 22, Y 24, K 26, S 31, D 32, Q 36, Y 41, S 54, S 67, Y 71, N 76, K 81, D 93, D 129, R 136, T 138, D 142, N 143, N 145, K 146, Y 150, K 165, Y 183, T 188, T 192, Y 207, S 240, Y 247, H 248, N 254, R 260, Y 263, Y 265, D 290, N 291, S 292, N 325, S 327, Y 339, E 343, T 344, E 348, N 352, T 354, Y 361, R 363, N 366, E 369
 
 #### Seeds in cluster:
 
@@ -11665,7 +12045,7 @@ AIG62747.1:
 
 ![](../../../csdb/images/1920.gif)
 
-1920
+CSDB record ID: 1920
 
 #### Sugars in cluster for blast hits:
 
@@ -11686,7 +12066,9 @@ AIG62747.1:
 
 Total number of members in cluster: 2
 
-#### Conserved resiudes: N 2, Y 3, K 5, N 11, H 13, S 21, S 22, Y 24, K 27, T 29, Q 30, S 32, Y 35, S 38, Q 48, S 51, R 53, K 54, S 56, S 61, Y 70, S 71, Q 72, Q 75, N 78, Y 79, N 80, S 81, S 83, T 84, Y 85, N 87, S 89, R 102, Y 105, D 106, Y 107, D 108, N 112, S 113, K 115, Y 117, D 128, S 129, Y 131, R 132, N 135, T 137, S 140, K 142, E 145, N 149, S 150, S 151, E 152, Y 156, Y 158, K 159, D 167, S 168, N 169, T 170, T 171, T 177, Y 183, Y 184, K 187, H 189, K 192, T 194, S 195, T 201, S 206, S 209, R 210, S 211, S 215, T 219, Y 227, K 228, R 230, S 237, S 249, N 251, S 253, D 254, S 256, D 258, S 259, K 260, Y 262, S 265, K 266, D 268, E 269, Y 270, T 272, S 273, S 275, S 278, D 286, S 288, S 289, D 293, N 294, Y 296, H 298, Y 301, T 303, E 307, S 308, Y 316, S 318, S 322, Y 326, T 327, N 328, K 330, S 342, S 344, Y 345, Y 348, Y 362, N 363, Y 367, E 368
+#### Conserved (non-aliphatic) residues:
+
+N 2, Y 3, K 5, N 11, H 13, S 21, S 22, Y 24, K 27, T 29, Q 30, S 32, Y 35, S 38, Q 48, S 51, R 53, K 54, S 56, S 61, Y 70, S 71, Q 72, Q 75, N 78, Y 79, N 80, S 81, S 83, T 84, Y 85, N 87, S 89, R 102, Y 105, D 106, Y 107, D 108, N 112, S 113, K 115, Y 117, D 128, S 129, Y 131, R 132, N 135, T 137, S 140, K 142, E 145, N 149, S 150, S 151, E 152, Y 156, Y 158, K 159, D 167, S 168, N 169, T 170, T 171, T 177, Y 183, Y 184, K 187, H 189, K 192, T 194, S 195, T 201, S 206, S 209, R 210, S 211, S 215, T 219, Y 227, K 228, R 230, S 237, S 249, N 251, S 253, D 254, S 256, D 258, S 259, K 260, Y 262, S 265, K 266, D 268, E 269, Y 270, T 272, S 273, S 275, S 278, D 286, S 288, S 289, D 293, N 294, Y 296, H 298, Y 301, T 303, E 307, S 308, Y 316, S 318, S 322, Y 326, T 327, N 328, K 330, S 342, S 344, Y 345, Y 348, Y 362, N 363, Y 367, E 368
 
 #### Seeds in cluster:
 
@@ -11723,7 +12105,9 @@ Total number of members in cluster: 2
 
 Total number of members in cluster: 2
 
-#### Conserved resiudes: D 4, R 70, R 108, Y 122, T 123, D 128, H 132, T 135, Q 150, S 163, R 165, R 170, S 173, S 177, T 179, S 184, Y 188, S 214, N 216, K 217, N 222, R 235, K 240, R 265, S 272, N 284, Y 285, D 286, E 291, S 292, R 296, N 304, E 306, S 309, S 313, Y 317, S 327, T 328, H 342, N 343, Q 344, E 347, T 350, R 370, N 396, S 397, N 401, T 403, Y 405, Q 406, S 408, S 411, E 428, R 433, R 438
+#### Conserved (non-aliphatic) residues:
+
+D 4, R 70, R 108, Y 122, T 123, D 128, H 132, T 135, Q 150, S 163, R 165, R 170, S 173, S 177, T 179, S 184, Y 188, S 214, N 216, K 217, N 222, R 235, K 240, R 265, S 272, N 284, Y 285, D 286, E 291, S 292, R 296, N 304, E 306, S 309, S 313, Y 317, S 327, T 328, H 342, N 343, Q 344, E 347, T 350, R 370, N 396, S 397, N 401, T 403, Y 405, Q 406, S 408, S 411, E 428, R 433, R 438
 
 #### Seeds in cluster:
 
@@ -11760,7 +12144,9 @@ Total number of members in cluster: 2
 
 Total number of members in cluster: 2
 
-#### Conserved resiudes: T 1, N 2, T 3, N 4, Y 5, Y 7, N 8, E 9, R 13, S 21, T 25, S 27, T 28, K 30, E 32, D 35, H 36, D 37, Y 38, K 39, Q 40, Y 41, Y 43, E 46, Y 48, K 49, N 50, S 51, D 53, Y 58, E 59, E 61, Y 66, S 68, R 69, N 72, N 75, Y 85, T 86, K 93, K 98, R 99, T 101, K 102, K 103, T 104, S 105, Q 106, Y 114, S 115, Y 119, H 122, E 123, T 125, Q 126, R 128, S 130, S 140, Q 142, K 143, N 144, K 145, T 155, S 158, H 159, Y 160, S 161, S 165, S 170, R 173, Y 174, N 176, D 177, K 178, R 181, T 182, Q 183, Y 202, S 204, R 205, Q 206, T 207, K 209, Y 210, D 211, T 213, N 214, Y 218, Y 220, H 223, Y 225, S 226, S 232, Y 235, R 237, R 238, Y 239, K 241, N 242, H 243, Y 245, Y 246, Q 247, Y 250, Y 256, Y 257, S 262, Q 267, S 268, Q 269, R 274, E 277, N 291, S 292, S 293, K 295, S 296, S 297, K 300, T 309, Y 313, E 314, H 315, E 320, N 324, D 326, H 329, N 330, S 331, S 333, K 334, D 336, T 337, Q 339
+#### Conserved (non-aliphatic) residues:
+
+T 1, N 2, T 3, N 4, Y 5, Y 7, N 8, E 9, R 13, S 21, T 25, S 27, T 28, K 30, E 32, D 35, H 36, D 37, Y 38, K 39, Q 40, Y 41, Y 43, E 46, Y 48, K 49, N 50, S 51, D 53, Y 58, E 59, E 61, Y 66, S 68, R 69, N 72, N 75, Y 85, T 86, K 93, K 98, R 99, T 101, K 102, K 103, T 104, S 105, Q 106, Y 114, S 115, Y 119, H 122, E 123, T 125, Q 126, R 128, S 130, S 140, Q 142, K 143, N 144, K 145, T 155, S 158, H 159, Y 160, S 161, S 165, S 170, R 173, Y 174, N 176, D 177, K 178, R 181, T 182, Q 183, Y 202, S 204, R 205, Q 206, T 207, K 209, Y 210, D 211, T 213, N 214, Y 218, Y 220, H 223, Y 225, S 226, S 232, Y 235, R 237, R 238, Y 239, K 241, N 242, H 243, Y 245, Y 246, Q 247, Y 250, Y 256, Y 257, S 262, Q 267, S 268, Q 269, R 274, E 277, N 291, S 292, S 293, K 295, S 296, S 297, K 300, T 309, Y 313, E 314, H 315, E 320, N 324, D 326, H 329, N 330, S 331, S 333, K 334, D 336, T 337, Q 339
 
 #### Seeds in cluster:
 
@@ -11798,7 +12184,9 @@ Total number of members in cluster: 2
 
 Total number of members in cluster: 2
 
-#### Conserved resiudes: N 5, S 7, Y 8, K 10, K 12, K 13, E 16, Y 17, Y 18, S 31, R 34, D 41, Y 42, Y 45, E 47, T 50, R 56, D 57, S 58, E 60, Y 63, R 64, R 67, N 70, D 71, D 75, H 77, Y 82, S 85, T 88, S 91, K 93, S 99, S 101, S 102, H 103, N 105, Y 111, S 114, H 119, E 120, Y 121, T 122, Q 123, R 125, S 136, K 138, D 139, E 142, N 143, R 144, K 151, T 156, H 159, Y 160, S 161, Y 171, T 172, R 173, R 176, S 177, K 179, T 185, S 192, E 197, S 200, T 203, K 204, Y 205, Y 207, Q 210, D 211, N 216, K 217, S 218, E 221, S 222, D 223, S 226, N 229, K 231, Y 232, T 234, S 243, T 244, K 247, K 248, E 249, D 250, S 251, N 253, T 255, Y 257, K 258, S 261, Y 267, Y 268, Y 269, Q 274, S 279, R 281, E 284, Y 286, S 287, Y 290, N 296, Y 299, N 300, K 301, D 302, Y 303, T 305, K 307, Y 310, S 316, T 320, Y 323, Y 325, K 329, T 330, T 332
+#### Conserved (non-aliphatic) residues:
+
+N 5, S 7, Y 8, K 10, K 12, K 13, E 16, Y 17, Y 18, S 31, R 34, D 41, Y 42, Y 45, E 47, T 50, R 56, D 57, S 58, E 60, Y 63, R 64, R 67, N 70, D 71, D 75, H 77, Y 82, S 85, T 88, S 91, K 93, S 99, S 101, S 102, H 103, N 105, Y 111, S 114, H 119, E 120, Y 121, T 122, Q 123, R 125, S 136, K 138, D 139, E 142, N 143, R 144, K 151, T 156, H 159, Y 160, S 161, Y 171, T 172, R 173, R 176, S 177, K 179, T 185, S 192, E 197, S 200, T 203, K 204, Y 205, Y 207, Q 210, D 211, N 216, K 217, S 218, E 221, S 222, D 223, S 226, N 229, K 231, Y 232, T 234, S 243, T 244, K 247, K 248, E 249, D 250, S 251, N 253, T 255, Y 257, K 258, S 261, Y 267, Y 268, Y 269, Q 274, S 279, R 281, E 284, Y 286, S 287, Y 290, N 296, Y 299, N 300, K 301, D 302, Y 303, T 305, K 307, Y 310, S 316, T 320, Y 323, Y 325, K 329, T 330, T 332
 
 #### Seeds in cluster:
 
@@ -11835,7 +12223,9 @@ Total number of members in cluster: 2
 
 Total number of members in cluster: 2
 
-#### Conserved resiudes: Y 2, T 10, T 13, D 15, R 20, S 21, K 24, S 26, S 32, S 36, S 37, Y 41, N 43, Y 44, R 45, Q 46, D 48, S 52, T 53, K 54, Y 58, S 61, S 65, R 74, R 78, K 79, K 80, D 81, K 82, N 83, Y 84, E 85, K 89, E 90, D 92, N 94, T 95, H 96, S 98, T 105, Y 112, S 116, K 118, D 119, Q 121, S 123, N 125, N 128, S 131, Q 132, Y 134, Y 135, K 136, N 137, Q 139, H 140, N 141, S 143, N 144, S 145, N 149, Q 150, E 153, T 156, Y 160, S 162, Q 165, S 168, R 170, Y 171, K 174, D 175, R 176, N 177, R 178, Q 179, T 180, N 182, Y 183, N 185, T 188, S 196, T 197, D 198, R 199, N 200, R 204, Y 208, Y 217, T 218, K 219, S 220, N 221, Q 222, S 224, K 226, S 227, N 229, K 231, R 234, K 235, S 236, Y 248, Y 249, K 252, K 254, N 255, Y 256, T 257, S 258, D 259, Q 261, R 262, Y 267, S 270, Y 273, N 274, N 276, N 280, K 281, T 285, N 286, K 288, Y 289, S 292, T 293, R 295, T 296, S 298, D 299, T 300, T 303, N 308, T 309, T 313, T 314, S 315, S 318, E 319, Q 324, S 325, S 326, T 327, Y 331, S 333, N 334, Y 336, S 337, R 340, E 344, D 345, Y 348, Y 354, E 363, Y 366, E 367, R 370, R 371, K 372, Y 374, S 375, Y 381, S 382, Y 383, S 384, Y 386, Y 390, E 394, E 395, Q 396, R 399, R 400, H 402, T 405, Y 407, E 408, S 410, Y 416, Q 421, R 422, K 423, R 425, K 427
+#### Conserved (non-aliphatic) residues:
+
+Y 2, T 10, T 13, D 15, R 20, S 21, K 24, S 26, S 32, S 36, S 37, Y 41, N 43, Y 44, R 45, Q 46, D 48, S 52, T 53, K 54, Y 58, S 61, S 65, R 74, R 78, K 79, K 80, D 81, K 82, N 83, Y 84, E 85, K 89, E 90, D 92, N 94, T 95, H 96, S 98, T 105, Y 112, S 116, K 118, D 119, Q 121, S 123, N 125, N 128, S 131, Q 132, Y 134, Y 135, K 136, N 137, Q 139, H 140, N 141, S 143, N 144, S 145, N 149, Q 150, E 153, T 156, Y 160, S 162, Q 165, S 168, R 170, Y 171, K 174, D 175, R 176, N 177, R 178, Q 179, T 180, N 182, Y 183, N 185, T 188, S 196, T 197, D 198, R 199, N 200, R 204, Y 208, Y 217, T 218, K 219, S 220, N 221, Q 222, S 224, K 226, S 227, N 229, K 231, R 234, K 235, S 236, Y 248, Y 249, K 252, K 254, N 255, Y 256, T 257, S 258, D 259, Q 261, R 262, Y 267, S 270, Y 273, N 274, N 276, N 280, K 281, T 285, N 286, K 288, Y 289, S 292, T 293, R 295, T 296, S 298, D 299, T 300, T 303, N 308, T 309, T 313, T 314, S 315, S 318, E 319, Q 324, S 325, S 326, T 327, Y 331, S 333, N 334, Y 336, S 337, R 340, E 344, D 345, Y 348, Y 354, E 363, Y 366, E 367, R 370, R 371, K 372, Y 374, S 375, Y 381, S 382, Y 383, S 384, Y 386, Y 390, E 394, E 395, Q 396, R 399, R 400, H 402, T 405, Y 407, E 408, S 410, Y 416, Q 421, R 422, K 423, R 425, K 427
 
 #### Seeds in cluster:
 
@@ -11872,7 +12262,9 @@ Total number of members in cluster: 2
 
 Total number of members in cluster: 2
 
-#### Conserved resiudes: D 2, Y 3, R 26, S 28, S 43, R 46, Y 47, Y 48, D 52, E 54, Y 56, Q 57, Y 60, Y 64, S 66, N 74, Y 78, R 79, R 86, S 89, S 91, S 107, S 111, K 117, Y 130, Y 133, E 134, Y 135, Q 142, R 143, Q 144, H 148, N 164, K 166, T 179, H 181, S 183, Y 191, S 198, S 216, S 222, N 225, K 251, Y 254, Y 255, Y 258, K 263, S 267, R 269, Y 270, E 272, Y 273, S 289, K 292, Y 295, Y 305, H 310, S 318, Q 324, R 326, E 328, Y 330, H 335, S 340, K 349, S 361, K 367, Y 368, R 370, S 374, Y 377, D 381, S 382, H 383, Y 384, Q 385, R 386, Y 390
+#### Conserved (non-aliphatic) residues:
+
+D 2, Y 3, R 26, S 28, S 43, R 46, Y 47, Y 48, D 52, E 54, Y 56, Q 57, Y 60, Y 64, S 66, N 74, Y 78, R 79, R 86, S 89, S 91, S 107, S 111, K 117, Y 130, Y 133, E 134, Y 135, Q 142, R 143, Q 144, H 148, N 164, K 166, T 179, H 181, S 183, Y 191, S 198, S 216, S 222, N 225, K 251, Y 254, Y 255, Y 258, K 263, S 267, R 269, Y 270, E 272, Y 273, S 289, K 292, Y 295, Y 305, H 310, S 318, Q 324, R 326, E 328, Y 330, H 335, S 340, K 349, S 361, K 367, Y 368, R 370, S 374, Y 377, D 381, S 382, H 383, Y 384, Q 385, R 386, Y 390
 
 #### Seeds in cluster:
 
@@ -11910,7 +12302,9 @@ Total number of members in cluster: 2
 
 Total number of members in cluster: 2
 
-#### Conserved resiudes: T 46, Y 48, T 56, S 62, R 64, K 68, N 69, R 71, E 72, T 73, T 76, E 77, D 80, R 84, T 85, R 89, T 90, R 94, T 95, R 99, T 103, S 107, S 109, R 110, R 112, R 114, S 115, T 122, R 123, T 124, S 126, S 127, T 128, R 129, Y 130, R 131, R 133, S 134, T 140, E 141, E 142, E 143, T 144, R 146, R 149, R 150, T 152, D 155, T 160, S 166, R 169, Y 170, D 171, T 174, D 175, Y 176, T 178, Y 179, E 180, N 184, N 187, D 189, D 190, D 194, E 197, S 198, T 199, Q 200, E 201, Y 204, T 205, K 212, T 213, T 215, E 216, D 217, K 219, T 229, Y 234, K 238, R 239, S 241, D 243, E 255, Y 256, T 257, S 258, S 259, N 261, R 264, Q 265, Y 266, T 277, Y 278, R 281, K 282, N 283, S 295, H 297, T 299, R 311, R 312, R 314, T 316, Q 318, T 319, T 320, R 335, S 342, E 345, N 348, R 350, Y 351, D 353, Y 354, D 356, S 357, Q 359, T 360, S 364, Y 365, S 367, Y 371, S 383, R 384, K 385, T 389, R 390, E 392, S 393, Q 394, T 410, Q 411, S 416, R 417, S 419, Y 421, N 432, R 433, K 436, Q 438, D 439, R 440, T 441, T 444, Y 454, Y 455, Q 460, N 461, Y 462, E 464, Y 468, R 469, T 470, Y 471, Q 474
+#### Conserved (non-aliphatic) residues:
+
+T 46, Y 48, T 56, S 62, R 64, K 68, N 69, R 71, E 72, T 73, T 76, E 77, D 80, R 84, T 85, R 89, T 90, R 94, T 95, R 99, T 103, S 107, S 109, R 110, R 112, R 114, S 115, T 122, R 123, T 124, S 126, S 127, T 128, R 129, Y 130, R 131, R 133, S 134, T 140, E 141, E 142, E 143, T 144, R 146, R 149, R 150, T 152, D 155, T 160, S 166, R 169, Y 170, D 171, T 174, D 175, Y 176, T 178, Y 179, E 180, N 184, N 187, D 189, D 190, D 194, E 197, S 198, T 199, Q 200, E 201, Y 204, T 205, K 212, T 213, T 215, E 216, D 217, K 219, T 229, Y 234, K 238, R 239, S 241, D 243, E 255, Y 256, T 257, S 258, S 259, N 261, R 264, Q 265, Y 266, T 277, Y 278, R 281, K 282, N 283, S 295, H 297, T 299, R 311, R 312, R 314, T 316, Q 318, T 319, T 320, R 335, S 342, E 345, N 348, R 350, Y 351, D 353, Y 354, D 356, S 357, Q 359, T 360, S 364, Y 365, S 367, Y 371, S 383, R 384, K 385, T 389, R 390, E 392, S 393, Q 394, T 410, Q 411, S 416, R 417, S 419, Y 421, N 432, R 433, K 436, Q 438, D 439, R 440, T 441, T 444, Y 454, Y 455, Q 460, N 461, Y 462, E 464, Y 468, R 469, T 470, Y 471, Q 474
 
 #### Seeds in cluster:
 
@@ -11947,7 +12341,9 @@ Total number of members in cluster: 2
 
 Total number of members in cluster: 2
 
-#### Conserved resiudes: Y 2, S 41, D 43, N 46, Y 47, N 49, Y 51, Y 52, E 61, S 64, S 81, K 93, S 105, Y 111, K 114, D 120, T 122, Q 123, R 125, Y 151, H 159, S 161, K 174, N 177, S 192, K 197, H 208, N 212, Y 213, Y 216, N 226, N 235, K 246, D 251, N 255, K 259, Y 261, S 264, S 267, Y 269, S 278, R 280, S 282, E 283, Y 288, Q 289, Q 304, R 305, S 316, Q 319, Y 321, T 323, Y 324, N 325, Y 333
+#### Conserved (non-aliphatic) residues:
+
+Y 2, S 41, D 43, N 46, Y 47, N 49, Y 51, Y 52, E 61, S 64, S 81, K 93, S 105, Y 111, K 114, D 120, T 122, Q 123, R 125, Y 151, H 159, S 161, K 174, N 177, S 192, K 197, H 208, N 212, Y 213, Y 216, N 226, N 235, K 246, D 251, N 255, K 259, Y 261, S 264, S 267, Y 269, S 278, R 280, S 282, E 283, Y 288, Q 289, Q 304, R 305, S 316, Q 319, Y 321, T 323, Y 324, N 325, Y 333
 
 #### Seeds in cluster:
 
@@ -11985,7 +12381,9 @@ Total number of members in cluster: 2
 
 Total number of members in cluster: 2
 
-#### Conserved resiudes: Y 3, Y 19, N 20, Y 24, N 28, R 39, D 46, T 47, Y 50, N 58, N 65, N 68, Q 76, R 77, E 79, T 80, N 86, K 87, Y 90, S 93, N 95, Q 97, E 99, T 103, T 109, Y 122, N 137, S 138, N 140, R 143, Q 144, S 145, K 162, H 177, T 179, Y 187, S 190, N 195, E 214, K 215, S 221, S 224, T 225, E 226, S 231, N 237, N 244, Y 261, D 271, K 272, K 278, S 280, Y 282, S 294, K 296, S 298, Q 299, R 302, Y 306, E 311, N 324, K 328, Y 342, Q 347, R 350, E 352, S 354, Y 359
+#### Conserved (non-aliphatic) residues:
+
+Y 3, Y 19, N 20, Y 24, N 28, R 39, D 46, T 47, Y 50, N 58, N 65, N 68, Q 76, R 77, E 79, T 80, N 86, K 87, Y 90, S 93, N 95, Q 97, E 99, T 103, T 109, Y 122, N 137, S 138, N 140, R 143, Q 144, S 145, K 162, H 177, T 179, Y 187, S 190, N 195, E 214, K 215, S 221, S 224, T 225, E 226, S 231, N 237, N 244, Y 261, D 271, K 272, K 278, S 280, Y 282, S 294, K 296, S 298, Q 299, R 302, Y 306, E 311, N 324, K 328, Y 342, Q 347, R 350, E 352, S 354, Y 359
 
 #### Seeds in cluster:
 
@@ -12022,7 +12420,9 @@ Total number of members in cluster: 2
 
 Total number of members in cluster: 2
 
-#### Conserved resiudes: S 4, T 5, Y 10, S 16, K 23, E 24, R 27, N 29, K 31, Y 32, Y 34, D 37, Y 39, Y 41, S 46, Y 50, T 54, R 55, D 56, S 59, D 60, S 61, D 62, T 63, E 64, R 65, Y 66, S 68, E 71, Y 72, Y 73, R 74, N 76, Y 79, D 82, K 83, N 84, Y 85, Y 90, T 91, Y 92, Y 94, S 95, Y 97, D 99, Y 101, Y 102, Y 104, T 111, Y 114, S 115, Y 116, K 118, K 121, K 124, Y 125, Y 128, S 129, S 131, T 137, Q 143, S 145, S 147, K 150, Q 151, S 156, H 164, Q 167, T 168, K 169, Y 170, K 171, Q 172, S 177, S 181, S 182, H 184, T 186, T 189, S 194, Y 198, R 200, K 201, E 202, R 203, S 205, N 207, S 216, S 220, S 222, N 225, S 226, Y 227, S 230, Y 235, D 236, E 240, S 241, K 242, N 244, Y 246, E 248, S 249, T 250, N 251, N 252, T 254, R 257, D 259, S 264, N 274, R 275, T 276, K 280, D 281, R 282, Y 283, K 285, S 290, Y 291, Y 293, N 295, S 296, Y 298, N 299, S 302, S 307, D 308, R 309, Y 313, S 314, S 318, S 325, K 328, R 330, S 331, S 332, Y 334, S 337, S 338, N 345, Y 351, Y 352, N 353, S 354, K 360
+#### Conserved (non-aliphatic) residues:
+
+S 4, T 5, Y 10, S 16, K 23, E 24, R 27, N 29, K 31, Y 32, Y 34, D 37, Y 39, Y 41, S 46, Y 50, T 54, R 55, D 56, S 59, D 60, S 61, D 62, T 63, E 64, R 65, Y 66, S 68, E 71, Y 72, Y 73, R 74, N 76, Y 79, D 82, K 83, N 84, Y 85, Y 90, T 91, Y 92, Y 94, S 95, Y 97, D 99, Y 101, Y 102, Y 104, T 111, Y 114, S 115, Y 116, K 118, K 121, K 124, Y 125, Y 128, S 129, S 131, T 137, Q 143, S 145, S 147, K 150, Q 151, S 156, H 164, Q 167, T 168, K 169, Y 170, K 171, Q 172, S 177, S 181, S 182, H 184, T 186, T 189, S 194, Y 198, R 200, K 201, E 202, R 203, S 205, N 207, S 216, S 220, S 222, N 225, S 226, Y 227, S 230, Y 235, D 236, E 240, S 241, K 242, N 244, Y 246, E 248, S 249, T 250, N 251, N 252, T 254, R 257, D 259, S 264, N 274, R 275, T 276, K 280, D 281, R 282, Y 283, K 285, S 290, Y 291, Y 293, N 295, S 296, Y 298, N 299, S 302, S 307, D 308, R 309, Y 313, S 314, S 318, S 325, K 328, R 330, S 331, S 332, Y 334, S 337, S 338, N 345, Y 351, Y 352, N 353, S 354, K 360
 
 #### Seeds in cluster:
 
@@ -12048,7 +12448,7 @@ ACH97152.1:
 
 ![](../../../csdb/images/1501.gif)
 
-1501
+CSDB record ID: 1501
 
 #### Sugars in cluster for blast hits:
 
@@ -12066,7 +12466,9 @@ ACH97152.1:
 
 Total number of members in cluster: 2
 
-#### Conserved resiudes: K 4, S 5, R 6, Y 22, K 23, E 25, N 27, Y 28, T 30, D 32, E 33, Y 36, S 39, D 40, S 41, T 44, D 45, T 47, S 50, R 51, Y 52, K 53, Y 57, R 60, Y 63, E 64, Y 65, E 67, Y 68, S 70, N 75, T 77, N 84, K 85, S 87, K 88, S 89, S 90, N 91, N 92, N 93, D 94, N 96, Y 97, Y 100, S 106, Y 110, S 112, R 116, D 117, Y 119, Y 129, R 131, R 132, K 134, H 135, K 136, Q 140, K 151, E 153, S 165, R 166, K 168, S 170, Y 176, T 184, H 190, N 191, Q 192, T 193, Y 198, N 200, T 201, E 203, R 204, E 206, T 208, S 211, E 212, Y 213, N 214, T 215, Q 221, Q 222, E 224, T 226, N 229, N 233, S 237, Y 238, N 240, S 243, S 248, S 251, N 252, T 253, N 255, N 258, T 262, D 264, S 265, N 280, T 281, K 282, K 283, Y 284, Y 285, S 286, D 287, D 288, Y 290, R 291, S 293, S 300, Y 303, Y 305, T 309, T 312, S 313, R 315, H 317, H 319
+#### Conserved (non-aliphatic) residues:
+
+K 4, S 5, R 6, Y 22, K 23, E 25, N 27, Y 28, T 30, D 32, E 33, Y 36, S 39, D 40, S 41, T 44, D 45, T 47, S 50, R 51, Y 52, K 53, Y 57, R 60, Y 63, E 64, Y 65, E 67, Y 68, S 70, N 75, T 77, N 84, K 85, S 87, K 88, S 89, S 90, N 91, N 92, N 93, D 94, N 96, Y 97, Y 100, S 106, Y 110, S 112, R 116, D 117, Y 119, Y 129, R 131, R 132, K 134, H 135, K 136, Q 140, K 151, E 153, S 165, R 166, K 168, S 170, Y 176, T 184, H 190, N 191, Q 192, T 193, Y 198, N 200, T 201, E 203, R 204, E 206, T 208, S 211, E 212, Y 213, N 214, T 215, Q 221, Q 222, E 224, T 226, N 229, N 233, S 237, Y 238, N 240, S 243, S 248, S 251, N 252, T 253, N 255, N 258, T 262, D 264, S 265, N 280, T 281, K 282, K 283, Y 284, Y 285, S 286, D 287, D 288, Y 290, R 291, S 293, S 300, Y 303, Y 305, T 309, T 312, S 313, R 315, H 317, H 319
 
 #### Seeds in cluster:
 
@@ -12092,7 +12494,7 @@ ACA24890.1:
 
 ![](../../../csdb/images/1900.gif)
 
-1900
+CSDB record ID: 1900
 
 #### Sugars in cluster for blast hits:
 
@@ -12110,7 +12512,9 @@ ACA24890.1:
 
 Total number of members in cluster: 2
 
-#### Conserved resiudes: D 1, S 2, N 4, R 5, S 6, S 7, K 9, K 12, S 13, N 14, S 18, Y 23, T 24, T 26, Y 28, D 31, D 36, N 37, K 40, N 44, T 45, S 46, K 52, S 59, T 64, Y 66, T 67, K 69, S 71, R 72, E 74, Y 84, S 86, S 87, T 92, S 93, D 94, Y 96, E 97, Y 100, S 103, N 104, Y 105, Y 108, Y 112, T 115, K 116, Y 118, E 120, K 121, Y 122, Y 124, Y 125, K 126, T 128, K 129, S 130, T 132, S 135, S 142, Y 144, D 146, Y 150, E 151, R 152, R 156, S 157, E 158, T 162, Y 163, S 166, Q 167, S 169, R 171, K 172, S 176, S 177, N 178, N 180, T 184, E 192, Y 193, Y 195, Y 198, N 199, R 200, H 202, T 203, K 204, T 205, T 206, T 220, S 222, K 223, T 224, S 229, T 236, T 238, K 239, S 241, R 244, Q 245, K 246, S 247, T 248, S 254, S 256, T 264, D 268, Y 269, Y 271, E 272, S 275, S 276, R 277, S 280, N 282, D 285, S 286, S 287, R 289, Y 290, E 291, Y 293, D 298, K 299, N 301, Q 302, N 303, T 308, D 311, R 313, E 314, D 315, Y 316, S 317, Q 318, Y 319, R 325, S 327, D 328, S 329, Y 331, N 333, S 337, S 338, T 347, T 349, T 356, K 359, K 360, D 361, R 362, R 364, S 372, E 378, D 379, Y 380, R 383, S 386, S 392, T 394, Y 396, S 399, T 400, N 401, K 403, N 406, T 407, K 408
+#### Conserved (non-aliphatic) residues:
+
+D 1, S 2, N 4, R 5, S 6, S 7, K 9, K 12, S 13, N 14, S 18, Y 23, T 24, T 26, Y 28, D 31, D 36, N 37, K 40, N 44, T 45, S 46, K 52, S 59, T 64, Y 66, T 67, K 69, S 71, R 72, E 74, Y 84, S 86, S 87, T 92, S 93, D 94, Y 96, E 97, Y 100, S 103, N 104, Y 105, Y 108, Y 112, T 115, K 116, Y 118, E 120, K 121, Y 122, Y 124, Y 125, K 126, T 128, K 129, S 130, T 132, S 135, S 142, Y 144, D 146, Y 150, E 151, R 152, R 156, S 157, E 158, T 162, Y 163, S 166, Q 167, S 169, R 171, K 172, S 176, S 177, N 178, N 180, T 184, E 192, Y 193, Y 195, Y 198, N 199, R 200, H 202, T 203, K 204, T 205, T 206, T 220, S 222, K 223, T 224, S 229, T 236, T 238, K 239, S 241, R 244, Q 245, K 246, S 247, T 248, S 254, S 256, T 264, D 268, Y 269, Y 271, E 272, S 275, S 276, R 277, S 280, N 282, D 285, S 286, S 287, R 289, Y 290, E 291, Y 293, D 298, K 299, N 301, Q 302, N 303, T 308, D 311, R 313, E 314, D 315, Y 316, S 317, Q 318, Y 319, R 325, S 327, D 328, S 329, Y 331, N 333, S 337, S 338, T 347, T 349, T 356, K 359, K 360, D 361, R 362, R 364, S 372, E 378, D 379, Y 380, R 383, S 386, S 392, T 394, Y 396, S 399, T 400, N 401, K 403, N 406, T 407, K 408
 
 #### Seeds in cluster:
 
@@ -12136,7 +12540,7 @@ BAQ01114.1:
 
 ![](../../../csdb/images/1571.gif)
 
-1571
+CSDB record ID: 1571
 
 #### Sugars in cluster for blast hits:
 
@@ -12154,7 +12558,9 @@ BAQ01114.1:
 
 Total number of members in cluster: 2
 
-#### Conserved resiudes: S 42, N 68, Y 76, S 92, D 99, D 153, N 156, S 163, R 164, N 165, S 168, Y 178, K 187, S 200, R 207, S 213, Y 225, T 235, S 243, N 256, R 265, Y 272, S 275, N 301, H 303, N 304, H 310, S 331, K 336, R 350, Y 351, D 354, D 363, K 390
+#### Conserved (non-aliphatic) residues:
+
+S 42, N 68, Y 76, S 92, D 99, D 153, N 156, S 163, R 164, N 165, S 168, Y 178, K 187, S 200, R 207, S 213, Y 225, T 235, S 243, N 256, R 265, Y 272, S 275, N 301, H 303, N 304, H 310, S 331, K 336, R 350, Y 351, D 354, D 363, K 390
 
 #### Seeds in cluster:
 
@@ -12192,7 +12598,9 @@ Total number of members in cluster: 2
 
 Total number of members in cluster: 2
 
-#### Conserved resiudes: N 1, K 6, S 25, Y 34, Y 36, T 37, K 46, D 51, R 53, Y 63, T 65, R 70, N 78, D 82, E 83, S 89, R 91, Q 93, S 104, N 105, R 112, Q 113, S 129, E 130, R 131, S 151, S 155, K 156, R 157, E 158, D 161, K 167, S 170, D 171, T 178, R 184, R 187, D 195, Y 201, Y 208, T 212, E 214, R 215, D 216, K 220, Y 229, D 231, R 233, S 255, Q 256, Y 257, K 259, S 264, D 270, R 271, D 275, Y 279, S 280, E 281, S 284, S 286, R 287, N 288, Y 290, S 291, Q 299, S 302, S 306, D 307, R 310, T 315, Q 324, S 325, R 332, R 335, E 337, T 343, S 344, T 349, Y 355, Y 370, Y 378, N 379, R 381, R 383, S 384, Y 386, Y 388, Y 391, Y 400, R 403, D 405, N 408, S 411, K 415, S 417, H 428, R 432, R 433
+#### Conserved (non-aliphatic) residues:
+
+N 1, K 6, S 25, Y 34, Y 36, T 37, K 46, D 51, R 53, Y 63, T 65, R 70, N 78, D 82, E 83, S 89, R 91, Q 93, S 104, N 105, R 112, Q 113, S 129, E 130, R 131, S 151, S 155, K 156, R 157, E 158, D 161, K 167, S 170, D 171, T 178, R 184, R 187, D 195, Y 201, Y 208, T 212, E 214, R 215, D 216, K 220, Y 229, D 231, R 233, S 255, Q 256, Y 257, K 259, S 264, D 270, R 271, D 275, Y 279, S 280, E 281, S 284, S 286, R 287, N 288, Y 290, S 291, Q 299, S 302, S 306, D 307, R 310, T 315, Q 324, S 325, R 332, R 335, E 337, T 343, S 344, T 349, Y 355, Y 370, Y 378, N 379, R 381, R 383, S 384, Y 386, Y 388, Y 391, Y 400, R 403, D 405, N 408, S 411, K 415, S 417, H 428, R 432, R 433
 
 #### Seeds in cluster:
 
@@ -12229,7 +12637,9 @@ Total number of members in cluster: 2
 
 Total number of members in cluster: 2
 
-#### Conserved resiudes: E 1, H 2, N 4, R 5, Y 7, N 10, T 11, T 12, N 15, S 30, S 31, Y 34, K 35, D 37, S 38, S 39, S 40, S 46, T 47, S 52, S 57, S 61, S 62, K 63, Y 64, Y 65, N 67, T 68, S 69, N 70, S 72, K 74, S 75, Y 80, T 81, T 82, T 83, S 89, S 90, S 91, E 93, Y 94, K 96, H 104, Y 107, E 109, Y 112, H 116, H 117, S 119, S 122, T 128, N 130, S 131, K 133, N 134, R 135, N 148, N 154, R 155, D 156, T 161, K 172, R 173, K 174, S 176, K 178, S 185, E 196, Y 197, R 198, S 199, H 204, T 205, D 207, S 211, N 213, Y 214, E 215, K 216, T 220, Y 227, T 229, S 230, S 231, S 232, N 234, Y 236, Y 237, N 238, K 240, T 241, N 245, Y 247, S 249, N 250, N 252, E 256, Y 258, Y 259, S 261, S 262, D 265, S 266, Y 277, S 283, R 285, H 286, Y 287, T 290, K 291, K 292, T 293, S 294, E 295, T 297, Y 301, Y 303, Y 306, Q 307, Y 309, T 310, K 316, N 319, T 320, H 321, T 322, Q 333, N 336, K 341, K 342, R 343, R 344, S 345
+#### Conserved (non-aliphatic) residues:
+
+E 1, H 2, N 4, R 5, Y 7, N 10, T 11, T 12, N 15, S 30, S 31, Y 34, K 35, D 37, S 38, S 39, S 40, S 46, T 47, S 52, S 57, S 61, S 62, K 63, Y 64, Y 65, N 67, T 68, S 69, N 70, S 72, K 74, S 75, Y 80, T 81, T 82, T 83, S 89, S 90, S 91, E 93, Y 94, K 96, H 104, Y 107, E 109, Y 112, H 116, H 117, S 119, S 122, T 128, N 130, S 131, K 133, N 134, R 135, N 148, N 154, R 155, D 156, T 161, K 172, R 173, K 174, S 176, K 178, S 185, E 196, Y 197, R 198, S 199, H 204, T 205, D 207, S 211, N 213, Y 214, E 215, K 216, T 220, Y 227, T 229, S 230, S 231, S 232, N 234, Y 236, Y 237, N 238, K 240, T 241, N 245, Y 247, S 249, N 250, N 252, E 256, Y 258, Y 259, S 261, S 262, D 265, S 266, Y 277, S 283, R 285, H 286, Y 287, T 290, K 291, K 292, T 293, S 294, E 295, T 297, Y 301, Y 303, Y 306, Q 307, Y 309, T 310, K 316, N 319, T 320, H 321, T 322, Q 333, N 336, K 341, K 342, R 343, R 344, S 345
 
 #### Seeds in cluster:
 
@@ -12255,7 +12665,7 @@ BAQ01780.1:
 
 ![](../../../csdb/images/696.gif)
 
-696
+CSDB record ID: 696
 
 #### Sugars in cluster for blast hits:
 

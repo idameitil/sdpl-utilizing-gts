@@ -54,24 +54,21 @@ def filename_to_url(filename):
     return f"{github_url}/{filename}"
 
 class SSNClusterData:
-    ssn_clustering_id = ''
-    clusters = []
-    seeds_df = []
-    hits_df = []
-    seeds_and_hits_df = []
+
+    seeds_df = pd.read_csv(wzy_seeds_filename, sep='\t', dtype=object)
+    hits_df = pd.read_csv(wzy_hits_filename, sep='\t', dtype=object)
+    seeds_and_hits_df = pd.read_csv(wzy_seeds_and_hits_filename, sep='\t', dtype=object)
 
     def __init__(self, ssn_clustering_id):
         self.ssn_clustering_id = ssn_clustering_id
         self.clusters = []
-        self.seeds_df = pd.read_csv(wzy_seeds_filename, sep='\t', dtype=object)
-        self.hits_df = pd.read_csv(wzy_hits_filename, sep='\t', dtype=object)
-        self.seeds_and_hits_df = pd.read_csv(wzy_seeds_and_hits_filename, sep='\t', dtype=object)
         self.cluster_table_url = filename_to_url(self.cluster_table_filename())
+
         self.load_metadata()
-        self.load_clusters()
+        self.load_info()
         self.load_included_accessions()
         self.load_taxons_before_after_table()
-        self.load_info()
+        self.load_clusters()
 
     def results_dir_top(self):
         return f"data/wzy/ssn-clusterings/{self.ssn_clustering_id}/"
@@ -284,40 +281,42 @@ class SSNClusterData:
     def load_cluster_data(self, cluster_id):
         [size, name] = cluster_id.split('_')
         size = int(size)
-        # conserved_residues_string = ''
-        MSA_url = filename_to_url(self.MSA_filename(cluster_id))
-        fasta_url = filename_to_url(self.fasta_filename(cluster_id))
-        malign_url = filename_to_url(self.malign_filename(cluster_id))
-        logo_url = filename_to_url(self.logo_filename(cluster_id))
-        tree_url = filename_to_url(self.tree_filename(cluster_id))
-        hits_table_url = filename_to_url(self.hits_table_filename(cluster_id))
+
         with open(self.MSA_filename(cluster_id), 'r') as MSA_file:
             conserved_residues_string = get_conserved_residues_string(MSA_file)
+
         seed_accessions, hit_accessions = self.read_split_fasta_seeds_hits(self.fasta_filename(cluster_id))
         accessions = []
         accessions.extend(seed_accessions)
         accessions.extend(hit_accessions)
         accessions = list(set(accessions))
-        sugar_ids = filter(not_pd_null, [self.get_sugar_id(accession) for accession in accessions])
-        #sugar_images = list(set([get_sugar_image(sugar_id) for sugar_id in sugar_ids]))
-        alphafold_models = self.get_alphafold_models(accessions)
-        taxonomy_table = self.get_taxonomy_table(accessions)
+
         seeds_table = self.get_seeds_table(seed_accessions)
+
+        MSA_url = filename_to_url(self.MSA_filename(cluster_id))
+        malign_url = filename_to_url(self.malign_filename(cluster_id))
+        fasta_url = filename_to_url(self.fasta_filename(cluster_id))
+        logo_url = filename_to_url(self.logo_filename(cluster_id))
+        tree_url = filename_to_url(self.tree_filename(cluster_id))
+        hits_table_url = filename_to_url(self.hits_table_filename(cluster_id))
+
         sugars2accessions = self.get_sugars2accessions(accessions)
         enriched_sugars = self.enrich_sugars(seed_accessions, sugars2accessions)
+        alphafold_models = self.get_alphafold_models(accessions)
+        taxonomy_table = self.get_taxonomy_table(accessions)
 
         return {
             'name': name,
             'size': size,
             'conserved_residues': conserved_residues_string,
-            'sugars': enriched_sugars,
+            'seeds_table': seeds_table,
             'afa_url': MSA_url,
-            'fasta_url': fasta_url,
             'malign_url': malign_url,
+            'fasta_url': fasta_url,
             'logo_url': logo_url,
             'tree_url': tree_url,
             'hits_table_url': hits_table_url,
+            'sugars': enriched_sugars,
             'alphafold_models': alphafold_models,
             'taxonomy_table': taxonomy_table,
-            'seeds_table': seeds_table
         }
