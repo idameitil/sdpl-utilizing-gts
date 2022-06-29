@@ -1,3 +1,21 @@
+# GT66 structures
+Archaea
+AAB90907 GT66_6
+AAB91198.1 GT66_6
+AAB90856.1 GT66_6
+CAB49148.1 GT66_4
+AAL80280.1 GT66_4
+BAA29314.1 GT66_4
+
+Bacteria:
+AAW35590 GT66_2
+ACM64573 GT66_2
+
+Human:
+NP_689926 GT66_1
+AAL71884.1 GT66_1
+BAA06079.1 GT66_1
+
 # Deleted from selected-ezys.tsv
 AQU71805.1, AQU71788.1
 CAI34388.1 (removed from selected-wzys.tsv). The paper says that the sugar of this serotype is produced from a different gene cluster.
