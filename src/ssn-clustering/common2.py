@@ -53,73 +53,6 @@ def get_conserved_residues_string(file):
 def filename_to_url(filename):
     return f"{github_url}/{filename}"
 
-def make_taxonomy_table(taxonomy_df):
-    # Get counts and make heirarchy dict
-    hierarchy = dict()
-    counts = {'order': {}, 'family': {}, 'genus': {}}
-    for index, row in taxonomy_df.iterrows():
-        if row.order not in counts['order']:
-            counts['order'][row.order] = 1
-            counts['family'][row.family] = 1
-            counts['genus'][row.genus] = 1
-            hierarchy[row.order] = {row.family: [row.genus]}
-        else:
-            counts['order'][row.order] += 1
-            if row.family not in counts['family']:
-                counts['family'][row.family] = 1
-                hierarchy[row.order][row.family] = [row.genus]
-                counts['genus'][row.genus] = 1
-            else:
-                counts['family'][row.family] += 1
-                if row.genus not in counts['genus']:
-                    counts['genus'][row.genus] = 1
-                    if not pd.isna(row.family):
-                        hierarchy[row.order][row.family].append(row.genus)
-                else:
-                    counts['genus'][row.genus] += 1
-    data = {'order (count)': [], 'family (count)': [], 'genus (count)': []}
-
-    # Make pandas dataframe with hierarchy and count
-    # Order
-    orders_sorted = sorted(counts['order'].items(),
-                           key=lambda x: x[1], reverse=True)
-    for order, count in orders_sorted:
-        first_in_order = True
-        order_string = f"{order} ({count})"
-        # Family
-        families_in_order = {key: counts['family'][key]
-                             for key in hierarchy[order]}
-        families_sorted = sorted(
-            families_in_order.items(), key=lambda x: x[1], reverse=True)
-        for family, count in families_sorted:
-            first_in_family = True
-            family_string = f"{family} ({count})"
-            # Genus
-            genera_in_order = {key: counts['genus'][key]
-                               for key in hierarchy[order][family]}
-            genera_sorted = sorted(
-                genera_in_order.items(), key=lambda x: x[1], reverse=True)
-            for genus, count in genera_sorted:
-                genus_string = f"{genus} ({count})"
-                if first_in_order:
-                    data['order (count)'].append(order_string)
-                    data['family (count)'].append(family_string)
-                    data['genus (count)'].append(genus_string)
-                    first_in_order = False
-                    first_in_family = False
-                else:
-                    if first_in_family:
-                        data['order (count)'].append("")
-                        data['family (count)'].append(family_string)
-                        data['genus (count)'].append(genus_string)
-                        first_in_family = False
-                    else:
-                        data['order (count)'].append("")
-                        data['family (count)'].append("")
-                        data['genus (count)'].append(genus_string)
-    df = pd.DataFrame(data)
-    return df
-
 class SSNClusterData:
     ssn_clustering_id = ''
     clusters = []
@@ -250,9 +183,68 @@ class SSNClusterData:
         return alphafold_models
 
     def get_taxonomy_table(self, accessions):
-        input_table = self.seeds_and_hits_df.loc[self.seeds_and_hits_df.protein_accession.isin(
-            accessions), ['class', 'order', 'family', 'genus']]
-        return make_taxonomy_table(input_table)
+        # Get counts and make heirarchy dict
+        hierarchy = dict()
+        ranks = ['order', 'family', 'genus']
+        counts = {rank: {} for rank in ranks}
+        for index, row in self.seeds_and_hits_df.loc[self.seeds_and_hits_df.protein_accession.isin(
+                accessions)].iterrows():
+            # Save hierarchy
+            if row.order not in hierarchy:
+                hierarchy[row.order] = {row.family: [row.genus]}
+            else:
+                if row.family not in hierarchy[row.order]:
+                    hierarchy[row.order][row.family] = [row.genus]
+                elif row.genus not in counts['genus']:
+                    hierarchy[row.order][row.family].append(row.genus)
+            # Count
+            for rank in ranks:
+                if row[rank] not in counts[rank]:
+                    counts[rank][row[rank]] = 1
+                else:
+                    counts[rank][row[rank]] += 1
+
+        data = {'order (count)': [], 'family (count)': [], 'genus (count)': []}
+
+        # Make pandas dataframe with hierarchy and count
+        # Order
+        orders_sorted = sorted(counts['order'].items(),
+                            key=lambda x: x[1], reverse=True)
+        for order, count in orders_sorted:
+            first_in_order = True
+            order_string = f"{order} ({count})"
+            # Family
+            families_in_order = {key: counts['family'][key]
+                                for key in hierarchy[order]}
+            families_sorted = sorted(
+                families_in_order.items(), key=lambda x: x[1], reverse=True)
+            for family, count in families_sorted:
+                first_in_family = True
+                family_string = f"{family} ({count})"
+                # Genus
+                genera_in_order = {key: counts['genus'][key]
+                                for key in hierarchy[order][family]}
+                genera_sorted = sorted(
+                    genera_in_order.items(), key=lambda x: x[1], reverse=True)
+                for genus, count in genera_sorted:
+                    genus_string = f"{genus} ({count})"
+                    if first_in_order:
+                        data['order (count)'].append(order_string)
+                        data['family (count)'].append(family_string)
+                        data['genus (count)'].append(genus_string)
+                        first_in_order = False
+                        first_in_family = False
+                    else:
+                        if first_in_family:
+                            data['order (count)'].append("")
+                            data['family (count)'].append(family_string)
+                            data['genus (count)'].append(genus_string)
+                            first_in_family = False
+                        else:
+                            data['order (count)'].append("")
+                            data['family (count)'].append("")
+                            data['genus (count)'].append(genus_string)
+        return pd.DataFrame(data)
 
     def get_seeds_table(self, seed_accessions):
         seeds_table = self.seeds_and_hits_df.loc[self.seeds_and_hits_df.protein_accession.isin(seed_accessions),
@@ -261,6 +253,34 @@ class SSNClusterData:
         seeds_table.rename(columns={'WzyE':'Enterobacterial common antigen Wzy'}, inplace=True)
         return seeds_table
 
+    def get_sugars2accessions(self, accessions):
+        sugars2accessions = {}
+        for accession in accessions:
+            sugar_id = self.get_sugar_id(accession)
+            if not_pd_null(sugar_id):
+                if sugar_id in sugars2accessions:
+                    sugars2accessions[sugar_id].append(accession)
+                else:
+                    sugars2accessions[sugar_id] = [accession]
+        return sugars2accessions
+
+    def is_sugar_only_blast(self, sugar_id, sugars2accessions, seed_accessions):
+        is_only_blast = True
+        for accession in sugars2accessions[sugar_id]:
+            if accession in seed_accessions:
+                is_only_blast = False
+        return is_only_blast
+    
+    def enrich_sugars(self, seed_accessions, sugars2accessions):
+        enriched_sugars = {
+            sugar_id: {
+            'accessions': sugars2accessions[sugar_id], 
+            'image': get_sugar_image(sugar_id),
+            'is_only_blast': self.is_sugar_only_blast(sugar_id, sugars2accessions, seed_accessions)
+             }
+             for sugar_id in sugars2accessions}
+        return enriched_sugars
+        
     def load_cluster_data(self, cluster_id):
         [size, name] = cluster_id.split('_')
         size = int(size)
@@ -279,16 +299,18 @@ class SSNClusterData:
         accessions.extend(hit_accessions)
         accessions = list(set(accessions))
         sugar_ids = filter(not_pd_null, [self.get_sugar_id(accession) for accession in accessions])
-        sugar_images = list(set([get_sugar_image(sugar_id) for sugar_id in sugar_ids]))
+        #sugar_images = list(set([get_sugar_image(sugar_id) for sugar_id in sugar_ids]))
         alphafold_models = self.get_alphafold_models(accessions)
         taxonomy_table = self.get_taxonomy_table(accessions)
         seeds_table = self.get_seeds_table(seed_accessions)
+        sugars2accessions = self.get_sugars2accessions(accessions)
+        enriched_sugars = self.enrich_sugars(seed_accessions, sugars2accessions)
 
         return {
             'name': name,
             'size': size,
             'conserved_residues': conserved_residues_string,
-            'sugars': sugar_images,
+            'sugars': enriched_sugars,
             'afa_url': MSA_url,
             'fasta_url': fasta_url,
             'malign_url': malign_url,
