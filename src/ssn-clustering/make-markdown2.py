@@ -8,7 +8,6 @@ timestamp = sys.argv[1]
 clustering_data = SSNClusterData(timestamp)
 clusters = list(clustering_data.clusters)
 
-
 # Write report
 resultsdir = f"data/wzy/ssn-clusterings/{timestamp}"
 with open(f"{resultsdir}/report2.md", "w") as outfile:
@@ -35,7 +34,7 @@ with open(f"{resultsdir}/report2.md", "w") as outfile:
     for cluster in clusters:
         outfile.write(f"### Cluster {cluster['name']}\n\n")
         outfile.write(f"Total number of members in cluster: {cluster['size']}\n\n")
-        outfile.write(f"#### Conserved resiudes: {cluster['conserved_residues']}\n\n")
+        outfile.write(f"#### Conserved (non-aliphatic) resiudes:\n\n{cluster['conserved_residues']}\n\n")
         outfile.write(f"#### Seeds in cluster:\n\n{cluster['seeds_table'].to_markdown(index=False)}\n\n")
         outfile.write(f"[MSA fasta]({cluster['afa_url']})\n\n")
         outfile.write(f"[Malign view]({cluster['malign_url']})\n\n")
@@ -48,13 +47,13 @@ with open(f"{resultsdir}/report2.md", "w") as outfile:
         for sugar_id in sugars_seeds:
             outfile.write(f"{', '.join(cluster['sugars'][sugar_id]['accessions'])}:\n\n")
             outfile.write(f"![]({cluster['sugars'][sugar_id]['image']})\n\n")
-            outfile.write(f"{sugar_id}\n\n")
+            outfile.write(f"CSDB record ID: {sugar_id}\n\n")
         outfile.write("#### Sugars in cluster for blast hits:\n\n")
         sugars_only_blast_hits = [sugar_id for sugar_id in cluster['sugars'] if cluster['sugars'][sugar_id]['is_only_blast']]
         for sugar_id in sugars_only_blast_hits:
             outfile.write(f"{', '.join(cluster['sugars'][sugar_id]['accessions'])}:\n\n")
             outfile.write(f"![]({cluster['sugars'][sugar_id]['image']})\n\n")
-            outfile.write(f"{sugar_id}\n\n")
+            outfile.write(f"CSDB record ID: {sugar_id}\n\n")
         outfile.write("#### Alphafold models:\n\n")
         for acc in cluster['alphafold_models']:
             outfile.write(f"[{acc}]({cluster['alphafold_models'][acc]})\n\n")
