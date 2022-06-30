@@ -46,8 +46,9 @@ with open(f"{resultsdir}/report2.md", "w") as outfile:
         sugars_seeds = [sugar_id for sugar_id in cluster['sugars'] if not cluster['sugars'][sugar_id]['is_only_blast']]
         for sugar_id in sugars_seeds:
             outfile.write(f"{', '.join(cluster['sugars'][sugar_id]['accessions'])}:\n\n")
-            outfile.write(f"![]({cluster['sugars'][sugar_id]['image']})\n\n")
-            outfile.write(f"CSDB record ID: {sugar_id}\n\n")
+            outfile.write(f"![]({cluster['sugars'][sugar_id]['image']})")
+            # outfile.write(f"CSDB record ID: {sugar_id}\n\n")
+            outfile.write(f"{sugar_id}\n\n")
         outfile.write("#### Sugars in cluster for blast hits:\n\n")
         sugars_only_blast_hits = [sugar_id for sugar_id in cluster['sugars'] if cluster['sugars'][sugar_id]['is_only_blast']]
         for sugar_id in sugars_only_blast_hits:

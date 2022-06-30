@@ -247,7 +247,8 @@ class SSNClusterData:
         seeds_table = self.seeds_and_hits_df.loc[self.seeds_and_hits_df.protein_accession.isin(seed_accessions),
                                         ['protein_accession', 'order', 'family', 'genus', 'species', 
                                         'serotype', 'WzyE']]
-        seeds_table.rename(columns={'WzyE':'Enterobacterial common antigen Wzy'}, inplace=True)
+        seeds_table.rename(columns={'WzyE':'Enterobacterial common antigen Wzy',
+        'protein_accession': 'accession'}, inplace=True)
         return seeds_table
 
     def get_sugars2accessions(self, accessions):
