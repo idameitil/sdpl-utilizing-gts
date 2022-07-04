@@ -72,9 +72,9 @@ Y 160, Y 275, Y 295, Y 331, R 338, R 382, Y 383, D 415, S 418, N 473, T 479, S 5
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0548_8/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -207,45 +207,45 @@ R 824, R 1156, D 1224
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0478_3/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI34519.1:
-
-![](../../../csdb/images/25003.gif)25003
-
-CAI34328.1:
-
-![](../../../csdb/images/7097.gif)7097
-
-CAI33441.1:
-
-![](../../../csdb/images/1490.gif)1490
-
-CAI34657.1:
-
-![](../../../csdb/images/25005.gif)25005
-
-CAI34286.1:
-
-![](../../../csdb/images/1611.gif)1611
-
-CAI34310.1:
-
-![](../../../csdb/images/1609.gif)1609
-
-CAI34348.1:
+CAI34348.1 (Streptococcus pneumoniae 35F)
 
 ![](../../../csdb/images/7095.gif)7095
 
-CAI33309.1:
+CAI34328.1 (Streptococcus pneumoniae 35C)
 
-![](../../../csdb/images/7061.gif)7061
+![](../../../csdb/images/7097.gif)7097
 
-CAI34080.1:
+CAI34310.1 (Streptococcus pneumoniae 35B)
+
+![](../../../csdb/images/1609.gif)1609
+
+CAI34080.1 (Streptococcus pneumoniae 29)
 
 ![](../../../csdb/images/1227.gif)1227
 
-#### Sugars in cluster for blast hits:
+CAI34286.1 (Streptococcus pneumoniae 35A)
+
+![](../../../csdb/images/1611.gif)1611
+
+CAI34519.1 (Streptococcus pneumoniae 42)
+
+![](../../../csdb/images/25003.gif)25003
+
+CAI34657.1 (Streptococcus pneumoniae 47F)
+
+![](../../../csdb/images/25005.gif)25005
+
+CAI33441.1 (Streptococcus pneumoniae 16A)
+
+![](../../../csdb/images/1490.gif)1490
+
+CAI33309.1 (Streptococcus pneumoniae 13)
+
+![](../../../csdb/images/7061.gif)7061
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -359,37 +359,37 @@ D 199, Y 205, R 351, H 393, R 664
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0270_32/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AFW04820.1:
-
-![](../../../csdb/images/2600.gif)2600
-
-BAQ00622.1:
-
-![](../../../csdb/images/1512.gif)1512
-
-AFW04883.1:
-
-![](../../../csdb/images/701.gif)701
-
-BAQ01024.1:
+BAQ01024.1 (Escherichia coli O51)
 
 ![](../../../csdb/images/1558.gif)1558
 
-AQU71752.1:
+AQU71752.1 (Escherichia coli O1)
 
 ![](../../../csdb/images/7222.gif)7222
 
-ADC54967.1:
+BAQ00622.1 (Escherichia coli O10)
+
+![](../../../csdb/images/1512.gif)1512
+
+ADC54967.1 (Escherichia coli O75)
 
 ![](../../../csdb/images/619.gif)619
 
-ABX51892.1:
+ABX51892.1 (Cronobacter sakazakii O2)
 
 ![](../../../csdb/images/27572.gif)27572
 
-#### Sugars in cluster for blast hits:
+AFW04883.1 (Salmonella enterica O57)
+
+![](../../../csdb/images/701.gif)701
+
+AFW04820.1 (Salmonella enterica O11)
+
+![](../../../csdb/images/2600.gif)2600
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -501,17 +501,17 @@ Y 503, R 506, Y 533, K 582, R 709, N 814
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0258_15/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ00780.1:
-
-![](../../../csdb/images/1539.gif)1539
-
-CDF66396.1:
+CDF66396.1 (Yersinia similis O:9)
 
 ![](../../../csdb/images/12130.gif)12130
 
-#### Sugars in cluster for blast hits:
+BAQ00780.1 (Escherichia coli O30)
+
+![](../../../csdb/images/1539.gif)1539
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -655,13 +655,13 @@ R 234, D 240, Y 244, R 417, Q 418, H 459, Y 578, R 627, D 710, R 711
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0240_9/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AHB32215.1:
+AHB32215.1 (Acinetobacter baumannii O1)
 
 ![](../../../csdb/images/2091.gif)2091
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -796,17 +796,17 @@ R 593, Y 633, D 664
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0152_11/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI34150.1:
+CAI34150.1 (Streptococcus pneumoniae 32F)
 
 ![](../../../csdb/images/848.gif)848
 
-CAI34124.1:
+CAI34124.1 (Streptococcus pneumoniae 32A)
 
 ![](../../../csdb/images/918.gif)918
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -903,35 +903,33 @@ R 401, Y 510, N 608, D 619
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0139_6/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAL82786.1, CAI32823.1:
-
-![](../../../csdb/images/1087.gif)1087
-
-CMX58981.1, CAI33700.1, VSB76654.1, VNC99741.1:
-
-![](../../../csdb/images/739.gif)739
-
-CAI34269.1, VMG48693.1:
+VMG48693.1 (Streptococcus pneumoniae 34), CAI34269.1 (Streptococcus pneumoniae 34)
 
 ![](../../../csdb/images/7043.gif)7043
 
-VOS41126.1, CAI33631.1:
+CAI33631.1 (Streptococcus pneumoniae 19A), VOS41126.1 (Streptococcus pneumoniae 19A)
 
 ![](../../../csdb/images/740.gif)740
 
-CAI32843.1:
+AAL82786.1 (Streptococcus pneumoniae 6A), CAI32823.1 (Streptococcus pneumoniae 6A)
+
+![](../../../csdb/images/1087.gif)1087
+
+CMX58981.1 (Streptococcus pneumoniae 19F), VSB76654.1 (Streptococcus pneumoniae 19F), CAI33700.1 (Streptococcus pneumoniae 19F), VNC99741.1 (Streptococcus pneumoniae 19F)
+
+![](../../../csdb/images/739.gif)739
+
+CAI32843.1 (Streptococcus pneumoniae 6B)
 
 ![](../../../csdb/images/937.gif)937
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
-VJK41440.1:
+VJK41440.1 (Streptococcus pneumoniae 6C)
 
-![](../../../csdb/images/3661.gif)
-
-CSDB record ID: 3661
+![](../../../csdb/images/3661.gif)3661
 
 #### Alphafold models:
 
@@ -1024,17 +1022,17 @@ R 292, R 364, Y 423, Y 425, N 432
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0136_29/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AHB32411.1:
-
-![](../../../csdb/images/27746.gif)27746
-
-AFC91458.1, AAX07747.1, AFC91419.1:
+AFC91419.1 (Escherichia coli O45), AFC91458.1 (Escherichia coli O45), AAX07747.1 (Escherichia coli O45)
 
 ![](../../../csdb/images/1552.gif)1552
 
-#### Sugars in cluster for blast hits:
+AHB32411.1 (Acinetobacter baumannii O10)
+
+![](../../../csdb/images/27746.gif)27746
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -1129,23 +1127,21 @@ R 163, D 170, Y 175, R 298, H 336, R 561
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0134_23/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AHB32715.1, AHB32637.1:
-
-![](../../../csdb/images/563.gif)563
-
-CAI33718.1:
+CAI33718.1 (Streptococcus pneumoniae 20)
 
 ![](../../../csdb/images/1928.gif)1928
 
-#### Sugars in cluster for blast hits:
+AHB32637.1 (Acinetobacter baumannii O23), AHB32715.1 (Acinetobacter baumannii O23)
 
-VLD07009.1:
+![](../../../csdb/images/563.gif)563
 
-![](../../../csdb/images/7079.gif)
+#### Sugars for blast hits only (may be incorrect):
 
-CSDB record ID: 7079
+VLD07009.1 (Streptococcus pneumoniae 20A)
+
+![](../../../csdb/images/7079.gif)7079
 
 #### Alphafold models:
 
@@ -1233,21 +1229,21 @@ R 250, K 324, R 402, K 516
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0129_50/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ00569.1:
+BAQ00569.1 (Escherichia coli O5)
 
 ![](../../../csdb/images/3191.gif)3191
 
-AAT77177.1:
-
-![](../../../csdb/images/1854.gif)1854
-
-AFN02899.1:
+AFN02899.1 (Escherichia coli O180)
 
 ![](../../../csdb/images/704.gif)704
 
-#### Sugars in cluster for blast hits:
+AAT77177.1 (Escherichia coli O114)
+
+![](../../../csdb/images/1854.gif)1854
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -1337,19 +1333,17 @@ D 33, R 42, Y 118, K 120, Q 159, S 199, E 200, Q 204, Y 206, R 207, T 212, S 220
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0129_33/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ00795.1:
+BAQ00795.1 (Escherichia coli O33)
 
 ![](../../../csdb/images/1401.gif)1401
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
-QEH45435.1:
+QEH45435.1 (Aggregatibacter actinomycetemcomitans a)
 
-![](../../../csdb/images/27705.gif)
-
-CSDB record ID: 27705
+![](../../../csdb/images/27705.gif)27705
 
 #### Alphafold models:
 
@@ -1413,29 +1407,29 @@ R 501, N 502, E 508, S 685
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0119_39/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI34177.1:
+CAI34177.1 (Streptococcus pneumoniae 33A)
 
 ![](../../../csdb/images/7091.gif)7091
 
-CAI34198.1:
-
-![](../../../csdb/images/7092.gif)7092
-
-CAI34217.1:
-
-![](../../../csdb/images/7093.gif)7093
-
-CAI34254.1, VQJ42306.1:
-
-![](../../../csdb/images/1965.gif)1965
-
-VIU37569.1, CAI34236.1:
+CAI34236.1 (Streptococcus pneumoniae 33D), VIU37569.1 (Streptococcus pneumoniae 33D)
 
 ![](../../../csdb/images/7094.gif)7094
 
-#### Sugars in cluster for blast hits:
+VQJ42306.1 (Streptococcus pneumoniae 33F), CAI34254.1 (Streptococcus pneumoniae 33F)
+
+![](../../../csdb/images/1965.gif)1965
+
+CAI34198.1 (Streptococcus pneumoniae 33B)
+
+![](../../../csdb/images/7092.gif)7092
+
+CAI34217.1 (Streptococcus pneumoniae 33C)
+
+![](../../../csdb/images/7093.gif)7093
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -1514,21 +1508,21 @@ Q 243, R 291, R 356, S 480, D 537, R 542
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0107_2/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACA24764.1, ACA24754.1:
-
-![](../../../csdb/images/1885.gif)1885
-
-AFW04847.1:
-
-![](../../../csdb/images/3362.gif)3362
-
-BAQ02088.1:
+BAQ02088.1 (Escherichia coli O187)
 
 ![](../../../csdb/images/1934.gif)1934
 
-#### Sugars in cluster for blast hits:
+AFW04847.1 (Salmonella enterica O59)
+
+![](../../../csdb/images/3362.gif)3362
+
+ACA24764.1 (Escherichia coli O143), ACA24754.1 (Shigella boydii 8)
+
+![](../../../csdb/images/1885.gif)1885
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -1614,17 +1608,17 @@ D 344, E 408, R 538
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0091_46/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI32935.1:
-
-![](../../../csdb/images/1949.gif)1949
-
-CAI32867.1:
+CAI32867.1 (Streptococcus pneumoniae 7A)
 
 ![](../../../csdb/images/2624.gif)2624
 
-#### Sugars in cluster for blast hits:
+CAI32935.1 (Streptococcus pneumoniae 7F)
+
+![](../../../csdb/images/1949.gif)1949
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -1694,13 +1688,13 @@ Q 78, R 249, R 295, E 364, Q 399, K 406, T 462, H 519
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0089_1/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-WP_097449287.1:
+WP_097449287.1 (Escherichia coli O57)
 
 ![](../../../csdb/images/699.gif)699
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -1781,25 +1775,25 @@ Y 264, R 345, R 421
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0083_44/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAM27546.1:
-
-![](../../../csdb/images/6636.gif)6636
-
-BAQ02048.1:
-
-![](../../../csdb/images/1929.gif)1929
-
-ABF01010.1:
+ABF01010.1 (Escherichia coli O28ac)
 
 ![](../../../csdb/images/1537.gif)1537
 
-ACK44379.1:
+BAQ02048.1 (Escherichia coli O185)
+
+![](../../../csdb/images/1929.gif)1929
+
+ACK44379.1 (Escherichia coli O42)
 
 ![](../../../csdb/images/1549.gif)1549
 
-#### Sugars in cluster for blast hits:
+AAM27546.1 (Pseudomonas aeruginosa O1)
+
+![](../../../csdb/images/6636.gif)6636
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -1867,17 +1861,17 @@ E 271, S 273, Y 377, R 381, N 393, N 457, D 460, K 467, E 471
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0082_37/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ADR74237.1:
-
-![](../../../csdb/images/1848.gif)1848
-
-ADI43263.1, ADC84238.1:
+ADC84238.1 (Escherichia coli O25), ADI43263.1 (Escherichia coli O25)
 
 ![](../../../csdb/images/12694.gif)12694
 
-#### Sugars in cluster for blast hits:
+ADR74237.1 (Escherichia coli O109)
+
+![](../../../csdb/images/1848.gif)1848
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -1951,25 +1945,25 @@ R 320, R 321, R 460, Q 463, R 498, E 507, Y 510
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0071_67/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAZ85713.1:
-
-![](../../../csdb/images/1880.gif)1880
-
-AAM27645.1:
-
-![](../../../csdb/images/3929.gif)3929
-
-AAM27615.1:
+AAM27615.1 (Pseudomonas aeruginosa O13)
 
 ![](../../../csdb/images/24042.gif)24042
 
-AAM27766.1:
+AAM27645.1 (Pseudomonas aeruginosa O15)
+
+![](../../../csdb/images/3929.gif)3929
+
+AAM27766.1 (Pseudomonas aeruginosa O3)
 
 ![](../../../csdb/images/24032.gif)24032
 
-#### Sugars in cluster for blast hits:
+AAZ85713.1 (Escherichia coli O138)
+
+![](../../../csdb/images/1880.gif)1880
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -2046,31 +2040,29 @@ R 189, K 255, R 301, Y 326, N 393, D 404, Y 441
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0067_27/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ00687.1:
-
-![](../../../csdb/images/1521.gif)1521
-
-ADC54950.1:
-
-![](../../../csdb/images/20645.gif)20645
-
-BAQ01732.1:
-
-![](../../../csdb/images/1884.gif)1884
-
-BAQ00669.1:
+BAQ00669.1 (Escherichia coli O18ab)
 
 ![](../../../csdb/images/1524.gif)1524
 
-#### Sugars in cluster for blast hits:
+ADC54950.1 (Escherichia coli O18)
 
-ARD51912.1:
+![](../../../csdb/images/20645.gif)20645
 
-![](../../../csdb/images/1574.gif)
+BAQ01732.1 (Escherichia coli O142)
 
-CSDB record ID: 1574
+![](../../../csdb/images/1884.gif)1884
+
+BAQ00687.1 (Escherichia coli O18ac)
+
+![](../../../csdb/images/1521.gif)1521
+
+#### Sugars for blast hits only (may be incorrect):
+
+ARD51912.1 (Escherichia coli O68)
+
+![](../../../csdb/images/1574.gif)1574
 
 #### Alphafold models:
 
@@ -2140,37 +2132,37 @@ D 220, S 252, R 256, K 321, R 325, R 401, Q 403
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0066_68/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAR97964.1:
-
-![](../../../csdb/images/108660.gif)108660
-
-BAQ02068.1, AJR19430.1:
-
-![](../../../csdb/images/1933.gif)1933
-
-AFC91472.1, AAO39700.1, AFC91570.1, AFC91514.1:
+AFC91472.1 (Escherichia coli O121), AFC91514.1 (Escherichia coli O121), AAO39700.1 (Escherichia coli O121), AFC91570.1 (Escherichia coli O121)
 
 ![](../../../csdb/images/1861.gif)1861
 
-BAQ00879.1:
-
-![](../../../csdb/images/1383.gif)1383
-
-BAQ00758.1:
-
-![](../../../csdb/images/736.gif)736
-
-BAH24292.1, AAD44158.1:
-
-![](../../../csdb/images/1385.gif)1385
-
-BAQ02224.1, ABG81806.1:
+BAQ02224.1 (Escherichia coli O123), ABG81806.1 (Escherichia coli O123)
 
 ![](../../../csdb/images/697.gif)697
 
-#### Sugars in cluster for blast hits:
+BAQ00758.1 (Escherichia coli O28ab)
+
+![](../../../csdb/images/736.gif)736
+
+BAQ02068.1 (Escherichia coli O186), AJR19430.1 (Escherichia coli O186)
+
+![](../../../csdb/images/1933.gif)1933
+
+BAH24292.1 (Escherichia coli O7), AAD44158.1 (Escherichia coli O7)
+
+![](../../../csdb/images/1385.gif)1385
+
+BAQ00879.1 (Escherichia coli O39)
+
+![](../../../csdb/images/1383.gif)1383
+
+AAR97964.1 (Shigella dysenteriae 7)
+
+![](../../../csdb/images/108660.gif)108660
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -2246,37 +2238,37 @@ R 188, K 218, D 226, S 227, N 228, S 281, R 282, D 367, S 369, K 373, H 414, E 4
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0066_12/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACD37006.1:
-
-![](../../../csdb/images/1869.gif)1869
-
-AFW04741.1:
-
-![](../../../csdb/images/30351.gif)30351
-
-ACD37157.1:
-
-![](../../../csdb/images/1871.gif)1871
-
-AFS33314.1, BAQ01494.1:
+BAQ01494.1 (Escherichia coli O102), AFS33314.1 (Escherichia coli O102)
 
 ![](../../../csdb/images/1841.gif)1841
 
-BAQ00975.1:
+ACD37157.1 (Escherichia coli O130)
 
-![](../../../csdb/images/1555.gif)1555
+![](../../../csdb/images/1871.gif)1871
 
-BAQ00846.1:
-
-![](../../../csdb/images/1544.gif)1544
-
-ACD37014.1:
+ACD37014.1 (Escherichia coli O112ac)
 
 ![](../../../csdb/images/1852.gif)1852
 
-#### Sugars in cluster for blast hits:
+AFW04741.1 (Salmonella enterica O21)
+
+![](../../../csdb/images/30351.gif)30351
+
+BAQ00846.1 (Escherichia coli O37)
+
+![](../../../csdb/images/1544.gif)1544
+
+ACD37006.1 (Shigella dysenteriae 2)
+
+![](../../../csdb/images/1869.gif)1869
+
+BAQ00975.1 (Escherichia coli O48)
+
+![](../../../csdb/images/1555.gif)1555
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -2347,25 +2339,25 @@ R 65, D 71, Y 75, E 101, R 168, H 214, Y 288, R 371, Y 443
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0059_56/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACA24821.1, ACA24811.1:
-
-![](../../../csdb/images/1893.gif)1893
-
-ADQ37335.1:
-
-![](../../../csdb/images/1858.gif)1858
-
-ADQ37322.1:
+ADQ37322.1 (Escherichia coli O151)
 
 ![](../../../csdb/images/1892.gif)1892
 
-ADN43894.1:
+ADQ37335.1 (Escherichia coli O118)
+
+![](../../../csdb/images/1858.gif)1858
+
+ADN43894.1 (Escherichia coli O173)
 
 ![](../../../csdb/images/3159.gif)3159
 
-#### Sugars in cluster for blast hits:
+ACA24821.1 (Escherichia coli O152), ACA24811.1 (Shigella dysenteriae 12)
+
+![](../../../csdb/images/1893.gif)1893
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -2428,13 +2420,13 @@ Q 75, D 81, Y 82, Y 85, E 106, N 178, R 181, H 216, Y 292, K 314, R 380
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0059_36/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACH97162.1:
+ACH97162.1 (Escherichia coli O21)
 
 ![](../../../csdb/images/1529.gif)1529
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -2502,33 +2494,33 @@ Q 170, D 185, R 198, R 212, E 219, S 262, R 313, D 322, S 324, K 328, D 366, K 4
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0058_21/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ADC54974.1:
-
-![](../../../csdb/images/1591.gif)1591
-
-BAQ00994.1:
-
-![](../../../csdb/images/1556.gif)1556
-
-AFW04828.1:
+AFW04828.1 (Salmonella enterica O44)
 
 ![](../../../csdb/images/3367.gif)3367
 
-BAQ01917.1:
+ADC54974.1 (Escherichia coli O85)
 
-![](../../../csdb/images/1917.gif)1917
+![](../../../csdb/images/1591.gif)1591
 
-CAN87666.1:
-
-![](../../../csdb/images/1552.gif)1552
-
-AFW04837.1:
+AFW04837.1 (Salmonella enterica O53)
 
 ![](../../../csdb/images/26312.gif)26312
 
-#### Sugars in cluster for blast hits:
+BAQ01917.1 (Escherichia coli O175)
+
+![](../../../csdb/images/1917.gif)1917
+
+BAQ00994.1 (Escherichia coli O49)
+
+![](../../../csdb/images/1556.gif)1556
+
+CAN87666.1 (Escherichia coli O45)
+
+![](../../../csdb/images/1552.gif)1552
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -2585,13 +2577,13 @@ S 57, R 84, S 101, D 114, E 146, R 221, Q 222, H 255, K 320, R 399
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0051_75/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ABI55342.1:
+ABI55342.1 (Shigella boydii 17)
 
 ![](../../../csdb/images/714.gif)714
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -2647,17 +2639,17 @@ D 86, Y 90, E 195, R 337, E 373, N 439, R 445
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0048_17/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAN23078.1:
+AAN23078.1 (Yersinia pseudotuberculosis O:2a)
 
 ![](../../../csdb/images/12135.gif)12135
 
-AAN23057.1:
+AAN23057.1 (Yersinia pseudotuberculosis O:4b)
 
 ![](../../../csdb/images/12136.gif)12136
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -2726,25 +2718,25 @@ R 160, Y 163, T 166, R 167, S 177, K 216, Y 304, D 306, R 309, N 310, E 331, R 3
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0046_22/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAL20257.1:
-
-![](../../../csdb/images/30397.gif)30397
-
-CAR59582.1, AAV77445.1:
+AAV77445.1 (Salmonella enterica Paratyphi A), CAR59582.1 (Salmonella enterica Paratyphi A)
 
 ![](../../../csdb/images/7418.gif)7418
 
-WP_000905563.1, AAO68867.1:
+AAL20257.1 (Salmonella enterica Typhimurium)
+
+![](../../../csdb/images/30397.gif)30397
+
+AAO68867.1 (Salmonella enterica Typhi), WP_000905563.1 (nan Typhii)
 
 ![](../../../csdb/images/21859.gif)21859
 
-CAR37642.1:
+CAR37642.1 (Salmonella enterica Gallinarum)
 
 ![](../../../csdb/images/30403.gif)30403
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -2798,25 +2790,21 @@ D 82, D 109, R 191, H 228, S 230, Y 287, R 371, R 436
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0045_58/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ADI43271.1:
+ADI43271.1 (Escherichia coli O27)
 
 ![](../../../csdb/images/1535.gif)1535
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
-AXY99682.1:
+AXY99682.1 (Proteus vulgaris O34)
 
-![](../../../csdb/images/20104.gif)
+![](../../../csdb/images/20104.gif)20104
 
-CSDB record ID: 20104
+CZQ24278.1 (Klebsiella pneumoniae K27)
 
-CZQ24278.1:
-
-![](../../../csdb/images/6079.gif)
-
-CSDB record ID: 6079
+![](../../../csdb/images/6079.gif)6079
 
 #### Alphafold models:
 
@@ -2866,13 +2854,13 @@ Y 31, R 85, D 92, Y 96, N 203, Q 207, H 249, R 485
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0043_57/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI34008.1:
+CAI34008.1 (Streptococcus pneumoniae 27)
 
 ![](../../../csdb/images/7085.gif)7085
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -2937,21 +2925,21 @@ D 160, R 162, R 166, T 168, N 175, S 228, R 229, T 230, Q 283, R 307, Y 332, D 3
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0043_31/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ00957.1:
-
-![](../../../csdb/images/1554.gif)1554
-
-BAQ01687.1:
+BAQ01687.1 (Escherichia coli O134)
 
 ![](../../../csdb/images/1876.gif)1876
 
-BAQ01812.1:
+BAQ01812.1 (Escherichia coli O160)
 
 ![](../../../csdb/images/1901.gif)1901
 
-#### Sugars in cluster for blast hits:
+BAQ00957.1 (Escherichia coli O46)
+
+![](../../../csdb/images/1554.gif)1554
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3001,13 +2989,13 @@ R 264, N 449, D 461
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0042_79/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI33798.1:
+CAI33798.1 (Streptococcus pneumoniae 22F)
 
 ![](../../../csdb/images/625.gif)625
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3067,19 +3055,17 @@ Y 104, R 194, R 207, K 263, R 346, H 425, D 427
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0041_53/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACD75796.1:
+ACD75796.1 (Escherichia coli O63)
 
 ![](../../../csdb/images/1570.gif)1570
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
-AXY99492.1:
+AXY99492.1 (Proteus vulgaris O17)
 
-![](../../../csdb/images/5227.gif)
-
-CSDB record ID: 5227
+![](../../../csdb/images/5227.gif)5227
 
 #### Alphafold models:
 
@@ -3135,13 +3121,13 @@ Y 279, R 310, E 317, T 323, S 357, S 359, R 460, N 473, R 474
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0041_48/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAK60458.1:
+AAK60458.1 (Escherichia coli O91)
 
 ![](../../../csdb/images/895.gif)895
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3205,41 +3191,41 @@ Y 76, R 79, Q 176, K 179, Y 183, S 190, H 194, R 213, S 216, S 246, R 253, K 255
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0040_13/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAY23733.1:
-
-![](../../../csdb/images/1578.gif)1578
-
-BAQ02177.1, AAY23739.1:
-
-![](../../../csdb/images/1583.gif)1583
-
-AAY23745.1:
+AAY23745.1 (Escherichia coli O106)
 
 ![](../../../csdb/images/1845.gif)1845
 
-AKA20935.1:
-
-![](../../../csdb/images/12128.gif)12128
-
-BAQ00945.1:
-
-![](../../../csdb/images/1551.gif)1551
-
-BAQ01935.1:
-
-![](../../../csdb/images/1918.gif)1918
-
-BAQ02105.1:
+BAQ02105.1 (Escherichia coli O17)
 
 ![](../../../csdb/images/1520.gif)1520
 
-AKA20966.1:
+BAQ02177.1 (Escherichia coli O77), AAY23739.1 (Escherichia coli O77)
+
+![](../../../csdb/images/1583.gif)1583
+
+AKA20935.1 (Yersinia pseudotuberculosis O:2c)
+
+![](../../../csdb/images/12128.gif)12128
+
+BAQ00945.1 (Escherichia coli O44)
+
+![](../../../csdb/images/1551.gif)1551
+
+AAY23733.1 (Escherichia coli O73)
+
+![](../../../csdb/images/1578.gif)1578
+
+AKA20966.1 (Yersinia pseudotuberculosis O:4a)
 
 ![](../../../csdb/images/12129.gif)12129
 
-#### Sugars in cluster for blast hits:
+BAQ01935.1 (Escherichia coli O176)
+
+![](../../../csdb/images/1918.gif)1918
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3288,13 +3274,13 @@ K 350, R 393, Y 411, K 440, D 456, T 462, T 476, Q 478, Y 486, R 540
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0039_63/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAM27595.1:
+AAM27595.1 (Pseudomonas aeruginosa O12)
 
 ![](../../../csdb/images/31934.gif)31934
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3348,17 +3334,17 @@ K 257, R 311, Y 371, N 483, T 486, R 489, D 494, S 546
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0037_84/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAM27560.1:
+AAM27560.1 (Pseudomonas aeruginosa O10)
 
 ![](../../../csdb/images/11180.gif)11180
 
-AAM27711.1:
+AAM27711.1 (Pseudomonas aeruginosa O19)
 
 ![](../../../csdb/images/11026.gif)11026
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3412,17 +3398,17 @@ N 160, S 247, R 343, H 399, E 455
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0037_43/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI33491.1:
-
-![](../../../csdb/images/7070.gif)7070
-
-VIQ20135.1, CAI33515.1:
+VIQ20135.1 (Streptococcus pneumoniae 17F), CAI33515.1 (Streptococcus pneumoniae 17F)
 
 ![](../../../csdb/images/815.gif)815
 
-#### Sugars in cluster for blast hits:
+CAI33491.1 (Streptococcus pneumoniae 17A)
+
+![](../../../csdb/images/7070.gif)7070
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3475,9 +3461,9 @@ D 52, K 243, R 326, D 332, N 408, R 410, D 470
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0036_94/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3536,21 +3522,21 @@ R 190, D 201, Y 203, N 218, N 257, R 353, Q 356, Y 395, E 397, Q 399, Y 402, Q 4
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0036_65/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ABE98437.1:
-
-![](../../../csdb/images/1887.gif)1887
-
-ABU80601.1:
-
-![](../../../csdb/images/188.gif)188
-
-ABI98986.1:
+ABI98986.1 (Escherichia coli O147)
 
 ![](../../../csdb/images/1624.gif)1624
 
-#### Sugars in cluster for blast hits:
+ABE98437.1 (Escherichia coli O146)
+
+![](../../../csdb/images/1887.gif)1887
+
+ABU80601.1 (Shigella flexneri 6)
+
+![](../../../csdb/images/188.gif)188
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3609,17 +3595,17 @@ R 60, D 66, Y 67, Y 70, R 184, Q 185, H 219, R 360
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0036_171/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAK64372.1, EGR73751.1:
-
-![](../../../csdb/images/1843.gif)1843
-
-BAQ02116.1:
+BAQ02116.1 (Escherichia coli O54)
 
 ![](../../../csdb/images/1561.gif)1561
 
-#### Sugars in cluster for blast hits:
+EGR73751.1 (Escherichia coli O104), AAK64372.1 (Escherichia coli O104)
+
+![](../../../csdb/images/1843.gif)1843
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3678,17 +3664,17 @@ R 63, D 70, Y 74, Y 94, E 98, D 124, Y 147, N 166, R 169, Q 170, H 215, N 216, K
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0035_66/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AHB32774.1:
+AHB32774.1 (Acinetobacter baumannii O12)
 
 ![](../../../csdb/images/493.gif)493
 
-AHB32438.2:
+AHB32438.2 (Acinetobacter baumannii O22)
 
 ![](../../../csdb/images/2196.gif)2196
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3748,21 +3734,21 @@ R 204, E 244, Y 282, K 289, R 293, R 316, E 349, Y 397
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0034_4/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01843.1:
-
-![](../../../csdb/images/1905.gif)1905
-
-AKA20948.1:
+AKA20948.1 (Yersinia pseudotuberculosis O:3)
 
 ![](../../../csdb/images/12133.gif)12133
 
-ACV52983.1:
+BAQ01843.1 (Escherichia coli O163)
+
+![](../../../csdb/images/1905.gif)1905
+
+ACV52983.1 (Yersinia pseudotuberculosis O:11)
 
 ![](../../../csdb/images/12124.gif)12124
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3817,17 +3803,17 @@ Y 78, Y 134, Q 144, Q 147, R 149, Q 150, H 189, Y 258, R 327, E 336, Y 384
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0033_93/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AHB32334.1:
-
-![](../../../csdb/images/483.gif)483
-
-AHB32888.2:
+AHB32888.2 (Acinetobacter baumannii O7)
 
 ![](../../../csdb/images/495.gif)495
 
-#### Sugars in cluster for blast hits:
+AHB32334.1 (Acinetobacter baumannii O18)
+
+![](../../../csdb/images/483.gif)483
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3881,21 +3867,21 @@ R 61, D 118, R 197, K 206, R 248, R 334, K 378
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0033_59/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACD37165.1:
-
-![](../../../csdb/images/1515.gif)1515
-
-ACD37181.1:
+ACD37181.1 (Escherichia coli O129)
 
 ![](../../../csdb/images/1870.gif)1870
 
-ACD37173.1:
+ACD37165.1 (Escherichia coli O13)
+
+![](../../../csdb/images/1515.gif)1515
+
+ACD37173.1 (Escherichia coli O135)
 
 ![](../../../csdb/images/1877.gif)1877
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3949,13 +3935,13 @@ Y 165, R 210, Y 267, R 269, S 371, T 415, D 416, R 421, E 483, K 485
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0029_73/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACD37037.1, ACD37046.1:
+ACD37046.1 (Escherichia coli O167), ACD37037.1 (Shigella boydii 3)
 
 ![](../../../csdb/images/1909.gif)1909
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4013,29 +3999,29 @@ R 187, R 188, Y 203, S 206, D 300, R 304, R 305, Y 329, D 331
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0029_72/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAM27748.1:
-
-![](../../../csdb/images/6655.gif)6655
-
-AAM27728.1:
+AAM27728.1 (Pseudomonas aeruginosa O2)
 
 ![](../../../csdb/images/6565.gif)6565
 
-AAM27801.1, AAC45857.1, AAA97573.1:
+AAM27801.1 (Pseudomonas aeruginosa O5), AAC45857.1 (Pseudomonas aeruginosa O5), AAA97573.1 (Pseudomonas aeruginosa O5)
 
 ![](../../../csdb/images/1672.gif)1672
 
-AAM27693.1:
+AAM27748.1 (Pseudomonas aeruginosa O20)
 
-![](../../../csdb/images/7836.gif)7836
+![](../../../csdb/images/6655.gif)6655
 
-AAM27662.1:
+AAM27662.1 (Pseudomonas aeruginosa O16)
 
 ![](../../../csdb/images/6654.gif)6654
 
-#### Sugars in cluster for blast hits:
+AAM27693.1 (Pseudomonas aeruginosa O18)
+
+![](../../../csdb/images/7836.gif)7836
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4081,13 +4067,13 @@ Y 197, S 211, R 272, S 350, R 352, H 384, N 385, D 389
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0028_54/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACD37026.1:
+ACD37026.1 (Shigella boydii 12)
 
 ![](../../../csdb/images/1931.gif)1931
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4137,17 +4123,17 @@ D 159, Y 163, Y 164, N 166, E 188, N 195, K 256, R 265, Q 266, H 296, K 355, R 4
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0026_41/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01641.1:
+BAQ01641.1 (Escherichia coli O131)
 
 ![](../../../csdb/images/1873.gif)1873
 
-BAQ01584.1:
+BAQ01584.1 (Escherichia coli O120)
 
 ![](../../../csdb/images/1860.gif)1860
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4201,13 +4187,13 @@ Y 43, N 45, D 48, Y 52, E 69, N 113, E 132, Q 133, R 135, Q 136, H 171, K 226, Y
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0025_28/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ABK27350.1, ABK27355.1, ABK27354.1, ABK27351.1, ABK27321.1, BAI31288.1, ABK27352.1:
+ABK27354.1 (Escherichia coli O103), ABK27350.1 (Escherichia coli O103), ABK27352.1 (Escherichia coli O103), BAI31288.1 (Escherichia coli O103), ABK27351.1 (Escherichia coli O103), ABK27355.1 (Escherichia coli O103), ABK27321.1 (Escherichia coli O103)
 
 ![](../../../csdb/images/1842.gif)1842
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4261,29 +4247,29 @@ R 53, D 60, D 61, H 65, Y 96, Y 98, Y 109, S 118, S 121, Y 129, N 167, R 169, S 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0024_98/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI34733.1, CIV98579.1:
-
-![](../../../csdb/images/7051.gif)7051
-
-CAI33105.1:
-
-![](../../../csdb/images/7049.gif)7049
-
-CAI34436.1:
-
-![](../../../csdb/images/3663.gif)3663
-
-CAI33084.1:
-
-![](../../../csdb/images/7052.gif)7052
-
-CAI33048.1:
+CAI33048.1 (Streptococcus pneumoniae 10A)
 
 ![](../../../csdb/images/1953.gif)1953
 
-#### Sugars in cluster for blast hits:
+CAI33084.1 (Streptococcus pneumoniae 10C)
+
+![](../../../csdb/images/7052.gif)7052
+
+CIV98579.1 (Streptococcus pneumoniae 10B), CAI34733.1 (Streptococcus pneumoniae 10B)
+
+![](../../../csdb/images/7051.gif)7051
+
+CAI33105.1 (Streptococcus pneumoniae 10F)
+
+![](../../../csdb/images/7049.gif)7049
+
+CAI34436.1 (Streptococcus pneumoniae 39)
+
+![](../../../csdb/images/3663.gif)3663
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4328,17 +4314,17 @@ N 194, R 302, Y 336, R 341, K 360
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0024_25/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI33840.1, VMO60215.1:
+CAI33840.1 (Streptococcus pneumoniae 23B), VMO60215.1 (Streptococcus pneumoniae 23B)
 
 ![](../../../csdb/images/7083.gif)7083
 
-VOC17485.1, CAI33862.1:
+CAI33862.1 (Streptococcus pneumoniae 23F), VOC17485.1 (Streptococcus pneumoniae 23F)
 
 ![](../../../csdb/images/1964.gif)1964
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4390,17 +4376,17 @@ R 206, R 229, D 235, E 236, T 272, S 274, R 342, R 358, Q 454, R 455
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0023_69/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01878.1:
+BAQ01878.1 (Escherichia coli O170)
 
 ![](../../../csdb/images/1407.gif)1407
 
-BAQ01793.1:
+BAQ01793.1 (Escherichia coli O156)
 
 ![](../../../csdb/images/1897.gif)1897
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4458,17 +4444,17 @@ R 64, Q 117, D 175, Y 188, Y 192, Y 203, R 208, D 215, Y 221, T 260, R 261, Y 30
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0022_81/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACF64132.1, WP_000936592.1:
-
-![](../../../csdb/images/28331.gif)28331
-
-WP_001529369.1, WP_000936589.1:
+WP_001529369.1 (Salmonella enterica Kentucky), WP_000936589.1 (nan Kentucky)
 
 ![](../../../csdb/images/27410.gif)27410
 
-#### Sugars in cluster for blast hits:
+WP_000936592.1 (Salmonella enterica Newport), ACF64132.1 (Salmonella enterica Newport)
+
+![](../../../csdb/images/28331.gif)28331
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4510,13 +4496,13 @@ Q 160, Y 170, D 172, R 183, R 199, T 201, E 206, S 208, R 322, N 379, D 380
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0022_40/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01533.1:
+BAQ01533.1 (Escherichia coli O110)
 
 ![](../../../csdb/images/1849.gif)1849
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4566,13 +4552,13 @@ Y 56, D 57, Y 61, E 80, Y 113, E 140, R 143, Q 144, H 177, K 242, R 311
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0022_24/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ABI98976.1:
+ABI98976.1 (Escherichia coli O141)
 
 ![](../../../csdb/images/1883.gif)1883
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4617,17 +4603,17 @@ Q 240, K 241, R 306, Q 311, N 369
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0021_91/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CBN82200.1:
-
-![](../../../csdb/images/1576.gif)1576
-
-ADI77033.1:
+ADI77033.1 (Escherichia coli O71)
 
 ![](../../../csdb/images/1577.gif)1577
 
-#### Sugars in cluster for blast hits:
+CBN82200.1 (Escherichia coli O70)
+
+![](../../../csdb/images/1576.gif)1576
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4681,27 +4667,25 @@ R 229, R 284, R 356, S 359, R 363, S 398, H 399, Y 407, D 460
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0021_89/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI33389.1:
-
-![](../../../csdb/images/2251.gif)2251
-
-CAI33366.1:
-
-![](../../../csdb/images/1957.gif)1957
-
-CAI33324.1:
+CAI33324.1 (Streptococcus pneumoniae 14)
 
 ![](../../../csdb/images/5348.gif)5348
 
-#### Sugars in cluster for blast hits:
+CAI33366.1 (Streptococcus pneumoniae 15B)
 
-AAL57082.1:
+![](../../../csdb/images/1957.gif)1957
 
-![](../../../csdb/images/6001.gif)
+CAI33389.1 (Streptococcus pneumoniae 15C)
 
-CSDB record ID: 6001
+![](../../../csdb/images/2251.gif)2251
+
+#### Sugars for blast hits only (may be incorrect):
+
+AAL57082.1 (Streptococcus agalactiae III)
+
+![](../../../csdb/images/6001.gif)6001
 
 #### Alphafold models:
 
@@ -4755,21 +4739,21 @@ Y 30, Y 37, Y 73, Y 115, Y 118, T 124, Y 126, N 136, D 140, S 144, S 182, Q 186,
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0021_80/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AGS07316.1:
-
-![](../../../csdb/images/30411.gif)30411
-
-AGS07363.1, AAB48190.1:
+AGS07363.1 (Salmonella enterica Strasbourg), AAB48190.1 (Salmonella enterica Strasbourg)
 
 ![](../../../csdb/images/30404.gif)30404
 
-AGS07327.1, CAA43077.1:
+CAA43077.1 (Salmonella enterica Anatum), AGS07327.1 (Salmonella enterica Anatum)
 
 ![](../../../csdb/images/30407.gif)30407
 
-#### Sugars in cluster for blast hits:
+AGS07316.1 (Salmonella enterica Senftenberg)
+
+![](../../../csdb/images/30411.gif)30411
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4810,13 +4794,13 @@ R 277, R 330, E 361, R 488, R 496
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0021_123/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI32772.1:
+CAI32772.1 (Streptococcus pneumoniae 4)
 
 ![](../../../csdb/images/805.gif)805
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4868,13 +4852,13 @@ Y 31, N 58, Y 65, N 86, Y 94, N 118, Y 154, Q 157, N 160, K 161, T 165, R 199, Q
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0021_101/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ABB04486.1:
+ABB04486.1 (Escherichia coli O98)
 
 ![](../../../csdb/images/1836.gif)1836
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4920,13 +4904,13 @@ D 189, R 193, E 200, S 202, S 237, K 240, T 307, T 310, R 311, E 362, Y 366, K 3
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0020_62/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01317.1:
+BAQ01317.1 (Escherichia coli O88)
 
 ![](../../../csdb/images/1595.gif)1595
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4970,17 +4954,17 @@ D 76, K 101, D 102, S 130, Q 166, R 168, H 202, R 266, Y 270, D 340, R 345, D 35
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0020_126/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACV67289.1:
+ACV67289.1 (Escherichia coli O35)
 
 ![](../../../csdb/images/1542.gif)1542
 
-AFW04785.1:
+AFW04785.1 (Salmonella enterica O62)
 
 ![](../../../csdb/images/3359.gif)3359
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5027,17 +5011,17 @@ R 156, N 160, Y 161, Y 173, Y 175, Y 226, T 231, K 233, K 235, R 247, S 254, S 2
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0019_77/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01675.1:
+BAQ01675.1 (Escherichia coli O133)
 
 ![](../../../csdb/images/1875.gif)1875
 
-ACD37126.1:
+ACD37126.1 (Shigella boydii 2)
 
 ![](../../../csdb/images/3982.gif)3982
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5079,13 +5063,13 @@ D 43, Y 47, Y 51, E 67, N 93, Y 123, E 125, R 128, Q 129, S 134, H 162, K 220, Y
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0019_145/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAT85653.1:
+AAT85653.1 (Escherichia coli O4)
 
 ![](../../../csdb/images/10216.gif)10216
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5130,21 +5114,21 @@ S 59, D 90, E 93, Y 94, Y 98, R 113, E 119, N 136, Y 183, R 186, S 190, H 219, S
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0018_86/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ00858.1:
-
-![](../../../csdb/images/1545.gif)1545
-
-WP_016238111.1:
+WP_016238111.1 (Escherichia coli O81)
 
 ![](../../../csdb/images/1587.gif)1587
 
-ACA24776.1:
+ACA24776.1 (Shigella dysenteriae 8)
 
 ![](../../../csdb/images/11557.gif)11557
 
-#### Sugars in cluster for blast hits:
+BAQ00858.1 (Escherichia coli O38)
+
+![](../../../csdb/images/1545.gif)1545
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5192,9 +5176,9 @@ R 300, T 301, R 362, Y 424, D 438, E 483, N 487, Y 523, R 537, R 538
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0018_158/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5238,13 +5222,13 @@ D 99, Y 103, E 132, Y 191, E 200, K 203, H 236, Q 238, K 311, Y 315, R 369, Y 39
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0018_144/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AHB32242.2:
+AHB32242.2 (Acinetobacter baumannii O5)
 
 ![](../../../csdb/images/487.gif)487
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5299,25 +5283,25 @@ E 215, K 264, R 265, R 339, H 387, D 443
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0018_141/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI33537.1, VQM63531.1:
-
-![](../../../csdb/images/7074.gif)7074
-
-CAI33585.1:
-
-![](../../../csdb/images/939.gif)939
-
-VOG14504.1, CAI33610.1:
+VOG14504.1 (Streptococcus pneumoniae 18F), CAI33610.1 (Streptococcus pneumoniae 18F)
 
 ![](../../../csdb/images/7071.gif)7071
 
-CAI33561.1:
+CAI33585.1 (Streptococcus pneumoniae 18C)
+
+![](../../../csdb/images/939.gif)939
+
+CAI33537.1 (Streptococcus pneumoniae 18A), VQM63531.1 (Streptococcus pneumoniae 18A)
+
+![](../../../csdb/images/7074.gif)7074
+
+CAI33561.1 (Streptococcus pneumoniae 18B)
 
 ![](../../../csdb/images/846.gif)846
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5363,17 +5347,17 @@ Q 123, N 130, Y 135, Y 165, K 201, Q 203, S 204, K 224, T 239, R 240, R 243, N 2
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0018_116/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01361.1:
-
-![](../../../csdb/images/1596.gif)1596
-
-CAS09721.1, AAR90892.1:
+CAS09721.1 (Escherichia coli O127), AAR90892.1 (Escherichia coli O127)
 
 ![](../../../csdb/images/1866.gif)1866
 
-#### Sugars in cluster for blast hits:
+BAQ01361.1 (Escherichia coli O90)
+
+![](../../../csdb/images/1596.gif)1596
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5418,17 +5402,17 @@ D 56, S 57, Y 60, Q 63, K 85, E 87, N 112, N 117, Y 149, N 154, Y 157, R 160, H 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0018_113/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AEP25500.1:
-
-![](../../../csdb/images/12139.gif)12139
-
-WP_000482333.1, BAG11898.1:
+BAG11898.1 (Escherichia coli O55), WP_000482333.1 (Escherichia coli O55)
 
 ![](../../../csdb/images/1562.gif)1562
 
-#### Sugars in cluster for blast hits:
+AEP25500.1 (Yersinia pseudotuberculosis O:6)
+
+![](../../../csdb/images/12139.gif)12139
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5473,9 +5457,9 @@ D 79, Y 80, Y 83, E 99, K 131, Y 157, Q 169, R 171, H 203, Y 249, S 262, K 264, 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0017_99/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5515,13 +5499,13 @@ S 132, E 136, H 146, K 186, Q 187, K 189, Y 235, K 238, H 260, Y 264, S 267, S 2
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0017_95/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ABX51880.1:
+ABX51880.1 (Cronobacter sakazakii O1)
 
 ![](../../../csdb/images/27329.gif)27329
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5563,17 +5547,17 @@ H 150, R 199, T 251, R 252, R 327, Q 330, R 357, Y 365, E 366, S 368, K 375
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0017_42/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAM27782.1:
+AAM27782.1 (Pseudomonas aeruginosa O4)
 
 ![](../../../csdb/images/24033.gif)24033
 
-AAY28257.1:
+AAY28257.1 (Escherichia coli O177)
 
 ![](../../../csdb/images/1919.gif)1919
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5618,13 +5602,13 @@ S 130, R 146, Q 194, R 209, R 214, S 217, S 221, T 223, R 252, Q 268, K 269, N 2
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0017_177/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAM27574.1, AAD45264.1:
+AAM27574.1 (Pseudomonas aeruginosa O11), AAD45264.1 (Pseudomonas aeruginosa O11)
 
 ![](../../../csdb/images/10219.gif)10219
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5669,21 +5653,21 @@ D 59, E 60, Y 63, D 142, N 146, Y 148, R 149, Q 150, H 183, S 185, Y 250, Y 262,
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0017_162/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01169.1:
-
-![](../../../csdb/images/1575.gif)1575
-
-ACA24792.1:
-
-![](../../../csdb/images/1891.gif)1891
-
-ACA24803.1:
+ACA24803.1 (Escherichia coli O150)
 
 ![](../../../csdb/images/715.gif)715
 
-#### Sugars in cluster for blast hits:
+BAQ01169.1 (Escherichia coli O69)
+
+![](../../../csdb/images/1575.gif)1575
+
+ACA24792.1 (Shigella dysenteriae 13)
+
+![](../../../csdb/images/1891.gif)1891
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5726,13 +5710,13 @@ Q 149, N 150, R 249, E 293, R 344, R 345, D 352, S 396, K 397, S 446, H 450, E 4
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0017_140/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI33817.1:
+CAI33817.1 (Streptococcus pneumoniae 23A)
 
 ![](../../../csdb/images/7084.gif)7084
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5783,13 +5767,13 @@ D 85, R 103, S 111, Q 141, K 156, N 171, N 177, R 181, N 190, Q 219, N 222, S 22
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0016_61/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAV74543.1:
+AAV74543.1 (Escherichia coli O15)
 
 ![](../../../csdb/images/1516.gif)1516
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5836,13 +5820,13 @@ Y 103, K 218, E 280, R 281, K 325, N 359, Y 471, R 483, K 495
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0016_51/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI32705.1:
+CAI32705.1 (Streptococcus pneumoniae 1)
 
 ![](../../../csdb/images/31499.gif)31499
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5898,17 +5882,17 @@ S 28, Q 231, S 234, Y 235, R 288, R 354, R 373, H 406, S 462, Y 465
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0016_38/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI33278.1, VPT20589.1:
-
-![](../../../csdb/images/1955.gif)1955
-
-CAI33226.1:
+CAI33226.1 (Streptococcus pneumoniae 12A)
 
 ![](../../../csdb/images/7060.gif)7060
 
-#### Sugars in cluster for blast hits:
+CAI33278.1 (Streptococcus pneumoniae 12F), VPT20589.1 (Streptococcus pneumoniae 12F)
+
+![](../../../csdb/images/1955.gif)1955
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5953,13 +5937,13 @@ D 52, K 73, N 185, Y 198, N 219, S 222, T 263, K 264, R 332, S 348, R 350, E 388
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0016_157/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ADN43858.1:
+ADN43858.1 (Escherichia coli O137)
 
 ![](../../../csdb/images/1879.gif)1879
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6011,29 +5995,29 @@ Q 127, H 194, Q 196, R 308, Y 353, H 355, Q 360, D 364, S 411, Y 415, Y 417
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0016_14/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI33169.1:
-
-![](../../../csdb/images/31003.gif)31003
-
-CAI33188.1:
-
-![](../../../csdb/images/7056.gif)7056
-
-CAI33149.1:
+CAI33149.1 (Streptococcus pneumoniae 11B)
 
 ![](../../../csdb/images/7054.gif)7054
 
-CAI33128.1:
+CAI33128.1 (Streptococcus pneumoniae 11A)
 
 ![](../../../csdb/images/1493.gif)1493
 
-CAI33207.1:
+CAI33169.1 (Streptococcus pneumoniae 11C)
+
+![](../../../csdb/images/31003.gif)31003
+
+CAI33188.1 (Streptococcus pneumoniae 11D)
+
+![](../../../csdb/images/7056.gif)7056
+
+CAI33207.1 (Streptococcus pneumoniae 11F)
 
 ![](../../../csdb/images/7053.gif)7053
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6081,17 +6065,17 @@ R 195, R 201, R 246, R 323, Y 330, D 369
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0016_139/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI33652.1:
-
-![](../../../csdb/images/2254.gif)2254
-
-CAI33675.1:
+CAI33675.1 (Streptococcus pneumoniae 19C)
 
 ![](../../../csdb/images/2255.gif)2255
 
-#### Sugars in cluster for blast hits:
+CAI33652.1 (Streptococcus pneumoniae 19B)
+
+![](../../../csdb/images/2254.gif)2254
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6135,13 +6119,13 @@ R 173, Q 216, Q 263, T 268, N 273, S 321, S 424, E 473, E 552
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0016_138/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI33466.1:
+CAI33466.1 (Streptococcus pneumoniae 16F)
 
 ![](../../../csdb/images/1062.gif)1062
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6189,13 +6173,13 @@ S 63, D 75, Y 79, E 94, E 98, Q 122, N 127, Q 157, R 164, Q 165, H 200, D 257, R
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0016_129/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01716.1:
+BAQ01716.1 (Escherichia coli O140)
 
 ![](../../../csdb/images/1882.gif)1882
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6240,13 +6224,13 @@ R 180, Y 183, K 242, Y 306, D 308, R 343, K 349, Y 353, D 384
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0016_125/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ00830.1:
+BAQ00830.1 (Escherichia coli O36)
 
 ![](../../../csdb/images/1543.gif)1543
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6299,13 +6283,13 @@ S 37, Y 39, T 45, N 56, K 57, T 59, S 60, S 63, S 68, S 69, R 76, S 80, D 86, R 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0016_104/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-WP_000864940.1, CAD19991.1, ADT75640.1:
+WP_000864940.1 (Escherichia coli O6), CAD19991.1 (Escherichia coli O6), ADT75640.1 (Escherichia coli O6)
 
 ![](../../../csdb/images/114261.gif)114261
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6345,13 +6329,13 @@ Y 56, D 60, R 63, H 64, K 104, S 115, Y 116, S 163, R 166, Y 176, H 206, S 208, 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0015_96/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ADV17650.1:
+ADV17650.1 (Escherichia coli O11)
 
 ![](../../../csdb/images/1513.gif)1513
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6395,21 +6379,21 @@ D 76, D 102, Y 131, R 174, H 211, S 213, Y 292, R 374
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0015_88/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01999.1:
+BAQ01999.1 (Escherichia coli O181)
 
 ![](../../../csdb/images/1923.gif)1923
 
-ACD37078.1:
+ACD37078.1 (Shigella boydii 15)
 
 ![](../../../csdb/images/1851.gif)1851
 
-ACD37086.1:
+ACD37086.1 (Escherichia coli O112ab)
 
 ![](../../../csdb/images/705.gif)705
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6455,13 +6439,13 @@ S 105, R 113, S 205, K 241, R 277, Y 279, Y 283, R 320, Q 342, E 347, D 380, R 3
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0015_70/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAO37717.1:
+AAO37717.1 (Escherichia coli O86)
 
 ![](../../../csdb/images/1439.gif)1439
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6507,17 +6491,17 @@ S 41, N 42, D 43, Y 47, D 49, E 64, S 92, K 96, Y 117, S 120, H 125, E 126, T 12
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0015_26/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AQU71739.1, AQU71717.1:
+AQU71739.1 (Escherichia coli O1), AQU71717.1 (Escherichia coli O1)
 
 ![](../../../csdb/images/7222.gif)7222
 
-AFW04812.1:
+AFW04812.1 (Salmonella enterica O42)
 
 ![](../../../csdb/images/703.gif)703
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6559,13 +6543,13 @@ Q 41, Y 177, Y 179, K 182, N 183, S 184, R 234, S 312, R 314, E 400
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0015_164/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI32797.1:
+CAI32797.1 (Streptococcus pneumoniae 5)
 
 ![](../../../csdb/images/1947.gif)1947
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6617,13 +6601,13 @@ S 30, Y 33, Y 34, K 54, K 57, Y 58, S 65, E 154, Y 165, T 169, R 173, S 174, S 1
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0015_130/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AFD18613.1, AHG15281.1, GEF03964.1, AAX58762.1:
+AAX58762.1 (Escherichia coli O145), AFD18613.1 (Escherichia coli O145), GEF03964.1 (Escherichia coli O145), AHG15281.1 (Escherichia coli O145)
 
 ![](../../../csdb/images/1886.gif)1886
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6667,17 +6651,17 @@ S 60, S 101, K 126, H 186, R 197, R 199, E 204, S 206, S 245, K 246, D 299, S 30
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0015_110/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACA24868.1:
-
-![](../../../csdb/images/1565.gif)1565
-
-ACA24882.1:
+ACA24882.1 (Escherichia coli O58)
 
 ![](../../../csdb/images/108653.gif)108653
 
-#### Sugars in cluster for blast hits:
+ACA24868.1 (Shigella dysenteriae 5)
+
+![](../../../csdb/images/1565.gif)1565
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6726,17 +6710,17 @@ Y 8, D 22, R 52, Y 53, D 58, Y 62, E 77, E 137, R 140, Q 141, H 174, S 176, K 23
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0014_55/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACA24840.1:
+ACA24840.1 (Shigella dysenteriae 11)
 
 ![](../../../csdb/images/1932.gif)1932
 
-ACA24852.1:
+ACA24852.1 (Escherichia coli O29)
 
 ![](../../../csdb/images/1538.gif)1538
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6786,13 +6770,13 @@ D 56, T 57, Y 60, N 89, S 133, E 138, T 141, N 142, R 145, Q 146, S 149, H 179, 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0014_30/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ABI98966.1:
+ABI98966.1 (Escherichia coli O149)
 
 ![](../../../csdb/images/1890.gif)1890
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6841,31 +6825,29 @@ K 53, K 59, D 64, Q 74, T 83, Y 99, K 103, Q 128, Q 132, D 140, D 147, R 149, Y 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0014_19/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI33011.1:
-
-![](../../../csdb/images/7415.gif)7415
-
-CAI33029.1:
-
-![](../../../csdb/images/320.gif)320
-
-CAI32993.1:
-
-![](../../../csdb/images/7046.gif)7046
-
-CAI32973.1:
+CAI32973.1 (Streptococcus pneumoniae 9A)
 
 ![](../../../csdb/images/112112.gif)112112
 
-#### Sugars in cluster for blast hits:
+CAI33029.1 (Streptococcus pneumoniae 9V)
 
-CZE39046.1:
+![](../../../csdb/images/320.gif)320
 
-![](../../../csdb/images/1947.gif)
+CAI32993.1 (Streptococcus pneumoniae 9L)
 
-CSDB record ID: 1947
+![](../../../csdb/images/7046.gif)7046
+
+CAI33011.1 (Streptococcus pneumoniae 9N)
+
+![](../../../csdb/images/7415.gif)7415
+
+#### Sugars for blast hits only (may be incorrect):
+
+CZE39046.1 (Streptococcus pneumoniae 5)
+
+![](../../../csdb/images/1947.gif)1947
 
 #### Alphafold models:
 
@@ -6906,13 +6888,13 @@ D 52, Y 217, K 219, S 252, R 332, E 373, D 375, H 376, R 381, N 427
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0014_154/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01456.1:
+BAQ01456.1 (Escherichia coli O100)
 
 ![](../../../csdb/images/1838.gif)1838
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6959,13 +6941,13 @@ S 59, R 93, R 312, K 384, S 402, R 406, E 409, N 412, H 467, Y 485
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0014_121/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACA24912.1:
+ACA24912.1 (Shigella dysenteriae 10)
 
 ![](../../../csdb/images/23812.gif)23812
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7018,13 +7000,13 @@ S 33, S 66, K 95, S 108, K 109, Y 118, Y 121, D 124, S 136, S 140, E 141, S 170,
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0014_120/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AGS07346.1:
+AGS07346.1 (Salmonella enterica 1,9,12,46,27:c:z39)
 
 ![](../../../csdb/images/30907.gif)30907
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7067,17 +7049,17 @@ E 209, S 352, E 429, R 486
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0014_115/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACD36984.1:
+ACD36984.1 (Shigella dysenteriae 4)
 
 ![](../../../csdb/images/1937.gif)1937
 
-ACD36996.1:
+ACD36996.1 (Escherichia coli O168)
 
 ![](../../../csdb/images/1910.gif)1910
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7123,9 +7105,9 @@ H 26, H 114, Y 140, R 143, E 150, N 159, Y 160, R 202, Y 216, K 248, Y 271, Q 27
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0013_60/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7167,17 +7149,17 @@ Q 112, R 122, Q 166, R 192, R 240, R 317, D 367, N 368
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0013_47/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI32910.1:
+CAI32910.1 (Streptococcus pneumoniae 7C)
 
 ![](../../../csdb/images/7042.gif)7042
 
-CAI32889.1:
+CAI32889.1 (Streptococcus pneumoniae 7B)
 
 ![](../../../csdb/images/7041.gif)7041
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7227,13 +7209,13 @@ Y 15, Q 18, D 25, R 27, Q 44, Q 62, T 82, E 84, K 93, E 94, D 100, D 102, K 107,
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0013_45/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-EKI39969.1, BAK69191.1, EKK44895.1, BAK68980.1, BAK69033.1, EKI95922.1, AAC32340.1:
+EKI95922.1 (Escherichia coli O157), EKK44895.1 (Escherichia coli O157), BAK69033.1 (Escherichia coli O157), AAC32340.1 (Escherichia coli O157), EKI39969.1 (Escherichia coli O157), BAK68980.1 (Escherichia coli O157), BAK69191.1 (Escherichia coli O157)
 
 ![](../../../csdb/images/695.gif)695
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7280,25 +7262,25 @@ R 75, Y 93, E 138, S 148, R 149, D 152, N 155, T 166, Y 169, Y 170, N 171, E 172
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0013_173/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACD37051.1:
-
-![](../../../csdb/images/3977.gif)3977
-
-ACD37058.1:
-
-![](../../../csdb/images/1540.gif)1540
-
-BAQ00736.1:
+BAQ00736.1 (Escherichia coli O22)
 
 ![](../../../csdb/images/1530.gif)1530
 
-BAQ01277.1:
+ACD37058.1 (Escherichia coli O32)
+
+![](../../../csdb/images/1540.gif)1540
+
+BAQ01277.1 (Escherichia coli O83)
 
 ![](../../../csdb/images/1589.gif)1589
 
-#### Sugars in cluster for blast hits:
+ACD37051.1 (Shigella boydii 14)
+
+![](../../../csdb/images/3977.gif)3977
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7341,9 +7323,9 @@ N 150, R 180, D 187, Y 221, R 229, R 296, D 343
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0012_20/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7386,21 +7368,21 @@ K 25, S 39, R 42, Y 43, D 48, S 51, Y 52, Y 55, Y 66, N 84, Q 86, Y 92, Y 101, Y
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0012_180/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACD37138.1:
-
-![](../../../csdb/images/1863.gif)1863
-
-ACD37105.1:
-
-![](../../../csdb/images/718.gif)718
-
-ACD37146.1:
+ACD37146.1 (Escherichia coli O164)
 
 ![](../../../csdb/images/1906.gif)1906
 
-#### Sugars in cluster for blast hits:
+ACD37105.1 (Shigella dysenteriae 3)
+
+![](../../../csdb/images/718.gif)718
+
+ACD37138.1 (Escherichia coli O124)
+
+![](../../../csdb/images/1863.gif)1863
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7442,13 +7424,13 @@ R 24, D 28, K 48, D 98, R 99, Y 111, R 112, Y 117, R 119, Y 120, Y 126, R 171, N
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0012_124/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01960.1:
+BAQ01960.1 (Escherichia coli O179)
 
 ![](../../../csdb/images/1921.gif)1921
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7492,9 +7474,9 @@ R 183, S 238, R 239, T 240, K 305, E 312, R 331, E 334, H 386, N 387, Y 389
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0012_102/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7537,13 +7519,13 @@ Y 3, S 10, N 13, R 19, T 21, S 33, Y 37, N 38, D 42, N 45, Y 46, Y 50, D 55, E 6
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0011_198/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-WP_024244058.1, AAO37701.1:
+AAO37701.1 (Escherichia coli O128ab), WP_024244058.1 (Escherichia coli O128ac)
 
 ![](../../../csdb/images/1867.gif)1867
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7585,13 +7567,13 @@ Y 29, S 76, N 82, D 85, K 86, S 88, Y 89, S 100, D 101, N 107, T 108, D 110, S 1
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0011_163/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ABE98419.1, ADN43845.1:
+ADN43845.1 (Escherichia coli O126), ABE98419.1 (Escherichia coli O126)
 
 ![](../../../csdb/images/1865.gif)1865
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7634,13 +7616,13 @@ Y 73, E 74, N 124, S 126, R 147, Q 148, H 181, S 183, K 238, D 259, H 294, Q 304
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0011_149/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01563.1:
+BAQ01563.1 (Escherichia coli O116)
 
 ![](../../../csdb/images/1856.gif)1856
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7683,13 +7665,13 @@ R 138, R 174, R 224, R 228, R 252, S 254, S 255, E 302, N 341, S 378, E 383
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0011_147/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ADB02825.1:
+ADB02825.1 (Escherichia coli O119)
 
 ![](../../../csdb/images/1859.gif)1859
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7733,13 +7715,13 @@ Y 11, S 48, R 50, D 55, R 56, D 57, Y 61, S 81, Q 86, E 87, K 95, R 108, Y 139, 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0010_76/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ADC54957.1:
+ADC54957.1 (Escherichia coli O166)
 
 ![](../../../csdb/images/1908.gif)1908
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7780,17 +7762,17 @@ Y 3, R 44, H 46, T 47, D 50, E 52, Y 54, D 55, Y 56, N 73, Y 77, E 78, T 103, S 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0010_5/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AFW04684.1:
+AFW04684.1 (Salmonella enterica O65)
 
 ![](../../../csdb/images/30392.gif)30392
 
-ACV67297.1:
+ACV67297.1 (Escherichia coli O78)
 
 ![](../../../csdb/images/1584.gif)1584
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7835,17 +7817,17 @@ D 26, D 141, K 143, S 206, R 207, R 256, Y 280, Y 282, N 289, N 291, N 338, D 34
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0010_49/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01516.1:
-
-![](../../../csdb/images/25389.gif)25389
-
-AHB32586.1:
+AHB32586.1 (Acinetobacter baumannii O24)
 
 ![](../../../csdb/images/491.gif)491
 
-#### Sugars in cluster for blast hits:
+BAQ01516.1 (Escherichia coli O108)
+
+![](../../../csdb/images/25389.gif)25389
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7893,17 +7875,17 @@ N 8, R 46, D 52, Y 56, Y 59, Y 70, Y 74, N 78, K 82, S 95, Q 103, Y 108, Y 122, 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0010_35/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ00746.1:
+BAQ00746.1 (Escherichia coli O23)
 
 ![](../../../csdb/images/20006.gif)20006
 
-AFW04888.1:
+AFW04888.1 (Salmonella enterica O51)
 
 ![](../../../csdb/images/3366.gif)3366
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7945,13 +7927,13 @@ N 76, Y 119, D 152, H 153, Y 159, Y 167, R 183, E 190, T 193, Y 197, R 221, S 23
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0010_34/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01238.1:
+BAQ01238.1 (Escherichia coli O80)
 
 ![](../../../csdb/images/1452.gif)1452
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7994,21 +7976,21 @@ R 55, D 63, Y 67, S 117, Q 152, R 154, Q 155, H 188, S 218, K 247, Y 251, S 263,
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0010_174/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AIG62720.1, BAQ01860.1:
-
-![](../../../csdb/images/1911.gif)1911
-
-BAL03056.1:
+BAL03056.1 (Escherichia coli O183)
 
 ![](../../../csdb/images/1925.gif)1925
 
-AAL27339.1:
+AIG62720.1 (Escherichia coli O169), BAQ01860.1 (Escherichia coli O169)
+
+![](../../../csdb/images/1911.gif)1911
+
+AAL27339.1 (Shigella boydii 6)
 
 ![](../../../csdb/images/712.gif)712
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8052,13 +8034,13 @@ S 51, N 54, D 57, Y 59, Y 61, Y 89, N 115, R 143, E 145, S 147, T 148, R 150, Q 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0010_153/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01293.1:
+BAQ01293.1 (Escherichia coli O84)
 
 ![](../../../csdb/images/1590.gif)1590
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8100,13 +8082,13 @@ D 21, T 43, D 45, T 55, Y 115, R 119, Y 123, S 128, Y 153, T 200, K 202, Q 203, 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0010_150/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ00653.1:
+BAQ00653.1 (Escherichia coli O16)
 
 ![](../../../csdb/images/1517.gif)1517
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8148,13 +8130,13 @@ K 30, D 32, R 97, Q 100, K 162, D 163, H 176, N 178, K 220, R 281, Y 285, Y 299,
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0010_112/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01207.1:
+BAQ01207.1 (Escherichia coli O74)
 
 ![](../../../csdb/images/1580.gif)1580
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8197,9 +8179,9 @@ S 127, R 146, E 236, K 284, R 285, Y 332, R 355, Y 359, H 407, T 462, N 464
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0010_105/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8243,13 +8225,13 @@ Y 100, N 184, Q 187, R 196, S 203, K 229, N 246, R 247, N 248, K 315, T 318, R 3
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0009_85/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ABB65530.1, ABZ79721.1:
+ABB65530.1 (Shigella boydii 4), ABZ79721.1 (Escherichia coli O53)
 
 ![](../../../csdb/images/1560.gif)1560
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8294,17 +8276,17 @@ E 10, K 68, S 98, K 110, S 112, K 140, D 152, Q 155, R 162, Q 164, Y 196, T 218,
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0009_190/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AFE83402.1, WP_001300154.1:
+AFE83402.1 (Escherichia coli O111), WP_001300154.1 (Escherichia coli O111)
 
 ![](../../../csdb/images/616.gif)616
 
-ADX97403.1:
+ADX97403.1 (Yersinia pseudotuberculosis O:10)
 
 ![](../../../csdb/images/12137.gif)12137
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8351,13 +8333,13 @@ E 8, Y 11, S 41, Y 43, S 44, S 46, R 51, Q 52, D 53, Y 58, Y 61, N 63, N 68, N 7
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0009_179/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ02031.1:
+BAQ02031.1 (Escherichia coli O184)
 
 ![](../../../csdb/images/1926.gif)1926
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8400,9 +8382,9 @@ Q 9, Q 24, Q 27, R 33, E 39, N 47, Q 57, D 58, S 62, S 63, Y 64, Q 69, Q 76, S 7
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0009_168/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8443,13 +8425,13 @@ Y 3, R 45, T 50, D 51, Y 55, E 77, N 84, Y 94, K 109, D 134, R 139, Q 140, H 175
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0009_161/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AFW04860.1:
+AFW04860.1 (Salmonella enterica O60)
 
 ![](../../../csdb/images/3360.gif)3360
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8491,17 +8473,17 @@ Q 153, D 162, N 165, Y 173, S 186, E 218, K 220, N 272, Y 285, R 300, N 302, Y 3
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0009_155/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI33412.1, VQD68897.1:
+CAI33412.1 (Streptococcus pneumoniae 15F), VQD68897.1 (Streptococcus pneumoniae 15F)
 
 ![](../../../csdb/images/2972.gif)2972
 
-VSN79485.1, CAI33343.1:
+VSN79485.1 (Streptococcus pneumoniae 15A), CAI33343.1 (Streptococcus pneumoniae 15A)
 
 ![](../../../csdb/images/2973.gif)2973
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8546,9 +8528,9 @@ Y 10, E 23, H 26, H 31, E 47, Y 50, Y 55, N 61, K 78, Y 104, N 118, S 120, R 123
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0009_146/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8589,13 +8571,13 @@ K 27, N 90, Y 119, D 144, R 146, Y 147, N 157, N 159, S 160, Q 163, Y 203, S 261
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0009_119/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01266.1:
+BAQ01266.1 (Escherichia coli O82)
 
 ![](../../../csdb/images/1588.gif)1588
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8637,13 +8619,13 @@ S 2, Y 6, N 12, N 18, S 29, Y 37, N 40, R 42, S 46, D 47, Y 51, R 52, R 54, Y 55
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0008_97/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI34587.1:
+CAI34587.1 (Streptococcus pneumoniae 45)
 
 ![](../../../csdb/images/25004.gif)25004
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8683,13 +8665,13 @@ K 30, N 168, N 176, T 210, R 211, T 212, R 278, D 306, T 316, D 318, Y 321, Y 36
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0008_78/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI32957.1:
+CAI32957.1 (Streptococcus pneumoniae 8)
 
 ![](../../../csdb/images/938.gif)938
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8734,9 +8716,9 @@ Y 52, D 55, Y 129, R 196, R 201, K 251, T 252, R 253, Y 258, D 311, R 317, Y 324
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0008_71/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8777,13 +8759,13 @@ H 36, Q 76, S 98, R 101, E 146, K 167, Y 182, Y 183, Q 225, S 226, K 227, T 287,
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0008_166/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01419.1:
+BAQ01419.1 (Escherichia coli O96)
 
 ![](../../../csdb/images/1600.gif)1600
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8827,17 +8809,17 @@ K 71, S 73, S 77, T 84, R 90, S 98, N 100, Y 104, Y 105, N 110, K 132, S 150, R 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0008_152/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAL27327.1:
+AAL27327.1 (Shigella boydii 5)
 
 ![](../../../csdb/images/1422.gif)1422
 
-ACA24739.1:
+ACA24739.1 (Escherichia coli O79)
 
 ![](../../../csdb/images/1585.gif)1585
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8882,9 +8864,9 @@ D 41, D 73, Y 83, S 87, R 127, S 165, S 176, R 185, E 187, K 200, Y 201, Y 206, 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0008_148/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8925,13 +8907,13 @@ E 134, N 140, N 158, Y 165, S 168, S 169, H 173, Y 174, T 175, Y 176, Y 179, N 1
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0008_135/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI32727.1:
+CAI32727.1 (Streptococcus pneumoniae 2)
 
 ![](../../../csdb/images/1944.gif)1944
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8969,19 +8951,17 @@ S 15, E 18, Y 47, D 52, Y 56, E 71, K 96, T 119, N 130, D 131, R 134, Q 135, H 1
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0008_128/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ00634.1:
+BAQ00634.1 (Escherichia coli O12)
 
 ![](../../../csdb/images/1514.gif)1514
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
-AXY99336.1:
+AXY99336.1 (Proteus vulgaris O2)
 
-![](../../../csdb/images/3058.gif)
-
-CSDB record ID: 3058
+![](../../../csdb/images/3058.gif)3058
 
 #### Alphafold models:
 
@@ -9021,13 +9001,13 @@ Y 44, E 51, Y 53, Y 123, R 144, D 146, K 149, N 201, K 202, Y 238, Y 254, S 258,
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0008_127/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ADJ19217.1:
+ADJ19217.1 (Escherichia coli O61)
 
 ![](../../../csdb/images/1568.gif)1568
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9072,13 +9052,13 @@ S 89, R 144, R 153, T 155, E 160, S 162, H 163, Y 164, T 195, S 197, S 199, K 25
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0008_114/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ02015.1:
+BAQ02015.1 (Escherichia coli O182)
 
 ![](../../../csdb/images/1924.gif)1924
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9120,17 +9100,17 @@ K 8, K 11, Y 18, Q 35, S 40, R 41, D 42, Y 43, N 45, Y 46, Q 48, S 51, E 54, E 6
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_7/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACD75809.1:
+ACD75809.1 (Escherichia coli O2)
 
 ![](../../../csdb/images/108685.gif)108685
 
-BAQ01012.1:
+BAQ01012.1 (Escherichia coli O50)
 
 ![](../../../csdb/images/1557.gif)1557
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9170,17 +9150,17 @@ T 22, S 28, N 95, N 100, K 101, Y 107, R 108, D 113, S 115, R 116, N 118, Y 129,
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_199/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AJE24464.1:
+AJE24464.1 (Escherichia coli O153)
 
 ![](../../../csdb/images/1894.gif)1894
 
-AFW04790.1:
+AFW04790.1 (Salmonella enterica O52)
 
 ![](../../../csdb/images/3364.gif)3364
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9225,9 +9205,9 @@ R 56, Y 64, N 133, D 181, N 183, N 189, N 191, T 193, S 239, R 240, R 304, D 328
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_186/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9271,21 +9251,21 @@ Y 16, K 145, Y 157, R 177, K 199, N 204, R 260, D 266, T 268, Y 277, Y 289, D 29
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_181/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AKA20981.1:
-
-![](../../../csdb/images/12125.gif)12125
-
-CAX18360.1:
-
-![](../../../csdb/images/12127.gif)12127
-
-AKA20999.1:
+AKA20999.1 (Yersinia pseudotuberculosis O:5b)
 
 ![](../../../csdb/images/12126.gif)12126
 
-#### Sugars in cluster for blast hits:
+CAX18360.1 (Yersinia pseudotuberculosis O:15)
+
+![](../../../csdb/images/12127.gif)12127
+
+AKA20981.1 (Yersinia pseudotuberculosis O:5a)
+
+![](../../../csdb/images/12125.gif)12125
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9329,13 +9309,13 @@ S 5, Y 26, N 29, S 31, K 33, Y 36, K 37, N 42, K 63, S 91, R 100, S 103, Y 145, 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_18/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAY28249.1:
+AAY28249.1 (Escherichia coli O174)
 
 ![](../../../csdb/images/30040.gif)30040
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9378,17 +9358,17 @@ D 26, T 28, T 32, N 34, S 35, Q 38, T 41, K 59, H 78, E 80, Y 83, H 84, Y 85, K 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_176/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACD37111.1:
+ACD37111.1 (Shigella dysenteriae 9)
 
 ![](../../../csdb/images/713.gif)713
 
-ACD37117.1:
+ACD37117.1 (Escherichia coli O40)
 
 ![](../../../csdb/images/1547.gif)1547
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9431,13 +9411,13 @@ K 6, Y 8, T 20, S 23, Y 31, D 64, S 86, Y 87, T 88, E 89, D 90, R 92, S 95, R 98
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_170/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01218.1:
+BAQ01218.1 (Escherichia coli O76)
 
 ![](../../../csdb/images/1582.gif)1582
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9479,23 +9459,21 @@ Y 3, D 24, R 42, D 48, Y 52, S 88, K 104, K 109, T 110, T 125, R 129, Q 130, Y 1
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_169/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ABB29916.1:
-
-![](../../../csdb/images/8382.gif)8382
-
-ABB29906.1:
+ABB29906.1 (Escherichia coli O24)
 
 ![](../../../csdb/images/8411.gif)8411
 
-#### Sugars in cluster for blast hits:
+ABB29916.1 (Escherichia coli O56)
 
-AXL96526.1:
+![](../../../csdb/images/8382.gif)8382
 
-![](../../../csdb/images/27606.gif)
+#### Sugars for blast hits only (may be incorrect):
 
-CSDB record ID: 27606
+AXL96526.1 (Providencia alcalifaciens O38)
+
+![](../../../csdb/images/27606.gif)27606
 
 #### Alphafold models:
 
@@ -9537,13 +9515,13 @@ N 14, S 33, S 38, D 55, Y 60, N 81, K 89, K 98, E 99, T 106, Y 110, S 146, N 149
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_160/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAD50486.1:
+AAD50486.1 (Escherichia coli O113)
 
 ![](../../../csdb/images/1853.gif)1853
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9585,13 +9563,13 @@ N 44, R 45, N 47, D 49, Y 50, Y 53, E 65, Y 68, K 76, K 106, Y 115, D 123, Q 126
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_143/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAN60459.1:
+AAN60459.1 (Escherichia coli O26)
 
 ![](../../../csdb/images/1534.gif)1534
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9632,9 +9610,9 @@ N 9, N 30, S 38, Y 53, D 55, Y 59, Y 63, E 73, T 102, T 129, S 131, Y 134, E 138
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_133/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9672,9 +9650,9 @@ Y 20, Y 24, K 38, R 39, Y 40, S 72, Y 94, D 101, S 111, S 113, D 115, Y 127, K 1
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_132/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9714,21 +9692,21 @@ Q 21, Y 32, S 35, N 147, T 168, R 174, E 178, S 184, K 219, R 220, T 221, S 299,
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_111/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI34498.1:
-
-![](../../../csdb/images/25001.gif)25001
-
-CAI34475.1:
+CAI34475.1 (Streptococcus pneumoniae 41A)
 
 ![](../../../csdb/images/25002.gif)25002
 
-CAI34099.1:
+CAI34099.1 (Streptococcus pneumoniae 31)
 
 ![](../../../csdb/images/7087.gif)7087
 
-#### Sugars in cluster for blast hits:
+CAI34498.1 (Streptococcus pneumoniae 41F)
+
+![](../../../csdb/images/25001.gif)25001
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9769,13 +9747,13 @@ Y 44, D 49, Y 53, R 131, Q 132, H 165, S 167, Y 232, R 248, Y 293, E 294, R 306,
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_10/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAM27879.1:
+AAM27879.1 (Pseudomonas aeruginosa O9)
 
 ![](../../../csdb/images/24037.gif)24037
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9815,13 +9793,13 @@ K 34, T 42, S 56, S 70, K 106, E 109, N 116, S 127, K 132, R 134, S 140, H 148, 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0006_16/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01894.1:
+BAQ01894.1 (Escherichia coli O171)
 
 ![](../../../csdb/images/1913.gif)1913
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9862,13 +9840,13 @@ Y 10, Y 12, D 32, R 34, Y 36, Y 38, K 64, T 95, K 121, N 123, Q 155, S 157, Q 15
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0006_156/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAZ20761.1:
+AAZ20761.1 (Escherichia coli O66)
 
 ![](../../../csdb/images/1573.gif)1573
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9909,9 +9887,9 @@ E 31, S 70, Y 73, Y 76, Y 82, Y 83, K 92, K 132, S 142, Y 168, Q 188, H 192, Y 2
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0006_142/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9951,13 +9929,13 @@ K 7, K 8, Y 9, S 13, Q 23, S 26, H 32, E 38, T 47, S 56, D 57, S 60, S 61, K 68,
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0006_136/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ABI34565.1:
+ABI34565.1 (Escherichia coli O22)
 
 ![](../../../csdb/images/1530.gif)1530
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10000,17 +9978,17 @@ K 10, E 19, Y 25, E 31, D 35, Y 36, K 79, N 87, Y 97, T 104, K 108, D 123, K 124
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0006_118/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAT28922.1:
-
-![](../../../csdb/images/1914.gif)1914
-
-AAR24270.1:
+AAR24270.1 (Shigella boydii 13)
 
 ![](../../../csdb/images/1405.gif)1405
 
-#### Sugars in cluster for blast hits:
+AAT28922.1 (Escherichia coli O172)
+
+![](../../../csdb/images/1914.gif)1914
+
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10052,17 +10030,17 @@ Y 63, Y 70, Q 75, S 78, E 83, E 91, N 140, Y 161, N 171, R 172, Y 175, Y 202, K 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0006_106/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACD37072.1:
+ACD37072.1 (Shigella boydii 7)
 
 ![](../../../csdb/images/3984.gif)3984
 
-ADN43883.1:
+ADN43883.1 (Escherichia coli O165)
 
 ![](../../../csdb/images/1907.gif)1907
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10102,17 +10080,17 @@ R 7, Y 8, Y 21, H 29, K 54, N 69, E 81, H 121, R 156, K 162, Y 201, Q 204, T 218
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0006_103/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ADI59445.1:
+ADI59445.1 (Yersinia pseudotuberculosis O:2b)
 
 ![](../../../csdb/images/12132.gif)12132
 
-ADI59429.1:
+ADI59429.1 (Yersinia pseudotuberculosis O:1c)
 
 ![](../../../csdb/images/12131.gif)12131
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10155,13 +10133,13 @@ Y 2, K 22, Y 23, S 38, D 45, D 47, Y 48, N 50, Y 51, Y 54, S 60, S 64, R 66, D 7
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0005_74/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACA24829.1, AAS98031.1:
+ACA24829.1 (Escherichia coli O105), AAS98031.1 (Shigella boydii 11)
 
 ![](../../../csdb/images/1844.gif)1844
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10203,13 +10181,13 @@ N 105, E 109, S 113, R 116, Y 120, N 171, R 175, S 232, R 233, K 256, N 277, T 2
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0005_64/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01702.1:
+BAQ01702.1 (Escherichia coli O136)
 
 ![](../../../csdb/images/1878.gif)1878
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10251,13 +10229,13 @@ S 9, K 49, D 60, E 61, Y 64, N 66, Y 77, N 94, Y 135, K 142, E 143, S 146, R 176
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0005_202/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ADN43838.1:
+ADN43838.1 (Escherichia coli O115)
 
 ![](../../../csdb/images/1855.gif)1855
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10297,9 +10275,9 @@ R 133, Q 134, H 165, S 166, Y 211, R 215, Q 216, Y 220, Y 243, Y 270, R 280
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0005_137/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10339,13 +10317,13 @@ N 95, S 121, Q 124, S 170, Q 173, R 181, N 188, Q 190, S 209, T 232, S 234, R 30
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0005_100/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ABD19779.1:
+ABD19779.1 (Shigella boydii 16)
 
 ![](../../../csdb/images/3660.gif)3660
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10388,13 +10366,13 @@ N 16, S 28, S 46, N 54, Y 65, Y 67, Y 71, N 77, R 78, E 79, Y 80, E 86, D 90, D 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_92/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ00893.1:
+BAQ00893.1 (Escherichia coli O41)
 
 ![](../../../csdb/images/1548.gif)1548
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10434,9 +10412,9 @@ Y 28, N 36, Y 38, Y 41, D 47, R 71, S 73, N 161, S 165, Y 174, R 176, R 177, E 1
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_87/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10476,9 +10454,9 @@ S 22, K 27, S 75, N 79, D 83, D 109, T 120, N 128, N 143, N 145, S 146, Y 151, S
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_204/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10521,17 +10499,17 @@ N 2, N 8, Y 19, K 24, S 25, K 26, K 27, R 30, Y 35, E 44, S 45, H 46, T 52, T 53
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_200/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACH97132.1:
+ACH97132.1 (Escherichia coli O107)
 
 ![](../../../csdb/images/1846.gif)1846
 
-ABE98413.1, ACH97143.1:
+ACH97143.1 (Escherichia coli O117), ABE98413.1 (Escherichia coli O117)
 
 ![](../../../csdb/images/1857.gif)1857
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10570,13 +10548,13 @@ K 1, Y 6, N 7, N 11, S 15, Y 21, K 24, N 27, H 49, Y 53, N 56, K 59, Y 90, N 97,
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_192/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-CAI34641.1:
+CAI34641.1 (Streptococcus pneumoniae 47A)
 
 ![](../../../csdb/images/25006.gif)25006
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10614,13 +10592,13 @@ H 17, Y 26, K 33, R 37, K 38, K 39, T 41, H 42, T 45, S 52, S 56, Y 59, H 62, T 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_191/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAZ85718.1:
+AAZ85718.1 (Escherichia coli O139)
 
 ![](../../../csdb/images/1881.gif)1881
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10660,13 +10638,13 @@ N 7, S 20, K 26, D 28, Y 29, D 33, Y 37, T 38, Y 41, D 42, T 44, Y 45, E 47, E 5
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_184/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ADC54929.1:
+ADC54929.1 (Escherichia coli O1)
 
 ![](../../../csdb/images/7222.gif)7222
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10705,9 +10683,9 @@ Y 33, S 35, D 44, T 45, Y 48, N 51, D 58, Y 62, E 65, N 107, N 125, R 131, Q 132
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_159/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10748,13 +10726,13 @@ T 1, Y 2, T 4, K 16, R 17, T 19, S 21, Q 22, S 23, K 24, K 25, N 26, N 32, Y 42,
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_131/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ABA42232.1:
+ABA42232.1 (Escherichia coli O148)
 
 ![](../../../csdb/images/1889.gif)1889
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10797,13 +10775,13 @@ K 3, Y 114, K 118, S 122, Y 125, R 134, Y 151, S 154, D 194, R 200, N 225, N 240
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_108/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AAL27351.1:
+AAL27351.1 (Shigella boydii 9)
 
 ![](../../../csdb/images/3986.gif)3986
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10844,13 +10822,13 @@ S 25, S 40, N 42, Y 43, N 45, Y 47, D 48, N 51, Y 52, N 55, Q 57, Y 61, K 69, Y 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_107/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACA24901.1:
+ACA24901.1 (Escherichia coli O87)
 
 ![](../../../csdb/images/1594.gif)1594
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10888,9 +10866,9 @@ S 126, N 134, R 141, Y 142, Q 153, Y 160, K 177, R 179, S 185, T 195, K 199, S 2
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_90/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10930,13 +10908,13 @@ Y 2, T 4, S 16, K 19, K 20, S 21, N 22, S 25, S 27, T 36, T 37, S 41, S 46, Y 49
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_203/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01137.1:
+BAQ01137.1 (Escherichia coli O65)
 
 ![](../../../csdb/images/1572.gif)1572
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10974,13 +10952,13 @@ S 4, S 20, R 27, S 29, T 77, H 91, S 104, N 143, N 161, K 181, N 198, D 199, K 2
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_201/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ADJ19203.1:
+ADJ19203.1 (Escherichia coli O161)
 
 ![](../../../csdb/images/1902.gif)1902
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11020,9 +10998,9 @@ S 13, Y 14, H 17, S 19, N 23, Y 30, K 40, K 41, E 42, S 49, S 54, T 57, T 58, S 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_196/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11060,13 +11038,13 @@ Y 2, S 8, S 15, S 18, T 19, T 22, S 24, S 27, N 32, Y 34, Y 36, K 38, S 40, T 41
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_195/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ADN43871.1:
+ADN43871.1 (Escherichia coli O158)
 
 ![](../../../csdb/images/1287.gif)1287
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11105,9 +11083,9 @@ K 28, Y 29, E 70, Y 81, S 115, N 127, Y 140, R 141, R 150, N 157, N 159, S 160, 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_194/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11147,13 +11125,13 @@ H 1, R 5, T 6, T 7, S 8, T 15, N 27, K 29, E 31, S 39, R 45, N 47, Q 48, K 54, S
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_183/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01659.1:
+BAQ01659.1 (Escherichia coli O132)
 
 ![](../../../csdb/images/1874.gif)1874
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11193,9 +11171,9 @@ K 7, S 23, T 38, Y 40, D 41, E 42, R 44, Y 45, T 49, D 55, K 57, Y 59, Y 63, T 6
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_167/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11234,9 +11212,9 @@ S 15, T 30, N 51, D 56, Y 60, S 67, H 83, T 84, E 85, Q 92, S 101, T 103, S 113,
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_165/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11274,13 +11252,13 @@ T 1, K 4, K 5, K 6, Q 7, N 9, N 12, R 15, R 16, S 18, S 28, S 30, N 32, Y 33, Y 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_134/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ00927.1:
+BAQ00927.1 (Escherichia coli O43)
 
 ![](../../../csdb/images/1381.gif)1381
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11318,13 +11296,13 @@ Y 2, T 4, N 5, Y 10, Q 11, T 15, S 22, S 23, S 26, E 31, Y 32, T 33, S 43, T 45,
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_122/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01155.1:
+BAQ01155.1 (Escherichia coli O68)
 
 ![](../../../csdb/images/1574.gif)1574
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11362,9 +11340,9 @@ Y 30, Y 40, Q 41, D 42, N 47, E 51, R 54, S 55, E 68, K 74, K 76, Q 85, K 86, Y 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_117/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11403,13 +11381,13 @@ N 5, Q 22, Y 24, K 26, S 31, D 32, Q 36, Y 41, S 54, S 67, Y 71, N 76, K 81, D 9
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_109/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-AIG62747.1:
+AIG62747.1 (Escherichia coli O178)
 
 ![](../../../csdb/images/1920.gif)1920
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11449,9 +11427,9 @@ N 2, Y 3, K 5, N 11, H 13, S 21, S 22, Y 24, K 27, T 29, Q 30, S 32, Y 35, S 38,
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_83/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11488,9 +11466,9 @@ D 4, R 70, R 108, Y 122, T 123, D 128, H 132, T 135, Q 150, S 163, R 165, R 170,
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_82/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11528,9 +11506,9 @@ T 1, N 2, T 3, N 4, Y 5, Y 7, N 8, E 9, R 13, S 21, T 25, S 27, T 28, K 30, E 32
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_52/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11567,9 +11545,9 @@ N 5, S 7, Y 8, K 10, K 12, K 13, E 16, Y 17, Y 18, S 31, R 34, D 41, Y 42, Y 45,
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_205/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11606,9 +11584,9 @@ Y 2, T 10, T 13, D 15, R 20, S 21, K 24, S 26, S 32, S 36, S 37, Y 41, N 43, Y 4
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_197/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11645,9 +11623,9 @@ D 2, Y 3, R 26, S 28, S 43, R 46, Y 47, Y 48, D 52, E 54, Y 56, Q 57, Y 60, Y 64
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_193/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11685,9 +11663,9 @@ T 46, Y 48, T 56, S 62, R 64, K 68, N 69, R 71, E 72, T 73, T 76, E 77, D 80, R 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_189/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11724,9 +11702,9 @@ Y 2, S 41, D 43, N 46, Y 47, N 49, Y 51, Y 52, E 61, S 64, S 81, K 93, S 105, Y 
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_188/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11764,9 +11742,9 @@ Y 3, Y 19, N 20, Y 24, N 28, R 39, D 46, T 47, Y 50, N 58, N 65, N 68, Q 76, R 7
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_187/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11804,13 +11782,13 @@ S 4, T 5, Y 10, S 16, K 23, E 24, R 27, N 29, K 31, Y 32, Y 34, D 37, Y 39, Y 41
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_185/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACH97152.1:
+ACH97152.1 (Escherichia coli O3)
 
 ![](../../../csdb/images/1501.gif)1501
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11848,13 +11826,13 @@ K 4, S 5, R 6, Y 22, K 23, E 25, N 27, Y 28, T 30, D 32, E 33, Y 36, S 39, D 40,
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_182/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-ACA24890.1:
+ACA24890.1 (Escherichia coli O159)
 
 ![](../../../csdb/images/1900.gif)1900
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11892,13 +11870,13 @@ D 1, S 2, N 4, R 5, S 6, S 7, K 9, K 12, S 13, N 14, S 18, Y 23, T 24, T 26, Y 2
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_178/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01114.1:
+BAQ01114.1 (Escherichia coli O64)
 
 ![](../../../csdb/images/1571.gif)1571
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11935,9 +11913,9 @@ S 42, N 68, Y 76, S 92, D 99, D 153, N 156, S 163, R 164, N 165, S 168, Y 178, K
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_175/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11975,9 +11953,9 @@ N 1, K 6, S 25, Y 34, Y 36, T 37, K 46, D 51, R 53, Y 63, T 65, R 70, N 78, D 82
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_172/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12015,13 +11993,13 @@ E 1, H 2, N 4, R 5, Y 7, N 10, T 11, T 12, N 15, S 30, S 31, Y 34, K 35, D 37, S
 
 [Hits in cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_151/hits.tsv)
 
-#### Sugars in cluster for seeds:
+#### Sugars in cluster:
 
-BAQ01780.1:
+BAQ01780.1 (Escherichia coli O154)
 
 ![](../../../csdb/images/696.gif)696
 
-#### Sugars in cluster for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 

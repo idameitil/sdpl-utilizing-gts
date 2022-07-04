@@ -66,6 +66,7 @@ class SSNClusterData:
 
         self.load_metadata()
         self.load_info()
+        self.load_cluster_dict()
         self.load_included_accessions()
         self.load_taxons_before_after_table()
         self.load_clusters()
@@ -102,6 +103,9 @@ class SSNClusterData:
 
     def metadata_filename(self):
         return f"{self.results_dir_top()}/metadata.txt"
+    
+    def clusters_filename(self):
+        return f"{self.results_dir_top()}/clusters.tsv"
 
     def included_accessions_filename(self):
         return f"{self.results_dir_top()}/included_accessions.txt"
@@ -126,6 +130,15 @@ class SSNClusterData:
             for line in included_accessions_file:
                 included_accessions.append(line.strip())
         self.included_accessions = included_accessions
+
+    def load_cluster_dict(self):
+        cluster_dict = {}
+        with open(self.clusters_filename(), 'r') as cluster_file:
+            for line in cluster_file:
+                splitted_line = line.strip().split()
+                accession, cluster = splitted_line[0], splitted_line[1]
+                cluster_dict[accession] = cluster
+        self.cluster_dict = cluster_dict
 
     def get_count_taxons_before(self, rank):
         return len(self.seeds_df.loc[self.seeds_df.protein_accession.isin(self.included_accessions), rank].unique())
@@ -251,28 +264,33 @@ class SSNClusterData:
         'protein_accession': 'accession'}, inplace=True)
         return seeds_table
 
-    def get_sugars2accessions(self, accessions):
+    def get_sugars2accessions(self, accessions, seed_accessions):
         sugars2accessions = {}
         for accession in accessions:
             sugar_id = self.get_sugar_id(accession)
             if not_pd_null(sugar_id):
-                if sugar_id in sugars2accessions:
-                    sugars2accessions[sugar_id].append(accession)
+                if accession in seed_accessions:
+                    serotype = self.seeds_df.loc[self.seeds_df['protein_accession'] == accession]['serotype'].item()
                 else:
-                    sugars2accessions[sugar_id] = [accession]
+                    serotype = self.hits_df.loc[self.hits_df['protein_accession'] == accession]['serotype_x'].item()
+                species = self.seeds_and_hits_df.loc[self.seeds_and_hits_df['protein_accession'] == accession]['species'].item()
+                if sugar_id in sugars2accessions:
+                    sugars2accessions[sugar_id].append({'accession': accession, 'species': species, 'serotype': serotype})
+                else:
+                    sugars2accessions[sugar_id] = [{'accession': accession, 'species': species, 'serotype': serotype}]
         return sugars2accessions
 
     def is_sugar_only_blast(self, sugar_id, sugars2accessions, seed_accessions):
         is_only_blast = True
-        for accession in sugars2accessions[sugar_id]:
-            if accession in seed_accessions:
+        for protein in sugars2accessions[sugar_id]:
+            if protein['accession'] in seed_accessions:
                 is_only_blast = False
         return is_only_blast
     
     def enrich_sugars(self, seed_accessions, sugars2accessions):
         enriched_sugars = {
             sugar_id: {
-            'accessions': sugars2accessions[sugar_id], 
+            'proteins': sugars2accessions[sugar_id],
             'image': get_sugar_image(sugar_id),
             'is_only_blast': self.is_sugar_only_blast(sugar_id, sugars2accessions, seed_accessions)
              }
@@ -282,10 +300,10 @@ class SSNClusterData:
     def load_cluster_data(self, cluster_id):
         [size, name] = cluster_id.split('_')
         size = int(size)
-
-        with open(self.MSA_filename(cluster_id), 'r') as MSA_file:
-            conserved_residues_string = get_conserved_residues_string(MSA_file)
-
+        # print('conserved res')
+        # with open(self.MSA_filename(cluster_id), 'r') as MSA_file:
+        #     conserved_residues_string = get_conserved_residues_string(MSA_file)
+        # print('accessions')
         seed_accessions, hit_accessions = self.read_split_fasta_seeds_hits(self.fasta_filename(cluster_id))
         accessions = []
         accessions.extend(seed_accessions)
@@ -293,7 +311,6 @@ class SSNClusterData:
         accessions = list(set(accessions))
 
         seeds_table = self.get_seeds_table(seed_accessions)
-
         MSA_url = filename_to_url(self.MSA_filename(cluster_id))
         malign_url = filename_to_url(self.malign_filename(cluster_id))
         fasta_url = filename_to_url(self.fasta_filename(cluster_id))
@@ -301,15 +318,17 @@ class SSNClusterData:
         tree_url = filename_to_url(self.tree_filename(cluster_id))
         hits_table_url = filename_to_url(self.hits_table_filename(cluster_id))
 
-        sugars2accessions = self.get_sugars2accessions(accessions)
+        # print('sugars')
+        sugars2accessions = self.get_sugars2accessions(accessions, seed_accessions)
         enriched_sugars = self.enrich_sugars(seed_accessions, sugars2accessions)
         alphafold_models = self.get_alphafold_models(accessions)
+        # print('taxonomy_table')
         taxonomy_table = self.get_taxonomy_table(accessions)
 
         return {
             'name': name,
             'size': size,
-            'conserved_residues': conserved_residues_string,
+            #'conserved_residues': conserved_residues_string,
             'seeds_table': seeds_table,
             'afa_url': MSA_url,
             'malign_url': malign_url,
@@ -320,4 +339,5 @@ class SSNClusterData:
             'sugars': enriched_sugars,
             'alphafold_models': alphafold_models,
             'taxonomy_table': taxonomy_table,
+            'accessions': accessions
         }
