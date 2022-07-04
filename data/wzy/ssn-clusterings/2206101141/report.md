@@ -8,6 +8,7 @@ Expansion threshold: e-value 1e-15
 
 SSN threshold: score 110
 
+
 ## Info
 Total number of proteins in network: 6176 
 
@@ -17,9 +18,10 @@ Number of nodes in clusters: 6130
 
 Number of clusters: 205 
 
-[File with accessions in each cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters.tsv)
 
-Number of different taxonomical ranks before and after expansion:
+[File with accessions in each cluster](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141//clusters.tsv)
+
+Number of different taxons before and after expansion:        
 
 |        |   kingdom |   phylum |   class |   order |   family |   genus |   species |
 |:-------|----------:|---------:|--------:|--------:|---------:|--------:|----------:|
@@ -33,30 +35,32 @@ Number of different taxonomical ranks before and after expansion:
 [1(89)](#cluster-1)  [2(107)](#cluster-2)  [3(478)](#cluster-3)  [4(34)](#cluster-4)  [5(10)](#cluster-5)  [6(139)](#cluster-6)  [7(7)](#cluster-7)  [8(548)](#cluster-8)  [9(240)](#cluster-9)  [10(7)](#cluster-10)  [11(152)](#cluster-11)  [12(66)](#cluster-12)  [13(40)](#cluster-13)  [14(16)](#cluster-14)  [15(258)](#cluster-15)  [16(6)](#cluster-16)  [17(48)](#cluster-17)  [18(7)](#cluster-18)  [19(14)](#cluster-19)  [20(12)](#cluster-20)  [21(58)](#cluster-21)  [22(46)](#cluster-22)  [23(134)](#cluster-23)  [24(22)](#cluster-24)  [25(24)](#cluster-25)  [26(15)](#cluster-26)  [27(67)](#cluster-27)  [28(25)](#cluster-28)  [29(136)](#cluster-29)  [30(14)](#cluster-30)  [31(43)](#cluster-31)  [32(270)](#cluster-32)  [33(129)](#cluster-33)  [34(10)](#cluster-34)  [35(10)](#cluster-35)  [36(59)](#cluster-36)  [37(82)](#cluster-37)  [38(16)](#cluster-38)  [39(119)](#cluster-39)  [40(22)](#cluster-40)  [41(26)](#cluster-41)  [42(17)](#cluster-42)  [43(37)](#cluster-43)  [44(83)](#cluster-44)  [45(13)](#cluster-45)  [46(91)](#cluster-46)  [47(13)](#cluster-47)  [48(41)](#cluster-48)  [49(10)](#cluster-49)  [50(129)](#cluster-50)  [51(16)](#cluster-51)  [52(2)](#cluster-52)  [53(41)](#cluster-53)  [54(28)](#cluster-54)  [55(14)](#cluster-55)  [56(59)](#cluster-56)  [57(43)](#cluster-57)  [58(45)](#cluster-58)  [59(33)](#cluster-59)  [60(13)](#cluster-60)  [61(16)](#cluster-61)  [62(20)](#cluster-62)  [63(39)](#cluster-63)  [64(5)](#cluster-64)  [65(36)](#cluster-65)  [66(35)](#cluster-66)  [67(71)](#cluster-67)  [68(66)](#cluster-68)  [69(23)](#cluster-69)  [70(15)](#cluster-70)  [71(8)](#cluster-71)  [72(29)](#cluster-72)  [73(29)](#cluster-73)  [74(5)](#cluster-74)  [75(51)](#cluster-75)  [76(10)](#cluster-76)  [77(19)](#cluster-77)  [78(8)](#cluster-78)  [79(42)](#cluster-79)  [80(21)](#cluster-80)  [81(22)](#cluster-81)  [82(2)](#cluster-82)  [83(2)](#cluster-83)  [84(37)](#cluster-84)  [85(9)](#cluster-85)  [86(18)](#cluster-86)  [87(4)](#cluster-87)  [88(15)](#cluster-88)  [89(21)](#cluster-89)  [90(3)](#cluster-90)  [91(21)](#cluster-91)  [92(4)](#cluster-92)  [93(33)](#cluster-93)  [94(36)](#cluster-94)  [95(17)](#cluster-95)  [96(15)](#cluster-96)  [97(8)](#cluster-97)  [98(24)](#cluster-98)  [99(17)](#cluster-99)  [100(5)](#cluster-100)  [101(21)](#cluster-101)  [102(12)](#cluster-102)  [103(6)](#cluster-103)  [104(16)](#cluster-104)  [105(10)](#cluster-105)  [106(6)](#cluster-106)  [107(4)](#cluster-107)  [108(4)](#cluster-108)  [109(3)](#cluster-109)  [110(15)](#cluster-110)  [111(7)](#cluster-111)  [112(10)](#cluster-112)  [113(18)](#cluster-113)  [114(8)](#cluster-114)  [115(14)](#cluster-115)  [116(18)](#cluster-116)  [117(3)](#cluster-117)  [118(6)](#cluster-118)  [119(9)](#cluster-119)  [120(14)](#cluster-120)  [121(14)](#cluster-121)  [122(3)](#cluster-122)  [123(21)](#cluster-123)  [124(12)](#cluster-124)  [125(16)](#cluster-125)  [126(20)](#cluster-126)  [127(8)](#cluster-127)  [128(8)](#cluster-128)  [129(16)](#cluster-129)  [130(15)](#cluster-130)  [131(4)](#cluster-131)  [132(7)](#cluster-132)  [133(7)](#cluster-133)  [134(3)](#cluster-134)  [135(8)](#cluster-135)  [136(6)](#cluster-136)  [137(5)](#cluster-137)  [138(16)](#cluster-138)  [139(16)](#cluster-139)  [140(17)](#cluster-140)  [141(18)](#cluster-141)  [142(6)](#cluster-142)  [143(7)](#cluster-143)  [144(18)](#cluster-144)  [145(19)](#cluster-145)  [146(9)](#cluster-146)  [147(11)](#cluster-147)  [148(8)](#cluster-148)  [149(11)](#cluster-149)  [150(10)](#cluster-150)  [151(2)](#cluster-151)  [152(8)](#cluster-152)  [153(10)](#cluster-153)  [154(14)](#cluster-154)  [155(9)](#cluster-155)  [156(6)](#cluster-156)  [157(16)](#cluster-157)  [158(18)](#cluster-158)  [159(4)](#cluster-159)  [160(7)](#cluster-160)  [161(9)](#cluster-161)  [162(17)](#cluster-162)  [163(11)](#cluster-163)  [164(15)](#cluster-164)  [165(3)](#cluster-165)  [166(8)](#cluster-166)  [167(3)](#cluster-167)  [168(9)](#cluster-168)  [169(7)](#cluster-169)  [170(7)](#cluster-170)  [171(36)](#cluster-171)  [172(2)](#cluster-172)  [173(13)](#cluster-173)  [174(10)](#cluster-174)  [175(2)](#cluster-175)  [176(7)](#cluster-176)  [177(17)](#cluster-177)  [178(2)](#cluster-178)  [179(9)](#cluster-179)  [180(12)](#cluster-180)  [181(7)](#cluster-181)  [182(2)](#cluster-182)  [183(3)](#cluster-183)  [184(4)](#cluster-184)  [185(2)](#cluster-185)  [186(7)](#cluster-186)  [187(2)](#cluster-187)  [188(2)](#cluster-188)  [189(2)](#cluster-189)  [190(9)](#cluster-190)  [191(4)](#cluster-191)  [192(4)](#cluster-192)  [193(2)](#cluster-193)  [194(3)](#cluster-194)  [195(3)](#cluster-195)  [196(3)](#cluster-196)  [197(2)](#cluster-197)  [198(11)](#cluster-198)  [199(7)](#cluster-199)  [200(4)](#cluster-200)  [201(3)](#cluster-201)  [202(5)](#cluster-202)  [203(3)](#cluster-203)  [204(4)](#cluster-204)  [205(2)](#cluster-205)  
 
 ## Clusters
+
 ### Cluster 8
+
 Total number of members in cluster: 548
 
 Average length of proteins in cluster: 448.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 160 (98.4%) Y 275 (100.0%) Y 295 (97.8%) Y 331 (98.5%) R 338 (100.0%) R 382 (100.0%) Y 383 (99.8%) D 415 (97.4%) S 418 (99.1%) N 473 (98.9%) T 479 (99.8%) S 506 (97.8%) T 508 (99.5%) S 512 (97.8%) D 538 (99.5%) R 578 (99.6%) 
+Y 160, Y 275, Y 295, Y 331, R 338, R 382, Y 383, D 415, S 418, N 473, T 479, S 506, T 508, S 512, D 538, R 578
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype                            |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:------------------------------------|-------------------------------------:|
-| AAC45844.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O8                                  |                                    1 |
-| ACF61556.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | ssp. enterica sv. Newport           |                                    1 |
-| ACF69242.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | Heidelberg                          |                                    1 |
-| WP_000055605.1      | Enterobacterales | Enterobacteriaceae | Salmonella  | nan                 | ssp. enterica sv. Kentucky O8 98/39 |                                    1 |
-| ACF89798.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | Schwarzengrund                      |                                    1 |
-| ACH73921.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | Dublin                              |                                    1 |
-| ACH50550.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | Agona                               |                                    1 |
-| CAS11643.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O127                                |                                    1 |
-| CAR10598.2          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O81                                 |                                    1 |
-| BAI33073.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O103                                |                                    1 |
-| ADT77417.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O6                                  |                                    1 |
+| accession      | order            | family             | genus       | species             | serotype                            |   Enterobacterial common antigen Wzy |
+|:---------------|:-----------------|:-------------------|:------------|:--------------------|:------------------------------------|-------------------------------------:|
+| AAC45844.1     | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O8                                  |                                    1 |
+| ACF61556.1     | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | ssp. enterica sv. Newport           |                                    1 |
+| ACF69242.1     | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | Heidelberg                          |                                    1 |
+| WP_000055605.1 | Enterobacterales | Enterobacteriaceae | Salmonella  | nan                 | ssp. enterica sv. Kentucky O8 98/39 |                                    1 |
+| ACF89798.1     | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | Schwarzengrund                      |                                    1 |
+| ACH73921.1     | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | Dublin                              |                                    1 |
+| ACH50550.1     | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | Agona                               |                                    1 |
+| CAS11643.1     | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O127                                |                                    1 |
+| CAR10598.2     | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O81                                 |                                    1 |
+| BAI33073.1     | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O103                                |                                    1 |
+| ADT77417.1     | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O6                                  |                                    1 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0548_8/sequences.afa)
 
@@ -72,7 +76,7 @@ Y 160 (98.4%) Y 275 (100.0%) Y 295 (97.8%) Y 331 (98.5%) R 338 (100.0%) R 382 (1
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -132,8 +136,8 @@ Y 160 (98.4%) Y 275 (100.0%) Y 295 (97.8%) Y 331 (98.5%) R 338 (100.0%) R 382 (1
 |                        |                            | Samsonia (1)                        |
 |                        |                            | Musicola (1)                        |
 |                        | Erwiniaceae (52)           | Pantoea (25)                        |
+|                        |                            | nan (19)                            |
 |                        |                            | Erwinia (16)                        |
-|                        |                            | nan (6)                             |
 |                        |                            | Tatumella (4)                       |
 |                        |                            | Mixta (3)                           |
 |                        |                            | Izhakiella (2)                      |
@@ -145,6 +149,7 @@ Y 160 (98.4%) Y 275 (100.0%) Y 295 (97.8%) Y 331 (98.5%) R 338 (100.0%) R 382 (1
 |                        | Budviciaceae (3)           | Jinshanibacter (1)                  |
 |                        |                            | Pragia (1)                          |
 |                        |                            | Budvicia (1)                        |
+|                        | nan (3)                    | nan (19)                            |
 |                        | Bruguierivoracaceae (2)    | Sodalis (2)                         |
 | Pasteurellales (42)    | Pasteurellaceae (42)       | Glaesserella (13)                   |
 |                        |                            | Actinobacillus (8)                  |
@@ -161,37 +166,38 @@ Y 160 (98.4%) Y 275 (100.0%) Y 295 (97.8%) Y 331 (98.5%) R 338 (100.0%) R 382 (1
 | Vibrionales (3)        | Vibrionaceae (3)           | Vibrio (2)                          |
 |                        |                            | Aliivibrio (1)                      |
 | Pseudomonadales (2)    | Pseudomonadaceae (2)       | Pseudomonas (2)                     |
-| Flavobacteriales (1)   | nan (2)                    | nan (6)                             |
+| Flavobacteriales (1)   | nan (3)                    | nan (19)                            |
 | Alteromonadales (1)    | Pseudoalteromonadaceae (1) | Flocculibacter (1)                  |
 | Moraxellales (1)       | Moraxellaceae (1)          | Acinetobacter (1)                   |
 | Xanthomonadales (1)    | Rhodanobacteraceae (1)     | Dyella (1)                          |
-| nan (1)                | nan (2)                    | nan (6)                             |
+| nan (1)                | nan (3)                    | nan (19)                            |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 3
+
 Total number of members in cluster: 478
 
 Average length of proteins in cluster: 398.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 824 (98.3%) R 1156 (100.0%) D 1224 (100.0%) 
+R 824, R 1156, D 1224
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI33309.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 13         |                                    0 |
-| CAI33441.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 16A        |                                    0 |
-| CAI34080.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 29         |                                    0 |
-| CAI34348.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 35F        |                                    0 |
-| CAI34286.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 35A        |                                    0 |
-| CAI34310.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 35B        |                                    0 |
-| CAI34328.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 35C        |                                    0 |
-| CAI34369.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 36         |                                    0 |
-| CAI34519.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 42         |                                    0 |
-| CAI34657.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 47F        |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI33309.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 13         |                                    0 |
+| CAI33441.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 16A        |                                    0 |
+| CAI34080.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 29         |                                    0 |
+| CAI34348.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 35F        |                                    0 |
+| CAI34286.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 35A        |                                    0 |
+| CAI34310.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 35B        |                                    0 |
+| CAI34328.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 35C        |                                    0 |
+| CAI34369.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 36         |                                    0 |
+| CAI34519.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 42         |                                    0 |
+| CAI34657.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 47F        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0478_3/sequences.afa)
 
@@ -207,61 +213,43 @@ R 824 (98.3%) R 1156 (100.0%) D 1224 (100.0%)
 
 #### Sugars in cluster:
 
-CAI33309.1 Streptococcus pneumoniae 13:
+CAI34286.1 (Streptococcus pneumoniae 35A)
 
-![](../../../csdb/images/7061.gif)
+![](../../../csdb/images/1611.gif)1611
 
-CSDB record ID: 7061
+CAI34348.1 (Streptococcus pneumoniae 35F)
 
-CAI33441.1 Streptococcus pneumoniae 16A:
+![](../../../csdb/images/7095.gif)7095
 
-![](../../../csdb/images/1490.gif)
+CAI34657.1 (Streptococcus pneumoniae 47F)
 
-CSDB record ID: 1490
+![](../../../csdb/images/25005.gif)25005
 
-CAI34080.1 Streptococcus pneumoniae 29:
+CAI34519.1 (Streptococcus pneumoniae 42)
 
-![](../../../csdb/images/1227.gif)
+![](../../../csdb/images/25003.gif)25003
 
-CSDB record ID: 1227
+CAI34310.1 (Streptococcus pneumoniae 35B)
 
-CAI34348.1 Streptococcus pneumoniae 35F:
+![](../../../csdb/images/1609.gif)1609
 
-![](../../../csdb/images/7095.gif)
+CAI33309.1 (Streptococcus pneumoniae 13)
 
-CSDB record ID: 7095
+![](../../../csdb/images/7061.gif)7061
 
-CAI34286.1 Streptococcus pneumoniae 35A:
+CAI34328.1 (Streptococcus pneumoniae 35C)
 
-![](../../../csdb/images/1611.gif)
+![](../../../csdb/images/7097.gif)7097
 
-CSDB record ID: 1611
+CAI33441.1 (Streptococcus pneumoniae 16A)
 
-CAI34310.1 Streptococcus pneumoniae 35B:
+![](../../../csdb/images/1490.gif)1490
 
-![](../../../csdb/images/1609.gif)
+CAI34080.1 (Streptococcus pneumoniae 29)
 
-CSDB record ID: 1609
+![](../../../csdb/images/1227.gif)1227
 
-CAI34328.1 Streptococcus pneumoniae 35C:
-
-![](../../../csdb/images/7097.gif)
-
-CSDB record ID: 7097
-
-CAI34519.1 Streptococcus pneumoniae 42:
-
-![](../../../csdb/images/25003.gif)
-
-CSDB record ID: 25003
-
-CAI34657.1 Streptococcus pneumoniae 47F:
-
-![](../../../csdb/images/25005.gif)
-
-CSDB record ID: 25005
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -271,95 +259,99 @@ CSDB record ID: 25005
 
 #### Taxonomy:
 
-| order (count)          | family (count)          | genus (count)            |
-|:-----------------------|:------------------------|:-------------------------|
-| Lactobacillales (301)  | Lactobacillaceae (170)  | Limosilactobacillus (67) |
-|                        |                         | Lactiplantibacillus (31) |
-|                        |                         | Ligilactobacillus (18)   |
-|                        |                         | Lactobacillus (15)       |
-|                        |                         | Loigolactobacillus (9)   |
-|                        |                         | Pediococcus (8)          |
-|                        |                         | Liquorilactobacillus (6) |
-|                        |                         | Levilactobacillus (3)    |
-|                        |                         | Lacticaseibacillus (3)   |
-|                        |                         | Companilactobacillus (3) |
-|                        |                         | Latilactobacillus (2)    |
-|                        |                         | Paucilactobacillus (2)   |
-|                        |                         | Fructilactobacillus (1)  |
-|                        | Streptococcaceae (129)  | Streptococcus (129)      |
-|                        | Enterococcaceae (1)     | Bavariicoccus (1)        |
-| Eubacteriales (138)    | Lachnospiraceae (87)    | nan (19)                 |
-|                        |                         | Coprococcus (9)          |
-|                        |                         | Blautia (6)              |
-|                        |                         | Mediterraneibacter (3)   |
-|                        |                         | Oribacterium (3)         |
-|                        |                         | Lachnoclostridium (2)    |
-|                        |                         | Enterocloster (2)        |
-|                        |                         | Dorea (2)                |
-|                        |                         | Bilifractor (2)          |
-|                        |                         | Lacrimispora (1)         |
-|                        |                         | Muricomes (1)            |
-|                        |                         | Luxibacter (1)           |
-|                        |                         | Bariatricus (1)          |
-|                        |                         | Kineothrix (1)           |
-|                        |                         | Butyrivibrio (1)         |
-|                        |                         | Anaerostipes (1)         |
-|                        |                         | Faecalicatena (1)        |
-|                        |                         | Fusicatenibacter (1)     |
-|                        |                         | Lachnospira (1)          |
-|                        |                         | Parasporobacterium (1)   |
-|                        |                         | Roseburia (1)            |
-|                        |                         | Eisenbergiella (1)       |
-|                        | Clostridiaceae (13)     | Clostridium (9)          |
-|                        | Eubacteriaceae (13)     | Eubacterium (7)          |
-|                        |                         | Pseudoramibacter (6)     |
-|                        | Oscillospiraceae (12)   | Ruminococcus (4)         |
-|                        |                         | Pseudoflavonifractor (1) |
-| Pasteurellales (10)    | Pasteurellaceae (10)    | Haemophilus (7)          |
-|                        |                         | Gallibacterium (2)       |
-|                        |                         | Rodentibacter (1)        |
-| nan (6)                | nan (10)                | Sedimentibacter (1)      |
-| Coriobacteriales (5)   | Atopobiaceae (3)        | nan (19)                 |
-|                        |                         | Atopobium (1)            |
-|                        | Coriobacteriaceae (2)   | Collinsella (1)          |
-| Bacteroidales (4)      | nan (10)                | nan (19)                 |
-|                        | Bacteroidaceae (3)      | Phocaeicola (2)          |
-|                        |                         | Bacteroides (1)          |
-| Erysipelotrichales (4) | Coprobacillaceae (2)    | Eggerthia (1)            |
-|                        |                         | Sharpea (1)              |
-|                        | Erysipelotrichaceae (2) | Solobacterium (2)        |
-| Bacillales (3)         | nan (10)                | Gemella (3)              |
-| Bifidobacteriales (2)  | Bifidobacteriaceae (2)  | Bifidobacterium (2)      |
-| Selenomonadales (1)    | Selenomonadaceae (1)    | Anaerovibrio (1)         |
-| Enterobacterales (1)   | Enterobacteriaceae (1)  | Citrobacter (1)          |
-| Eggerthellales (1)     | Eggerthellaceae (1)     | Berryella (1)            |
-| Actinomycetales (1)    | Actinomycetaceae (1)    | nan (19)                 |
-| Veillonellales (1)     | Veillonellaceae (1)     | Dialister (1)            |
+| order (count)          | family (count)          | genus (count)                       |
+|:-----------------------|:------------------------|:------------------------------------|
+| Lactobacillales (301)  | Lactobacillaceae (170)  | Limosilactobacillus (67)            |
+|                        |                         | Lactiplantibacillus (31)            |
+|                        |                         | Ligilactobacillus (18)              |
+|                        |                         | Lactobacillus (15)                  |
+|                        |                         | Loigolactobacillus (9)              |
+|                        |                         | Pediococcus (8)                     |
+|                        |                         | Liquorilactobacillus (6)            |
+|                        |                         | Levilactobacillus (3)               |
+|                        |                         | Lacticaseibacillus (3)              |
+|                        |                         | Companilactobacillus (3)            |
+|                        |                         | Latilactobacillus (2)               |
+|                        |                         | Paucilactobacillus (2)              |
+|                        |                         | Fructilactobacillus (1)             |
+|                        | Streptococcaceae (129)  | Streptococcus (129)                 |
+|                        | nan (24)                | nan (81)                            |
+|                        | Enterococcaceae (1)     | Bavariicoccus (1)                   |
+| Eubacteriales (138)    | Lachnospiraceae (87)    | nan (81)                            |
+|                        |                         | Coprococcus (9)                     |
+|                        |                         | Blautia (6)                         |
+|                        |                         | Mediterraneibacter (3)              |
+|                        |                         | Oribacterium (3)                    |
+|                        |                         | Lachnoclostridium (2)               |
+|                        |                         | Enterocloster (2)                   |
+|                        |                         | Dorea (2)                           |
+|                        |                         | Bilifractor (2)                     |
+|                        |                         | Lacrimispora (1)                    |
+|                        |                         | Muricomes (1)                       |
+|                        |                         | Luxibacter (1)                      |
+|                        |                         | Bariatricus (1)                     |
+|                        |                         | Kineothrix (1)                      |
+|                        |                         | Butyrivibrio (1)                    |
+|                        |                         | Anaerostipes (1)                    |
+|                        |                         | Faecalicatena (1)                   |
+|                        |                         | Fusicatenibacter (1)                |
+|                        |                         | Lachnospira (1)                     |
+|                        |                         | Parasporobacterium (1)              |
+|                        |                         | Roseburia (1)                       |
+|                        |                         | Eisenbergiella (1)                  |
+|                        | nan (24)                | nan (81)                            |
+|                        | Clostridiaceae (13)     | Clostridium (9)                     |
+|                        | Eubacteriaceae (13)     | Eubacterium (7)                     |
+|                        |                         | Pseudoramibacter (6)                |
+|                        | Oscillospiraceae (12)   | Ruminococcus (4)                    |
+|                        |                         | Pseudoflavonifractor (1)            |
+| Pasteurellales (10)    | Pasteurellaceae (10)    | Haemophilus (7)                     |
+|                        |                         | Gallibacterium (2)                  |
+|                        |                         | Rodentibacter (1)                   |
+| nan (6)                | nan (24)                | Sedimentibacter (1)                 |
+|                        |                         | Candidatus Avigastranaerophilus (1) |
+| Coriobacteriales (5)   | Atopobiaceae (3)        | nan (81)                            |
+|                        |                         | Atopobium (1)                       |
+|                        | Coriobacteriaceae (2)   | Collinsella (1)                     |
+| Bacteroidales (4)      | nan (24)                | nan (81)                            |
+|                        | Bacteroidaceae (3)      | Phocaeicola (2)                     |
+|                        |                         | Bacteroides (1)                     |
+| Erysipelotrichales (4) | Coprobacillaceae (2)    | Eggerthia (1)                       |
+|                        |                         | Sharpea (1)                         |
+|                        | Erysipelotrichaceae (2) | Solobacterium (2)                   |
+| Bacillales (3)         | nan (24)                | Gemella (3)                         |
+| Bifidobacteriales (2)  | Bifidobacteriaceae (2)  | Bifidobacterium (2)                 |
+| Selenomonadales (1)    | Selenomonadaceae (1)    | Anaerovibrio (1)                    |
+| Enterobacterales (1)   | Enterobacteriaceae (1)  | Citrobacter (1)                     |
+| Eggerthellales (1)     | Eggerthellaceae (1)     | Berryella (1)                       |
+| Actinomycetales (1)    | Actinomycetaceae (1)    | nan (81)                            |
+| Veillonellales (1)     | Veillonellaceae (1)     | Dialister (1)                       |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 32
+
 Total number of members in cluster: 270
 
 Average length of proteins in cluster: 348.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 199 (99.6%) Y 205 (97.8%) R 351 (100.0%) H 393 (100.0%) R 664 (100.0%) 
+D 199, Y 205, R 351, H 393, R 664
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|-------------------------------------:|
-| AHB32462.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O17        |                                    0 |
-| AFV46136.1          | Enterobacterales | Yersiniaceae       | Yersinia      | Yersinia similis        | O:12       |                                    0 |
-| BAQ01024.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O51        |                                    0 |
-| ADC54967.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O75        |                                    0 |
-| BAQ00622.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O10        |                                    0 |
-| AQU71752.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O1         |                                    0 |
-| AFW04820.1          | Enterobacterales | Enterobacteriaceae | Salmonella    | Salmonella enterica     | O11        |                                    0 |
-| AFW04883.1          | Enterobacterales | Enterobacteriaceae | Salmonella    | Salmonella enterica     | O57        |                                    0 |
-| ABX51892.1          | Enterobacterales | Enterobacteriaceae | Cronobacter   | Cronobacter sakazakii   | O2         |                                    0 |
+| accession   | order            | family             | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|-------------------------------------:|
+| AHB32462.1  | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O17        |                                    0 |
+| AFV46136.1  | Enterobacterales | Yersiniaceae       | Yersinia      | Yersinia similis        | O:12       |                                    0 |
+| BAQ01024.1  | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O51        |                                    0 |
+| ADC54967.1  | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O75        |                                    0 |
+| BAQ00622.1  | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O10        |                                    0 |
+| AQU71752.1  | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O1         |                                    0 |
+| AFW04820.1  | Enterobacterales | Enterobacteriaceae | Salmonella    | Salmonella enterica     | O11        |                                    0 |
+| AFW04883.1  | Enterobacterales | Enterobacteriaceae | Salmonella    | Salmonella enterica     | O57        |                                    0 |
+| ABX51892.1  | Enterobacterales | Enterobacteriaceae | Cronobacter   | Cronobacter sakazakii   | O2         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0270_32/sequences.afa)
 
@@ -375,49 +367,35 @@ D 199 (99.6%) Y 205 (97.8%) R 351 (100.0%) H 393 (100.0%) R 664 (100.0%)
 
 #### Sugars in cluster:
 
-BAQ01024.1 Escherichia coli O51:
+ABX51892.1 (Cronobacter sakazakii O2)
 
-![](../../../csdb/images/1558.gif)
+![](../../../csdb/images/27572.gif)27572
 
-CSDB record ID: 1558
+ADC54967.1 (Escherichia coli O75)
 
-ADC54967.1 Escherichia coli O75:
+![](../../../csdb/images/619.gif)619
 
-![](../../../csdb/images/619.gif)
+AFW04820.1 (Salmonella enterica O11)
 
-CSDB record ID: 619
+![](../../../csdb/images/2600.gif)2600
 
-BAQ00622.1 Escherichia coli O10:
+BAQ01024.1 (Escherichia coli O51)
 
-![](../../../csdb/images/1512.gif)
+![](../../../csdb/images/1558.gif)1558
 
-CSDB record ID: 1512
+BAQ00622.1 (Escherichia coli O10)
 
-AQU71752.1 Escherichia coli O1:
+![](../../../csdb/images/1512.gif)1512
 
-![](../../../csdb/images/7222.gif)
+AQU71752.1 (Escherichia coli O1)
 
-CSDB record ID: 7222
+![](../../../csdb/images/7222.gif)7222
 
-AFW04820.1 Salmonella enterica O11:
+AFW04883.1 (Salmonella enterica O57)
 
-![](../../../csdb/images/2600.gif)
+![](../../../csdb/images/701.gif)701
 
-CSDB record ID: 2600
-
-AFW04883.1 Salmonella enterica O57:
-
-![](../../../csdb/images/701.gif)
-
-CSDB record ID: 701
-
-ABX51892.1 Cronobacter sakazakii O2:
-
-![](../../../csdb/images/27572.gif)
-
-CSDB record ID: 27572
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -433,9 +411,10 @@ CSDB record ID: 27572
 |                        |                            | Prevotellamassilia (1)  |
 |                        | Bacteroidaceae (33)        | Bacteroides (11)        |
 |                        |                            | Phocaeicola (1)         |
+|                        | nan (23)                   | nan (54)                |
 |                        | Rikenellaceae (7)          | Alistipes (7)           |
-|                        | Paludibacteraceae (4)      | nan (9)                 |
-|                        | Muribaculaceae (1)         | nan (9)                 |
+|                        | Paludibacteraceae (4)      | nan (54)                |
+|                        | Muribaculaceae (1)         | nan (54)                |
 |                        | Tannerellaceae (1)         | Parabacteroides (1)     |
 | Enterobacterales (84)  | Enterobacteriaceae (68)    | Escherichia (25)        |
 |                        |                            | Salmonella (14)         |
@@ -456,7 +435,7 @@ CSDB record ID: 27572
 |                        |                            | Proteus (1)             |
 |                        | Pectobacteriaceae (3)      | Pectobacterium (2)      |
 |                        |                            | Dickeya (1)             |
-|                        | Budviciaceae (1)           | nan (9)                 |
+|                        | Budviciaceae (1)           | nan (54)                |
 |                        | Erwiniaceae (1)            | Pantoea (1)             |
 | Flavobacteriales (24)  | Weeksellaceae (15)         | Chryseobacterium (11)   |
 |                        |                            | Epilithonimonas (3)     |
@@ -464,17 +443,18 @@ CSDB record ID: 27572
 |                        | Flavobacteriaceae (9)      | Flavobacterium (6)      |
 |                        |                            | Maribacter (1)          |
 |                        |                            | Cellulophaga (1)        |
-| Burkholderiales (11)   | Oxalobacteraceae (5)       | Janthinobacterium (5)   |
+| Burkholderiales (11)   | nan (23)                   | nan (54)                |
+|                        | Oxalobacteraceae (5)       | Janthinobacterium (5)   |
 |                        | Comamonadaceae (3)         | Comamonas (2)           |
 |                        |                            | Acidovorax (1)          |
 |                        | Burkholderiaceae (2)       | Ralstonia (1)           |
 |                        |                            | Cupriavidus (1)         |
-| nan (9)                | nan (22)                   | nan (9)                 |
+| nan (9)                | nan (23)                   | nan (54)                |
 | Sphingobacteriales (8) | Sphingobacteriaceae (8)    | Pedobacter (6)          |
 |                        |                            | Arcticibacter (1)       |
 |                        |                            | Mucilaginibacter (1)    |
 | Moraxellales (5)       | Moraxellaceae (5)          | Acinetobacter (5)       |
-| Chitinophagales (5)    | Chitinophagaceae (5)       | nan (9)                 |
+| Chitinophagales (5)    | Chitinophagaceae (5)       | nan (54)                |
 |                        |                            | Chitinophaga (2)        |
 |                        |                            | Ferruginibacter (1)     |
 | Vibrionales (4)        | Vibrionaceae (4)           | Vibrio (3)              |
@@ -486,34 +466,36 @@ CSDB record ID: 27572
 | Alteromonadales (3)    | Pseudoalteromonadaceae (1) | Pseudoalteromonas (1)   |
 |                        | Moritellaceae (1)          | Moritella (1)           |
 |                        | Colwelliaceae (1)          | Colwellia (1)           |
-| Campylobacterales (3)  | Arcobacteraceae (1)        | Aliarcobacter (1)       |
+| Campylobacterales (3)  | nan (23)                   | nan (54)                |
+|                        | Arcobacteraceae (1)        | Aliarcobacter (1)       |
 |                        | Thiovulaceae (1)           | Sulfurimonas (1)        |
 | Aeromonadales (3)      | Aeromonadaceae (3)         | Aeromonas (3)           |
 | Cytophagales (2)       | Spirosomaceae (1)          | Dyadobacter (1)         |
 |                        | Cyclobacteriaceae (1)      | Algoriphagus (1)        |
-| Rickettsiales (1)      | nan (22)                   | nan (9)                 |
+| Rickettsiales (1)      | nan (23)                   | nan (54)                |
 | Selenomonadales (1)    | Sporomusaceae (1)          | Pelosinus (1)           |
 | Neisseriales (1)       | Chromobacteriaceae (1)     | Iodobacter (1)          |
 | Aquificales (1)        | Aquificaceae (1)           | Hydrogenobacter (1)     |
 | Desulfuromonadales (1) | Geobacteraceae (1)         | Geotalea (1)            |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 15
+
 Total number of members in cluster: 258
 
 Average length of proteins in cluster: 430.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 503 (99.2%) R 506 (100.0%) Y 533 (99.2%) K 582 (97.3%) R 709 (100.0%) N 814 (99.2%) 
+Y 503, R 506, Y 533, K 582, R 709, N 814
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| CDF66396.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia similis | O:9        |                                    0 |
-| BAQ00780.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O30        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| CDF66396.1  | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia similis | O:9        |                                    0 |
+| BAQ00780.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O30        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0258_15/sequences.afa)
 
@@ -529,19 +511,15 @@ Y 503 (99.2%) R 506 (100.0%) Y 533 (99.2%) K 582 (97.3%) R 709 (100.0%) N 814 (9
 
 #### Sugars in cluster:
 
-CDF66396.1 Yersinia pseudotuberculosis O:9:
+CDF66396.1 (Yersinia similis O:9)
 
-![](../../../csdb/images/12130.gif)
+![](../../../csdb/images/12130.gif)12130
 
-CSDB record ID: 12130
+BAQ00780.1 (Escherichia coli O30)
 
-BAQ00780.1 Escherichia coli O30:
+![](../../../csdb/images/1539.gif)1539
 
-![](../../../csdb/images/1539.gif)
-
-CSDB record ID: 1539
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -549,126 +527,131 @@ CSDB record ID: 1539
 
 #### Taxonomy:
 
-| order (count)           | family (count)                               | genus (count)                |
-|:------------------------|:---------------------------------------------|:-----------------------------|
-| Bacillales (79)         | Listeriaceae (49)                            | Listeria (49)                |
-|                         | Bacillaceae (21)                             | Bacillus (12)                |
-|                         |                                              | Peribacillus (4)             |
-|                         |                                              | Halobacillus (1)             |
-|                         |                                              | Neobacillus (1)              |
-|                         |                                              | Virgibacillus (1)            |
-|                         |                                              | Rossellomorea (1)            |
-|                         | Paenibacillaceae (4)                         | Aneurinibacillus (3)         |
-|                         |                                              | Cohnella (1)                 |
-|                         | Staphylococcaceae (3)                        | Staphylococcus (2)           |
-|                         |                                              | Jeotgalicoccus (1)           |
-|                         | Planococcaceae (2)                           | Paenisporosarcina (1)        |
-|                         |                                              | Planomicrobium (1)           |
-| Bacteroidales (33)      | Prevotellaceae (14)                          | Prevotella (13)              |
-|                         | Bacteroidaceae (6)                           | Bacteroides (6)              |
-|                         | Odoribacteraceae (2)                         | Butyricimonas (2)            |
-|                         | Porphyromonadaceae (2)                       | Sanguibacteroides (2)        |
-| Flavobacteriales (28)   | Flavobacteriaceae (17)                       | Muricauda (3)                |
-|                         |                                              | Flavobacterium (2)           |
-|                         |                                              | Maribacter (2)               |
-|                         |                                              | Myroides (1)                 |
-|                         |                                              | Galbibacter (1)              |
-|                         |                                              | Cellulophaga (1)             |
-|                         |                                              | Winogradskyella (1)          |
-|                         |                                              | Pseudozobellia (1)           |
-|                         |                                              | Zobellia (1)                 |
-|                         |                                              | Pareuzebyella (1)            |
-|                         |                                              | Zeaxanthinibacter (1)        |
-|                         |                                              | Aquimarina (1)               |
-|                         |                                              | Polaribacter (1)             |
-|                         | Weeksellaceae (6)                            | Chryseobacterium (5)         |
-|                         |                                              | Elizabethkingia (1)          |
-|                         | Crocinitomicaceae (1)                        | nan (2)                      |
-| nan (13)                | nan (27)                                     | nan (2)                      |
-| Burkholderiales (11)    | Comamonadaceae (5)                           | Ramlibacter (2)              |
-|                         |                                              | Rhodoferax (2)               |
-|                         |                                              | Limnohabitans (1)            |
-|                         | Burkholderiaceae (3)                         | Pandoraea (2)                |
-|                         | Alcaligenaceae (2)                           | Achromobacter (2)            |
-|                         | Oxalobacteraceae (1)                         | Janthinobacterium (1)        |
-| Hyphomicrobiales (11)   | Phyllobacteriaceae (8)                       | Mesorhizobium (7)            |
-|                         |                                              | Hoeflea (1)                  |
-|                         | Bradyrhizobiaceae (2)                        | Nitrobacter (1)              |
-|                         |                                              | Afipia (1)                   |
-|                         | Rhizobiaceae (1)                             | nan (2)                      |
-| Eubacteriales (11)      | Clostridiaceae (4)                           | Caminicella (1)              |
-|                         |                                              | Clostridium (1)              |
-|                         |                                              | Alkaliphilus (1)             |
-|                         |                                              | Paraclostridium (1)          |
-|                         | Lachnospiraceae (2)                          | nan (2)                      |
-|                         |                                              | Lachnoclostridium (1)        |
-|                         | Oscillospiraceae (2)                         | Ruminiclostridium (1)        |
-|                         |                                              | Hydrogenoanaerobacterium (1) |
-|                         | Proteinivoraceae (1)                         | Anaerobranca (1)             |
-|                         | Eubacteriales Family XII. Incertae Sedis (1) | Fusibacter (1)               |
-| Sphingomonadales (9)    | Sphingomonadaceae (7)                        | Citromicrobium (2)           |
-|                         |                                              | Sphingomonas (2)             |
-|                         |                                              | Sphingopyxis (2)             |
-|                         |                                              | Sphingobium (1)              |
-|                         | Erythrobacteraceae (1)                       | Alteriqipengyuania (1)       |
-|                         | Sphingosinicellaceae (1)                     | Sphingosinicella (1)         |
-| Vibrionales (9)         | Vibrionaceae (9)                             | Vibrio (8)                   |
-|                         |                                              | Aliivibrio (1)               |
-| Enterobacterales (8)    | Enterobacteriaceae (4)                       | Escherichia (4)              |
-|                         | Morganellaceae (3)                           | Xenorhabdus (2)              |
-|                         |                                              | Proteus (1)                  |
-|                         | Yersiniaceae (1)                             | Yersinia (1)                 |
-| Lactobacillales (8)     | Enterococcaceae (6)                          | Enterococcus (6)             |
-|                         | Carnobacteriaceae (1)                        | Carnobacterium (1)           |
-|                         | Lactobacillaceae (1)                         | Ligilactobacillus (1)        |
-| Pseudomonadales (6)     | Pseudomonadaceae (5)                         | Pseudomonas (5)              |
-|                         | Marinobacteraceae (1)                        | Marinobacter (1)             |
-| Moraxellales (5)        | Moraxellaceae (5)                            | Acinetobacter (5)            |
-| Oceanospirillales (3)   | Oceanospirillaceae (2)                       | Marinomonas (1)              |
-|                         |                                              | Oceanospirillum (1)          |
-|                         | Halomonadaceae (1)                           | Halomonas (1)                |
-| Alteromonadales (3)     | Idiomarinaceae (1)                           | Idiomarina (1)               |
-|                         | Pseudoalteromonadaceae (1)                   | Pseudoalteromonas (1)        |
-|                         | Alteromonadaceae (1)                         | Alteromonas (1)              |
-| Campylobacterales (3)   | Arcobacteraceae (2)                          | Aliarcobacter (2)            |
-|                         | Campylobacteraceae (1)                       | Campylobacter (1)            |
-| Micrococcales (2)       | Microbacteriaceae (1)                        | Microbacterium (1)           |
-|                         | Micrococcaceae (1)                           | Citricoccus (1)              |
-| Nostocales (2)          | Aphanizomenonaceae (1)                       | Sphaerospermopsis (1)        |
-|                         | Calotrichaceae (1)                           | Calothrix (1)                |
-| Marinilabiliales (1)    | Marinifilaceae (1)                           | Marinifilum (1)              |
-| Pseudonocardiales (1)   | Pseudonocardiaceae (1)                       | Pseudonocardia (1)           |
-| Pirellulales (1)        | Pirellulaceae (1)                            | Lignipirellula (1)           |
-| Planctomycetales (1)    | Planctomycetaceae (1)                        | Rubinisphaera (1)            |
-| Micromonosporales (1)   | Micromonosporaceae (1)                       | Actinoplanes (1)             |
-| Tissierellales (1)      | Tissierellaceae (1)                          | Tepidimicrobium (1)          |
-| Sphingobacteriales (1)  | Sphingobacteriaceae (1)                      | Solitalea (1)                |
-| Propionibacteriales (1) | Actinopolymorphaceae (1)                     | Actinopolymorpha (1)         |
-| Elusimicrobiales (1)    | Elusimicrobiaceae (1)                        | nan (2)                      |
-| Nitrosomonadales (1)    | Nitrosomonadaceae (1)                        | Nitrosomonas (1)             |
-| Rhodobacterales (1)     | Roseobacteraceae (1)                         | Roseovarius (1)              |
-| Chromatiales (1)        | Ectothiorhodospiraceae (1)                   | Thioalkalivibrio (1)         |
-| Dictyoglomales (1)      | Dictyoglomaceae (1)                          | Dictyoglomus (1)             |
-| Eggerthellales (1)      | Eggerthellaceae (1)                          | Adlercreutzia (1)            |
+| order (count)           | family (count)                               | genus (count)                 |
+|:------------------------|:---------------------------------------------|:------------------------------|
+| Bacillales (79)         | Listeriaceae (49)                            | Listeria (49)                 |
+|                         | Bacillaceae (21)                             | Bacillus (12)                 |
+|                         |                                              | Peribacillus (4)              |
+|                         |                                              | Halobacillus (1)              |
+|                         |                                              | Neobacillus (1)               |
+|                         |                                              | Virgibacillus (1)             |
+|                         |                                              | Rossellomorea (1)             |
+|                         | Paenibacillaceae (4)                         | Aneurinibacillus (3)          |
+|                         |                                              | Cohnella (1)                  |
+|                         | Staphylococcaceae (3)                        | Staphylococcus (2)            |
+|                         |                                              | Jeotgalicoccus (1)            |
+|                         | Planococcaceae (2)                           | Paenisporosarcina (1)         |
+|                         |                                              | Planomicrobium (1)            |
+| Bacteroidales (33)      | nan (27)                                     | nan (33)                      |
+|                         | Prevotellaceae (14)                          | Prevotella (13)               |
+|                         | Bacteroidaceae (6)                           | Bacteroides (6)               |
+|                         | Odoribacteraceae (2)                         | Butyricimonas (2)             |
+|                         | Porphyromonadaceae (2)                       | Sanguibacteroides (2)         |
+| Flavobacteriales (28)   | nan (27)                                     | nan (33)                      |
+|                         | Flavobacteriaceae (17)                       | Muricauda (3)                 |
+|                         |                                              | Flavobacterium (2)            |
+|                         |                                              | Maribacter (2)                |
+|                         |                                              | Myroides (1)                  |
+|                         |                                              | Galbibacter (1)               |
+|                         |                                              | Cellulophaga (1)              |
+|                         |                                              | Winogradskyella (1)           |
+|                         |                                              | Pseudozobellia (1)            |
+|                         |                                              | Zobellia (1)                  |
+|                         |                                              | Pareuzebyella (1)             |
+|                         |                                              | Zeaxanthinibacter (1)         |
+|                         |                                              | Aquimarina (1)                |
+|                         |                                              | Polaribacter (1)              |
+|                         | Weeksellaceae (6)                            | Chryseobacterium (5)          |
+|                         |                                              | Elizabethkingia (1)           |
+|                         | Crocinitomicaceae (1)                        | nan (33)                      |
+| nan (13)                | nan (27)                                     | nan (33)                      |
+|                         |                                              | Candidatus Bipolaricaulis (1) |
+| Burkholderiales (11)    | Comamonadaceae (5)                           | Ramlibacter (2)               |
+|                         |                                              | Rhodoferax (2)                |
+|                         |                                              | Limnohabitans (1)             |
+|                         | Burkholderiaceae (3)                         | Pandoraea (2)                 |
+|                         | Alcaligenaceae (2)                           | Achromobacter (2)             |
+|                         | Oxalobacteraceae (1)                         | Janthinobacterium (1)         |
+| Hyphomicrobiales (11)   | Phyllobacteriaceae (8)                       | Mesorhizobium (7)             |
+|                         |                                              | Hoeflea (1)                   |
+|                         | Bradyrhizobiaceae (2)                        | Nitrobacter (1)               |
+|                         |                                              | Afipia (1)                    |
+|                         | Rhizobiaceae (1)                             | nan (33)                      |
+| Eubacteriales (11)      | nan (27)                                     | nan (33)                      |
+|                         | Clostridiaceae (4)                           | Caminicella (1)               |
+|                         |                                              | Clostridium (1)               |
+|                         |                                              | Alkaliphilus (1)              |
+|                         |                                              | Paraclostridium (1)           |
+|                         | Lachnospiraceae (2)                          | nan (33)                      |
+|                         |                                              | Lachnoclostridium (1)         |
+|                         | Oscillospiraceae (2)                         | Ruminiclostridium (1)         |
+|                         |                                              | Hydrogenoanaerobacterium (1)  |
+|                         | Proteinivoraceae (1)                         | Anaerobranca (1)              |
+|                         | Eubacteriales Family XII. Incertae Sedis (1) | Fusibacter (1)                |
+| Sphingomonadales (9)    | Sphingomonadaceae (7)                        | Citromicrobium (2)            |
+|                         |                                              | Sphingomonas (2)              |
+|                         |                                              | Sphingopyxis (2)              |
+|                         |                                              | Sphingobium (1)               |
+|                         | Erythrobacteraceae (1)                       | Alteriqipengyuania (1)        |
+|                         | Sphingosinicellaceae (1)                     | Sphingosinicella (1)          |
+| Vibrionales (9)         | Vibrionaceae (9)                             | Vibrio (8)                    |
+|                         |                                              | Aliivibrio (1)                |
+| Enterobacterales (8)    | Enterobacteriaceae (4)                       | Escherichia (4)               |
+|                         | Morganellaceae (3)                           | Xenorhabdus (2)               |
+|                         |                                              | Proteus (1)                   |
+|                         | Yersiniaceae (1)                             | Yersinia (1)                  |
+| Lactobacillales (8)     | Enterococcaceae (6)                          | Enterococcus (6)              |
+|                         | Carnobacteriaceae (1)                        | Carnobacterium (1)            |
+|                         | Lactobacillaceae (1)                         | Ligilactobacillus (1)         |
+| Pseudomonadales (6)     | Pseudomonadaceae (5)                         | Pseudomonas (5)               |
+|                         | Marinobacteraceae (1)                        | Marinobacter (1)              |
+| Moraxellales (5)        | Moraxellaceae (5)                            | Acinetobacter (5)             |
+| Oceanospirillales (3)   | Oceanospirillaceae (2)                       | Marinomonas (1)               |
+|                         |                                              | Oceanospirillum (1)           |
+|                         | Halomonadaceae (1)                           | Halomonas (1)                 |
+| Alteromonadales (3)     | Idiomarinaceae (1)                           | Idiomarina (1)                |
+|                         | Pseudoalteromonadaceae (1)                   | Pseudoalteromonas (1)         |
+|                         | Alteromonadaceae (1)                         | Alteromonas (1)               |
+| Campylobacterales (3)   | Arcobacteraceae (2)                          | Aliarcobacter (2)             |
+|                         | Campylobacteraceae (1)                       | Campylobacter (1)             |
+| Micrococcales (2)       | Microbacteriaceae (1)                        | Microbacterium (1)            |
+|                         | Micrococcaceae (1)                           | Citricoccus (1)               |
+| Nostocales (2)          | Aphanizomenonaceae (1)                       | Sphaerospermopsis (1)         |
+|                         | Calotrichaceae (1)                           | Calothrix (1)                 |
+| Marinilabiliales (1)    | Marinifilaceae (1)                           | Marinifilum (1)               |
+| Pseudonocardiales (1)   | Pseudonocardiaceae (1)                       | Pseudonocardia (1)            |
+| Pirellulales (1)        | Pirellulaceae (1)                            | Lignipirellula (1)            |
+| Planctomycetales (1)    | Planctomycetaceae (1)                        | Rubinisphaera (1)             |
+| Micromonosporales (1)   | Micromonosporaceae (1)                       | Actinoplanes (1)              |
+| Tissierellales (1)      | Tissierellaceae (1)                          | Tepidimicrobium (1)           |
+| Sphingobacteriales (1)  | Sphingobacteriaceae (1)                      | Solitalea (1)                 |
+| Propionibacteriales (1) | Actinopolymorphaceae (1)                     | Actinopolymorpha (1)          |
+| Elusimicrobiales (1)    | Elusimicrobiaceae (1)                        | nan (33)                      |
+| Nitrosomonadales (1)    | Nitrosomonadaceae (1)                        | Nitrosomonas (1)              |
+| Rhodobacterales (1)     | Roseobacteraceae (1)                         | Roseovarius (1)               |
+| Chromatiales (1)        | Ectothiorhodospiraceae (1)                   | Thioalkalivibrio (1)          |
+| Dictyoglomales (1)      | Dictyoglomaceae (1)                          | Dictyoglomus (1)              |
+| Eggerthellales (1)      | Eggerthellaceae (1)                          | Adlercreutzia (1)             |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 9
+
 Total number of members in cluster: 240
 
 Average length of proteins in cluster: 353.5
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 234 (99.6%) D 240 (99.6%) Y 244 (99.6%) R 417 (99.2%) Q 418 (100.0%) H 459 (99.6%) Y 578 (97.5%) R 627 (97.9%) D 710 (97.9%) R 711 (100.0%) 
+R 234, D 240, Y 244, R 417, Q 418, H 459, Y 578, R 627, D 710, R 711
 
 #### Seeds in cluster:
 
-| protein_accession   | order        | family        | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------------------------------------:|
-| AHB32215.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O1         |                                    0 |
-| AHB32861.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O25        |                                    0 |
-| AHB32799.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O26        |                                    0 |
+| accession   | order        | family        | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------------------------------------:|
+| AHB32215.1  | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O1         |                                    0 |
+| AHB32861.1  | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O25        |                                    0 |
+| AHB32799.1  | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O26        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0240_9/sequences.afa)
 
@@ -684,13 +667,11 @@ R 234 (99.6%) D 240 (99.6%) Y 244 (99.6%) R 417 (99.2%) Q 418 (100.0%) H 459 (99
 
 #### Sugars in cluster:
 
-AHB32215.1 Acinetobacter baumannii O1:
+AHB32215.1 (Acinetobacter baumannii O1)
 
-![](../../../csdb/images/2091.gif)
+![](../../../csdb/images/2091.gif)2091
 
-CSDB record ID: 2091
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -702,15 +683,17 @@ CSDB record ID: 2091
 
 | order (count)            | family (count)             | genus (count)               |
 |:-------------------------|:---------------------------|:----------------------------|
-| Sphingomonadales (49)    | Sphingomonadaceae (44)     | Sphingomonas (34)           |
+| Sphingomonadales (49)    | Sphingomonadaceae (44)     | nan (38)                    |
+|                          |                            | Sphingomonas (34)           |
 |                          |                            | Novosphingobium (5)         |
-|                          |                            | nan (2)                     |
 |                          |                            | Allosphingosinicella (1)    |
 |                          |                            | Novosphingopyxis (1)        |
 |                          |                            | Sphingorhabdus (1)          |
 |                          | Erythrobacteraceae (3)     | Pontixanthobacter (3)       |
 |                          | Sphingosinicellaceae (2)   | Sphingosinicella (2)        |
-| nan (26)                 | nan (2)                    | nan (2)                     |
+| nan (26)                 | nan (30)                   | nan (38)                    |
+|                          |                            | Halospina (1)               |
+|                          |                            | Thiohalorhabdus (1)         |
 | Moraxellales (21)        | Moraxellaceae (21)         | Acinetobacter (21)          |
 | Hyphomicrobiales (17)    | Methylocystaceae (6)       | Methylosinus (3)            |
 |                          |                            | Methylocystis (3)           |
@@ -721,7 +704,7 @@ CSDB record ID: 2091
 |                          | Devosiaceae (2)            | Devosia (2)                 |
 |                          | Aurantimonadaceae (2)      | Aurantimonas (1)            |
 |                          |                            | Aureimonas (1)              |
-|                          | Rhizobiaceae (1)           | nan (2)                     |
+|                          | Rhizobiaceae (1)           | nan (38)                    |
 |                          | Hyphomicrobiaceae (1)      | Rhodomicrobium (1)          |
 | Campylobacterales (15)   | Campylobacteraceae (9)     | Campylobacter (8)           |
 |                          | Sulfurovaceae (4)          | Sulfurovum (4)              |
@@ -741,7 +724,8 @@ CSDB record ID: 2091
 |                          | Roseobacteraceae (3)       | Maritimibacter (1)          |
 |                          |                            | Sulfitobacter (1)           |
 |                          |                            | Jannaschia (1)              |
-| Burkholderiales (7)      | Comamonadaceae (3)         | Polaromonas (1)             |
+| Burkholderiales (7)      | nan (30)                   | Rubrivivax (1)              |
+|                          | Comamonadaceae (3)         | Polaromonas (1)             |
 |                          |                            | Ramlibacter (1)             |
 |                          |                            | Diaphorobacter (1)          |
 |                          | Burkholderiaceae (3)       | Polynucleobacter (3)        |
@@ -751,8 +735,9 @@ CSDB record ID: 2091
 |                          | Enterobacteriaceae (1)     | Enterobacter (1)            |
 | Pseudomonadales (6)      | Marinobacteraceae (5)      | Marinobacter (5)            |
 |                          | Pseudomonadaceae (1)       | Pseudomonas (1)             |
-| Flavobacteriales (4)     | Flavobacteriaceae (1)      | Capnocytophaga (1)          |
-|                          | Crocinitomicaceae (1)      | nan (2)                     |
+| Flavobacteriales (4)     | nan (30)                   | nan (38)                    |
+|                          | Flavobacteriaceae (1)      | Capnocytophaga (1)          |
+|                          | Crocinitomicaceae (1)      | nan (38)                    |
 |                          | Weeksellaceae (1)          | Chryseobacterium (1)        |
 | Chromatiales (4)         | Ectothiorhodospiraceae (2) | Alkalilimnicola (1)         |
 |                          |                            | Spiribacter (1)             |
@@ -766,8 +751,8 @@ CSDB record ID: 2091
 |                          |                            | Thermotoga (1)              |
 |                          | Fervidobacteriaceae (1)    | Fervidobacterium (1)        |
 | Thermostichales (2)      | Thermostichaceae (2)       | Thermostichus (2)           |
-| Nitrosomonadales (2)     | nan (2)                    | nan (2)                     |
-|                          | Methylophilaceae (1)       | nan (2)                     |
+| Nitrosomonadales (2)     | nan (30)                   | nan (38)                    |
+|                          | Methylophilaceae (1)       | nan (38)                    |
 | Salinisphaerales (2)     | Salinisphaeraceae (2)      | Salinisphaera (2)           |
 | Cellvibrionales (2)      | Halieaceae (2)             | Haliea (2)                  |
 | Caulobacterales (2)      | Caulobacteraceae (2)       | Caulobacter (1)             |
@@ -783,32 +768,33 @@ CSDB record ID: 2091
 | Hydrogenophilales (1)    | Hydrogenophilaceae (1)     | Tepidiphilus (1)            |
 | Neisseriales (1)         | Chromobacteriaceae (1)     | Chromobacterium (1)         |
 | Rhodocyclales (1)        | Azonexaceae (1)            | Dechloromonas (1)           |
-| Bacteroidales (1)        | Lentimicrobiaceae (1)      | nan (2)                     |
+| Bacteroidales (1)        | Lentimicrobiaceae (1)      | nan (38)                    |
 | Mariprofundales (1)      | Mariprofundaceae (1)       | Mariprofundus (1)           |
-| Leptospirales (1)        | Leptospiraceae (1)         | nan (2)                     |
-| Acidiferrobacterales (1) | Acidiferrobacteraceae (1)  | nan (2)                     |
+| Leptospirales (1)        | Leptospiraceae (1)         | nan (38)                    |
+| Acidiferrobacterales (1) | Acidiferrobacteraceae (1)  | nan (38)                    |
 | Desulfurellales (1)      | Desulfurellaceae (1)       | Hippea (1)                  |
-| Pelagibacterales (1)     | Pelagibacteraceae (1)      | nan (2)                     |
-| Rickettsiales (1)        | nan (2)                    | nan (2)                     |
+| Pelagibacterales (1)     | Pelagibacteraceae (1)      | nan (38)                    |
+| Rickettsiales (1)        | nan (30)                   | nan (38)                    |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 11
+
 Total number of members in cluster: 152
 
 Average length of proteins in cluster: 412.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 593 (100.0%) Y 633 (98.0%) D 664 (100.0%) 
+R 593, Y 633, D 664
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI34150.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 32F        |                                    0 |
-| CAI34124.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 32A        |                                    0 |
-| CAI34680.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 48         |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI34150.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 32F        |                                    0 |
+| CAI34124.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 32A        |                                    0 |
+| CAI34680.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 48         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0152_11/sequences.afa)
 
@@ -824,19 +810,15 @@ R 593 (100.0%) Y 633 (98.0%) D 664 (100.0%)
 
 #### Sugars in cluster:
 
-CAI34150.1 Streptococcus pneumoniae 32F:
+CAI34150.1 (Streptococcus pneumoniae 32F)
 
-![](../../../csdb/images/848.gif)
+![](../../../csdb/images/848.gif)848
 
-CSDB record ID: 848
+CAI34124.1 (Streptococcus pneumoniae 32A)
 
-CAI34124.1 Streptococcus pneumoniae 32A:
+![](../../../csdb/images/918.gif)918
 
-![](../../../csdb/images/918.gif)
-
-CSDB record ID: 918
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -846,7 +828,7 @@ CSDB record ID: 918
 
 | order (count)          | family (count)            | genus (count)               |
 |:-----------------------|:--------------------------|:----------------------------|
-| Eubacteriales (66)     | Lachnospiraceae (27)      | nan (6)                     |
+| Eubacteriales (66)     | Lachnospiraceae (27)      | nan (21)                    |
 |                        |                           | Blautia (4)                 |
 |                        |                           | Coprococcus (2)             |
 |                        |                           | Anaerostipes (2)            |
@@ -860,13 +842,13 @@ CSDB record ID: 918
 |                        |                           | Lacrimispora (1)            |
 |                        | Clostridiaceae (20)       | Clostridium (19)            |
 |                        |                           | Paraclostridium (1)         |
-|                        | Oscillospiraceae (9)      | nan (6)                     |
+|                        | Oscillospiraceae (9)      | nan (21)                    |
 |                        |                           | Ruminococcus (2)            |
 |                        |                           | Ruminiclostridium (2)       |
 |                        |                           | Faecalibacterium (1)        |
 |                        |                           | Drancourtella (1)           |
+|                        | nan (6)                   | nan (21)                    |
 |                        | Eubacteriaceae (6)        | Eubacterium (6)             |
-|                        | nan (5)                   | nan (6)                     |
 |                        | Peptostreptococcaceae (1) | Romboutsia (1)              |
 | Lactobacillales (38)   | Lactobacillaceae (18)     | Lactobacillus (7)           |
 |                        |                           | Leuconostoc (2)             |
@@ -895,32 +877,33 @@ CSDB record ID: 918
 | Bacteroidales (3)      | Bacteroidaceae (2)        | Bacteroides (1)             |
 |                        |                           | Phocaeicola (1)             |
 |                        | Muribaculaceae (1)        | Duncaniella (1)             |
-| nan (3)                | nan (5)                   | nan (6)                     |
+| nan (3)                | nan (6)                   | nan (21)                    |
 | Fibrobacterales (1)    | Fibrobacteraceae (1)      | Fibrobacter (1)             |
 | Bifidobacteriales (1)  | Bifidobacteriaceae (1)    | Bifidobacterium (1)         |
-| Aeromonadales (1)      | Succinivibrionaceae (1)   | nan (6)                     |
+| Aeromonadales (1)      | Succinivibrionaceae (1)   | nan (21)                    |
 | Tissierellales (1)     | Peptoniphilaceae (1)      | Anaerococcus (1)            |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 6
+
 Total number of members in cluster: 139
 
 Average length of proteins in cluster: 443.5
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 401 (100.0%) Y 510 (100.0%) N 608 (100.0%) D 619 (97.1%) 
+R 401, Y 510, N 608, D 619
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI32823.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 6A         |                                    0 |
-| CAI32843.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 6B         |                                    0 |
-| CAI33700.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 19F        |                                    0 |
-| CAI33631.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 19A        |                                    0 |
-| CAI34269.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 34         |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI32823.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 6A         |                                    0 |
+| CAI32843.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 6B         |                                    0 |
+| CAI33700.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 19F        |                                    0 |
+| CAI33631.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 19A        |                                    0 |
+| CAI34269.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 34         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0139_6/sequences.afa)
 
@@ -936,67 +919,31 @@ R 401 (100.0%) Y 510 (100.0%) N 608 (100.0%) D 619 (97.1%)
 
 #### Sugars in cluster:
 
-CAI32823.1 Streptococcus pneumoniae 6A:
+CAI33631.1 (Streptococcus pneumoniae 19A), VOS41126.1 (Streptococcus pneumoniae 19A)
 
-![](../../../csdb/images/1087.gif)
+![](../../../csdb/images/740.gif)740
 
-CSDB record ID: 1087
+VNC99741.1 (Streptococcus pneumoniae 19F), CMX58981.1 (Streptococcus pneumoniae 19F), VSB76654.1 (Streptococcus pneumoniae 19F), CAI33700.1 (Streptococcus pneumoniae 19F)
 
-CAI32843.1 Streptococcus pneumoniae 6B:
+![](../../../csdb/images/739.gif)739
 
-![](../../../csdb/images/937.gif)
+VMG48693.1 (Streptococcus pneumoniae 34), CAI34269.1 (Streptococcus pneumoniae 34)
 
-CSDB record ID: 937
+![](../../../csdb/images/7043.gif)7043
 
-CAI33700.1 Streptococcus pneumoniae 19F:
+CAI32823.1 (Streptococcus pneumoniae 6A), AAL82786.1 (Streptococcus pneumoniae 6A)
 
-![](../../../csdb/images/739.gif)
+![](../../../csdb/images/1087.gif)1087
 
-CSDB record ID: 739
+CAI32843.1 (Streptococcus pneumoniae 6B)
 
-CAI33631.1 Streptococcus pneumoniae 19A:
+![](../../../csdb/images/937.gif)937
 
-![](../../../csdb/images/740.gif)
+#### Sugars for blast hits only (may be incorrect):
 
-CSDB record ID: 740
+VJK41440.1 (Streptococcus pneumoniae 6C)
 
-CAI34269.1 Streptococcus pneumoniae 34:
-
-![](../../../csdb/images/7043.gif)
-
-CSDB record ID: 7043
-
-#### Sugars for blast hits:
-
-AAL82786.1 Streptococcus pneumoniae 6A:
-
-![](../../../csdb/images/1087.gif)
-
-CSDB record ID: 1087
-
-VJK41440.1 Streptococcus pneumoniae 6C:
-
-![](../../../csdb/images/3661.gif)
-
-CSDB record ID: 3661
-
-VNC99741.1 Streptococcus pneumoniae 19F, VSB76654.1 Streptococcus pneumoniae 19F, CMX58981.1 Streptococcus pneumoniae 19F:
-
-![](../../../csdb/images/739.gif)
-
-CSDB record ID: 739
-
-VOS41126.1 Streptococcus pneumoniae 19A:
-
-![](../../../csdb/images/740.gif)
-
-CSDB record ID: 740
-
-VMG48693.1 Streptococcus pneumoniae 34:
-
-![](../../../csdb/images/7043.gif)
-
-CSDB record ID: 7043
+![](../../../csdb/images/3661.gif)3661
 
 #### Alphafold models:
 
@@ -1016,7 +963,7 @@ CSDB record ID: 7043
 |                        |                         | Lacticaseibacillus (1)              |
 |                        |                         | Latilactobacillus (1)               |
 |                        |                         | Lentilactobacillus (1)              |
-|                        | nan (11)                | nan (2)                             |
+|                        | nan (13)                | nan (22)                            |
 |                        | Enterococcaceae (11)    | Enterococcus (11)                   |
 |                        | Carnobacteriaceae (1)   | Carnobacterium (1)                  |
 | Eubacteriales (41)     | Lachnospiraceae (20)    | Blautia (5)                         |
@@ -1029,8 +976,9 @@ CSDB record ID: 7043
 |                        |                         | Oribacterium (1)                    |
 |                        |                         | Sellimonas (1)                      |
 |                        |                         | Epulopiscium (1)                    |
-|                        | Oscillospiraceae (9)    | Faecalibacterium (4)                |
-|                        |                         | nan (2)                             |
+|                        | nan (13)                | nan (22)                            |
+|                        | Oscillospiraceae (9)    | nan (22)                            |
+|                        |                         | Faecalibacterium (4)                |
 |                        |                         | Drancourtella (1)                   |
 |                        | Clostridiaceae (6)      | Clostridium (4)                     |
 |                        |                         | Massilioclostridium (1)             |
@@ -1038,12 +986,12 @@ CSDB record ID: 7043
 |                        | Eubacteriaceae (2)      | Eubacterium (2)                     |
 |                        | Xylanivirgaceae (1)     | Xylanivirga (1)                     |
 |                        | Christensenellaceae (1) | Christensenella (1)                 |
-| nan (10)               | nan (11)                | Candidatus Avigastranaerophilus (1) |
+| nan (10)               | nan (13)                | Candidatus Avigastranaerophilus (1) |
 | Pasteurellales (5)     | Pasteurellaceae (5)     | Haemophilus (2)                     |
 |                        |                         | Actinobacillus (1)                  |
 |                        |                         | Mannheimia (1)                      |
 |                        |                         | Pasteurella (1)                     |
-| Coriobacteriales (4)   | Coriobacteriaceae (3)   | nan (2)                             |
+| Coriobacteriales (4)   | Coriobacteriaceae (3)   | nan (22)                            |
 |                        |                         | Collinsella (2)                     |
 |                        | Atopobiaceae (1)        | Olsenella (1)                       |
 | Bifidobacteriales (3)  | Bifidobacteriaceae (3)  | Bifidobacterium (3)                 |
@@ -1055,27 +1003,28 @@ CSDB record ID: 7043
 | Synergistales (1)      | Synergistaceae (1)      | Cloacibacillus (1)                  |
 | Fusobacteriales (1)    | Fusobacteriaceae (1)    | Fusobacterium (1)                   |
 | Methanobacteriales (1) | Methanobacteriaceae (1) | Methanobrevibacter (1)              |
-| Anaerolineales (1)     | Anaerolineaceae (1)     | nan (2)                             |
+| Anaerolineales (1)     | Anaerolineaceae (1)     | nan (22)                            |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 29
+
 Total number of members in cluster: 136
 
 Average length of proteins in cluster: 394.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 292 (98.5%) R 364 (99.3%) Y 423 (97.8%) Y 425 (100.0%) N 432 (98.5%) 
+R 292, R 364, Y 423, Y 425, N 432
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|-------------------------------------:|
-| AHB32411.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O10        |                                    0 |
-| AFC91458.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O45        |                                    0 |
-| AFC91419.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O45        |                                    0 |
-| AAX07747.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O45        |                                    0 |
+| accession   | order            | family             | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|-------------------------------------:|
+| AHB32411.1  | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O10        |                                    0 |
+| AFC91458.1  | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O45        |                                    0 |
+| AFC91419.1  | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O45        |                                    0 |
+| AAX07747.1  | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O45        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0136_29/sequences.afa)
 
@@ -1091,19 +1040,15 @@ R 292 (98.5%) R 364 (99.3%) Y 423 (97.8%) Y 425 (100.0%) N 432 (98.5%)
 
 #### Sugars in cluster:
 
-AHB32411.1 Acinetobacter baumannii O10:
+AAX07747.1 (Escherichia coli O45), AFC91458.1 (Escherichia coli O45), AFC91419.1 (Escherichia coli O45)
 
-![](../../../csdb/images/27746.gif)
+![](../../../csdb/images/1552.gif)1552
 
-CSDB record ID: 27746
+AHB32411.1 (Acinetobacter baumannii O10)
 
-AFC91458.1 Escherichia coli O45, AFC91419.1 Escherichia coli O45, AAX07747.1 Escherichia coli O45:
+![](../../../csdb/images/27746.gif)27746
 
-![](../../../csdb/images/1552.gif)
-
-CSDB record ID: 1552
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -1135,11 +1080,13 @@ CSDB record ID: 1552
 |                         | Streptococcaceae (1)      | Streptococcus (1)       |
 | Bacteroidales (12)      | Bacteroidaceae (8)        | Bacteroides (7)         |
 |                         |                           | Phocaeicola (1)         |
-|                         | Muribaculaceae (2)        | nan (3)                 |
+|                         | nan (5)                   | nan (12)                |
+|                         | Muribaculaceae (2)        | nan (12)                |
 |                         | Prevotellaceae (1)        | Prevotella (1)          |
 | Eubacteriales (9)       | Clostridiaceae (6)        | Clostridium (6)         |
+|                         | nan (5)                   | nan (12)                |
 |                         | Peptostreptococcaceae (1) | Romboutsia (1)          |
-|                         | Eubacteriaceae (1)        | nan (3)                 |
+|                         | Eubacteriaceae (1)        | nan (12)                |
 | Burkholderiales (8)     | Burkholderiaceae (8)      | Ralstonia (8)           |
 | Pseudomonadales (8)     | Pseudomonadaceae (8)      | Pseudomonas (8)         |
 | Bacillales (7)          | Bacillaceae (6)           | Bacillus (4)            |
@@ -1153,37 +1100,38 @@ CSDB record ID: 1552
 |                         | Reichenbachiellaceae (1)  | Reichenbachiella (1)    |
 | Vibrionales (4)         | Vibrionaceae (4)          | Vibrio (3)              |
 |                         |                           | Photobacterium (1)      |
-| nan (2)                 | nan (1)                   | nan (3)                 |
+| nan (2)                 | nan (5)                   | nan (12)                |
 | Chitinophagales (2)     | Chitinophagaceae (2)      | Ilyomonas (1)           |
 | Aeromonadales (2)       | Aeromonadaceae (2)        | Aeromonas (2)           |
 | Sphingomonadales (2)    | Sphingomonadaceae (2)     | Sphingomonas (2)        |
 | Rhodospirillales (2)    | Rhodospirillaceae (2)     | Inquilinus (2)          |
 | Methanotrichales (1)    | Methanotrichaceae (1)     | Methanothrix (1)        |
 | Nostocales (1)          | Calotrichaceae (1)        | Calothrix (1)           |
-| Chlorobiales (1)        | Chlorobiaceae (1)         | nan (3)                 |
-| Rickettsiales (1)       | nan (1)                   | nan (3)                 |
+| Chlorobiales (1)        | Chlorobiaceae (1)         | nan (12)                |
+| Rickettsiales (1)       | nan (5)                   | nan (12)                |
 | Spirochaetales (1)      | Treponemataceae (1)       | Treponema (1)           |
 | Acidobacteriales (1)    | Acidobacteriaceae (1)     | Granulicella (1)        |
 | Salinisphaerales (1)    | Salinisphaeraceae (1)     | Salinisphaera (1)       |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 23
+
 Total number of members in cluster: 134
 
 Average length of proteins in cluster: 356.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 163 (99.3%) D 170 (100.0%) Y 175 (100.0%) R 298 (100.0%) H 336 (100.0%) R 561 (100.0%) 
+R 163, D 170, Y 175, R 298, H 336, R 561
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| AHB32715.1          | Moraxellales    | Moraxellaceae    | Acinetobacter | Acinetobacter baumannii  | O23        |                                    0 |
-| AHB32637.1          | Moraxellales    | Moraxellaceae    | Acinetobacter | Acinetobacter baumannii  | O23        |                                    0 |
-| CAI33718.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 20         |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| AHB32715.1  | Moraxellales    | Moraxellaceae    | Acinetobacter | Acinetobacter baumannii  | O23        |                                    0 |
+| AHB32637.1  | Moraxellales    | Moraxellaceae    | Acinetobacter | Acinetobacter baumannii  | O23        |                                    0 |
+| CAI33718.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 20         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0134_23/sequences.afa)
 
@@ -1199,25 +1147,19 @@ R 163 (99.3%) D 170 (100.0%) Y 175 (100.0%) R 298 (100.0%) H 336 (100.0%) R 561 
 
 #### Sugars in cluster:
 
-AHB32715.1 Acinetobacter baumannii O23, AHB32637.1 Acinetobacter baumannii O23:
+AHB32637.1 (Acinetobacter baumannii O23), AHB32715.1 (Acinetobacter baumannii O23)
 
-![](../../../csdb/images/563.gif)
+![](../../../csdb/images/563.gif)563
 
-CSDB record ID: 563
+CAI33718.1 (Streptococcus pneumoniae 20)
 
-CAI33718.1 Streptococcus pneumoniae 20:
+![](../../../csdb/images/1928.gif)1928
 
-![](../../../csdb/images/1928.gif)
+#### Sugars for blast hits only (may be incorrect):
 
-CSDB record ID: 1928
+VLD07009.1 (Streptococcus pneumoniae 20A)
 
-#### Sugars for blast hits:
-
-VLD07009.1 Streptococcus pneumoniae 20A:
-
-![](../../../csdb/images/7079.gif)
-
-CSDB record ID: 7079
+![](../../../csdb/images/7079.gif)7079
 
 #### Alphafold models:
 
@@ -1238,8 +1180,9 @@ CSDB record ID: 7079
 |                        |                            | Leuconostoc (1)          |
 |                        | Streptococcaceae (5)       | Streptococcus (5)        |
 |                        | Enterococcaceae (5)        | Enterococcus (5)         |
-| Eubacteriales (18)     | Lachnospiraceae (9)        | nan (5)                  |
+| Eubacteriales (18)     | Lachnospiraceae (9)        | nan (17)                 |
 |                        |                            | Eisenbergiella (1)       |
+|                        | nan (9)                    | nan (17)                 |
 |                        | Clostridiaceae (5)         | Clostridium (5)          |
 |                        | Oscillospiraceae (3)       | Ruminiclostridium (1)    |
 |                        |                            | Ruminococcus (1)         |
@@ -1253,10 +1196,10 @@ CSDB record ID: 7079
 | Flavobacteriales (6)   | Flavobacteriaceae (6)      | Flavobacterium (3)       |
 |                        |                            | Lutibacter (1)           |
 |                        |                            | Robertkochia (1)         |
-| nan (6)                | nan (2)                    | Candidatus Coprosoma (1) |
-| Bacillales (5)         | Bacillaceae (3)            | Bacillus (2)             |
+| nan (6)                | nan (9)                    | Candidatus Coprosoma (1) |
+| Bacillales (5)         | nan (9)                    | Exiguobacterium (1)      |
+|                        | Bacillaceae (3)            | Bacillus (2)             |
 |                        |                            | Halobacillus (1)         |
-|                        | nan (2)                    | Exiguobacterium (1)      |
 |                        | Sporolactobacillaceae (1)  | Sporolactobacillus (1)   |
 | Bacteroidales (3)      | Bacteroidaceae (2)         | Bacteroides (2)          |
 |                        | Tannerellaceae (1)         | Parabacteroides (1)      |
@@ -1272,26 +1215,27 @@ CSDB record ID: 7079
 | Oceanospirillales (1)  | Halomonadaceae (1)         | Halomonas (1)            |
 | Chromatiales (1)       | Chromatiaceae (1)          | Rheinheimera (1)         |
 | Erysipelotrichales (1) | Coprobacillaceae (1)       | Coprobacillus (1)        |
-| Coriobacteriales (1)   | nan (2)                    | nan (5)                  |
+| Coriobacteriales (1)   | nan (9)                    | nan (17)                 |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 50
+
 Total number of members in cluster: 129
 
 Average length of proteins in cluster: 452.7
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 250 (97.7%) K 324 (100.0%) R 402 (100.0%) K 516 (98.4%) 
+R 250, K 324, R 402, K 516
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| AAT77177.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O114       |                                    0 |
-| AFN02899.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O180       |                                    0 |
-| BAQ00569.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O5         |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| AAT77177.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O114       |                                    0 |
+| AFN02899.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O180       |                                    0 |
+| BAQ00569.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O5         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0129_50/sequences.afa)
 
@@ -1307,25 +1251,19 @@ R 250 (97.7%) K 324 (100.0%) R 402 (100.0%) K 516 (98.4%)
 
 #### Sugars in cluster:
 
-AAT77177.1 Escherichia coli O114:
+AFN02899.1 (Escherichia coli O180)
 
-![](../../../csdb/images/1854.gif)
+![](../../../csdb/images/704.gif)704
 
-CSDB record ID: 1854
+AAT77177.1 (Escherichia coli O114)
 
-AFN02899.1 Escherichia coli O180:
+![](../../../csdb/images/1854.gif)1854
 
-![](../../../csdb/images/704.gif)
+BAQ00569.1 (Escherichia coli O5)
 
-CSDB record ID: 704
+![](../../../csdb/images/3191.gif)3191
 
-BAQ00569.1 Escherichia coli O5:
-
-![](../../../csdb/images/3191.gif)
-
-CSDB record ID: 3191
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -1335,10 +1273,10 @@ CSDB record ID: 3191
 
 | order (count)         | family (count)             | genus (count)          |
 |:----------------------|:---------------------------|:-----------------------|
-| Bacillales (53)       | Bacillaceae (49)           | Bacillus (14)          |
+| Bacillales (53)       | Bacillaceae (49)           | nan (19)               |
+|                       |                            | Bacillus (14)          |
 |                       |                            | Geobacillus (11)       |
 |                       |                            | Cytobacillus (7)       |
-|                       |                            | nan (5)                |
 |                       |                            | Psychrobacillus (4)    |
 |                       |                            | Anoxybacillus (2)      |
 |                       |                            | Metabacillus (2)       |
@@ -1350,10 +1288,11 @@ CSDB record ID: 3191
 |                       |                            | Hazenella (1)          |
 |                       |                            | Shimazuella (1)        |
 |                       | Planococcaceae (1)         | Chryseomicrobium (1)   |
-| Eubacteriales (26)    | Clostridiaceae (20)        | Clostridium (18)       |
-|                       |                            | nan (5)                |
+| Eubacteriales (26)    | Clostridiaceae (20)        | nan (19)               |
+|                       |                            | Clostridium (18)       |
 |                       |                            | Hathewaya (1)          |
-|                       | Lachnospiraceae (2)        | nan (5)                |
+|                       | nan (12)                   | nan (19)               |
+|                       | Lachnospiraceae (2)        | nan (19)               |
 |                       |                            | Mediterraneibacter (1) |
 |                       | Oscillospiraceae (2)       | Ruminococcus (1)       |
 |                       | Eubacteriaceae (1)         | Eubacterium (1)        |
@@ -1365,14 +1304,15 @@ CSDB record ID: 3191
 |                       |                            | Enterobacter (1)       |
 |                       | Budviciaceae (1)           | Pragia (1)             |
 |                       | Morganellaceae (1)         | Providencia (1)        |
-| nan (7)               | nan (4)                    | nan (5)                |
+| nan (7)               | nan (12)                   | nan (19)               |
 | Moraxellales (6)      | Moraxellaceae (6)          | Acinetobacter (6)      |
-| Bacteroidales (6)     | Bacteroidaceae (3)         | Bacteroides (3)        |
+| Bacteroidales (6)     | nan (12)                   | nan (19)               |
+|                       | Bacteroidaceae (3)         | Bacteroides (3)        |
 |                       | Rikenellaceae (1)          | Acetobacteroides (1)   |
 |                       | Odoribacteraceae (1)       | Odoribacter (1)        |
 | Flavobacteriales (3)  | Flavobacteriaceae (2)      | Tenacibaculum (2)      |
 |                       | Crocinitomicaceae (1)      | Crocinitomix (1)       |
-| Chitinophagales (3)   | nan (4)                    | nan (5)                |
+| Chitinophagales (3)   | nan (12)                   | nan (19)               |
 |                       | Chitinophagaceae (1)       | Chitinophaga (1)       |
 | Tissierellales (3)    | Peptoniphilaceae (3)       | Anaerococcus (2)       |
 |                       |                            | Miniphocaeibacter (1)  |
@@ -1382,25 +1322,26 @@ CSDB record ID: 3191
 |                       |                            | Echinicola (1)         |
 | Thiotrichales (1)     | Thiotrichaceae (1)         | Thiothrix (1)          |
 | Alteromonadales (1)   | Alteromonadaceae (1)       | Paraglaciecola (1)     |
-| Silvanigrellales (1)  | nan (4)                    | nan (5)                |
+| Silvanigrellales (1)  | nan (12)                   | nan (19)               |
 | Synergistales (1)     | Synergistaceae (1)         | Acetomicrobium (1)     |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 33
+
 Total number of members in cluster: 129
 
 Average length of proteins in cluster: 395.6
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 33 (99.2%) R 42 (100.0%) Y 118 (100.0%) K 120 (98.4%) Q 159 (99.2%) S 199 (99.2%) E 200 (100.0%) Q 204 (99.2%) Y 206 (100.0%) R 207 (100.0%) T 212 (98.4%) S 220 (99.2%) R 261 (100.0%) S 270 (98.4%) Y 274 (98.4%) Y 283 (98.4%) H 310 (99.2%) E 313 (100.0%) N 317 (98.4%) S 345 (99.2%) Q 361 (97.7%) D 366 (99.2%) Y 369 (100.0%) Y 380 (98.4%) Y 381 (100.0%) D 385 (99.2%) S 386 (99.2%) R 390 (99.2%) Q 391 (98.4%) Y 394 (99.2%) Y 399 (98.4%) S 430 (98.4%) K 441 (98.4%) D 443 (99.2%) 
+D 33, R 42, Y 118, K 120, Q 159, S 199, E 200, Q 204, Y 206, R 207, T 212, S 220, R 261, S 270, Y 274, Y 283, H 310, E 313, N 317, S 345, Q 361, D 366, Y 369, Y 380, Y 381, D 385, S 386, R 390, Q 391, Y 394, Y 399, S 430, K 441, D 443
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ00795.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O33        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ00795.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O33        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0129_33/sequences.afa)
 
@@ -1416,19 +1357,15 @@ D 33 (99.2%) R 42 (100.0%) Y 118 (100.0%) K 120 (98.4%) Q 159 (99.2%) S 199 (99.
 
 #### Sugars in cluster:
 
-BAQ00795.1 Escherichia coli O33:
+BAQ00795.1 (Escherichia coli O33)
 
-![](../../../csdb/images/1401.gif)
+![](../../../csdb/images/1401.gif)1401
 
-CSDB record ID: 1401
+#### Sugars for blast hits only (may be incorrect):
 
-#### Sugars for blast hits:
+QEH45435.1 (Aggregatibacter actinomycetemcomitans a)
 
-QEH45435.1 Aggregatibacter actinomycetemcomitans a:
-
-![](../../../csdb/images/27705.gif)
-
-CSDB record ID: 27705
+![](../../../csdb/images/27705.gif)27705
 
 #### Alphafold models:
 
@@ -1460,26 +1397,27 @@ CSDB record ID: 27705
 | Aeromonadales (2)    | Aeromonadaceae (2)     | Aeromonas (2)        |
 | Vibrionales (1)      | Vibrionaceae (1)       | Photobacterium (1)   |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 39
+
 Total number of members in cluster: 119
 
 Average length of proteins in cluster: 423.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 501 (97.5%) N 502 (100.0%) E 508 (100.0%) S 685 (98.3%) 
+R 501, N 502, E 508, S 685
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI34254.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 33F        |                                    0 |
-| CAI34177.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 33A        |                                    0 |
-| CAI34198.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 33B        |                                    0 |
-| CAI34217.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 33C        |                                    0 |
-| CAI34236.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 33D        |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI34254.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 33F        |                                    0 |
+| CAI34177.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 33A        |                                    0 |
+| CAI34198.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 33B        |                                    0 |
+| CAI34217.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 33C        |                                    0 |
+| CAI34236.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 33D        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0119_39/sequences.afa)
 
@@ -1495,49 +1433,27 @@ R 501 (97.5%) N 502 (100.0%) E 508 (100.0%) S 685 (98.3%)
 
 #### Sugars in cluster:
 
-CAI34254.1 Streptococcus pneumoniae 33F:
+CAI34217.1 (Streptococcus pneumoniae 33C)
 
-![](../../../csdb/images/1965.gif)
+![](../../../csdb/images/7093.gif)7093
 
-CSDB record ID: 1965
+CAI34177.1 (Streptococcus pneumoniae 33A)
 
-CAI34177.1 Streptococcus pneumoniae 33A:
+![](../../../csdb/images/7091.gif)7091
 
-![](../../../csdb/images/7091.gif)
+CAI34198.1 (Streptococcus pneumoniae 33B)
 
-CSDB record ID: 7091
+![](../../../csdb/images/7092.gif)7092
 
-CAI34198.1 Streptococcus pneumoniae 33B:
+CAI34236.1 (Streptococcus pneumoniae 33D), VIU37569.1 (Streptococcus pneumoniae 33D)
 
-![](../../../csdb/images/7092.gif)
+![](../../../csdb/images/7094.gif)7094
 
-CSDB record ID: 7092
+CAI34254.1 (Streptococcus pneumoniae 33F), VQJ42306.1 (Streptococcus pneumoniae 33F)
 
-CAI34217.1 Streptococcus pneumoniae 33C:
+![](../../../csdb/images/1965.gif)1965
 
-![](../../../csdb/images/7093.gif)
-
-CSDB record ID: 7093
-
-CAI34236.1 Streptococcus pneumoniae 33D:
-
-![](../../../csdb/images/7094.gif)
-
-CSDB record ID: 7094
-
-#### Sugars for blast hits:
-
-VQJ42306.1 Streptococcus pneumoniae 33F:
-
-![](../../../csdb/images/1965.gif)
-
-CSDB record ID: 1965
-
-VIU37569.1 Streptococcus pneumoniae 33D:
-
-![](../../../csdb/images/7094.gif)
-
-CSDB record ID: 7094
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -1573,37 +1489,38 @@ CSDB record ID: 7094
 |                      |                       | Roseburia (1)            |
 |                      |                       | Butyrivibrio (1)         |
 |                      |                       | Pseudobutyrivibrio (1)   |
-|                      | nan (16)              | nan (18)                 |
+|                      | nan (17)              | nan (31)                 |
 |                      | Clostridiaceae (10)   | Clostridium (10)         |
-|                      | Oscillospiraceae (5)  | nan (18)                 |
+|                      | Oscillospiraceae (5)  | nan (31)                 |
 |                      |                       | Ruminococcus (1)         |
-| nan (14)             | nan (16)              | nan (18)                 |
+| nan (14)             | nan (17)              | nan (31)                 |
 | Pasteurellales (3)   | Pasteurellaceae (3)   | Haemophilus (2)          |
-| Bacteroidales (3)    | Bacteroidaceae (3)    | nan (18)                 |
+| Bacteroidales (3)    | Bacteroidaceae (3)    | nan (31)                 |
 |                      |                       | Phocaeicola (2)          |
 | Coriobacteriales (2) | Coriobacteriaceae (1) | Collinsella (1)          |
-|                      | Atopobiaceae (1)      | nan (18)                 |
+|                      | Atopobiaceae (1)      | nan (31)                 |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 2
+
 Total number of members in cluster: 107
 
 Average length of proteins in cluster: 411.8
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Q 243 (98.1%) R 291 (100.0%) R 356 (100.0%) S 480 (100.0%) D 537 (100.0%) R 542 (98.1%) 
+Q 243, R 291, R 356, S 480, D 537, R 542
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|-------------------------------------:|
-| AHB32563.2          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O3         |                                    0 |
-| ACA24764.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O143       |                                    0 |
-| BAQ02088.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O187       |                                    0 |
-| ACA24754.1          | Enterobacterales | Enterobacteriaceae | Shigella      | Shigella boydii         | 8          |                                    0 |
-| AFW04847.1          | Enterobacterales | Enterobacteriaceae | Salmonella    | Salmonella enterica     | O59        |                                    0 |
+| accession   | order            | family             | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|-------------------------------------:|
+| AHB32563.2  | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O3         |                                    0 |
+| ACA24764.1  | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O143       |                                    0 |
+| BAQ02088.1  | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O187       |                                    0 |
+| ACA24754.1  | Enterobacterales | Enterobacteriaceae | Shigella      | Shigella boydii         | 8          |                                    0 |
+| AFW04847.1  | Enterobacterales | Enterobacteriaceae | Salmonella    | Salmonella enterica     | O59        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0107_2/sequences.afa)
 
@@ -1619,25 +1536,19 @@ Q 243 (98.1%) R 291 (100.0%) R 356 (100.0%) S 480 (100.0%) D 537 (100.0%) R 542 
 
 #### Sugars in cluster:
 
-ACA24764.1 Escherichia coli O143, ACA24754.1 Shigella boydii 8:
+ACA24754.1 (Shigella boydii 8), ACA24764.1 (Escherichia coli O143)
 
-![](../../../csdb/images/1885.gif)
+![](../../../csdb/images/1885.gif)1885
 
-CSDB record ID: 1885
+AFW04847.1 (Salmonella enterica O59)
 
-BAQ02088.1 Escherichia coli O187:
+![](../../../csdb/images/3362.gif)3362
 
-![](../../../csdb/images/1934.gif)
+BAQ02088.1 (Escherichia coli O187)
 
-CSDB record ID: 1934
+![](../../../csdb/images/1934.gif)1934
 
-AFW04847.1 Salmonella enterica O59:
-
-![](../../../csdb/images/3362.gif)
-
-CSDB record ID: 3362
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -1662,14 +1573,14 @@ CSDB record ID: 3362
 |                        | Hafniaceae (1)             | Obesumbacterium (1)   |
 |                        | Pectobacteriaceae (1)      | Pectobacterium (1)    |
 | Bacteroidales (18)     | Bacteroidaceae (8)         | Bacteroides (7)       |
-|                        |                            | nan (2)               |
-|                        | nan (2)                    | nan (2)               |
+|                        |                            | nan (6)               |
+|                        | nan (5)                    | nan (6)               |
 |                        | Tannerellaceae (2)         | Parabacteroides (2)   |
-|                        | Rikenellaceae (2)          | nan (2)               |
+|                        | Rikenellaceae (2)          | nan (6)               |
 |                        |                            | Alistipes (1)         |
 |                        | Prevotellaceae (1)         | Prevotella (1)        |
 |                        | Odoribacteraceae (1)       | Odoribacter (1)       |
-|                        | Muribaculaceae (1)         | nan (2)               |
+|                        | Muribaculaceae (1)         | nan (6)               |
 | Pasteurellales (10)    | Pasteurellaceae (10)       | Gallibacterium (9)    |
 |                        |                            | Glaesserella (1)      |
 | Vibrionales (10)       | Vibrionaceae (10)          | Vibrio (9)            |
@@ -1684,7 +1595,8 @@ CSDB record ID: 3362
 | Sphingobacteriales (4) | Sphingobacteriaceae (4)    | Parapedobacter (2)    |
 |                        |                            | Pseudopedobacter (1)  |
 |                        |                            | Sphingobacterium (1)  |
-| nan (2)                | nan (2)                    | Gallaecimonas (1)     |
+| nan (2)                | nan (5)                    | Gallaecimonas (1)     |
+|                        |                            | Wohlfahrtiimonas (1)  |
 | Spirochaetales (1)     | Treponemataceae (1)        | Treponema (1)         |
 | Synergistales (1)      | Synergistaceae (1)         | Dethiosulfovibrio (1) |
 | Lactobacillales (1)    | Lactobacillaceae (1)       | Ligilactobacillus (1) |
@@ -1693,23 +1605,24 @@ CSDB record ID: 3362
 | Neisseriales (1)       | Neisseriaceae (1)          | Neisseria (1)         |
 | Methylococcales (1)    | Methylococcaceae (1)       | Methyloprofundus (1)  |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 46
+
 Total number of members in cluster: 91
 
 Average length of proteins in cluster: 431.6
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 344 (100.0%) E 408 (100.0%) R 538 (100.0%) 
+D 344, E 408, R 538
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI32935.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 7F         |                                    0 |
-| CAI32867.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 7A         |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI32935.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 7F         |                                    0 |
+| CAI32867.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 7A         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0091_46/sequences.afa)
 
@@ -1725,19 +1638,15 @@ D 344 (100.0%) E 408 (100.0%) R 538 (100.0%)
 
 #### Sugars in cluster:
 
-CAI32935.1 Streptococcus pneumoniae 7F:
+CAI32935.1 (Streptococcus pneumoniae 7F)
 
-![](../../../csdb/images/1949.gif)
+![](../../../csdb/images/1949.gif)1949
 
-CSDB record ID: 1949
+CAI32867.1 (Streptococcus pneumoniae 7A)
 
-CAI32867.1 Streptococcus pneumoniae 7A:
+![](../../../csdb/images/2624.gif)2624
 
-![](../../../csdb/images/2624.gif)
-
-CSDB record ID: 2624
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -1745,17 +1654,17 @@ CSDB record ID: 2624
 
 | order (count)          | family (count)          | genus (count)           |
 |:-----------------------|:------------------------|:------------------------|
-| Eubacteriales (44)     | Lachnospiraceae (17)    | nan (19)                |
+| Eubacteriales (44)     | Lachnospiraceae (17)    | nan (33)                |
 |                        |                         | Butyrivibrio (5)        |
 |                        |                         | Blautia (2)             |
 |                        |                         | Dorea (1)               |
 |                        |                         | Faecalicatena (1)       |
 |                        |                         | Anaerostipes (1)        |
-|                        | Oscillospiraceae (16)   | nan (19)                |
+|                        | Oscillospiraceae (16)   | nan (33)                |
 |                        |                         | Ruminococcus (4)        |
 |                        |                         | Faecalibacterium (3)    |
-|                        | nan (14)                | nan (19)                |
-|                        | Clostridiaceae (5)      | nan (19)                |
+|                        | nan (15)                | nan (33)                |
+|                        | Clostridiaceae (5)      | nan (33)                |
 |                        |                         | Clostridium (4)         |
 |                        | Eubacteriaceae (4)      | Eubacterium (4)         |
 | Lactobacillales (17)   | Streptococcaceae (12)   | Streptococcus (10)      |
@@ -1763,7 +1672,7 @@ CSDB record ID: 2624
 |                        | Enterococcaceae (2)     | Enterococcus (2)        |
 |                        | Lactobacillaceae (2)    | Limosilactobacillus (2) |
 |                        | Carnobacteriaceae (1)   | Trichococcus (1)        |
-| nan (13)               | nan (14)                | nan (19)                |
+| nan (13)               | nan (15)                | nan (33)                |
 | Coriobacteriales (5)   | Atopobiaceae (4)        | Olsenella (2)           |
 |                        |                         | Atopobium (1)           |
 |                        |                         | Parafannyhessea (1)     |
@@ -1779,22 +1688,23 @@ CSDB record ID: 2624
 | Fibrobacterales (1)    | Fibrobacteraceae (1)    | Fibrobacter (1)         |
 | Bifidobacteriales (1)  | Bifidobacteriaceae (1)  | Bifidobacterium (1)     |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 1
+
 Total number of members in cluster: 89
 
 Average length of proteins in cluster: 427.7
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Q 78 (100.0%) R 249 (100.0%) R 295 (100.0%) E 364 (97.8%) Q 399 (98.9%) K 406 (100.0%) T 462 (97.8%) H 519 (98.9%) 
+Q 78, R 249, R 295, E 364, Q 399, K 406, T 462, H 519
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| WP_097449287.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O57        |                                    0 |
+| accession      | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:---------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| WP_097449287.1 | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O57        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0089_1/sequences.afa)
 
@@ -1810,13 +1720,11 @@ Q 78 (100.0%) R 249 (100.0%) R 295 (100.0%) E 364 (97.8%) Q 399 (98.9%) K 406 (1
 
 #### Sugars in cluster:
 
-WP_097449287.1 Escherichia coli O57:
+WP_097449287.1 (Escherichia coli O57)
 
-![](../../../csdb/images/699.gif)
+![](../../../csdb/images/699.gif)699
 
-CSDB record ID: 699
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -1832,6 +1740,7 @@ CSDB record ID: 699
 |                           |                            | Neorhizobium (1)       |
 |                           | Brucellaceae (21)          | Brucella (14)          |
 |                           |                            | Ochrobactrum (6)       |
+|                           | nan (9)                    | nan (15)               |
 |                           | Phyllobacteriaceae (8)     | Phyllobacterium (4)    |
 |                           |                            | Mesorhizobium (3)      |
 |                           |                            | Aquamicrobium (1)      |
@@ -1840,12 +1749,12 @@ CSDB record ID: 699
 |                           | Chelatococcaceae (2)       | Chelatococcus (2)      |
 |                           | Kaistiaceae (1)            | Kaistia (1)            |
 |                           | Afifellaceae (1)           | Afifella (1)           |
-| nan (6)                   | nan (1)                    | nan (1)                |
-| Pseudanabaenales (3)      | Leptolyngbyaceae (3)       | Leptolyngbya (2)       |
-|                           |                            | nan (1)                |
+| nan (6)                   | nan (9)                    | nan (15)               |
+| Pseudanabaenales (3)      | Leptolyngbyaceae (3)       | nan (15)               |
+|                           |                            | Leptolyngbya (2)       |
 | Chromatiales (2)          | Chromatiaceae (2)          | Halochromatium (1)     |
 |                           |                            | Thiohalocapsa (1)      |
-| Burkholderiales (2)       | Alcaligenaceae (1)         | nan (1)                |
+| Burkholderiales (2)       | Alcaligenaceae (1)         | nan (15)               |
 |                           | Comamonadaceae (1)         | Kinneretia (1)         |
 | Verrucomicrobiales (2)    | Verrucomicrobiaceae (2)    | Phragmitibacter (1)    |
 |                           |                            | Prosthecobacter (1)    |
@@ -1854,36 +1763,37 @@ CSDB record ID: 699
 | Nostocales (1)            | Nostocaceae (1)            | Richelia (1)           |
 | Corynebacteriales (1)     | Mycobacteriaceae (1)       | Mycobacterium (1)      |
 | Chroococcidiopsidales (1) | Chroococcidiopsidaceae (1) | Chroococcidiopsis (1)  |
-| Rhodospirillales (1)      | nan (1)                    | nan (1)                |
-| Kiritimatiellales (1)     | Pontiellaceae (1)          | nan (1)                |
-| Bryobacterales (1)        | Bryobacteraceae (1)        | nan (1)                |
+| Rhodospirillales (1)      | nan (9)                    | nan (15)               |
+| Kiritimatiellales (1)     | Pontiellaceae (1)          | nan (15)               |
+| Bryobacterales (1)        | Bryobacteraceae (1)        | nan (15)               |
 | Vibrionales (1)           | Vibrionaceae (1)           | Vibrio (1)             |
-| Pirellulales (1)          | nan (1)                    | nan (1)                |
+| Pirellulales (1)          | nan (9)                    | nan (15)               |
 | Bacteroidales (1)         | Tannerellaceae (1)         | Parabacteroides (1)    |
 | Hyphomonadales (1)        | Hyphomonadaceae (1)        | Henriciella (1)        |
 | Synechococcales (1)       | Coelosphaeriaceae (1)      | Snowella (1)           |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 44
+
 Total number of members in cluster: 83
 
 Average length of proteins in cluster: 448.1
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 264 (100.0%) R 345 (100.0%) R 421 (100.0%) 
+Y 264, R 345, R 421
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus         | species                    | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:--------------|:---------------------------|:-----------|-------------------------------------:|
-| AHB32510.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter nosocomialis | O11        |                                    0 |
-| AHB32490.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii    | O15        |                                    0 |
-| ABF01010.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O28ac      |                                    0 |
-| ACK44379.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O42        |                                    0 |
-| BAQ02048.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O185       |                                    0 |
-| AAM27546.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas   | Pseudomonas aeruginosa     | O1         |                                    0 |
+| accession   | order            | family             | genus         | species                    | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:--------------|:---------------------------|:-----------|-------------------------------------:|
+| AHB32510.1  | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter nosocomialis | O11        |                                    0 |
+| AHB32490.1  | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii    | O15        |                                    0 |
+| ABF01010.1  | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O28ac      |                                    0 |
+| ACK44379.1  | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O42        |                                    0 |
+| BAQ02048.1  | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O185       |                                    0 |
+| AAM27546.1  | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas   | Pseudomonas aeruginosa     | O1         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0083_44/sequences.afa)
 
@@ -1899,31 +1809,23 @@ Y 264 (100.0%) R 345 (100.0%) R 421 (100.0%)
 
 #### Sugars in cluster:
 
-ABF01010.1 Escherichia coli O28ac:
+ABF01010.1 (Escherichia coli O28ac)
 
-![](../../../csdb/images/1537.gif)
+![](../../../csdb/images/1537.gif)1537
 
-CSDB record ID: 1537
+BAQ02048.1 (Escherichia coli O185)
 
-ACK44379.1 Escherichia coli O42:
+![](../../../csdb/images/1929.gif)1929
 
-![](../../../csdb/images/1549.gif)
+ACK44379.1 (Escherichia coli O42)
 
-CSDB record ID: 1549
+![](../../../csdb/images/1549.gif)1549
 
-BAQ02048.1 Escherichia coli O185:
+AAM27546.1 (Pseudomonas aeruginosa O1)
 
-![](../../../csdb/images/1929.gif)
+![](../../../csdb/images/6636.gif)6636
 
-CSDB record ID: 1929
-
-AAM27546.1 Pseudomonas aeruginosa O1:
-
-![](../../../csdb/images/6636.gif)
-
-CSDB record ID: 6636
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -1945,10 +1847,10 @@ CSDB record ID: 6636
 | Moraxellales (19)     | Moraxellaceae (19)         | Acinetobacter (18)    |
 |                       |                            | Psychrobacter (1)     |
 | Pseudomonadales (11)  | Pseudomonadaceae (11)      | Pseudomonas (11)      |
-| Bacteroidales (9)     | Paludibacteraceae (3)      | nan (1)               |
+| Bacteroidales (9)     | Paludibacteraceae (3)      | nan (4)               |
 |                       | Tannerellaceae (3)         | Parabacteroides (3)   |
 |                       | Bacteroidaceae (2)         | Bacteroides (2)       |
-|                       | nan (1)                    | nan (1)               |
+|                       | nan (1)                    | nan (4)               |
 | Vibrionales (6)       | Vibrionaceae (6)           | Photobacterium (3)    |
 |                       |                            | Vibrio (3)            |
 | Neisseriales (2)      | Neisseriaceae (2)          | Vitreoscilla (1)      |
@@ -1962,23 +1864,24 @@ CSDB record ID: 6636
 | Hyphomicrobiales (1)  | Devosiaceae (1)            | Devosia (1)           |
 | Aeromonadales (1)     | Aeromonadaceae (1)         | Aeromonas (1)         |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 37
+
 Total number of members in cluster: 82
 
 Average length of proteins in cluster: 403.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-E 271 (100.0%) S 273 (98.8%) Y 377 (98.8%) R 381 (100.0%) N 393 (100.0%) N 457 (98.8%) D 460 (100.0%) K 467 (98.8%) E 471 (100.0%) 
+E 271, S 273, Y 377, R 381, N 393, N 457, D 460, K 467, E 471
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ADI43263.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O25        |                                    0 |
-| ADR74237.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O109       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ADI43263.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O25        |                                    0 |
+| ADR74237.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O109       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0082_37/sequences.afa)
 
@@ -1994,25 +1897,15 @@ E 271 (100.0%) S 273 (98.8%) Y 377 (98.8%) R 381 (100.0%) N 393 (100.0%) N 457 (
 
 #### Sugars in cluster:
 
-ADI43263.1 Escherichia coli O25:
+ADI43263.1 (Escherichia coli O25), ADC84238.1 (Escherichia coli O25)
 
-![](../../../csdb/images/12694.gif)
+![](../../../csdb/images/12694.gif)12694
 
-CSDB record ID: 12694
+ADR74237.1 (Escherichia coli O109)
 
-ADR74237.1 Escherichia coli O109:
+![](../../../csdb/images/1848.gif)1848
 
-![](../../../csdb/images/1848.gif)
-
-CSDB record ID: 1848
-
-#### Sugars for blast hits:
-
-ADC84238.1 Escherichia coli O25:
-
-![](../../../csdb/images/12694.gif)
-
-CSDB record ID: 12694
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -2042,11 +1935,12 @@ CSDB record ID: 12694
 |                       | Burkholderiaceae (1)     | Polynucleobacter (1) |
 | Alteromonadales (3)   | Shewanellaceae (2)       | Shewanella (2)       |
 |                       | Colwelliaceae (1)        | Colwellia (1)        |
-| Flavobacteriales (2)  | Weeksellaceae (1)        | Chryseobacterium (1) |
+| Flavobacteriales (2)  | nan (2)                  | nan (3)              |
+|                       | Weeksellaceae (1)        | Chryseobacterium (1) |
 | Pseudomonadales (2)   | Pseudomonadaceae (2)     | Pseudomonas (2)      |
 | Oceanospirillales (2) | Halomonadaceae (2)       | Halomonas (2)        |
-| Kordiimonadales (1)   | Kordiimonadaceae (1)     | nan (2)              |
-| Rhodobacterales (1)   | Rhodobacteraceae (1)     | nan (2)              |
+| Kordiimonadales (1)   | Kordiimonadaceae (1)     | nan (3)              |
+| Rhodobacterales (1)   | Rhodobacteraceae (1)     | nan (3)              |
 | Campylobacterales (1) | Thiovulaceae (1)         | Sulfurimonas (1)     |
 | Nitrosomonadales (1)  | Thiobacillaceae (1)      | Thiobacillus (1)     |
 | Cytophagales (1)      | Cyclobacteriaceae (1)    | Algoriphagus (1)     |
@@ -2054,25 +1948,26 @@ CSDB record ID: 12694
 | Methylococcales (1)   | Methylococcaceae (1)     | Methyloprofundus (1) |
 | Aeromonadales (1)     | Aeromonadaceae (1)       | Aeromonas (1)        |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 67
+
 Total number of members in cluster: 71
 
 Average length of proteins in cluster: 412.4
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 320 (100.0%) R 321 (97.2%) R 460 (97.2%) Q 463 (98.6%) R 498 (100.0%) E 507 (100.0%) Y 510 (100.0%) 
+R 320, R 321, R 460, Q 463, R 498, E 507, Y 510
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species                | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------------|:-----------|-------------------------------------:|
-| AAZ85713.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli       | O138       |                                    0 |
-| AAM27766.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O3         |                                    0 |
-| AAM27615.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O13        |                                    0 |
-| AAM27645.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O15        |                                    0 |
+| accession   | order            | family             | genus       | species                | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------------|:-----------|-------------------------------------:|
+| AAZ85713.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli       | O138       |                                    0 |
+| AAM27766.1  | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O3         |                                    0 |
+| AAM27615.1  | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O13        |                                    0 |
+| AAM27645.1  | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O15        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0071_67/sequences.afa)
 
@@ -2088,31 +1983,23 @@ R 320 (100.0%) R 321 (97.2%) R 460 (97.2%) Q 463 (98.6%) R 498 (100.0%) E 507 (1
 
 #### Sugars in cluster:
 
-AAZ85713.1 Escherichia coli O138:
+AAM27766.1 (Pseudomonas aeruginosa O3)
 
-![](../../../csdb/images/1880.gif)
+![](../../../csdb/images/24032.gif)24032
 
-CSDB record ID: 1880
+AAM27615.1 (Pseudomonas aeruginosa O13)
 
-AAM27766.1 Pseudomonas aeruginosa O3:
+![](../../../csdb/images/24042.gif)24042
 
-![](../../../csdb/images/24032.gif)
+AAM27645.1 (Pseudomonas aeruginosa O15)
 
-CSDB record ID: 24032
+![](../../../csdb/images/3929.gif)3929
 
-AAM27615.1 Pseudomonas aeruginosa O13:
+AAZ85713.1 (Escherichia coli O138)
 
-![](../../../csdb/images/24042.gif)
+![](../../../csdb/images/1880.gif)1880
 
-CSDB record ID: 24042
-
-AAM27645.1 Pseudomonas aeruginosa O15:
-
-![](../../../csdb/images/3929.gif)
-
-CSDB record ID: 3929
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -2124,7 +2011,7 @@ CSDB record ID: 3929
 |:---------------------------|:------------------------------------------------------|:--------------------------|
 | Pseudomonadales (23)       | Pseudomonadaceae (22)                                 | Pseudomonas (22)          |
 |                            | Marinobacteraceae (1)                                 | Marinobacter (1)          |
-| nan (6)                    | nan (5)                                               | nan (2)                   |
+| nan (6)                    | nan (8)                                               | nan (10)                  |
 |                            | Dissulfurirhabdaceae (1)                              | Dissulfurirhabdus (1)     |
 | Vibrionales (5)            | Vibrionaceae (5)                                      | Vibrio (4)                |
 |                            |                                                       | Photobacterium (1)        |
@@ -2140,43 +2027,44 @@ CSDB record ID: 3929
 |                            |                                                       | Cryobacterium (1)         |
 |                            | Intrasporangiaceae (1)                                | Tetrasphaera (1)          |
 | Deinococcales (3)          | Deinococcaceae (3)                                    | Deinococcus (3)           |
-| Campylobacterales (2)      | nan (5)                                               | nan (2)                   |
-|                            | Campylobacteraceae (1)                                | nan (2)                   |
+| Campylobacterales (2)      | nan (8)                                               | nan (10)                  |
+|                            | Campylobacteraceae (1)                                | nan (10)                  |
 | Alteromonadales (2)        | Shewanellaceae (2)                                    | Parashewanella (1)        |
 |                            |                                                       | Shewanella (1)            |
 | Eubacteriales (2)          | Clostridiaceae (1)                                    | Alkaliphilus (1)          |
-|                            | Syntrophomonadaceae (1)                               | nan (2)                   |
+|                            | Syntrophomonadaceae (1)                               | nan (10)                  |
 | Chitinophagales (2)        | Chitinophagaceae (2)                                  | Chitinophaga (2)          |
 | Flavobacteriales (2)       | Flavobacteriaceae (2)                                 | Flavobacterium (1)        |
 |                            |                                                       | Winogradskyella (1)       |
 | Burkholderiales (1)        | Comamonadaceae (1)                                    | Variovorax (1)            |
-| Deferribacterales (1)      | nan (5)                                               | nan (2)                   |
+| Deferribacterales (1)      | nan (8)                                               | nan (10)                  |
 | Thermoanaerobacterales (1) | Thermoanaerobacterales Family III. Incertae Sedis (1) | Thermoanaerobacterium (1) |
 | Oceanospirillales (1)      | Halomonadaceae (1)                                    | Halomonas (1)             |
-| Chitinivibrionales (1)     | nan (5)                                               | nan (2)                   |
+| Chitinivibrionales (1)     | nan (8)                                               | nan (10)                  |
 | Sphingobacteriales (1)     | Sphingobacteriaceae (1)                               | Pedobacter (1)            |
 | Neisseriales (1)           | Chromobacteriaceae (1)                                | Deefgea (1)               |
 | Eggerthellales (1)         | Eggerthellaceae (1)                                   | Adlercreutzia (1)         |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 27
+
 Total number of members in cluster: 67
 
 Average length of proteins in cluster: 396.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 189 (100.0%) K 255 (97.0%) R 301 (97.0%) Y 326 (100.0%) N 393 (100.0%) D 404 (100.0%) Y 441 (97.0%) 
+R 189, K 255, R 301, Y 326, N 393, D 404, Y 441
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ADC54950.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O18        |                                    0 |
-| BAQ00669.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O18ab      |                                    0 |
-| BAQ01732.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O142       |                                    0 |
-| BAQ00687.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O18ac      |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ADC54950.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O18        |                                    0 |
+| BAQ00669.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O18ab      |                                    0 |
+| BAQ01732.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O142       |                                    0 |
+| BAQ00687.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O18ac      |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0067_27/sequences.afa)
 
@@ -2192,37 +2080,27 @@ R 189 (100.0%) K 255 (97.0%) R 301 (97.0%) Y 326 (100.0%) N 393 (100.0%) D 404 (
 
 #### Sugars in cluster:
 
-ADC54950.1 Escherichia coli O18:
+BAQ00669.1 (Escherichia coli O18ab)
 
-![](../../../csdb/images/20645.gif)
+![](../../../csdb/images/1524.gif)1524
 
-CSDB record ID: 20645
+ADC54950.1 (Escherichia coli O18)
 
-BAQ00669.1 Escherichia coli O18ab:
+![](../../../csdb/images/20645.gif)20645
 
-![](../../../csdb/images/1524.gif)
+BAQ01732.1 (Escherichia coli O142)
 
-CSDB record ID: 1524
+![](../../../csdb/images/1884.gif)1884
 
-BAQ01732.1 Escherichia coli O142:
+BAQ00687.1 (Escherichia coli O18ac)
 
-![](../../../csdb/images/1884.gif)
+![](../../../csdb/images/1521.gif)1521
 
-CSDB record ID: 1884
+#### Sugars for blast hits only (may be incorrect):
 
-BAQ00687.1 Escherichia coli O18ac:
+ARD51912.1 (Escherichia coli O68)
 
-![](../../../csdb/images/1521.gif)
-
-CSDB record ID: 1521
-
-#### Sugars for blast hits:
-
-ARD51912.1 Escherichia coli O68:
-
-![](../../../csdb/images/1574.gif)
-
-CSDB record ID: 1574
+![](../../../csdb/images/1574.gif)1574
 
 #### Alphafold models:
 
@@ -2235,7 +2113,8 @@ CSDB record ID: 1574
 | Bacteroidales (32)         | Prevotellaceae (25)         | Prevotella (18)      |
 |                            |                             | Alloprevotella (5)   |
 |                            |                             | Paraprevotella (1)   |
-|                            | Paludibacteraceae (5)       | nan (9)              |
+|                            | nan (7)                     | nan (14)             |
+|                            | Paludibacteraceae (5)       | nan (14)             |
 | Enterobacterales (14)      | Enterobacteriaceae (13)     | Escherichia (11)     |
 |                            |                             | Leclercia (1)        |
 |                            |                             | Salmonella (1)       |
@@ -2245,40 +2124,41 @@ CSDB record ID: 1574
 |                            |                             | Chryseobacterium (1) |
 |                            | Flavobacteriaceae (2)       | Capnocytophaga (1)   |
 |                            |                             | Flavobacterium (1)   |
-| nan (5)                    | nan (7)                     | nan (9)              |
+| nan (5)                    | nan (7)                     | nan (14)             |
 | Vibrionales (4)            | Vibrionaceae (4)            | Photobacterium (3)   |
 |                            |                             | Aliivibrio (1)       |
 | Pseudomonadales (1)        | Pseudomonadaceae (1)        | Pseudomonas (1)      |
-| Thermoanaerobacterales (1) | Thermoanaerobacteraceae (1) | nan (9)              |
+| Thermoanaerobacterales (1) | Thermoanaerobacteraceae (1) | nan (14)             |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 68
+
 Total number of members in cluster: 66
 
 Average length of proteins in cluster: 402.1
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 220 (100.0%) S 252 (100.0%) R 256 (100.0%) K 321 (100.0%) R 325 (100.0%) R 401 (100.0%) Q 403 (98.5%) 
+D 220, S 252, R 256, K 321, R 325, R 401, Q 403
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
-| BAQ00758.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O28ab      |                                    0 |
-| BAQ00879.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O39        |                                    0 |
-| ABG81806.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O123       |                                    0 |
-| BAQ02068.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O186       |                                    0 |
-| AAD44158.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O7         |                                    0 |
-| BAH24292.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O7         |                                    0 |
-| AFC91472.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O121       |                                    0 |
-| AFC91514.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O121       |                                    0 |
-| AAO39700.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O121       |                                    0 |
-| AFC91570.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O121       |                                    0 |
-| AJR19430.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O186       |                                    0 |
-| BAQ02224.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O123       |                                    0 |
-| AAR97964.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 7          |                                    0 |
+| accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
+| BAQ00758.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O28ab      |                                    0 |
+| BAQ00879.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O39        |                                    0 |
+| ABG81806.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O123       |                                    0 |
+| BAQ02068.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O186       |                                    0 |
+| AAD44158.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O7         |                                    0 |
+| BAH24292.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O7         |                                    0 |
+| AFC91472.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O121       |                                    0 |
+| AFC91514.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O121       |                                    0 |
+| AAO39700.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O121       |                                    0 |
+| AFC91570.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O121       |                                    0 |
+| AJR19430.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O186       |                                    0 |
+| BAQ02224.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O123       |                                    0 |
+| AAR97964.1  | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 7          |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0066_68/sequences.afa)
 
@@ -2294,49 +2174,35 @@ D 220 (100.0%) S 252 (100.0%) R 256 (100.0%) K 321 (100.0%) R 325 (100.0%) R 401
 
 #### Sugars in cluster:
 
-BAQ00758.1 Escherichia coli O28ab:
+BAQ02068.1 (Escherichia coli O186), AJR19430.1 (Escherichia coli O186)
 
-![](../../../csdb/images/736.gif)
+![](../../../csdb/images/1933.gif)1933
 
-CSDB record ID: 736
+AAO39700.1 (Escherichia coli O121), AFC91472.1 (Escherichia coli O121), AFC91514.1 (Escherichia coli O121), AFC91570.1 (Escherichia coli O121)
 
-BAQ00879.1 Escherichia coli O39:
+![](../../../csdb/images/1861.gif)1861
 
-![](../../../csdb/images/1383.gif)
+AAD44158.1 (Escherichia coli O7), BAH24292.1 (Escherichia coli O7)
 
-CSDB record ID: 1383
+![](../../../csdb/images/1385.gif)1385
 
-ABG81806.1 Escherichia coli O123, BAQ02224.1 Escherichia coli O123:
+BAQ00879.1 (Escherichia coli O39)
 
-![](../../../csdb/images/697.gif)
+![](../../../csdb/images/1383.gif)1383
 
-CSDB record ID: 697
+BAQ00758.1 (Escherichia coli O28ab)
 
-BAQ02068.1 Escherichia coli O186, AJR19430.1 Escherichia coli O186:
+![](../../../csdb/images/736.gif)736
 
-![](../../../csdb/images/1933.gif)
+ABG81806.1 (Escherichia coli O123), BAQ02224.1 (Escherichia coli O123)
 
-CSDB record ID: 1933
+![](../../../csdb/images/697.gif)697
 
-AAD44158.1 Escherichia coli O7, BAH24292.1 Escherichia coli O7:
+AAR97964.1 (Shigella dysenteriae 7)
 
-![](../../../csdb/images/1385.gif)
+![](../../../csdb/images/108660.gif)108660
 
-CSDB record ID: 1385
-
-AFC91472.1 Escherichia coli O121, AFC91514.1 Escherichia coli O121, AAO39700.1 Escherichia coli O121, AFC91570.1 Escherichia coli O121:
-
-![](../../../csdb/images/1861.gif)
-
-CSDB record ID: 1861
-
-AAR97964.1 Shigella dysenteriae 7:
-
-![](../../../csdb/images/108660.gif)
-
-CSDB record ID: 108660
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -2376,30 +2242,31 @@ CSDB record ID: 108660
 | Nitrosomonadales (1)  | Methylophilaceae (1)    | Methylotenera (1)      |
 | Oceanospirillales (1) | Oceanospirillaceae (1)  | Marinobacterium (1)    |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 12
+
 Total number of members in cluster: 66
 
 Average length of proteins in cluster: 369.6
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 188 (100.0%) K 218 (100.0%) D 226 (100.0%) S 227 (100.0%) N 228 (100.0%) S 281 (100.0%) R 282 (98.5%) D 367 (100.0%) S 369 (100.0%) K 373 (98.5%) H 414 (100.0%) E 423 (100.0%) 
+R 188, K 218, D 226, S 227, N 228, S 281, R 282, D 367, S 369, K 373, H 414, E 423
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus         | species                    | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:--------------|:---------------------------|:-----------|-------------------------------------:|
-| AHB32538.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter nosocomialis | O2         |                                    0 |
-| BAQ00846.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O37        |                                    0 |
-| BAQ00975.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O48        |                                    0 |
-| ACD37014.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O112ac     |                                    0 |
-| ACD37157.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O130       |                                    0 |
-| BAQ01494.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O102       |                                    0 |
-| AFS33314.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O102       |                                    0 |
-| ACD37006.1          | Enterobacterales | Enterobacteriaceae | Shigella      | Shigella dysenteriae       | 2          |                                    0 |
-| AFW04741.1          | Enterobacterales | Enterobacteriaceae | Salmonella    | Salmonella enterica        | O21        |                                    0 |
+| accession   | order            | family             | genus         | species                    | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:--------------|:---------------------------|:-----------|-------------------------------------:|
+| AHB32538.1  | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter nosocomialis | O2         |                                    0 |
+| BAQ00846.1  | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O37        |                                    0 |
+| BAQ00975.1  | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O48        |                                    0 |
+| ACD37014.1  | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O112ac     |                                    0 |
+| ACD37157.1  | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O130       |                                    0 |
+| BAQ01494.1  | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O102       |                                    0 |
+| AFS33314.1  | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli           | O102       |                                    0 |
+| ACD37006.1  | Enterobacterales | Enterobacteriaceae | Shigella      | Shigella dysenteriae       | 2          |                                    0 |
+| AFW04741.1  | Enterobacterales | Enterobacteriaceae | Salmonella    | Salmonella enterica        | O21        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0066_12/sequences.afa)
 
@@ -2415,49 +2282,35 @@ R 188 (100.0%) K 218 (100.0%) D 226 (100.0%) S 227 (100.0%) N 228 (100.0%) S 281
 
 #### Sugars in cluster:
 
-BAQ00846.1 Escherichia coli O37:
+BAQ01494.1 (Escherichia coli O102), AFS33314.1 (Escherichia coli O102)
 
-![](../../../csdb/images/1544.gif)
+![](../../../csdb/images/1841.gif)1841
 
-CSDB record ID: 1544
+ACD37014.1 (Escherichia coli O112ac)
 
-BAQ00975.1 Escherichia coli O48:
+![](../../../csdb/images/1852.gif)1852
 
-![](../../../csdb/images/1555.gif)
+BAQ00846.1 (Escherichia coli O37)
 
-CSDB record ID: 1555
+![](../../../csdb/images/1544.gif)1544
 
-ACD37014.1 Escherichia coli O112ac:
+BAQ00975.1 (Escherichia coli O48)
 
-![](../../../csdb/images/1852.gif)
+![](../../../csdb/images/1555.gif)1555
 
-CSDB record ID: 1852
+AFW04741.1 (Salmonella enterica O21)
 
-ACD37157.1 Escherichia coli O130:
+![](../../../csdb/images/30351.gif)30351
 
-![](../../../csdb/images/1871.gif)
+ACD37157.1 (Escherichia coli O130)
 
-CSDB record ID: 1871
+![](../../../csdb/images/1871.gif)1871
 
-BAQ01494.1 Escherichia coli O102, AFS33314.1 Escherichia coli O102:
+ACD37006.1 (Shigella dysenteriae 2)
 
-![](../../../csdb/images/1841.gif)
+![](../../../csdb/images/1869.gif)1869
 
-CSDB record ID: 1841
-
-ACD37006.1 Shigella dysenteriae 2:
-
-![](../../../csdb/images/1869.gif)
-
-CSDB record ID: 1869
-
-AFW04741.1 Salmonella enterica O21:
-
-![](../../../csdb/images/30351.gif)
-
-CSDB record ID: 30351
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -2495,27 +2348,28 @@ CSDB record ID: 30351
 | Spirochaetales (1)    | Treponemataceae (1)       | Rectinema (1)         |
 | Aeromonadales (1)     | Aeromonadaceae (1)        | Aeromonas (1)         |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 56
+
 Total number of members in cluster: 59
 
 Average length of proteins in cluster: 359.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 65 (100.0%) D 71 (100.0%) Y 75 (100.0%) E 101 (100.0%) R 168 (100.0%) H 214 (100.0%) Y 288 (100.0%) R 371 (100.0%) Y 443 (100.0%) 
+R 65, D 71, Y 75, E 101, R 168, H 214, Y 288, R 371, Y 443
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
-| ADQ37335.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O118       |                                    0 |
-| ACA24821.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O152       |                                    0 |
-| ADN43894.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O173       |                                    0 |
-| ADQ37322.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O151       |                                    0 |
-| ACA24811.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 12         |                                    0 |
-| AFW04867.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica  | O47        |                                    0 |
+| accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
+| ADQ37335.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O118       |                                    0 |
+| ACA24821.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O152       |                                    0 |
+| ADN43894.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O173       |                                    0 |
+| ADQ37322.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O151       |                                    0 |
+| ACA24811.1  | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 12         |                                    0 |
+| AFW04867.1  | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica  | O47        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0059_56/sequences.afa)
 
@@ -2531,31 +2385,23 @@ R 65 (100.0%) D 71 (100.0%) Y 75 (100.0%) E 101 (100.0%) R 168 (100.0%) H 214 (1
 
 #### Sugars in cluster:
 
-ADQ37335.1 Escherichia coli O118:
+ADQ37322.1 (Escherichia coli O151)
 
-![](../../../csdb/images/1858.gif)
+![](../../../csdb/images/1892.gif)1892
 
-CSDB record ID: 1858
+ACA24821.1 (Escherichia coli O152), ACA24811.1 (Shigella dysenteriae 12)
 
-ACA24821.1 Escherichia coli O152, ACA24811.1 Shigella dysenteriae 12:
+![](../../../csdb/images/1893.gif)1893
 
-![](../../../csdb/images/1893.gif)
+ADN43894.1 (Escherichia coli O173)
 
-CSDB record ID: 1893
+![](../../../csdb/images/3159.gif)3159
 
-ADN43894.1 Escherichia coli O173:
+ADQ37335.1 (Escherichia coli O118)
 
-![](../../../csdb/images/3159.gif)
+![](../../../csdb/images/1858.gif)1858
 
-CSDB record ID: 3159
-
-ADQ37322.1 Escherichia coli O151:
-
-![](../../../csdb/images/1892.gif)
-
-CSDB record ID: 1892
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -2567,9 +2413,9 @@ CSDB record ID: 1892
 |:----------------------|:------------------------|:------------------------|
 | Enterobacterales (36) | Enterobacteriaceae (23) | Escherichia (11)        |
 |                       |                         | Salmonella (7)          |
+|                       |                         | nan (2)                 |
 |                       |                         | Citrobacter (2)         |
 |                       |                         | Shigella (1)            |
-|                       |                         | nan (1)                 |
 |                       |                         | Buttiauxella (1)        |
 |                       | Morganellaceae (10)     | Morganella (4)          |
 |                       |                         | Providencia (3)         |
@@ -2579,7 +2425,7 @@ CSDB record ID: 1892
 | Bacteroidales (8)     | Bacteroidaceae (5)      | Bacteroides (5)         |
 |                       | Tannerellaceae (3)      | Parabacteroides (3)     |
 | Spirochaetales (5)    | Treponemataceae (4)     | Treponema (4)           |
-|                       | Spirochaetaceae (1)     | nan (1)                 |
+|                       | Spirochaetaceae (1)     | nan (2)                 |
 | Pasteurellales (2)    | Pasteurellaceae (2)     | Haemophilus (1)         |
 |                       |                         | Spirabiliibacterium (1) |
 | Aeromonadales (2)     | Aeromonadaceae (2)      | Aeromonas (2)           |
@@ -2589,23 +2435,24 @@ CSDB record ID: 1892
 | Campylobacterales (1) | Campylobacteraceae (1)  | Campylobacter (1)       |
 | Flavobacteriales (1)  | Flavobacteriaceae (1)   | Flavobacterium (1)      |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 36
+
 Total number of members in cluster: 59
 
 Average length of proteins in cluster: 357.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Q 75 (100.0%) D 81 (100.0%) Y 82 (100.0%) Y 85 (100.0%) E 106 (100.0%) N 178 (98.3%) R 181 (100.0%) H 216 (100.0%) Y 292 (100.0%) K 314 (100.0%) R 380 (100.0%) 
+Q 75, D 81, Y 82, Y 85, E 106, N 178, R 181, H 216, Y 292, K 314, R 380
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|-------------------------------------:|
-| AHB32283.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O21        |                                    0 |
-| ACH97162.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O21        |                                    0 |
+| accession   | order            | family             | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|-------------------------------------:|
+| AHB32283.1  | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O21        |                                    0 |
+| ACH97162.1  | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O21        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0059_36/sequences.afa)
 
@@ -2621,13 +2468,11 @@ Q 75 (100.0%) D 81 (100.0%) Y 82 (100.0%) Y 85 (100.0%) E 106 (100.0%) N 178 (98
 
 #### Sugars in cluster:
 
-ACH97162.1 Escherichia coli O21:
+ACH97162.1 (Escherichia coli O21)
 
-![](../../../csdb/images/1529.gif)
+![](../../../csdb/images/1529.gif)1529
 
-CSDB record ID: 1529
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -2651,8 +2496,8 @@ CSDB record ID: 1529
 | Moraxellales (8)      | Moraxellaceae (8)          | Acinetobacter (8)     |
 | Bacteroidales (7)     | Bacteroidaceae (4)         | Bacteroides (4)       |
 |                       | Tannerellaceae (1)         | Parabacteroides (1)   |
-|                       | Muribaculaceae (1)         | nan (1)               |
-|                       | nan (1)                    | nan (1)               |
+|                       | Muribaculaceae (1)         | nan (3)               |
+|                       | nan (1)                    | nan (3)               |
 | Alteromonadales (7)   | Pseudoalteromonadaceae (3) | Pseudoalteromonas (3) |
 |                       | Shewanellaceae (2)         | Shewanella (2)        |
 |                       | Moritellaceae (1)          | Moritella (1)         |
@@ -2662,27 +2507,28 @@ CSDB record ID: 1529
 | Aeromonadales (3)     | Aeromonadaceae (3)         | Aeromonas (3)         |
 | Campylobacterales (1) | Arcobacteraceae (1)        | Arcobacter (1)        |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 21
+
 Total number of members in cluster: 58
 
 Average length of proteins in cluster: 374.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Q 170 (100.0%) D 185 (100.0%) R 198 (100.0%) R 212 (100.0%) E 219 (100.0%) S 262 (100.0%) R 313 (100.0%) D 322 (100.0%) S 324 (100.0%) K 328 (100.0%) D 366 (100.0%) K 413 (100.0%) 
+Q 170, D 185, R 198, R 212, E 219, S 262, R 313, D 322, S 324, K 328, D 366, K 413
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------------------------------------:|
-| BAQ00994.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O49        |                                    0 |
-| ADC54974.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O85        |                                    0 |
-| BAQ01917.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O175       |                                    0 |
-| CAN87666.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O45        |                                    0 |
-| AFW04828.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O44        |                                    0 |
-| AFW04837.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O53        |                                    0 |
+| accession   | order            | family             | genus       | species             | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------------------------------------:|
+| BAQ00994.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O49        |                                    0 |
+| ADC54974.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O85        |                                    0 |
+| BAQ01917.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O175       |                                    0 |
+| CAN87666.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O45        |                                    0 |
+| AFW04828.1  | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O44        |                                    0 |
+| AFW04837.1  | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O53        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0058_21/sequences.afa)
 
@@ -2698,43 +2544,31 @@ Q 170 (100.0%) D 185 (100.0%) R 198 (100.0%) R 212 (100.0%) E 219 (100.0%) S 262
 
 #### Sugars in cluster:
 
-BAQ00994.1 Escherichia coli O49:
+AFW04837.1 (Salmonella enterica O53)
 
-![](../../../csdb/images/1556.gif)
+![](../../../csdb/images/26312.gif)26312
 
-CSDB record ID: 1556
+ADC54974.1 (Escherichia coli O85)
 
-ADC54974.1 Escherichia coli O85:
+![](../../../csdb/images/1591.gif)1591
 
-![](../../../csdb/images/1591.gif)
+BAQ00994.1 (Escherichia coli O49)
 
-CSDB record ID: 1591
+![](../../../csdb/images/1556.gif)1556
 
-BAQ01917.1 Escherichia coli O175:
+BAQ01917.1 (Escherichia coli O175)
 
-![](../../../csdb/images/1917.gif)
+![](../../../csdb/images/1917.gif)1917
 
-CSDB record ID: 1917
+CAN87666.1 (Escherichia coli O45)
 
-CAN87666.1 Escherichia coli O45:
+![](../../../csdb/images/1552.gif)1552
 
-![](../../../csdb/images/1552.gif)
+AFW04828.1 (Salmonella enterica O44)
 
-CSDB record ID: 1552
+![](../../../csdb/images/3367.gif)3367
 
-AFW04828.1 Salmonella enterica O44:
-
-![](../../../csdb/images/3367.gif)
-
-CSDB record ID: 3367
-
-AFW04837.1 Salmonella enterica O53:
-
-![](../../../csdb/images/26312.gif)
-
-CSDB record ID: 26312
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -2761,24 +2595,25 @@ CSDB record ID: 26312
 | Aeromonadales (1)     | Aeromonadaceae (1)      | Aeromonas (1)        |
 | nan (1)               | nan (1)                 | Wohlfahrtiimonas (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 75
+
 Total number of members in cluster: 51
 
 Average length of proteins in cluster: 400.1
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 57 (100.0%) R 84 (98.0%) S 101 (100.0%) D 114 (100.0%) E 146 (100.0%) R 221 (100.0%) Q 222 (100.0%) H 255 (100.0%) K 320 (100.0%) R 399 (100.0%) 
+S 57, R 84, S 101, D 114, E 146, R 221, Q 222, H 255, K 320, R 399
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|-------------------------------------:|
-| AHB32687.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O14        |                                    0 |
-| BAQ01743.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O144       |                                    0 |
-| ABI55342.1          | Enterobacterales | Enterobacteriaceae | Shigella      | Shigella boydii         | 17         |                                    0 |
+| accession   | order            | family             | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|-------------------------------------:|
+| AHB32687.1  | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O14        |                                    0 |
+| BAQ01743.1  | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O144       |                                    0 |
+| ABI55342.1  | Enterobacterales | Enterobacteriaceae | Shigella      | Shigella boydii         | 17         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0051_75/sequences.afa)
 
@@ -2794,13 +2629,11 @@ S 57 (100.0%) R 84 (98.0%) S 101 (100.0%) D 114 (100.0%) E 146 (100.0%) R 221 (1
 
 #### Sugars in cluster:
 
-ABI55342.1 Shigella boydii 17:
+ABI55342.1 (Shigella boydii 17)
 
-![](../../../csdb/images/714.gif)
+![](../../../csdb/images/714.gif)714
 
-CSDB record ID: 714
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -2826,24 +2659,25 @@ CSDB record ID: 714
 | Flavobacteriales (2)  | Flavobacteriaceae (2)   | Capnocytophaga (2) |
 | Campylobacterales (1) | Campylobacteraceae (1)  | Campylobacter (1)  |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 17
+
 Total number of members in cluster: 48
 
 Average length of proteins in cluster: 368.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 86 (100.0%) Y 90 (97.9%) E 195 (97.9%) R 337 (100.0%) E 373 (100.0%) N 439 (100.0%) R 445 (100.0%) 
+D 86, Y 90, E 195, R 337, E 373, N 439, R 445
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family       | genus    | species                     | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------|:---------|:----------------------------|:-----------|-------------------------------------:|
-| AAN23041.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:1A       |                                    0 |
-| AAN23078.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:2a       |                                    0 |
-| AAN23057.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:4b       |                                    0 |
+| accession   | order            | family       | genus    | species                     | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------|:---------|:----------------------------|:-----------|-------------------------------------:|
+| AAN23041.1  | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:1A       |                                    0 |
+| AAN23078.1  | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:2a       |                                    0 |
+| AAN23057.1  | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:4b       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0048_17/sequences.afa)
 
@@ -2859,19 +2693,15 @@ D 86 (100.0%) Y 90 (97.9%) E 195 (97.9%) R 337 (100.0%) E 373 (100.0%) N 439 (10
 
 #### Sugars in cluster:
 
-AAN23078.1 Yersinia pseudotuberculosis O:2a:
+AAN23057.1 (Yersinia pseudotuberculosis O:4b)
 
-![](../../../csdb/images/12135.gif)
+![](../../../csdb/images/12136.gif)12136
 
-CSDB record ID: 12135
+AAN23078.1 (Yersinia pseudotuberculosis O:2a)
 
-AAN23057.1 Yersinia pseudotuberculosis O:4b:
+![](../../../csdb/images/12135.gif)12135
 
-![](../../../csdb/images/12136.gif)
-
-CSDB record ID: 12136
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -2905,29 +2735,30 @@ CSDB record ID: 12136
 | Nostocales (1)         | Tolypothrichaceae (1)      | Tolypothrix (1)                         |
 | Sphingobacteriales (1) | Sphingobacteriaceae (1)    | Mucilaginibacter (1)                    |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 22
+
 Total number of members in cluster: 46
 
 Average length of proteins in cluster: 408.4
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 160 (100.0%) Y 163 (100.0%) T 166 (100.0%) R 167 (100.0%) S 177 (97.8%) K 216 (97.8%) Y 304 (100.0%) D 306 (100.0%) R 309 (97.8%) N 310 (97.8%) E 331 (100.0%) R 340 (100.0%) K 346 (100.0%) D 381 (100.0%) E 440 (97.8%) 
+R 160, Y 163, T 166, R 167, S 177, K 216, Y 304, D 306, R 309, N 310, E 331, R 340, K 346, D 381, E 440
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus      | species             | serotype                   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:---------------------------|-------------------------------------:|
-| WP_000905563.1      | Enterobacterales | Enterobacteriaceae | Salmonella | nan                 | Typhi                      |                                    0 |
-| AAO68867.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Typhi                      |                                    0 |
-| AAV77445.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Paratyphi A                |                                    0 |
-| ACF69726.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Heidelberg                 |                                    0 |
-| CAR59582.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Paratyphi A                |                                    0 |
-| ACH74809.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Dublin                     |                                    0 |
-| CAR37642.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Gallinarum bv. Pullorum 11 |                                    0 |
-| AAL20257.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O4 (B) Typhimurium         |                                    0 |
+| accession      | order            | family             | genus      | species             | serotype                   |   Enterobacterial common antigen Wzy |
+|:---------------|:-----------------|:-------------------|:-----------|:--------------------|:---------------------------|-------------------------------------:|
+| WP_000905563.1 | Enterobacterales | Enterobacteriaceae | Salmonella | nan                 | Typhi                      |                                    0 |
+| AAO68867.1     | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Typhi                      |                                    0 |
+| AAV77445.1     | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Paratyphi A                |                                    0 |
+| ACF69726.1     | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Heidelberg                 |                                    0 |
+| CAR59582.1     | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Paratyphi A                |                                    0 |
+| ACH74809.1     | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Dublin                     |                                    0 |
+| CAR37642.1     | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Gallinarum bv. Pullorum 11 |                                    0 |
+| AAL20257.1     | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O4 (B) Typhimurium         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0046_22/sequences.afa)
 
@@ -2943,31 +2774,23 @@ R 160 (100.0%) Y 163 (100.0%) T 166 (100.0%) R 167 (100.0%) S 177 (97.8%) K 216 
 
 #### Sugars in cluster:
 
-WP_000905563.1 Salmonella enterica Typhi, AAO68867.1 Salmonella enterica Typhi:
+CAR37642.1 (Salmonella enterica Gallinarum)
 
-![](../../../csdb/images/21859.gif)
+![](../../../csdb/images/30403.gif)30403
 
-CSDB record ID: 21859
+AAV77445.1 (Salmonella enterica Paratyphi A), CAR59582.1 (Salmonella enterica Paratyphi A)
 
-AAV77445.1 Salmonella enterica Paratyphi A, CAR59582.1 Salmonella enterica Paratyphi A:
+![](../../../csdb/images/7418.gif)7418
 
-![](../../../csdb/images/7418.gif)
+AAL20257.1 (Salmonella enterica Typhimurium)
 
-CSDB record ID: 7418
+![](../../../csdb/images/30397.gif)30397
 
-CAR37642.1 Salmonella enterica Gallinarum bv. Pullorum 11:
+AAO68867.1 (Salmonella enterica Typhi), WP_000905563.1 (nan Typhii)
 
-![](../../../csdb/images/30403.gif)
+![](../../../csdb/images/21859.gif)21859
 
-CSDB record ID: 30403
-
-AAL20257.1 Salmonella enterica O4 (B) Typhimurium:
-
-![](../../../csdb/images/30397.gif)
-
-CSDB record ID: 30397
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -2985,30 +2808,31 @@ CSDB record ID: 30397
 |                        |                         | Acidobacterium (1)    |
 |                        |                         | Terriglobus (1)       |
 |                        |                         | Bryocella (1)         |
-| nan (4)                | nan (4)                 | nan (4)               |
+| nan (4)                | nan (4)                 | nan (5)               |
 | Sphingomonadales (3)   | Sphingomonadaceae (3)   | Sphingomonas (3)      |
 | Burkholderiales (3)    | Oxalobacteraceae (3)    | Massilia (1)          |
 |                        |                         | Duganella (1)         |
 |                        |                         | Janthinobacterium (1) |
-| Planctomycetales (1)   | Planctomycetaceae (1)   | nan (4)               |
+| Planctomycetales (1)   | Planctomycetaceae (1)   | nan (5)               |
 | Desulfuromonadales (1) | Geobacteraceae (1)      | Geobacter (1)         |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 58
+
 Total number of members in cluster: 45
 
 Average length of proteins in cluster: 410.4
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 82 (100.0%) D 109 (100.0%) R 191 (100.0%) H 228 (100.0%) S 230 (97.8%) Y 287 (100.0%) R 371 (100.0%) R 436 (97.8%) 
+D 82, D 109, R 191, H 228, S 230, Y 287, R 371, R 436
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ADI43271.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O27        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ADI43271.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O27        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0045_58/sequences.afa)
 
@@ -3024,25 +2848,19 @@ D 82 (100.0%) D 109 (100.0%) R 191 (100.0%) H 228 (100.0%) S 230 (97.8%) Y 287 (
 
 #### Sugars in cluster:
 
-ADI43271.1 Escherichia coli O27:
+ADI43271.1 (Escherichia coli O27)
 
-![](../../../csdb/images/1535.gif)
+![](../../../csdb/images/1535.gif)1535
 
-CSDB record ID: 1535
+#### Sugars for blast hits only (may be incorrect):
 
-#### Sugars for blast hits:
+AXY99682.1 (Proteus vulgaris O34)
 
-CZQ24278.1 Klebsiella pneumoniae K27:
+![](../../../csdb/images/20104.gif)20104
 
-![](../../../csdb/images/6079.gif)
+CZQ24278.1 (Klebsiella pneumoniae K27)
 
-CSDB record ID: 6079
-
-AXY99682.1 Proteus vulgaris O34:
-
-![](../../../csdb/images/20104.gif)
-
-CSDB record ID: 20104
+![](../../../csdb/images/6079.gif)6079
 
 #### Alphafold models:
 
@@ -3064,22 +2882,23 @@ CSDB record ID: 20104
 |                       |                         | Rosenbergiella (1) |
 |                       | Morganellaceae (1)      | Proteus (1)        |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 57
+
 Total number of members in cluster: 43
 
 Average length of proteins in cluster: 379.6
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 31 (100.0%) R 85 (100.0%) D 92 (100.0%) Y 96 (100.0%) N 203 (100.0%) Q 207 (100.0%) H 249 (100.0%) R 485 (100.0%) 
+Y 31, R 85, D 92, Y 96, N 203, Q 207, H 249, R 485
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  |   serotype |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------------------------------------:|
-| CAI34008.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |         27 |                                    0 |
+| accession   | order           | family           | genus         | species                  |   serotype |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------------------------------------:|
+| CAI34008.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |         27 |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0043_57/sequences.afa)
 
@@ -3095,13 +2914,11 @@ Y 31 (100.0%) R 85 (100.0%) D 92 (100.0%) Y 96 (100.0%) N 203 (100.0%) Q 207 (10
 
 #### Sugars in cluster:
 
-CAI34008.1 Streptococcus pneumoniae 27:
+CAI34008.1 (Streptococcus pneumoniae 27)
 
-![](../../../csdb/images/7085.gif)
+![](../../../csdb/images/7085.gif)7085
 
-CSDB record ID: 7085
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3111,8 +2928,8 @@ CSDB record ID: 7085
 
 | order (count)        | family (count)        | genus (count)           |
 |:---------------------|:----------------------|:------------------------|
-| Eubacteriales (21)   | Lachnospiraceae (8)   | Blautia (3)             |
-|                      |                       | nan (2)                 |
+| Eubacteriales (21)   | Lachnospiraceae (8)   | nan (4)                 |
+|                      |                       | Blautia (3)             |
 |                      |                       | Anaerostipes (1)        |
 |                      |                       | Enterocloster (1)       |
 |                      |                       | Fusicatenibacter (1)    |
@@ -3127,33 +2944,34 @@ CSDB record ID: 7085
 |                      |                       | Ligilactobacillus (1)   |
 |                      | Streptococcaceae (3)  | Streptococcus (3)       |
 |                      | Carnobacteriaceae (1) | Granulicatella (1)      |
-| nan (2)              | nan (2)               | nan (2)                 |
+| nan (2)              | nan (2)               | nan (4)                 |
 | Eggerthellales (2)   | Eggerthellaceae (2)   | Eggerthella (2)         |
 | Fibrobacterales (1)  | Fibrobacteraceae (1)  | Fibrobacter (1)         |
 | Anaerolineales (1)   | Anaerolineaceae (1)   | Flexilinea (1)          |
 | Pasteurellales (1)   | Pasteurellaceae (1)   | Actinobacillus (1)      |
-| Synergistales (1)    | Synergistaceae (1)    | nan (2)                 |
+| Synergistales (1)    | Synergistaceae (1)    | nan (4)                 |
 | Bacteroidales (1)    | Bacteroidaceae (1)    | Bacteroides (1)         |
 | Coriobacteriales (1) | Coriobacteriaceae (1) | Collinsella (1)         |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 31
+
 Total number of members in cluster: 43
 
 Average length of proteins in cluster: 376.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 160 (100.0%) R 162 (97.7%) R 166 (100.0%) T 168 (97.7%) N 175 (100.0%) S 228 (100.0%) R 229 (100.0%) T 230 (100.0%) Q 283 (100.0%) R 307 (100.0%) Y 332 (97.7%) D 336 (100.0%) Y 344 (97.7%) E 386 (97.7%) 
+D 160, R 162, R 166, T 168, N 175, S 228, R 229, T 230, Q 283, R 307, Y 332, D 336, Y 344, E 386
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ00957.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O46        |                                    0 |
-| BAQ01812.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O160       |                                    0 |
-| BAQ01687.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O134       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ00957.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O46        |                                    0 |
+| BAQ01812.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O160       |                                    0 |
+| BAQ01687.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O134       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0043_31/sequences.afa)
 
@@ -3169,25 +2987,19 @@ D 160 (100.0%) R 162 (97.7%) R 166 (100.0%) T 168 (97.7%) N 175 (100.0%) S 228 (
 
 #### Sugars in cluster:
 
-BAQ00957.1 Escherichia coli O46:
+BAQ00957.1 (Escherichia coli O46)
 
-![](../../../csdb/images/1554.gif)
+![](../../../csdb/images/1554.gif)1554
 
-CSDB record ID: 1554
+BAQ01687.1 (Escherichia coli O134)
 
-BAQ01812.1 Escherichia coli O160:
+![](../../../csdb/images/1876.gif)1876
 
-![](../../../csdb/images/1901.gif)
+BAQ01812.1 (Escherichia coli O160)
 
-CSDB record ID: 1901
+![](../../../csdb/images/1901.gif)1901
 
-BAQ01687.1 Escherichia coli O134:
-
-![](../../../csdb/images/1876.gif)
-
-CSDB record ID: 1876
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3208,23 +3020,24 @@ CSDB record ID: 1876
 |                       | Hafniaceae (1)          | Hafnia (1)        |
 | Aeromonadales (1)     | Aeromonadaceae (1)      | Aeromonas (1)     |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 79
+
 Total number of members in cluster: 42
 
 Average length of proteins in cluster: 429.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 264 (97.6%) N 449 (100.0%) D 461 (100.0%) 
+R 264, N 449, D 461
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI33798.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 22F        |                                    0 |
-| CAI33774.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 22A        |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI33798.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 22F        |                                    0 |
+| CAI33774.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 22A        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0042_79/sequences.afa)
 
@@ -3240,13 +3053,11 @@ R 264 (97.6%) N 449 (100.0%) D 461 (100.0%)
 
 #### Sugars in cluster:
 
-CAI33798.1 Streptococcus pneumoniae 22F:
+CAI33798.1 (Streptococcus pneumoniae 22F)
 
-![](../../../csdb/images/625.gif)
+![](../../../csdb/images/625.gif)625
 
-CSDB record ID: 625
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3264,36 +3075,37 @@ CSDB record ID: 625
 |                       |                        | Limosilactobacillus (1)  |
 |                       |                        | Lactobacillus (1)        |
 |                       | Enterococcaceae (1)    | Enterococcus (1)         |
-| Eubacteriales (14)    | Clostridiaceae (3)     | Clostridium (3)          |
+| Eubacteriales (14)    | nan (5)                | nan (6)                  |
+|                       | Clostridiaceae (3)     | Clostridium (3)          |
 |                       | Lachnospiraceae (3)    | Blautia (1)              |
 |                       |                        | Oribacterium (1)         |
 |                       |                        | Dorea (1)                |
 |                       | Oscillospiraceae (3)   | Faecalibacterium (2)     |
-|                       | nan (2)                | nan (3)                  |
 |                       | Peptococcaceae (1)     | Desulfosporosinus (1)    |
 | Bacillales (3)        | Bacillaceae (3)        | Allobacillus (1)         |
 |                       |                        | Halobacillus (1)         |
 |                       |                        | Bacillus (1)             |
 | Bifidobacteriales (3) | Bifidobacteriaceae (3) | Bifidobacterium (3)      |
 | Coriobacteriales (1)  | Coriobacteriaceae (1)  | Collinsella (1)          |
-| Bacteroidales (1)     | nan (2)                | nan (3)                  |
+| Bacteroidales (1)     | nan (5)                | nan (6)                  |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 53
+
 Total number of members in cluster: 41
 
 Average length of proteins in cluster: 441.7
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 104 (97.6%) R 194 (100.0%) R 207 (97.6%) K 263 (100.0%) R 346 (100.0%) H 425 (100.0%) D 427 (100.0%) 
+Y 104, R 194, R 207, K 263, R 346, H 425, D 427
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ACD75796.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O63        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ACD75796.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O63        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0041_53/sequences.afa)
 
@@ -3309,19 +3121,15 @@ Y 104 (97.6%) R 194 (100.0%) R 207 (97.6%) K 263 (100.0%) R 346 (100.0%) H 425 (
 
 #### Sugars in cluster:
 
-ACD75796.1 Escherichia coli O63:
+ACD75796.1 (Escherichia coli O63)
 
-![](../../../csdb/images/1570.gif)
+![](../../../csdb/images/1570.gif)1570
 
-CSDB record ID: 1570
+#### Sugars for blast hits only (may be incorrect):
 
-#### Sugars for blast hits:
+AXY99492.1 (Proteus vulgaris O17)
 
-AXY99492.1 Proteus vulgaris O17:
-
-![](../../../csdb/images/5227.gif)
-
-CSDB record ID: 5227
+![](../../../csdb/images/5227.gif)5227
 
 #### Alphafold models:
 
@@ -3341,30 +3149,31 @@ CSDB record ID: 5227
 |                       | Erwiniaceae (2)         | Erwinia (2)       |
 | Pseudomonadales (10)  | Pseudomonadaceae (10)   | Pseudomonas (10)  |
 | Vibrionales (5)       | Vibrionaceae (5)        | Vibrio (5)        |
-| Burkholderiales (2)   | Burkholderiaceae (1)    | nan (1)           |
+| Burkholderiales (2)   | Burkholderiaceae (1)    | nan (2)           |
 |                       | Comamonadaceae (1)      | Schlegelella (1)  |
 | Sphingomonadales (2)  | Sphingomonadaceae (2)   | Sphingomonas (2)  |
 | Moraxellales (1)      | Moraxellaceae (1)       | Acinetobacter (1) |
-| Fusobacteriales (1)   | Fusobacteriaceae (1)    | nan (1)           |
+| Fusobacteriales (1)   | Fusobacteriaceae (1)    | nan (2)           |
 | Campylobacterales (1) | Arcobacteraceae (1)     | Aliarcobacter (1) |
 | Pasteurellales (1)    | Pasteurellaceae (1)     | Mannheimia (1)    |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 48
+
 Total number of members in cluster: 41
 
 Average length of proteins in cluster: 405.1
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 279 (97.6%) R 310 (100.0%) E 317 (100.0%) T 323 (97.6%) S 357 (97.6%) S 359 (100.0%) R 460 (97.6%) N 473 (97.6%) R 474 (100.0%) 
+Y 279, R 310, E 317, T 323, S 357, S 359, R 460, N 473, R 474
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| AAK60458.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O91        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| AAK60458.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O91        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0041_48/sequences.afa)
 
@@ -3380,13 +3189,11 @@ Y 279 (97.6%) R 310 (100.0%) E 317 (100.0%) T 323 (97.6%) S 357 (97.6%) S 359 (1
 
 #### Sugars in cluster:
 
-AAK60458.1 Escherichia coli O91:
+AAK60458.1 (Escherichia coli O91)
 
-![](../../../csdb/images/895.gif)
+![](../../../csdb/images/895.gif)895
 
-CSDB record ID: 895
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3407,37 +3214,38 @@ CSDB record ID: 895
 | Vibrionales (4)       | Vibrionaceae (4)        | Vibrio (4)            |
 | Pseudomonadales (3)   | Pseudomonadaceae (3)    | Pseudomonas (3)       |
 | Bacteroidales (2)     | Bacteroidaceae (2)      | Bacteroides (2)       |
-| nan (1)               | nan (1)                 | nan (1)               |
+| nan (1)               | nan (2)                 | nan (2)               |
 | Legionellales (1)     | Legionellaceae (1)      | Legionella (1)        |
 | Burkholderiales (1)   | Burkholderiaceae (1)    | Ralstonia (1)         |
-| Hydrogenophilales (1) | nan (1)                 | nan (1)               |
+| Hydrogenophilales (1) | nan (2)                 | nan (2)               |
 | Bifidobacteriales (1) | Bifidobacteriaceae (1)  | Aeriscardovia (1)     |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 13
+
 Total number of members in cluster: 40
 
 Average length of proteins in cluster: 432.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 76 (100.0%) R 79 (100.0%) Q 176 (100.0%) K 179 (100.0%) Y 183 (100.0%) S 190 (100.0%) H 194 (100.0%) R 213 (100.0%) S 216 (100.0%) S 246 (97.5%) R 253 (100.0%) K 255 (100.0%) S 297 (100.0%) S 300 (100.0%) R 303 (100.0%) E 304 (100.0%) Y 313 (100.0%) D 319 (100.0%) S 320 (97.5%) Q 356 (100.0%) S 390 (100.0%) S 391 (100.0%) S 392 (100.0%) E 396 (100.0%) Y 413 (97.5%) R 449 (97.5%) E 451 (97.5%) K 461 (97.5%) 
+Y 76, R 79, Q 176, K 179, Y 183, S 190, H 194, R 213, S 216, S 246, R 253, K 255, S 297, S 300, R 303, E 304, Y 313, D 319, S 320, Q 356, S 390, S 391, S 392, E 396, Y 413, R 449, E 451, K 461
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species                     | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:----------------------------|:-----------|-------------------------------------:|
-| AKA20935.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:2c       |                                    0 |
-| AKA20966.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:4a       |                                    0 |
-| AKL88154.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:8        |                                    0 |
-| AAY23739.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O77        |                                    0 |
-| AAY23733.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O73        |                                    0 |
-| AAY23745.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O106       |                                    0 |
-| BAQ01935.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O176       |                                    0 |
-| BAQ02177.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O77        |                                    0 |
-| BAQ02105.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O17        |                                    0 |
-| BAQ00945.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O44        |                                    0 |
+| accession   | order            | family             | genus       | species                     | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:----------------------------|:-----------|-------------------------------------:|
+| AKA20935.1  | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:2c       |                                    0 |
+| AKA20966.1  | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:4a       |                                    0 |
+| AKL88154.1  | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:8        |                                    0 |
+| AAY23739.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O77        |                                    0 |
+| AAY23733.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O73        |                                    0 |
+| AAY23745.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O106       |                                    0 |
+| BAQ01935.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O176       |                                    0 |
+| BAQ02177.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O77        |                                    0 |
+| BAQ02105.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O17        |                                    0 |
+| BAQ00945.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O44        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0040_13/sequences.afa)
 
@@ -3453,55 +3261,39 @@ Y 76 (100.0%) R 79 (100.0%) Q 176 (100.0%) K 179 (100.0%) Y 183 (100.0%) S 190 (
 
 #### Sugars in cluster:
 
-AKA20935.1 Yersinia pseudotuberculosis O:2c:
+AAY23733.1 (Escherichia coli O73)
 
-![](../../../csdb/images/12128.gif)
+![](../../../csdb/images/1578.gif)1578
 
-CSDB record ID: 12128
+AKA20966.1 (Yersinia pseudotuberculosis O:4a)
 
-AKA20966.1 Yersinia pseudotuberculosis O:4a:
+![](../../../csdb/images/12129.gif)12129
 
-![](../../../csdb/images/12129.gif)
+AAY23745.1 (Escherichia coli O106)
 
-CSDB record ID: 12129
+![](../../../csdb/images/1845.gif)1845
 
-AAY23739.1 Escherichia coli O77, BAQ02177.1 Escherichia coli O77:
+AAY23739.1 (Escherichia coli O77), BAQ02177.1 (Escherichia coli O77)
 
-![](../../../csdb/images/1583.gif)
+![](../../../csdb/images/1583.gif)1583
 
-CSDB record ID: 1583
+AKA20935.1 (Yersinia pseudotuberculosis O:2c)
 
-AAY23733.1 Escherichia coli O73:
+![](../../../csdb/images/12128.gif)12128
 
-![](../../../csdb/images/1578.gif)
+BAQ01935.1 (Escherichia coli O176)
 
-CSDB record ID: 1578
+![](../../../csdb/images/1918.gif)1918
 
-AAY23745.1 Escherichia coli O106:
+BAQ00945.1 (Escherichia coli O44)
 
-![](../../../csdb/images/1845.gif)
+![](../../../csdb/images/1551.gif)1551
 
-CSDB record ID: 1845
+BAQ02105.1 (Escherichia coli O17)
 
-BAQ01935.1 Escherichia coli O176:
+![](../../../csdb/images/1520.gif)1520
 
-![](../../../csdb/images/1918.gif)
-
-CSDB record ID: 1918
-
-BAQ02105.1 Escherichia coli O17:
-
-![](../../../csdb/images/1520.gif)
-
-CSDB record ID: 1520
-
-BAQ00945.1 Escherichia coli O44:
-
-![](../../../csdb/images/1551.gif)
-
-CSDB record ID: 1551
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3518,25 +3310,27 @@ CSDB record ID: 1551
 |                       | Yersiniaceae (6)        | Yersinia (5)       |
 |                       |                         | Serratia (1)       |
 | Burkholderiales (2)   | nan (2)                 | Mitsuaria (1)      |
+|                       |                         | Roseateles (1)     |
 | Vibrionales (1)       | Vibrionaceae (1)        | Photobacterium (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 63
+
 Total number of members in cluster: 39
 
 Average length of proteins in cluster: 425.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-K 350 (100.0%) R 393 (100.0%) Y 411 (100.0%) K 440 (100.0%) D 456 (100.0%) T 462 (97.4%) T 476 (100.0%) Q 478 (100.0%) Y 486 (97.4%) R 540 (97.4%) 
+K 350, R 393, Y 411, K 440, D 456, T 462, T 476, Q 478, Y 486, R 540
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species                | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------------|:-----------|-------------------------------------:|
-| AAM27595.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O12        |                                    0 |
-| AFW04757.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica    | O61        |                                    0 |
+| accession   | order            | family             | genus       | species                | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------------|:-----------|-------------------------------------:|
+| AAM27595.1  | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O12        |                                    0 |
+| AFW04757.1  | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica    | O61        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0039_63/sequences.afa)
 
@@ -3552,13 +3346,11 @@ K 350 (100.0%) R 393 (100.0%) Y 411 (100.0%) K 440 (100.0%) D 456 (100.0%) T 462
 
 #### Sugars in cluster:
 
-AAM27595.1 Pseudomonas aeruginosa O12:
+AAM27595.1 (Pseudomonas aeruginosa O12)
 
-![](../../../csdb/images/31934.gif)
+![](../../../csdb/images/31934.gif)31934
 
-CSDB record ID: 31934
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3567,39 +3359,40 @@ CSDB record ID: 31934
 | order (count)        | family (count)                               | genus (count)         |
 |:---------------------|:---------------------------------------------|:----------------------|
 | Pseudomonadales (18) | Pseudomonadaceae (18)                        | Pseudomonas (18)      |
-| Burkholderiales (7)  | Oxalobacteraceae (3)                         | Undibacterium (1)     |
+| Burkholderiales (7)  | nan (3)                                      | Paucibacter (1)       |
+|                      | Oxalobacteraceae (3)                         | Undibacterium (1)     |
 |                      |                                              | Janthinobacterium (1) |
 |                      |                                              | Massilia (1)          |
-|                      | nan (2)                                      | Paucibacter (1)       |
 |                      | Burkholderiaceae (2)                         | Pandoraea (1)         |
 |                      |                                              | Paucimonas (1)        |
 | Vibrionales (5)      | Vibrionaceae (5)                             | Vibrio (5)            |
 | Enterobacterales (3) | Enterobacteriaceae (2)                       | Salmonella (2)        |
 |                      | Yersiniaceae (1)                             | Yersinia (1)          |
-| nan (1)              | nan (2)                                      | nan (2)               |
+| nan (1)              | nan (3)                                      | nan (2)               |
 | Thiotrichales (1)    | Fastidiosibacteraceae (1)                    | Cysteiniphilum (1)    |
 | Pirellulales (1)     | Pirellulaceae (1)                            | Roseimaritima (1)     |
 | Aeromonadales (1)    | Aeromonadaceae (1)                           | Aeromonas (1)         |
 | Eubacteriales (1)    | Eubacteriales Family XII. Incertae Sedis (1) | Fusibacter (1)        |
 | Moraxellales (1)     | Moraxellaceae (1)                            | Acinetobacter (1)     |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 84
+
 Total number of members in cluster: 37
 
 Average length of proteins in cluster: 447.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-K 257 (100.0%) R 311 (100.0%) Y 371 (100.0%) N 483 (100.0%) T 486 (97.3%) R 489 (100.0%) D 494 (100.0%) S 546 (97.3%) 
+K 257, R 311, Y 371, N 483, T 486, R 489, D 494, S 546
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus       | species                | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:------------|:-----------------------|:-----------|-------------------------------------:|
-| AAM27560.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O10        |                                    0 |
-| AAM27711.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O19        |                                    0 |
+| accession   | order           | family           | genus       | species                | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:------------|:-----------------------|:-----------|-------------------------------------:|
+| AAM27560.1  | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O10        |                                    0 |
+| AAM27711.1  | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O19        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0037_84/sequences.afa)
 
@@ -3615,19 +3408,15 @@ K 257 (100.0%) R 311 (100.0%) Y 371 (100.0%) N 483 (100.0%) T 486 (97.3%) R 489 
 
 #### Sugars in cluster:
 
-AAM27560.1 Pseudomonas aeruginosa O10:
+AAM27711.1 (Pseudomonas aeruginosa O19)
 
-![](../../../csdb/images/11180.gif)
+![](../../../csdb/images/11026.gif)11026
 
-CSDB record ID: 11180
+AAM27560.1 (Pseudomonas aeruginosa O10)
 
-AAM27711.1 Pseudomonas aeruginosa O19:
+![](../../../csdb/images/11180.gif)11180
 
-![](../../../csdb/images/11026.gif)
-
-CSDB record ID: 11026
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3636,13 +3425,14 @@ CSDB record ID: 11026
 | order (count)          | family (count)          | genus (count)     |
 |:-----------------------|:------------------------|:------------------|
 | Pseudomonadales (20)   | Pseudomonadaceae (18)   | Pseudomonas (18)  |
+|                        | nan (3)                 | nan (4)           |
 |                        | Marinobacteraceae (1)   | Marinobacter (1)  |
-| Burkholderiales (7)    | Burkholderiaceae (4)    | nan (3)           |
+| Burkholderiales (7)    | Burkholderiaceae (4)    | nan (4)           |
 |                        |                         | Cupriavidus (2)   |
 |                        |                         | Pandoraea (1)     |
 |                        | Oxalobacteraceae (2)    | Collimonas (2)    |
 |                        | Comamonadaceae (1)      | Limnohabitans (1) |
-| nan (2)                | nan (3)                 | nan (3)           |
+| nan (2)                | nan (3)                 | nan (4)           |
 | Sphingomonadales (2)   | Sphingomonadaceae (2)   | Sphingomonas (2)  |
 | Rhodocyclales (1)      | Rhodocyclaceae (1)      | Aromatoleum (1)   |
 | Alteromonadales (1)    | Shewanellaceae (1)      | Shewanella (1)    |
@@ -3651,23 +3441,24 @@ CSDB record ID: 11026
 | Aeromonadales (1)      | Aeromonadaceae (1)      | Aeromonas (1)     |
 | Hyphomicrobiales (1)   | Stappiaceae (1)         | Pannonibacter (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 43
+
 Total number of members in cluster: 37
 
 Average length of proteins in cluster: 395.6
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-N 160 (100.0%) S 247 (97.3%) R 343 (100.0%) H 399 (100.0%) E 455 (100.0%) 
+N 160, S 247, R 343, H 399, E 455
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI33515.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 17F        |                                    0 |
-| CAI33491.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 17A        |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI33515.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 17F        |                                    0 |
+| CAI33491.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 17A        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0037_43/sequences.afa)
 
@@ -3683,25 +3474,15 @@ N 160 (100.0%) S 247 (97.3%) R 343 (100.0%) H 399 (100.0%) E 455 (100.0%)
 
 #### Sugars in cluster:
 
-CAI33515.1 Streptococcus pneumoniae 17F:
+CAI33515.1 (Streptococcus pneumoniae 17F), VIQ20135.1 (Streptococcus pneumoniae 17F)
 
-![](../../../csdb/images/815.gif)
+![](../../../csdb/images/815.gif)815
 
-CSDB record ID: 815
+CAI33491.1 (Streptococcus pneumoniae 17A)
 
-CAI33491.1 Streptococcus pneumoniae 17A:
+![](../../../csdb/images/7070.gif)7070
 
-![](../../../csdb/images/7070.gif)
-
-CSDB record ID: 7070
-
-#### Sugars for blast hits:
-
-VIQ20135.1 Streptococcus pneumoniae 17F:
-
-![](../../../csdb/images/815.gif)
-
-CSDB record ID: 815
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3711,7 +3492,7 @@ CSDB record ID: 815
 
 | order (count)          | family (count)          | genus (count)                   |
 |:-----------------------|:------------------------|:--------------------------------|
-| Eubacteriales (16)     | Clostridiaceae (6)      | nan (4)                         |
+| Eubacteriales (16)     | Clostridiaceae (6)      | nan (5)                         |
 |                        |                         | Clostridium (4)                 |
 |                        |                         | Hungatella (1)                  |
 |                        | Oscillospiraceae (5)    | Ruminococcus (4)                |
@@ -3721,27 +3502,28 @@ CSDB record ID: 815
 | Lactobacillales (13)   | Streptococcaceae (12)   | Streptococcus (11)              |
 |                        |                         | Lactococcus (1)                 |
 |                        | Aerococcaceae (1)       | Abiotrophia (1)                 |
-| nan (3)                | nan (3)                 | nan (4)                         |
+| nan (3)                | nan (3)                 | nan (5)                         |
 | Bifidobacteriales (3)  | Bifidobacteriaceae (3)  | Bifidobacterium (3)             |
 | Erysipelotrichales (1) | Erysipelotrichaceae (1) | Faecalitalea (1)                |
 | Bacillales (1)         | Bacillaceae (1)         | Alkalihalobacillus (1)          |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 94
+
 Total number of members in cluster: 36
 
 Average length of proteins in cluster: 432.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 52 (97.2%) K 243 (97.2%) R 326 (100.0%) D 332 (100.0%) N 408 (100.0%) R 410 (100.0%) D 470 (100.0%) 
+D 52, K 243, R 326, D 332, N 408, R 410, D 470
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| AIG62684.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O20        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| AIG62684.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O20        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0036_94/sequences.afa)
 
@@ -3757,7 +3539,7 @@ D 52 (97.2%) K 243 (97.2%) R 326 (100.0%) D 332 (100.0%) N 408 (100.0%) R 410 (1
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3777,33 +3559,34 @@ D 52 (97.2%) K 243 (97.2%) R 326 (100.0%) D 332 (100.0%) N 408 (100.0%) R 410 (1
 | Flavobacteriales (6)         | Flavobacteriaceae (6)         | Flavobacterium (6)      |
 | Chitinophagales (2)          | Chitinophagaceae (2)          | Chitinophaga (2)        |
 | Vibrionales (2)              | Vibrionaceae (2)              | Vibrio (2)              |
-| nan (1)                      | nan (1)                       | nan (1)                 |
+| nan (1)                      | nan (1)                       | nan (3)                 |
 | Cytophagales (1)             | Spirosomaceae (1)             | Dyadobacter (1)         |
 | Pseudomonadales (1)          | Marinobacteraceae (1)         | Marinobacter (1)        |
 | Sphingobacteriales (1)       | Sphingobacteriaceae (1)       | Pedobacter (1)          |
 | Eubacteriales (1)            | Clostridiaceae (1)            | Clostridium (1)         |
 | Thermodesulfovibrionales (1) | Thermodesulfovibrionaceae (1) | Thermodesulfovibrio (1) |
-| Spirochaetales (1)           | Spirochaetaceae (1)           | nan (1)                 |
-| Burkholderiales (1)          | Burkholderiaceae (1)          | nan (1)                 |
+| Spirochaetales (1)           | Spirochaetaceae (1)           | nan (3)                 |
+| Burkholderiales (1)          | Burkholderiaceae (1)          | nan (3)                 |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 65
+
 Total number of members in cluster: 36
 
 Average length of proteins in cluster: 387.6
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 190 (100.0%) D 201 (100.0%) Y 203 (97.2%) N 218 (97.2%) N 257 (100.0%) R 353 (97.2%) Q 356 (100.0%) Y 395 (100.0%) E 397 (100.0%) Q 399 (100.0%) Y 402 (97.2%) Q 406 (100.0%) Y 440 (100.0%) N 447 (100.0%) Y 449 (100.0%) D 452 (97.2%) 
+R 190, D 201, Y 203, N 218, N 257, R 353, Q 356, Y 395, E 397, Q 399, Y 402, Q 406, Y 440, N 447, Y 449, D 452
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species           | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:------------------|:-----------|-------------------------------------:|
-| ABE98437.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli  | O146       |                                    0 |
-| ABI98986.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli  | O147       |                                    0 |
-| ABU80601.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella flexneri | 6          |                                    0 |
+| accession   | order            | family             | genus       | species           | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:------------------|:-----------|-------------------------------------:|
+| ABE98437.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli  | O146       |                                    0 |
+| ABI98986.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli  | O147       |                                    0 |
+| ABU80601.1  | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella flexneri | 6          |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0036_65/sequences.afa)
 
@@ -3819,25 +3602,19 @@ R 190 (100.0%) D 201 (100.0%) Y 203 (97.2%) N 218 (97.2%) N 257 (100.0%) R 353 (
 
 #### Sugars in cluster:
 
-ABE98437.1 Escherichia coli O146:
+ABI98986.1 (Escherichia coli O147)
 
-![](../../../csdb/images/1887.gif)
+![](../../../csdb/images/1624.gif)1624
 
-CSDB record ID: 1887
+ABE98437.1 (Escherichia coli O146)
 
-ABI98986.1 Escherichia coli O147:
+![](../../../csdb/images/1887.gif)1887
 
-![](../../../csdb/images/1624.gif)
+ABU80601.1 (Shigella flexneri 6)
 
-CSDB record ID: 1624
+![](../../../csdb/images/188.gif)188
 
-ABU80601.1 Shigella flexneri 6:
-
-![](../../../csdb/images/188.gif)
-
-CSDB record ID: 188
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3859,6 +3636,7 @@ CSDB record ID: 188
 | Moraxellales (3)       | Moraxellaceae (3)       | Acinetobacter (3)      |
 | Bacillales (2)         | Bacillaceae (2)         | Bacillus (2)           |
 | Burkholderiales (2)    | nan (2)                 | Rhizobacter (1)        |
+|                        |                         | Mitsuaria (1)          |
 | Campylobacterales (1)  | Arcobacteraceae (1)     | Aliarcobacter (1)      |
 | Cytophagales (1)       | Cyclobacteriaceae (1)   | Litoribacter (1)       |
 | Selenomonadales (1)    | Selenomonadaceae (1)    | Propionispira (1)      |
@@ -3866,23 +3644,24 @@ CSDB record ID: 188
 | Spirochaetales (1)     | Treponemataceae (1)     | Treponema (1)          |
 | Erysipelotrichales (1) | Erysipelotrichaceae (1) | nan (3)                |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 171
+
 Total number of members in cluster: 36
 
 Average length of proteins in cluster: 363.1
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 60 (100.0%) D 66 (100.0%) Y 67 (100.0%) Y 70 (97.2%) R 184 (97.2%) Q 185 (100.0%) H 219 (100.0%) R 360 (97.2%) 
+R 60, D 66, Y 67, Y 70, R 184, Q 185, H 219, R 360
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ02116.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O54        |                                    0 |
-| AAK64372.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O104       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ02116.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O54        |                                    0 |
+| AAK64372.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O104       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0036_171/sequences.afa)
 
@@ -3898,25 +3677,15 @@ R 60 (100.0%) D 66 (100.0%) Y 67 (100.0%) Y 70 (97.2%) R 184 (97.2%) Q 185 (100.
 
 #### Sugars in cluster:
 
-BAQ02116.1 Escherichia coli O54:
+BAQ02116.1 (Escherichia coli O54)
 
-![](../../../csdb/images/1561.gif)
+![](../../../csdb/images/1561.gif)1561
 
-CSDB record ID: 1561
+EGR73751.1 (Escherichia coli O104), AAK64372.1 (Escherichia coli O104)
 
-AAK64372.1 Escherichia coli O104:
+![](../../../csdb/images/1843.gif)1843
 
-![](../../../csdb/images/1843.gif)
-
-CSDB record ID: 1843
-
-#### Sugars for blast hits:
-
-EGR73751.1 Escherichia coli O104:
-
-![](../../../csdb/images/1843.gif)
-
-CSDB record ID: 1843
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -3946,23 +3715,24 @@ CSDB record ID: 1843
 | Aeromonadales (1)     | Aeromonadaceae (1)      | Aeromonas (1)       |
 | Lactobacillales (1)   | Enterococcaceae (1)     | Enterococcus (1)    |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 66
+
 Total number of members in cluster: 35
 
 Average length of proteins in cluster: 330.6
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 63 (97.1%) D 70 (97.1%) Y 74 (100.0%) Y 94 (100.0%) E 98 (100.0%) D 124 (100.0%) Y 147 (97.1%) N 166 (100.0%) R 169 (100.0%) Q 170 (100.0%) H 215 (100.0%) N 216 (100.0%) K 271 (100.0%) S 272 (100.0%) R 336 (100.0%) 
+R 63, D 70, Y 74, Y 94, E 98, D 124, Y 147, N 166, R 169, Q 170, H 215, N 216, K 271, S 272, R 336
 
 #### Seeds in cluster:
 
-| protein_accession   | order        | family        | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------------------------------------:|
-| AHB32774.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O12        |                                    0 |
-| AHB32438.2          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O22        |                                    0 |
+| accession   | order        | family        | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------------------------------------:|
+| AHB32774.1  | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O12        |                                    0 |
+| AHB32438.2  | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O22        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0035_66/sequences.afa)
 
@@ -3978,19 +3748,15 @@ R 63 (97.1%) D 70 (97.1%) Y 74 (100.0%) Y 94 (100.0%) E 98 (100.0%) D 124 (100.0
 
 #### Sugars in cluster:
 
-AHB32774.1 Acinetobacter baumannii O12:
+AHB32438.2 (Acinetobacter baumannii O22)
 
-![](../../../csdb/images/493.gif)
+![](../../../csdb/images/2196.gif)2196
 
-CSDB record ID: 493
+AHB32774.1 (Acinetobacter baumannii O12)
 
-AHB32438.2 Acinetobacter baumannii O22:
+![](../../../csdb/images/493.gif)493
 
-![](../../../csdb/images/2196.gif)
-
-CSDB record ID: 2196
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4008,35 +3774,37 @@ CSDB record ID: 2196
 | Pasteurellales (4)    | Pasteurellaceae (4)    | Glaesserella (3)    |
 |                       |                        | Mannheimia (1)      |
 | Vibrionales (4)       | Vibrionaceae (4)       | Vibrio (4)          |
-| Alteromonadales (4)   | Idiomarinaceae (2)     | Aliidiomarina (1)   |
+| Alteromonadales (4)   | nan (3)                | nan (2)             |
+|                       | Idiomarinaceae (2)     | Aliidiomarina (1)   |
 |                       |                        | Idiomarina (1)      |
 |                       | Shewanellaceae (1)     | Shewanella (1)      |
 | Enterobacterales (2)  | Enterobacteriaceae (2) | Buttiauxella (2)    |
-| Hyphomicrobiales (1)  | nan (1)                | nan (2)             |
+| Hyphomicrobiales (1)  | nan (3)                | nan (2)             |
 | Chromatiales (1)      | Chromatiaceae (1)      | Rheinheimera (1)    |
 | Flavobacteriales (1)  | Flavobacteriaceae (1)  | Capnocytophaga (1)  |
-| nan (1)               | nan (1)                | Ignatzschineria (1) |
+| nan (1)               | nan (3)                | Ignatzschineria (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 4
+
 Total number of members in cluster: 34
 
 Average length of proteins in cluster: 403.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 204 (97.1%) E 244 (100.0%) Y 282 (97.1%) K 289 (100.0%) R 293 (100.0%) R 316 (100.0%) E 349 (100.0%) Y 397 (100.0%) 
+R 204, E 244, Y 282, K 289, R 293, R 316, E 349, Y 397
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species                     | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:----------------------------|:-----------|-------------------------------------:|
-| CAB63298.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:1B       |                                    0 |
-| AKA20948.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:3        |                                    0 |
-| ACV52983.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:11       |                                    0 |
-| ACV53000.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:14       |                                    0 |
-| BAQ01843.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O163       |                                    0 |
+| accession   | order            | family             | genus       | species                     | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:----------------------------|:-----------|-------------------------------------:|
+| CAB63298.1  | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:1B       |                                    0 |
+| AKA20948.1  | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:3        |                                    0 |
+| ACV52983.1  | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:11       |                                    0 |
+| ACV53000.1  | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:14       |                                    0 |
+| BAQ01843.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O163       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0034_4/sequences.afa)
 
@@ -4052,25 +3820,19 @@ R 204 (97.1%) E 244 (100.0%) Y 282 (97.1%) K 289 (100.0%) R 293 (100.0%) R 316 (
 
 #### Sugars in cluster:
 
-AKA20948.1 Yersinia pseudotuberculosis O:3:
+AKA20948.1 (Yersinia pseudotuberculosis O:3)
 
-![](../../../csdb/images/12133.gif)
+![](../../../csdb/images/12133.gif)12133
 
-CSDB record ID: 12133
+ACV52983.1 (Yersinia pseudotuberculosis O:11)
 
-ACV52983.1 Yersinia pseudotuberculosis O:11:
+![](../../../csdb/images/12124.gif)12124
 
-![](../../../csdb/images/12124.gif)
+BAQ01843.1 (Escherichia coli O163)
 
-CSDB record ID: 12124
+![](../../../csdb/images/1905.gif)1905
 
-BAQ01843.1 Escherichia coli O163:
-
-![](../../../csdb/images/1905.gif)
-
-CSDB record ID: 1905
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4095,24 +3857,25 @@ CSDB record ID: 1905
 | Neisseriales (1)      | Chromobacteriaceae (1)  | Chromobacterium (1) |
 | Eubacteriales (1)     | Eubacteriaceae (1)      | Eubacterium (1)     |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 93
+
 Total number of members in cluster: 33
 
 Average length of proteins in cluster: 344.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 78 (100.0%) Y 134 (100.0%) Q 144 (100.0%) Q 147 (100.0%) R 149 (100.0%) Q 150 (100.0%) H 189 (100.0%) Y 258 (100.0%) R 327 (100.0%) E 336 (100.0%) Y 384 (100.0%) 
+Y 78, Y 134, Q 144, Q 147, R 149, Q 150, H 189, Y 258, R 327, E 336, Y 384
 
 #### Seeds in cluster:
 
-| protein_accession   | order        | family        | genus         | species                    | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-------------|:--------------|:--------------|:---------------------------|:-----------|-------------------------------------:|
-| AHB32666.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter nosocomialis | O4         |                                    0 |
-| AHB32888.2          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii    | O7         |                                    0 |
-| AHB32334.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii    | O18        |                                    0 |
+| accession   | order        | family        | genus         | species                    | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-------------|:--------------|:--------------|:---------------------------|:-----------|-------------------------------------:|
+| AHB32666.1  | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter nosocomialis | O4         |                                    0 |
+| AHB32888.2  | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii    | O7         |                                    0 |
+| AHB32334.1  | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii    | O18        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0033_93/sequences.afa)
 
@@ -4128,19 +3891,15 @@ Y 78 (100.0%) Y 134 (100.0%) Q 144 (100.0%) Q 147 (100.0%) R 149 (100.0%) Q 150 
 
 #### Sugars in cluster:
 
-AHB32888.2 Acinetobacter baumannii O7:
+AHB32888.2 (Acinetobacter baumannii O7)
 
-![](../../../csdb/images/495.gif)
+![](../../../csdb/images/495.gif)495
 
-CSDB record ID: 495
+AHB32334.1 (Acinetobacter baumannii O18)
 
-AHB32334.1 Acinetobacter baumannii O18:
+![](../../../csdb/images/483.gif)483
 
-![](../../../csdb/images/483.gif)
-
-CSDB record ID: 483
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4159,29 +3918,30 @@ CSDB record ID: 483
 | Vibrionales (1)      | Vibrionaceae (1)           | Vibrio (1)            |
 | Aeromonadales (1)    | Aeromonadaceae (1)         | Aeromonas (1)         |
 | Alteromonadales (1)  | Pseudoalteromonadaceae (1) | Pseudoalteromonas (1) |
-| nan (1)              | nan (1)                    | Wohlfahrtiimonas (1)  |
-| Burkholderiales (1)  | nan (1)                    | Rhizobacter (1)       |
+| nan (1)              | nan (2)                    | Wohlfahrtiimonas (1)  |
+| Burkholderiales (1)  | nan (2)                    | Rhizobacter (1)       |
 | Enterobacterales (1) | Pectobacteriaceae (1)      | Pectobacterium (1)    |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 59
+
 Total number of members in cluster: 33
 
 Average length of proteins in cluster: 382.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 61 (100.0%) D 118 (100.0%) R 197 (100.0%) K 206 (100.0%) R 248 (100.0%) R 334 (100.0%) K 378 (100.0%) 
+R 61, D 118, R 197, K 206, R 248, R 334, K 378
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype      |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:--------------|-------------------------------------:|
-| ACD37165.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O13           |                                    0 |
-| ACD37173.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O135          |                                    0 |
-| ACD37181.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O129          |                                    0 |
-| BAQ02259.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O13/O129/O135 |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype      |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:--------------|-------------------------------------:|
+| ACD37165.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O13           |                                    0 |
+| ACD37173.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O135          |                                    0 |
+| ACD37181.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O129          |                                    0 |
+| BAQ02259.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O13/O129/O135 |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0033_59/sequences.afa)
 
@@ -4197,25 +3957,19 @@ R 61 (100.0%) D 118 (100.0%) R 197 (100.0%) K 206 (100.0%) R 248 (100.0%) R 334 
 
 #### Sugars in cluster:
 
-ACD37165.1 Escherichia coli O13:
+ACD37173.1 (Escherichia coli O135)
 
-![](../../../csdb/images/1515.gif)
+![](../../../csdb/images/1877.gif)1877
 
-CSDB record ID: 1515
+ACD37165.1 (Escherichia coli O13)
 
-ACD37173.1 Escherichia coli O135:
+![](../../../csdb/images/1515.gif)1515
 
-![](../../../csdb/images/1877.gif)
+ACD37181.1 (Escherichia coli O129)
 
-CSDB record ID: 1877
+![](../../../csdb/images/1870.gif)1870
 
-ACD37181.1 Escherichia coli O129:
-
-![](../../../csdb/images/1870.gif)
-
-CSDB record ID: 1870
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4226,13 +3980,13 @@ CSDB record ID: 1870
 | order (count)         | family (count)          | genus (count)      |
 |:----------------------|:------------------------|:-------------------|
 | Enterobacterales (19) | Enterobacteriaceae (18) | Escherichia (8)    |
+|                       |                         | nan (6)            |
 |                       |                         | Shigella (5)       |
-|                       |                         | nan (3)            |
 |                       |                         | Citrobacter (1)    |
 |                       |                         | Buttiauxella (1)   |
 |                       | Erwiniaceae (1)         | Pantoea (1)        |
 | Moraxellales (4)      | Moraxellaceae (4)       | Acinetobacter (4)  |
-| nan (3)               | nan (3)                 | nan (3)            |
+| nan (3)               | nan (3)                 | nan (6)            |
 | Burkholderiales (2)   | Burkholderiaceae (2)    | Cupriavidus (1)    |
 |                       |                         | Ralstonia (1)      |
 | Flavobacteriales (2)  | Flavobacteriaceae (2)   | Flavobacterium (2) |
@@ -4240,23 +3994,24 @@ CSDB record ID: 1870
 | Alteromonadales (1)   | Ferrimonadaceae (1)     | Ferrimonas (1)     |
 | Nitrosomonadales (1)  | Methylophilaceae (1)    | Methylotenera (1)  |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 73
+
 Total number of members in cluster: 29
 
 Average length of proteins in cluster: 413.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 165 (100.0%) R 210 (100.0%) Y 267 (100.0%) R 269 (100.0%) S 371 (100.0%) T 415 (100.0%) D 416 (100.0%) R 421 (100.0%) E 483 (100.0%) K 485 (100.0%) 
+Y 165, R 210, Y 267, R 269, S 371, T 415, D 416, R 421, E 483, K 485
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ACD37046.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O167       |                                    0 |
-| ACD37037.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 3          |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ACD37046.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O167       |                                    0 |
+| ACD37037.1  | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 3          |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0029_73/sequences.afa)
 
@@ -4272,13 +4027,11 @@ Y 165 (100.0%) R 210 (100.0%) Y 267 (100.0%) R 269 (100.0%) S 371 (100.0%) T 415
 
 #### Sugars in cluster:
 
-ACD37046.1 Escherichia coli O167, ACD37037.1 Shigella boydii 3:
+ACD37046.1 (Escherichia coli O167), ACD37037.1 (Shigella boydii 3)
 
-![](../../../csdb/images/1909.gif)
+![](../../../csdb/images/1909.gif)1909
 
-CSDB record ID: 1909
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4297,32 +4050,34 @@ CSDB record ID: 1909
 | Lactobacillales (3)    | Carnobacteriaceae (2)   | Marinilactibacillus (1)    |
 |                        |                         | Carnobacterium (1)         |
 |                        | Enterococcaceae (1)     | Enterococcus (1)           |
-| Bacteroidales (3)      | Bacteroidaceae (2)      | Bacteroides (2)            |
+| Bacteroidales (3)      | nan (7)                 | nan (12)                   |
+|                        | Bacteroidaceae (2)      | Bacteroides (2)            |
 | Selenomonadales (2)    | Selenomonadaceae (2)    | Selenomonas (2)            |
 | Spirochaetales (1)     | Treponemataceae (1)     | Treponema (1)              |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 72
+
 Total number of members in cluster: 29
 
 Average length of proteins in cluster: 431.8
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 187 (100.0%) R 188 (100.0%) Y 203 (100.0%) S 206 (100.0%) D 300 (100.0%) R 304 (100.0%) R 305 (100.0%) Y 329 (100.0%) D 331 (100.0%) 
+R 187, R 188, Y 203, S 206, D 300, R 304, R 305, Y 329, D 331
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus       | species                | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:------------|:-----------------------|:-----------|-------------------------------------:|
-| AAA97573.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O5         |                                    0 |
-| AAC45857.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O5         |                                    0 |
-| AAM27728.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O2         |                                    0 |
-| AAM27801.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O5         |                                    0 |
-| AAM27662.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O16        |                                    0 |
-| AAM27693.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O18        |                                    0 |
-| AAM27748.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O20        |                                    0 |
+| accession   | order           | family           | genus       | species                | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:------------|:-----------------------|:-----------|-------------------------------------:|
+| AAA97573.1  | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O5         |                                    0 |
+| AAC45857.1  | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O5         |                                    0 |
+| AAM27728.1  | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O2         |                                    0 |
+| AAM27801.1  | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O5         |                                    0 |
+| AAM27662.1  | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O16        |                                    0 |
+| AAM27693.1  | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O18        |                                    0 |
+| AAM27748.1  | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O20        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0029_72/sequences.afa)
 
@@ -4338,37 +4093,27 @@ R 187 (100.0%) R 188 (100.0%) Y 203 (100.0%) S 206 (100.0%) D 300 (100.0%) R 304
 
 #### Sugars in cluster:
 
-AAA97573.1 Pseudomonas aeruginosa O5, AAC45857.1 Pseudomonas aeruginosa O5, AAM27801.1 Pseudomonas aeruginosa O5:
+AAA97573.1 (Pseudomonas aeruginosa O5), AAM27801.1 (Pseudomonas aeruginosa O5), AAC45857.1 (Pseudomonas aeruginosa O5)
 
-![](../../../csdb/images/1672.gif)
+![](../../../csdb/images/1672.gif)1672
 
-CSDB record ID: 1672
+AAM27748.1 (Pseudomonas aeruginosa O20)
 
-AAM27728.1 Pseudomonas aeruginosa O2:
+![](../../../csdb/images/6655.gif)6655
 
-![](../../../csdb/images/6565.gif)
+AAM27662.1 (Pseudomonas aeruginosa O16)
 
-CSDB record ID: 6565
+![](../../../csdb/images/6654.gif)6654
 
-AAM27662.1 Pseudomonas aeruginosa O16:
+AAM27728.1 (Pseudomonas aeruginosa O2)
 
-![](../../../csdb/images/6654.gif)
+![](../../../csdb/images/6565.gif)6565
 
-CSDB record ID: 6654
+AAM27693.1 (Pseudomonas aeruginosa O18)
 
-AAM27693.1 Pseudomonas aeruginosa O18:
+![](../../../csdb/images/7836.gif)7836
 
-![](../../../csdb/images/7836.gif)
-
-CSDB record ID: 7836
-
-AAM27748.1 Pseudomonas aeruginosa O20:
-
-![](../../../csdb/images/6655.gif)
-
-CSDB record ID: 6655
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4385,23 +4130,24 @@ CSDB record ID: 6655
 | Oceanospirillales (1) | Oceanospirillaceae (1) | Nitrincola (1)   |
 | Burkholderiales (1)   | Alcaligenaceae (1)     | Bordetella (1)   |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 54
+
 Total number of members in cluster: 28
 
 Average length of proteins in cluster: 384.1
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 197 (100.0%) S 211 (100.0%) R 272 (100.0%) S 350 (100.0%) R 352 (100.0%) H 384 (100.0%) N 385 (100.0%) D 389 (100.0%) 
+Y 197, S 211, R 272, S 350, R 352, H 384, N 385, D 389
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus      | species             | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------|-------------------------------------:|
-| ACD37026.1          | Enterobacterales | Enterobacteriaceae | Shigella   | Shigella boydii     | 12         |                                    0 |
-| AFW04716.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O45        |                                    0 |
+| accession   | order            | family             | genus      | species             | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------|-------------------------------------:|
+| ACD37026.1  | Enterobacterales | Enterobacteriaceae | Shigella   | Shigella boydii     | 12         |                                    0 |
+| AFW04716.1  | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O45        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0028_54/sequences.afa)
 
@@ -4417,13 +4163,11 @@ Y 197 (100.0%) S 211 (100.0%) R 272 (100.0%) S 350 (100.0%) R 352 (100.0%) H 384
 
 #### Sugars in cluster:
 
-ACD37026.1 Shigella boydii 12:
+ACD37026.1 (Shigella boydii 12)
 
-![](../../../csdb/images/1931.gif)
+![](../../../csdb/images/1931.gif)1931
 
-CSDB record ID: 1931
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4444,23 +4188,24 @@ CSDB record ID: 1931
 |                       |                         | Photobacterium (1) |
 | nan (1)               | nan (1)                 | nan (1)            |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 41
+
 Total number of members in cluster: 26
 
 Average length of proteins in cluster: 416.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 159 (100.0%) Y 163 (100.0%) Y 164 (100.0%) N 166 (100.0%) E 188 (100.0%) N 195 (100.0%) K 256 (100.0%) R 265 (100.0%) Q 266 (100.0%) H 296 (100.0%) K 355 (100.0%) R 435 (100.0%) Y 502 (100.0%) R 518 (100.0%) 
+D 159, Y 163, Y 164, N 166, E 188, N 195, K 256, R 265, Q 266, H 296, K 355, R 435, Y 502, R 518
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01584.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O120       |                                    0 |
-| BAQ01641.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O131       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01584.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O120       |                                    0 |
+| BAQ01641.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O131       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0026_41/sequences.afa)
 
@@ -4476,19 +4221,15 @@ D 159 (100.0%) Y 163 (100.0%) Y 164 (100.0%) N 166 (100.0%) E 188 (100.0%) N 195
 
 #### Sugars in cluster:
 
-BAQ01584.1 Escherichia coli O120:
+BAQ01584.1 (Escherichia coli O120)
 
-![](../../../csdb/images/1860.gif)
+![](../../../csdb/images/1860.gif)1860
 
-CSDB record ID: 1860
+BAQ01641.1 (Escherichia coli O131)
 
-BAQ01641.1 Escherichia coli O131:
+![](../../../csdb/images/1873.gif)1873
 
-![](../../../csdb/images/1873.gif)
-
-CSDB record ID: 1873
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4508,28 +4249,29 @@ CSDB record ID: 1873
 | nan (1)              | nan (1)                    | Gallaecimonas (1)     |
 | Aeromonadales (1)    | Aeromonadaceae (1)         | Aeromonas (1)         |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 28
+
 Total number of members in cluster: 25
 
 Average length of proteins in cluster: 381.6
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 43 (100.0%) N 45 (100.0%) D 48 (100.0%) Y 52 (100.0%) E 69 (100.0%) N 113 (100.0%) E 132 (100.0%) Q 133 (100.0%) R 135 (100.0%) Q 136 (100.0%) H 171 (100.0%) K 226 (100.0%) Y 230 (100.0%) R 296 (100.0%) S 350 (100.0%) 
+Y 43, N 45, D 48, Y 52, E 69, N 113, E 132, Q 133, R 135, Q 136, H 171, K 226, Y 230, R 296, S 350
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ABK27355.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |                                    0 |
-| ABK27354.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |                                    0 |
-| ABK27351.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |                                    0 |
-| BAI31288.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |                                    0 |
-| ABK27350.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |                                    0 |
-| ABK27321.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |                                    0 |
-| ABK27352.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ABK27355.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |                                    0 |
+| ABK27354.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |                                    0 |
+| ABK27351.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |                                    0 |
+| BAI31288.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |                                    0 |
+| ABK27350.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |                                    0 |
+| ABK27321.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |                                    0 |
+| ABK27352.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O103       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0025_28/sequences.afa)
 
@@ -4545,13 +4287,11 @@ Y 43 (100.0%) N 45 (100.0%) D 48 (100.0%) Y 52 (100.0%) E 69 (100.0%) N 113 (100
 
 #### Sugars in cluster:
 
-ABK27355.1 Escherichia coli O103, ABK27354.1 Escherichia coli O103, ABK27351.1 Escherichia coli O103, BAI31288.1 Escherichia coli O103, ABK27350.1 Escherichia coli O103, ABK27321.1 Escherichia coli O103, ABK27352.1 Escherichia coli O103:
+ABK27352.1 (Escherichia coli O103), BAI31288.1 (Escherichia coli O103), ABK27351.1 (Escherichia coli O103), ABK27355.1 (Escherichia coli O103), ABK27350.1 (Escherichia coli O103), ABK27321.1 (Escherichia coli O103), ABK27354.1 (Escherichia coli O103)
 
-![](../../../csdb/images/1842.gif)
+![](../../../csdb/images/1842.gif)1842
 
-CSDB record ID: 1842
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4573,26 +4313,27 @@ CSDB record ID: 1842
 | Burkholderiales (1)   | Oxalobacteraceae (1)    | Glaciimonas (1)    |
 | Pseudomonadales (1)   | Pseudomonadaceae (1)    | Pseudomonas (1)    |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 98
+
 Total number of members in cluster: 24
 
 Average length of proteins in cluster: 409.8
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 53 (100.0%) D 60 (100.0%) D 61 (100.0%) H 65 (100.0%) Y 96 (100.0%) Y 98 (100.0%) Y 109 (100.0%) S 118 (100.0%) S 121 (100.0%) Y 129 (100.0%) N 167 (100.0%) R 169 (100.0%) S 173 (100.0%) R 176 (100.0%) Y 208 (100.0%) H 215 (100.0%) R 225 (100.0%) K 272 (100.0%) Y 276 (100.0%) Y 331 (100.0%) R 348 (100.0%) N 402 (100.0%) D 414 (100.0%) N 424 (100.0%) 
+R 53, D 60, D 61, H 65, Y 96, Y 98, Y 109, S 118, S 121, Y 129, N 167, R 169, S 173, R 176, Y 208, H 215, R 225, K 272, Y 276, Y 331, R 348, N 402, D 414, N 424
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI33105.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 10F        |                                    0 |
-| CAI33048.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 10A        |                                    0 |
-| CAI34733.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 10B        |                                    0 |
-| CAI33084.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 10C        |                                    0 |
-| CAI34436.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 39         |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI33105.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 10F        |                                    0 |
+| CAI33048.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 10A        |                                    0 |
+| CAI34733.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 10B        |                                    0 |
+| CAI33084.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 10C        |                                    0 |
+| CAI34436.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 39         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0024_98/sequences.afa)
 
@@ -4608,43 +4349,27 @@ R 53 (100.0%) D 60 (100.0%) D 61 (100.0%) H 65 (100.0%) Y 96 (100.0%) Y 98 (100.
 
 #### Sugars in cluster:
 
-CAI33105.1 Streptococcus pneumoniae 10F:
+CIV98579.1 (Streptococcus pneumoniae 10B), CAI34733.1 (Streptococcus pneumoniae 10B)
 
-![](../../../csdb/images/7049.gif)
+![](../../../csdb/images/7051.gif)7051
 
-CSDB record ID: 7049
+CAI33105.1 (Streptococcus pneumoniae 10F)
 
-CAI33048.1 Streptococcus pneumoniae 10A:
+![](../../../csdb/images/7049.gif)7049
 
-![](../../../csdb/images/1953.gif)
+CAI33084.1 (Streptococcus pneumoniae 10C)
 
-CSDB record ID: 1953
+![](../../../csdb/images/7052.gif)7052
 
-CAI34733.1 Streptococcus pneumoniae 10B:
+CAI33048.1 (Streptococcus pneumoniae 10A)
 
-![](../../../csdb/images/7051.gif)
+![](../../../csdb/images/1953.gif)1953
 
-CSDB record ID: 7051
+CAI34436.1 (Streptococcus pneumoniae 39)
 
-CAI33084.1 Streptococcus pneumoniae 10C:
+![](../../../csdb/images/3663.gif)3663
 
-![](../../../csdb/images/7052.gif)
-
-CSDB record ID: 7052
-
-CAI34436.1 Streptococcus pneumoniae 39:
-
-![](../../../csdb/images/3663.gif)
-
-CSDB record ID: 3663
-
-#### Sugars for blast hits:
-
-CIV98579.1 Streptococcus pneumoniae 10B:
-
-![](../../../csdb/images/7051.gif)
-
-CSDB record ID: 7051
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4660,23 +4385,24 @@ CSDB record ID: 7051
 | Bacillales (3)       | nan (3)               | Gemella (3)        |
 | Pasteurellales (1)   | Pasteurellaceae (1)   | Haemophilus (1)    |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 25
+
 Total number of members in cluster: 24
 
 Average length of proteins in cluster: 399.5
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-N 194 (100.0%) R 302 (100.0%) Y 336 (100.0%) R 341 (100.0%) K 360 (100.0%) 
+N 194, R 302, Y 336, R 341, K 360
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI33862.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 23F        |                                    0 |
-| CAI33840.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 23B        |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI33862.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 23F        |                                    0 |
+| CAI33840.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 23B        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0024_25/sequences.afa)
 
@@ -4692,31 +4418,15 @@ N 194 (100.0%) R 302 (100.0%) Y 336 (100.0%) R 341 (100.0%) K 360 (100.0%)
 
 #### Sugars in cluster:
 
-CAI33862.1 Streptococcus pneumoniae 23F:
+VOC17485.1 (Streptococcus pneumoniae 23F), CAI33862.1 (Streptococcus pneumoniae 23F)
 
-![](../../../csdb/images/1964.gif)
+![](../../../csdb/images/1964.gif)1964
 
-CSDB record ID: 1964
+CAI33840.1 (Streptococcus pneumoniae 23B), VMO60215.1 (Streptococcus pneumoniae 23B)
 
-CAI33840.1 Streptococcus pneumoniae 23B:
+![](../../../csdb/images/7083.gif)7083
 
-![](../../../csdb/images/7083.gif)
-
-CSDB record ID: 7083
-
-#### Sugars for blast hits:
-
-VOC17485.1 Streptococcus pneumoniae 23F:
-
-![](../../../csdb/images/1964.gif)
-
-CSDB record ID: 1964
-
-VMO60215.1 Streptococcus pneumoniae 23B:
-
-![](../../../csdb/images/7083.gif)
-
-CSDB record ID: 7083
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4733,28 +4443,30 @@ CSDB record ID: 7083
 | Eubacteriales (5)    | Lachnospiraceae (3)   | Acetatifactor (1)        |
 |                      |                       | Blautia (1)              |
 |                      |                       | Oribacterium (1)         |
-|                      | Clostridiaceae (1)    | nan (2)                  |
-| Bacteroidales (2)    | Bacteroidaceae (2)    | nan (2)                  |
+|                      | nan (2)               | nan (4)                  |
+|                      | Clostridiaceae (1)    | nan (4)                  |
+| Bacteroidales (2)    | Bacteroidaceae (2)    | nan (4)                  |
 |                      |                       | Phocaeicola (1)          |
-| nan (1)              | nan (2)               | nan (2)                  |
+| nan (1)              | nan (2)               | nan (4)                  |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 69
+
 Total number of members in cluster: 23
 
 Average length of proteins in cluster: 398.1
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 206 (100.0%) R 229 (100.0%) D 235 (100.0%) E 236 (100.0%) T 272 (100.0%) S 274 (100.0%) R 342 (100.0%) R 358 (100.0%) Q 454 (100.0%) R 455 (100.0%) 
+R 206, R 229, D 235, E 236, T 272, S 274, R 342, R 358, Q 454, R 455
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01793.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O156       |                                    0 |
-| BAQ01878.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O170       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01793.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O156       |                                    0 |
+| BAQ01878.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O170       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0023_69/sequences.afa)
 
@@ -4770,19 +4482,15 @@ R 206 (100.0%) R 229 (100.0%) D 235 (100.0%) E 236 (100.0%) T 272 (100.0%) S 274
 
 #### Sugars in cluster:
 
-BAQ01793.1 Escherichia coli O156:
+BAQ01878.1 (Escherichia coli O170)
 
-![](../../../csdb/images/1897.gif)
+![](../../../csdb/images/1407.gif)1407
 
-CSDB record ID: 1897
+BAQ01793.1 (Escherichia coli O156)
 
-BAQ01878.1 Escherichia coli O170:
+![](../../../csdb/images/1897.gif)1897
 
-![](../../../csdb/images/1407.gif)
-
-CSDB record ID: 1407
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4807,27 +4515,28 @@ CSDB record ID: 1407
 | Synechococcales (1)  | Synechococcaceae (1)   | Vulcanococcus (1)     |
 | Hyphomicrobiales (1) | Amorphaceae (1)        | Acuticoccus (1)       |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 81
+
 Total number of members in cluster: 22
 
 Average length of proteins in cluster: 396.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 64 (100.0%) Q 117 (100.0%) D 175 (100.0%) Y 188 (100.0%) Y 192 (100.0%) Y 203 (100.0%) R 208 (100.0%) D 215 (100.0%) Y 221 (100.0%) T 260 (100.0%) R 261 (100.0%) Y 308 (100.0%) R 315 (100.0%) D 318 (100.0%) S 319 (100.0%) S 323 (100.0%) S 326 (100.0%) R 330 (100.0%) S 337 (100.0%) Q 353 (100.0%) R 365 (100.0%) N 367 (100.0%) T 368 (100.0%) D 369 (100.0%) N 370 (100.0%) E 378 (100.0%) 
+R 64, Q 117, D 175, Y 188, Y 192, Y 203, R 208, D 215, Y 221, T 260, R 261, Y 308, R 315, D 318, S 319, S 323, S 326, R 330, S 337, Q 353, R 365, N 367, T 368, D 369, N 370, E 378
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus      | species             | serotype                            |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:------------------------------------|-------------------------------------:|
-| CAA43912.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Muenchen                            |                                    0 |
-| WP_001529369.1      | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Kentucky O8 98/39 |                                    0 |
-| WP_000936592.1      | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Newport           |                                    0 |
-| WP_000936591.1      | Enterobacterales | Enterobacteriaceae | Salmonella | nan                 | Hadar                               |                                    0 |
-| ACF64132.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Newport           |                                    0 |
-| WP_000936589.1      | Enterobacterales | Enterobacteriaceae | Salmonella | nan                 | ssp. enterica sv. Kentucky O8 98/39 |                                    0 |
+| accession      | order            | family             | genus      | species             | serotype                            |   Enterobacterial common antigen Wzy |
+|:---------------|:-----------------|:-------------------|:-----------|:--------------------|:------------------------------------|-------------------------------------:|
+| CAA43912.1     | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Muenchen                            |                                    0 |
+| WP_001529369.1 | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Kentucky O8 98/39 |                                    0 |
+| WP_000936592.1 | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Newport           |                                    0 |
+| WP_000936591.1 | Enterobacterales | Enterobacteriaceae | Salmonella | nan                 | Hadar                               |                                    0 |
+| ACF64132.1     | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Newport           |                                    0 |
+| WP_000936589.1 | Enterobacterales | Enterobacteriaceae | Salmonella | nan                 | ssp. enterica sv. Kentucky O8 98/39 |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0022_81/sequences.afa)
 
@@ -4843,19 +4552,15 @@ R 64 (100.0%) Q 117 (100.0%) D 175 (100.0%) Y 188 (100.0%) Y 192 (100.0%) Y 203 
 
 #### Sugars in cluster:
 
-WP_001529369.1 Salmonella enterica ssp. enterica sv. Kentucky O8 98/39, WP_000936589.1 Salmonella enterica ssp. enterica sv. Kentucky O8 98/39:
+WP_000936592.1 (Salmonella enterica Newport), ACF64132.1 (Salmonella enterica Newport)
 
-![](../../../csdb/images/27410.gif)
+![](../../../csdb/images/28331.gif)28331
 
-CSDB record ID: 27410
+WP_001529369.1 (Salmonella enterica Kentucky), WP_000936589.1 (nan Kentucky)
 
-WP_000936592.1 Salmonella enterica ssp. enterica sv. Newport, ACF64132.1 Salmonella enterica ssp. enterica sv. Newport:
+![](../../../csdb/images/27410.gif)27410
 
-![](../../../csdb/images/28331.gif)
-
-CSDB record ID: 28331
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4869,22 +4574,23 @@ CSDB record ID: 28331
 |                       |                         | Citrobacter (1)  |
 | Burkholderiales (1)   | nan (1)                 | nan (1)          |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 40
+
 Total number of members in cluster: 22
 
 Average length of proteins in cluster: 394.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Q 160 (100.0%) Y 170 (100.0%) D 172 (100.0%) R 183 (100.0%) R 199 (100.0%) T 201 (100.0%) E 206 (100.0%) S 208 (100.0%) R 322 (100.0%) N 379 (100.0%) D 380 (100.0%) 
+Q 160, Y 170, D 172, R 183, R 199, T 201, E 206, S 208, R 322, N 379, D 380
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01533.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O110       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01533.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O110       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0022_40/sequences.afa)
 
@@ -4900,13 +4606,11 @@ Q 160 (100.0%) Y 170 (100.0%) D 172 (100.0%) R 183 (100.0%) R 199 (100.0%) T 201
 
 #### Sugars in cluster:
 
-BAQ01533.1 Escherichia coli O110:
+BAQ01533.1 (Escherichia coli O110)
 
-![](../../../csdb/images/1849.gif)
+![](../../../csdb/images/1849.gif)1849
 
-CSDB record ID: 1849
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4926,24 +4630,25 @@ CSDB record ID: 1849
 | Chitinophagales (1)   | Chitinophagaceae (1)    | Arachidicoccus (1) |
 | Pseudomonadales (1)   | Marinobacteraceae (1)   | Marinobacter (1)   |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 24
+
 Total number of members in cluster: 22
 
 Average length of proteins in cluster: 368.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 56 (100.0%) D 57 (100.0%) Y 61 (100.0%) E 80 (100.0%) Y 113 (100.0%) E 140 (100.0%) R 143 (100.0%) Q 144 (100.0%) H 177 (100.0%) K 242 (100.0%) R 311 (100.0%) 
+Y 56, D 57, Y 61, E 80, Y 113, E 140, R 143, Q 144, H 177, K 242, R 311
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ABI98976.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O141       |                                    0 |
-| WP_046788607.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O141ab     |                                    0 |
-| WP_000456161.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O141ac     |                                    0 |
+| accession      | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:---------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ABI98976.1     | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O141       |                                    0 |
+| WP_046788607.1 | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O141ab     |                                    0 |
+| WP_000456161.1 | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O141ac     |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0022_24/sequences.afa)
 
@@ -4959,13 +4664,11 @@ Y 56 (100.0%) D 57 (100.0%) Y 61 (100.0%) E 80 (100.0%) Y 113 (100.0%) E 140 (10
 
 #### Sugars in cluster:
 
-ABI98976.1 Escherichia coli O141:
+ABI98976.1 (Escherichia coli O141)
 
-![](../../../csdb/images/1883.gif)
+![](../../../csdb/images/1883.gif)1883
 
-CSDB record ID: 1883
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -4981,23 +4684,24 @@ CSDB record ID: 1883
 |                       |                         | Citrobacter (1)  |
 | Aeromonadales (2)     | Aeromonadaceae (2)      | Aeromonas (2)    |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 91
+
 Total number of members in cluster: 21
 
 Average length of proteins in cluster: 427.1
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Q 240 (100.0%) K 241 (100.0%) R 306 (100.0%) Q 311 (100.0%) N 369 (100.0%) 
+Q 240, K 241, R 306, Q 311, N 369
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| CBN82200.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O70        |                                    0 |
-| ADI77033.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O71        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| CBN82200.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O70        |                                    0 |
+| ADI77033.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O71        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0021_91/sequences.afa)
 
@@ -5013,19 +4717,15 @@ Q 240 (100.0%) K 241 (100.0%) R 306 (100.0%) Q 311 (100.0%) N 369 (100.0%)
 
 #### Sugars in cluster:
 
-CBN82200.1 Escherichia coli O70:
+CBN82200.1 (Escherichia coli O70)
 
-![](../../../csdb/images/1576.gif)
+![](../../../csdb/images/1576.gif)1576
 
-CSDB record ID: 1576
+ADI77033.1 (Escherichia coli O71)
 
-ADI77033.1 Escherichia coli O71:
+![](../../../csdb/images/1577.gif)1577
 
-![](../../../csdb/images/1577.gif)
-
-CSDB record ID: 1577
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5049,24 +4749,25 @@ CSDB record ID: 1577
 |                       | Burkholderiaceae (1)       | Ralstonia (1)         |
 | Aeromonadales (1)     | Aeromonadaceae (1)         | Aeromonas (1)         |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 89
+
 Total number of members in cluster: 21
 
 Average length of proteins in cluster: 394.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 229 (100.0%) R 284 (100.0%) R 356 (100.0%) S 359 (100.0%) R 363 (100.0%) S 398 (100.0%) H 399 (100.0%) Y 407 (100.0%) D 460 (100.0%) 
+R 229, R 284, R 356, S 359, R 363, S 398, H 399, Y 407, D 460
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI33324.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 14         |                                    0 |
-| CAI33366.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 15B        |                                    0 |
-| CAI33389.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 15C        |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI33324.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 14         |                                    0 |
+| CAI33366.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 15B        |                                    0 |
+| CAI33389.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 15C        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0021_89/sequences.afa)
 
@@ -5082,31 +4783,23 @@ R 229 (100.0%) R 284 (100.0%) R 356 (100.0%) S 359 (100.0%) R 363 (100.0%) S 398
 
 #### Sugars in cluster:
 
-CAI33324.1 Streptococcus pneumoniae 14:
+CAI33389.1 (Streptococcus pneumoniae 15C)
 
-![](../../../csdb/images/5348.gif)
+![](../../../csdb/images/2251.gif)2251
 
-CSDB record ID: 5348
+CAI33366.1 (Streptococcus pneumoniae 15B)
 
-CAI33366.1 Streptococcus pneumoniae 15B:
+![](../../../csdb/images/1957.gif)1957
 
-![](../../../csdb/images/1957.gif)
+CAI33324.1 (Streptococcus pneumoniae 14)
 
-CSDB record ID: 1957
+![](../../../csdb/images/5348.gif)5348
 
-CAI33389.1 Streptococcus pneumoniae 15C:
+#### Sugars for blast hits only (may be incorrect):
 
-![](../../../csdb/images/2251.gif)
+AAL57082.1 (Streptococcus agalactiae III)
 
-CSDB record ID: 2251
-
-#### Sugars for blast hits:
-
-AAL57082.1 Streptococcus agalactiae III:
-
-![](../../../csdb/images/6001.gif)
-
-CSDB record ID: 6001
+![](../../../csdb/images/6001.gif)6001
 
 #### Alphafold models:
 
@@ -5127,27 +4820,28 @@ CSDB record ID: 6001
 | nan (1)              | nan (1)               | nan (1)                 |
 | Coriobacteriales (1) | Coriobacteriaceae (1) | Collinsella (1)         |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 80
+
 Total number of members in cluster: 21
 
 Average length of proteins in cluster: 396.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 30 (100.0%) Y 37 (100.0%) Y 73 (100.0%) Y 115 (100.0%) Y 118 (100.0%) T 124 (100.0%) Y 126 (100.0%) N 136 (100.0%) D 140 (100.0%) S 144 (100.0%) S 182 (100.0%) Q 186 (100.0%) R 188 (100.0%) R 189 (100.0%) E 190 (100.0%) S 201 (100.0%) Y 233 (100.0%) R 235 (100.0%) S 237 (100.0%) T 240 (100.0%) S 241 (100.0%) E 256 (100.0%) T 257 (100.0%) H 258 (100.0%) N 266 (100.0%) E 267 (100.0%) H 271 (100.0%) K 304 (100.0%) E 314 (100.0%) Y 318 (100.0%) D 320 (100.0%) K 321 (100.0%) T 328 (100.0%) H 332 (100.0%) Y 354 (100.0%) R 378 (100.0%) K 379 (100.0%) D 380 (100.0%) Y 383 (100.0%) K 386 (100.0%) Y 387 (100.0%) S 389 (100.0%) Y 402 (100.0%) K 408 (100.0%) 
+Y 30, Y 37, Y 73, Y 115, Y 118, T 124, Y 126, N 136, D 140, S 144, S 182, Q 186, R 188, R 189, E 190, S 201, Y 233, R 235, S 237, T 240, S 241, E 256, T 257, H 258, N 266, E 267, H 271, K 304, E 314, Y 318, D 320, K 321, T 328, H 332, Y 354, R 378, K 379, D 380, Y 383, K 386, Y 387, S 389, Y 402, K 408
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus      | species             | serotype                     |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------------------------|-------------------------------------:|
-| CAA43077.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O3,10 (E1) Anatum            |                                    0 |
-| AAB48190.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Strasbourg |                                    0 |
-| WP_000231472.1      | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Weltevreden                  |                                    0 |
-| AGS07316.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O1,3,19 (E4) Senftenberg     |                                    0 |
-| AGS07327.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O3,10 (E1) Anatum            |                                    0 |
-| AGS07363.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Strasbourg |                                    0 |
+| accession      | order            | family             | genus      | species             | serotype                     |   Enterobacterial common antigen Wzy |
+|:---------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------------------------|-------------------------------------:|
+| CAA43077.1     | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O3,10 (E1) Anatum            |                                    0 |
+| AAB48190.1     | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Strasbourg |                                    0 |
+| WP_000231472.1 | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Weltevreden                  |                                    0 |
+| AGS07316.1     | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O1,3,19 (E4) Senftenberg     |                                    0 |
+| AGS07327.1     | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O3,10 (E1) Anatum            |                                    0 |
+| AGS07363.1     | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | ssp. enterica sv. Strasbourg |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0021_80/sequences.afa)
 
@@ -5163,25 +4857,19 @@ Y 30 (100.0%) Y 37 (100.0%) Y 73 (100.0%) Y 115 (100.0%) Y 118 (100.0%) T 124 (1
 
 #### Sugars in cluster:
 
-CAA43077.1 Salmonella enterica O3,10 (E1) Anatum, AGS07327.1 Salmonella enterica O3,10 (E1) Anatum:
+AGS07327.1 (Salmonella enterica Anatum), CAA43077.1 (Salmonella enterica Anatum)
 
-![](../../../csdb/images/30407.gif)
+![](../../../csdb/images/30407.gif)30407
 
-CSDB record ID: 30407
+AGS07363.1 (Salmonella enterica Strasbourg), AAB48190.1 (Salmonella enterica Strasbourg)
 
-AAB48190.1 Salmonella enterica ssp. enterica sv. Strasbourg, AGS07363.1 Salmonella enterica ssp. enterica sv. Strasbourg:
+![](../../../csdb/images/30404.gif)30404
 
-![](../../../csdb/images/30404.gif)
+AGS07316.1 (Salmonella enterica Senftenberg)
 
-CSDB record ID: 30404
+![](../../../csdb/images/30411.gif)30411
 
-AGS07316.1 Salmonella enterica O1,3,19 (E4) Senftenberg:
-
-![](../../../csdb/images/30411.gif)
-
-CSDB record ID: 30411
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5194,22 +4882,23 @@ CSDB record ID: 30411
 |                       |                         | Citrobacter (2) |
 |                       | Yersiniaceae (1)        | Serratia (1)    |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 123
+
 Total number of members in cluster: 21
 
 Average length of proteins in cluster: 465.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 277 (100.0%) R 330 (100.0%) E 361 (100.0%) R 488 (100.0%) R 496 (100.0%) 
+R 277, R 330, E 361, R 488, R 496
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  |   serotype |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------------------------------------:|
-| CAI32772.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          4 |                                    0 |
+| accession   | order           | family           | genus         | species                  |   serotype |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------------------------------------:|
+| CAI32772.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          4 |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0021_123/sequences.afa)
 
@@ -5225,13 +4914,11 @@ R 277 (100.0%) R 330 (100.0%) E 361 (100.0%) R 488 (100.0%) R 496 (100.0%)
 
 #### Sugars in cluster:
 
-CAI32772.1 Streptococcus pneumoniae 4:
+CAI32772.1 (Streptococcus pneumoniae 4)
 
-![](../../../csdb/images/805.gif)
+![](../../../csdb/images/805.gif)805
 
-CSDB record ID: 805
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5243,33 +4930,35 @@ CSDB record ID: 805
 |:-----------------------|:------------------------|:------------------------|
 | Lactobacillales (9)    | Streptococcaceae (8)    | Streptococcus (8)       |
 |                        | Lactobacillaceae (1)    | Lactiplantibacillus (1) |
-| Bacillales (4)         | Bacillaceae (2)         | Priestia (1)            |
+| Bacillales (4)         | nan (3)                 | Exiguobacterium (1)     |
+|                        | Bacillaceae (2)         | Priestia (1)            |
 |                        |                         | Cytobacillus (1)        |
 |                        | Paenibacillaceae (1)    | Chengkuizengella (1)    |
-| Eubacteriales (4)      | Lachnospiraceae (2)     | nan (2)                 |
+| Eubacteriales (4)      | Lachnospiraceae (2)     | nan (4)                 |
 |                        |                         | Eisenbergiella (1)      |
 |                        | Eubacteriaceae (1)      | Eubacterium (1)         |
 |                        | Clostridiaceae (1)      | Natronincola (1)        |
-| nan (2)                | nan (3)                 | nan (2)                 |
+| nan (2)                | nan (3)                 | nan (4)                 |
 | Erysipelotrichales (1) | Erysipelotrichaceae (1) | Amedibacterium (1)      |
-| Acholeplasmatales (1)  | Acholeplasmataceae (1)  | nan (2)                 |
+| Acholeplasmatales (1)  | Acholeplasmataceae (1)  | nan (4)                 |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 101
+
 Total number of members in cluster: 21
 
 Average length of proteins in cluster: 372.5
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 31 (100.0%) N 58 (100.0%) Y 65 (100.0%) N 86 (100.0%) Y 94 (100.0%) N 118 (100.0%) Y 154 (100.0%) Q 157 (100.0%) N 160 (100.0%) K 161 (100.0%) T 165 (100.0%) R 199 (100.0%) Q 201 (100.0%) Y 229 (100.0%) N 269 (100.0%) Y 272 (100.0%) N 281 (100.0%) Q 287 (100.0%) D 306 (100.0%) N 359 (100.0%) 
+Y 31, N 58, Y 65, N 86, Y 94, N 118, Y 154, Q 157, N 160, K 161, T 165, R 199, Q 201, Y 229, N 269, Y 272, N 281, Q 287, D 306, N 359
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ABB04486.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O98        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ABB04486.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O98        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0021_101/sequences.afa)
 
@@ -5285,13 +4974,11 @@ Y 31 (100.0%) N 58 (100.0%) Y 65 (100.0%) N 86 (100.0%) Y 94 (100.0%) N 118 (100
 
 #### Sugars in cluster:
 
-ABB04486.1 Escherichia coli O98:
+ABB04486.1 (Escherichia coli O98)
 
-![](../../../csdb/images/1836.gif)
+![](../../../csdb/images/1836.gif)1836
 
-CSDB record ID: 1836
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5300,31 +4987,32 @@ CSDB record ID: 1836
 | order (count)         | family (count)          | genus (count)     |
 |:----------------------|:------------------------|:------------------|
 | Enterobacterales (12) | Enterobacteriaceae (11) | Escherichia (4)   |
+|                       |                         | nan (3)           |
 |                       |                         | Cronobacter (3)   |
 |                       |                         | Citrobacter (2)   |
-|                       |                         | nan (1)           |
 |                       | Erwiniaceae (1)         | Pantoea (1)       |
 | Moraxellales (4)      | Moraxellaceae (4)       | Acinetobacter (4) |
 | Vibrionales (3)       | Vibrionaceae (3)        | Vibrio (3)        |
 | Aeromonadales (1)     | Aeromonadaceae (1)      | Aeromonas (1)     |
-| nan (1)               | nan (1)                 | nan (1)           |
+| nan (1)               | nan (1)                 | nan (3)           |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 62
+
 Total number of members in cluster: 20
 
 Average length of proteins in cluster: 421.1
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 189 (100.0%) R 193 (100.0%) E 200 (100.0%) S 202 (100.0%) S 237 (100.0%) K 240 (100.0%) T 307 (100.0%) T 310 (100.0%) R 311 (100.0%) E 362 (100.0%) Y 366 (100.0%) K 381 (100.0%) D 382 (100.0%) S 385 (100.0%) 
+D 189, R 193, E 200, S 202, S 237, K 240, T 307, T 310, R 311, E 362, Y 366, K 381, D 382, S 385
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01317.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O88        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01317.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O88        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0020_62/sequences.afa)
 
@@ -5340,13 +5028,11 @@ D 189 (100.0%) R 193 (100.0%) E 200 (100.0%) S 202 (100.0%) S 237 (100.0%) K 240
 
 #### Sugars in cluster:
 
-BAQ01317.1 Escherichia coli O88:
+BAQ01317.1 (Escherichia coli O88)
 
-![](../../../csdb/images/1595.gif)
+![](../../../csdb/images/1595.gif)1595
 
-CSDB record ID: 1595
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5361,23 +5047,24 @@ CSDB record ID: 1595
 |                       |                         | Cedecea (1)      |
 | Aeromonadales (1)     | Aeromonadaceae (1)      | Aeromonas (1)    |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 126
+
 Total number of members in cluster: 20
 
 Average length of proteins in cluster: 346.6
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 76 (100.0%) K 101 (100.0%) D 102 (100.0%) S 130 (100.0%) Q 166 (100.0%) R 168 (100.0%) H 202 (100.0%) R 266 (100.0%) Y 270 (100.0%) D 340 (100.0%) R 345 (100.0%) D 354 (100.0%) 
+D 76, K 101, D 102, S 130, Q 166, R 168, H 202, R 266, Y 270, D 340, R 345, D 354
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------------------------------------:|
-| ACV67289.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O35        |                                    0 |
-| AFW04785.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O62        |                                    0 |
+| accession   | order            | family             | genus       | species             | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------------------------------------:|
+| ACV67289.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O35        |                                    0 |
+| AFW04785.1  | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O62        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0020_126/sequences.afa)
 
@@ -5393,19 +5080,15 @@ D 76 (100.0%) K 101 (100.0%) D 102 (100.0%) S 130 (100.0%) Q 166 (100.0%) R 168 
 
 #### Sugars in cluster:
 
-ACV67289.1 Escherichia coli O35:
+AFW04785.1 (Salmonella enterica O62)
 
-![](../../../csdb/images/1542.gif)
+![](../../../csdb/images/3359.gif)3359
 
-CSDB record ID: 1542
+ACV67289.1 (Escherichia coli O35)
 
-AFW04785.1 Salmonella enterica O62:
+![](../../../csdb/images/1542.gif)1542
 
-![](../../../csdb/images/3359.gif)
-
-CSDB record ID: 3359
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5423,23 +5106,24 @@ CSDB record ID: 3359
 | Vibrionales (1)       | Vibrionaceae (1)           | Vibrio (1)            |
 | Alteromonadales (1)   | Pseudoalteromonadaceae (1) | Pseudoalteromonas (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 77
+
 Total number of members in cluster: 19
 
 Average length of proteins in cluster: 387.7
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 156 (100.0%) N 160 (100.0%) Y 161 (100.0%) Y 173 (100.0%) Y 175 (100.0%) Y 226 (100.0%) T 231 (100.0%) K 233 (100.0%) K 235 (100.0%) R 247 (100.0%) S 254 (100.0%) S 272 (100.0%) K 278 (100.0%) Y 297 (100.0%) N 301 (100.0%) D 306 (100.0%) T 338 (100.0%) N 339 (100.0%) T 342 (100.0%) Y 345 (100.0%) H 367 (100.0%) Q 396 (100.0%) Y 402 (100.0%) Y 407 (100.0%) 
+R 156, N 160, Y 161, Y 173, Y 175, Y 226, T 231, K 233, K 235, R 247, S 254, S 272, K 278, Y 297, N 301, D 306, T 338, N 339, T 342, Y 345, H 367, Q 396, Y 402, Y 407
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01675.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O133       |                                    0 |
-| ACD37126.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 2          |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01675.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O133       |                                    0 |
+| ACD37126.1  | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 2          |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0019_77/sequences.afa)
 
@@ -5455,19 +5139,15 @@ R 156 (100.0%) N 160 (100.0%) Y 161 (100.0%) Y 173 (100.0%) Y 175 (100.0%) Y 226
 
 #### Sugars in cluster:
 
-BAQ01675.1 Escherichia coli O133:
+BAQ01675.1 (Escherichia coli O133)
 
-![](../../../csdb/images/1875.gif)
+![](../../../csdb/images/1875.gif)1875
 
-CSDB record ID: 1875
+ACD37126.1 (Shigella boydii 2)
 
-ACD37126.1 Shigella boydii 2:
+![](../../../csdb/images/3982.gif)3982
 
-![](../../../csdb/images/3982.gif)
-
-CSDB record ID: 3982
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5481,22 +5161,23 @@ CSDB record ID: 3982
 |                       |                         | Superficieibacter (2) |
 |                       | Hafniaceae (1)          | Hafnia (1)            |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 145
+
 Total number of members in cluster: 19
 
 Average length of proteins in cluster: 392.7
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 43 (100.0%) Y 47 (100.0%) Y 51 (100.0%) E 67 (100.0%) N 93 (100.0%) Y 123 (100.0%) E 125 (100.0%) R 128 (100.0%) Q 129 (100.0%) S 134 (100.0%) H 162 (100.0%) K 220 (100.0%) Y 224 (100.0%) Y 230 (100.0%) D 243 (100.0%) R 295 (100.0%) Y 299 (100.0%) Q 341 (100.0%) R 344 (100.0%) K 380 (100.0%) 
+D 43, Y 47, Y 51, E 67, N 93, Y 123, E 125, R 128, Q 129, S 134, H 162, K 220, Y 224, Y 230, D 243, R 295, Y 299, Q 341, R 344, K 380
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| AAT85653.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O4         |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| AAT85653.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O4         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0019_145/sequences.afa)
 
@@ -5512,13 +5193,11 @@ D 43 (100.0%) Y 47 (100.0%) Y 51 (100.0%) E 67 (100.0%) N 93 (100.0%) Y 123 (100
 
 #### Sugars in cluster:
 
-AAT85653.1 Escherichia coli O4:
+AAT85653.1 (Escherichia coli O4)
 
-![](../../../csdb/images/10216.gif)
+![](../../../csdb/images/10216.gif)10216
 
-CSDB record ID: 10216
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5533,24 +5212,25 @@ CSDB record ID: 10216
 | Burkholderiales (2)   | Burkholderiaceae (1)    | Ralstonia (1)     |
 |                       | Comamonadaceae (1)      | Comamonas (1)     |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 86
+
 Total number of members in cluster: 18
 
 Average length of proteins in cluster: 404.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 59 (100.0%) D 90 (100.0%) E 93 (100.0%) Y 94 (100.0%) Y 98 (100.0%) R 113 (100.0%) E 119 (100.0%) N 136 (100.0%) Y 183 (100.0%) R 186 (100.0%) S 190 (100.0%) H 219 (100.0%) S 221 (100.0%) R 351 (100.0%) 
+S 59, D 90, E 93, Y 94, Y 98, R 113, E 119, N 136, Y 183, R 186, S 190, H 219, S 221, R 351
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
-| BAQ00858.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O38        |                                    0 |
-| WP_016238111.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O81        |                                    0 |
-| ACA24776.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 8          |                                    0 |
+| accession      | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
+|:---------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
+| BAQ00858.1     | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O38        |                                    0 |
+| WP_016238111.1 | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O81        |                                    0 |
+| ACA24776.1     | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 8          |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0018_86/sequences.afa)
 
@@ -5566,25 +5246,19 @@ S 59 (100.0%) D 90 (100.0%) E 93 (100.0%) Y 94 (100.0%) Y 98 (100.0%) R 113 (100
 
 #### Sugars in cluster:
 
-BAQ00858.1 Escherichia coli O38:
+BAQ00858.1 (Escherichia coli O38)
 
-![](../../../csdb/images/1545.gif)
+![](../../../csdb/images/1545.gif)1545
 
-CSDB record ID: 1545
+ACA24776.1 (Shigella dysenteriae 8)
 
-WP_016238111.1 Escherichia coli O81:
+![](../../../csdb/images/11557.gif)11557
 
-![](../../../csdb/images/1587.gif)
+WP_016238111.1 (Escherichia coli O81)
 
-CSDB record ID: 1587
+![](../../../csdb/images/1587.gif)1587
 
-ACA24776.1 Shigella dysenteriae 8:
-
-![](../../../csdb/images/11557.gif)
-
-CSDB record ID: 11557
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5602,24 +5276,25 @@ CSDB record ID: 11557
 |                       |                         | Erwinia (1)        |
 | Vibrionales (3)       | Vibrionaceae (3)        | Photobacterium (3) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 158
+
 Total number of members in cluster: 18
 
 Average length of proteins in cluster: 476.8
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 300 (100.0%) T 301 (100.0%) R 362 (100.0%) Y 424 (100.0%) D 438 (100.0%) E 483 (100.0%) N 487 (100.0%) Y 523 (100.0%) R 537 (100.0%) R 538 (100.0%) 
+R 300, T 301, R 362, Y 424, D 438, E 483, N 487, Y 523, R 537, R 538
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI33983.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 25F        |                                    0 |
-| CAI33966.2          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 25A        |                                    0 |
-| CAI34407.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 38         |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI33983.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 25F        |                                    0 |
+| CAI33966.2  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 25A        |                                    0 |
+| CAI34407.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 38         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0018_158/sequences.afa)
 
@@ -5635,7 +5310,7 @@ R 300 (100.0%) T 301 (100.0%) R 362 (100.0%) Y 424 (100.0%) D 438 (100.0%) E 483
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5651,22 +5326,23 @@ R 300 (100.0%) T 301 (100.0%) R 362 (100.0%) Y 424 (100.0%) D 438 (100.0%) E 483
 |                        | Lachnospiraceae (1)     | Dorea (1)               |
 |                        | Clostridiaceae (1)      | Clostridium (1)         |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 144
+
 Total number of members in cluster: 18
 
 Average length of proteins in cluster: 329.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 99 (100.0%) Y 103 (100.0%) E 132 (100.0%) Y 191 (100.0%) E 200 (100.0%) K 203 (100.0%) H 236 (100.0%) Q 238 (100.0%) K 311 (100.0%) Y 315 (100.0%) R 369 (100.0%) Y 399 (100.0%) 
+D 99, Y 103, E 132, Y 191, E 200, K 203, H 236, Q 238, K 311, Y 315, R 369, Y 399
 
 #### Seeds in cluster:
 
-| protein_accession   | order        | family        | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------------------------------------:|
-| AHB32242.2          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O5         |                                    0 |
+| accession   | order        | family        | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------------------------------------:|
+| AHB32242.2  | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O5         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0018_144/sequences.afa)
 
@@ -5682,13 +5358,11 @@ D 99 (100.0%) Y 103 (100.0%) E 132 (100.0%) Y 191 (100.0%) E 200 (100.0%) K 203 
 
 #### Sugars in cluster:
 
-AHB32242.2 Acinetobacter baumannii O5:
+AHB32242.2 (Acinetobacter baumannii O5)
 
-![](../../../csdb/images/487.gif)
+![](../../../csdb/images/487.gif)487
 
-CSDB record ID: 487
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5712,25 +5386,26 @@ CSDB record ID: 487
 | Alteromonadales (1)  | Pseudoalteromonadaceae (1) | Pseudoalteromonas (1)  |
 | Hyphomicrobiales (1) | Devosiaceae (1)            | Devosia (1)            |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 141
+
 Total number of members in cluster: 18
 
 Average length of proteins in cluster: 421.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-E 215 (100.0%) K 264 (100.0%) R 265 (100.0%) R 339 (100.0%) H 387 (100.0%) D 443 (100.0%) 
+E 215, K 264, R 265, R 339, H 387, D 443
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI33610.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 18F        |                                    0 |
-| CAI33537.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 18A        |                                    0 |
-| CAI33561.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 18B        |                                    0 |
-| CAI33585.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 18C        |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI33610.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 18F        |                                    0 |
+| CAI33537.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 18A        |                                    0 |
+| CAI33561.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 18B        |                                    0 |
+| CAI33585.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 18C        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0018_141/sequences.afa)
 
@@ -5746,43 +5421,23 @@ E 215 (100.0%) K 264 (100.0%) R 265 (100.0%) R 339 (100.0%) H 387 (100.0%) D 443
 
 #### Sugars in cluster:
 
-CAI33610.1 Streptococcus pneumoniae 18F:
+CAI33561.1 (Streptococcus pneumoniae 18B)
 
-![](../../../csdb/images/7071.gif)
+![](../../../csdb/images/846.gif)846
 
-CSDB record ID: 7071
+CAI33537.1 (Streptococcus pneumoniae 18A), VQM63531.1 (Streptococcus pneumoniae 18A)
 
-CAI33537.1 Streptococcus pneumoniae 18A:
+![](../../../csdb/images/7074.gif)7074
 
-![](../../../csdb/images/7074.gif)
+CAI33610.1 (Streptococcus pneumoniae 18F), VOG14504.1 (Streptococcus pneumoniae 18F)
 
-CSDB record ID: 7074
+![](../../../csdb/images/7071.gif)7071
 
-CAI33561.1 Streptococcus pneumoniae 18B:
+CAI33585.1 (Streptococcus pneumoniae 18C)
 
-![](../../../csdb/images/846.gif)
+![](../../../csdb/images/939.gif)939
 
-CSDB record ID: 846
-
-CAI33585.1 Streptococcus pneumoniae 18C:
-
-![](../../../csdb/images/939.gif)
-
-CSDB record ID: 939
-
-#### Sugars for blast hits:
-
-VOG14504.1 Streptococcus pneumoniae 18F:
-
-![](../../../csdb/images/7071.gif)
-
-CSDB record ID: 7071
-
-VQM63531.1 Streptococcus pneumoniae 18A:
-
-![](../../../csdb/images/7074.gif)
-
-CSDB record ID: 7074
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5793,29 +5448,30 @@ CSDB record ID: 7074
 | Lactobacillales (11)   | Streptococcaceae (11)   | Streptococcus (11) |
 | Eubacteriales (4)      | Eubacteriaceae (2)      | Eubacterium (2)    |
 |                        | Lachnospiraceae (1)     | Coprococcus (1)    |
-|                        | nan (1)                 | nan (1)            |
-| Erysipelotrichales (1) | Erysipelotrichaceae (1) | nan (1)            |
-| Bacteroidales (1)      | Tannerellaceae (1)      | nan (1)            |
+|                        | nan (1)                 | nan (3)            |
+| Erysipelotrichales (1) | Erysipelotrichaceae (1) | nan (3)            |
+| Bacteroidales (1)      | Tannerellaceae (1)      | nan (3)            |
 | Coriobacteriales (1)   | Coriobacteriaceae (1)   | Collinsella (1)    |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 116
+
 Total number of members in cluster: 18
 
 Average length of proteins in cluster: 381.6
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Q 123 (100.0%) N 130 (100.0%) Y 135 (100.0%) Y 165 (100.0%) K 201 (100.0%) Q 203 (100.0%) S 204 (100.0%) K 224 (100.0%) T 239 (100.0%) R 240 (100.0%) R 243 (100.0%) N 244 (100.0%) Y 264 (100.0%) S 267 (100.0%) N 271 (100.0%) Y 274 (100.0%) D 282 (100.0%) Y 285 (100.0%) Q 293 (100.0%) K 294 (100.0%) S 299 (100.0%) D 307 (100.0%) T 309 (100.0%) S 310 (100.0%) S 321 (100.0%) Y 329 (100.0%) Q 338 (100.0%) 
+Q 123, N 130, Y 135, Y 165, K 201, Q 203, S 204, K 224, T 239, R 240, R 243, N 244, Y 264, S 267, N 271, Y 274, D 282, Y 285, Q 293, K 294, S 299, D 307, T 309, S 310, S 321, Y 329, Q 338
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01361.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O90        |                                    0 |
-| CAS09721.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O127       |                                    0 |
-| AAR90892.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O127       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01361.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O90        |                                    0 |
+| CAS09721.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O127       |                                    0 |
+| AAR90892.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O127       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0018_116/sequences.afa)
 
@@ -5831,19 +5487,15 @@ Q 123 (100.0%) N 130 (100.0%) Y 135 (100.0%) Y 165 (100.0%) K 201 (100.0%) Q 203
 
 #### Sugars in cluster:
 
-BAQ01361.1 Escherichia coli O90:
+CAS09721.1 (Escherichia coli O127), AAR90892.1 (Escherichia coli O127)
 
-![](../../../csdb/images/1596.gif)
+![](../../../csdb/images/1866.gif)1866
 
-CSDB record ID: 1596
+BAQ01361.1 (Escherichia coli O90)
 
-CAS09721.1 Escherichia coli O127, AAR90892.1 Escherichia coli O127:
+![](../../../csdb/images/1596.gif)1596
 
-![](../../../csdb/images/1866.gif)
-
-CSDB record ID: 1866
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5857,25 +5509,26 @@ CSDB record ID: 1866
 |                       |                         | nan (1)         |
 | Aeromonadales (1)     | Aeromonadaceae (1)      | Aeromonas (1)   |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 113
+
 Total number of members in cluster: 18
 
 Average length of proteins in cluster: 326.7
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 56 (100.0%) S 57 (100.0%) Y 60 (100.0%) Q 63 (100.0%) K 85 (100.0%) E 87 (100.0%) N 112 (100.0%) N 117 (100.0%) Y 149 (100.0%) N 154 (100.0%) Y 157 (100.0%) R 160 (100.0%) H 191 (100.0%) S 242 (100.0%) R 264 (100.0%) S 301 (100.0%) N 307 (100.0%) Q 309 (100.0%) R 313 (100.0%) S 346 (100.0%) 
+D 56, S 57, Y 60, Q 63, K 85, E 87, N 112, N 117, Y 149, N 154, Y 157, R 160, H 191, S 242, R 264, S 301, N 307, Q 309, R 313, S 346
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species                     | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:----------------------------|:-----------|-------------------------------------:|
-| AEP25500.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:6        |                                    0 |
-| WP_000482333.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O55        |                                    0 |
-| BAG11898.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O55        |                                    0 |
-| AAV34523.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica         | 50         |                                    0 |
+| accession      | order            | family             | genus       | species                     | serotype   |   Enterobacterial common antigen Wzy |
+|:---------------|:-----------------|:-------------------|:------------|:----------------------------|:-----------|-------------------------------------:|
+| AEP25500.1     | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:6        |                                    0 |
+| WP_000482333.1 | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O55        |                                    0 |
+| BAG11898.1     | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O55        |                                    0 |
+| AAV34523.1     | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica         | 50         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0018_113/sequences.afa)
 
@@ -5891,19 +5544,15 @@ D 56 (100.0%) S 57 (100.0%) Y 60 (100.0%) Q 63 (100.0%) K 85 (100.0%) E 87 (100.
 
 #### Sugars in cluster:
 
-AEP25500.1 Yersinia pseudotuberculosis O:6:
+BAG11898.1 (Escherichia coli O55), WP_000482333.1 (Escherichia coli O55)
 
-![](../../../csdb/images/12139.gif)
+![](../../../csdb/images/1562.gif)1562
 
-CSDB record ID: 12139
+AEP25500.1 (Yersinia pseudotuberculosis O:6)
 
-WP_000482333.1 Escherichia coli O55, BAG11898.1 Escherichia coli O55:
+![](../../../csdb/images/12139.gif)12139
 
-![](../../../csdb/images/1562.gif)
-
-CSDB record ID: 1562
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5920,22 +5569,23 @@ CSDB record ID: 1562
 |                       | Pectobacteriaceae (1)   | Pectobacterium (1)  |
 | Neisseriales (1)      | Chromobacteriaceae (1)  | Chromobacterium (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 99
+
 Total number of members in cluster: 17
 
 Average length of proteins in cluster: 327.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 79 (100.0%) Y 80 (100.0%) Y 83 (100.0%) E 99 (100.0%) K 131 (100.0%) Y 157 (100.0%) Q 169 (100.0%) R 171 (100.0%) H 203 (100.0%) Y 249 (100.0%) S 262 (100.0%) K 264 (100.0%) R 319 (100.0%) D 322 (100.0%) 
+D 79, Y 80, Y 83, E 99, K 131, Y 157, Q 169, R 171, H 203, Y 249, S 262, K 264, R 319, D 322
 
 #### Seeds in cluster:
 
-| protein_accession   | order        | family        | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------------------------------------:|
-| AHB32832.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O19        |                                    0 |
+| accession   | order        | family        | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------------------------------------:|
+| AHB32832.1  | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O19        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0017_99/sequences.afa)
 
@@ -5951,7 +5601,7 @@ D 79 (100.0%) Y 80 (100.0%) Y 83 (100.0%) E 99 (100.0%) K 131 (100.0%) Y 157 (10
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -5963,22 +5613,23 @@ D 79 (100.0%) Y 80 (100.0%) Y 83 (100.0%) E 99 (100.0%) K 131 (100.0%) Y 157 (10
 | Burkholderiales (6) | Burkholderiaceae (6) | Ralstonia (6)     |
 | Pseudomonadales (3) | Pseudomonadaceae (3) | Pseudomonas (3)   |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 95
+
 Total number of members in cluster: 17
 
 Average length of proteins in cluster: 411.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 132 (100.0%) E 136 (100.0%) H 146 (100.0%) K 186 (100.0%) Q 187 (100.0%) K 189 (100.0%) Y 235 (100.0%) K 238 (100.0%) H 260 (100.0%) Y 264 (100.0%) S 267 (100.0%) S 273 (100.0%) Y 275 (100.0%) N 298 (100.0%) N 329 (100.0%) T 336 (100.0%) Y 349 (100.0%) S 378 (100.0%) S 383 (100.0%) Y 387 (100.0%) Y 388 (100.0%) Y 389 (100.0%) E 396 (100.0%) 
+S 132, E 136, H 146, K 186, Q 187, K 189, Y 235, K 238, H 260, Y 264, S 267, S 273, Y 275, N 298, N 329, T 336, Y 349, S 378, S 383, Y 387, Y 388, Y 389, E 396
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species               | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:----------------------|:-----------|-------------------------------------:|
-| ABX51880.1          | Enterobacterales | Enterobacteriaceae | Cronobacter | Cronobacter sakazakii | O1         |                                    0 |
+| accession   | order            | family             | genus       | species               | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:----------------------|:-----------|-------------------------------------:|
+| ABX51880.1  | Enterobacterales | Enterobacteriaceae | Cronobacter | Cronobacter sakazakii | O1         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0017_95/sequences.afa)
 
@@ -5994,13 +5645,11 @@ S 132 (100.0%) E 136 (100.0%) H 146 (100.0%) K 186 (100.0%) Q 187 (100.0%) K 189
 
 #### Sugars in cluster:
 
-ABX51880.1 Cronobacter sakazakii O1:
+ABX51880.1 (Cronobacter sakazakii O1)
 
-![](../../../csdb/images/27329.gif)
+![](../../../csdb/images/27329.gif)27329
 
-CSDB record ID: 27329
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6013,23 +5662,24 @@ CSDB record ID: 27329
 |                       |                         | Escherichia (3)  |
 |                       | Erwiniaceae (2)         | Pantoea (2)      |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 42
+
 Total number of members in cluster: 17
 
 Average length of proteins in cluster: 408.1
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-H 150 (100.0%) R 199 (100.0%) T 251 (100.0%) R 252 (100.0%) R 327 (100.0%) Q 330 (100.0%) R 357 (100.0%) Y 365 (100.0%) E 366 (100.0%) S 368 (100.0%) K 375 (100.0%) 
+H 150, R 199, T 251, R 252, R 327, Q 330, R 357, Y 365, E 366, S 368, K 375
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species                | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------------|:-----------|-------------------------------------:|
-| AAY28257.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli       | O177       |                                    0 |
-| AAM27782.1          | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O4         |                                    0 |
+| accession   | order            | family             | genus       | species                | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------------|:-----------|-------------------------------------:|
+| AAY28257.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli       | O177       |                                    0 |
+| AAM27782.1  | Pseudomonadales  | Pseudomonadaceae   | Pseudomonas | Pseudomonas aeruginosa | O4         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0017_42/sequences.afa)
 
@@ -6045,19 +5695,15 @@ H 150 (100.0%) R 199 (100.0%) T 251 (100.0%) R 252 (100.0%) R 327 (100.0%) Q 330
 
 #### Sugars in cluster:
 
-AAY28257.1 Escherichia coli O177:
+AAM27782.1 (Pseudomonas aeruginosa O4)
 
-![](../../../csdb/images/1919.gif)
+![](../../../csdb/images/24033.gif)24033
 
-CSDB record ID: 1919
+AAY28257.1 (Escherichia coli O177)
 
-AAM27782.1 Pseudomonas aeruginosa O4:
+![](../../../csdb/images/1919.gif)1919
 
-![](../../../csdb/images/24033.gif)
-
-CSDB record ID: 24033
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6073,23 +5719,24 @@ CSDB record ID: 24033
 | Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (2)      |
 |                      |                        | Kosakonia (1)        |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 177
+
 Total number of members in cluster: 17
 
 Average length of proteins in cluster: 398.7
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 130 (100.0%) R 146 (100.0%) Q 194 (100.0%) R 209 (100.0%) R 214 (100.0%) S 217 (100.0%) S 221 (100.0%) T 223 (100.0%) R 252 (100.0%) Q 268 (100.0%) K 269 (100.0%) N 274 (100.0%) R 384 (100.0%) 
+S 130, R 146, Q 194, R 209, R 214, S 217, S 221, T 223, R 252, Q 268, K 269, N 274, R 384
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus       | species                | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:------------|:-----------------------|:-----------|-------------------------------------:|
-| AAD45264.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O11        |                                    0 |
-| AAM27574.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O11        |                                    0 |
+| accession   | order           | family           | genus       | species                | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:------------|:-----------------------|:-----------|-------------------------------------:|
+| AAD45264.1  | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O11        |                                    0 |
+| AAM27574.1  | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O11        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0017_177/sequences.afa)
 
@@ -6105,13 +5752,11 @@ S 130 (100.0%) R 146 (100.0%) Q 194 (100.0%) R 209 (100.0%) R 214 (100.0%) S 217
 
 #### Sugars in cluster:
 
-AAD45264.1 Pseudomonas aeruginosa O11, AAM27574.1 Pseudomonas aeruginosa O11:
+AAM27574.1 (Pseudomonas aeruginosa O11), AAD45264.1 (Pseudomonas aeruginosa O11)
 
-![](../../../csdb/images/10219.gif)
+![](../../../csdb/images/10219.gif)10219
 
-CSDB record ID: 10219
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6126,24 +5771,25 @@ CSDB record ID: 10219
 | Bacillales (1)        | Bacillaceae (1)        | Oceanobacillus (1)    |
 | Desulfobacterales (1) | Desulfobacteraceae (1) | Desulfobotulus (1)    |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 162
+
 Total number of members in cluster: 17
 
 Average length of proteins in cluster: 360.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 59 (100.0%) E 60 (100.0%) Y 63 (100.0%) D 142 (100.0%) N 146 (100.0%) Y 148 (100.0%) R 149 (100.0%) Q 150 (100.0%) H 183 (100.0%) S 185 (100.0%) Y 250 (100.0%) Y 262 (100.0%) R 269 (100.0%) Y 307 (100.0%) R 319 (100.0%) N 320 (100.0%) 
+D 59, E 60, Y 63, D 142, N 146, Y 148, R 149, Q 150, H 183, S 185, Y 250, Y 262, R 269, Y 307, R 319, N 320
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
-| BAQ01169.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O69        |                                    0 |
-| ACA24803.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O150       |                                    0 |
-| ACA24792.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 13         |                                    0 |
+| accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
+| BAQ01169.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O69        |                                    0 |
+| ACA24803.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O150       |                                    0 |
+| ACA24792.1  | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 13         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0017_162/sequences.afa)
 
@@ -6159,25 +5805,19 @@ D 59 (100.0%) E 60 (100.0%) Y 63 (100.0%) D 142 (100.0%) N 146 (100.0%) Y 148 (1
 
 #### Sugars in cluster:
 
-BAQ01169.1 Escherichia coli O69:
+BAQ01169.1 (Escherichia coli O69)
 
-![](../../../csdb/images/1575.gif)
+![](../../../csdb/images/1575.gif)1575
 
-CSDB record ID: 1575
+ACA24792.1 (Shigella dysenteriae 13)
 
-ACA24803.1 Escherichia coli O150:
+![](../../../csdb/images/1891.gif)1891
 
-![](../../../csdb/images/715.gif)
+ACA24803.1 (Escherichia coli O150)
 
-CSDB record ID: 715
+![](../../../csdb/images/715.gif)715
 
-ACA24792.1 Shigella dysenteriae 13:
-
-![](../../../csdb/images/1891.gif)
-
-CSDB record ID: 1891
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6192,22 +5832,23 @@ CSDB record ID: 1891
 | Vibrionales (2)       | Vibrionaceae (2)        | Photobacterium (1) |
 |                       |                         | Vibrio (1)         |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 140
+
 Total number of members in cluster: 17
 
 Average length of proteins in cluster: 482.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Q 149 (100.0%) N 150 (100.0%) R 249 (100.0%) E 293 (100.0%) R 344 (100.0%) R 345 (100.0%) D 352 (100.0%) S 396 (100.0%) K 397 (100.0%) S 446 (100.0%) H 450 (100.0%) E 493 (100.0%) E 556 (100.0%) S 560 (100.0%) 
+Q 149, N 150, R 249, E 293, R 344, R 345, D 352, S 396, K 397, S 446, H 450, E 493, E 556, S 560
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI33817.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 23A        |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI33817.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 23A        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0017_140/sequences.afa)
 
@@ -6223,13 +5864,11 @@ Q 149 (100.0%) N 150 (100.0%) R 249 (100.0%) E 293 (100.0%) R 344 (100.0%) R 345
 
 #### Sugars in cluster:
 
-CAI33817.1 Streptococcus pneumoniae 23A:
+CAI33817.1 (Streptococcus pneumoniae 23A)
 
-![](../../../csdb/images/7084.gif)
+![](../../../csdb/images/7084.gif)7084
 
-CSDB record ID: 7084
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6246,28 +5885,29 @@ CSDB record ID: 7084
 |                      |                       | Microbacterium (1)    |
 |                      | Demequinaceae (1)     | Demequina (1)         |
 | Lactobacillales (3)  | Streptococcaceae (3)  | Streptococcus (3)     |
-| Eubacteriales (2)    | Lachnospiraceae (1)   | nan (1)               |
+| Eubacteriales (2)    | Lachnospiraceae (1)   | nan (2)               |
 |                      | Eubacteriaceae (1)    | Eubacterium (1)       |
 | Nitrosomonadales (1) | Methylophilaceae (1)  | Methylobacillus (1)   |
 | Bacillales (1)       | Bacillaceae (1)       | Mesobacillus (1)      |
-| nan (1)              | nan (1)               | nan (1)               |
+| nan (1)              | nan (1)               | nan (2)               |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 61
+
 Total number of members in cluster: 16
 
 Average length of proteins in cluster: 381.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 85 (100.0%) R 103 (100.0%) S 111 (100.0%) Q 141 (100.0%) K 156 (100.0%) N 171 (100.0%) N 177 (100.0%) R 181 (100.0%) N 190 (100.0%) Q 219 (100.0%) N 222 (100.0%) S 223 (100.0%) N 224 (100.0%) E 283 (100.0%) T 292 (100.0%) D 332 (100.0%) 
+D 85, R 103, S 111, Q 141, K 156, N 171, N 177, R 181, N 190, Q 219, N 222, S 223, N 224, E 283, T 292, D 332
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| AAV74543.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O15        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| AAV74543.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O15        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0016_61/sequences.afa)
 
@@ -6283,13 +5923,11 @@ D 85 (100.0%) R 103 (100.0%) S 111 (100.0%) Q 141 (100.0%) K 156 (100.0%) N 171 
 
 #### Sugars in cluster:
 
-AAV74543.1 Escherichia coli O15:
+AAV74543.1 (Escherichia coli O15)
 
-![](../../../csdb/images/1516.gif)
+![](../../../csdb/images/1516.gif)1516
 
-CSDB record ID: 1516
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6298,32 +5936,33 @@ CSDB record ID: 1516
 | order (count)         | family (count)             | genus (count)    |
 |:----------------------|:---------------------------|:-----------------|
 | Enterobacterales (8)  | Enterobacteriaceae (8)     | Escherichia (5)  |
-|                       |                            | nan (1)          |
+|                       |                            | nan (2)          |
 |                       |                            | Citrobacter (1)  |
 |                       |                            | Salmonella (1)   |
 | Vibrionales (3)       | Vibrionaceae (3)           | Vibrio (3)       |
 | Pasteurellales (1)    | Pasteurellaceae (1)        | Glaesserella (1) |
-| Thiotrichales (1)     | Thiotrichaceae (1)         | nan (1)          |
+| Thiotrichales (1)     | Thiotrichaceae (1)         | nan (2)          |
 | Pseudomonadales (1)   | Marinobacteraceae (1)      | Marinobacter (1) |
 | Oceanospirillales (1) | Oceanospirillaceae (1)     | Marinomonas (1)  |
 | Chromatiales (1)      | Ectothiorhodospiraceae (1) | Arhodomonas (1)  |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 51
+
 Total number of members in cluster: 16
 
 Average length of proteins in cluster: 439.1
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 103 (100.0%) K 218 (100.0%) E 280 (100.0%) R 281 (100.0%) K 325 (100.0%) N 359 (100.0%) Y 471 (100.0%) R 483 (100.0%) K 495 (100.0%) 
+Y 103, K 218, E 280, R 281, K 325, N 359, Y 471, R 483, K 495
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  |   serotype |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------------------------------------:|
-| CAI32705.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          1 |                                    0 |
+| accession   | order           | family           | genus         | species                  |   serotype |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------------------------------------:|
+| CAI32705.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          1 |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0016_51/sequences.afa)
 
@@ -6339,13 +5978,11 @@ Y 103 (100.0%) K 218 (100.0%) E 280 (100.0%) R 281 (100.0%) K 325 (100.0%) N 359
 
 #### Sugars in cluster:
 
-CAI32705.1 Streptococcus pneumoniae 1:
+CAI32705.1 (Streptococcus pneumoniae 1)
 
-![](../../../csdb/images/31499.gif)
+![](../../../csdb/images/31499.gif)31499
 
-CSDB record ID: 31499
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6369,26 +6006,27 @@ CSDB record ID: 31499
 | Bacteroidales (1)      | Bacteroidaceae (1)      | Bacteroides (1)    |
 | Vibrionales (1)        | Vibrionaceae (1)        | Vibrio (1)         |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 38
+
 Total number of members in cluster: 16
 
 Average length of proteins in cluster: 409.1
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 28 (100.0%) Q 231 (100.0%) S 234 (100.0%) Y 235 (100.0%) R 288 (100.0%) R 354 (100.0%) R 373 (100.0%) H 406 (100.0%) S 462 (100.0%) Y 465 (100.0%) 
+S 28, Q 231, S 234, Y 235, R 288, R 354, R 373, H 406, S 462, Y 465
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI33278.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 12F        |                                    0 |
-| CAI33226.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 12A        |                                    0 |
-| CAI33252.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 12B        |                                    0 |
-| CAI34753.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 44         |                                    0 |
-| CAI34613.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 46         |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI33278.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 12F        |                                    0 |
+| CAI33226.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 12A        |                                    0 |
+| CAI33252.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 12B        |                                    0 |
+| CAI34753.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 44         |                                    0 |
+| CAI34613.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 46         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0016_38/sequences.afa)
 
@@ -6404,25 +6042,15 @@ S 28 (100.0%) Q 231 (100.0%) S 234 (100.0%) Y 235 (100.0%) R 288 (100.0%) R 354 
 
 #### Sugars in cluster:
 
-CAI33278.1 Streptococcus pneumoniae 12F:
+CAI33278.1 (Streptococcus pneumoniae 12F), VPT20589.1 (Streptococcus pneumoniae 12F)
 
-![](../../../csdb/images/1955.gif)
+![](../../../csdb/images/1955.gif)1955
 
-CSDB record ID: 1955
+CAI33226.1 (Streptococcus pneumoniae 12A)
 
-CAI33226.1 Streptococcus pneumoniae 12A:
+![](../../../csdb/images/7060.gif)7060
 
-![](../../../csdb/images/7060.gif)
-
-CSDB record ID: 7060
-
-#### Sugars for blast hits:
-
-VPT20589.1 Streptococcus pneumoniae 12F:
-
-![](../../../csdb/images/1955.gif)
-
-CSDB record ID: 1955
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6433,28 +6061,29 @@ CSDB record ID: 1955
 | Lactobacillales (9) | Streptococcaceae (9) | Streptococcus (9)   |
 | Bacteroidales (3)   | Tannerellaceae (1)   | Parabacteroides (1) |
 |                     | Bacteroidaceae (1)   | Bacteroides (1)     |
-|                     | Prevotellaceae (1)   | nan (1)             |
+|                     | Prevotellaceae (1)   | nan (2)             |
 | Bacillales (3)      | Bacillaceae (2)      | Sutcliffiella (1)   |
 |                     |                      | Cerasibacillus (1)  |
 |                     | Planococcaceae (1)   | Planococcus (1)     |
-| Eubacteriales (1)   | nan (1)              | nan (1)             |
+| Eubacteriales (1)   | nan (1)              | nan (2)             |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 157
+
 Total number of members in cluster: 16
 
 Average length of proteins in cluster: 408.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 52 (100.0%) K 73 (100.0%) N 185 (100.0%) Y 198 (100.0%) N 219 (100.0%) S 222 (100.0%) T 263 (100.0%) K 264 (100.0%) R 332 (100.0%) S 348 (100.0%) R 350 (100.0%) E 388 (100.0%) D 390 (100.0%) D 393 (100.0%) H 454 (100.0%) 
+D 52, K 73, N 185, Y 198, N 219, S 222, T 263, K 264, R 332, S 348, R 350, E 388, D 390, D 393, H 454
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ADN43858.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O137       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ADN43858.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O137       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0016_157/sequences.afa)
 
@@ -6470,13 +6099,11 @@ D 52 (100.0%) K 73 (100.0%) N 185 (100.0%) Y 198 (100.0%) N 219 (100.0%) S 222 (
 
 #### Sugars in cluster:
 
-ADN43858.1 Escherichia coli O137:
+ADN43858.1 (Escherichia coli O137)
 
-![](../../../csdb/images/1879.gif)
+![](../../../csdb/images/1879.gif)1879
 
-CSDB record ID: 1879
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6496,26 +6123,27 @@ CSDB record ID: 1879
 |                      |                        | Citrobacter (1)      |
 | Bacteroidales (2)    | Bacteroidaceae (2)     | Bacteroides (2)      |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 14
+
 Total number of members in cluster: 16
 
 Average length of proteins in cluster: 392.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Q 127 (100.0%) H 194 (100.0%) Q 196 (100.0%) R 308 (100.0%) Y 353 (100.0%) H 355 (100.0%) Q 360 (100.0%) D 364 (100.0%) S 411 (100.0%) Y 415 (100.0%) Y 417 (100.0%) 
+Q 127, H 194, Q 196, R 308, Y 353, H 355, Q 360, D 364, S 411, Y 415, Y 417
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI33207.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 11F        |                                    0 |
-| CAI33128.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 11A        |                                    0 |
-| CAI33149.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 11B        |                                    0 |
-| CAI33169.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 11C        |                                    0 |
-| CAI33188.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 11D        |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI33207.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 11F        |                                    0 |
+| CAI33128.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 11A        |                                    0 |
+| CAI33149.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 11B        |                                    0 |
+| CAI33169.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 11C        |                                    0 |
+| CAI33188.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 11D        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0016_14/sequences.afa)
 
@@ -6531,37 +6159,27 @@ Q 127 (100.0%) H 194 (100.0%) Q 196 (100.0%) R 308 (100.0%) Y 353 (100.0%) H 355
 
 #### Sugars in cluster:
 
-CAI33207.1 Streptococcus pneumoniae 11F:
+CAI33169.1 (Streptococcus pneumoniae 11C)
 
-![](../../../csdb/images/7053.gif)
+![](../../../csdb/images/31003.gif)31003
 
-CSDB record ID: 7053
+CAI33188.1 (Streptococcus pneumoniae 11D)
 
-CAI33128.1 Streptococcus pneumoniae 11A:
+![](../../../csdb/images/7056.gif)7056
 
-![](../../../csdb/images/1493.gif)
+CAI33207.1 (Streptococcus pneumoniae 11F)
 
-CSDB record ID: 1493
+![](../../../csdb/images/7053.gif)7053
 
-CAI33149.1 Streptococcus pneumoniae 11B:
+CAI33128.1 (Streptococcus pneumoniae 11A)
 
-![](../../../csdb/images/7054.gif)
+![](../../../csdb/images/1493.gif)1493
 
-CSDB record ID: 7054
+CAI33149.1 (Streptococcus pneumoniae 11B)
 
-CAI33169.1 Streptococcus pneumoniae 11C:
+![](../../../csdb/images/7054.gif)7054
 
-![](../../../csdb/images/31003.gif)
-
-CSDB record ID: 31003
-
-CAI33188.1 Streptococcus pneumoniae 11D:
-
-![](../../../csdb/images/7056.gif)
-
-CSDB record ID: 7056
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6574,28 +6192,30 @@ CSDB record ID: 7056
 | Lactobacillales (9)  | Streptococcaceae (8)  | Streptococcus (8)     |
 |                      | Lactobacillaceae (1)  | Ligilactobacillus (1) |
 | Eubacteriales (4)    | Clostridiaceae (2)    | Clostridium (2)       |
+|                      | nan (2)               | nan (2)               |
 |                      | Eubacteriaceae (1)    | Eubacterium (1)       |
 | nan (1)              | nan (2)               | nan (2)               |
 | Bacillales (1)       | Paenibacillaceae (1)  | Gorillibacterium (1)  |
 | Coriobacteriales (1) | Coriobacteriaceae (1) | Collinsella (1)       |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 139
+
 Total number of members in cluster: 16
 
 Average length of proteins in cluster: 414.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 195 (100.0%) R 201 (100.0%) R 246 (100.0%) R 323 (100.0%) Y 330 (100.0%) D 369 (100.0%) 
+R 195, R 201, R 246, R 323, Y 330, D 369
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI33652.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 19B        |                                    0 |
-| CAI33675.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 19C        |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI33652.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 19B        |                                    0 |
+| CAI33675.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 19C        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0016_139/sequences.afa)
 
@@ -6611,49 +6231,47 @@ R 195 (100.0%) R 201 (100.0%) R 246 (100.0%) R 323 (100.0%) Y 330 (100.0%) D 369
 
 #### Sugars in cluster:
 
-CAI33652.1 Streptococcus pneumoniae 19B:
+CAI33675.1 (Streptococcus pneumoniae 19C)
 
-![](../../../csdb/images/2254.gif)
+![](../../../csdb/images/2255.gif)2255
 
-CSDB record ID: 2254
+CAI33652.1 (Streptococcus pneumoniae 19B)
 
-CAI33675.1 Streptococcus pneumoniae 19C:
+![](../../../csdb/images/2254.gif)2254
 
-![](../../../csdb/images/2255.gif)
-
-CSDB record ID: 2255
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
 #### Taxonomy:
 
-| order (count)        | family (count)       | genus (count)           |
-|:---------------------|:---------------------|:------------------------|
-| Lactobacillales (11) | Streptococcaceae (9) | Streptococcus (9)       |
-|                      | Lactobacillaceae (2) | Limosilactobacillus (2) |
-| Eubacteriales (3)    | Lachnospiraceae (2)  | Butyrivibrio (1)        |
-|                      |                      | Enterocloster (1)       |
-|                      | Clostridiaceae (1)   | Clostridium (1)         |
-| nan (2)              | nan (2)              | nan (1)                 |
+| order (count)        | family (count)       | genus (count)            |
+|:---------------------|:---------------------|:-------------------------|
+| Lactobacillales (11) | Streptococcaceae (9) | Streptococcus (9)        |
+|                      | Lactobacillaceae (2) | Limosilactobacillus (2)  |
+| Eubacteriales (3)    | Lachnospiraceae (2)  | Butyrivibrio (1)         |
+|                      |                      | Enterocloster (1)        |
+|                      | Clostridiaceae (1)   | Clostridium (1)          |
+| nan (2)              | nan (2)              | nan (1)                  |
+|                      |                      | Candidatus Faecisoma (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 138
+
 Total number of members in cluster: 16
 
 Average length of proteins in cluster: 436.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 173 (100.0%) Q 216 (100.0%) Q 263 (100.0%) T 268 (100.0%) N 273 (100.0%) S 321 (100.0%) S 424 (100.0%) E 473 (100.0%) E 552 (100.0%) 
+R 173, Q 216, Q 263, T 268, N 273, S 321, S 424, E 473, E 552
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI33466.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 16F        |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI33466.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 16F        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0016_138/sequences.afa)
 
@@ -6669,13 +6287,11 @@ R 173 (100.0%) Q 216 (100.0%) Q 263 (100.0%) T 268 (100.0%) N 273 (100.0%) S 321
 
 #### Sugars in cluster:
 
-CAI33466.1 Streptococcus pneumoniae 16F:
+CAI33466.1 (Streptococcus pneumoniae 16F)
 
-![](../../../csdb/images/1062.gif)
+![](../../../csdb/images/1062.gif)1062
 
-CSDB record ID: 1062
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6683,11 +6299,11 @@ CSDB record ID: 1062
 
 | order (count)       | family (count)        | genus (count)      |
 |:--------------------|:----------------------|:-------------------|
-| Eubacteriales (8)   | Lachnospiraceae (4)   | nan (1)            |
+| Eubacteriales (8)   | Lachnospiraceae (4)   | nan (7)            |
 |                     |                       | Coprococcus (1)    |
-|                     | Oscillospiraceae (2)  | nan (1)            |
-|                     | nan (1)               | nan (1)            |
-|                     | Clostridiaceae (1)    | nan (1)            |
+|                     | Oscillospiraceae (2)  | nan (7)            |
+|                     | nan (1)               | nan (7)            |
+|                     | Clostridiaceae (1)    | nan (7)            |
 | Lactobacillales (5) | Streptococcaceae (2)  | Streptococcus (2)  |
 |                     | Enterococcaceae (2)   | Enterococcus (2)   |
 |                     | Carnobacteriaceae (1) | Trichococcus (1)   |
@@ -6695,22 +6311,23 @@ CSDB record ID: 1062
 |                     |                       | Anaerobacillus (1) |
 |                     |                       | Bacillus (1)       |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 129
+
 Total number of members in cluster: 16
 
 Average length of proteins in cluster: 399.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 63 (100.0%) D 75 (100.0%) Y 79 (100.0%) E 94 (100.0%) E 98 (100.0%) Q 122 (100.0%) N 127 (100.0%) Q 157 (100.0%) R 164 (100.0%) Q 165 (100.0%) H 200 (100.0%) D 257 (100.0%) R 258 (100.0%) K 259 (100.0%) S 280 (100.0%) H 287 (100.0%) Y 318 (100.0%) R 333 (100.0%) K 359 (100.0%) R 379 (100.0%) N 384 (100.0%) D 385 (100.0%) 
+S 63, D 75, Y 79, E 94, E 98, Q 122, N 127, Q 157, R 164, Q 165, H 200, D 257, R 258, K 259, S 280, H 287, Y 318, R 333, K 359, R 379, N 384, D 385
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01716.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O140       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01716.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O140       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0016_129/sequences.afa)
 
@@ -6726,13 +6343,11 @@ S 63 (100.0%) D 75 (100.0%) Y 79 (100.0%) E 94 (100.0%) E 98 (100.0%) Q 122 (100
 
 #### Sugars in cluster:
 
-BAQ01716.1 Escherichia coli O140:
+BAQ01716.1 (Escherichia coli O140)
 
-![](../../../csdb/images/1882.gif)
+![](../../../csdb/images/1882.gif)1882
 
-CSDB record ID: 1882
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6749,22 +6364,23 @@ CSDB record ID: 1882
 |                       | Hafniaceae (1)          | Hafnia (1)       |
 | Vibrionales (1)       | Vibrionaceae (1)        | Vibrio (1)       |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 125
+
 Total number of members in cluster: 16
 
 Average length of proteins in cluster: 415.1
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 180 (100.0%) Y 183 (100.0%) K 242 (100.0%) Y 306 (100.0%) D 308 (100.0%) R 343 (100.0%) K 349 (100.0%) Y 353 (100.0%) D 384 (100.0%) 
+R 180, Y 183, K 242, Y 306, D 308, R 343, K 349, Y 353, D 384
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ00830.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O36        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ00830.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O36        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0016_125/sequences.afa)
 
@@ -6780,13 +6396,11 @@ R 180 (100.0%) Y 183 (100.0%) K 242 (100.0%) Y 306 (100.0%) D 308 (100.0%) R 343
 
 #### Sugars in cluster:
 
-BAQ00830.1 Escherichia coli O36:
+BAQ00830.1 (Escherichia coli O36)
 
-![](../../../csdb/images/1543.gif)
+![](../../../csdb/images/1543.gif)1543
 
-CSDB record ID: 1543
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6801,32 +6415,33 @@ CSDB record ID: 1543
 | Bacteroidales (3)    | Bacteroidaceae (2)     | Bacteroides (2)     |
 |                      | Tannerellaceae (1)     | Parabacteroides (1) |
 | Pseudomonadales (2)  | Pseudomonadaceae (2)   | Pseudomonas (2)     |
-| Burkholderiales (1)  | nan (1)                | Paucibacter (1)     |
+| Burkholderiales (1)  | nan (2)                | Paucibacter (1)     |
 | Flavobacteriales (1) | Flavobacteriaceae (1)  | Flavobacterium (1)  |
 | Alteromonadales (1)  | Colwelliaceae (1)      | Colwellia (1)       |
 | Chthonomonadales (1) | Chthonomonadaceae (1)  | Chthonomonas (1)    |
 | Rhodospirillales (1) | Azospirillaceae (1)    | Niveispirillum (1)  |
-| nan (1)              | nan (1)                | nan (1)             |
+| nan (1)              | nan (2)                | nan (1)             |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 104
+
 Total number of members in cluster: 16
 
 Average length of proteins in cluster: 453.4
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 37 (100.0%) Y 39 (100.0%) T 45 (100.0%) N 56 (100.0%) K 57 (100.0%) T 59 (100.0%) S 60 (100.0%) S 63 (100.0%) S 68 (100.0%) S 69 (100.0%) R 76 (100.0%) S 80 (100.0%) D 86 (100.0%) R 88 (100.0%) D 91 (100.0%) Y 97 (100.0%) N 106 (100.0%) Y 107 (100.0%) Y 113 (100.0%) Y 116 (100.0%) N 125 (100.0%) K 160 (100.0%) S 170 (100.0%) N 171 (100.0%) S 172 (100.0%) Y 173 (100.0%) Y 177 (100.0%) Y 187 (100.0%) S 191 (100.0%) Y 195 (100.0%) R 209 (100.0%) S 225 (100.0%) K 228 (100.0%) S 230 (100.0%) R 231 (100.0%) E 233 (100.0%) T 236 (100.0%) T 240 (100.0%) Y 245 (100.0%) N 247 (100.0%) N 253 (100.0%) S 271 (100.0%) E 272 (100.0%) S 275 (100.0%) R 278 (100.0%) S 282 (100.0%) N 291 (100.0%) Y 298 (100.0%) S 303 (100.0%) Y 304 (100.0%) Q 309 (100.0%) S 310 (100.0%) Q 328 (100.0%) T 332 (100.0%) S 335 (100.0%) S 347 (100.0%) Y 348 (100.0%) S 349 (100.0%) S 353 (100.0%) T 355 (100.0%) N 357 (100.0%) Y 361 (100.0%) S 370 (100.0%) Y 371 (100.0%) E 374 (100.0%) S 375 (100.0%) N 396 (100.0%) E 399 (100.0%) T 402 (100.0%) Y 409 (100.0%) Y 412 (100.0%) S 414 (100.0%) R 424 (100.0%) E 425 (100.0%) Y 429 (100.0%) K 436 (100.0%) Y 447 (100.0%) 
+S 37, Y 39, T 45, N 56, K 57, T 59, S 60, S 63, S 68, S 69, R 76, S 80, D 86, R 88, D 91, Y 97, N 106, Y 107, Y 113, Y 116, N 125, K 160, S 170, N 171, S 172, Y 173, Y 177, Y 187, S 191, Y 195, R 209, S 225, K 228, S 230, R 231, E 233, T 236, T 240, Y 245, N 247, N 253, S 271, E 272, S 275, R 278, S 282, N 291, Y 298, S 303, Y 304, Q 309, S 310, Q 328, T 332, S 335, S 347, Y 348, S 349, S 353, T 355, N 357, Y 361, S 370, Y 371, E 374, S 375, N 396, E 399, T 402, Y 409, Y 412, S 414, R 424, E 425, Y 429, K 436, Y 447
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------------------------------------:|
-| CAD19991.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O6         |                                    0 |
-| WP_000864940.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O6         |                                    0 |
-| ADT75640.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O6         |                                    0 |
-| AFW04706.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O40        |                                    0 |
+| accession      | order            | family             | genus       | species             | serotype   |   Enterobacterial common antigen Wzy |
+|:---------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------------------------------------:|
+| CAD19991.1     | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O6         |                                    0 |
+| WP_000864940.1 | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O6         |                                    0 |
+| ADT75640.1     | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O6         |                                    0 |
+| AFW04706.1     | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O40        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0016_104/sequences.afa)
 
@@ -6842,13 +6457,11 @@ S 37 (100.0%) Y 39 (100.0%) T 45 (100.0%) N 56 (100.0%) K 57 (100.0%) T 59 (100.
 
 #### Sugars in cluster:
 
-CAD19991.1 Escherichia coli O6, WP_000864940.1 Escherichia coli O6, ADT75640.1 Escherichia coli O6:
+WP_000864940.1 (Escherichia coli O6), CAD19991.1 (Escherichia coli O6), ADT75640.1 (Escherichia coli O6)
 
-![](../../../csdb/images/114261.gif)
+![](../../../csdb/images/114261.gif)114261
 
-CSDB record ID: 114261
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6860,22 +6473,23 @@ CSDB record ID: 114261
 |                       |                         | Escherichia (5) |
 |                       |                         | Citrobacter (5) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 96
+
 Total number of members in cluster: 15
 
 Average length of proteins in cluster: 402.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 56 (100.0%) D 60 (100.0%) R 63 (100.0%) H 64 (100.0%) K 104 (100.0%) S 115 (100.0%) Y 116 (100.0%) S 163 (100.0%) R 166 (100.0%) Y 176 (100.0%) H 206 (100.0%) S 208 (100.0%) Y 272 (100.0%) Y 276 (100.0%) D 278 (100.0%) S 344 (100.0%) S 346 (100.0%) R 352 (100.0%) S 375 (100.0%) S 408 (100.0%) Y 414 (100.0%) 
+Y 56, D 60, R 63, H 64, K 104, S 115, Y 116, S 163, R 166, Y 176, H 206, S 208, Y 272, Y 276, D 278, S 344, S 346, R 352, S 375, S 408, Y 414
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ADV17650.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O11        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ADV17650.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O11        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0015_96/sequences.afa)
 
@@ -6891,13 +6505,11 @@ Y 56 (100.0%) D 60 (100.0%) R 63 (100.0%) H 64 (100.0%) K 104 (100.0%) S 115 (10
 
 #### Sugars in cluster:
 
-ADV17650.1 Escherichia coli O11:
+ADV17650.1 (Escherichia coli O11)
 
-![](../../../csdb/images/1513.gif)
+![](../../../csdb/images/1513.gif)1513
 
-CSDB record ID: 1513
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6911,24 +6523,25 @@ CSDB record ID: 1513
 | Aeromonadales (2)    | Aeromonadaceae (2)     | Aeromonas (2)   |
 | Vibrionales (1)      | Vibrionaceae (1)       | Vibrio (1)      |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 88
+
 Total number of members in cluster: 15
 
 Average length of proteins in cluster: 395.7
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 76 (100.0%) D 102 (100.0%) Y 131 (100.0%) R 174 (100.0%) H 211 (100.0%) S 213 (100.0%) Y 292 (100.0%) R 374 (100.0%) 
+D 76, D 102, Y 131, R 174, H 211, S 213, Y 292, R 374
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ACD37086.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O112ab     |                                    0 |
-| BAQ01999.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O181       |                                    0 |
-| ACD37078.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 15         |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ACD37086.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O112ab     |                                    0 |
+| BAQ01999.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O181       |                                    0 |
+| ACD37078.1  | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 15         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0015_88/sequences.afa)
 
@@ -6944,25 +6557,19 @@ D 76 (100.0%) D 102 (100.0%) Y 131 (100.0%) R 174 (100.0%) H 211 (100.0%) S 213 
 
 #### Sugars in cluster:
 
-ACD37086.1 Escherichia coli O112ab:
+ACD37086.1 (Escherichia coli O112ab)
 
-![](../../../csdb/images/705.gif)
+![](../../../csdb/images/705.gif)705
 
-CSDB record ID: 705
+BAQ01999.1 (Escherichia coli O181)
 
-BAQ01999.1 Escherichia coli O181:
+![](../../../csdb/images/1923.gif)1923
 
-![](../../../csdb/images/1923.gif)
+ACD37078.1 (Shigella boydii 15)
 
-CSDB record ID: 1923
+![](../../../csdb/images/1851.gif)1851
 
-ACD37078.1 Shigella boydii 15:
-
-![](../../../csdb/images/1851.gif)
-
-CSDB record ID: 1851
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -6979,23 +6586,24 @@ CSDB record ID: 1851
 | Vibrionales (3)       | Vibrionaceae (3)       | Vibrio (3)      |
 | nan (1)               | nan (1)                | nan (1)         |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 70
+
 Total number of members in cluster: 15
 
 Average length of proteins in cluster: 451.6
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 105 (100.0%) R 113 (100.0%) S 205 (100.0%) K 241 (100.0%) R 277 (100.0%) Y 279 (100.0%) Y 283 (100.0%) R 320 (100.0%) Q 342 (100.0%) E 347 (100.0%) D 380 (100.0%) R 383 (100.0%) S 396 (100.0%) E 400 (100.0%) Y 403 (100.0%) N 456 (100.0%) Y 459 (100.0%) R 462 (100.0%) S 463 (100.0%) K 471 (100.0%) 
+S 105, R 113, S 205, K 241, R 277, Y 279, Y 283, R 320, Q 342, E 347, D 380, R 383, S 396, E 400, Y 403, N 456, Y 459, R 462, S 463, K 471
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------------------------------------:|
-| AAO37717.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O86        |                                    0 |
-| AFW04802.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O43        |                                    0 |
+| accession   | order            | family             | genus       | species             | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------------------------------------:|
+| AAO37717.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O86        |                                    0 |
+| AFW04802.1  | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O43        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0015_70/sequences.afa)
 
@@ -7011,13 +6619,11 @@ S 105 (100.0%) R 113 (100.0%) S 205 (100.0%) K 241 (100.0%) R 277 (100.0%) Y 279
 
 #### Sugars in cluster:
 
-AAO37717.1 Escherichia coli O86:
+AAO37717.1 (Escherichia coli O86)
 
-![](../../../csdb/images/1439.gif)
+![](../../../csdb/images/1439.gif)1439
 
-CSDB record ID: 1439
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7033,24 +6639,25 @@ CSDB record ID: 1439
 | Vibrionales (1)       | Vibrionaceae (1)       | Vibrio (1)       |
 | Oceanospirillales (1) | Halomonadaceae (1)     | Halomonas (1)    |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 26
+
 Total number of members in cluster: 15
 
 Average length of proteins in cluster: 340.1
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 41 (100.0%) N 42 (100.0%) D 43 (100.0%) Y 47 (100.0%) D 49 (100.0%) E 64 (100.0%) S 92 (100.0%) K 96 (100.0%) Y 117 (100.0%) S 120 (100.0%) H 125 (100.0%) E 126 (100.0%) T 128 (100.0%) Q 129 (100.0%) R 131 (100.0%) H 165 (100.0%) Y 166 (100.0%) S 167 (100.0%) N 214 (100.0%) Y 220 (100.0%) N 223 (100.0%) S 224 (100.0%) S 234 (100.0%) T 236 (100.0%) S 294 (100.0%) S 296 (100.0%) S 300 (100.0%) R 302 (100.0%) Y 304 (100.0%) E 305 (100.0%) S 308 (100.0%) R 343 (100.0%) S 354 (100.0%) H 356 (100.0%) R 357 (100.0%) N 365 (100.0%) 
+S 41, N 42, D 43, Y 47, D 49, E 64, S 92, K 96, Y 117, S 120, H 125, E 126, T 128, Q 129, R 131, H 165, Y 166, S 167, N 214, Y 220, N 223, S 224, S 234, T 236, S 294, S 296, S 300, R 302, Y 304, E 305, S 308, R 343, S 354, H 356, R 357, N 365
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------------------------------------:|
-| AQU71717.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O1         |                                    0 |
-| AQU71739.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O1         |                                    0 |
-| AFW04812.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O42        |                                    0 |
+| accession   | order            | family             | genus       | species             | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------------------------------------:|
+| AQU71717.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O1         |                                    0 |
+| AQU71739.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O1         |                                    0 |
+| AFW04812.1  | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O42        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0015_26/sequences.afa)
 
@@ -7066,19 +6673,15 @@ S 41 (100.0%) N 42 (100.0%) D 43 (100.0%) Y 47 (100.0%) D 49 (100.0%) E 64 (100.
 
 #### Sugars in cluster:
 
-AQU71717.1 Escherichia coli O1, AQU71739.1 Escherichia coli O1:
+AFW04812.1 (Salmonella enterica O42)
 
-![](../../../csdb/images/7222.gif)
+![](../../../csdb/images/703.gif)703
 
-CSDB record ID: 7222
+AQU71717.1 (Escherichia coli O1), AQU71739.1 (Escherichia coli O1)
 
-AFW04812.1 Salmonella enterica O42:
+![](../../../csdb/images/7222.gif)7222
 
-![](../../../csdb/images/703.gif)
-
-CSDB record ID: 703
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7092,22 +6695,23 @@ CSDB record ID: 703
 |                       | Morganellaceae (1)      | Proteus (1)      |
 | Aeromonadales (1)     | Aeromonadaceae (1)      | Aeromonas (1)    |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 164
+
 Total number of members in cluster: 15
 
 Average length of proteins in cluster: 396.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Q 41 (100.0%) Y 177 (100.0%) Y 179 (100.0%) K 182 (100.0%) N 183 (100.0%) S 184 (100.0%) R 234 (100.0%) S 312 (100.0%) R 314 (100.0%) E 400 (100.0%) 
+Q 41, Y 177, Y 179, K 182, N 183, S 184, R 234, S 312, R 314, E 400
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  |   serotype |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------------------------------------:|
-| CAI32797.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          5 |                                    0 |
+| accession   | order           | family           | genus         | species                  |   serotype |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------------------------------------:|
+| CAI32797.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          5 |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0015_164/sequences.afa)
 
@@ -7123,13 +6727,11 @@ Q 41 (100.0%) Y 177 (100.0%) Y 179 (100.0%) K 182 (100.0%) N 183 (100.0%) S 184 
 
 #### Sugars in cluster:
 
-CAI32797.1 Streptococcus pneumoniae 5:
+CAI32797.1 (Streptococcus pneumoniae 5)
 
-![](../../../csdb/images/1947.gif)
+![](../../../csdb/images/1947.gif)1947
 
-CSDB record ID: 1947
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7143,31 +6745,33 @@ CSDB record ID: 1947
 |                        |                         | Parasporobacterium (1)    |
 |                        |                         | Mediterraneibacter (1)    |
 |                        |                         | Lachnoclostridium (1)     |
-| nan (4)                | nan (4)                 | Candidatus Gallimonas (1) |
+| nan (4)                | nan (4)                 | nan (3)                   |
+|                        |                         | Candidatus Gallimonas (1) |
 | Lactobacillales (3)    | Streptococcaceae (3)    | Streptococcus (3)         |
 | Bacillales (1)         | Planococcaceae (1)      | Planococcus (1)           |
 | Erysipelotrichales (1) | Erysipelotrichaceae (1) | Absicoccus (1)            |
 | Bacteroidales (1)      | Prevotellaceae (1)      | Prevotella (1)            |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 130
+
 Total number of members in cluster: 15
 
 Average length of proteins in cluster: 395.5
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 30 (100.0%) Y 33 (100.0%) Y 34 (100.0%) K 54 (100.0%) K 57 (100.0%) Y 58 (100.0%) S 65 (100.0%) E 154 (100.0%) Y 165 (100.0%) T 169 (100.0%) R 173 (100.0%) S 174 (100.0%) S 176 (100.0%) N 180 (100.0%) N 183 (100.0%) Y 187 (100.0%) S 220 (100.0%) S 222 (100.0%) R 223 (100.0%) T 224 (100.0%) Y 271 (100.0%) R 284 (100.0%) R 294 (100.0%) D 306 (100.0%) D 313 (100.0%) Y 327 (100.0%) N 332 (100.0%) Y 378 (100.0%) S 391 (100.0%) N 395 (100.0%) Q 396 (100.0%) S 401 (100.0%) 
+S 30, Y 33, Y 34, K 54, K 57, Y 58, S 65, E 154, Y 165, T 169, R 173, S 174, S 176, N 180, N 183, Y 187, S 220, S 222, R 223, T 224, Y 271, R 284, R 294, D 306, D 313, Y 327, N 332, Y 378, S 391, N 395, Q 396, S 401
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------------------------------------:|
-| AHG15281.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O145       |                                    0 |
-| AFD18613.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O145       |                                    0 |
-| AAX58762.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O145       |                                    0 |
-| AFW04668.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O48        |                                    0 |
+| accession   | order            | family             | genus       | species             | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------------------------------------:|
+| AHG15281.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O145       |                                    0 |
+| AFD18613.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O145       |                                    0 |
+| AAX58762.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O145       |                                    0 |
+| AFW04668.1  | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O48        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0015_130/sequences.afa)
 
@@ -7183,19 +6787,11 @@ S 30 (100.0%) Y 33 (100.0%) Y 34 (100.0%) K 54 (100.0%) K 57 (100.0%) Y 58 (100.
 
 #### Sugars in cluster:
 
-AHG15281.1 Escherichia coli O145, AFD18613.1 Escherichia coli O145, AAX58762.1 Escherichia coli O145:
+AHG15281.1 (Escherichia coli O145), GEF03964.1 (Escherichia coli O145), AAX58762.1 (Escherichia coli O145), AFD18613.1 (Escherichia coli O145)
 
-![](../../../csdb/images/1886.gif)
+![](../../../csdb/images/1886.gif)1886
 
-CSDB record ID: 1886
-
-#### Sugars for blast hits:
-
-GEF03964.1 Escherichia coli O145:
-
-![](../../../csdb/images/1886.gif)
-
-CSDB record ID: 1886
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7210,23 +6806,24 @@ CSDB record ID: 1886
 |                       | Morganellaceae (1)      | Photorhabdus (1) |
 | Pseudomonadales (1)   | Pseudomonadaceae (1)    | Pseudomonas (1)  |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 110
+
 Total number of members in cluster: 15
 
 Average length of proteins in cluster: 438.1
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 60 (100.0%) S 101 (100.0%) K 126 (100.0%) H 186 (100.0%) R 197 (100.0%) R 199 (100.0%) E 204 (100.0%) S 206 (100.0%) S 245 (100.0%) K 246 (100.0%) D 299 (100.0%) S 305 (100.0%) T 308 (100.0%) R 309 (100.0%) Y 329 (100.0%) E 363 (100.0%) K 377 (100.0%) K 416 (100.0%) Y 440 (100.0%) 
+S 60, S 101, K 126, H 186, R 197, R 199, E 204, S 206, S 245, K 246, D 299, S 305, T 308, R 309, Y 329, E 363, K 377, K 416, Y 440
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
-| ACA24882.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O58        |                                    0 |
-| ACA24868.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 5          |                                    0 |
+| accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
+| ACA24882.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O58        |                                    0 |
+| ACA24868.1  | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 5          |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0015_110/sequences.afa)
 
@@ -7242,19 +6839,15 @@ S 60 (100.0%) S 101 (100.0%) K 126 (100.0%) H 186 (100.0%) R 197 (100.0%) R 199 
 
 #### Sugars in cluster:
 
-ACA24882.1 Escherichia coli O58:
+ACA24868.1 (Shigella dysenteriae 5)
 
-![](../../../csdb/images/108653.gif)
+![](../../../csdb/images/1565.gif)1565
 
-CSDB record ID: 108653
+ACA24882.1 (Escherichia coli O58)
 
-ACA24868.1 Shigella dysenteriae 5:
+![](../../../csdb/images/108653.gif)108653
 
-![](../../../csdb/images/1565.gif)
-
-CSDB record ID: 1565
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7274,23 +6867,24 @@ CSDB record ID: 1565
 | Aquificales (1)       | Hydrogenothermaceae (1) | Sulfurihydrogenibium (1) |
 | nan (1)               | nan (1)                 | nan (1)                  |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 55
+
 Total number of members in cluster: 14
 
 Average length of proteins in cluster: 383.7
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 8 (100.0%) D 22 (100.0%) R 52 (100.0%) Y 53 (100.0%) D 58 (100.0%) Y 62 (100.0%) E 77 (100.0%) E 137 (100.0%) R 140 (100.0%) Q 141 (100.0%) H 174 (100.0%) S 176 (100.0%) K 235 (100.0%) Y 239 (100.0%) K 256 (100.0%) T 306 (100.0%) R 310 (100.0%) Y 314 (100.0%) Y 359 (100.0%) Y 367 (100.0%) N 369 (100.0%) R 386 (100.0%) 
+Y 8, D 22, R 52, Y 53, D 58, Y 62, E 77, E 137, R 140, Q 141, H 174, S 176, K 235, Y 239, K 256, T 306, R 310, Y 314, Y 359, Y 367, N 369, R 386
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
-| ACA24852.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O29        |                                    0 |
-| ACA24840.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 11         |                                    0 |
+| accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
+| ACA24852.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O29        |                                    0 |
+| ACA24840.1  | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 11         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0014_55/sequences.afa)
 
@@ -7306,19 +6900,15 @@ Y 8 (100.0%) D 22 (100.0%) R 52 (100.0%) Y 53 (100.0%) D 58 (100.0%) Y 62 (100.0
 
 #### Sugars in cluster:
 
-ACA24852.1 Escherichia coli O29:
+ACA24840.1 (Shigella dysenteriae 11)
 
-![](../../../csdb/images/1538.gif)
+![](../../../csdb/images/1932.gif)1932
 
-CSDB record ID: 1538
+ACA24852.1 (Escherichia coli O29)
 
-ACA24840.1 Shigella dysenteriae 11:
+![](../../../csdb/images/1538.gif)1538
 
-![](../../../csdb/images/1932.gif)
-
-CSDB record ID: 1932
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7339,23 +6929,24 @@ CSDB record ID: 1932
 |                       | Erwiniaceae (1)        | Pantoea (1)         |
 |                       | Yersiniaceae (1)       | Yersinia (1)        |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 30
+
 Total number of members in cluster: 14
 
 Average length of proteins in cluster: 350.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 56 (100.0%) T 57 (100.0%) Y 60 (100.0%) N 89 (100.0%) S 133 (100.0%) E 138 (100.0%) T 141 (100.0%) N 142 (100.0%) R 145 (100.0%) Q 146 (100.0%) S 149 (100.0%) H 179 (100.0%) Y 235 (100.0%) R 246 (100.0%) Y 297 (100.0%) R 301 (100.0%) Y 304 (100.0%) N 339 (100.0%) S 350 (100.0%) 
+D 56, T 57, Y 60, N 89, S 133, E 138, T 141, N 142, R 145, Q 146, S 149, H 179, Y 235, R 246, Y 297, R 301, Y 304, N 339, S 350
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ABI98966.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O149       |                                    0 |
-| AAV41072.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | O1         |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ABI98966.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O149       |                                    0 |
+| AAV41072.1  | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | O1         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0014_30/sequences.afa)
 
@@ -7371,13 +6962,11 @@ D 56 (100.0%) T 57 (100.0%) Y 60 (100.0%) N 89 (100.0%) S 133 (100.0%) E 138 (10
 
 #### Sugars in cluster:
 
-ABI98966.1 Escherichia coli O149:
+ABI98966.1 (Escherichia coli O149)
 
-![](../../../csdb/images/1890.gif)
+![](../../../csdb/images/1890.gif)1890
 
-CSDB record ID: 1890
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7395,25 +6984,26 @@ CSDB record ID: 1890
 |                      |                        | Ralstonia (2)    |
 | Vibrionales (2)      | Vibrionaceae (2)       | Vibrio (2)       |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 19
+
 Total number of members in cluster: 14
 
 Average length of proteins in cluster: 380.4
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-K 53 (100.0%) K 59 (100.0%) D 64 (100.0%) Q 74 (100.0%) T 83 (100.0%) Y 99 (100.0%) K 103 (100.0%) Q 128 (100.0%) Q 132 (100.0%) D 140 (100.0%) D 147 (100.0%) R 149 (100.0%) Y 151 (100.0%) R 155 (100.0%) K 156 (100.0%) N 157 (100.0%) T 160 (100.0%) Y 162 (100.0%) Y 173 (100.0%) S 203 (100.0%) T 205 (100.0%) Y 229 (100.0%) S 270 (100.0%) R 272 (100.0%) N 286 (100.0%) T 301 (100.0%) N 302 (100.0%) H 310 (100.0%) N 311 (100.0%) D 315 (100.0%) R 319 (100.0%) K 339 (100.0%) Y 357 (100.0%) E 361 (100.0%) 
+K 53, K 59, D 64, Q 74, T 83, Y 99, K 103, Q 128, Q 132, D 140, D 147, R 149, Y 151, R 155, K 156, N 157, T 160, Y 162, Y 173, S 203, T 205, Y 229, S 270, R 272, N 286, T 301, N 302, H 310, N 311, D 315, R 319, K 339, Y 357, E 361
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI32973.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 9A         |                                    0 |
-| CAI32993.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 9L         |                                    0 |
-| CAI33011.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 9N         |                                    0 |
-| CAI33029.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 9V         |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI32973.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 9A         |                                    0 |
+| CAI32993.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 9L         |                                    0 |
+| CAI33011.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 9N         |                                    0 |
+| CAI33029.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 9V         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0014_19/sequences.afa)
 
@@ -7429,37 +7019,27 @@ K 53 (100.0%) K 59 (100.0%) D 64 (100.0%) Q 74 (100.0%) T 83 (100.0%) Y 99 (100.
 
 #### Sugars in cluster:
 
-CAI32973.1 Streptococcus pneumoniae 9A:
+CAI32973.1 (Streptococcus pneumoniae 9A)
 
-![](../../../csdb/images/112112.gif)
+![](../../../csdb/images/112112.gif)112112
 
-CSDB record ID: 112112
+CAI33029.1 (Streptococcus pneumoniae 9V)
 
-CAI32993.1 Streptococcus pneumoniae 9L:
+![](../../../csdb/images/320.gif)320
 
-![](../../../csdb/images/7046.gif)
+CAI33011.1 (Streptococcus pneumoniae 9N)
 
-CSDB record ID: 7046
+![](../../../csdb/images/7415.gif)7415
 
-CAI33011.1 Streptococcus pneumoniae 9N:
+CAI32993.1 (Streptococcus pneumoniae 9L)
 
-![](../../../csdb/images/7415.gif)
+![](../../../csdb/images/7046.gif)7046
 
-CSDB record ID: 7415
+#### Sugars for blast hits only (may be incorrect):
 
-CAI33029.1 Streptococcus pneumoniae 9V:
+CZE39046.1 (Streptococcus pneumoniae 5)
 
-![](../../../csdb/images/320.gif)
-
-CSDB record ID: 320
-
-#### Sugars for blast hits:
-
-CZE39046.1 Streptococcus pneumoniae 5:
-
-![](../../../csdb/images/1947.gif)
-
-CSDB record ID: 1947
+![](../../../csdb/images/1947.gif)1947
 
 #### Alphafold models:
 
@@ -7472,22 +7052,23 @@ CSDB record ID: 1947
 | Lactobacillales (14) | Streptococcaceae (13) | Streptococcus (13) |
 |                      | Aerococcaceae (1)     | Globicatella (1)   |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 154
+
 Total number of members in cluster: 14
 
 Average length of proteins in cluster: 395.8
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 52 (100.0%) Y 217 (100.0%) K 219 (100.0%) S 252 (100.0%) R 332 (100.0%) E 373 (100.0%) D 375 (100.0%) H 376 (100.0%) R 381 (100.0%) N 427 (100.0%) 
+D 52, Y 217, K 219, S 252, R 332, E 373, D 375, H 376, R 381, N 427
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01456.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O100       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01456.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O100       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0014_154/sequences.afa)
 
@@ -7503,13 +7084,11 @@ D 52 (100.0%) Y 217 (100.0%) K 219 (100.0%) S 252 (100.0%) R 332 (100.0%) E 373 
 
 #### Sugars in cluster:
 
-BAQ01456.1 Escherichia coli O100:
+BAQ01456.1 (Escherichia coli O100)
 
-![](../../../csdb/images/1838.gif)
+![](../../../csdb/images/1838.gif)1838
 
-CSDB record ID: 1838
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7527,23 +7106,24 @@ CSDB record ID: 1838
 | Rhodothermales (1)     | Salisaetaceae (1)      | Salisaeta (1)         |
 | Xanthomonadales (1)    | nan (1)                | nan (1)               |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 121
+
 Total number of members in cluster: 14
 
 Average length of proteins in cluster: 489.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 59 (100.0%) R 93 (100.0%) R 312 (100.0%) K 384 (100.0%) S 402 (100.0%) R 406 (100.0%) E 409 (100.0%) N 412 (100.0%) H 467 (100.0%) Y 485 (100.0%) 
+S 59, R 93, R 312, K 384, S 402, R 406, E 409, N 412, H 467, Y 485
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
-| BAQ01386.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O93        |                                    0 |
-| ACA24912.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 10         |                                    0 |
+| accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
+| BAQ01386.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O93        |                                    0 |
+| ACA24912.1  | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 10         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0014_121/sequences.afa)
 
@@ -7559,13 +7139,11 @@ S 59 (100.0%) R 93 (100.0%) R 312 (100.0%) K 384 (100.0%) S 402 (100.0%) R 406 (
 
 #### Sugars in cluster:
 
-ACA24912.1 Shigella dysenteriae 10:
+ACA24912.1 (Shigella dysenteriae 10)
 
-![](../../../csdb/images/23812.gif)
+![](../../../csdb/images/23812.gif)23812
 
-CSDB record ID: 23812
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7578,34 +7156,35 @@ CSDB record ID: 23812
 | Enterobacterales (9) | Enterobacteriaceae (9) | Escherichia (4)    |
 |                      |                        | Enterobacter (4)   |
 |                      |                        | Shigella (1)       |
-| nan (2)              | nan (2)                | nan (2)            |
-| Eubacteriales (1)    | Eubacteriaceae (1)     | nan (2)            |
+| nan (2)              | nan (2)                | nan (3)            |
+| Eubacteriales (1)    | Eubacteriaceae (1)     | nan (3)            |
 | Bacteroidales (1)    | Bacteroidaceae (1)     | Bacteroides (1)    |
 | Vibrionales (1)      | Vibrionaceae (1)       | Photobacterium (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 120
+
 Total number of members in cluster: 14
 
 Average length of proteins in cluster: 391.1
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 33 (100.0%) S 66 (100.0%) K 95 (100.0%) S 108 (100.0%) K 109 (100.0%) Y 118 (100.0%) Y 121 (100.0%) D 124 (100.0%) S 136 (100.0%) S 140 (100.0%) E 141 (100.0%) S 170 (100.0%) N 172 (100.0%) H 175 (100.0%) T 177 (100.0%) R 178 (100.0%) T 181 (100.0%) Y 191 (100.0%) K 203 (100.0%) R 226 (100.0%) S 227 (100.0%) S 246 (100.0%) Y 250 (100.0%) E 251 (100.0%) S 252 (100.0%) Q 256 (100.0%) S 258 (100.0%) D 281 (100.0%) T 286 (100.0%) K 295 (100.0%) S 309 (100.0%) S 315 (100.0%) Y 317 (100.0%) Y 323 (100.0%) Y 332 (100.0%) Y 359 (100.0%) Y 361 (100.0%) D 365 (100.0%) R 369 (100.0%) R 372 (100.0%) D 373 (100.0%) K 380 (100.0%) 
+S 33, S 66, K 95, S 108, K 109, Y 118, Y 121, D 124, S 136, S 140, E 141, S 170, N 172, H 175, T 177, R 178, T 181, Y 191, K 203, R 226, S 227, S 246, Y 250, E 251, S 252, Q 256, S 258, D 281, T 286, K 295, S 309, S 315, Y 317, Y 323, Y 332, Y 359, Y 361, D 365, R 369, R 372, D 373, K 380
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus      | species             | serotype           |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-------------------|-------------------------------------:|
-| AAC38177.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | 1,9,12,46,27:c:z39 |                                    0 |
-| AAL91079.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Schleissheim       |                                    0 |
-| AAL91080.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Vellore            |                                    0 |
-| AAL91081.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | II 4,12,27:i:z35   |                                    0 |
-| AAL91082.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Sloterdijk         |                                    0 |
-| WP_237703389.1      | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Schwarzengrund     |                                    0 |
-| ACF92750.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Schwarzengrund     |                                    0 |
-| AGS07346.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | D3                 |                                    0 |
+| accession      | order            | family             | genus      | species             | serotype           |   Enterobacterial common antigen Wzy |
+|:---------------|:-----------------|:-------------------|:-----------|:--------------------|:-------------------|-------------------------------------:|
+| AAC38177.1     | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | 1,9,12,46,27:c:z39 |                                    0 |
+| AAL91079.1     | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Schleissheim       |                                    0 |
+| AAL91080.1     | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Vellore            |                                    0 |
+| AAL91081.1     | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | II 4,12,27:i:z35   |                                    0 |
+| AAL91082.1     | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Sloterdijk         |                                    0 |
+| WP_237703389.1 | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Schwarzengrund     |                                    0 |
+| ACF92750.1     | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | Schwarzengrund     |                                    0 |
+| AGS07346.1     | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | D3                 |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0014_120/sequences.afa)
 
@@ -7621,13 +7200,11 @@ S 33 (100.0%) S 66 (100.0%) K 95 (100.0%) S 108 (100.0%) K 109 (100.0%) Y 118 (1
 
 #### Sugars in cluster:
 
-AGS07346.1 Salmonella enterica D3:
+AGS07346.1 (Salmonella enterica 1,9,12,46,27:c:z39)
 
-![](../../../csdb/images/30907.gif)
+![](../../../csdb/images/30907.gif)30907
 
-CSDB record ID: 30907
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7641,23 +7218,24 @@ CSDB record ID: 30907
 |                       |                         | Citrobacter (2)       |
 | Gloeobacterales (1)   | Gloeobacteraceae (1)    | Anthocerotibacter (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 115
+
 Total number of members in cluster: 14
 
 Average length of proteins in cluster: 412.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-E 209 (100.0%) S 352 (100.0%) E 429 (100.0%) R 486 (100.0%) 
+E 209, S 352, E 429, R 486
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
-| ACD36996.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O168       |                                    0 |
-| ACD36984.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 4          |                                    0 |
+| accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
+| ACD36996.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O168       |                                    0 |
+| ACD36984.1  | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 4          |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0014_115/sequences.afa)
 
@@ -7673,19 +7251,15 @@ E 209 (100.0%) S 352 (100.0%) E 429 (100.0%) R 486 (100.0%)
 
 #### Sugars in cluster:
 
-ACD36996.1 Escherichia coli O168:
+ACD36984.1 (Shigella dysenteriae 4)
 
-![](../../../csdb/images/1910.gif)
+![](../../../csdb/images/1937.gif)1937
 
-CSDB record ID: 1910
+ACD36996.1 (Escherichia coli O168)
 
-ACD36984.1 Shigella dysenteriae 4:
+![](../../../csdb/images/1910.gif)1910
 
-![](../../../csdb/images/1937.gif)
-
-CSDB record ID: 1937
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7695,30 +7269,31 @@ CSDB record ID: 1937
 |:-----------------------|:------------------------|:-----------------------|
 | Enterobacterales (4)   | Enterobacteriaceae (4)  | Escherichia (2)        |
 |                        |                         | Shigella (2)           |
-| nan (3)                | nan (3)                 | nan (2)                |
+| nan (3)                | nan (3)                 | nan (4)                |
 | Pseudomonadales (1)    | Pseudomonadaceae (1)    | Pseudomonas (1)        |
 | Bacillales (1)         | Bacillaceae (1)         | Bacillus (1)           |
 | Vibrionales (1)        | Vibrionaceae (1)        | Vibrio (1)             |
 | Bacteroidales (1)      | Bacteroidaceae (1)      | Bacteroides (1)        |
 | Sphingobacteriales (1) | Sphingobacteriaceae (1) | Mucilaginibacter (1)   |
 | Eubacteriales (1)      | Lachnospiraceae (1)     | Mediterraneibacter (1) |
-| Flavobacteriales (1)   | Flavobacteriaceae (1)   | nan (2)                |
+| Flavobacteriales (1)   | Flavobacteriaceae (1)   | nan (4)                |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 60
+
 Total number of members in cluster: 13
 
 Average length of proteins in cluster: 416.8
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-H 26 (100.0%) H 114 (100.0%) Y 140 (100.0%) R 143 (100.0%) E 150 (100.0%) N 159 (100.0%) Y 160 (100.0%) R 202 (100.0%) Y 216 (100.0%) K 248 (100.0%) Y 271 (100.0%) Q 274 (100.0%) Y 282 (100.0%) H 315 (100.0%) N 329 (100.0%) Y 331 (100.0%) S 332 (100.0%) S 336 (100.0%) Y 353 (100.0%) S 385 (100.0%) S 388 (100.0%) D 389 (100.0%) K 400 (100.0%) 
+H 26, H 114, Y 140, R 143, E 150, N 159, Y 160, R 202, Y 216, K 248, Y 271, Q 274, Y 282, H 315, N 329, Y 331, S 332, S 336, Y 353, S 385, S 388, D 389, K 400
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
-|---------------------|---------|----------|---------|-----------|------------|--------------------------------------|
+| accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
+|-------------|---------|----------|---------|-----------|------------|--------------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0013_60/sequences.afa)
 
@@ -7734,7 +7309,7 @@ H 26 (100.0%) H 114 (100.0%) Y 140 (100.0%) R 143 (100.0%) E 150 (100.0%) N 159 
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7746,24 +7321,25 @@ H 26 (100.0%) H 114 (100.0%) Y 140 (100.0%) R 143 (100.0%) E 150 (100.0%) N 159 
 | Burkholderiales (1)  | Comamonadaceae (1)    | Variovorax (1)   |
 | nan (1)              | nan (1)               | nan (1)          |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 47
+
 Total number of members in cluster: 13
 
 Average length of proteins in cluster: 416.1
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Q 112 (100.0%) R 122 (100.0%) Q 166 (100.0%) R 192 (100.0%) R 240 (100.0%) R 317 (100.0%) D 367 (100.0%) N 368 (100.0%) 
+Q 112, R 122, Q 166, R 192, R 240, R 317, D 367, N 368
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI32889.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 7B         |                                    0 |
-| CAI32910.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 7C         |                                    0 |
-| CAI34454.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 40         |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI32889.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 7B         |                                    0 |
+| CAI32910.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 7C         |                                    0 |
+| CAI34454.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 40         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0013_47/sequences.afa)
 
@@ -7779,19 +7355,15 @@ Q 112 (100.0%) R 122 (100.0%) Q 166 (100.0%) R 192 (100.0%) R 240 (100.0%) R 317
 
 #### Sugars in cluster:
 
-CAI32889.1 Streptococcus pneumoniae 7B:
+CAI32910.1 (Streptococcus pneumoniae 7C)
 
-![](../../../csdb/images/7041.gif)
+![](../../../csdb/images/7042.gif)7042
 
-CSDB record ID: 7041
+CAI32889.1 (Streptococcus pneumoniae 7B)
 
-CAI32910.1 Streptococcus pneumoniae 7C:
+![](../../../csdb/images/7041.gif)7041
 
-![](../../../csdb/images/7042.gif)
-
-CSDB record ID: 7042
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7806,29 +7378,30 @@ CSDB record ID: 7042
 | Bifidobacteriales (3) | Bifidobacteriaceae (3) | Bifidobacterium (3) |
 | Coriobacteriales (1)  | Atopobiaceae (1)       | Olsenella (1)       |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 45
+
 Total number of members in cluster: 13
 
 Average length of proteins in cluster: 391.5
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 15 (100.0%) Q 18 (100.0%) D 25 (100.0%) R 27 (100.0%) Q 44 (100.0%) Q 62 (100.0%) T 82 (100.0%) E 84 (100.0%) K 93 (100.0%) E 94 (100.0%) D 100 (100.0%) D 102 (100.0%) K 107 (100.0%) N 114 (100.0%) Y 117 (100.0%) R 119 (100.0%) Y 120 (100.0%) K 122 (100.0%) Y 123 (100.0%) N 126 (100.0%) K 140 (100.0%) Y 150 (100.0%) T 153 (100.0%) Y 159 (100.0%) R 160 (100.0%) S 161 (100.0%) E 162 (100.0%) Q 169 (100.0%) Y 170 (100.0%) Y 205 (100.0%) S 207 (100.0%) Q 210 (100.0%) N 215 (100.0%) N 220 (100.0%) R 223 (100.0%) N 226 (100.0%) R 227 (100.0%) T 229 (100.0%) E 231 (100.0%) Q 232 (100.0%) E 234 (100.0%) Y 238 (100.0%) E 242 (100.0%) S 243 (100.0%) D 247 (100.0%) T 251 (100.0%) E 253 (100.0%) K 256 (100.0%) E 257 (100.0%) N 263 (100.0%) R 264 (100.0%) K 269 (100.0%) Y 275 (100.0%) E 277 (100.0%) R 278 (100.0%) H 280 (100.0%) K 281 (100.0%) D 286 (100.0%) N 290 (100.0%) S 293 (100.0%) T 295 (100.0%) T 296 (100.0%) E 300 (100.0%) T 330 (100.0%) Y 339 (100.0%) S 340 (100.0%) Q 348 (100.0%) Y 349 (100.0%) N 354 (100.0%) S 356 (100.0%) H 377 (100.0%) D 378 (100.0%) K 381 (100.0%) R 382 (100.0%) 
+Y 15, Q 18, D 25, R 27, Q 44, Q 62, T 82, E 84, K 93, E 94, D 100, D 102, K 107, N 114, Y 117, R 119, Y 120, K 122, Y 123, N 126, K 140, Y 150, T 153, Y 159, R 160, S 161, E 162, Q 169, Y 170, Y 205, S 207, Q 210, N 215, N 220, R 223, N 226, R 227, T 229, E 231, Q 232, E 234, Y 238, E 242, S 243, D 247, T 251, E 253, K 256, E 257, N 263, R 264, K 269, Y 275, E 277, R 278, H 280, K 281, D 286, N 290, S 293, T 295, T 296, E 300, T 330, Y 339, S 340, Q 348, Y 349, N 354, S 356, H 377, D 378, K 381, R 382
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
-| EKI39969.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |                                    0 |
-| BAK68980.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |                                    0 |
-| EKK44895.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |                                    0 |
-| BAK69191.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |                                    0 |
-| BAK69033.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |                                    0 |
-| AAC32340.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |                                    0 |
-| EKI95922.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |                                    0 |
-| AAV34494.1          | Enterobacterales | Enterobacteriaceae | Citrobacter | Citrobacter freundii | 90         |                                    0 |
+| accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
+| EKI39969.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |                                    0 |
+| BAK68980.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |                                    0 |
+| EKK44895.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |                                    0 |
+| BAK69191.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |                                    0 |
+| BAK69033.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |                                    0 |
+| AAC32340.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |                                    0 |
+| EKI95922.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O157       |                                    0 |
+| AAV34494.1  | Enterobacterales | Enterobacteriaceae | Citrobacter | Citrobacter freundii | 90         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0013_45/sequences.afa)
 
@@ -7844,13 +7417,11 @@ Y 15 (100.0%) Q 18 (100.0%) D 25 (100.0%) R 27 (100.0%) Q 44 (100.0%) Q 62 (100.
 
 #### Sugars in cluster:
 
-EKI39969.1 Escherichia coli O157, BAK68980.1 Escherichia coli O157, EKK44895.1 Escherichia coli O157, BAK69191.1 Escherichia coli O157, BAK69033.1 Escherichia coli O157, AAC32340.1 Escherichia coli O157, EKI95922.1 Escherichia coli O157:
+EKI39969.1 (Escherichia coli O157), BAK69191.1 (Escherichia coli O157), BAK69033.1 (Escherichia coli O157), EKK44895.1 (Escherichia coli O157), AAC32340.1 (Escherichia coli O157), BAK68980.1 (Escherichia coli O157), EKI95922.1 (Escherichia coli O157)
 
-![](../../../csdb/images/695.gif)
+![](../../../csdb/images/695.gif)695
 
-CSDB record ID: 695
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7866,25 +7437,26 @@ CSDB record ID: 695
 |                       |                         | Citrobacter (1)  |
 |                       |                         | Salmonella (1)   |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 173
+
 Total number of members in cluster: 13
 
 Average length of proteins in cluster: 405.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 75 (100.0%) Y 93 (100.0%) E 138 (100.0%) S 148 (100.0%) R 149 (100.0%) D 152 (100.0%) N 155 (100.0%) T 166 (100.0%) Y 169 (100.0%) Y 170 (100.0%) N 171 (100.0%) E 172 (100.0%) N 173 (100.0%) D 174 (100.0%) S 212 (100.0%) K 213 (100.0%) Y 222 (100.0%) K 232 (100.0%) R 277 (100.0%) D 295 (100.0%) S 297 (100.0%) E 300 (100.0%) R 301 (100.0%) Y 305 (100.0%) Y 329 (100.0%) E 330 (100.0%) R 340 (100.0%) H 345 (100.0%) N 346 (100.0%) E 350 (100.0%) T 353 (100.0%) Y 360 (100.0%) 
+R 75, Y 93, E 138, S 148, R 149, D 152, N 155, T 166, Y 169, Y 170, N 171, E 172, N 173, D 174, S 212, K 213, Y 222, K 232, R 277, D 295, S 297, E 300, R 301, Y 305, Y 329, E 330, R 340, H 345, N 346, E 350, T 353, Y 360
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ00736.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O22        |                                    0 |
-| ACD37058.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O32        |                                    0 |
-| BAQ01277.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O83        |                                    0 |
-| ACD37051.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 14         |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ00736.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O22        |                                    0 |
+| ACD37058.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O32        |                                    0 |
+| BAQ01277.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O83        |                                    0 |
+| ACD37051.1  | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 14         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0013_173/sequences.afa)
 
@@ -7900,31 +7472,23 @@ R 75 (100.0%) Y 93 (100.0%) E 138 (100.0%) S 148 (100.0%) R 149 (100.0%) D 152 (
 
 #### Sugars in cluster:
 
-BAQ00736.1 Escherichia coli O22:
+ACD37051.1 (Shigella boydii 14)
 
-![](../../../csdb/images/1530.gif)
+![](../../../csdb/images/3977.gif)3977
 
-CSDB record ID: 1530
+BAQ00736.1 (Escherichia coli O22)
 
-ACD37058.1 Escherichia coli O32:
+![](../../../csdb/images/1530.gif)1530
 
-![](../../../csdb/images/1540.gif)
+ACD37058.1 (Escherichia coli O32)
 
-CSDB record ID: 1540
+![](../../../csdb/images/1540.gif)1540
 
-BAQ01277.1 Escherichia coli O83:
+BAQ01277.1 (Escherichia coli O83)
 
-![](../../../csdb/images/1589.gif)
+![](../../../csdb/images/1589.gif)1589
 
-CSDB record ID: 1589
-
-ACD37051.1 Shigella boydii 14:
-
-![](../../../csdb/images/3977.gif)
-
-CSDB record ID: 3977
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7939,22 +7503,23 @@ CSDB record ID: 3977
 |                       |                         | Shigella (1)     |
 |                       | Hafniaceae (1)          | Hafnia (1)       |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 20
+
 Total number of members in cluster: 12
 
 Average length of proteins in cluster: 407.6
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-N 150 (100.0%) R 180 (100.0%) D 187 (100.0%) Y 221 (100.0%) R 229 (100.0%) R 296 (100.0%) D 343 (100.0%) 
+N 150, R 180, D 187, Y 221, R 229, R 296, D 343
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  |   serotype |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------------------------------------:|
-| CAI33745.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |         21 |                                    0 |
+| accession   | order           | family           | genus         | species                  |   serotype |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------------------------------------:|
+| CAI33745.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |         21 |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0012_20/sequences.afa)
 
@@ -7970,7 +7535,7 @@ N 150 (100.0%) R 180 (100.0%) D 187 (100.0%) Y 221 (100.0%) R 229 (100.0%) R 296
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -7983,24 +7548,25 @@ N 150 (100.0%) R 180 (100.0%) D 187 (100.0%) Y 221 (100.0%) R 229 (100.0%) R 296
 |                      | Streptococcaceae (2) | Streptococcus (2)       |
 | Eubacteriales (1)    | Lachnospiraceae (1)  | nan (1)                 |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 180
+
 Total number of members in cluster: 12
 
 Average length of proteins in cluster: 366.5
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-K 25 (100.0%) S 39 (100.0%) R 42 (100.0%) Y 43 (100.0%) D 48 (100.0%) S 51 (100.0%) Y 52 (100.0%) Y 55 (100.0%) Y 66 (100.0%) N 84 (100.0%) Q 86 (100.0%) Y 92 (100.0%) Y 101 (100.0%) Y 128 (100.0%) S 129 (100.0%) N 137 (100.0%) Q 138 (100.0%) R 140 (100.0%) S 144 (100.0%) Y 150 (100.0%) H 172 (100.0%) S 173 (100.0%) Y 227 (100.0%) S 230 (100.0%) E 240 (100.0%) Y 243 (100.0%) S 284 (100.0%) D 286 (100.0%) R 292 (100.0%) D 295 (100.0%) K 298 (100.0%) K 318 (100.0%) N 341 (100.0%) S 346 (100.0%) N 347 (100.0%) Y 359 (100.0%) Y 361 (100.0%) N 364 (100.0%) 
+K 25, S 39, R 42, Y 43, D 48, S 51, Y 52, Y 55, Y 66, N 84, Q 86, Y 92, Y 101, Y 128, S 129, N 137, Q 138, R 140, S 144, Y 150, H 172, S 173, Y 227, S 230, E 240, Y 243, S 284, D 286, R 292, D 295, K 298, K 318, N 341, S 346, N 347, Y 359, Y 361, N 364
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
-| ACD37138.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O124       |                                    0 |
-| ACD37146.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O164       |                                    0 |
-| ACD37105.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 3          |                                    0 |
+| accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
+| ACD37138.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O124       |                                    0 |
+| ACD37146.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O164       |                                    0 |
+| ACD37105.1  | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 3          |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0012_180/sequences.afa)
 
@@ -8016,25 +7582,19 @@ K 25 (100.0%) S 39 (100.0%) R 42 (100.0%) Y 43 (100.0%) D 48 (100.0%) S 51 (100.
 
 #### Sugars in cluster:
 
-ACD37138.1 Escherichia coli O124:
+ACD37146.1 (Escherichia coli O164)
 
-![](../../../csdb/images/1863.gif)
+![](../../../csdb/images/1906.gif)1906
 
-CSDB record ID: 1863
+ACD37138.1 (Escherichia coli O124)
 
-ACD37146.1 Escherichia coli O164:
+![](../../../csdb/images/1863.gif)1863
 
-![](../../../csdb/images/1906.gif)
+ACD37105.1 (Shigella dysenteriae 3)
 
-CSDB record ID: 1906
+![](../../../csdb/images/718.gif)718
 
-ACD37105.1 Shigella dysenteriae 3:
-
-![](../../../csdb/images/718.gif)
-
-CSDB record ID: 718
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8048,22 +7608,23 @@ CSDB record ID: 718
 |                       | Pectobacteriaceae (2)  | Pectobacterium (2) |
 | Vibrionales (1)       | Vibrionaceae (1)       | Photobacterium (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 124
+
 Total number of members in cluster: 12
 
 Average length of proteins in cluster: 370.7
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 24 (100.0%) D 28 (100.0%) K 48 (100.0%) D 98 (100.0%) R 99 (100.0%) Y 111 (100.0%) R 112 (100.0%) Y 117 (100.0%) R 119 (100.0%) Y 120 (100.0%) Y 126 (100.0%) R 171 (100.0%) N 178 (100.0%) S 216 (100.0%) T 218 (100.0%) S 220 (100.0%) Y 270 (100.0%) Y 272 (100.0%) S 275 (100.0%) N 278 (100.0%) R 279 (100.0%) D 309 (100.0%) N 310 (100.0%) S 317 (100.0%) Y 329 (100.0%) Q 350 (100.0%) Y 361 (100.0%) 
+R 24, D 28, K 48, D 98, R 99, Y 111, R 112, Y 117, R 119, Y 120, Y 126, R 171, N 178, S 216, T 218, S 220, Y 270, Y 272, S 275, N 278, R 279, D 309, N 310, S 317, Y 329, Q 350, Y 361
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01960.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O179       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01960.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O179       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0012_124/sequences.afa)
 
@@ -8079,13 +7640,11 @@ R 24 (100.0%) D 28 (100.0%) K 48 (100.0%) D 98 (100.0%) R 99 (100.0%) Y 111 (100
 
 #### Sugars in cluster:
 
-BAQ01960.1 Escherichia coli O179:
+BAQ01960.1 (Escherichia coli O179)
 
-![](../../../csdb/images/1921.gif)
+![](../../../csdb/images/1921.gif)1921
 
-CSDB record ID: 1921
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8100,23 +7659,24 @@ CSDB record ID: 1921
 | Vibrionales (5)      | Vibrionaceae (5)       | Vibrio (4)       |
 |                      |                        | Aliivibrio (1)   |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 102
+
 Total number of members in cluster: 12
 
 Average length of proteins in cluster: 410.8
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 183 (100.0%) S 238 (100.0%) R 239 (100.0%) T 240 (100.0%) K 305 (100.0%) E 312 (100.0%) R 331 (100.0%) E 334 (100.0%) H 386 (100.0%) N 387 (100.0%) Y 389 (100.0%) 
+R 183, S 238, R 239, T 240, K 305, E 312, R 331, E 334, H 386, N 387, Y 389
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI34057.2          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 28F        |                                    0 |
-| CAI34032.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 28A        |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI34057.2  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 28F        |                                    0 |
+| CAI34032.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 28A        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0012_102/sequences.afa)
 
@@ -8132,7 +7692,7 @@ R 183 (100.0%) S 238 (100.0%) R 239 (100.0%) T 240 (100.0%) K 305 (100.0%) E 312
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8146,23 +7706,24 @@ R 183 (100.0%) S 238 (100.0%) R 239 (100.0%) T 240 (100.0%) K 305 (100.0%) E 312
 |                      |                           | Oenococcus (1)       |
 | Eubacteriales (1)    | Peptostreptococcaceae (1) | Paeniclostridium (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 198
+
 Total number of members in cluster: 11
 
 Average length of proteins in cluster: 345.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 3 (100.0%) S 10 (100.0%) N 13 (100.0%) R 19 (100.0%) T 21 (100.0%) S 33 (100.0%) Y 37 (100.0%) N 38 (100.0%) D 42 (100.0%) N 45 (100.0%) Y 46 (100.0%) Y 50 (100.0%) D 55 (100.0%) E 61 (100.0%) Y 78 (100.0%) S 83 (100.0%) S 86 (100.0%) T 89 (100.0%) Y 93 (100.0%) Y 94 (100.0%) R 98 (100.0%) Y 113 (100.0%) Y 118 (100.0%) Y 120 (100.0%) E 122 (100.0%) H 123 (100.0%) N 125 (100.0%) R 128 (100.0%) Q 129 (100.0%) Y 138 (100.0%) S 139 (100.0%) K 141 (100.0%) Y 151 (100.0%) S 159 (100.0%) H 162 (100.0%) Y 172 (100.0%) R 176 (100.0%) K 181 (100.0%) Y 184 (100.0%) Y 185 (100.0%) D 199 (100.0%) S 207 (100.0%) K 213 (100.0%) D 216 (100.0%) R 220 (100.0%) Y 221 (100.0%) S 225 (100.0%) D 230 (100.0%) S 233 (100.0%) K 234 (100.0%) K 235 (100.0%) S 236 (100.0%) S 241 (100.0%) K 242 (100.0%) Y 244 (100.0%) R 264 (100.0%) D 265 (100.0%) N 270 (100.0%) S 282 (100.0%) Q 284 (100.0%) D 286 (100.0%) R 290 (100.0%) S 293 (100.0%) E 296 (100.0%) S 298 (100.0%) Y 303 (100.0%) N 311 (100.0%) Y 342 (100.0%) 
+Y 3, S 10, N 13, R 19, T 21, S 33, Y 37, N 38, D 42, N 45, Y 46, Y 50, D 55, E 61, Y 78, S 83, S 86, T 89, Y 93, Y 94, R 98, Y 113, Y 118, Y 120, E 122, H 123, N 125, R 128, Q 129, Y 138, S 139, K 141, Y 151, S 159, H 162, Y 172, R 176, K 181, Y 184, Y 185, D 199, S 207, K 213, D 216, R 220, Y 221, S 225, D 230, S 233, K 234, K 235, S 236, S 241, K 242, Y 244, R 264, D 265, N 270, S 282, Q 284, D 286, R 290, S 293, E 296, S 298, Y 303, N 311, Y 342
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| AAO37701.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O128ab     |                                    0 |
-| WP_024244058.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O128ac     |                                    0 |
+| accession      | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:---------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| AAO37701.1     | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O128ab     |                                    0 |
+| WP_024244058.1 | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O128ac     |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0011_198/sequences.afa)
 
@@ -8178,13 +7739,11 @@ Y 3 (100.0%) S 10 (100.0%) N 13 (100.0%) R 19 (100.0%) T 21 (100.0%) S 33 (100.0
 
 #### Sugars in cluster:
 
-AAO37701.1 Escherichia coli O128ab, WP_024244058.1 Escherichia coli O128ac:
+AAO37701.1 (Escherichia coli O128ab), WP_024244058.1 (Escherichia coli O128ac)
 
-![](../../../csdb/images/1867.gif)
+![](../../../csdb/images/1867.gif)1867
 
-CSDB record ID: 1867
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8197,23 +7756,24 @@ CSDB record ID: 1867
 | Enterobacterales (11) | Enterobacteriaceae (11) | Escherichia (8) |
 |                       |                         | Citrobacter (3) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 163
+
 Total number of members in cluster: 11
 
 Average length of proteins in cluster: 343.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 29 (100.0%) S 76 (100.0%) N 82 (100.0%) D 85 (100.0%) K 86 (100.0%) S 88 (100.0%) Y 89 (100.0%) S 100 (100.0%) D 101 (100.0%) N 107 (100.0%) T 108 (100.0%) D 110 (100.0%) S 111 (100.0%) Y 114 (100.0%) Y 115 (100.0%) Q 135 (100.0%) N 136 (100.0%) K 149 (100.0%) H 164 (100.0%) S 170 (100.0%) R 172 (100.0%) H 174 (100.0%) H 203 (100.0%) K 248 (100.0%) Y 252 (100.0%) Y 259 (100.0%) K 296 (100.0%) S 306 (100.0%) R 317 (100.0%) D 323 (100.0%) R 355 (100.0%) K 358 (100.0%) 
+Y 29, S 76, N 82, D 85, K 86, S 88, Y 89, S 100, D 101, N 107, T 108, D 110, S 111, Y 114, Y 115, Q 135, N 136, K 149, H 164, S 170, R 172, H 174, H 203, K 248, Y 252, Y 259, K 296, S 306, R 317, D 323, R 355, K 358
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ABE98419.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O126       |                                    0 |
-| ADN43845.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O126       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ABE98419.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O126       |                                    0 |
+| ADN43845.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O126       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0011_163/sequences.afa)
 
@@ -8229,13 +7789,11 @@ Y 29 (100.0%) S 76 (100.0%) N 82 (100.0%) D 85 (100.0%) K 86 (100.0%) S 88 (100.
 
 #### Sugars in cluster:
 
-ABE98419.1 Escherichia coli O126, ADN43845.1 Escherichia coli O126:
+ADN43845.1 (Escherichia coli O126), ABE98419.1 (Escherichia coli O126)
 
-![](../../../csdb/images/1865.gif)
+![](../../../csdb/images/1865.gif)1865
 
-CSDB record ID: 1865
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8250,22 +7808,23 @@ CSDB record ID: 1865
 |                       | Morganellaceae (2)     | Photorhabdus (2)   |
 | Vibrionales (1)       | Vibrionaceae (1)       | Photobacterium (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 149
+
 Total number of members in cluster: 11
 
 Average length of proteins in cluster: 382.5
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 73 (100.0%) E 74 (100.0%) N 124 (100.0%) S 126 (100.0%) R 147 (100.0%) Q 148 (100.0%) H 181 (100.0%) S 183 (100.0%) K 238 (100.0%) D 259 (100.0%) H 294 (100.0%) Q 304 (100.0%) R 305 (100.0%) Y 357 (100.0%) D 396 (100.0%) 
+Y 73, E 74, N 124, S 126, R 147, Q 148, H 181, S 183, K 238, D 259, H 294, Q 304, R 305, Y 357, D 396
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01563.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O116       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01563.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O116       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0011_149/sequences.afa)
 
@@ -8281,13 +7840,11 @@ Y 73 (100.0%) E 74 (100.0%) N 124 (100.0%) S 126 (100.0%) R 147 (100.0%) Q 148 (
 
 #### Sugars in cluster:
 
-BAQ01563.1 Escherichia coli O116:
+BAQ01563.1 (Escherichia coli O116)
 
-![](../../../csdb/images/1856.gif)
+![](../../../csdb/images/1856.gif)1856
 
-CSDB record ID: 1856
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8302,22 +7859,23 @@ CSDB record ID: 1856
 | Vibrionales (2)      | Vibrionaceae (2)       | Aliivibrio (2)   |
 | Burkholderiales (1)  | Alcaligenaceae (1)     | Oligella (1)     |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 147
+
 Total number of members in cluster: 11
 
 Average length of proteins in cluster: 399.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 138 (100.0%) R 174 (100.0%) R 224 (100.0%) R 228 (100.0%) R 252 (100.0%) S 254 (100.0%) S 255 (100.0%) E 302 (100.0%) N 341 (100.0%) S 378 (100.0%) E 383 (100.0%) 
+R 138, R 174, R 224, R 228, R 252, S 254, S 255, E 302, N 341, S 378, E 383
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ADB02825.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O119       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ADB02825.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O119       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0011_147/sequences.afa)
 
@@ -8333,13 +7891,11 @@ R 138 (100.0%) R 174 (100.0%) R 224 (100.0%) R 228 (100.0%) R 252 (100.0%) S 254
 
 #### Sugars in cluster:
 
-ADB02825.1 Escherichia coli O119:
+ADB02825.1 (Escherichia coli O119)
 
-![](../../../csdb/images/1859.gif)
+![](../../../csdb/images/1859.gif)1859
 
-CSDB record ID: 1859
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8355,22 +7911,23 @@ CSDB record ID: 1859
 | Neisseriales (1)     | Chromobacteriaceae (1) | Chromobacterium (1) |
 | Sphingomonadales (1) | Erythrobacteraceae (1) | Porphyrobacter (1)  |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 76
+
 Total number of members in cluster: 10
 
 Average length of proteins in cluster: 359.4
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 11 (100.0%) S 48 (100.0%) R 50 (100.0%) D 55 (100.0%) R 56 (100.0%) D 57 (100.0%) Y 61 (100.0%) S 81 (100.0%) Q 86 (100.0%) E 87 (100.0%) K 95 (100.0%) R 108 (100.0%) Y 139 (100.0%) R 147 (100.0%) D 148 (100.0%) T 150 (100.0%) Q 151 (100.0%) R 153 (100.0%) S 164 (100.0%) S 176 (100.0%) H 187 (100.0%) N 188 (100.0%) Q 242 (100.0%) T 244 (100.0%) R 245 (100.0%) Y 246 (100.0%) T 257 (100.0%) Y 286 (100.0%) K 287 (100.0%) Y 290 (100.0%) Q 313 (100.0%) T 318 (100.0%) 
+Y 11, S 48, R 50, D 55, R 56, D 57, Y 61, S 81, Q 86, E 87, K 95, R 108, Y 139, R 147, D 148, T 150, Q 151, R 153, S 164, S 176, H 187, N 188, Q 242, T 244, R 245, Y 246, T 257, Y 286, K 287, Y 290, Q 313, T 318
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ADC54957.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O166       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ADC54957.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O166       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0010_76/sequences.afa)
 
@@ -8386,13 +7943,11 @@ Y 11 (100.0%) S 48 (100.0%) R 50 (100.0%) D 55 (100.0%) R 56 (100.0%) D 57 (100.
 
 #### Sugars in cluster:
 
-ADC54957.1 Escherichia coli O166:
+ADC54957.1 (Escherichia coli O166)
 
-![](../../../csdb/images/1908.gif)
+![](../../../csdb/images/1908.gif)1908
 
-CSDB record ID: 1908
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8404,23 +7959,24 @@ CSDB record ID: 1908
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (3)    |
 |                      |                        | Citrobacter (1)    |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 5
+
 Total number of members in cluster: 10
 
 Average length of proteins in cluster: 375.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 3 (100.0%) R 44 (100.0%) H 46 (100.0%) T 47 (100.0%) D 50 (100.0%) E 52 (100.0%) Y 54 (100.0%) D 55 (100.0%) Y 56 (100.0%) N 73 (100.0%) Y 77 (100.0%) E 78 (100.0%) T 103 (100.0%) S 110 (100.0%) Y 114 (100.0%) Y 127 (100.0%) Y 130 (100.0%) Y 132 (100.0%) H 134 (100.0%) N 135 (100.0%) S 137 (100.0%) R 140 (100.0%) Q 141 (100.0%) Y 150 (100.0%) S 151 (100.0%) R 153 (100.0%) H 174 (100.0%) S 176 (100.0%) S 206 (100.0%) S 216 (100.0%) S 226 (100.0%) Y 235 (100.0%) N 238 (100.0%) S 242 (100.0%) Y 243 (100.0%) K 244 (100.0%) S 248 (100.0%) K 250 (100.0%) Y 251 (100.0%) E 253 (100.0%) Y 293 (100.0%) S 294 (100.0%) N 297 (100.0%) D 298 (100.0%) S 300 (100.0%) Y 303 (100.0%) E 304 (100.0%) R 305 (100.0%) E 311 (100.0%) S 313 (100.0%) R 345 (100.0%) Y 346 (100.0%) R 358 (100.0%) E 362 (100.0%) H 365 (100.0%) E 367 (100.0%) R 368 (100.0%) E 370 (100.0%) N 371 (100.0%) Y 372 (100.0%) S 374 (100.0%) R 383 (100.0%) 
+Y 3, R 44, H 46, T 47, D 50, E 52, Y 54, D 55, Y 56, N 73, Y 77, E 78, T 103, S 110, Y 114, Y 127, Y 130, Y 132, H 134, N 135, S 137, R 140, Q 141, Y 150, S 151, R 153, H 174, S 176, S 206, S 216, S 226, Y 235, N 238, S 242, Y 243, K 244, S 248, K 250, Y 251, E 253, Y 293, S 294, N 297, D 298, S 300, Y 303, E 304, R 305, E 311, S 313, R 345, Y 346, R 358, E 362, H 365, E 367, R 368, E 370, N 371, Y 372, S 374, R 383
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------------------------------------:|
-| ACV67297.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O78        |                                    0 |
-| AFW04684.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O65        |                                    0 |
+| accession   | order            | family             | genus       | species             | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------------------------------------:|
+| ACV67297.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O78        |                                    0 |
+| AFW04684.1  | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O65        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0010_5/sequences.afa)
 
@@ -8436,19 +7992,15 @@ Y 3 (100.0%) R 44 (100.0%) H 46 (100.0%) T 47 (100.0%) D 50 (100.0%) E 52 (100.0
 
 #### Sugars in cluster:
 
-ACV67297.1 Escherichia coli O78:
+ACV67297.1 (Escherichia coli O78)
 
-![](../../../csdb/images/1584.gif)
+![](../../../csdb/images/1584.gif)1584
 
-CSDB record ID: 1584
+AFW04684.1 (Salmonella enterica O65)
 
-AFW04684.1 Salmonella enterica O65:
+![](../../../csdb/images/30392.gif)30392
 
-![](../../../csdb/images/30392.gif)
-
-CSDB record ID: 30392
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8464,23 +8016,24 @@ CSDB record ID: 30392
 | Vibrionales (3)      | Vibrionaceae (3)       | Vibrio (2)         |
 |                      |                        | Photobacterium (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 49
+
 Total number of members in cluster: 10
 
 Average length of proteins in cluster: 410.4
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 26 (100.0%) D 141 (100.0%) K 143 (100.0%) S 206 (100.0%) R 207 (100.0%) R 256 (100.0%) Y 280 (100.0%) Y 282 (100.0%) N 289 (100.0%) N 291 (100.0%) N 338 (100.0%) D 349 (100.0%) Y 370 (100.0%) K 389 (100.0%) N 398 (100.0%) Y 399 (100.0%) Y 410 (100.0%) 
+D 26, D 141, K 143, S 206, R 207, R 256, Y 280, Y 282, N 289, N 291, N 338, D 349, Y 370, K 389, N 398, Y 399, Y 410
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|-------------------------------------:|
-| AHB32586.1          | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O24        |                                    0 |
-| BAQ01516.1          | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O108       |                                    0 |
+| accession   | order            | family             | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:--------------|:------------------------|:-----------|-------------------------------------:|
+| AHB32586.1  | Moraxellales     | Moraxellaceae      | Acinetobacter | Acinetobacter baumannii | O24        |                                    0 |
+| BAQ01516.1  | Enterobacterales | Enterobacteriaceae | Escherichia   | Escherichia coli        | O108       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0010_49/sequences.afa)
 
@@ -8496,19 +8049,15 @@ D 26 (100.0%) D 141 (100.0%) K 143 (100.0%) S 206 (100.0%) R 207 (100.0%) R 256 
 
 #### Sugars in cluster:
 
-AHB32586.1 Acinetobacter baumannii O24:
+AHB32586.1 (Acinetobacter baumannii O24)
 
-![](../../../csdb/images/491.gif)
+![](../../../csdb/images/491.gif)491
 
-CSDB record ID: 491
+BAQ01516.1 (Escherichia coli O108)
 
-BAQ01516.1 Escherichia coli O108:
+![](../../../csdb/images/25389.gif)25389
 
-![](../../../csdb/images/25389.gif)
-
-CSDB record ID: 25389
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8519,31 +8068,32 @@ CSDB record ID: 25389
 | order (count)        | family (count)         | genus (count)     |
 |:---------------------|:-----------------------|:------------------|
 | Enterobacterales (6) | Enterobacteriaceae (4) | Escherichia (2)   |
+|                      |                        | nan (2)           |
 |                      |                        | Cedecea (1)       |
-|                      |                        | nan (1)           |
 |                      | Morganellaceae (2)     | Providencia (2)   |
 | Moraxellales (1)     | Moraxellaceae (1)      | Acinetobacter (1) |
-| Alteromonadales (1)  | nan (1)                | Motilimonas (1)   |
+| Alteromonadales (1)  | nan (2)                | Motilimonas (1)   |
 | Bacteroidales (1)    | Rikenellaceae (1)      | Alistipes (1)     |
-| nan (1)              | nan (1)                | nan (1)           |
+| nan (1)              | nan (2)                | nan (2)           |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 35
+
 Total number of members in cluster: 10
 
 Average length of proteins in cluster: 341.5
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-N 8 (100.0%) R 46 (100.0%) D 52 (100.0%) Y 56 (100.0%) Y 59 (100.0%) Y 70 (100.0%) Y 74 (100.0%) N 78 (100.0%) K 82 (100.0%) S 95 (100.0%) Q 103 (100.0%) Y 108 (100.0%) Y 122 (100.0%) S 125 (100.0%) D 130 (100.0%) R 135 (100.0%) S 137 (100.0%) H 169 (100.0%) E 170 (100.0%) N 213 (100.0%) N 219 (100.0%) N 221 (100.0%) Y 225 (100.0%) S 233 (100.0%) E 261 (100.0%) Y 265 (100.0%) S 279 (100.0%) Y 280 (100.0%) R 287 (100.0%) E 290 (100.0%) Y 296 (100.0%) Y 323 (100.0%) R 327 (100.0%) N 329 (100.0%) D 336 (100.0%) 
+N 8, R 46, D 52, Y 56, Y 59, Y 70, Y 74, N 78, K 82, S 95, Q 103, Y 108, Y 122, S 125, D 130, R 135, S 137, H 169, E 170, N 213, N 219, N 221, Y 225, S 233, E 261, Y 265, S 279, Y 280, R 287, E 290, Y 296, Y 323, R 327, N 329, D 336
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------------------------------------:|
-| BAQ00746.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O23        |                                    0 |
-| AFW04888.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O51        |                                    0 |
+| accession   | order            | family             | genus       | species             | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------------------------------------:|
+| BAQ00746.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O23        |                                    0 |
+| AFW04888.1  | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O51        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0010_35/sequences.afa)
 
@@ -8559,19 +8109,15 @@ N 8 (100.0%) R 46 (100.0%) D 52 (100.0%) Y 56 (100.0%) Y 59 (100.0%) Y 70 (100.0
 
 #### Sugars in cluster:
 
-BAQ00746.1 Escherichia coli O23:
+BAQ00746.1 (Escherichia coli O23)
 
-![](../../../csdb/images/20006.gif)
+![](../../../csdb/images/20006.gif)20006
 
-CSDB record ID: 20006
+AFW04888.1 (Salmonella enterica O51)
 
-AFW04888.1 Salmonella enterica O51:
+![](../../../csdb/images/3366.gif)3366
 
-![](../../../csdb/images/3366.gif)
-
-CSDB record ID: 3366
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8585,22 +8131,23 @@ CSDB record ID: 3366
 |                       |                         | Salmonella (3)  |
 |                       |                         | Citrobacter (3) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 34
+
 Total number of members in cluster: 10
 
 Average length of proteins in cluster: 389.4
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-N 76 (100.0%) Y 119 (100.0%) D 152 (100.0%) H 153 (100.0%) Y 159 (100.0%) Y 167 (100.0%) R 183 (100.0%) E 190 (100.0%) T 193 (100.0%) Y 197 (100.0%) R 221 (100.0%) S 232 (100.0%) S 234 (100.0%) K 253 (100.0%) Y 289 (100.0%) R 290 (100.0%) D 294 (100.0%) R 297 (100.0%) N 302 (100.0%) R 304 (100.0%) K 343 (100.0%) Q 346 (100.0%) R 347 (100.0%) Q 388 (100.0%) E 390 (100.0%) 
+N 76, Y 119, D 152, H 153, Y 159, Y 167, R 183, E 190, T 193, Y 197, R 221, S 232, S 234, K 253, Y 289, R 290, D 294, R 297, N 302, R 304, K 343, Q 346, R 347, Q 388, E 390
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01238.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O80        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01238.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O80        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0010_34/sequences.afa)
 
@@ -8616,13 +8163,11 @@ N 76 (100.0%) Y 119 (100.0%) D 152 (100.0%) H 153 (100.0%) Y 159 (100.0%) Y 167 
 
 #### Sugars in cluster:
 
-BAQ01238.1 Escherichia coli O80:
+BAQ01238.1 (Escherichia coli O80)
 
-![](../../../csdb/images/1452.gif)
+![](../../../csdb/images/1452.gif)1452
 
-CSDB record ID: 1452
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8635,24 +8180,25 @@ CSDB record ID: 1452
 | Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (3)    |
 | Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)      |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 174
+
 Total number of members in cluster: 10
 
 Average length of proteins in cluster: 346.7
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 55 (100.0%) D 63 (100.0%) Y 67 (100.0%) S 117 (100.0%) Q 152 (100.0%) R 154 (100.0%) Q 155 (100.0%) H 188 (100.0%) S 218 (100.0%) K 247 (100.0%) Y 251 (100.0%) S 263 (100.0%) Y 269 (100.0%) K 282 (100.0%) N 306 (100.0%) N 310 (100.0%) S 311 (100.0%) R 317 (100.0%) T 319 (100.0%) Y 320 (100.0%) 
+R 55, D 63, Y 67, S 117, Q 152, R 154, Q 155, H 188, S 218, K 247, Y 251, S 263, Y 269, K 282, N 306, N 310, S 311, R 317, T 319, Y 320
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01860.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O169       |                                    0 |
-| BAL03056.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O183       |                                    0 |
-| AAL27339.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 6          |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01860.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O169       |                                    0 |
+| BAL03056.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O183       |                                    0 |
+| AAL27339.1  | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 6          |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0010_174/sequences.afa)
 
@@ -8668,31 +8214,19 @@ R 55 (100.0%) D 63 (100.0%) Y 67 (100.0%) S 117 (100.0%) Q 152 (100.0%) R 154 (1
 
 #### Sugars in cluster:
 
-BAQ01860.1 Escherichia coli O169:
+AAL27339.1 (Shigella boydii 6)
 
-![](../../../csdb/images/1911.gif)
+![](../../../csdb/images/712.gif)712
 
-CSDB record ID: 1911
+AIG62720.1 (Escherichia coli O169), BAQ01860.1 (Escherichia coli O169)
 
-BAL03056.1 Escherichia coli O183:
+![](../../../csdb/images/1911.gif)1911
 
-![](../../../csdb/images/1925.gif)
+BAL03056.1 (Escherichia coli O183)
 
-CSDB record ID: 1925
+![](../../../csdb/images/1925.gif)1925
 
-AAL27339.1 Shigella boydii 6:
-
-![](../../../csdb/images/712.gif)
-
-CSDB record ID: 712
-
-#### Sugars for blast hits:
-
-AIG62720.1 Escherichia coli O169:
-
-![](../../../csdb/images/1911.gif)
-
-CSDB record ID: 1911
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8708,22 +8242,23 @@ CSDB record ID: 1911
 |                      |                        | Zobellia (1)    |
 | Vibrionales (1)      | Vibrionaceae (1)       | Vibrio (1)      |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 153
+
 Total number of members in cluster: 10
 
 Average length of proteins in cluster: 383.4
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 51 (100.0%) N 54 (100.0%) D 57 (100.0%) Y 59 (100.0%) Y 61 (100.0%) Y 89 (100.0%) N 115 (100.0%) R 143 (100.0%) E 145 (100.0%) S 147 (100.0%) T 148 (100.0%) R 150 (100.0%) Q 151 (100.0%) H 186 (100.0%) S 188 (100.0%) Y 315 (100.0%) R 326 (100.0%) Y 329 (100.0%) Y 330 (100.0%) R 370 (100.0%) R 375 (100.0%) Y 381 (100.0%) R 397 (100.0%) 
+S 51, N 54, D 57, Y 59, Y 61, Y 89, N 115, R 143, E 145, S 147, T 148, R 150, Q 151, H 186, S 188, Y 315, R 326, Y 329, Y 330, R 370, R 375, Y 381, R 397
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01293.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O84        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01293.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O84        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0010_153/sequences.afa)
 
@@ -8739,13 +8274,11 @@ S 51 (100.0%) N 54 (100.0%) D 57 (100.0%) Y 59 (100.0%) Y 61 (100.0%) Y 89 (100.
 
 #### Sugars in cluster:
 
-BAQ01293.1 Escherichia coli O84:
+BAQ01293.1 (Escherichia coli O84)
 
-![](../../../csdb/images/1590.gif)
+![](../../../csdb/images/1590.gif)1590
 
-CSDB record ID: 1590
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8759,22 +8292,23 @@ CSDB record ID: 1590
 | Vibrionales (4)      | Vibrionaceae (4)       | Vibrio (3)         |
 |                      |                        | Photobacterium (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 150
+
 Total number of members in cluster: 10
 
 Average length of proteins in cluster: 389.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 21 (100.0%) T 43 (100.0%) D 45 (100.0%) T 55 (100.0%) Y 115 (100.0%) R 119 (100.0%) Y 123 (100.0%) S 128 (100.0%) Y 153 (100.0%) T 200 (100.0%) K 202 (100.0%) Q 203 (100.0%) S 211 (100.0%) R 244 (100.0%) Y 258 (100.0%) Y 262 (100.0%) S 265 (100.0%) Q 271 (100.0%) E 272 (100.0%) Y 274 (100.0%) S 284 (100.0%) H 307 (100.0%) T 317 (100.0%) N 318 (100.0%) Y 320 (100.0%) S 324 (100.0%) Y 326 (100.0%) H 341 (100.0%) Y 362 (100.0%) H 375 (100.0%) E 376 (100.0%) S 383 (100.0%) Q 387 (100.0%) S 396 (100.0%) 
+D 21, T 43, D 45, T 55, Y 115, R 119, Y 123, S 128, Y 153, T 200, K 202, Q 203, S 211, R 244, Y 258, Y 262, S 265, Q 271, E 272, Y 274, S 284, H 307, T 317, N 318, Y 320, S 324, Y 326, H 341, Y 362, H 375, E 376, S 383, Q 387, S 396
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ00653.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O16        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ00653.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O16        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0010_150/sequences.afa)
 
@@ -8790,13 +8324,11 @@ D 21 (100.0%) T 43 (100.0%) D 45 (100.0%) T 55 (100.0%) Y 115 (100.0%) R 119 (10
 
 #### Sugars in cluster:
 
-BAQ00653.1 Escherichia coli O16:
+BAQ00653.1 (Escherichia coli O16)
 
-![](../../../csdb/images/1517.gif)
+![](../../../csdb/images/1517.gif)1517
 
-CSDB record ID: 1517
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8810,22 +8342,23 @@ CSDB record ID: 1517
 |                       |                        | Escherichia (3)    |
 |                       | Budviciaceae (1)       | Jinshanibacter (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 112
+
 Total number of members in cluster: 10
 
 Average length of proteins in cluster: 378.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-K 30 (100.0%) D 32 (100.0%) R 97 (100.0%) Q 100 (100.0%) K 162 (100.0%) D 163 (100.0%) H 176 (100.0%) N 178 (100.0%) K 220 (100.0%) R 281 (100.0%) Y 285 (100.0%) Y 299 (100.0%) H 319 (100.0%) N 320 (100.0%) S 324 (100.0%) E 328 (100.0%) N 373 (100.0%) Y 376 (100.0%) Y 378 (100.0%) K 379 (100.0%) H 381 (100.0%) 
+K 30, D 32, R 97, Q 100, K 162, D 163, H 176, N 178, K 220, R 281, Y 285, Y 299, H 319, N 320, S 324, E 328, N 373, Y 376, Y 378, K 379, H 381
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01207.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O74        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01207.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O74        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0010_112/sequences.afa)
 
@@ -8841,13 +8374,11 @@ K 30 (100.0%) D 32 (100.0%) R 97 (100.0%) Q 100 (100.0%) K 162 (100.0%) D 163 (1
 
 #### Sugars in cluster:
 
-BAQ01207.1 Escherichia coli O74:
+BAQ01207.1 (Escherichia coli O74)
 
-![](../../../csdb/images/1580.gif)
+![](../../../csdb/images/1580.gif)1580
 
-CSDB record ID: 1580
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8863,21 +8394,22 @@ CSDB record ID: 1580
 | Pseudomonadales (4)  | Pseudomonadaceae (4)   | Pseudomonas (4) |
 | Vibrionales (1)      | Vibrionaceae (1)       | Vibrio (1)      |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 105
+
 Total number of members in cluster: 10
 
 Average length of proteins in cluster: 437.4
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 127 (100.0%) R 146 (100.0%) E 236 (100.0%) K 284 (100.0%) R 285 (100.0%) Y 332 (100.0%) R 355 (100.0%) Y 359 (100.0%) H 407 (100.0%) T 462 (100.0%) N 464 (100.0%) 
+S 127, R 146, E 236, K 284, R 285, Y 332, R 355, Y 359, H 407, T 462, N 464
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
-|---------------------|---------|----------|---------|-----------|------------|--------------------------------------|
+| accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
+|-------------|---------|----------|---------|-----------|------------|--------------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0010_105/sequences.afa)
 
@@ -8893,7 +8425,7 @@ S 127 (100.0%) R 146 (100.0%) E 236 (100.0%) K 284 (100.0%) R 285 (100.0%) Y 332
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8901,30 +8433,31 @@ S 127 (100.0%) R 146 (100.0%) E 236 (100.0%) K 284 (100.0%) R 285 (100.0%) Y 332
 
 | order (count)      | family (count)          | genus (count)        |
 |:-------------------|:------------------------|:---------------------|
-| Eubacteriales (10) | Oscillospiraceae (4)    | Faecalibacterium (3) |
-|                    |                         | nan (1)              |
+| Eubacteriales (10) | Oscillospiraceae (4)    | nan (4)              |
+|                    |                         | Faecalibacterium (3) |
 |                    | Lachnospiraceae (3)     | Eisenbergiella (2)   |
 |                    | Clostridiaceae (1)      | Clostridium (1)      |
-|                    | Christensenellaceae (1) | nan (1)              |
-|                    | nan (1)                 | nan (1)              |
+|                    | Christensenellaceae (1) | nan (4)              |
+|                    | nan (1)                 | nan (4)              |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 85
+
 Total number of members in cluster: 9
 
 Average length of proteins in cluster: 425.1
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 100 (100.0%) N 184 (100.0%) Q 187 (100.0%) R 196 (100.0%) S 203 (100.0%) K 229 (100.0%) N 246 (100.0%) R 247 (100.0%) N 248 (100.0%) K 315 (100.0%) T 318 (100.0%) R 322 (100.0%) Q 346 (100.0%) D 358 (100.0%) N 359 (100.0%) N 425 (100.0%) N 426 (100.0%) E 430 (100.0%) 
+Y 100, N 184, Q 187, R 196, S 203, K 229, N 246, R 247, N 248, K 315, T 318, R 322, Q 346, D 358, N 359, N 425, N 426, E 430
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ABZ79721.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O53        |                                    0 |
-| ABB65530.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 4          |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ABZ79721.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O53        |                                    0 |
+| ABB65530.1  | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 4          |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0009_85/sequences.afa)
 
@@ -8940,13 +8473,11 @@ Y 100 (100.0%) N 184 (100.0%) Q 187 (100.0%) R 196 (100.0%) S 203 (100.0%) K 229
 
 #### Sugars in cluster:
 
-ABZ79721.1 Escherichia coli O53, ABB65530.1 Shigella boydii 4:
+ABZ79721.1 (Escherichia coli O53), ABB65530.1 (Shigella boydii 4)
 
-![](../../../csdb/images/1560.gif)
+![](../../../csdb/images/1560.gif)1560
 
-CSDB record ID: 1560
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -8961,24 +8492,25 @@ CSDB record ID: 1560
 | Alteromonadales (2)  | Pseudoalteromonadaceae (1) | Pseudoalteromonas (1) |
 |                      | Shewanellaceae (1)         | Shewanella (1)        |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 190
+
 Total number of members in cluster: 9
 
 Average length of proteins in cluster: 350.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-E 10 (100.0%) K 68 (100.0%) S 98 (100.0%) K 110 (100.0%) S 112 (100.0%) K 140 (100.0%) D 152 (100.0%) Q 155 (100.0%) R 162 (100.0%) Q 164 (100.0%) Y 196 (100.0%) T 218 (100.0%) S 220 (100.0%) N 221 (100.0%) E 223 (100.0%) R 224 (100.0%) Y 229 (100.0%) D 237 (100.0%) Y 255 (100.0%) K 256 (100.0%) Y 259 (100.0%) N 267 (100.0%) D 268 (100.0%) H 270 (100.0%) Q 320 (100.0%) R 335 (100.0%) 
+E 10, K 68, S 98, K 110, S 112, K 140, D 152, Q 155, R 162, Q 164, Y 196, T 218, S 220, N 221, E 223, R 224, Y 229, D 237, Y 255, K 256, Y 259, N 267, D 268, H 270, Q 320, R 335
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species                     | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:----------------------------|:-----------|-------------------------------------:|
-| ADX97403.1          | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:10       |                                    0 |
-| AFE83402.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O111       |                                    0 |
-| WP_001300154.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O111       |                                    0 |
+| accession      | order            | family             | genus       | species                     | serotype   |   Enterobacterial common antigen Wzy |
+|:---------------|:-----------------|:-------------------|:------------|:----------------------------|:-----------|-------------------------------------:|
+| ADX97403.1     | Enterobacterales | Yersiniaceae       | Yersinia    | Yersinia pseudotuberculosis | O:10       |                                    0 |
+| AFE83402.1     | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O111       |                                    0 |
+| WP_001300154.1 | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli            | O111       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0009_190/sequences.afa)
 
@@ -8994,19 +8526,15 @@ E 10 (100.0%) K 68 (100.0%) S 98 (100.0%) K 110 (100.0%) S 112 (100.0%) K 140 (1
 
 #### Sugars in cluster:
 
-ADX97403.1 Yersinia pseudotuberculosis O:10:
+WP_001300154.1 (Escherichia coli O111), AFE83402.1 (Escherichia coli O111)
 
-![](../../../csdb/images/12137.gif)
+![](../../../csdb/images/616.gif)616
 
-CSDB record ID: 12137
+ADX97403.1 (Yersinia pseudotuberculosis O:10)
 
-AFE83402.1 Escherichia coli O111, WP_001300154.1 Escherichia coli O111:
+![](../../../csdb/images/12137.gif)12137
 
-![](../../../csdb/images/616.gif)
-
-CSDB record ID: 616
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9024,23 +8552,24 @@ CSDB record ID: 616
 |                      | Yersiniaceae (1)       | Yersinia (1)    |
 |                      | Erwiniaceae (1)        | Pantoea (1)     |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 179
+
 Total number of members in cluster: 9
 
 Average length of proteins in cluster: 446.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-E 8 (100.0%) Y 11 (100.0%) S 41 (100.0%) Y 43 (100.0%) S 44 (100.0%) S 46 (100.0%) R 51 (100.0%) Q 52 (100.0%) D 53 (100.0%) Y 58 (100.0%) Y 61 (100.0%) N 63 (100.0%) N 68 (100.0%) N 71 (100.0%) Y 73 (100.0%) K 74 (100.0%) S 79 (100.0%) D 82 (100.0%) N 92 (100.0%) Y 118 (100.0%) S 121 (100.0%) E 129 (100.0%) D 131 (100.0%) K 141 (100.0%) Y 145 (100.0%) Y 150 (100.0%) Y 176 (100.0%) Y 191 (100.0%) T 192 (100.0%) K 195 (100.0%) Y 196 (100.0%) N 199 (100.0%) Y 200 (100.0%) D 204 (100.0%) Q 205 (100.0%) T 206 (100.0%) D 207 (100.0%) Q 208 (100.0%) K 230 (100.0%) S 243 (100.0%) K 246 (100.0%) Y 250 (100.0%) S 251 (100.0%) S 282 (100.0%) S 286 (100.0%) D 295 (100.0%) S 297 (100.0%) Y 299 (100.0%) R 301 (100.0%) Y 302 (100.0%) Q 304 (100.0%) Q 307 (100.0%) N 311 (100.0%) Y 312 (100.0%) K 327 (100.0%) Y 329 (100.0%) D 339 (100.0%) Y 343 (100.0%) E 347 (100.0%) Q 357 (100.0%) Y 360 (100.0%) K 365 (100.0%) N 366 (100.0%) Y 406 (100.0%) D 414 (100.0%) K 421 (100.0%) T 422 (100.0%) Y 429 (100.0%) Y 431 (100.0%) 
+E 8, Y 11, S 41, Y 43, S 44, S 46, R 51, Q 52, D 53, Y 58, Y 61, N 63, N 68, N 71, Y 73, K 74, S 79, D 82, N 92, Y 118, S 121, E 129, D 131, K 141, Y 145, Y 150, Y 176, Y 191, T 192, K 195, Y 196, N 199, Y 200, D 204, Q 205, T 206, D 207, Q 208, K 230, S 243, K 246, Y 250, S 251, S 282, S 286, D 295, S 297, Y 299, R 301, Y 302, Q 304, Q 307, N 311, Y 312, K 327, Y 329, D 339, Y 343, E 347, Q 357, Y 360, K 365, N 366, Y 406, D 414, K 421, T 422, Y 429, Y 431
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------------------------------------:|
-| BAQ02031.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O184       |                                    0 |
-| AFW04696.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O39        |                                    0 |
+| accession   | order            | family             | genus       | species             | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------------------------------------:|
+| BAQ02031.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O184       |                                    0 |
+| AFW04696.1  | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O39        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0009_179/sequences.afa)
 
@@ -9056,13 +8585,11 @@ E 8 (100.0%) Y 11 (100.0%) S 41 (100.0%) Y 43 (100.0%) S 44 (100.0%) S 46 (100.0
 
 #### Sugars in cluster:
 
-BAQ02031.1 Escherichia coli O184:
+BAQ02031.1 (Escherichia coli O184)
 
-![](../../../csdb/images/1926.gif)
+![](../../../csdb/images/1926.gif)1926
 
-CSDB record ID: 1926
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9078,21 +8605,22 @@ CSDB record ID: 1926
 |                      |                        | Citrobacter (1)  |
 |                      | Morganellaceae (1)     | Photorhabdus (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 168
+
 Total number of members in cluster: 9
 
 Average length of proteins in cluster: 441.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Q 9 (100.0%) Q 24 (100.0%) Q 27 (100.0%) R 33 (100.0%) E 39 (100.0%) N 47 (100.0%) Q 57 (100.0%) D 58 (100.0%) S 62 (100.0%) S 63 (100.0%) Y 64 (100.0%) Q 69 (100.0%) Q 76 (100.0%) S 77 (100.0%) T 78 (100.0%) N 83 (100.0%) T 90 (100.0%) Y 105 (100.0%) S 118 (100.0%) N 120 (100.0%) S 128 (100.0%) Q 129 (100.0%) Y 130 (100.0%) Q 131 (100.0%) H 133 (100.0%) K 136 (100.0%) K 138 (100.0%) E 147 (100.0%) K 151 (100.0%) N 179 (100.0%) Y 212 (100.0%) Q 216 (100.0%) S 219 (100.0%) Q 220 (100.0%) N 223 (100.0%) Q 224 (100.0%) R 226 (100.0%) T 227 (100.0%) Q 228 (100.0%) D 230 (100.0%) K 236 (100.0%) Y 246 (100.0%) S 247 (100.0%) K 250 (100.0%) Q 255 (100.0%) K 258 (100.0%) N 265 (100.0%) R 266 (100.0%) R 271 (100.0%) E 274 (100.0%) Q 276 (100.0%) S 297 (100.0%) Y 316 (100.0%) R 337 (100.0%) T 343 (100.0%) Q 348 (100.0%) N 350 (100.0%) T 353 (100.0%) E 356 (100.0%) N 360 (100.0%) S 388 (100.0%) Q 391 (100.0%) S 395 (100.0%) Y 414 (100.0%) 
+Q 9, Q 24, Q 27, R 33, E 39, N 47, Q 57, D 58, S 62, S 63, Y 64, Q 69, Q 76, S 77, T 78, N 83, T 90, Y 105, S 118, N 120, S 128, Q 129, Y 130, Q 131, H 133, K 136, K 138, E 147, K 151, N 179, Y 212, Q 216, S 219, Q 220, N 223, Q 224, R 226, T 227, Q 228, D 230, K 236, Y 246, S 247, K 250, Q 255, K 258, N 265, R 266, R 271, E 274, Q 276, S 297, Y 316, R 337, T 343, Q 348, N 350, T 353, E 356, N 360, S 388, Q 391, S 395, Y 414
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
-|---------------------|---------|----------|---------|-----------|------------|--------------------------------------|
+| accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
+|-------------|---------|----------|---------|-----------|------------|--------------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0009_168/sequences.afa)
 
@@ -9108,7 +8636,7 @@ Q 9 (100.0%) Q 24 (100.0%) Q 27 (100.0%) R 33 (100.0%) E 39 (100.0%) N 47 (100.0
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9121,22 +8649,23 @@ Q 9 (100.0%) Q 24 (100.0%) Q 27 (100.0%) R 33 (100.0%) E 39 (100.0%) N 47 (100.0
 |                      | Bruguierivoracaceae (1) | Sodalis (1)       |
 |                      | Yersiniaceae (1)        | Serratia (1)      |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 161
+
 Total number of members in cluster: 9
 
 Average length of proteins in cluster: 358.8
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 3 (100.0%) R 45 (100.0%) T 50 (100.0%) D 51 (100.0%) Y 55 (100.0%) E 77 (100.0%) N 84 (100.0%) Y 94 (100.0%) K 109 (100.0%) D 134 (100.0%) R 139 (100.0%) Q 140 (100.0%) H 175 (100.0%) R 323 (100.0%) Y 360 (100.0%) 
+Y 3, R 45, T 50, D 51, Y 55, E 77, N 84, Y 94, K 109, D 134, R 139, Q 140, H 175, R 323, Y 360
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus      | species             | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------|-------------------------------------:|
-| AFW04860.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O60        |                                    0 |
+| accession   | order            | family             | genus      | species             | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------|-------------------------------------:|
+| AFW04860.1  | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O60        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0009_161/sequences.afa)
 
@@ -9152,13 +8681,11 @@ Y 3 (100.0%) R 45 (100.0%) T 50 (100.0%) D 51 (100.0%) Y 55 (100.0%) E 77 (100.0
 
 #### Sugars in cluster:
 
-AFW04860.1 Salmonella enterica O60:
+AFW04860.1 (Salmonella enterica O60)
 
-![](../../../csdb/images/3360.gif)
+![](../../../csdb/images/3360.gif)3360
 
-CSDB record ID: 3360
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9171,23 +8698,24 @@ CSDB record ID: 3360
 | Chitinophagales (1)  | Chitinophagaceae (1)   | Chitinophaga (1) |
 | Selenomonadales (1)  | Selenomonadaceae (1)   | Selenomonas (1)  |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 155
+
 Total number of members in cluster: 9
 
 Average length of proteins in cluster: 403.6
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Q 153 (100.0%) D 162 (100.0%) N 165 (100.0%) Y 173 (100.0%) S 186 (100.0%) E 218 (100.0%) K 220 (100.0%) N 272 (100.0%) Y 285 (100.0%) R 300 (100.0%) N 302 (100.0%) Y 334 (100.0%) K 338 (100.0%) N 393 (100.0%) 
+Q 153, D 162, N 165, Y 173, S 186, E 218, K 220, N 272, Y 285, R 300, N 302, Y 334, K 338, N 393
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI33412.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 15F        |                                    0 |
-| CAI33343.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 15A        |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI33412.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 15F        |                                    0 |
+| CAI33343.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 15A        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0009_155/sequences.afa)
 
@@ -9203,31 +8731,15 @@ Q 153 (100.0%) D 162 (100.0%) N 165 (100.0%) Y 173 (100.0%) S 186 (100.0%) E 218
 
 #### Sugars in cluster:
 
-CAI33412.1 Streptococcus pneumoniae 15F:
+VQD68897.1 (Streptococcus pneumoniae 15F), CAI33412.1 (Streptococcus pneumoniae 15F)
 
-![](../../../csdb/images/2972.gif)
+![](../../../csdb/images/2972.gif)2972
 
-CSDB record ID: 2972
+CAI33343.1 (Streptococcus pneumoniae 15A), VSN79485.1 (Streptococcus pneumoniae 15A)
 
-CAI33343.1 Streptococcus pneumoniae 15A:
+![](../../../csdb/images/2973.gif)2973
 
-![](../../../csdb/images/2973.gif)
-
-CSDB record ID: 2973
-
-#### Sugars for blast hits:
-
-VQD68897.1 Streptococcus pneumoniae 15F:
-
-![](../../../csdb/images/2972.gif)
-
-CSDB record ID: 2972
-
-VSN79485.1 Streptococcus pneumoniae 15A:
-
-![](../../../csdb/images/2973.gif)
-
-CSDB record ID: 2973
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9238,28 +8750,29 @@ CSDB record ID: 2973
 | order (count)          | family (count)          | genus (count)      |
 |:-----------------------|:------------------------|:-------------------|
 | Lactobacillales (4)    | Streptococcaceae (4)    | Streptococcus (4)  |
-| Eubacteriales (3)      | Lachnospiraceae (2)     | nan (1)            |
+| Eubacteriales (3)      | Lachnospiraceae (2)     | nan (2)            |
 |                        |                         | Roseburia (1)      |
-|                        | Oscillospiraceae (1)    | nan (1)            |
+|                        | Oscillospiraceae (1)    | nan (2)            |
 | Bacillales (1)         | Staphylococcaceae (1)   | Staphylococcus (1) |
 | Erysipelotrichales (1) | Erysipelotrichaceae (1) | Amedibacterium (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 146
+
 Total number of members in cluster: 9
 
 Average length of proteins in cluster: 379.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 10 (100.0%) E 23 (100.0%) H 26 (100.0%) H 31 (100.0%) E 47 (100.0%) Y 50 (100.0%) Y 55 (100.0%) N 61 (100.0%) K 78 (100.0%) Y 104 (100.0%) N 118 (100.0%) S 120 (100.0%) R 123 (100.0%) Y 125 (100.0%) D 129 (100.0%) D 130 (100.0%) N 133 (100.0%) R 139 (100.0%) S 144 (100.0%) S 147 (100.0%) S 148 (100.0%) S 162 (100.0%) K 176 (100.0%) Y 182 (100.0%) T 190 (100.0%) S 197 (100.0%) K 198 (100.0%) R 217 (100.0%) Y 218 (100.0%) Y 228 (100.0%) Y 229 (100.0%) Y 231 (100.0%) N 232 (100.0%) Y 233 (100.0%) S 235 (100.0%) Q 243 (100.0%) S 256 (100.0%) R 258 (100.0%) N 259 (100.0%) Y 261 (100.0%) Q 277 (100.0%) N 287 (100.0%) Y 289 (100.0%) Y 291 (100.0%) R 293 (100.0%) Y 295 (100.0%) D 298 (100.0%) Y 301 (100.0%) S 303 (100.0%) S 314 (100.0%) R 316 (100.0%) Y 318 (100.0%) K 321 (100.0%) Y 328 (100.0%) Y 329 (100.0%) Y 332 (100.0%) Y 337 (100.0%) Q 342 (100.0%) D 346 (100.0%) Q 347 (100.0%) Y 348 (100.0%) T 350 (100.0%) N 354 (100.0%) 
+Y 10, E 23, H 26, H 31, E 47, Y 50, Y 55, N 61, K 78, Y 104, N 118, S 120, R 123, Y 125, D 129, D 130, N 133, R 139, S 144, S 147, S 148, S 162, K 176, Y 182, T 190, S 197, K 198, R 217, Y 218, Y 228, Y 229, Y 231, N 232, Y 233, S 235, Q 243, S 256, R 258, N 259, Y 261, Q 277, N 287, Y 289, Y 291, R 293, Y 295, D 298, Y 301, S 303, S 314, R 316, Y 318, K 321, Y 328, Y 329, Y 332, Y 337, Q 342, D 346, Q 347, Y 348, T 350, N 354
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ00705.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O19        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ00705.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O19        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0009_146/sequences.afa)
 
@@ -9275,7 +8788,7 @@ Y 10 (100.0%) E 23 (100.0%) H 26 (100.0%) H 31 (100.0%) E 47 (100.0%) Y 50 (100.
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9288,22 +8801,23 @@ Y 10 (100.0%) E 23 (100.0%) H 26 (100.0%) H 31 (100.0%) E 47 (100.0%) Y 50 (100.
 |                      |                        | Citrobacter (2)  |
 |                      |                        | nan (1)          |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 119
+
 Total number of members in cluster: 9
 
 Average length of proteins in cluster: 360.8
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-K 27 (100.0%) N 90 (100.0%) Y 119 (100.0%) D 144 (100.0%) R 146 (100.0%) Y 147 (100.0%) N 157 (100.0%) N 159 (100.0%) S 160 (100.0%) Q 163 (100.0%) Y 203 (100.0%) S 261 (100.0%) R 263 (100.0%) D 298 (100.0%) S 300 (100.0%) Y 345 (100.0%) E 349 (100.0%) N 350 (100.0%) N 358 (100.0%) Y 362 (100.0%) 
+K 27, N 90, Y 119, D 144, R 146, Y 147, N 157, N 159, S 160, Q 163, Y 203, S 261, R 263, D 298, S 300, Y 345, E 349, N 350, N 358, Y 362
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01266.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O82        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01266.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O82        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0009_119/sequences.afa)
 
@@ -9319,13 +8833,11 @@ K 27 (100.0%) N 90 (100.0%) Y 119 (100.0%) D 144 (100.0%) R 146 (100.0%) Y 147 (
 
 #### Sugars in cluster:
 
-BAQ01266.1 Escherichia coli O82:
+BAQ01266.1 (Escherichia coli O82)
 
-![](../../../csdb/images/1588.gif)
+![](../../../csdb/images/1588.gif)1588
 
-CSDB record ID: 1588
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9339,22 +8851,23 @@ CSDB record ID: 1588
 |                      |                        | Obesumbacterium (1) |
 | Moraxellales (1)     | Moraxellaceae (1)      | Acinetobacter (1)   |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 97
+
 Total number of members in cluster: 8
 
 Average length of proteins in cluster: 362.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 2 (100.0%) Y 6 (100.0%) N 12 (100.0%) N 18 (100.0%) S 29 (100.0%) Y 37 (100.0%) N 40 (100.0%) R 42 (100.0%) S 46 (100.0%) D 47 (100.0%) Y 51 (100.0%) R 52 (100.0%) R 54 (100.0%) Y 55 (100.0%) S 61 (100.0%) D 66 (100.0%) Y 69 (100.0%) D 74 (100.0%) S 77 (100.0%) H 78 (100.0%) S 82 (100.0%) Q 84 (100.0%) S 94 (100.0%) S 95 (100.0%) Y 99 (100.0%) K 103 (100.0%) K 104 (100.0%) N 108 (100.0%) Y 109 (100.0%) N 110 (100.0%) S 117 (100.0%) Y 120 (100.0%) Y 123 (100.0%) E 126 (100.0%) R 129 (100.0%) S 135 (100.0%) Y 142 (100.0%) R 149 (100.0%) H 163 (100.0%) S 165 (100.0%) Y 176 (100.0%) K 179 (100.0%) K 183 (100.0%) S 192 (100.0%) N 199 (100.0%) N 204 (100.0%) S 206 (100.0%) S 207 (100.0%) Y 208 (100.0%) S 219 (100.0%) K 223 (100.0%) R 225 (100.0%) Y 229 (100.0%) T 230 (100.0%) S 233 (100.0%) T 234 (100.0%) R 235 (100.0%) Y 241 (100.0%) Y 244 (100.0%) N 248 (100.0%) K 257 (100.0%) N 264 (100.0%) Y 277 (100.0%) Q 278 (100.0%) R 298 (100.0%) Y 299 (100.0%) T 303 (100.0%) N 307 (100.0%) S 321 (100.0%) K 324 (100.0%) T 339 (100.0%) E 347 (100.0%) N 348 (100.0%) Y 353 (100.0%) E 354 (100.0%) N 359 (100.0%) N 362 (100.0%) 
+S 2, Y 6, N 12, N 18, S 29, Y 37, N 40, R 42, S 46, D 47, Y 51, R 52, R 54, Y 55, S 61, D 66, Y 69, D 74, S 77, H 78, S 82, Q 84, S 94, S 95, Y 99, K 103, K 104, N 108, Y 109, N 110, S 117, Y 120, Y 123, E 126, R 129, S 135, Y 142, R 149, H 163, S 165, Y 176, K 179, K 183, S 192, N 199, N 204, S 206, S 207, Y 208, S 219, K 223, R 225, Y 229, T 230, S 233, T 234, R 235, Y 241, Y 244, N 248, K 257, N 264, Y 277, Q 278, R 298, Y 299, T 303, N 307, S 321, K 324, T 339, E 347, N 348, Y 353, E 354, N 359, N 362
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  |   serotype |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------------------------------------:|
-| CAI34587.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |         45 |                                    0 |
+| accession   | order           | family           | genus         | species                  |   serotype |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------------------------------------:|
+| CAI34587.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |         45 |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0008_97/sequences.afa)
 
@@ -9370,13 +8883,11 @@ S 2 (100.0%) Y 6 (100.0%) N 12 (100.0%) N 18 (100.0%) S 29 (100.0%) Y 37 (100.0%
 
 #### Sugars in cluster:
 
-CAI34587.1 Streptococcus pneumoniae 45:
+CAI34587.1 (Streptococcus pneumoniae 45)
 
-![](../../../csdb/images/25004.gif)
+![](../../../csdb/images/25004.gif)25004
 
-CSDB record ID: 25004
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9388,22 +8899,23 @@ CSDB record ID: 25004
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (8) | Streptococcaceae (8) | Streptococcus (8) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 78
+
 Total number of members in cluster: 8
 
 Average length of proteins in cluster: 386.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-K 30 (100.0%) N 168 (100.0%) N 176 (100.0%) T 210 (100.0%) R 211 (100.0%) T 212 (100.0%) R 278 (100.0%) D 306 (100.0%) T 316 (100.0%) D 318 (100.0%) Y 321 (100.0%) Y 361 (100.0%) T 364 (100.0%) E 365 (100.0%) 
+K 30, N 168, N 176, T 210, R 211, T 212, R 278, D 306, T 316, D 318, Y 321, Y 361, T 364, E 365
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  |   serotype |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------------------------------------:|
-| CAI32957.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          8 |                                    0 |
+| accession   | order           | family           | genus         | species                  |   serotype |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------------------------------------:|
+| CAI32957.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          8 |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0008_78/sequences.afa)
 
@@ -9419,13 +8931,11 @@ K 30 (100.0%) N 168 (100.0%) N 176 (100.0%) T 210 (100.0%) R 211 (100.0%) T 212 
 
 #### Sugars in cluster:
 
-CAI32957.1 Streptococcus pneumoniae 8:
+CAI32957.1 (Streptococcus pneumoniae 8)
 
-![](../../../csdb/images/938.gif)
+![](../../../csdb/images/938.gif)938
 
-CSDB record ID: 938
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9440,24 +8950,25 @@ CSDB record ID: 938
 | nan (1)               | nan (1)                | nan (1)             |
 | Bifidobacteriales (1) | Bifidobacteriaceae (1) | Bifidobacterium (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 71
+
 Total number of members in cluster: 8
 
 Average length of proteins in cluster: 416.1
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 52 (100.0%) D 55 (100.0%) Y 129 (100.0%) R 196 (100.0%) R 201 (100.0%) K 251 (100.0%) T 252 (100.0%) R 253 (100.0%) Y 258 (100.0%) D 311 (100.0%) R 317 (100.0%) Y 324 (100.0%) Y 364 (100.0%) Y 365 (100.0%) S 367 (100.0%) D 368 (100.0%) N 404 (100.0%) D 434 (100.0%) 
+Y 52, D 55, Y 129, R 196, R 201, K 251, T 252, R 253, Y 258, D 311, R 317, Y 324, Y 364, Y 365, S 367, D 368, N 404, D 434
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI33941.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 24F        |                                    0 |
-| CAI33890.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 24A        |                                    0 |
-| CAI33915.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 24B        |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI33941.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 24F        |                                    0 |
+| CAI33890.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 24A        |                                    0 |
+| CAI33915.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 24B        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0008_71/sequences.afa)
 
@@ -9473,7 +8984,7 @@ Y 52 (100.0%) D 55 (100.0%) Y 129 (100.0%) R 196 (100.0%) R 201 (100.0%) K 251 (
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9483,25 +8994,26 @@ Y 52 (100.0%) D 55 (100.0%) Y 129 (100.0%) R 196 (100.0%) R 201 (100.0%) K 251 (
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (6) | Streptococcaceae (5) | Streptococcus (5) |
 |                     | Lactobacillaceae (1) | Lactobacillus (1) |
-| Eubacteriales (1)   | Lachnospiraceae (1)  | nan (1)           |
-| Eggerthellales (1)  | Eggerthellaceae (1)  | nan (1)           |
+| Eubacteriales (1)   | Lachnospiraceae (1)  | nan (2)           |
+| Eggerthellales (1)  | Eggerthellaceae (1)  | nan (2)           |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 166
+
 Total number of members in cluster: 8
 
 Average length of proteins in cluster: 415.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-H 36 (100.0%) Q 76 (100.0%) S 98 (100.0%) R 101 (100.0%) E 146 (100.0%) K 167 (100.0%) Y 182 (100.0%) Y 183 (100.0%) Q 225 (100.0%) S 226 (100.0%) K 227 (100.0%) T 287 (100.0%) R 304 (100.0%) E 333 (100.0%) R 342 (100.0%) Y 343 (100.0%) Q 396 (100.0%) S 398 (100.0%) E 403 (100.0%) K 406 (100.0%) 
+H 36, Q 76, S 98, R 101, E 146, K 167, Y 182, Y 183, Q 225, S 226, K 227, T 287, R 304, E 333, R 342, Y 343, Q 396, S 398, E 403, K 406
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01419.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O96        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01419.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O96        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0008_166/sequences.afa)
 
@@ -9517,13 +9029,11 @@ H 36 (100.0%) Q 76 (100.0%) S 98 (100.0%) R 101 (100.0%) E 146 (100.0%) K 167 (1
 
 #### Sugars in cluster:
 
-BAQ01419.1 Escherichia coli O96:
+BAQ01419.1 (Escherichia coli O96)
 
-![](../../../csdb/images/1600.gif)
+![](../../../csdb/images/1600.gif)1600
 
-CSDB record ID: 1600
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9538,23 +9048,24 @@ CSDB record ID: 1600
 | Alteromonadales (2)  | Pseudoalteromonadaceae (1) | Pseudoalteromonas (1) |
 |                      | Shewanellaceae (1)         | Shewanella (1)        |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 152
+
 Total number of members in cluster: 8
 
 Average length of proteins in cluster: 363.5
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-K 71 (100.0%) S 73 (100.0%) S 77 (100.0%) T 84 (100.0%) R 90 (100.0%) S 98 (100.0%) N 100 (100.0%) Y 104 (100.0%) Y 105 (100.0%) N 110 (100.0%) K 132 (100.0%) S 150 (100.0%) R 151 (100.0%) S 164 (100.0%) Q 193 (100.0%) R 195 (100.0%) T 196 (100.0%) R 205 (100.0%) N 209 (100.0%) Y 213 (100.0%) S 235 (100.0%) Y 238 (100.0%) Y 241 (100.0%) S 244 (100.0%) N 254 (100.0%) D 258 (100.0%) Y 263 (100.0%) S 271 (100.0%) Y 274 (100.0%) N 280 (100.0%) Y 283 (100.0%) D 292 (100.0%) Y 301 (100.0%) R 326 (100.0%) S 335 (100.0%) R 340 (100.0%) D 341 (100.0%) E 345 (100.0%) 
+K 71, S 73, S 77, T 84, R 90, S 98, N 100, Y 104, Y 105, N 110, K 132, S 150, R 151, S 164, Q 193, R 195, T 196, R 205, N 209, Y 213, S 235, Y 238, Y 241, S 244, N 254, D 258, Y 263, S 271, Y 274, N 280, Y 283, D 292, Y 301, R 326, S 335, R 340, D 341, E 345
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ACA24739.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O79        |                                    0 |
-| AAL27327.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 5          |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ACA24739.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O79        |                                    0 |
+| AAL27327.1  | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 5          |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0008_152/sequences.afa)
 
@@ -9570,19 +9081,15 @@ K 71 (100.0%) S 73 (100.0%) S 77 (100.0%) T 84 (100.0%) R 90 (100.0%) S 98 (100.
 
 #### Sugars in cluster:
 
-ACA24739.1 Escherichia coli O79:
+AAL27327.1 (Shigella boydii 5)
 
-![](../../../csdb/images/1585.gif)
+![](../../../csdb/images/1422.gif)1422
 
-CSDB record ID: 1585
+ACA24739.1 (Escherichia coli O79)
 
-AAL27327.1 Shigella boydii 5:
+![](../../../csdb/images/1585.gif)1585
 
-![](../../../csdb/images/1422.gif)
-
-CSDB record ID: 1422
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9598,23 +9105,24 @@ CSDB record ID: 1422
 |                      | Erwiniaceae (1)            | Erwinia (1)           |
 | Alteromonadales (1)  | Pseudoalteromonadaceae (1) | Pseudoalteromonas (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 148
+
 Total number of members in cluster: 8
 
 Average length of proteins in cluster: 445.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 41 (100.0%) D 73 (100.0%) Y 83 (100.0%) S 87 (100.0%) R 127 (100.0%) S 165 (100.0%) S 176 (100.0%) R 185 (100.0%) E 187 (100.0%) K 200 (100.0%) Y 201 (100.0%) Y 206 (100.0%) Y 237 (100.0%) S 246 (100.0%) R 247 (100.0%) R 248 (100.0%) E 249 (100.0%) R 293 (100.0%) N 307 (100.0%) E 311 (100.0%) S 317 (100.0%) T 318 (100.0%) Y 321 (100.0%) S 335 (100.0%) Q 338 (100.0%) N 342 (100.0%) K 346 (100.0%) K 353 (100.0%) Y 376 (100.0%) T 379 (100.0%) T 382 (100.0%) E 383 (100.0%) N 387 (100.0%) S 404 (100.0%) E 408 (100.0%) Q 424 (100.0%) N 427 (100.0%) Q 429 (100.0%) R 430 (100.0%) S 435 (100.0%) E 439 (100.0%) 
+D 41, D 73, Y 83, S 87, R 127, S 165, S 176, R 185, E 187, K 200, Y 201, Y 206, Y 237, S 246, R 247, R 248, E 249, R 293, N 307, E 311, S 317, T 318, Y 321, S 335, Q 338, N 342, K 346, K 353, Y 376, T 379, T 382, E 383, N 387, S 404, E 408, Q 424, N 427, Q 429, R 430, S 435, E 439
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01598.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O125ac     |                                    0 |
-| WP_038349068.1      | Enterobacterales | Enterobacteriaceae | nan         | nan              | O125ab     |                                    0 |
+| accession      | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:---------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01598.1     | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O125ac     |                                    0 |
+| WP_038349068.1 | Enterobacterales | Enterobacteriaceae | nan         | nan              | O125ab     |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0008_148/sequences.afa)
 
@@ -9630,7 +9138,7 @@ D 41 (100.0%) D 73 (100.0%) Y 83 (100.0%) S 87 (100.0%) R 127 (100.0%) S 165 (10
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9643,22 +9151,23 @@ D 41 (100.0%) D 73 (100.0%) Y 83 (100.0%) S 87 (100.0%) R 127 (100.0%) S 165 (10
 | Pseudomonadales (3)  | Pseudomonadaceae (3)   | Pseudomonas (3) |
 | Rhodocyclales (1)    | Zoogloeaceae (1)       | Thauera (1)     |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 135
+
 Total number of members in cluster: 8
 
 Average length of proteins in cluster: 393.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-E 134 (100.0%) N 140 (100.0%) N 158 (100.0%) Y 165 (100.0%) S 168 (100.0%) S 169 (100.0%) H 173 (100.0%) Y 174 (100.0%) T 175 (100.0%) Y 176 (100.0%) Y 179 (100.0%) N 195 (100.0%) Q 214 (100.0%) R 216 (100.0%) R 275 (100.0%) D 286 (100.0%) S 288 (100.0%) Q 291 (100.0%) R 292 (100.0%) T 295 (100.0%) N 298 (100.0%) Y 327 (100.0%) S 328 (100.0%) T 335 (100.0%) D 337 (100.0%) S 338 (100.0%) T 341 (100.0%) D 395 (100.0%) N 399 (100.0%) Y 407 (100.0%) 
+E 134, N 140, N 158, Y 165, S 168, S 169, H 173, Y 174, T 175, Y 176, Y 179, N 195, Q 214, R 216, R 275, D 286, S 288, Q 291, R 292, T 295, N 298, Y 327, S 328, T 335, D 337, S 338, T 341, D 395, N 399, Y 407
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  |   serotype |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------------------------------------:|
-| CAI32727.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          2 |                                    0 |
+| accession   | order           | family           | genus         | species                  |   serotype |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|-----------:|-------------------------------------:|
+| CAI32727.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae |          2 |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0008_135/sequences.afa)
 
@@ -9674,13 +9183,11 @@ E 134 (100.0%) N 140 (100.0%) N 158 (100.0%) Y 165 (100.0%) S 168 (100.0%) S 169
 
 #### Sugars in cluster:
 
-CAI32727.1 Streptococcus pneumoniae 2:
+CAI32727.1 (Streptococcus pneumoniae 2)
 
-![](../../../csdb/images/1944.gif)
+![](../../../csdb/images/1944.gif)1944
 
-CSDB record ID: 1944
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9690,22 +9197,23 @@ CSDB record ID: 1944
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (8) | Streptococcaceae (8) | Streptococcus (8) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 128
+
 Total number of members in cluster: 8
 
 Average length of proteins in cluster: 365.4
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 15 (100.0%) E 18 (100.0%) Y 47 (100.0%) D 52 (100.0%) Y 56 (100.0%) E 71 (100.0%) K 96 (100.0%) T 119 (100.0%) N 130 (100.0%) D 131 (100.0%) R 134 (100.0%) Q 135 (100.0%) H 166 (100.0%) K 227 (100.0%) Y 231 (100.0%) N 239 (100.0%) Y 241 (100.0%) R 246 (100.0%) E 287 (100.0%) Q 298 (100.0%) R 299 (100.0%) Y 303 (100.0%) N 314 (100.0%) Y 352 (100.0%) N 357 (100.0%) N 369 (100.0%) 
+S 15, E 18, Y 47, D 52, Y 56, E 71, K 96, T 119, N 130, D 131, R 134, Q 135, H 166, K 227, Y 231, N 239, Y 241, R 246, E 287, Q 298, R 299, Y 303, N 314, Y 352, N 357, N 369
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ00634.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O12        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ00634.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O12        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0008_128/sequences.afa)
 
@@ -9721,19 +9229,15 @@ S 15 (100.0%) E 18 (100.0%) Y 47 (100.0%) D 52 (100.0%) Y 56 (100.0%) E 71 (100.
 
 #### Sugars in cluster:
 
-BAQ00634.1 Escherichia coli O12:
+BAQ00634.1 (Escherichia coli O12)
 
-![](../../../csdb/images/1514.gif)
+![](../../../csdb/images/1514.gif)1514
 
-CSDB record ID: 1514
+#### Sugars for blast hits only (may be incorrect):
 
-#### Sugars for blast hits:
+AXY99336.1 (Proteus vulgaris O2)
 
-AXY99336.1 Proteus vulgaris O2:
-
-![](../../../csdb/images/3058.gif)
-
-CSDB record ID: 3058
+![](../../../csdb/images/3058.gif)3058
 
 #### Alphafold models:
 
@@ -9745,22 +9249,23 @@ CSDB record ID: 3058
 |                      | Enterobacteriaceae (2) | Escherichia (2)   |
 | Moraxellales (2)     | Moraxellaceae (2)      | Psychrobacter (2) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 127
+
 Total number of members in cluster: 8
 
 Average length of proteins in cluster: 381.4
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 44 (100.0%) E 51 (100.0%) Y 53 (100.0%) Y 123 (100.0%) R 144 (100.0%) D 146 (100.0%) K 149 (100.0%) N 201 (100.0%) K 202 (100.0%) Y 238 (100.0%) Y 254 (100.0%) S 258 (100.0%) R 262 (100.0%) Q 267 (100.0%) K 293 (100.0%) Y 301 (100.0%) S 304 (100.0%) S 307 (100.0%) E 315 (100.0%) 
+Y 44, E 51, Y 53, Y 123, R 144, D 146, K 149, N 201, K 202, Y 238, Y 254, S 258, R 262, Q 267, K 293, Y 301, S 304, S 307, E 315
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ADJ19217.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O61        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ADJ19217.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O61        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0008_127/sequences.afa)
 
@@ -9776,13 +9281,11 @@ Y 44 (100.0%) E 51 (100.0%) Y 53 (100.0%) Y 123 (100.0%) R 144 (100.0%) D 146 (1
 
 #### Sugars in cluster:
 
-ADJ19217.1 Escherichia coli O61:
+ADJ19217.1 (Escherichia coli O61)
 
-![](../../../csdb/images/1568.gif)
+![](../../../csdb/images/1568.gif)1568
 
-CSDB record ID: 1568
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9799,22 +9302,23 @@ CSDB record ID: 1568
 |                      |                        | Vibrio (1)         |
 | Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)      |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 114
+
 Total number of members in cluster: 8
 
 Average length of proteins in cluster: 394.4
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 89 (100.0%) R 144 (100.0%) R 153 (100.0%) T 155 (100.0%) E 160 (100.0%) S 162 (100.0%) H 163 (100.0%) Y 164 (100.0%) T 195 (100.0%) S 197 (100.0%) S 199 (100.0%) K 250 (100.0%) S 267 (100.0%) R 271 (100.0%) S 274 (100.0%) Y 310 (100.0%) Y 311 (100.0%) N 314 (100.0%) N 325 (100.0%) S 333 (100.0%) S 368 (100.0%) Y 373 (100.0%) 
+S 89, R 144, R 153, T 155, E 160, S 162, H 163, Y 164, T 195, S 197, S 199, K 250, S 267, R 271, S 274, Y 310, Y 311, N 314, N 325, S 333, S 368, Y 373
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ02015.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O182       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ02015.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O182       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0008_114/sequences.afa)
 
@@ -9830,13 +9334,11 @@ S 89 (100.0%) R 144 (100.0%) R 153 (100.0%) T 155 (100.0%) E 160 (100.0%) S 162 
 
 #### Sugars in cluster:
 
-BAQ02015.1 Escherichia coli O182:
+BAQ02015.1 (Escherichia coli O182)
 
-![](../../../csdb/images/1924.gif)
+![](../../../csdb/images/1924.gif)1924
 
-CSDB record ID: 1924
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9849,23 +9351,24 @@ CSDB record ID: 1924
 |                      |                        | Enterobacter (1) |
 | Vibrionales (2)      | Vibrionaceae (2)       | Vibrio (2)       |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 7
+
 Total number of members in cluster: 7
 
 Average length of proteins in cluster: 321.1
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-K 8 (100.0%) K 11 (100.0%) Y 18 (100.0%) Q 35 (100.0%) S 40 (100.0%) R 41 (100.0%) D 42 (100.0%) Y 43 (100.0%) N 45 (100.0%) Y 46 (100.0%) Q 48 (100.0%) S 51 (100.0%) E 54 (100.0%) E 60 (100.0%) Y 63 (100.0%) R 64 (100.0%) T 70 (100.0%) S 84 (100.0%) K 88 (100.0%) Y 95 (100.0%) N 98 (100.0%) S 100 (100.0%) Y 108 (100.0%) Y 109 (100.0%) D 118 (100.0%) Y 119 (100.0%) T 120 (100.0%) Q 121 (100.0%) R 123 (100.0%) N 124 (100.0%) S 129 (100.0%) S 134 (100.0%) Y 136 (100.0%) Y 137 (100.0%) Y 147 (100.0%) S 149 (100.0%) T 156 (100.0%) H 157 (100.0%) S 159 (100.0%) Y 167 (100.0%) Y 171 (100.0%) S 172 (100.0%) R 176 (100.0%) Y 180 (100.0%) S 184 (100.0%) S 192 (100.0%) E 197 (100.0%) R 203 (100.0%) Q 209 (100.0%) K 210 (100.0%) N 213 (100.0%) N 218 (100.0%) N 221 (100.0%) S 222 (100.0%) S 224 (100.0%) T 226 (100.0%) S 234 (100.0%) S 237 (100.0%) E 242 (100.0%) R 247 (100.0%) Y 252 (100.0%) Q 256 (100.0%) Y 257 (100.0%) S 264 (100.0%) R 271 (100.0%) E 274 (100.0%) Y 276 (100.0%) Q 289 (100.0%) Y 294 (100.0%) K 300 (100.0%) Y 306 (100.0%) T 308 (100.0%) Y 309 (100.0%) Y 310 (100.0%) Y 311 (100.0%) H 312 (100.0%) N 319 (100.0%) 
+K 8, K 11, Y 18, Q 35, S 40, R 41, D 42, Y 43, N 45, Y 46, Q 48, S 51, E 54, E 60, Y 63, R 64, T 70, S 84, K 88, Y 95, N 98, S 100, Y 108, Y 109, D 118, Y 119, T 120, Q 121, R 123, N 124, S 129, S 134, Y 136, Y 137, Y 147, S 149, T 156, H 157, S 159, Y 167, Y 171, S 172, R 176, Y 180, S 184, S 192, E 197, R 203, Q 209, K 210, N 213, N 218, N 221, S 222, S 224, T 226, S 234, S 237, E 242, R 247, Y 252, Q 256, Y 257, S 264, R 271, E 274, Y 276, Q 289, Y 294, K 300, Y 306, T 308, Y 309, Y 310, Y 311, H 312, N 319
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ACD75809.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O2         |                                    0 |
-| BAQ01012.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O50        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ACD75809.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O2         |                                    0 |
+| BAQ01012.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O50        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_7/sequences.afa)
 
@@ -9881,19 +9384,15 @@ K 8 (100.0%) K 11 (100.0%) Y 18 (100.0%) Q 35 (100.0%) S 40 (100.0%) R 41 (100.0
 
 #### Sugars in cluster:
 
-ACD75809.1 Escherichia coli O2:
+ACD75809.1 (Escherichia coli O2)
 
-![](../../../csdb/images/108685.gif)
+![](../../../csdb/images/108685.gif)108685
 
-CSDB record ID: 108685
+BAQ01012.1 (Escherichia coli O50)
 
-BAQ01012.1 Escherichia coli O50:
+![](../../../csdb/images/1557.gif)1557
 
-![](../../../csdb/images/1557.gif)
-
-CSDB record ID: 1557
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9904,23 +9403,24 @@ CSDB record ID: 1557
 | Enterobacterales (7) | Enterobacteriaceae (7) | Escherichia (5)  |
 |                      |                        | Enterobacter (2) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 199
+
 Total number of members in cluster: 7
 
 Average length of proteins in cluster: 385.4
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-T 22 (100.0%) S 28 (100.0%) N 95 (100.0%) N 100 (100.0%) K 101 (100.0%) Y 107 (100.0%) R 108 (100.0%) D 113 (100.0%) S 115 (100.0%) R 116 (100.0%) N 118 (100.0%) Y 129 (100.0%) Y 131 (100.0%) Y 132 (100.0%) Y 164 (100.0%) D 165 (100.0%) S 170 (100.0%) R 171 (100.0%) T 172 (100.0%) Y 175 (100.0%) Y 176 (100.0%) K 193 (100.0%) S 206 (100.0%) S 210 (100.0%) R 213 (100.0%) N 229 (100.0%) Y 230 (100.0%) H 231 (100.0%) D 239 (100.0%) N 241 (100.0%) Y 250 (100.0%) S 257 (100.0%) Y 261 (100.0%) N 262 (100.0%) D 269 (100.0%) N 277 (100.0%) R 280 (100.0%) N 284 (100.0%) Y 287 (100.0%) Y 297 (100.0%) Y 300 (100.0%) N 301 (100.0%) Y 303 (100.0%) Y 304 (100.0%) T 305 (100.0%) Y 311 (100.0%) D 313 (100.0%) S 340 (100.0%) E 356 (100.0%) S 357 (100.0%) 
+T 22, S 28, N 95, N 100, K 101, Y 107, R 108, D 113, S 115, R 116, N 118, Y 129, Y 131, Y 132, Y 164, D 165, S 170, R 171, T 172, Y 175, Y 176, K 193, S 206, S 210, R 213, N 229, Y 230, H 231, D 239, N 241, Y 250, S 257, Y 261, N 262, D 269, N 277, R 280, N 284, Y 287, Y 297, Y 300, N 301, Y 303, Y 304, T 305, Y 311, D 313, S 340, E 356, S 357
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species             | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------------------------------------:|
-| AJE24464.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O153       |                                    0 |
-| AFW04790.1          | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O52        |                                    0 |
+| accession   | order            | family             | genus       | species             | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:--------------------|:-----------|-------------------------------------:|
+| AJE24464.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli    | O153       |                                    0 |
+| AFW04790.1  | Enterobacterales | Enterobacteriaceae | Salmonella  | Salmonella enterica | O52        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_199/sequences.afa)
 
@@ -9936,19 +9436,15 @@ T 22 (100.0%) S 28 (100.0%) N 95 (100.0%) N 100 (100.0%) K 101 (100.0%) Y 107 (1
 
 #### Sugars in cluster:
 
-AJE24464.1 Escherichia coli O153:
+AJE24464.1 (Escherichia coli O153)
 
-![](../../../csdb/images/1894.gif)
+![](../../../csdb/images/1894.gif)1894
 
-CSDB record ID: 1894
+AFW04790.1 (Salmonella enterica O52)
 
-AFW04790.1 Salmonella enterica O52:
+![](../../../csdb/images/3364.gif)3364
 
-![](../../../csdb/images/3364.gif)
-
-CSDB record ID: 3364
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -9965,22 +9461,23 @@ CSDB record ID: 3364
 |                      | Morganellaceae (2)     | Proteus (1)     |
 |                      |                        | Xenorhabdus (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 186
+
 Total number of members in cluster: 7
 
 Average length of proteins in cluster: 411.4
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 56 (100.0%) Y 64 (100.0%) N 133 (100.0%) D 181 (100.0%) N 183 (100.0%) N 189 (100.0%) N 191 (100.0%) T 193 (100.0%) S 239 (100.0%) R 240 (100.0%) R 304 (100.0%) D 328 (100.0%) R 331 (100.0%) T 350 (100.0%) Y 357 (100.0%) H 378 (100.0%) N 379 (100.0%) Y 381 (100.0%) S 383 (100.0%) Y 384 (100.0%) N 435 (100.0%) E 436 (100.0%) 
+R 56, Y 64, N 133, D 181, N 183, N 189, N 191, T 193, S 239, R 240, R 304, D 328, R 331, T 350, Y 357, H 378, N 379, Y 381, S 383, Y 384, N 435, E 436
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus    | species         |   serotype |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:---------|:----------------|-----------:|-------------------------------------:|
-| AAZ91245.1          | Enterobacterales | Enterobacteriaceae | Shigella | Shigella sonnei |        nan |                                    0 |
+| accession   | order            | family             | genus    | species         |   serotype |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:---------|:----------------|-----------:|-------------------------------------:|
+| AAZ91245.1  | Enterobacterales | Enterobacteriaceae | Shigella | Shigella sonnei |        nan |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_186/sequences.afa)
 
@@ -9996,7 +9493,7 @@ R 56 (100.0%) Y 64 (100.0%) N 133 (100.0%) D 181 (100.0%) N 183 (100.0%) N 189 (
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10010,24 +9507,25 @@ R 56 (100.0%) Y 64 (100.0%) N 133 (100.0%) D 181 (100.0%) N 183 (100.0%) N 189 (
 | Burkholderiales (1)   | Alcaligenaceae (1)     | Candidimonas (1) |
 | Pirellulales (1)      | Pirellulaceae (1)      | Rosistilla (1)   |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 181
+
 Total number of members in cluster: 7
 
 Average length of proteins in cluster: 405.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 16 (100.0%) K 145 (100.0%) Y 157 (100.0%) R 177 (100.0%) K 199 (100.0%) N 204 (100.0%) R 260 (100.0%) D 266 (100.0%) T 268 (100.0%) Y 277 (100.0%) Y 289 (100.0%) D 292 (100.0%) S 296 (100.0%) Y 299 (100.0%) Y 317 (100.0%) N 324 (100.0%) D 325 (100.0%) S 326 (100.0%) N 329 (100.0%) Y 330 (100.0%) K 339 (100.0%) D 357 (100.0%) Y 380 (100.0%) Q 388 (100.0%) T 392 (100.0%) R 399 (100.0%) Y 401 (100.0%) 
+Y 16, K 145, Y 157, R 177, K 199, N 204, R 260, D 266, T 268, Y 277, Y 289, D 292, S 296, Y 299, Y 317, N 324, D 325, S 326, N 329, Y 330, K 339, D 357, Y 380, Q 388, T 392, R 399, Y 401
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family       | genus    | species                     | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------|:---------|:----------------------------|:-----------|-------------------------------------:|
-| AKA20981.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:5a       |                                    0 |
-| AKA20999.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:5b       |                                    0 |
-| CAX18360.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:15       |                                    0 |
+| accession   | order            | family       | genus    | species                     | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------|:---------|:----------------------------|:-----------|-------------------------------------:|
+| AKA20981.1  | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:5a       |                                    0 |
+| AKA20999.1  | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:5b       |                                    0 |
+| CAX18360.1  | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:15       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_181/sequences.afa)
 
@@ -10043,25 +9541,19 @@ Y 16 (100.0%) K 145 (100.0%) Y 157 (100.0%) R 177 (100.0%) K 199 (100.0%) N 204 
 
 #### Sugars in cluster:
 
-AKA20981.1 Yersinia pseudotuberculosis O:5a:
+AKA20981.1 (Yersinia pseudotuberculosis O:5a)
 
-![](../../../csdb/images/12125.gif)
+![](../../../csdb/images/12125.gif)12125
 
-CSDB record ID: 12125
+AKA20999.1 (Yersinia pseudotuberculosis O:5b)
 
-AKA20999.1 Yersinia pseudotuberculosis O:5b:
+![](../../../csdb/images/12126.gif)12126
 
-![](../../../csdb/images/12126.gif)
+CAX18360.1 (Yersinia pseudotuberculosis O:15)
 
-CSDB record ID: 12126
+![](../../../csdb/images/12127.gif)12127
 
-CAX18360.1 Yersinia pseudotuberculosis O:15:
-
-![](../../../csdb/images/12127.gif)
-
-CSDB record ID: 12127
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10077,22 +9569,23 @@ CSDB record ID: 12127
 | Pseudomonadales (2)  | Pseudomonadaceae (2) | Pseudomonas (2) |
 | Vibrionales (1)      | Vibrionaceae (1)     | Vibrio (1)      |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 18
+
 Total number of members in cluster: 7
 
 Average length of proteins in cluster: 378.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 5 (100.0%) Y 26 (100.0%) N 29 (100.0%) S 31 (100.0%) K 33 (100.0%) Y 36 (100.0%) K 37 (100.0%) N 42 (100.0%) K 63 (100.0%) S 91 (100.0%) R 100 (100.0%) S 103 (100.0%) Y 145 (100.0%) D 147 (100.0%) N 152 (100.0%) H 153 (100.0%) N 155 (100.0%) T 157 (100.0%) N 195 (100.0%) S 201 (100.0%) R 202 (100.0%) K 226 (100.0%) S 243 (100.0%) Y 254 (100.0%) K 258 (100.0%) D 269 (100.0%) S 270 (100.0%) R 271 (100.0%) Y 272 (100.0%) Y 275 (100.0%) Y 291 (100.0%) N 293 (100.0%) Y 294 (100.0%) E 300 (100.0%) Y 302 (100.0%) H 304 (100.0%) N 305 (100.0%) E 309 (100.0%) N 313 (100.0%) S 314 (100.0%) 
+S 5, Y 26, N 29, S 31, K 33, Y 36, K 37, N 42, K 63, S 91, R 100, S 103, Y 145, D 147, N 152, H 153, N 155, T 157, N 195, S 201, R 202, K 226, S 243, Y 254, K 258, D 269, S 270, R 271, Y 272, Y 275, Y 291, N 293, Y 294, E 300, Y 302, H 304, N 305, E 309, N 313, S 314
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| AAY28249.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O174       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| AAY28249.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O174       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_18/sequences.afa)
 
@@ -10108,13 +9601,11 @@ S 5 (100.0%) Y 26 (100.0%) N 29 (100.0%) S 31 (100.0%) K 33 (100.0%) Y 36 (100.0
 
 #### Sugars in cluster:
 
-AAY28249.1 Escherichia coli O174:
+AAY28249.1 (Escherichia coli O174)
 
-![](../../../csdb/images/30040.gif)
+![](../../../csdb/images/30040.gif)30040
 
-CSDB record ID: 30040
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10128,23 +9619,24 @@ CSDB record ID: 30040
 |                      |                        | Enterobacter (2) |
 |                      | Morganellaceae (1)     | Proteus (1)      |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 176
+
 Total number of members in cluster: 7
 
 Average length of proteins in cluster: 395.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 26 (100.0%) T 28 (100.0%) T 32 (100.0%) N 34 (100.0%) S 35 (100.0%) Q 38 (100.0%) T 41 (100.0%) K 59 (100.0%) H 78 (100.0%) E 80 (100.0%) Y 83 (100.0%) H 84 (100.0%) Y 85 (100.0%) K 91 (100.0%) T 92 (100.0%) N 98 (100.0%) Y 109 (100.0%) Q 126 (100.0%) S 129 (100.0%) Y 133 (100.0%) S 134 (100.0%) Q 139 (100.0%) R 142 (100.0%) S 147 (100.0%) R 149 (100.0%) H 152 (100.0%) N 156 (100.0%) S 160 (100.0%) Y 163 (100.0%) R 164 (100.0%) D 165 (100.0%) T 167 (100.0%) S 169 (100.0%) N 170 (100.0%) Q 171 (100.0%) Y 173 (100.0%) S 174 (100.0%) Y 176 (100.0%) H 189 (100.0%) S 198 (100.0%) Y 201 (100.0%) N 218 (100.0%) R 220 (100.0%) S 221 (100.0%) Y 229 (100.0%) Y 232 (100.0%) Y 244 (100.0%) S 268 (100.0%) E 276 (100.0%) Q 277 (100.0%) K 278 (100.0%) D 285 (100.0%) S 286 (100.0%) D 289 (100.0%) N 293 (100.0%) H 294 (100.0%) T 302 (100.0%) Y 309 (100.0%) S 320 (100.0%) D 321 (100.0%) Y 325 (100.0%) R 326 (100.0%) Q 327 (100.0%) Y 339 (100.0%) S 342 (100.0%) R 348 (100.0%) N 367 (100.0%) K 369 (100.0%) Q 370 (100.0%) E 371 (100.0%) N 374 (100.0%) N 375 (100.0%) Y 380 (100.0%) 
+D 26, T 28, T 32, N 34, S 35, Q 38, T 41, K 59, H 78, E 80, Y 83, H 84, Y 85, K 91, T 92, N 98, Y 109, Q 126, S 129, Y 133, S 134, Q 139, R 142, S 147, R 149, H 152, N 156, S 160, Y 163, R 164, D 165, T 167, S 169, N 170, Q 171, Y 173, S 174, Y 176, H 189, S 198, Y 201, N 218, R 220, S 221, Y 229, Y 232, Y 244, S 268, E 276, Q 277, K 278, D 285, S 286, D 289, N 293, H 294, T 302, Y 309, S 320, D 321, Y 325, R 326, Q 327, Y 339, S 342, R 348, N 367, K 369, Q 370, E 371, N 374, N 375, Y 380
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
-| ACD37117.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O40        |                                    0 |
-| ACD37111.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 9          |                                    0 |
+| accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
+| ACD37117.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O40        |                                    0 |
+| ACD37111.1  | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | 9          |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_176/sequences.afa)
 
@@ -10160,19 +9652,15 @@ D 26 (100.0%) T 28 (100.0%) T 32 (100.0%) N 34 (100.0%) S 35 (100.0%) Q 38 (100.
 
 #### Sugars in cluster:
 
-ACD37117.1 Escherichia coli O40:
+ACD37111.1 (Shigella dysenteriae 9)
 
-![](../../../csdb/images/1547.gif)
+![](../../../csdb/images/713.gif)713
 
-CSDB record ID: 1547
+ACD37117.1 (Escherichia coli O40)
 
-ACD37111.1 Shigella dysenteriae 9:
+![](../../../csdb/images/1547.gif)1547
 
-![](../../../csdb/images/713.gif)
-
-CSDB record ID: 713
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10187,22 +9675,23 @@ CSDB record ID: 713
 |                      |                        | Citrobacter (1) |
 | Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)   |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 170
+
 Total number of members in cluster: 7
 
 Average length of proteins in cluster: 410.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-K 6 (100.0%) Y 8 (100.0%) T 20 (100.0%) S 23 (100.0%) Y 31 (100.0%) D 64 (100.0%) S 86 (100.0%) Y 87 (100.0%) T 88 (100.0%) E 89 (100.0%) D 90 (100.0%) R 92 (100.0%) S 95 (100.0%) R 98 (100.0%) Y 99 (100.0%) Y 100 (100.0%) S 107 (100.0%) Y 111 (100.0%) K 115 (100.0%) Y 128 (100.0%) Y 134 (100.0%) T 141 (100.0%) K 151 (100.0%) D 153 (100.0%) S 155 (100.0%) D 159 (100.0%) S 161 (100.0%) Y 166 (100.0%) Q 167 (100.0%) S 170 (100.0%) D 171 (100.0%) S 172 (100.0%) S 187 (100.0%) K 188 (100.0%) T 198 (100.0%) N 206 (100.0%) R 208 (100.0%) S 209 (100.0%) D 252 (100.0%) E 261 (100.0%) N 264 (100.0%) S 265 (100.0%) R 266 (100.0%) Y 268 (100.0%) N 269 (100.0%) S 272 (100.0%) N 274 (100.0%) D 277 (100.0%) D 278 (100.0%) S 280 (100.0%) R 284 (100.0%) K 286 (100.0%) H 290 (100.0%) S 291 (100.0%) S 293 (100.0%) H 298 (100.0%) S 306 (100.0%) Q 307 (100.0%) D 313 (100.0%) R 318 (100.0%) Y 322 (100.0%) T 323 (100.0%) H 324 (100.0%) N 325 (100.0%) Y 329 (100.0%) D 331 (100.0%) Q 332 (100.0%) Y 350 (100.0%) N 351 (100.0%) N 352 (100.0%) K 356 (100.0%) D 362 (100.0%) S 372 (100.0%) Q 373 (100.0%) Q 374 (100.0%) K 378 (100.0%) S 379 (100.0%) T 381 (100.0%) Y 382 (100.0%) Y 384 (100.0%) E 393 (100.0%) K 396 (100.0%) K 400 (100.0%) N 402 (100.0%) Y 403 (100.0%) N 404 (100.0%) K 407 (100.0%) 
+K 6, Y 8, T 20, S 23, Y 31, D 64, S 86, Y 87, T 88, E 89, D 90, R 92, S 95, R 98, Y 99, Y 100, S 107, Y 111, K 115, Y 128, Y 134, T 141, K 151, D 153, S 155, D 159, S 161, Y 166, Q 167, S 170, D 171, S 172, S 187, K 188, T 198, N 206, R 208, S 209, D 252, E 261, N 264, S 265, R 266, Y 268, N 269, S 272, N 274, D 277, D 278, S 280, R 284, K 286, H 290, S 291, S 293, H 298, S 306, Q 307, D 313, R 318, Y 322, T 323, H 324, N 325, Y 329, D 331, Q 332, Y 350, N 351, N 352, K 356, D 362, S 372, Q 373, Q 374, K 378, S 379, T 381, Y 382, Y 384, E 393, K 396, K 400, N 402, Y 403, N 404, K 407
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01218.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O76        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01218.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O76        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_170/sequences.afa)
 
@@ -10218,13 +9707,11 @@ K 6 (100.0%) Y 8 (100.0%) T 20 (100.0%) S 23 (100.0%) Y 31 (100.0%) D 64 (100.0%
 
 #### Sugars in cluster:
 
-BAQ01218.1 Escherichia coli O76:
+BAQ01218.1 (Escherichia coli O76)
 
-![](../../../csdb/images/1582.gif)
+![](../../../csdb/images/1582.gif)1582
 
-CSDB record ID: 1582
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10237,23 +9724,24 @@ CSDB record ID: 1582
 |                      |                        | Enterobacter (1) |
 |                      |                        | Cedecea (1)      |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 169
+
 Total number of members in cluster: 7
 
 Average length of proteins in cluster: 351.1
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 3 (100.0%) D 24 (100.0%) R 42 (100.0%) D 48 (100.0%) Y 52 (100.0%) S 88 (100.0%) K 104 (100.0%) K 109 (100.0%) T 110 (100.0%) T 125 (100.0%) R 129 (100.0%) Q 130 (100.0%) Y 150 (100.0%) H 161 (100.0%) S 163 (100.0%) K 177 (100.0%) S 179 (100.0%) Y 223 (100.0%) Y 227 (100.0%) S 232 (100.0%) Y 238 (100.0%) N 264 (100.0%) Y 266 (100.0%) K 277 (100.0%) D 278 (100.0%) N 279 (100.0%) N 284 (100.0%) R 285 (100.0%) T 290 (100.0%) N 291 (100.0%) K 311 (100.0%) Y 321 (100.0%) Y 326 (100.0%) K 328 (100.0%) T 332 (100.0%) R 335 (100.0%) Y 342 (100.0%) Y 345 (100.0%) N 352 (100.0%) 
+Y 3, D 24, R 42, D 48, Y 52, S 88, K 104, K 109, T 110, T 125, R 129, Q 130, Y 150, H 161, S 163, K 177, S 179, Y 223, Y 227, S 232, Y 238, N 264, Y 266, K 277, D 278, N 279, N 284, R 285, T 290, N 291, K 311, Y 321, Y 326, K 328, T 332, R 335, Y 342, Y 345, N 352
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ABB29906.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O24        |                                    0 |
-| ABB29916.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O56        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ABB29906.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O24        |                                    0 |
+| ABB29916.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O56        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_169/sequences.afa)
 
@@ -10269,25 +9757,19 @@ Y 3 (100.0%) D 24 (100.0%) R 42 (100.0%) D 48 (100.0%) Y 52 (100.0%) S 88 (100.0
 
 #### Sugars in cluster:
 
-ABB29906.1 Escherichia coli O24:
+ABB29916.1 (Escherichia coli O56)
 
-![](../../../csdb/images/8411.gif)
+![](../../../csdb/images/8382.gif)8382
 
-CSDB record ID: 8411
+ABB29906.1 (Escherichia coli O24)
 
-ABB29916.1 Escherichia coli O56:
+![](../../../csdb/images/8411.gif)8411
 
-![](../../../csdb/images/8382.gif)
+#### Sugars for blast hits only (may be incorrect):
 
-CSDB record ID: 8382
+AXL96526.1 (Providencia alcalifaciens O38)
 
-#### Sugars for blast hits:
-
-AXL96526.1 Providencia alcalifaciens O38:
-
-![](../../../csdb/images/27606.gif)
-
-CSDB record ID: 27606
+![](../../../csdb/images/27606.gif)27606
 
 #### Alphafold models:
 
@@ -10301,22 +9783,23 @@ CSDB record ID: 27606
 |                      | Morganellaceae (1)     | Providencia (1) |
 | Vibrionales (2)      | Vibrionaceae (2)       | Vibrio (2)      |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 160
+
 Total number of members in cluster: 7
 
 Average length of proteins in cluster: 394.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-N 14 (100.0%) S 33 (100.0%) S 38 (100.0%) D 55 (100.0%) Y 60 (100.0%) N 81 (100.0%) K 89 (100.0%) K 98 (100.0%) E 99 (100.0%) T 106 (100.0%) Y 110 (100.0%) S 146 (100.0%) N 149 (100.0%) R 152 (100.0%) S 153 (100.0%) H 186 (100.0%) S 187 (100.0%) K 214 (100.0%) S 241 (100.0%) Y 245 (100.0%) Y 255 (100.0%) S 310 (100.0%) S 320 (100.0%) R 322 (100.0%) Y 323 (100.0%) Q 324 (100.0%) Y 369 (100.0%) R 372 (100.0%) Y 373 (100.0%) S 378 (100.0%) 
+N 14, S 33, S 38, D 55, Y 60, N 81, K 89, K 98, E 99, T 106, Y 110, S 146, N 149, R 152, S 153, H 186, S 187, K 214, S 241, Y 245, Y 255, S 310, S 320, R 322, Y 323, Q 324, Y 369, R 372, Y 373, S 378
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| AAD50486.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O113       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| AAD50486.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O113       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_160/sequences.afa)
 
@@ -10332,13 +9815,11 @@ N 14 (100.0%) S 33 (100.0%) S 38 (100.0%) D 55 (100.0%) Y 60 (100.0%) N 81 (100.
 
 #### Sugars in cluster:
 
-AAD50486.1 Escherichia coli O113:
+AAD50486.1 (Escherichia coli O113)
 
-![](../../../csdb/images/1853.gif)
+![](../../../csdb/images/1853.gif)1853
 
-CSDB record ID: 1853
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10352,22 +9833,23 @@ CSDB record ID: 1853
 |                      |                        | Enterobacter (2) |
 | Vibrionales (1)      | Vibrionaceae (1)       | Vibrio (1)       |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 143
+
 Total number of members in cluster: 7
 
 Average length of proteins in cluster: 343.6
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-N 44 (100.0%) R 45 (100.0%) N 47 (100.0%) D 49 (100.0%) Y 50 (100.0%) Y 53 (100.0%) E 65 (100.0%) Y 68 (100.0%) K 76 (100.0%) K 106 (100.0%) Y 115 (100.0%) D 123 (100.0%) Q 126 (100.0%) R 128 (100.0%) N 129 (100.0%) H 162 (100.0%) Y 168 (100.0%) Y 221 (100.0%) D 241 (100.0%) K 261 (100.0%) E 286 (100.0%) R 289 (100.0%) R 292 (100.0%) N 293 (100.0%) K 298 (100.0%) Y 299 (100.0%) Y 335 (100.0%) 
+N 44, R 45, N 47, D 49, Y 50, Y 53, E 65, Y 68, K 76, K 106, Y 115, D 123, Q 126, R 128, N 129, H 162, Y 168, Y 221, D 241, K 261, E 286, R 289, R 292, N 293, K 298, Y 299, Y 335
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| AAN60459.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O26        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| AAN60459.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O26        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_143/sequences.afa)
 
@@ -10383,13 +9865,11 @@ N 44 (100.0%) R 45 (100.0%) N 47 (100.0%) D 49 (100.0%) Y 50 (100.0%) Y 53 (100.
 
 #### Sugars in cluster:
 
-AAN60459.1 Escherichia coli O26:
+AAN60459.1 (Escherichia coli O26)
 
-![](../../../csdb/images/1534.gif)
+![](../../../csdb/images/1534.gif)1534
 
-CSDB record ID: 1534
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10402,22 +9882,23 @@ CSDB record ID: 1534
 | Eubacteriales (2)    | Clostridiaceae (2)     | Clostridium (2) |
 | Bacillales (1)       | Bacillaceae (1)        | Bacillus (1)    |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 133
+
 Total number of members in cluster: 7
 
 Average length of proteins in cluster: 344.4
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-N 9 (100.0%) N 30 (100.0%) S 38 (100.0%) Y 53 (100.0%) D 55 (100.0%) Y 59 (100.0%) Y 63 (100.0%) E 73 (100.0%) T 102 (100.0%) T 129 (100.0%) S 131 (100.0%) Y 134 (100.0%) E 138 (100.0%) R 141 (100.0%) K 166 (100.0%) Y 168 (100.0%) H 178 (100.0%) Y 179 (100.0%) S 180 (100.0%) K 230 (100.0%) Y 234 (100.0%) T 238 (100.0%) S 241 (100.0%) T 243 (100.0%) R 247 (100.0%) Y 267 (100.0%) Y 271 (100.0%) Y 274 (100.0%) D 285 (100.0%) E 286 (100.0%) R 289 (100.0%) R 290 (100.0%) K 311 (100.0%) Y 326 (100.0%) Y 334 (100.0%) Y 338 (100.0%) Y 343 (100.0%) 
+N 9, N 30, S 38, Y 53, D 55, Y 59, Y 63, E 73, T 102, T 129, S 131, Y 134, E 138, R 141, K 166, Y 168, H 178, Y 179, S 180, K 230, Y 234, T 238, S 241, T 243, R 247, Y 267, Y 271, Y 274, D 285, E 286, R 289, R 290, K 311, Y 326, Y 334, Y 338, Y 343
 
 #### Seeds in cluster:
 
-| protein_accession   | order        | family        | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------------------------------------:|
-| AHB32311.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O8         |                                    0 |
+| accession   | order        | family        | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------------------------------------:|
+| AHB32311.1  | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O8         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_133/sequences.afa)
 
@@ -10433,7 +9914,7 @@ N 9 (100.0%) N 30 (100.0%) S 38 (100.0%) Y 53 (100.0%) D 55 (100.0%) Y 59 (100.0
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10444,21 +9925,22 @@ N 9 (100.0%) N 30 (100.0%) S 38 (100.0%) Y 53 (100.0%) D 55 (100.0%) Y 59 (100.0
 | Moraxellales (6) | Moraxellaceae (6) | Acinetobacter (6) |
 | Vibrionales (1)  | Vibrionaceae (1)  | Vibrio (1)        |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 132
+
 Total number of members in cluster: 7
 
 Average length of proteins in cluster: 387.4
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 20 (100.0%) Y 24 (100.0%) K 38 (100.0%) R 39 (100.0%) Y 40 (100.0%) S 72 (100.0%) Y 94 (100.0%) D 101 (100.0%) S 111 (100.0%) S 113 (100.0%) D 115 (100.0%) Y 127 (100.0%) K 129 (100.0%) Y 140 (100.0%) D 147 (100.0%) R 152 (100.0%) R 159 (100.0%) H 160 (100.0%) S 161 (100.0%) Y 162 (100.0%) H 166 (100.0%) N 168 (100.0%) S 169 (100.0%) D 180 (100.0%) S 182 (100.0%) K 186 (100.0%) T 208 (100.0%) D 209 (100.0%) S 210 (100.0%) R 211 (100.0%) T 212 (100.0%) N 269 (100.0%) R 275 (100.0%) H 280 (100.0%) Y 282 (100.0%) R 293 (100.0%) N 302 (100.0%) Y 312 (100.0%) D 314 (100.0%) R 318 (100.0%) Q 319 (100.0%) Q 334 (100.0%) H 344 (100.0%) E 358 (100.0%) Y 360 (100.0%) N 373 (100.0%) Y 374 (100.0%) 
+Y 20, Y 24, K 38, R 39, Y 40, S 72, Y 94, D 101, S 111, S 113, D 115, Y 127, K 129, Y 140, D 147, R 152, R 159, H 160, S 161, Y 162, H 166, N 168, S 169, D 180, S 182, K 186, T 208, D 209, S 210, R 211, T 212, N 269, R 275, H 280, Y 282, R 293, N 302, Y 312, D 314, R 318, Q 319, Q 334, H 344, E 358, Y 360, N 373, Y 374
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
-|---------------------|---------|----------|---------|-----------|------------|--------------------------------------|
+| accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
+|-------------|---------|----------|---------|-----------|------------|--------------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_132/sequences.afa)
 
@@ -10474,7 +9956,7 @@ Y 20 (100.0%) Y 24 (100.0%) K 38 (100.0%) R 39 (100.0%) Y 40 (100.0%) S 72 (100.
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10484,24 +9966,25 @@ Y 20 (100.0%) Y 24 (100.0%) K 38 (100.0%) R 39 (100.0%) Y 40 (100.0%) S 72 (100.
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (7) | Streptococcaceae (7) | Streptococcus (7) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 111
+
 Total number of members in cluster: 7
 
 Average length of proteins in cluster: 418.7
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Q 21 (100.0%) Y 32 (100.0%) S 35 (100.0%) N 147 (100.0%) T 168 (100.0%) R 174 (100.0%) E 178 (100.0%) S 184 (100.0%) K 219 (100.0%) R 220 (100.0%) T 221 (100.0%) S 299 (100.0%) R 303 (100.0%) N 318 (100.0%) N 326 (100.0%) D 351 (100.0%) N 352 (100.0%) Y 354 (100.0%) D 360 (100.0%) D 414 (100.0%) 
+Q 21, Y 32, S 35, N 147, T 168, R 174, E 178, S 184, K 219, R 220, T 221, S 299, R 303, N 318, N 326, D 351, N 352, Y 354, D 360, D 414
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI34099.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 31         |                                    0 |
-| CAI34498.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 41F        |                                    0 |
-| CAI34475.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 41A        |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI34099.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 31         |                                    0 |
+| CAI34498.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 41F        |                                    0 |
+| CAI34475.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 41A        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_111/sequences.afa)
 
@@ -10517,25 +10000,19 @@ Q 21 (100.0%) Y 32 (100.0%) S 35 (100.0%) N 147 (100.0%) T 168 (100.0%) R 174 (1
 
 #### Sugars in cluster:
 
-CAI34099.1 Streptococcus pneumoniae 31:
+CAI34475.1 (Streptococcus pneumoniae 41A)
 
-![](../../../csdb/images/7087.gif)
+![](../../../csdb/images/25002.gif)25002
 
-CSDB record ID: 7087
+CAI34498.1 (Streptococcus pneumoniae 41F)
 
-CAI34498.1 Streptococcus pneumoniae 41F:
+![](../../../csdb/images/25001.gif)25001
 
-![](../../../csdb/images/25001.gif)
+CAI34099.1 (Streptococcus pneumoniae 31)
 
-CSDB record ID: 25001
+![](../../../csdb/images/7087.gif)7087
 
-CAI34475.1 Streptococcus pneumoniae 41A:
-
-![](../../../csdb/images/25002.gif)
-
-CSDB record ID: 25002
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10548,22 +10025,23 @@ CSDB record ID: 25002
 | Lactobacillales (7) | Streptococcaceae (6) | Streptococcus (6) |
 |                     | Lactobacillaceae (1) | Lactobacillus (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 10
+
 Total number of members in cluster: 7
 
 Average length of proteins in cluster: 376.9
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 44 (100.0%) D 49 (100.0%) Y 53 (100.0%) R 131 (100.0%) Q 132 (100.0%) H 165 (100.0%) S 167 (100.0%) Y 232 (100.0%) R 248 (100.0%) Y 293 (100.0%) E 294 (100.0%) R 306 (100.0%) Y 342 (100.0%) Y 361 (100.0%) Y 364 (100.0%) 
+Y 44, D 49, Y 53, R 131, Q 132, H 165, S 167, Y 232, R 248, Y 293, E 294, R 306, Y 342, Y 361, Y 364
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus       | species                | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:------------|:-----------------------|:-----------|-------------------------------------:|
-| AAM27879.1          | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O9         |                                    0 |
+| accession   | order           | family           | genus       | species                | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:------------|:-----------------------|:-----------|-------------------------------------:|
+| AAM27879.1  | Pseudomonadales | Pseudomonadaceae | Pseudomonas | Pseudomonas aeruginosa | O9         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0007_10/sequences.afa)
 
@@ -10579,13 +10057,11 @@ Y 44 (100.0%) D 49 (100.0%) Y 53 (100.0%) R 131 (100.0%) Q 132 (100.0%) H 165 (1
 
 #### Sugars in cluster:
 
-AAM27879.1 Pseudomonas aeruginosa O9:
+AAM27879.1 (Pseudomonas aeruginosa O9)
 
-![](../../../csdb/images/24037.gif)
+![](../../../csdb/images/24037.gif)24037
 
-CSDB record ID: 24037
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10597,22 +10073,23 @@ CSDB record ID: 24037
 | nan (1)              | nan (1)                | Wohlfahrtiimonas (1)  |
 | Enterobacterales (1) | Enterobacteriaceae (1) | Pseudocitrobacter (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 16
+
 Total number of members in cluster: 6
 
 Average length of proteins in cluster: 387.5
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-K 34 (100.0%) T 42 (100.0%) S 56 (100.0%) S 70 (100.0%) K 106 (100.0%) E 109 (100.0%) N 116 (100.0%) S 127 (100.0%) K 132 (100.0%) R 134 (100.0%) S 140 (100.0%) H 148 (100.0%) Y 150 (100.0%) Y 157 (100.0%) N 166 (100.0%) E 167 (100.0%) N 168 (100.0%) N 171 (100.0%) S 178 (100.0%) R 179 (100.0%) N 180 (100.0%) S 183 (100.0%) Y 198 (100.0%) K 203 (100.0%) Y 205 (100.0%) S 207 (100.0%) S 216 (100.0%) R 222 (100.0%) S 223 (100.0%) S 228 (100.0%) Y 237 (100.0%) K 239 (100.0%) K 242 (100.0%) K 247 (100.0%) T 284 (100.0%) N 285 (100.0%) S 288 (100.0%) D 291 (100.0%) T 292 (100.0%) R 294 (100.0%) Y 301 (100.0%) N 304 (100.0%) D 306 (100.0%) S 319 (100.0%) N 328 (100.0%) H 330 (100.0%) N 331 (100.0%) S 332 (100.0%) Q 337 (100.0%) R 339 (100.0%) Y 353 (100.0%) R 375 (100.0%) D 379 (100.0%) D 388 (100.0%) N 401 (100.0%) N 402 (100.0%) 
+K 34, T 42, S 56, S 70, K 106, E 109, N 116, S 127, K 132, R 134, S 140, H 148, Y 150, Y 157, N 166, E 167, N 168, N 171, S 178, R 179, N 180, S 183, Y 198, K 203, Y 205, S 207, S 216, R 222, S 223, S 228, Y 237, K 239, K 242, K 247, T 284, N 285, S 288, D 291, T 292, R 294, Y 301, N 304, D 306, S 319, N 328, H 330, N 331, S 332, Q 337, R 339, Y 353, R 375, D 379, D 388, N 401, N 402
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01894.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O171       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01894.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O171       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0006_16/sequences.afa)
 
@@ -10628,13 +10105,11 @@ K 34 (100.0%) T 42 (100.0%) S 56 (100.0%) S 70 (100.0%) K 106 (100.0%) E 109 (10
 
 #### Sugars in cluster:
 
-BAQ01894.1 Escherichia coli O171:
+BAQ01894.1 (Escherichia coli O171)
 
-![](../../../csdb/images/1913.gif)
+![](../../../csdb/images/1913.gif)1913
 
-CSDB record ID: 1913
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10647,22 +10122,23 @@ CSDB record ID: 1913
 | Enterobacterales (6) | Enterobacteriaceae (4) | Escherichia (4) |
 |                      | Hafniaceae (2)         | Hafnia (2)      |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 156
+
 Total number of members in cluster: 6
 
 Average length of proteins in cluster: 386.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 10 (100.0%) Y 12 (100.0%) D 32 (100.0%) R 34 (100.0%) Y 36 (100.0%) Y 38 (100.0%) K 64 (100.0%) T 95 (100.0%) K 121 (100.0%) N 123 (100.0%) Q 155 (100.0%) S 157 (100.0%) Q 159 (100.0%) Y 205 (100.0%) R 208 (100.0%) R 212 (100.0%) R 228 (100.0%) S 230 (100.0%) S 233 (100.0%) S 234 (100.0%) S 250 (100.0%) S 272 (100.0%) S 274 (100.0%) N 278 (100.0%) Y 288 (100.0%) S 331 (100.0%) N 354 (100.0%) R 377 (100.0%) Y 386 (100.0%) S 391 (100.0%) D 393 (100.0%) E 396 (100.0%) S 398 (100.0%) Q 402 (100.0%) 
+Y 10, Y 12, D 32, R 34, Y 36, Y 38, K 64, T 95, K 121, N 123, Q 155, S 157, Q 159, Y 205, R 208, R 212, R 228, S 230, S 233, S 234, S 250, S 272, S 274, N 278, Y 288, S 331, N 354, R 377, Y 386, S 391, D 393, E 396, S 398, Q 402
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| AAZ20761.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O66        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| AAZ20761.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O66        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0006_156/sequences.afa)
 
@@ -10678,13 +10154,11 @@ Y 10 (100.0%) Y 12 (100.0%) D 32 (100.0%) R 34 (100.0%) Y 36 (100.0%) Y 38 (100.
 
 #### Sugars in cluster:
 
-AAZ20761.1 Escherichia coli O66:
+AAZ20761.1 (Escherichia coli O66)
 
-![](../../../csdb/images/1573.gif)
+![](../../../csdb/images/1573.gif)1573
 
-CSDB record ID: 1573
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10697,22 +10171,23 @@ CSDB record ID: 1573
 | Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)      |
 | Vibrionales (1)      | Vibrionaceae (1)       | Photobacterium (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 142
+
 Total number of members in cluster: 6
 
 Average length of proteins in cluster: 469.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-E 31 (100.0%) S 70 (100.0%) Y 73 (100.0%) Y 76 (100.0%) Y 82 (100.0%) Y 83 (100.0%) K 92 (100.0%) K 132 (100.0%) S 142 (100.0%) Y 168 (100.0%) Q 188 (100.0%) H 192 (100.0%) Y 204 (100.0%) Y 207 (100.0%) Y 208 (100.0%) S 243 (100.0%) R 246 (100.0%) T 248 (100.0%) R 269 (100.0%) Y 287 (100.0%) R 290 (100.0%) S 293 (100.0%) N 294 (100.0%) D 301 (100.0%) N 318 (100.0%) D 321 (100.0%) Q 323 (100.0%) Q 324 (100.0%) T 331 (100.0%) Y 343 (100.0%) D 345 (100.0%) N 349 (100.0%) S 361 (100.0%) Y 370 (100.0%) S 375 (100.0%) T 379 (100.0%) E 385 (100.0%) Y 387 (100.0%) N 389 (100.0%) Y 424 (100.0%) S 425 (100.0%) Y 435 (100.0%) K 437 (100.0%) D 439 (100.0%) S 440 (100.0%) T 441 (100.0%) N 445 (100.0%) 
+E 31, S 70, Y 73, Y 76, Y 82, Y 83, K 92, K 132, S 142, Y 168, Q 188, H 192, Y 204, Y 207, Y 208, S 243, R 246, T 248, R 269, Y 287, R 290, S 293, N 294, D 301, N 318, D 321, Q 323, Q 324, T 331, Y 343, D 345, N 349, S 361, Y 370, S 375, T 379, E 385, Y 387, N 389, Y 424, S 425, Y 435, K 437, D 439, S 440, T 441, N 445
 
 #### Seeds in cluster:
 
-| protein_accession   | order        | family        | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------------------------------------:|
-| AHB32357.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O27        |                                    0 |
+| accession   | order        | family        | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------------------------------------:|
+| AHB32357.1  | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O27        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0006_142/sequences.afa)
 
@@ -10728,7 +10203,7 @@ E 31 (100.0%) S 70 (100.0%) Y 73 (100.0%) Y 76 (100.0%) Y 82 (100.0%) Y 83 (100.
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10740,22 +10215,23 @@ E 31 (100.0%) S 70 (100.0%) Y 73 (100.0%) Y 76 (100.0%) Y 82 (100.0%) Y 83 (100.
 | Alteromonadales (1) | Pseudoalteromonadaceae (1) | Pseudoalteromonas (1) |
 | Aeromonadales (1)   | Aeromonadaceae (1)         | Aeromonas (1)         |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 136
+
 Total number of members in cluster: 6
 
 Average length of proteins in cluster: 406.5
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-K 7 (100.0%) K 8 (100.0%) Y 9 (100.0%) S 13 (100.0%) Q 23 (100.0%) S 26 (100.0%) H 32 (100.0%) E 38 (100.0%) T 47 (100.0%) S 56 (100.0%) D 57 (100.0%) S 60 (100.0%) S 61 (100.0%) K 68 (100.0%) N 82 (100.0%) S 86 (100.0%) Y 124 (100.0%) Y 126 (100.0%) R 128 (100.0%) N 136 (100.0%) E 142 (100.0%) S 145 (100.0%) K 146 (100.0%) S 174 (100.0%) Y 175 (100.0%) R 178 (100.0%) Y 192 (100.0%) Y 212 (100.0%) N 215 (100.0%) Q 216 (100.0%) S 219 (100.0%) Q 220 (100.0%) N 223 (100.0%) Y 224 (100.0%) D 230 (100.0%) S 235 (100.0%) E 241 (100.0%) Y 246 (100.0%) K 250 (100.0%) D 251 (100.0%) T 253 (100.0%) K 255 (100.0%) S 257 (100.0%) S 261 (100.0%) K 266 (100.0%) S 270 (100.0%) R 314 (100.0%) R 335 (100.0%) N 339 (100.0%) Q 346 (100.0%) T 351 (100.0%) E 354 (100.0%) N 358 (100.0%) S 361 (100.0%) Y 393 (100.0%) S 396 (100.0%) Y 399 (100.0%) K 406 (100.0%) 
+K 7, K 8, Y 9, S 13, Q 23, S 26, H 32, E 38, T 47, S 56, D 57, S 60, S 61, K 68, N 82, S 86, Y 124, Y 126, R 128, N 136, E 142, S 145, K 146, S 174, Y 175, R 178, Y 192, Y 212, N 215, Q 216, S 219, Q 220, N 223, Y 224, D 230, S 235, E 241, Y 246, K 250, D 251, T 253, K 255, S 257, S 261, K 266, S 270, R 314, R 335, N 339, Q 346, T 351, E 354, N 358, S 361, Y 393, S 396, Y 399, K 406
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ABI34565.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O22        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ABI34565.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O22        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0006_136/sequences.afa)
 
@@ -10771,13 +10247,11 @@ K 7 (100.0%) K 8 (100.0%) Y 9 (100.0%) S 13 (100.0%) Q 23 (100.0%) S 26 (100.0%)
 
 #### Sugars in cluster:
 
-ABI34565.1 Escherichia coli O22:
+ABI34565.1 (Escherichia coli O22)
 
-![](../../../csdb/images/1530.gif)
+![](../../../csdb/images/1530.gif)1530
 
-CSDB record ID: 1530
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10791,23 +10265,24 @@ CSDB record ID: 1530
 |                      |                        | Enterobacter (1) |
 |                      | Hafniaceae (2)         | Hafnia (2)       |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 118
+
 Total number of members in cluster: 6
 
 Average length of proteins in cluster: 388.5
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-K 10 (100.0%) E 19 (100.0%) Y 25 (100.0%) E 31 (100.0%) D 35 (100.0%) Y 36 (100.0%) K 79 (100.0%) N 87 (100.0%) Y 97 (100.0%) T 104 (100.0%) K 108 (100.0%) D 123 (100.0%) K 124 (100.0%) K 134 (100.0%) N 136 (100.0%) Y 142 (100.0%) K 149 (100.0%) Y 153 (100.0%) Y 154 (100.0%) E 164 (100.0%) R 167 (100.0%) E 180 (100.0%) N 205 (100.0%) Y 208 (100.0%) N 209 (100.0%) K 211 (100.0%) R 215 (100.0%) Y 220 (100.0%) Y 222 (100.0%) R 235 (100.0%) S 237 (100.0%) S 240 (100.0%) N 241 (100.0%) E 267 (100.0%) E 270 (100.0%) T 273 (100.0%) S 277 (100.0%) E 283 (100.0%) K 284 (100.0%) E 287 (100.0%) K 290 (100.0%) S 302 (100.0%) S 307 (100.0%) S 329 (100.0%) Q 346 (100.0%) Y 359 (100.0%) Q 360 (100.0%) N 368 (100.0%) Y 369 (100.0%) Y 376 (100.0%) K 389 (100.0%) 
+K 10, E 19, Y 25, E 31, D 35, Y 36, K 79, N 87, Y 97, T 104, K 108, D 123, K 124, K 134, N 136, Y 142, K 149, Y 153, Y 154, E 164, R 167, E 180, N 205, Y 208, N 209, K 211, R 215, Y 220, Y 222, R 235, S 237, S 240, N 241, E 267, E 270, T 273, S 277, E 283, K 284, E 287, K 290, S 302, S 307, S 329, Q 346, Y 359, Q 360, N 368, Y 369, Y 376, K 389
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| AAT28922.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O172       |                                    0 |
-| AAR24270.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 13         |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| AAT28922.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O172       |                                    0 |
+| AAR24270.1  | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 13         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0006_118/sequences.afa)
 
@@ -10823,19 +10298,15 @@ K 10 (100.0%) E 19 (100.0%) Y 25 (100.0%) E 31 (100.0%) D 35 (100.0%) Y 36 (100.
 
 #### Sugars in cluster:
 
-AAT28922.1 Escherichia coli O172:
+AAT28922.1 (Escherichia coli O172)
 
-![](../../../csdb/images/1914.gif)
+![](../../../csdb/images/1914.gif)1914
 
-CSDB record ID: 1914
+AAR24270.1 (Shigella boydii 13)
 
-AAR24270.1 Shigella boydii 13:
+![](../../../csdb/images/1405.gif)1405
 
-![](../../../csdb/images/1405.gif)
-
-CSDB record ID: 1405
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10848,23 +10319,24 @@ CSDB record ID: 1405
 |                      | Morganellaceae (2)     | Morganella (1)  |
 |                      |                        | Proteus (1)     |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 106
+
 Total number of members in cluster: 6
 
 Average length of proteins in cluster: 435.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 63 (100.0%) Y 70 (100.0%) Q 75 (100.0%) S 78 (100.0%) E 83 (100.0%) E 91 (100.0%) N 140 (100.0%) Y 161 (100.0%) N 171 (100.0%) R 172 (100.0%) Y 175 (100.0%) Y 202 (100.0%) K 208 (100.0%) E 227 (100.0%) K 228 (100.0%) Y 237 (100.0%) Y 243 (100.0%) S 270 (100.0%) N 274 (100.0%) Y 275 (100.0%) E 279 (100.0%) R 289 (100.0%) Q 293 (100.0%) Q 295 (100.0%) Y 299 (100.0%) N 302 (100.0%) S 336 (100.0%) Y 345 (100.0%) T 353 (100.0%) S 354 (100.0%) Y 363 (100.0%) S 389 (100.0%) S 401 (100.0%) K 424 (100.0%) Y 428 (100.0%) 
+Y 63, Y 70, Q 75, S 78, E 83, E 91, N 140, Y 161, N 171, R 172, Y 175, Y 202, K 208, E 227, K 228, Y 237, Y 243, S 270, N 274, Y 275, E 279, R 289, Q 293, Q 295, Y 299, N 302, S 336, Y 345, T 353, S 354, Y 363, S 389, S 401, K 424, Y 428
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ADN43883.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O165       |                                    0 |
-| ACD37072.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 7          |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ADN43883.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O165       |                                    0 |
+| ACD37072.1  | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 7          |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0006_106/sequences.afa)
 
@@ -10880,19 +10352,15 @@ Y 63 (100.0%) Y 70 (100.0%) Q 75 (100.0%) S 78 (100.0%) E 83 (100.0%) E 91 (100.
 
 #### Sugars in cluster:
 
-ADN43883.1 Escherichia coli O165:
+ADN43883.1 (Escherichia coli O165)
 
-![](../../../csdb/images/1907.gif)
+![](../../../csdb/images/1907.gif)1907
 
-CSDB record ID: 1907
+ACD37072.1 (Shigella boydii 7)
 
-ACD37072.1 Shigella boydii 7:
+![](../../../csdb/images/3984.gif)3984
 
-![](../../../csdb/images/3984.gif)
-
-CSDB record ID: 3984
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10903,23 +10371,24 @@ CSDB record ID: 3984
 | Enterobacterales (6) | Enterobacteriaceae (6) | Escherichia (5) |
 |                      |                        | Shigella (1)    |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 103
+
 Total number of members in cluster: 6
 
 Average length of proteins in cluster: 449.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 7 (100.0%) Y 8 (100.0%) Y 21 (100.0%) H 29 (100.0%) K 54 (100.0%) N 69 (100.0%) E 81 (100.0%) H 121 (100.0%) R 156 (100.0%) K 162 (100.0%) Y 201 (100.0%) Q 204 (100.0%) T 218 (100.0%) S 229 (100.0%) E 236 (100.0%) R 237 (100.0%) H 239 (100.0%) K 242 (100.0%) Y 271 (100.0%) N 278 (100.0%) S 280 (100.0%) S 282 (100.0%) K 340 (100.0%) R 354 (100.0%) Y 362 (100.0%) Y 366 (100.0%) Y 372 (100.0%) S 375 (100.0%) R 378 (100.0%) Q 396 (100.0%) D 448 (100.0%) 
+R 7, Y 8, Y 21, H 29, K 54, N 69, E 81, H 121, R 156, K 162, Y 201, Q 204, T 218, S 229, E 236, R 237, H 239, K 242, Y 271, N 278, S 280, S 282, K 340, R 354, Y 362, Y 366, Y 372, S 375, R 378, Q 396, D 448
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family       | genus    | species                     | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------|:---------|:----------------------------|:-----------|-------------------------------------:|
-| ADI59429.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:1c       |                                    0 |
-| ADI59445.1          | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:2b       |                                    0 |
+| accession   | order            | family       | genus    | species                     | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------|:---------|:----------------------------|:-----------|-------------------------------------:|
+| ADI59429.1  | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:1c       |                                    0 |
+| ADI59445.1  | Enterobacterales | Yersiniaceae | Yersinia | Yersinia pseudotuberculosis | O:2b       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0006_103/sequences.afa)
 
@@ -10935,19 +10404,15 @@ R 7 (100.0%) Y 8 (100.0%) Y 21 (100.0%) H 29 (100.0%) K 54 (100.0%) N 69 (100.0%
 
 #### Sugars in cluster:
 
-ADI59429.1 Yersinia pseudotuberculosis O:1c:
+ADI59429.1 (Yersinia pseudotuberculosis O:1c)
 
-![](../../../csdb/images/12131.gif)
+![](../../../csdb/images/12131.gif)12131
 
-CSDB record ID: 12131
+ADI59445.1 (Yersinia pseudotuberculosis O:2b)
 
-ADI59445.1 Yersinia pseudotuberculosis O:2b:
+![](../../../csdb/images/12132.gif)12132
 
-![](../../../csdb/images/12132.gif)
-
-CSDB record ID: 12132
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -10961,23 +10426,24 @@ CSDB record ID: 12132
 | Nostocales (1)        | Aphanizomenonaceae (1)  | Aphanizomenon (1)  |
 | Oceanospirillales (1) | Endozoicomonadaceae (1) | Endozoicomonas (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 74
+
 Total number of members in cluster: 5
 
 Average length of proteins in cluster: 342.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 2 (100.0%) K 22 (100.0%) Y 23 (100.0%) S 38 (100.0%) D 45 (100.0%) D 47 (100.0%) Y 48 (100.0%) N 50 (100.0%) Y 51 (100.0%) Y 54 (100.0%) S 60 (100.0%) S 64 (100.0%) R 66 (100.0%) D 72 (100.0%) N 76 (100.0%) T 86 (100.0%) Y 92 (100.0%) K 99 (100.0%) K 105 (100.0%) Y 117 (100.0%) Y 123 (100.0%) H 125 (100.0%) D 126 (100.0%) T 128 (100.0%) Q 129 (100.0%) R 131 (100.0%) Y 144 (100.0%) Y 145 (100.0%) Y 147 (100.0%) K 152 (100.0%) S 162 (100.0%) H 166 (100.0%) S 168 (100.0%) S 194 (100.0%) S 216 (100.0%) D 218 (100.0%) Y 222 (100.0%) Y 223 (100.0%) D 228 (100.0%) Q 230 (100.0%) K 233 (100.0%) N 242 (100.0%) K 268 (100.0%) S 273 (100.0%) Q 274 (100.0%) R 289 (100.0%) S 291 (100.0%) Q 292 (100.0%) S 297 (100.0%) S 306 (100.0%) Y 320 (100.0%) S 321 (100.0%) Y 338 (100.0%) 
+Y 2, K 22, Y 23, S 38, D 45, D 47, Y 48, N 50, Y 51, Y 54, S 60, S 64, R 66, D 72, N 76, T 86, Y 92, K 99, K 105, Y 117, Y 123, H 125, D 126, T 128, Q 129, R 131, Y 144, Y 145, Y 147, K 152, S 162, H 166, S 168, S 194, S 216, D 218, Y 222, Y 223, D 228, Q 230, K 233, N 242, K 268, S 273, Q 274, R 289, S 291, Q 292, S 297, S 306, Y 320, S 321, Y 338
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ACA24829.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O105       |                                    0 |
-| AAS98031.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 11         |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ACA24829.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O105       |                                    0 |
+| AAS98031.1  | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 11         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0005_74/sequences.afa)
 
@@ -10993,13 +10459,11 @@ Y 2 (100.0%) K 22 (100.0%) Y 23 (100.0%) S 38 (100.0%) D 45 (100.0%) D 47 (100.0
 
 #### Sugars in cluster:
 
-ACA24829.1 Escherichia coli O105, AAS98031.1 Shigella boydii 11:
+ACA24829.1 (Escherichia coli O105), AAS98031.1 (Shigella boydii 11)
 
-![](../../../csdb/images/1844.gif)
+![](../../../csdb/images/1844.gif)1844
 
-CSDB record ID: 1844
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11013,22 +10477,23 @@ CSDB record ID: 1844
 |                      |                        | Shigella (1)    |
 |                      | Hafniaceae (1)         | Hafnia (1)      |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 64
+
 Total number of members in cluster: 5
 
 Average length of proteins in cluster: 415.8
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-N 105 (100.0%) E 109 (100.0%) S 113 (100.0%) R 116 (100.0%) Y 120 (100.0%) N 171 (100.0%) R 175 (100.0%) S 232 (100.0%) R 233 (100.0%) K 256 (100.0%) N 277 (100.0%) T 278 (100.0%) R 283 (100.0%) D 296 (100.0%) S 298 (100.0%) T 299 (100.0%) R 302 (100.0%) N 328 (100.0%) H 343 (100.0%) N 344 (100.0%) E 352 (100.0%) N 418 (100.0%) Y 421 (100.0%) 
+N 105, E 109, S 113, R 116, Y 120, N 171, R 175, S 232, R 233, K 256, N 277, T 278, R 283, D 296, S 298, T 299, R 302, N 328, H 343, N 344, E 352, N 418, Y 421
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01702.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O136       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01702.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O136       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0005_64/sequences.afa)
 
@@ -11044,13 +10509,11 @@ N 105 (100.0%) E 109 (100.0%) S 113 (100.0%) R 116 (100.0%) Y 120 (100.0%) N 171
 
 #### Sugars in cluster:
 
-BAQ01702.1 Escherichia coli O136:
+BAQ01702.1 (Escherichia coli O136)
 
-![](../../../csdb/images/1878.gif)
+![](../../../csdb/images/1878.gif)1878
 
-CSDB record ID: 1878
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11064,22 +10527,23 @@ CSDB record ID: 1878
 | Deferribacterales (1) | Deferribacteraceae (1) | Geovibrio (1)    |
 | Flavobacteriales (1)  | Flavobacteriaceae (1)  | Cellulophaga (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 202
+
 Total number of members in cluster: 5
 
 Average length of proteins in cluster: 355.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 9 (100.0%) K 49 (100.0%) D 60 (100.0%) E 61 (100.0%) Y 64 (100.0%) N 66 (100.0%) Y 77 (100.0%) N 94 (100.0%) Y 135 (100.0%) K 142 (100.0%) E 143 (100.0%) S 146 (100.0%) R 176 (100.0%) E 178 (100.0%) K 195 (100.0%) N 196 (100.0%) Y 201 (100.0%) K 224 (100.0%) S 229 (100.0%) R 231 (100.0%) D 240 (100.0%) S 257 (100.0%) N 267 (100.0%) S 270 (100.0%) N 289 (100.0%) T 323 (100.0%) H 324 (100.0%) S 325 (100.0%) Y 327 (100.0%) R 328 (100.0%) Y 329 (100.0%) N 331 (100.0%) N 359 (100.0%) 
+S 9, K 49, D 60, E 61, Y 64, N 66, Y 77, N 94, Y 135, K 142, E 143, S 146, R 176, E 178, K 195, N 196, Y 201, K 224, S 229, R 231, D 240, S 257, N 267, S 270, N 289, T 323, H 324, S 325, Y 327, R 328, Y 329, N 331, N 359
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ADN43838.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O115       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ADN43838.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O115       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0005_202/sequences.afa)
 
@@ -11095,13 +10559,11 @@ S 9 (100.0%) K 49 (100.0%) D 60 (100.0%) E 61 (100.0%) Y 64 (100.0%) N 66 (100.0
 
 #### Sugars in cluster:
 
-ADN43838.1 Escherichia coli O115:
+ADN43838.1 (Escherichia coli O115)
 
-![](../../../csdb/images/1855.gif)
+![](../../../csdb/images/1855.gif)1855
 
-CSDB record ID: 1855
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11113,22 +10575,23 @@ CSDB record ID: 1855
 |                      | Erwiniaceae (1)        | Erwinia (1)     |
 |                      | Morganellaceae (1)     | Providencia (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 137
+
 Total number of members in cluster: 5
 
 Average length of proteins in cluster: 324.4
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-R 133 (100.0%) Q 134 (100.0%) H 165 (100.0%) S 166 (100.0%) Y 211 (100.0%) R 215 (100.0%) Q 216 (100.0%) Y 220 (100.0%) Y 243 (100.0%) Y 270 (100.0%) R 280 (100.0%) 
+R 133, Q 134, H 165, S 166, Y 211, R 215, Q 216, Y 220, Y 243, Y 270, R 280
 
 #### Seeds in cluster:
 
-| protein_accession   | order        | family        | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------------------------------------:|
-| AHB32614.2          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O20        |                                    0 |
+| accession   | order        | family        | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------------------------------------:|
+| AHB32614.2  | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O20        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0005_137/sequences.afa)
 
@@ -11144,7 +10607,7 @@ R 133 (100.0%) Q 134 (100.0%) H 165 (100.0%) S 166 (100.0%) Y 211 (100.0%) R 215
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11155,23 +10618,24 @@ R 133 (100.0%) Q 134 (100.0%) H 165 (100.0%) S 166 (100.0%) Y 211 (100.0%) R 215
 | Moraxellales (5) | Moraxellaceae (5) | Acinetobacter (4) |
 |                  |                   | Psychrobacter (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 100
+
 Total number of members in cluster: 5
 
 Average length of proteins in cluster: 386.4
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-N 95 (100.0%) S 121 (100.0%) Q 124 (100.0%) S 170 (100.0%) Q 173 (100.0%) R 181 (100.0%) N 188 (100.0%) Q 190 (100.0%) S 209 (100.0%) T 232 (100.0%) S 234 (100.0%) R 303 (100.0%) S 309 (100.0%) N 333 (100.0%) S 341 (100.0%) Y 342 (100.0%) Q 378 (100.0%) S 381 (100.0%) Y 382 (100.0%) Y 383 (100.0%) 
+N 95, S 121, Q 124, S 170, Q 173, R 181, N 188, Q 190, S 209, T 232, S 234, R 303, S 309, N 333, S 341, Y 342, Q 378, S 381, Y 382, Y 383
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| WP_074526664.1      | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O188       |                                    0 |
-| ABD19779.1          | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 16         |                                    0 |
+| accession      | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:---------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| WP_074526664.1 | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O188       |                                    0 |
+| ABD19779.1     | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella boydii  | 16         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0005_100/sequences.afa)
 
@@ -11187,13 +10651,11 @@ N 95 (100.0%) S 121 (100.0%) Q 124 (100.0%) S 170 (100.0%) Q 173 (100.0%) R 181 
 
 #### Sugars in cluster:
 
-ABD19779.1 Shigella boydii 16:
+ABD19779.1 (Shigella boydii 16)
 
-![](../../../csdb/images/3660.gif)
+![](../../../csdb/images/3660.gif)3660
 
-CSDB record ID: 3660
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11208,22 +10670,23 @@ CSDB record ID: 3660
 | Vibrionales (2)      | Vibrionaceae (2)       | Aliivibrio (1)  |
 |                      |                        | Vibrio (1)      |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 92
+
 Total number of members in cluster: 4
 
 Average length of proteins in cluster: 399.5
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-N 16 (100.0%) S 28 (100.0%) S 46 (100.0%) N 54 (100.0%) Y 65 (100.0%) Y 67 (100.0%) Y 71 (100.0%) N 77 (100.0%) R 78 (100.0%) E 79 (100.0%) Y 80 (100.0%) E 86 (100.0%) D 90 (100.0%) D 91 (100.0%) T 92 (100.0%) R 94 (100.0%) Y 95 (100.0%) D 116 (100.0%) S 119 (100.0%) E 121 (100.0%) R 125 (100.0%) N 139 (100.0%) Q 145 (100.0%) S 161 (100.0%) R 163 (100.0%) S 177 (100.0%) Y 178 (100.0%) T 179 (100.0%) Y 182 (100.0%) T 183 (100.0%) H 186 (100.0%) R 189 (100.0%) Q 190 (100.0%) S 195 (100.0%) Y 200 (100.0%) R 209 (100.0%) S 219 (100.0%) H 220 (100.0%) E 231 (100.0%) S 242 (100.0%) Y 257 (100.0%) K 266 (100.0%) Y 270 (100.0%) N 275 (100.0%) N 277 (100.0%) Y 278 (100.0%) K 282 (100.0%) Y 286 (100.0%) K 299 (100.0%) Y 322 (100.0%) D 332 (100.0%) N 335 (100.0%) R 336 (100.0%) Y 337 (100.0%) S 342 (100.0%) R 355 (100.0%) K 370 (100.0%) D 379 (100.0%) N 381 (100.0%) Y 383 (100.0%) N 395 (100.0%) D 398 (100.0%) Y 403 (100.0%) R 406 (100.0%) 
+N 16, S 28, S 46, N 54, Y 65, Y 67, Y 71, N 77, R 78, E 79, Y 80, E 86, D 90, D 91, T 92, R 94, Y 95, D 116, S 119, E 121, R 125, N 139, Q 145, S 161, R 163, S 177, Y 178, T 179, Y 182, T 183, H 186, R 189, Q 190, S 195, Y 200, R 209, S 219, H 220, E 231, S 242, Y 257, K 266, Y 270, N 275, N 277, Y 278, K 282, Y 286, K 299, Y 322, D 332, N 335, R 336, Y 337, S 342, R 355, K 370, D 379, N 381, Y 383, N 395, D 398, Y 403, R 406
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ00893.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O41        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ00893.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O41        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_92/sequences.afa)
 
@@ -11239,13 +10702,11 @@ N 16 (100.0%) S 28 (100.0%) S 46 (100.0%) N 54 (100.0%) Y 65 (100.0%) Y 67 (100.
 
 #### Sugars in cluster:
 
-BAQ00893.1 Escherichia coli O41:
+BAQ00893.1 (Escherichia coli O41)
 
-![](../../../csdb/images/1548.gif)
+![](../../../csdb/images/1548.gif)1548
 
-CSDB record ID: 1548
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11258,21 +10719,22 @@ CSDB record ID: 1548
 | Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (3) |
 | Aeromonadales (1)    | Aeromonadaceae (1)     | Aeromonas (1)   |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 87
+
 Total number of members in cluster: 4
 
 Average length of proteins in cluster: 429.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 28 (100.0%) N 36 (100.0%) Y 38 (100.0%) Y 41 (100.0%) D 47 (100.0%) R 71 (100.0%) S 73 (100.0%) N 161 (100.0%) S 165 (100.0%) Y 174 (100.0%) R 176 (100.0%) R 177 (100.0%) E 179 (100.0%) R 181 (100.0%) S 188 (100.0%) Y 192 (100.0%) N 199 (100.0%) Y 230 (100.0%) K 235 (100.0%) R 253 (100.0%) E 278 (100.0%) S 285 (100.0%) D 289 (100.0%) Y 290 (100.0%) R 293 (100.0%) R 294 (100.0%) E 337 (100.0%) N 346 (100.0%) N 348 (100.0%) N 350 (100.0%) Y 364 (100.0%) T 367 (100.0%) D 379 (100.0%) Y 382 (100.0%) Y 397 (100.0%) E 403 (100.0%) Q 404 (100.0%) T 408 (100.0%) S 412 (100.0%) S 413 (100.0%) 
+Y 28, N 36, Y 38, Y 41, D 47, R 71, S 73, N 161, S 165, Y 174, R 176, R 177, E 179, R 181, S 188, Y 192, N 199, Y 230, K 235, R 253, E 278, S 285, D 289, Y 290, R 293, R 294, E 337, N 346, N 348, N 350, Y 364, T 367, D 379, Y 382, Y 397, E 403, Q 404, T 408, S 412, S 413
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
-|---------------------|---------|----------|---------|-----------|------------|--------------------------------------|
+| accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
+|-------------|---------|----------|---------|-----------|------------|--------------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_87/sequences.afa)
 
@@ -11288,7 +10750,7 @@ Y 28 (100.0%) N 36 (100.0%) Y 38 (100.0%) Y 41 (100.0%) D 47 (100.0%) R 71 (100.
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11300,22 +10762,23 @@ Y 28 (100.0%) N 36 (100.0%) Y 38 (100.0%) Y 41 (100.0%) D 47 (100.0%) R 71 (100.
 | Pseudomonadales (1)  | Pseudomonadaceae (1)   | Pseudomonas (1)        |
 | Burkholderiales (1)  | Alcaligenaceae (1)     | Corticimicrobacter (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 204
+
 Total number of members in cluster: 4
 
 Average length of proteins in cluster: 370.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 22 (100.0%) K 27 (100.0%) S 75 (100.0%) N 79 (100.0%) D 83 (100.0%) D 109 (100.0%) T 120 (100.0%) N 128 (100.0%) N 143 (100.0%) N 145 (100.0%) S 146 (100.0%) Y 151 (100.0%) S 158 (100.0%) Y 167 (100.0%) T 189 (100.0%) S 192 (100.0%) N 193 (100.0%) S 194 (100.0%) R 195 (100.0%) S 200 (100.0%) K 220 (100.0%) K 221 (100.0%) D 253 (100.0%) K 258 (100.0%) K 262 (100.0%) R 273 (100.0%) N 283 (100.0%) R 291 (100.0%) D 300 (100.0%) H 304 (100.0%) T 306 (100.0%) S 309 (100.0%) Q 313 (100.0%) S 318 (100.0%) Y 342 (100.0%) S 352 (100.0%) 
+S 22, K 27, S 75, N 79, D 83, D 109, T 120, N 128, N 143, N 145, S 146, Y 151, S 158, Y 167, T 189, S 192, N 193, S 194, R 195, S 200, K 220, K 221, D 253, K 258, K 262, R 273, N 283, R 291, D 300, H 304, T 306, S 309, Q 313, S 318, Y 342, S 352
 
 #### Seeds in cluster:
 
-| protein_accession   | order        | family        | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------------------------------------:|
-| AHB32386.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O13        |                                    0 |
+| accession   | order        | family        | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------------------------------------:|
+| AHB32386.1  | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O13        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_204/sequences.afa)
 
@@ -11331,7 +10794,7 @@ S 22 (100.0%) K 27 (100.0%) S 75 (100.0%) N 79 (100.0%) D 83 (100.0%) D 109 (100
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11344,24 +10807,25 @@ S 22 (100.0%) K 27 (100.0%) S 75 (100.0%) N 79 (100.0%) D 83 (100.0%) D 109 (100
 | Moraxellales (3)  | Moraxellaceae (3)  | Acinetobacter (3) |
 | Rhodocyclales (1) | Rhodocyclaceae (1) | Aromatoleum (1)   |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 200
+
 Total number of members in cluster: 4
 
 Average length of proteins in cluster: 440.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-N 2 (100.0%) N 8 (100.0%) Y 19 (100.0%) K 24 (100.0%) S 25 (100.0%) K 26 (100.0%) K 27 (100.0%) R 30 (100.0%) Y 35 (100.0%) E 44 (100.0%) S 45 (100.0%) H 46 (100.0%) T 52 (100.0%) T 53 (100.0%) S 54 (100.0%) N 56 (100.0%) T 59 (100.0%) S 60 (100.0%) E 61 (100.0%) N 65 (100.0%) E 67 (100.0%) D 69 (100.0%) Y 70 (100.0%) N 71 (100.0%) T 72 (100.0%) K 73 (100.0%) T 74 (100.0%) E 75 (100.0%) T 78 (100.0%) S 79 (100.0%) N 81 (100.0%) S 91 (100.0%) S 96 (100.0%) T 97 (100.0%) T 99 (100.0%) Y 100 (100.0%) K 101 (100.0%) S 102 (100.0%) S 103 (100.0%) S 104 (100.0%) Y 105 (100.0%) D 106 (100.0%) T 108 (100.0%) E 110 (100.0%) N 111 (100.0%) K 112 (100.0%) S 113 (100.0%) R 116 (100.0%) S 118 (100.0%) S 124 (100.0%) Y 132 (100.0%) S 141 (100.0%) S 142 (100.0%) N 143 (100.0%) Y 146 (100.0%) S 147 (100.0%) Y 149 (100.0%) N 151 (100.0%) N 153 (100.0%) K 154 (100.0%) S 156 (100.0%) Y 159 (100.0%) D 162 (100.0%) T 167 (100.0%) Y 169 (100.0%) S 170 (100.0%) S 174 (100.0%) K 176 (100.0%) N 177 (100.0%) K 178 (100.0%) K 179 (100.0%) K 180 (100.0%) Y 192 (100.0%) T 197 (100.0%) R 198 (100.0%) E 200 (100.0%) K 204 (100.0%) Y 211 (100.0%) Y 212 (100.0%) S 216 (100.0%) K 217 (100.0%) N 218 (100.0%) H 220 (100.0%) K 221 (100.0%) Y 222 (100.0%) R 224 (100.0%) K 226 (100.0%) N 227 (100.0%) S 232 (100.0%) S 241 (100.0%) Q 243 (100.0%) Y 244 (100.0%) S 245 (100.0%) S 247 (100.0%) R 249 (100.0%) D 250 (100.0%) N 251 (100.0%) E 253 (100.0%) S 256 (100.0%) N 257 (100.0%) T 260 (100.0%) T 261 (100.0%) K 264 (100.0%) Q 265 (100.0%) Q 266 (100.0%) S 269 (100.0%) N 271 (100.0%) K 278 (100.0%) D 279 (100.0%) K 280 (100.0%) N 281 (100.0%) N 282 (100.0%) S 283 (100.0%) S 286 (100.0%) E 287 (100.0%) S 288 (100.0%) S 292 (100.0%) Y 295 (100.0%) D 296 (100.0%) S 297 (100.0%) S 300 (100.0%) N 303 (100.0%) S 304 (100.0%) Q 309 (100.0%) S 310 (100.0%) N 311 (100.0%) N 313 (100.0%) S 314 (100.0%) E 316 (100.0%) E 319 (100.0%) N 320 (100.0%) S 321 (100.0%) S 323 (100.0%) S 325 (100.0%) H 326 (100.0%) K 327 (100.0%) S 329 (100.0%) Y 330 (100.0%) E 332 (100.0%) D 333 (100.0%) S 335 (100.0%) Y 337 (100.0%) Y 341 (100.0%) E 350 (100.0%) Y 352 (100.0%) Y 357 (100.0%) T 367 (100.0%) Y 368 (100.0%) S 372 (100.0%) E 375 (100.0%) K 376 (100.0%) K 379 (100.0%) K 380 (100.0%) S 381 (100.0%) N 384 (100.0%) T 392 (100.0%) K 394 (100.0%) Y 397 (100.0%) S 398 (100.0%) R 400 (100.0%) E 402 (100.0%) S 405 (100.0%) S 408 (100.0%) D 410 (100.0%) R 411 (100.0%) T 420 (100.0%) S 422 (100.0%) Y 423 (100.0%) K 424 (100.0%) T 429 (100.0%) S 430 (100.0%) N 431 (100.0%) K 432 (100.0%) K 433 (100.0%) S 435 (100.0%) K 437 (100.0%) N 438 (100.0%) E 439 (100.0%) 
+N 2, N 8, Y 19, K 24, S 25, K 26, K 27, R 30, Y 35, E 44, S 45, H 46, T 52, T 53, S 54, N 56, T 59, S 60, E 61, N 65, E 67, D 69, Y 70, N 71, T 72, K 73, T 74, E 75, T 78, S 79, N 81, S 91, S 96, T 97, T 99, Y 100, K 101, S 102, S 103, S 104, Y 105, D 106, T 108, E 110, N 111, K 112, S 113, R 116, S 118, S 124, Y 132, S 141, S 142, N 143, Y 146, S 147, Y 149, N 151, N 153, K 154, S 156, Y 159, D 162, T 167, Y 169, S 170, S 174, K 176, N 177, K 178, K 179, K 180, Y 192, T 197, R 198, E 200, K 204, Y 211, Y 212, S 216, K 217, N 218, H 220, K 221, Y 222, R 224, K 226, N 227, S 232, S 241, Q 243, Y 244, S 245, S 247, R 249, D 250, N 251, E 253, S 256, N 257, T 260, T 261, K 264, Q 265, Q 266, S 269, N 271, K 278, D 279, K 280, N 281, N 282, S 283, S 286, E 287, S 288, S 292, Y 295, D 296, S 297, S 300, N 303, S 304, Q 309, S 310, N 311, N 313, S 314, E 316, E 319, N 320, S 321, S 323, S 325, H 326, K 327, S 329, Y 330, E 332, D 333, S 335, Y 337, Y 341, E 350, Y 352, Y 357, T 367, Y 368, S 372, E 375, K 376, K 379, K 380, S 381, N 384, T 392, K 394, Y 397, S 398, R 400, E 402, S 405, S 408, D 410, R 411, T 420, S 422, Y 423, K 424, T 429, S 430, N 431, K 432, K 433, S 435, K 437, N 438, E 439
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ACH97132.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O107       |                                    0 |
-| ACH97143.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O117       |                                    0 |
-| ABE98413.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O117       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ACH97132.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O107       |                                    0 |
+| ACH97143.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O117       |                                    0 |
+| ABE98413.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O117       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_200/sequences.afa)
 
@@ -11377,19 +10841,15 @@ N 2 (100.0%) N 8 (100.0%) Y 19 (100.0%) K 24 (100.0%) S 25 (100.0%) K 26 (100.0%
 
 #### Sugars in cluster:
 
-ACH97132.1 Escherichia coli O107:
+ACH97132.1 (Escherichia coli O107)
 
-![](../../../csdb/images/1846.gif)
+![](../../../csdb/images/1846.gif)1846
 
-CSDB record ID: 1846
+ABE98413.1 (Escherichia coli O117), ACH97143.1 (Escherichia coli O117)
 
-ACH97143.1 Escherichia coli O117, ABE98413.1 Escherichia coli O117:
+![](../../../csdb/images/1857.gif)1857
 
-![](../../../csdb/images/1857.gif)
-
-CSDB record ID: 1857
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11399,23 +10859,24 @@ CSDB record ID: 1857
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (4) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 192
+
 Total number of members in cluster: 4
 
 Average length of proteins in cluster: 362.8
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-K 1 (100.0%) Y 6 (100.0%) N 7 (100.0%) N 11 (100.0%) S 15 (100.0%) Y 21 (100.0%) K 24 (100.0%) N 27 (100.0%) H 49 (100.0%) Y 53 (100.0%) N 56 (100.0%) K 59 (100.0%) Y 90 (100.0%) N 97 (100.0%) K 102 (100.0%) H 104 (100.0%) R 131 (100.0%) R 137 (100.0%) H 144 (100.0%) N 146 (100.0%) S 147 (100.0%) Y 153 (100.0%) T 156 (100.0%) R 167 (100.0%) K 169 (100.0%) Y 173 (100.0%) N 180 (100.0%) D 188 (100.0%) S 189 (100.0%) R 190 (100.0%) T 191 (100.0%) S 192 (100.0%) S 196 (100.0%) D 207 (100.0%) S 228 (100.0%) E 240 (100.0%) N 249 (100.0%) K 250 (100.0%) T 253 (100.0%) N 254 (100.0%) R 255 (100.0%) S 258 (100.0%) E 265 (100.0%) Y 266 (100.0%) D 289 (100.0%) S 290 (100.0%) Y 292 (100.0%) R 314 (100.0%) K 316 (100.0%) E 324 (100.0%) S 330 (100.0%) S 334 (100.0%) E 338 (100.0%) S 339 (100.0%) Y 340 (100.0%) D 353 (100.0%) R 358 (100.0%) K 359 (100.0%) E 360 (100.0%) 
+K 1, Y 6, N 7, N 11, S 15, Y 21, K 24, N 27, H 49, Y 53, N 56, K 59, Y 90, N 97, K 102, H 104, R 131, R 137, H 144, N 146, S 147, Y 153, T 156, R 167, K 169, Y 173, N 180, D 188, S 189, R 190, T 191, S 192, S 196, D 207, S 228, E 240, N 249, K 250, T 253, N 254, R 255, S 258, E 265, Y 266, D 289, S 290, Y 292, R 314, K 316, E 324, S 330, S 334, E 338, S 339, Y 340, D 353, R 358, K 359, E 360
 
 #### Seeds in cluster:
 
-| protein_accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
-| CAI34544.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 43         |                                    0 |
-| CAI34641.1          | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 47A        |                                    0 |
+| accession   | order           | family           | genus         | species                  | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:----------------|:-----------------|:--------------|:-------------------------|:-----------|-------------------------------------:|
+| CAI34544.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 43         |                                    0 |
+| CAI34641.1  | Lactobacillales | Streptococcaceae | Streptococcus | Streptococcus pneumoniae | 47A        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_192/sequences.afa)
 
@@ -11431,13 +10892,11 @@ K 1 (100.0%) Y 6 (100.0%) N 7 (100.0%) N 11 (100.0%) S 15 (100.0%) Y 21 (100.0%)
 
 #### Sugars in cluster:
 
-CAI34641.1 Streptococcus pneumoniae 47A:
+CAI34641.1 (Streptococcus pneumoniae 47A)
 
-![](../../../csdb/images/25006.gif)
+![](../../../csdb/images/25006.gif)25006
 
-CSDB record ID: 25006
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11447,22 +10906,23 @@ CSDB record ID: 25006
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (4) | Streptococcaceae (4) | Streptococcus (4) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 191
+
 Total number of members in cluster: 4
 
 Average length of proteins in cluster: 403.5
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-H 17 (100.0%) Y 26 (100.0%) K 33 (100.0%) R 37 (100.0%) K 38 (100.0%) K 39 (100.0%) T 41 (100.0%) H 42 (100.0%) T 45 (100.0%) S 52 (100.0%) S 56 (100.0%) Y 59 (100.0%) H 62 (100.0%) T 64 (100.0%) Y 68 (100.0%) E 69 (100.0%) S 71 (100.0%) Y 72 (100.0%) E 73 (100.0%) S 74 (100.0%) Y 75 (100.0%) Y 78 (100.0%) N 82 (100.0%) S 84 (100.0%) T 92 (100.0%) D 93 (100.0%) R 97 (100.0%) R 98 (100.0%) N 99 (100.0%) K 101 (100.0%) N 102 (100.0%) Q 105 (100.0%) N 109 (100.0%) K 117 (100.0%) T 122 (100.0%) Y 126 (100.0%) Y 131 (100.0%) E 133 (100.0%) K 135 (100.0%) H 136 (100.0%) T 138 (100.0%) D 140 (100.0%) K 146 (100.0%) R 149 (100.0%) R 151 (100.0%) E 152 (100.0%) R 153 (100.0%) E 156 (100.0%) E 157 (100.0%) Q 158 (100.0%) Y 160 (100.0%) S 161 (100.0%) T 162 (100.0%) T 164 (100.0%) N 165 (100.0%) N 166 (100.0%) S 171 (100.0%) S 172 (100.0%) Y 177 (100.0%) T 179 (100.0%) S 183 (100.0%) K 185 (100.0%) K 186 (100.0%) N 188 (100.0%) Y 190 (100.0%) Y 191 (100.0%) Y 192 (100.0%) T 195 (100.0%) Y 202 (100.0%) N 203 (100.0%) T 206 (100.0%) T 208 (100.0%) R 209 (100.0%) S 216 (100.0%) Y 223 (100.0%) N 226 (100.0%) T 227 (100.0%) N 228 (100.0%) K 229 (100.0%) S 234 (100.0%) K 235 (100.0%) S 240 (100.0%) T 244 (100.0%) K 258 (100.0%) D 259 (100.0%) E 262 (100.0%) R 263 (100.0%) D 264 (100.0%) E 265 (100.0%) S 266 (100.0%) N 270 (100.0%) N 272 (100.0%) K 273 (100.0%) D 276 (100.0%) N 277 (100.0%) Y 278 (100.0%) S 280 (100.0%) Y 281 (100.0%) T 282 (100.0%) Q 284 (100.0%) D 290 (100.0%) Y 292 (100.0%) R 296 (100.0%) E 297 (100.0%) K 298 (100.0%) T 300 (100.0%) N 302 (100.0%) D 304 (100.0%) S 307 (100.0%) S 309 (100.0%) E 311 (100.0%) N 314 (100.0%) K 315 (100.0%) T 317 (100.0%) S 319 (100.0%) N 320 (100.0%) S 326 (100.0%) K 327 (100.0%) S 329 (100.0%) E 330 (100.0%) S 332 (100.0%) H 333 (100.0%) K 336 (100.0%) K 338 (100.0%) D 339 (100.0%) N 341 (100.0%) T 344 (100.0%) Y 346 (100.0%) Y 350 (100.0%) Y 353 (100.0%) 
+H 17, Y 26, K 33, R 37, K 38, K 39, T 41, H 42, T 45, S 52, S 56, Y 59, H 62, T 64, Y 68, E 69, S 71, Y 72, E 73, S 74, Y 75, Y 78, N 82, S 84, T 92, D 93, R 97, R 98, N 99, K 101, N 102, Q 105, N 109, K 117, T 122, Y 126, Y 131, E 133, K 135, H 136, T 138, D 140, K 146, R 149, R 151, E 152, R 153, E 156, E 157, Q 158, Y 160, S 161, T 162, T 164, N 165, N 166, S 171, S 172, Y 177, T 179, S 183, K 185, K 186, N 188, Y 190, Y 191, Y 192, T 195, Y 202, N 203, T 206, T 208, R 209, S 216, Y 223, N 226, T 227, N 228, K 229, S 234, K 235, S 240, T 244, K 258, D 259, E 262, R 263, D 264, E 265, S 266, N 270, N 272, K 273, D 276, N 277, Y 278, S 280, Y 281, T 282, Q 284, D 290, Y 292, R 296, E 297, K 298, T 300, N 302, D 304, S 307, S 309, E 311, N 314, K 315, T 317, S 319, N 320, S 326, K 327, S 329, E 330, S 332, H 333, K 336, K 338, D 339, N 341, T 344, Y 346, Y 350, Y 353
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| AAZ85718.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O139       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| AAZ85718.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O139       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_191/sequences.afa)
 
@@ -11478,13 +10938,11 @@ H 17 (100.0%) Y 26 (100.0%) K 33 (100.0%) R 37 (100.0%) K 38 (100.0%) K 39 (100.
 
 #### Sugars in cluster:
 
-AAZ85718.1 Escherichia coli O139:
+AAZ85718.1 (Escherichia coli O139)
 
-![](../../../csdb/images/1881.gif)
+![](../../../csdb/images/1881.gif)1881
 
-CSDB record ID: 1881
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11496,22 +10954,23 @@ CSDB record ID: 1881
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (4) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 184
+
 Total number of members in cluster: 4
 
 Average length of proteins in cluster: 333.2
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-N 7 (100.0%) S 20 (100.0%) K 26 (100.0%) D 28 (100.0%) Y 29 (100.0%) D 33 (100.0%) Y 37 (100.0%) T 38 (100.0%) Y 41 (100.0%) D 42 (100.0%) T 44 (100.0%) Y 45 (100.0%) E 47 (100.0%) E 52 (100.0%) Y 57 (100.0%) T 59 (100.0%) H 63 (100.0%) Y 64 (100.0%) Y 69 (100.0%) K 84 (100.0%) R 89 (100.0%) K 90 (100.0%) S 95 (100.0%) Y 96 (100.0%) Y 104 (100.0%) Y 108 (100.0%) H 112 (100.0%) T 115 (100.0%) Q 116 (100.0%) R 118 (100.0%) Y 127 (100.0%) Y 131 (100.0%) Y 133 (100.0%) H 153 (100.0%) Y 154 (100.0%) S 155 (100.0%) Y 168 (100.0%) R 169 (100.0%) Y 188 (100.0%) Y 195 (100.0%) N 198 (100.0%) E 199 (100.0%) K 200 (100.0%) Y 204 (100.0%) Y 206 (100.0%) S 207 (100.0%) S 209 (100.0%) S 211 (100.0%) N 222 (100.0%) N 224 (100.0%) S 239 (100.0%) R 240 (100.0%) K 243 (100.0%) E 248 (100.0%) K 253 (100.0%) Y 254 (100.0%) Q 256 (100.0%) S 258 (100.0%) Y 277 (100.0%) R 278 (100.0%) E 281 (100.0%) R 284 (100.0%) Y 287 (100.0%) K 299 (100.0%) N 300 (100.0%) S 315 (100.0%) T 322 (100.0%) R 324 (100.0%) S 327 (100.0%) 
+N 7, S 20, K 26, D 28, Y 29, D 33, Y 37, T 38, Y 41, D 42, T 44, Y 45, E 47, E 52, Y 57, T 59, H 63, Y 64, Y 69, K 84, R 89, K 90, S 95, Y 96, Y 104, Y 108, H 112, T 115, Q 116, R 118, Y 127, Y 131, Y 133, H 153, Y 154, S 155, Y 168, R 169, Y 188, Y 195, N 198, E 199, K 200, Y 204, Y 206, S 207, S 209, S 211, N 222, N 224, S 239, R 240, K 243, E 248, K 253, Y 254, Q 256, S 258, Y 277, R 278, E 281, R 284, Y 287, K 299, N 300, S 315, T 322, R 324, S 327
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ADC54929.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O1         |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ADC54929.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O1         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_184/sequences.afa)
 
@@ -11527,13 +10986,11 @@ N 7 (100.0%) S 20 (100.0%) K 26 (100.0%) D 28 (100.0%) Y 29 (100.0%) D 33 (100.0
 
 #### Sugars in cluster:
 
-ADC54929.1 Escherichia coli O1:
+ADC54929.1 (Escherichia coli O1)
 
-![](../../../csdb/images/7222.gif)
+![](../../../csdb/images/7222.gif)7222
 
-CSDB record ID: 7222
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11544,22 +11001,23 @@ CSDB record ID: 7222
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (3) |
 |                      |                        | Citrobacter (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 159
+
 Total number of members in cluster: 4
 
 Average length of proteins in cluster: 319.8
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 33 (100.0%) S 35 (100.0%) D 44 (100.0%) T 45 (100.0%) Y 48 (100.0%) N 51 (100.0%) D 58 (100.0%) Y 62 (100.0%) E 65 (100.0%) N 107 (100.0%) N 125 (100.0%) R 131 (100.0%) Q 132 (100.0%) Y 133 (100.0%) K 151 (100.0%) S 156 (100.0%) S 163 (100.0%) S 166 (100.0%) H 167 (100.0%) R 231 (100.0%) K 232 (100.0%) Y 236 (100.0%) S 262 (100.0%) S 288 (100.0%) N 297 (100.0%) R 303 (100.0%) S 312 (100.0%) 
+Y 33, S 35, D 44, T 45, Y 48, N 51, D 58, Y 62, E 65, N 107, N 125, R 131, Q 132, Y 133, K 151, S 156, S 163, S 166, H 167, R 231, K 232, Y 236, S 262, S 288, N 297, R 303, S 312
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus      | species             | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------|-------------------------------------:|
-| AFW04735.1          | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O63        |                                    0 |
+| accession   | order            | family             | genus      | species             | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:-----------|:--------------------|:-----------|-------------------------------------:|
+| AFW04735.1  | Enterobacterales | Enterobacteriaceae | Salmonella | Salmonella enterica | O63        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_159/sequences.afa)
 
@@ -11575,7 +11033,7 @@ Y 33 (100.0%) S 35 (100.0%) D 44 (100.0%) T 45 (100.0%) Y 48 (100.0%) N 51 (100.
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11587,23 +11045,24 @@ Y 33 (100.0%) S 35 (100.0%) D 44 (100.0%) T 45 (100.0%) Y 48 (100.0%) N 51 (100.
 | Aeromonadales (2)    | Aeromonadaceae (2)     | Tolumonas (1)   |
 |                      |                        | Aeromonas (1)   |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 131
+
 Total number of members in cluster: 4
 
 Average length of proteins in cluster: 380.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-T 1 (100.0%) Y 2 (100.0%) T 4 (100.0%) K 16 (100.0%) R 17 (100.0%) T 19 (100.0%) S 21 (100.0%) Q 22 (100.0%) S 23 (100.0%) K 24 (100.0%) K 25 (100.0%) N 26 (100.0%) N 32 (100.0%) Y 42 (100.0%) N 45 (100.0%) E 46 (100.0%) Q 47 (100.0%) Y 48 (100.0%) S 53 (100.0%) T 55 (100.0%) T 56 (100.0%) S 68 (100.0%) T 70 (100.0%) Y 71 (100.0%) R 76 (100.0%) S 77 (100.0%) R 79 (100.0%) S 83 (100.0%) T 86 (100.0%) E 90 (100.0%) S 91 (100.0%) K 92 (100.0%) Y 93 (100.0%) Y 95 (100.0%) N 102 (100.0%) S 105 (100.0%) Y 114 (100.0%) N 115 (100.0%) N 116 (100.0%) H 117 (100.0%) S 119 (100.0%) K 121 (100.0%) R 124 (100.0%) E 125 (100.0%) D 129 (100.0%) S 131 (100.0%) S 133 (100.0%) S 140 (100.0%) S 144 (100.0%) Y 149 (100.0%) R 152 (100.0%) H 153 (100.0%) E 154 (100.0%) N 155 (100.0%) K 156 (100.0%) K 157 (100.0%) N 158 (100.0%) Y 159 (100.0%) Y 161 (100.0%) T 164 (100.0%) S 167 (100.0%) S 174 (100.0%) T 175 (100.0%) S 176 (100.0%) K 177 (100.0%) Y 186 (100.0%) N 191 (100.0%) S 192 (100.0%) Y 193 (100.0%) S 195 (100.0%) K 196 (100.0%) K 197 (100.0%) K 198 (100.0%) Y 202 (100.0%) S 213 (100.0%) S 214 (100.0%) K 219 (100.0%) S 221 (100.0%) S 222 (100.0%) D 223 (100.0%) E 225 (100.0%) K 227 (100.0%) S 230 (100.0%) D 234 (100.0%) T 235 (100.0%) R 237 (100.0%) Y 239 (100.0%) S 242 (100.0%) N 248 (100.0%) Y 250 (100.0%) E 252 (100.0%) K 253 (100.0%) N 254 (100.0%) T 256 (100.0%) E 259 (100.0%) N 260 (100.0%) Y 264 (100.0%) K 267 (100.0%) E 268 (100.0%) T 272 (100.0%) T 273 (100.0%) K 274 (100.0%) K 278 (100.0%) T 279 (100.0%) D 280 (100.0%) N 286 (100.0%) D 291 (100.0%) T 292 (100.0%) N 293 (100.0%) Y 295 (100.0%) T 296 (100.0%) Y 302 (100.0%) Q 303 (100.0%) S 304 (100.0%) Y 308 (100.0%) Y 320 (100.0%) Y 321 (100.0%) S 326 (100.0%) R 328 (100.0%) Q 329 (100.0%) N 330 (100.0%) Y 336 (100.0%) Q 337 (100.0%) T 338 (100.0%) Q 350 (100.0%) E 351 (100.0%) H 352 (100.0%) Y 353 (100.0%) S 356 (100.0%) K 358 (100.0%) H 360 (100.0%) Y 363 (100.0%) R 373 (100.0%) K 374 (100.0%) E 377 (100.0%) Y 378 (100.0%) E 379 (100.0%) 
+T 1, Y 2, T 4, K 16, R 17, T 19, S 21, Q 22, S 23, K 24, K 25, N 26, N 32, Y 42, N 45, E 46, Q 47, Y 48, S 53, T 55, T 56, S 68, T 70, Y 71, R 76, S 77, R 79, S 83, T 86, E 90, S 91, K 92, Y 93, Y 95, N 102, S 105, Y 114, N 115, N 116, H 117, S 119, K 121, R 124, E 125, D 129, S 131, S 133, S 140, S 144, Y 149, R 152, H 153, E 154, N 155, K 156, K 157, N 158, Y 159, Y 161, T 164, S 167, S 174, T 175, S 176, K 177, Y 186, N 191, S 192, Y 193, S 195, K 196, K 197, K 198, Y 202, S 213, S 214, K 219, S 221, S 222, D 223, E 225, K 227, S 230, D 234, T 235, R 237, Y 239, S 242, N 248, Y 250, E 252, K 253, N 254, T 256, E 259, N 260, Y 264, K 267, E 268, T 272, T 273, K 274, K 278, T 279, D 280, N 286, D 291, T 292, N 293, Y 295, T 296, Y 302, Q 303, S 304, Y 308, Y 320, Y 321, S 326, R 328, Q 329, N 330, Y 336, Q 337, T 338, Q 350, E 351, H 352, Y 353, S 356, K 358, H 360, Y 363, R 373, K 374, E 377, Y 378, E 379
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
-| ABA42232.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O148       |                                    0 |
-| WP_000220864.1      | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | O148       |                                    0 |
+| accession      | order            | family             | genus       | species              | serotype   |   Enterobacterial common antigen Wzy |
+|:---------------|:-----------------|:-------------------|:------------|:---------------------|:-----------|-------------------------------------:|
+| ABA42232.1     | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli     | O148       |                                    0 |
+| WP_000220864.1 | Enterobacterales | Enterobacteriaceae | Shigella    | Shigella dysenteriae | O148       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_131/sequences.afa)
 
@@ -11619,13 +11078,11 @@ T 1 (100.0%) Y 2 (100.0%) T 4 (100.0%) K 16 (100.0%) R 17 (100.0%) T 19 (100.0%)
 
 #### Sugars in cluster:
 
-ABA42232.1 Escherichia coli O148:
+ABA42232.1 (Escherichia coli O148)
 
-![](../../../csdb/images/1889.gif)
+![](../../../csdb/images/1889.gif)1889
 
-CSDB record ID: 1889
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11640,22 +11097,23 @@ CSDB record ID: 1889
 | Enterobacterales (4) | Enterobacteriaceae (4) | Escherichia (3) |
 |                      |                        | Shigella (1)    |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 108
+
 Total number of members in cluster: 4
 
 Average length of proteins in cluster: 402.8
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-K 3 (100.0%) Y 114 (100.0%) K 118 (100.0%) S 122 (100.0%) Y 125 (100.0%) R 134 (100.0%) Y 151 (100.0%) S 154 (100.0%) D 194 (100.0%) R 200 (100.0%) N 225 (100.0%) N 240 (100.0%) R 243 (100.0%) R 246 (100.0%) S 255 (100.0%) Y 278 (100.0%) Y 280 (100.0%) S 283 (100.0%) S 284 (100.0%) N 313 (100.0%) R 324 (100.0%) N 339 (100.0%) D 346 (100.0%) Y 348 (100.0%) Y 404 (100.0%) N 405 (100.0%) S 408 (100.0%) 
+K 3, Y 114, K 118, S 122, Y 125, R 134, Y 151, S 154, D 194, R 200, N 225, N 240, R 243, R 246, S 255, Y 278, Y 280, S 283, S 284, N 313, R 324, N 339, D 346, Y 348, Y 404, N 405, S 408
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus    | species         |   serotype |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:---------|:----------------|-----------:|-------------------------------------:|
-| AAL27351.1          | Enterobacterales | Enterobacteriaceae | Shigella | Shigella boydii |          9 |                                    0 |
+| accession   | order            | family             | genus    | species         |   serotype |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:---------|:----------------|-----------:|-------------------------------------:|
+| AAL27351.1  | Enterobacterales | Enterobacteriaceae | Shigella | Shigella boydii |          9 |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_108/sequences.afa)
 
@@ -11671,13 +11129,11 @@ K 3 (100.0%) Y 114 (100.0%) K 118 (100.0%) S 122 (100.0%) Y 125 (100.0%) R 134 (
 
 #### Sugars in cluster:
 
-AAL27351.1 Shigella boydii 9:
+AAL27351.1 (Shigella boydii 9)
 
-![](../../../csdb/images/3986.gif)
+![](../../../csdb/images/3986.gif)3986
 
-CSDB record ID: 3986
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11690,22 +11146,23 @@ CSDB record ID: 3986
 | Vibrionales (1)      | Vibrionaceae (1)       | Vibrio (1)       |
 | Chitinophagales (1)  | Chitinophagaceae (1)   | Chitinophaga (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 107
+
 Total number of members in cluster: 4
 
 Average length of proteins in cluster: 375.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 25 (100.0%) S 40 (100.0%) N 42 (100.0%) Y 43 (100.0%) N 45 (100.0%) Y 47 (100.0%) D 48 (100.0%) N 51 (100.0%) Y 52 (100.0%) N 55 (100.0%) Q 57 (100.0%) Y 61 (100.0%) K 69 (100.0%) Y 70 (100.0%) Y 74 (100.0%) Y 79 (100.0%) S 82 (100.0%) Y 88 (100.0%) H 89 (100.0%) S 96 (100.0%) N 99 (100.0%) T 100 (100.0%) Y 101 (100.0%) N 110 (100.0%) N 113 (100.0%) S 123 (100.0%) Y 125 (100.0%) Y 130 (100.0%) S 131 (100.0%) E 132 (100.0%) T 133 (100.0%) R 135 (100.0%) Q 136 (100.0%) S 141 (100.0%) H 169 (100.0%) S 171 (100.0%) N 214 (100.0%) R 216 (100.0%) Y 220 (100.0%) N 232 (100.0%) Q 237 (100.0%) S 239 (100.0%) S 276 (100.0%) K 286 (100.0%) Q 290 (100.0%) Y 291 (100.0%) E 293 (100.0%) S 296 (100.0%) R 297 (100.0%) N 299 (100.0%) Y 300 (100.0%) Y 301 (100.0%) Y 309 (100.0%) N 321 (100.0%) K 322 (100.0%) Y 335 (100.0%) R 339 (100.0%) S 343 (100.0%) K 346 (100.0%) E 349 (100.0%) Y 350 (100.0%) Y 354 (100.0%) 
+S 25, S 40, N 42, Y 43, N 45, Y 47, D 48, N 51, Y 52, N 55, Q 57, Y 61, K 69, Y 70, Y 74, Y 79, S 82, Y 88, H 89, S 96, N 99, T 100, Y 101, N 110, N 113, S 123, Y 125, Y 130, S 131, E 132, T 133, R 135, Q 136, S 141, H 169, S 171, N 214, R 216, Y 220, N 232, Q 237, S 239, S 276, K 286, Q 290, Y 291, E 293, S 296, R 297, N 299, Y 300, Y 301, Y 309, N 321, K 322, Y 335, R 339, S 343, K 346, E 349, Y 350, Y 354
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ACA24901.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O87        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ACA24901.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O87        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0004_107/sequences.afa)
 
@@ -11721,13 +11178,11 @@ S 25 (100.0%) S 40 (100.0%) N 42 (100.0%) Y 43 (100.0%) N 45 (100.0%) Y 47 (100.
 
 #### Sugars in cluster:
 
-ACA24901.1 Escherichia coli O87:
+ACA24901.1 (Escherichia coli O87)
 
-![](../../../csdb/images/1594.gif)
+![](../../../csdb/images/1594.gif)1594
 
-CSDB record ID: 1594
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11738,21 +11193,22 @@ CSDB record ID: 1594
 | Enterobacterales (4) | Enterobacteriaceae (3) | Escherichia (3) |
 |                      | Budviciaceae (1)       | Budvicia (1)    |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 90
+
 Total number of members in cluster: 3
 
 Average length of proteins in cluster: 417.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 126 (100.0%) N 134 (100.0%) R 141 (100.0%) Y 142 (100.0%) Q 153 (100.0%) Y 160 (100.0%) K 177 (100.0%) R 179 (100.0%) S 185 (100.0%) T 195 (100.0%) K 199 (100.0%) S 249 (100.0%) R 253 (100.0%) K 268 (100.0%) H 276 (100.0%) D 281 (100.0%) T 301 (100.0%) N 336 (100.0%) T 339 (100.0%) R 342 (100.0%) E 346 (100.0%) D 347 (100.0%) Y 391 (100.0%) S 395 (100.0%) S 399 (100.0%) Y 403 (100.0%) S 405 (100.0%) 
+S 126, N 134, R 141, Y 142, Q 153, Y 160, K 177, R 179, S 185, T 195, K 199, S 249, R 253, K 268, H 276, D 281, T 301, N 336, T 339, R 342, E 346, D 347, Y 391, S 395, S 399, Y 403, S 405
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
-|---------------------|---------|----------|---------|-----------|------------|--------------------------------------|
+| accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
+|-------------|---------|----------|---------|-----------|------------|--------------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_90/sequences.afa)
 
@@ -11768,7 +11224,7 @@ S 126 (100.0%) N 134 (100.0%) R 141 (100.0%) Y 142 (100.0%) Q 153 (100.0%) Y 160
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11776,26 +11232,27 @@ S 126 (100.0%) N 134 (100.0%) R 141 (100.0%) Y 142 (100.0%) Q 153 (100.0%) Y 160
 
 | order (count)        | family (count)     | genus (count)       |
 |:---------------------|:-------------------|:--------------------|
-| Flavobacteriales (1) | nan (1)            | nan (1)             |
-| Bacillales (1)       | nan (1)            | Exiguobacterium (1) |
+| Flavobacteriales (1) | nan (2)            | nan (1)             |
+| Bacillales (1)       | nan (2)            | Exiguobacterium (1) |
 | Bacteroidales (1)    | Bacteroidaceae (1) | Bacteroides (1)     |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 203
+
 Total number of members in cluster: 3
 
 Average length of proteins in cluster: 423.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 2 (100.0%) T 4 (100.0%) S 16 (100.0%) K 19 (100.0%) K 20 (100.0%) S 21 (100.0%) N 22 (100.0%) S 25 (100.0%) S 27 (100.0%) T 36 (100.0%) T 37 (100.0%) S 41 (100.0%) S 46 (100.0%) Y 49 (100.0%) T 50 (100.0%) S 52 (100.0%) Y 54 (100.0%) S 55 (100.0%) Y 58 (100.0%) T 63 (100.0%) T 64 (100.0%) S 65 (100.0%) S 67 (100.0%) S 70 (100.0%) E 74 (100.0%) Q 75 (100.0%) N 77 (100.0%) K 79 (100.0%) S 80 (100.0%) K 81 (100.0%) S 83 (100.0%) N 85 (100.0%) S 88 (100.0%) N 90 (100.0%) S 92 (100.0%) Y 94 (100.0%) Y 95 (100.0%) T 101 (100.0%) D 110 (100.0%) E 111 (100.0%) N 114 (100.0%) K 115 (100.0%) N 121 (100.0%) Y 125 (100.0%) E 127 (100.0%) Y 128 (100.0%) Y 129 (100.0%) R 130 (100.0%) S 133 (100.0%) T 134 (100.0%) S 135 (100.0%) E 137 (100.0%) D 138 (100.0%) K 141 (100.0%) D 142 (100.0%) S 143 (100.0%) N 145 (100.0%) Y 146 (100.0%) R 149 (100.0%) N 150 (100.0%) D 152 (100.0%) S 159 (100.0%) Y 164 (100.0%) S 167 (100.0%) T 168 (100.0%) R 169 (100.0%) R 170 (100.0%) S 172 (100.0%) S 173 (100.0%) K 176 (100.0%) T 178 (100.0%) S 186 (100.0%) T 188 (100.0%) S 193 (100.0%) R 196 (100.0%) S 197 (100.0%) R 201 (100.0%) R 215 (100.0%) R 217 (100.0%) K 219 (100.0%) S 226 (100.0%) Y 232 (100.0%) Y 241 (100.0%) S 243 (100.0%) Y 246 (100.0%) S 247 (100.0%) S 248 (100.0%) S 250 (100.0%) E 251 (100.0%) S 252 (100.0%) Y 255 (100.0%) S 259 (100.0%) R 262 (100.0%) Y 263 (100.0%) S 265 (100.0%) Y 268 (100.0%) Y 269 (100.0%) T 270 (100.0%) D 272 (100.0%) S 273 (100.0%) Y 274 (100.0%) K 278 (100.0%) D 280 (100.0%) R 284 (100.0%) D 289 (100.0%) S 290 (100.0%) K 294 (100.0%) D 296 (100.0%) T 297 (100.0%) T 298 (100.0%) T 300 (100.0%) K 307 (100.0%) Y 312 (100.0%) N 315 (100.0%) H 316 (100.0%) E 318 (100.0%) Q 321 (100.0%) E 326 (100.0%) N 327 (100.0%) S 330 (100.0%) N 331 (100.0%) Y 333 (100.0%) T 334 (100.0%) S 341 (100.0%) N 342 (100.0%) Y 350 (100.0%) S 352 (100.0%) S 360 (100.0%) Y 362 (100.0%) K 363 (100.0%) K 366 (100.0%) S 367 (100.0%) R 369 (100.0%) Y 376 (100.0%) S 377 (100.0%) S 387 (100.0%) S 389 (100.0%) E 390 (100.0%) Y 391 (100.0%) Q 395 (100.0%) R 401 (100.0%) Y 406 (100.0%) K 411 (100.0%) S 413 (100.0%) H 415 (100.0%) K 416 (100.0%) N 417 (100.0%) K 418 (100.0%) E 420 (100.0%) 
+Y 2, T 4, S 16, K 19, K 20, S 21, N 22, S 25, S 27, T 36, T 37, S 41, S 46, Y 49, T 50, S 52, Y 54, S 55, Y 58, T 63, T 64, S 65, S 67, S 70, E 74, Q 75, N 77, K 79, S 80, K 81, S 83, N 85, S 88, N 90, S 92, Y 94, Y 95, T 101, D 110, E 111, N 114, K 115, N 121, Y 125, E 127, Y 128, Y 129, R 130, S 133, T 134, S 135, E 137, D 138, K 141, D 142, S 143, N 145, Y 146, R 149, N 150, D 152, S 159, Y 164, S 167, T 168, R 169, R 170, S 172, S 173, K 176, T 178, S 186, T 188, S 193, R 196, S 197, R 201, R 215, R 217, K 219, S 226, Y 232, Y 241, S 243, Y 246, S 247, S 248, S 250, E 251, S 252, Y 255, S 259, R 262, Y 263, S 265, Y 268, Y 269, T 270, D 272, S 273, Y 274, K 278, D 280, R 284, D 289, S 290, K 294, D 296, T 297, T 298, T 300, K 307, Y 312, N 315, H 316, E 318, Q 321, E 326, N 327, S 330, N 331, Y 333, T 334, S 341, N 342, Y 350, S 352, S 360, Y 362, K 363, K 366, S 367, R 369, Y 376, S 377, S 387, S 389, E 390, Y 391, Q 395, R 401, Y 406, K 411, S 413, H 415, K 416, N 417, K 418, E 420
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01137.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O65        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01137.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O65        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_203/sequences.afa)
 
@@ -11811,13 +11268,11 @@ Y 2 (100.0%) T 4 (100.0%) S 16 (100.0%) K 19 (100.0%) K 20 (100.0%) S 21 (100.0%
 
 #### Sugars in cluster:
 
-BAQ01137.1 Escherichia coli O65:
+BAQ01137.1 (Escherichia coli O65)
 
-![](../../../csdb/images/1572.gif)
+![](../../../csdb/images/1572.gif)1572
 
-CSDB record ID: 1572
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11827,22 +11282,23 @@ CSDB record ID: 1572
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (3) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 201
+
 Total number of members in cluster: 3
 
 Average length of proteins in cluster: 404.7
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 4 (100.0%) S 20 (100.0%) R 27 (100.0%) S 29 (100.0%) T 77 (100.0%) H 91 (100.0%) S 104 (100.0%) N 143 (100.0%) N 161 (100.0%) K 181 (100.0%) N 198 (100.0%) D 199 (100.0%) K 201 (100.0%) R 223 (100.0%) D 282 (100.0%) S 286 (100.0%) R 290 (100.0%) Y 296 (100.0%) S 304 (100.0%) N 313 (100.0%) T 314 (100.0%) Y 323 (100.0%) S 328 (100.0%) S 331 (100.0%) H 333 (100.0%) N 334 (100.0%) Q 338 (100.0%) S 364 (100.0%) K 368 (100.0%) S 385 (100.0%) S 389 (100.0%) S 394 (100.0%) N 395 (100.0%) Y 396 (100.0%) 
+S 4, S 20, R 27, S 29, T 77, H 91, S 104, N 143, N 161, K 181, N 198, D 199, K 201, R 223, D 282, S 286, R 290, Y 296, S 304, N 313, T 314, Y 323, S 328, S 331, H 333, N 334, Q 338, S 364, K 368, S 385, S 389, S 394, N 395, Y 396
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ADJ19203.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O161       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ADJ19203.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O161       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_201/sequences.afa)
 
@@ -11858,13 +11314,11 @@ S 4 (100.0%) S 20 (100.0%) R 27 (100.0%) S 29 (100.0%) T 77 (100.0%) H 91 (100.0
 
 #### Sugars in cluster:
 
-ADJ19203.1 Escherichia coli O161:
+ADJ19203.1 (Escherichia coli O161)
 
-![](../../../csdb/images/1902.gif)
+![](../../../csdb/images/1902.gif)1902
 
-CSDB record ID: 1902
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11877,21 +11331,22 @@ CSDB record ID: 1902
 | Enterobacterales (2)  | Enterobacteriaceae (2) | Escherichia (2) |
 | Oceanospirillales (1) | Halomonadaceae (1)     | Halomonas (1)   |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 196
+
 Total number of members in cluster: 3
 
 Average length of proteins in cluster: 437.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 13 (100.0%) Y 14 (100.0%) H 17 (100.0%) S 19 (100.0%) N 23 (100.0%) Y 30 (100.0%) K 40 (100.0%) K 41 (100.0%) E 42 (100.0%) S 49 (100.0%) S 54 (100.0%) T 57 (100.0%) T 58 (100.0%) S 61 (100.0%) E 66 (100.0%) T 67 (100.0%) E 73 (100.0%) E 76 (100.0%) S 78 (100.0%) T 79 (100.0%) N 81 (100.0%) T 84 (100.0%) N 87 (100.0%) S 89 (100.0%) T 94 (100.0%) S 99 (100.0%) N 100 (100.0%) N 106 (100.0%) R 108 (100.0%) N 114 (100.0%) T 115 (100.0%) S 116 (100.0%) N 120 (100.0%) E 124 (100.0%) Y 127 (100.0%) T 135 (100.0%) K 144 (100.0%) D 150 (100.0%) Y 151 (100.0%) Q 153 (100.0%) D 154 (100.0%) R 155 (100.0%) Y 157 (100.0%) Y 158 (100.0%) N 160 (100.0%) N 161 (100.0%) S 165 (100.0%) N 168 (100.0%) R 171 (100.0%) E 175 (100.0%) Q 176 (100.0%) S 177 (100.0%) Y 185 (100.0%) K 187 (100.0%) K 189 (100.0%) K 191 (100.0%) S 203 (100.0%) Q 204 (100.0%) E 209 (100.0%) K 210 (100.0%) T 212 (100.0%) Q 216 (100.0%) S 229 (100.0%) N 230 (100.0%) S 234 (100.0%) K 235 (100.0%) K 236 (100.0%) S 239 (100.0%) S 247 (100.0%) T 259 (100.0%) S 260 (100.0%) Y 261 (100.0%) S 263 (100.0%) S 265 (100.0%) D 267 (100.0%) S 268 (100.0%) E 273 (100.0%) S 274 (100.0%) K 276 (100.0%) T 277 (100.0%) R 278 (100.0%) Q 282 (100.0%) S 283 (100.0%) Q 284 (100.0%) T 290 (100.0%) S 295 (100.0%) S 301 (100.0%) N 306 (100.0%) E 315 (100.0%) N 316 (100.0%) T 317 (100.0%) S 320 (100.0%) Y 321 (100.0%) Q 329 (100.0%) N 333 (100.0%) Y 335 (100.0%) Q 336 (100.0%) E 337 (100.0%) T 343 (100.0%) N 349 (100.0%) T 377 (100.0%) Y 379 (100.0%) T 380 (100.0%) R 382 (100.0%) N 383 (100.0%) K 384 (100.0%) D 385 (100.0%) Y 386 (100.0%) K 394 (100.0%) N 397 (100.0%) Q 401 (100.0%) R 407 (100.0%) Y 409 (100.0%) E 413 (100.0%) K 415 (100.0%) H 430 (100.0%) S 431 (100.0%) K 432 (100.0%) R 434 (100.0%) N 439 (100.0%) 
+S 13, Y 14, H 17, S 19, N 23, Y 30, K 40, K 41, E 42, S 49, S 54, T 57, T 58, S 61, E 66, T 67, E 73, E 76, S 78, T 79, N 81, T 84, N 87, S 89, T 94, S 99, N 100, N 106, R 108, N 114, T 115, S 116, N 120, E 124, Y 127, T 135, K 144, D 150, Y 151, Q 153, D 154, R 155, Y 157, Y 158, N 160, N 161, S 165, N 168, R 171, E 175, Q 176, S 177, Y 185, K 187, K 189, K 191, S 203, Q 204, E 209, K 210, T 212, Q 216, S 229, N 230, S 234, K 235, K 236, S 239, S 247, T 259, S 260, Y 261, S 263, S 265, D 267, S 268, E 273, S 274, K 276, T 277, R 278, Q 282, S 283, Q 284, T 290, S 295, S 301, N 306, E 315, N 316, T 317, S 320, Y 321, Q 329, N 333, Y 335, Q 336, E 337, T 343, N 349, T 377, Y 379, T 380, R 382, N 383, K 384, D 385, Y 386, K 394, N 397, Q 401, R 407, Y 409, E 413, K 415, H 430, S 431, K 432, R 434, N 439
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
-|---------------------|---------|----------|---------|-----------|------------|--------------------------------------|
+| accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
+|-------------|---------|----------|---------|-----------|------------|--------------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_196/sequences.afa)
 
@@ -11907,7 +11362,7 @@ S 13 (100.0%) Y 14 (100.0%) H 17 (100.0%) S 19 (100.0%) N 23 (100.0%) Y 30 (100.
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11917,22 +11372,23 @@ S 13 (100.0%) Y 14 (100.0%) H 17 (100.0%) S 19 (100.0%) N 23 (100.0%) Y 30 (100.
 |:---------------------|:-----------------------|:-----------------|
 | Enterobacterales (3) | Enterobacteriaceae (3) | Enterobacter (3) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 195
+
 Total number of members in cluster: 3
 
 Average length of proteins in cluster: 383.7
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 2 (100.0%) S 8 (100.0%) S 15 (100.0%) S 18 (100.0%) T 19 (100.0%) T 22 (100.0%) S 24 (100.0%) S 27 (100.0%) N 32 (100.0%) Y 34 (100.0%) Y 36 (100.0%) K 38 (100.0%) S 40 (100.0%) T 41 (100.0%) S 42 (100.0%) R 47 (100.0%) S 56 (100.0%) S 66 (100.0%) Y 69 (100.0%) H 70 (100.0%) D 71 (100.0%) S 74 (100.0%) K 75 (100.0%) T 76 (100.0%) N 78 (100.0%) Y 79 (100.0%) Y 83 (100.0%) S 88 (100.0%) S 94 (100.0%) S 97 (100.0%) Y 98 (100.0%) T 99 (100.0%) K 100 (100.0%) D 103 (100.0%) K 105 (100.0%) K 106 (100.0%) N 108 (100.0%) K 109 (100.0%) T 111 (100.0%) Y 113 (100.0%) E 125 (100.0%) Y 126 (100.0%) Y 127 (100.0%) Y 128 (100.0%) T 131 (100.0%) N 132 (100.0%) N 133 (100.0%) Y 135 (100.0%) S 137 (100.0%) R 141 (100.0%) E 143 (100.0%) R 144 (100.0%) D 146 (100.0%) Y 147 (100.0%) S 149 (100.0%) N 150 (100.0%) S 151 (100.0%) S 153 (100.0%) Y 156 (100.0%) R 157 (100.0%) R 159 (100.0%) T 162 (100.0%) Y 163 (100.0%) E 164 (100.0%) S 165 (100.0%) S 166 (100.0%) S 167 (100.0%) S 174 (100.0%) Y 176 (100.0%) K 190 (100.0%) N 191 (100.0%) S 198 (100.0%) H 202 (100.0%) S 207 (100.0%) S 208 (100.0%) T 209 (100.0%) Q 210 (100.0%) Q 221 (100.0%) S 224 (100.0%) S 225 (100.0%) N 226 (100.0%) S 229 (100.0%) R 230 (100.0%) K 231 (100.0%) K 233 (100.0%) S 248 (100.0%) H 249 (100.0%) E 250 (100.0%) N 256 (100.0%) Y 257 (100.0%) S 259 (100.0%) N 260 (100.0%) K 261 (100.0%) D 263 (100.0%) T 267 (100.0%) N 269 (100.0%) S 271 (100.0%) N 272 (100.0%) S 274 (100.0%) S 276 (100.0%) E 277 (100.0%) R 278 (100.0%) N 279 (100.0%) K 280 (100.0%) N 287 (100.0%) E 291 (100.0%) N 292 (100.0%) S 301 (100.0%) Y 303 (100.0%) N 304 (100.0%) Y 305 (100.0%) D 307 (100.0%) T 308 (100.0%) N 312 (100.0%) H 314 (100.0%) Q 316 (100.0%) T 317 (100.0%) Q 319 (100.0%) Q 320 (100.0%) Y 326 (100.0%) T 331 (100.0%) Y 335 (100.0%) K 341 (100.0%) Q 342 (100.0%) Y 343 (100.0%) T 344 (100.0%) E 346 (100.0%) K 348 (100.0%) T 354 (100.0%) T 357 (100.0%) S 361 (100.0%) S 363 (100.0%) D 366 (100.0%) S 367 (100.0%) N 368 (100.0%) Y 370 (100.0%) Y 373 (100.0%) K 379 (100.0%) S 380 (100.0%) N 381 (100.0%) E 382 (100.0%) R 383 (100.0%) 
+Y 2, S 8, S 15, S 18, T 19, T 22, S 24, S 27, N 32, Y 34, Y 36, K 38, S 40, T 41, S 42, R 47, S 56, S 66, Y 69, H 70, D 71, S 74, K 75, T 76, N 78, Y 79, Y 83, S 88, S 94, S 97, Y 98, T 99, K 100, D 103, K 105, K 106, N 108, K 109, T 111, Y 113, E 125, Y 126, Y 127, Y 128, T 131, N 132, N 133, Y 135, S 137, R 141, E 143, R 144, D 146, Y 147, S 149, N 150, S 151, S 153, Y 156, R 157, R 159, T 162, Y 163, E 164, S 165, S 166, S 167, S 174, Y 176, K 190, N 191, S 198, H 202, S 207, S 208, T 209, Q 210, Q 221, S 224, S 225, N 226, S 229, R 230, K 231, K 233, S 248, H 249, E 250, N 256, Y 257, S 259, N 260, K 261, D 263, T 267, N 269, S 271, N 272, S 274, S 276, E 277, R 278, N 279, K 280, N 287, E 291, N 292, S 301, Y 303, N 304, Y 305, D 307, T 308, N 312, H 314, Q 316, T 317, Q 319, Q 320, Y 326, T 331, Y 335, K 341, Q 342, Y 343, T 344, E 346, K 348, T 354, T 357, S 361, S 363, D 366, S 367, N 368, Y 370, Y 373, K 379, S 380, N 381, E 382, R 383
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ADN43871.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O158       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ADN43871.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O158       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_195/sequences.afa)
 
@@ -11948,13 +11404,11 @@ Y 2 (100.0%) S 8 (100.0%) S 15 (100.0%) S 18 (100.0%) T 19 (100.0%) T 22 (100.0%
 
 #### Sugars in cluster:
 
-ADN43871.1 Escherichia coli O158:
+ADN43871.1 (Escherichia coli O158)
 
-![](../../../csdb/images/1287.gif)
+![](../../../csdb/images/1287.gif)1287
 
-CSDB record ID: 1287
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -11966,21 +11420,22 @@ CSDB record ID: 1287
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (3) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 194
+
 Total number of members in cluster: 3
 
 Average length of proteins in cluster: 374.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-K 28 (100.0%) Y 29 (100.0%) E 70 (100.0%) Y 81 (100.0%) S 115 (100.0%) N 127 (100.0%) Y 140 (100.0%) R 141 (100.0%) R 150 (100.0%) N 157 (100.0%) N 159 (100.0%) S 160 (100.0%) Y 172 (100.0%) R 176 (100.0%) N 181 (100.0%) D 184 (100.0%) Y 196 (100.0%) S 201 (100.0%) R 202 (100.0%) T 203 (100.0%) K 234 (100.0%) N 258 (100.0%) R 264 (100.0%) Y 271 (100.0%) D 288 (100.0%) D 297 (100.0%) S 299 (100.0%) Y 300 (100.0%) K 328 (100.0%) Y 344 (100.0%) E 348 (100.0%) N 349 (100.0%) N 357 (100.0%) T 359 (100.0%) 
+K 28, Y 29, E 70, Y 81, S 115, N 127, Y 140, R 141, R 150, N 157, N 159, S 160, Y 172, R 176, N 181, D 184, Y 196, S 201, R 202, T 203, K 234, N 258, R 264, Y 271, D 288, D 297, S 299, Y 300, K 328, Y 344, E 348, N 349, N 357, T 359
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
-|---------------------|---------|----------|---------|-----------|------------|--------------------------------------|
+| accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
+|-------------|---------|----------|---------|-----------|------------|--------------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_194/sequences.afa)
 
@@ -11996,7 +11451,7 @@ K 28 (100.0%) Y 29 (100.0%) E 70 (100.0%) Y 81 (100.0%) S 115 (100.0%) N 127 (10
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12008,22 +11463,23 @@ K 28 (100.0%) Y 29 (100.0%) E 70 (100.0%) Y 81 (100.0%) S 115 (100.0%) N 127 (10
 |                      |                           | Clostridioides (1)  |
 | Enterobacterales (1) | Morganellaceae (1)        | Providencia (1)     |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 183
+
 Total number of members in cluster: 3
 
 Average length of proteins in cluster: 399.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-H 1 (100.0%) R 5 (100.0%) T 6 (100.0%) T 7 (100.0%) S 8 (100.0%) T 15 (100.0%) N 27 (100.0%) K 29 (100.0%) E 31 (100.0%) S 39 (100.0%) R 45 (100.0%) N 47 (100.0%) Q 48 (100.0%) K 54 (100.0%) S 57 (100.0%) S 62 (100.0%) Y 63 (100.0%) Y 66 (100.0%) T 72 (100.0%) S 76 (100.0%) T 78 (100.0%) D 80 (100.0%) S 83 (100.0%) R 85 (100.0%) N 86 (100.0%) Y 89 (100.0%) K 93 (100.0%) K 107 (100.0%) K 108 (100.0%) T 109 (100.0%) Q 110 (100.0%) T 111 (100.0%) Y 114 (100.0%) D 115 (100.0%) N 117 (100.0%) R 118 (100.0%) D 127 (100.0%) S 128 (100.0%) K 131 (100.0%) E 134 (100.0%) S 139 (100.0%) S 142 (100.0%) N 146 (100.0%) S 149 (100.0%) D 151 (100.0%) D 152 (100.0%) K 155 (100.0%) D 156 (100.0%) T 157 (100.0%) R 161 (100.0%) N 162 (100.0%) R 166 (100.0%) S 169 (100.0%) Y 171 (100.0%) D 172 (100.0%) Y 173 (100.0%) S 174 (100.0%) T 178 (100.0%) D 184 (100.0%) S 186 (100.0%) R 188 (100.0%) S 189 (100.0%) R 190 (100.0%) K 191 (100.0%) K 192 (100.0%) N 194 (100.0%) Y 198 (100.0%) S 204 (100.0%) S 207 (100.0%) S 208 (100.0%) R 210 (100.0%) T 211 (100.0%) T 220 (100.0%) Y 223 (100.0%) Y 225 (100.0%) R 226 (100.0%) Y 227 (100.0%) K 230 (100.0%) S 234 (100.0%) Y 244 (100.0%) S 246 (100.0%) H 249 (100.0%) S 250 (100.0%) N 251 (100.0%) E 252 (100.0%) H 255 (100.0%) N 256 (100.0%) Q 257 (100.0%) Q 258 (100.0%) S 260 (100.0%) E 264 (100.0%) N 268 (100.0%) N 271 (100.0%) N 273 (100.0%) E 275 (100.0%) T 276 (100.0%) E 277 (100.0%) S 278 (100.0%) T 279 (100.0%) D 280 (100.0%) D 281 (100.0%) E 284 (100.0%) N 285 (100.0%) H 286 (100.0%) D 291 (100.0%) N 292 (100.0%) Y 296 (100.0%) Q 301 (100.0%) Y 302 (100.0%) D 304 (100.0%) S 308 (100.0%) T 309 (100.0%) R 311 (100.0%) S 313 (100.0%) D 314 (100.0%) S 315 (100.0%) Y 317 (100.0%) Y 323 (100.0%) S 336 (100.0%) S 338 (100.0%) Y 339 (100.0%) Y 342 (100.0%) Y 344 (100.0%) K 346 (100.0%) S 347 (100.0%) Q 348 (100.0%) D 349 (100.0%) K 350 (100.0%) K 351 (100.0%) S 353 (100.0%) T 359 (100.0%) K 366 (100.0%) Y 371 (100.0%) S 372 (100.0%) D 373 (100.0%) Y 374 (100.0%) N 375 (100.0%) S 381 (100.0%) S 387 (100.0%) Y 389 (100.0%) K 393 (100.0%) K 395 (100.0%) E 396 (100.0%) N 397 (100.0%) E 398 (100.0%) 
+H 1, R 5, T 6, T 7, S 8, T 15, N 27, K 29, E 31, S 39, R 45, N 47, Q 48, K 54, S 57, S 62, Y 63, Y 66, T 72, S 76, T 78, D 80, S 83, R 85, N 86, Y 89, K 93, K 107, K 108, T 109, Q 110, T 111, Y 114, D 115, N 117, R 118, D 127, S 128, K 131, E 134, S 139, S 142, N 146, S 149, D 151, D 152, K 155, D 156, T 157, R 161, N 162, R 166, S 169, Y 171, D 172, Y 173, S 174, T 178, D 184, S 186, R 188, S 189, R 190, K 191, K 192, N 194, Y 198, S 204, S 207, S 208, R 210, T 211, T 220, Y 223, Y 225, R 226, Y 227, K 230, S 234, Y 244, S 246, H 249, S 250, N 251, E 252, H 255, N 256, Q 257, Q 258, S 260, E 264, N 268, N 271, N 273, E 275, T 276, E 277, S 278, T 279, D 280, D 281, E 284, N 285, H 286, D 291, N 292, Y 296, Q 301, Y 302, D 304, S 308, T 309, R 311, S 313, D 314, S 315, Y 317, Y 323, S 336, S 338, Y 339, Y 342, Y 344, K 346, S 347, Q 348, D 349, K 350, K 351, S 353, T 359, K 366, Y 371, S 372, D 373, Y 374, N 375, S 381, S 387, Y 389, K 393, K 395, E 396, N 397, E 398
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01659.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O132       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01659.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O132       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_183/sequences.afa)
 
@@ -12039,13 +11495,11 @@ H 1 (100.0%) R 5 (100.0%) T 6 (100.0%) T 7 (100.0%) S 8 (100.0%) T 15 (100.0%) N
 
 #### Sugars in cluster:
 
-BAQ01659.1 Escherichia coli O132:
+BAQ01659.1 (Escherichia coli O132)
 
-![](../../../csdb/images/1874.gif)
+![](../../../csdb/images/1874.gif)1874
 
-CSDB record ID: 1874
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12057,22 +11511,23 @@ CSDB record ID: 1874
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (3) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 167
+
 Total number of members in cluster: 3
 
 Average length of proteins in cluster: 353.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-K 7 (100.0%) S 23 (100.0%) T 38 (100.0%) Y 40 (100.0%) D 41 (100.0%) E 42 (100.0%) R 44 (100.0%) Y 45 (100.0%) T 49 (100.0%) D 55 (100.0%) K 57 (100.0%) Y 59 (100.0%) Y 63 (100.0%) T 64 (100.0%) E 66 (100.0%) N 67 (100.0%) Y 69 (100.0%) N 70 (100.0%) Y 71 (100.0%) Q 73 (100.0%) S 74 (100.0%) H 76 (100.0%) H 79 (100.0%) Y 80 (100.0%) R 87 (100.0%) Y 88 (100.0%) N 91 (100.0%) D 92 (100.0%) S 93 (100.0%) Y 100 (100.0%) Q 101 (100.0%) Y 105 (100.0%) E 119 (100.0%) Y 120 (100.0%) Y 138 (100.0%) S 147 (100.0%) R 150 (100.0%) D 151 (100.0%) Y 165 (100.0%) K 166 (100.0%) N 168 (100.0%) S 181 (100.0%) Y 183 (100.0%) R 184 (100.0%) N 186 (100.0%) Y 194 (100.0%) D 198 (100.0%) Q 199 (100.0%) Y 211 (100.0%) S 215 (100.0%) D 223 (100.0%) R 236 (100.0%) E 248 (100.0%) S 255 (100.0%) D 262 (100.0%) Y 268 (100.0%) R 270 (100.0%) S 276 (100.0%) Y 312 (100.0%) Y 316 (100.0%) E 319 (100.0%) R 325 (100.0%) Q 326 (100.0%) S 328 (100.0%) Y 335 (100.0%) 
+K 7, S 23, T 38, Y 40, D 41, E 42, R 44, Y 45, T 49, D 55, K 57, Y 59, Y 63, T 64, E 66, N 67, Y 69, N 70, Y 71, Q 73, S 74, H 76, H 79, Y 80, R 87, Y 88, N 91, D 92, S 93, Y 100, Q 101, Y 105, E 119, Y 120, Y 138, S 147, R 150, D 151, Y 165, K 166, N 168, S 181, Y 183, R 184, N 186, Y 194, D 198, Q 199, Y 211, S 215, D 223, R 236, E 248, S 255, D 262, Y 268, R 270, S 276, Y 312, Y 316, E 319, R 325, Q 326, S 328, Y 335
 
 #### Seeds in cluster:
 
-| protein_accession   | order        | family        | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------------------------------------:|
-| AHB32267.1          | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O6         |                                    0 |
+| accession   | order        | family        | genus         | species                 | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-------------|:--------------|:--------------|:------------------------|:-----------|-------------------------------------:|
+| AHB32267.1  | Moraxellales | Moraxellaceae | Acinetobacter | Acinetobacter baumannii | O6         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_167/sequences.afa)
 
@@ -12088,7 +11543,7 @@ K 7 (100.0%) S 23 (100.0%) T 38 (100.0%) Y 40 (100.0%) D 41 (100.0%) E 42 (100.0
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12100,21 +11555,22 @@ K 7 (100.0%) S 23 (100.0%) T 38 (100.0%) Y 40 (100.0%) D 41 (100.0%) E 42 (100.0
 |:-----------------|:------------------|:------------------|
 | Moraxellales (3) | Moraxellaceae (3) | Acinetobacter (3) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 165
+
 Total number of members in cluster: 3
 
 Average length of proteins in cluster: 366.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 15 (100.0%) T 30 (100.0%) N 51 (100.0%) D 56 (100.0%) Y 60 (100.0%) S 67 (100.0%) H 83 (100.0%) T 84 (100.0%) E 85 (100.0%) Q 92 (100.0%) S 101 (100.0%) T 103 (100.0%) S 113 (100.0%) R 117 (100.0%) Y 118 (100.0%) Y 121 (100.0%) D 130 (100.0%) H 141 (100.0%) E 142 (100.0%) R 145 (100.0%) K 146 (100.0%) D 147 (100.0%) Q 150 (100.0%) R 152 (100.0%) N 153 (100.0%) S 157 (100.0%) Y 162 (100.0%) S 163 (100.0%) R 172 (100.0%) Q 186 (100.0%) T 188 (100.0%) R 199 (100.0%) S 203 (100.0%) Y 206 (100.0%) K 227 (100.0%) N 245 (100.0%) Y 246 (100.0%) Y 248 (100.0%) E 251 (100.0%) S 253 (100.0%) K 254 (100.0%) S 257 (100.0%) N 260 (100.0%) K 265 (100.0%) Q 266 (100.0%) D 283 (100.0%) K 285 (100.0%) Q 291 (100.0%) Y 293 (100.0%) T 297 (100.0%) Y 299 (100.0%) Y 300 (100.0%) R 304 (100.0%) D 305 (100.0%) E 307 (100.0%) R 312 (100.0%) S 315 (100.0%) Y 318 (100.0%) E 321 (100.0%) K 334 (100.0%) N 335 (100.0%) K 339 (100.0%) K 340 (100.0%) Y 347 (100.0%) N 354 (100.0%) T 357 (100.0%) 
+S 15, T 30, N 51, D 56, Y 60, S 67, H 83, T 84, E 85, Q 92, S 101, T 103, S 113, R 117, Y 118, Y 121, D 130, H 141, E 142, R 145, K 146, D 147, Q 150, R 152, N 153, S 157, Y 162, S 163, R 172, Q 186, T 188, R 199, S 203, Y 206, K 227, N 245, Y 246, Y 248, E 251, S 253, K 254, S 257, N 260, K 265, Q 266, D 283, K 285, Q 291, Y 293, T 297, Y 299, Y 300, R 304, D 305, E 307, R 312, S 315, Y 318, E 321, K 334, N 335, K 339, K 340, Y 347, N 354, T 357
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
-|---------------------|---------|----------|---------|-----------|------------|--------------------------------------|
+| accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
+|-------------|---------|----------|---------|-----------|------------|--------------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_165/sequences.afa)
 
@@ -12130,7 +11586,7 @@ S 15 (100.0%) T 30 (100.0%) N 51 (100.0%) D 56 (100.0%) Y 60 (100.0%) S 67 (100.
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12140,22 +11596,23 @@ S 15 (100.0%) T 30 (100.0%) N 51 (100.0%) D 56 (100.0%) Y 60 (100.0%) S 67 (100.
 |:-------------------|:--------------------|:----------------|
 | Spirochaetales (3) | Treponemataceae (3) | Treponema (3)   |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 134
+
 Total number of members in cluster: 3
 
 Average length of proteins in cluster: 390.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-T 1 (100.0%) K 4 (100.0%) K 5 (100.0%) K 6 (100.0%) Q 7 (100.0%) N 9 (100.0%) N 12 (100.0%) R 15 (100.0%) R 16 (100.0%) S 18 (100.0%) S 28 (100.0%) S 30 (100.0%) N 32 (100.0%) Y 33 (100.0%) Y 38 (100.0%) E 40 (100.0%) K 42 (100.0%) D 59 (100.0%) R 61 (100.0%) K 62 (100.0%) K 65 (100.0%) T 66 (100.0%) Y 67 (100.0%) S 68 (100.0%) S 69 (100.0%) Y 76 (100.0%) T 82 (100.0%) S 83 (100.0%) S 86 (100.0%) Y 87 (100.0%) Y 90 (100.0%) N 92 (100.0%) N 94 (100.0%) Y 97 (100.0%) S 99 (100.0%) S 101 (100.0%) K 105 (100.0%) S 115 (100.0%) K 117 (100.0%) D 118 (100.0%) D 120 (100.0%) K 126 (100.0%) N 130 (100.0%) S 139 (100.0%) E 143 (100.0%) Y 146 (100.0%) N 149 (100.0%) T 154 (100.0%) N 155 (100.0%) S 156 (100.0%) E 158 (100.0%) Q 160 (100.0%) T 161 (100.0%) Y 162 (100.0%) Y 164 (100.0%) H 165 (100.0%) S 168 (100.0%) Y 169 (100.0%) T 174 (100.0%) S 176 (100.0%) D 178 (100.0%) Y 180 (100.0%) K 183 (100.0%) R 186 (100.0%) N 187 (100.0%) Q 188 (100.0%) S 189 (100.0%) Q 192 (100.0%) E 193 (100.0%) Y 200 (100.0%) T 204 (100.0%) S 209 (100.0%) Q 212 (100.0%) K 213 (100.0%) Y 215 (100.0%) S 216 (100.0%) K 217 (100.0%) N 218 (100.0%) H 219 (100.0%) Y 224 (100.0%) T 230 (100.0%) S 233 (100.0%) T 234 (100.0%) S 236 (100.0%) T 238 (100.0%) S 243 (100.0%) S 247 (100.0%) Y 249 (100.0%) R 252 (100.0%) N 257 (100.0%) S 258 (100.0%) S 261 (100.0%) S 264 (100.0%) S 266 (100.0%) T 269 (100.0%) Y 270 (100.0%) S 274 (100.0%) D 275 (100.0%) N 276 (100.0%) Y 278 (100.0%) N 280 (100.0%) K 281 (100.0%) S 284 (100.0%) D 286 (100.0%) E 287 (100.0%) R 288 (100.0%) Y 290 (100.0%) N 294 (100.0%) N 297 (100.0%) Y 300 (100.0%) S 301 (100.0%) N 302 (100.0%) Y 312 (100.0%) E 313 (100.0%) S 314 (100.0%) E 315 (100.0%) D 321 (100.0%) K 323 (100.0%) N 325 (100.0%) N 326 (100.0%) E 330 (100.0%) Y 334 (100.0%) S 335 (100.0%) N 339 (100.0%) Y 343 (100.0%) Y 349 (100.0%) R 352 (100.0%) K 353 (100.0%) Y 355 (100.0%) K 358 (100.0%) K 360 (100.0%) Y 361 (100.0%) Y 367 (100.0%) T 370 (100.0%) T 371 (100.0%) S 376 (100.0%) 
+T 1, K 4, K 5, K 6, Q 7, N 9, N 12, R 15, R 16, S 18, S 28, S 30, N 32, Y 33, Y 38, E 40, K 42, D 59, R 61, K 62, K 65, T 66, Y 67, S 68, S 69, Y 76, T 82, S 83, S 86, Y 87, Y 90, N 92, N 94, Y 97, S 99, S 101, K 105, S 115, K 117, D 118, D 120, K 126, N 130, S 139, E 143, Y 146, N 149, T 154, N 155, S 156, E 158, Q 160, T 161, Y 162, Y 164, H 165, S 168, Y 169, T 174, S 176, D 178, Y 180, K 183, R 186, N 187, Q 188, S 189, Q 192, E 193, Y 200, T 204, S 209, Q 212, K 213, Y 215, S 216, K 217, N 218, H 219, Y 224, T 230, S 233, T 234, S 236, T 238, S 243, S 247, Y 249, R 252, N 257, S 258, S 261, S 264, S 266, T 269, Y 270, S 274, D 275, N 276, Y 278, N 280, K 281, S 284, D 286, E 287, R 288, Y 290, N 294, N 297, Y 300, S 301, N 302, Y 312, E 313, S 314, E 315, D 321, K 323, N 325, N 326, E 330, Y 334, S 335, N 339, Y 343, Y 349, R 352, K 353, Y 355, K 358, K 360, Y 361, Y 367, T 370, T 371, S 376
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ00927.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O43        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ00927.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O43        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_134/sequences.afa)
 
@@ -12171,13 +11628,11 @@ T 1 (100.0%) K 4 (100.0%) K 5 (100.0%) K 6 (100.0%) Q 7 (100.0%) N 9 (100.0%) N 
 
 #### Sugars in cluster:
 
-BAQ00927.1 Escherichia coli O43:
+BAQ00927.1 (Escherichia coli O43)
 
-![](../../../csdb/images/1381.gif)
+![](../../../csdb/images/1381.gif)1381
 
-CSDB record ID: 1381
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12187,22 +11642,23 @@ CSDB record ID: 1381
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (3) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 122
+
 Total number of members in cluster: 3
 
 Average length of proteins in cluster: 368.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 2 (100.0%) T 4 (100.0%) N 5 (100.0%) Y 10 (100.0%) Q 11 (100.0%) T 15 (100.0%) S 22 (100.0%) S 23 (100.0%) S 26 (100.0%) E 31 (100.0%) Y 32 (100.0%) T 33 (100.0%) S 43 (100.0%) T 45 (100.0%) Y 47 (100.0%) T 50 (100.0%) K 51 (100.0%) R 52 (100.0%) N 54 (100.0%) S 55 (100.0%) K 57 (100.0%) Y 58 (100.0%) Q 60 (100.0%) S 62 (100.0%) S 67 (100.0%) K 68 (100.0%) Q 72 (100.0%) N 82 (100.0%) S 84 (100.0%) E 85 (100.0%) T 91 (100.0%) H 92 (100.0%) H 95 (100.0%) Q 96 (100.0%) Y 99 (100.0%) D 102 (100.0%) R 103 (100.0%) K 112 (100.0%) Y 120 (100.0%) T 123 (100.0%) T 128 (100.0%) K 129 (100.0%) N 130 (100.0%) Y 131 (100.0%) S 134 (100.0%) R 135 (100.0%) S 144 (100.0%) T 148 (100.0%) S 150 (100.0%) R 151 (100.0%) T 154 (100.0%) Y 161 (100.0%) T 165 (100.0%) R 173 (100.0%) K 175 (100.0%) S 186 (100.0%) Y 192 (100.0%) Y 193 (100.0%) R 194 (100.0%) E 195 (100.0%) N 198 (100.0%) S 200 (100.0%) D 203 (100.0%) Y 204 (100.0%) S 210 (100.0%) S 211 (100.0%) N 213 (100.0%) E 214 (100.0%) S 219 (100.0%) N 221 (100.0%) S 223 (100.0%) N 224 (100.0%) Q 226 (100.0%) S 230 (100.0%) N 231 (100.0%) T 234 (100.0%) Q 235 (100.0%) D 238 (100.0%) K 244 (100.0%) S 245 (100.0%) D 246 (100.0%) R 248 (100.0%) T 251 (100.0%) T 254 (100.0%) E 255 (100.0%) S 258 (100.0%) S 262 (100.0%) E 263 (100.0%) K 264 (100.0%) Y 266 (100.0%) S 269 (100.0%) S 270 (100.0%) S 271 (100.0%) E 275 (100.0%) S 276 (100.0%) K 277 (100.0%) N 282 (100.0%) Y 287 (100.0%) S 293 (100.0%) N 295 (100.0%) S 296 (100.0%) S 300 (100.0%) R 304 (100.0%) S 305 (100.0%) S 307 (100.0%) R 308 (100.0%) S 310 (100.0%) H 311 (100.0%) S 316 (100.0%) Y 323 (100.0%) S 324 (100.0%) R 326 (100.0%) T 327 (100.0%) E 328 (100.0%) Y 331 (100.0%) Y 333 (100.0%) K 338 (100.0%) Y 342 (100.0%) N 350 (100.0%) Q 351 (100.0%) K 355 (100.0%) S 356 (100.0%) S 357 (100.0%) 
+Y 2, T 4, N 5, Y 10, Q 11, T 15, S 22, S 23, S 26, E 31, Y 32, T 33, S 43, T 45, Y 47, T 50, K 51, R 52, N 54, S 55, K 57, Y 58, Q 60, S 62, S 67, K 68, Q 72, N 82, S 84, E 85, T 91, H 92, H 95, Q 96, Y 99, D 102, R 103, K 112, Y 120, T 123, T 128, K 129, N 130, Y 131, S 134, R 135, S 144, T 148, S 150, R 151, T 154, Y 161, T 165, R 173, K 175, S 186, Y 192, Y 193, R 194, E 195, N 198, S 200, D 203, Y 204, S 210, S 211, N 213, E 214, S 219, N 221, S 223, N 224, Q 226, S 230, N 231, T 234, Q 235, D 238, K 244, S 245, D 246, R 248, T 251, T 254, E 255, S 258, S 262, E 263, K 264, Y 266, S 269, S 270, S 271, E 275, S 276, K 277, N 282, Y 287, S 293, N 295, S 296, S 300, R 304, S 305, S 307, R 308, S 310, H 311, S 316, Y 323, S 324, R 326, T 327, E 328, Y 331, Y 333, K 338, Y 342, N 350, Q 351, K 355, S 356, S 357
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01155.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O68        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01155.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O68        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_122/sequences.afa)
 
@@ -12218,13 +11674,11 @@ Y 2 (100.0%) T 4 (100.0%) N 5 (100.0%) Y 10 (100.0%) Q 11 (100.0%) T 15 (100.0%)
 
 #### Sugars in cluster:
 
-BAQ01155.1 Escherichia coli O68:
+BAQ01155.1 (Escherichia coli O68)
 
-![](../../../csdb/images/1574.gif)
+![](../../../csdb/images/1574.gif)1574
 
-CSDB record ID: 1574
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12235,21 +11689,22 @@ CSDB record ID: 1574
 | Enterobacterales (3) | Enterobacteriaceae (3) | Escherichia (2) |
 |                      |                        | nan (1)         |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 117
+
 Total number of members in cluster: 3
 
 Average length of proteins in cluster: 454.3
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 30 (100.0%) Y 40 (100.0%) Q 41 (100.0%) D 42 (100.0%) N 47 (100.0%) E 51 (100.0%) R 54 (100.0%) S 55 (100.0%) E 68 (100.0%) K 74 (100.0%) K 76 (100.0%) Q 85 (100.0%) K 86 (100.0%) Y 87 (100.0%) Y 94 (100.0%) Y 102 (100.0%) Y 112 (100.0%) E 117 (100.0%) K 122 (100.0%) K 125 (100.0%) Y 129 (100.0%) R 138 (100.0%) H 139 (100.0%) S 145 (100.0%) K 148 (100.0%) E 171 (100.0%) N 177 (100.0%) H 183 (100.0%) S 184 (100.0%) Y 189 (100.0%) R 191 (100.0%) R 193 (100.0%) T 196 (100.0%) E 198 (100.0%) S 199 (100.0%) S 200 (100.0%) T 202 (100.0%) Y 209 (100.0%) S 210 (100.0%) Y 215 (100.0%) N 222 (100.0%) Y 240 (100.0%) T 244 (100.0%) S 246 (100.0%) K 247 (100.0%) R 269 (100.0%) K 273 (100.0%) N 274 (100.0%) S 298 (100.0%) S 299 (100.0%) D 303 (100.0%) E 305 (100.0%) Y 307 (100.0%) T 308 (100.0%) S 309 (100.0%) T 312 (100.0%) R 313 (100.0%) T 333 (100.0%) Y 336 (100.0%) S 362 (100.0%) N 365 (100.0%) E 368 (100.0%) K 377 (100.0%) K 382 (100.0%) S 383 (100.0%) K 405 (100.0%) K 412 (100.0%) S 427 (100.0%) E 435 (100.0%) K 437 (100.0%) Y 438 (100.0%) E 439 (100.0%) 
+Y 30, Y 40, Q 41, D 42, N 47, E 51, R 54, S 55, E 68, K 74, K 76, Q 85, K 86, Y 87, Y 94, Y 102, Y 112, E 117, K 122, K 125, Y 129, R 138, H 139, S 145, K 148, E 171, N 177, H 183, S 184, Y 189, R 191, R 193, T 196, E 198, S 199, S 200, T 202, Y 209, S 210, Y 215, N 222, Y 240, T 244, S 246, K 247, R 269, K 273, N 274, S 298, S 299, D 303, E 305, Y 307, T 308, S 309, T 312, R 313, T 333, Y 336, S 362, N 365, E 368, K 377, K 382, S 383, K 405, K 412, S 427, E 435, K 437, Y 438, E 439
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
-|---------------------|---------|----------|---------|-----------|------------|--------------------------------------|
+| accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
+|-------------|---------|----------|---------|-----------|------------|--------------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_117/sequences.afa)
 
@@ -12265,7 +11720,7 @@ Y 30 (100.0%) Y 40 (100.0%) Q 41 (100.0%) D 42 (100.0%) N 47 (100.0%) E 51 (100.
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12276,22 +11731,23 @@ Y 30 (100.0%) Y 40 (100.0%) Q 41 (100.0%) D 42 (100.0%) N 47 (100.0%) E 51 (100.
 | Bacillales (3)  | Paenibacillaceae (2) | Paenibacillus (2) |
 |                 | Bacillaceae (1)      | Bacillus (1)      |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 109
+
 Total number of members in cluster: 3
 
 Average length of proteins in cluster: 365.7
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-N 5 (100.0%) Q 22 (100.0%) Y 24 (100.0%) K 26 (100.0%) S 31 (100.0%) D 32 (100.0%) Q 36 (100.0%) Y 41 (100.0%) S 54 (100.0%) S 67 (100.0%) Y 71 (100.0%) N 76 (100.0%) K 81 (100.0%) D 93 (100.0%) D 129 (100.0%) R 136 (100.0%) T 138 (100.0%) D 142 (100.0%) N 143 (100.0%) N 145 (100.0%) K 146 (100.0%) Y 150 (100.0%) K 165 (100.0%) Y 183 (100.0%) T 188 (100.0%) T 192 (100.0%) Y 207 (100.0%) S 240 (100.0%) Y 247 (100.0%) H 248 (100.0%) N 254 (100.0%) R 260 (100.0%) Y 263 (100.0%) Y 265 (100.0%) D 290 (100.0%) N 291 (100.0%) S 292 (100.0%) N 325 (100.0%) S 327 (100.0%) Y 339 (100.0%) E 343 (100.0%) T 344 (100.0%) E 348 (100.0%) N 352 (100.0%) T 354 (100.0%) Y 361 (100.0%) R 363 (100.0%) N 366 (100.0%) E 369 (100.0%) 
+N 5, Q 22, Y 24, K 26, S 31, D 32, Q 36, Y 41, S 54, S 67, Y 71, N 76, K 81, D 93, D 129, R 136, T 138, D 142, N 143, N 145, K 146, Y 150, K 165, Y 183, T 188, T 192, Y 207, S 240, Y 247, H 248, N 254, R 260, Y 263, Y 265, D 290, N 291, S 292, N 325, S 327, Y 339, E 343, T 344, E 348, N 352, T 354, Y 361, R 363, N 366, E 369
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| AIG62747.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O178       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| AIG62747.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O178       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0003_109/sequences.afa)
 
@@ -12307,13 +11763,11 @@ N 5 (100.0%) Q 22 (100.0%) Y 24 (100.0%) K 26 (100.0%) S 31 (100.0%) D 32 (100.0
 
 #### Sugars in cluster:
 
-AIG62747.1 Escherichia coli O178:
+AIG62747.1 (Escherichia coli O178)
 
-![](../../../csdb/images/1920.gif)
+![](../../../csdb/images/1920.gif)1920
 
-CSDB record ID: 1920
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12326,21 +11780,22 @@ CSDB record ID: 1920
 | Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
 | Vibrionales (1)      | Vibrionaceae (1)       | Aliivibrio (1)  |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 83
+
 Total number of members in cluster: 2
 
 Average length of proteins in cluster: 373.5
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-N 2 (100.0%) Y 3 (100.0%) K 5 (100.0%) N 11 (100.0%) H 13 (100.0%) S 21 (100.0%) S 22 (100.0%) Y 24 (100.0%) K 27 (100.0%) T 29 (100.0%) Q 30 (100.0%) S 32 (100.0%) Y 35 (100.0%) S 38 (100.0%) Q 48 (100.0%) S 51 (100.0%) R 53 (100.0%) K 54 (100.0%) S 56 (100.0%) S 61 (100.0%) Y 70 (100.0%) S 71 (100.0%) Q 72 (100.0%) Q 75 (100.0%) N 78 (100.0%) Y 79 (100.0%) N 80 (100.0%) S 81 (100.0%) S 83 (100.0%) T 84 (100.0%) Y 85 (100.0%) N 87 (100.0%) S 89 (100.0%) R 102 (100.0%) Y 105 (100.0%) D 106 (100.0%) Y 107 (100.0%) D 108 (100.0%) N 112 (100.0%) S 113 (100.0%) K 115 (100.0%) Y 117 (100.0%) D 128 (100.0%) S 129 (100.0%) Y 131 (100.0%) R 132 (100.0%) N 135 (100.0%) T 137 (100.0%) S 140 (100.0%) K 142 (100.0%) E 145 (100.0%) N 149 (100.0%) S 150 (100.0%) S 151 (100.0%) E 152 (100.0%) Y 156 (100.0%) Y 158 (100.0%) K 159 (100.0%) D 167 (100.0%) S 168 (100.0%) N 169 (100.0%) T 170 (100.0%) T 171 (100.0%) T 177 (100.0%) Y 183 (100.0%) Y 184 (100.0%) K 187 (100.0%) H 189 (100.0%) K 192 (100.0%) T 194 (100.0%) S 195 (100.0%) T 201 (100.0%) S 206 (100.0%) S 209 (100.0%) R 210 (100.0%) S 211 (100.0%) S 215 (100.0%) T 219 (100.0%) Y 227 (100.0%) K 228 (100.0%) R 230 (100.0%) S 237 (100.0%) S 249 (100.0%) N 251 (100.0%) S 253 (100.0%) D 254 (100.0%) S 256 (100.0%) D 258 (100.0%) S 259 (100.0%) K 260 (100.0%) Y 262 (100.0%) S 265 (100.0%) K 266 (100.0%) D 268 (100.0%) E 269 (100.0%) Y 270 (100.0%) T 272 (100.0%) S 273 (100.0%) S 275 (100.0%) S 278 (100.0%) D 286 (100.0%) S 288 (100.0%) S 289 (100.0%) D 293 (100.0%) N 294 (100.0%) Y 296 (100.0%) H 298 (100.0%) Y 301 (100.0%) T 303 (100.0%) E 307 (100.0%) S 308 (100.0%) Y 316 (100.0%) S 318 (100.0%) S 322 (100.0%) Y 326 (100.0%) T 327 (100.0%) N 328 (100.0%) K 330 (100.0%) S 342 (100.0%) S 344 (100.0%) Y 345 (100.0%) Y 348 (100.0%) Y 362 (100.0%) N 363 (100.0%) Y 367 (100.0%) E 368 (100.0%) 
+N 2, Y 3, K 5, N 11, H 13, S 21, S 22, Y 24, K 27, T 29, Q 30, S 32, Y 35, S 38, Q 48, S 51, R 53, K 54, S 56, S 61, Y 70, S 71, Q 72, Q 75, N 78, Y 79, N 80, S 81, S 83, T 84, Y 85, N 87, S 89, R 102, Y 105, D 106, Y 107, D 108, N 112, S 113, K 115, Y 117, D 128, S 129, Y 131, R 132, N 135, T 137, S 140, K 142, E 145, N 149, S 150, S 151, E 152, Y 156, Y 158, K 159, D 167, S 168, N 169, T 170, T 171, T 177, Y 183, Y 184, K 187, H 189, K 192, T 194, S 195, T 201, S 206, S 209, R 210, S 211, S 215, T 219, Y 227, K 228, R 230, S 237, S 249, N 251, S 253, D 254, S 256, D 258, S 259, K 260, Y 262, S 265, K 266, D 268, E 269, Y 270, T 272, S 273, S 275, S 278, D 286, S 288, S 289, D 293, N 294, Y 296, H 298, Y 301, T 303, E 307, S 308, Y 316, S 318, S 322, Y 326, T 327, N 328, K 330, S 342, S 344, Y 345, Y 348, Y 362, N 363, Y 367, E 368
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
-|---------------------|---------|----------|---------|-----------|------------|--------------------------------------|
+| accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
+|-------------|---------|----------|---------|-----------|------------|--------------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_83/sequences.afa)
 
@@ -12356,7 +11811,7 @@ N 2 (100.0%) Y 3 (100.0%) K 5 (100.0%) N 11 (100.0%) H 13 (100.0%) S 21 (100.0%)
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12366,21 +11821,22 @@ N 2 (100.0%) Y 3 (100.0%) K 5 (100.0%) N 11 (100.0%) H 13 (100.0%) S 21 (100.0%)
 |:----------------|:-----------------|:----------------|
 | Vibrionales (2) | Vibrionaceae (2) | Vibrio (2)      |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 82
+
 Total number of members in cluster: 2
 
 Average length of proteins in cluster: 415.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 4 (100.0%) R 70 (100.0%) R 108 (100.0%) Y 122 (100.0%) T 123 (100.0%) D 128 (100.0%) H 132 (100.0%) T 135 (100.0%) Q 150 (100.0%) S 163 (100.0%) R 165 (100.0%) R 170 (100.0%) S 173 (100.0%) S 177 (100.0%) T 179 (100.0%) S 184 (100.0%) Y 188 (100.0%) S 214 (100.0%) N 216 (100.0%) K 217 (100.0%) N 222 (100.0%) R 235 (100.0%) K 240 (100.0%) R 265 (100.0%) S 272 (100.0%) N 284 (100.0%) Y 285 (100.0%) D 286 (100.0%) E 291 (100.0%) S 292 (100.0%) R 296 (100.0%) N 304 (100.0%) E 306 (100.0%) S 309 (100.0%) S 313 (100.0%) Y 317 (100.0%) S 327 (100.0%) T 328 (100.0%) H 342 (100.0%) N 343 (100.0%) Q 344 (100.0%) E 347 (100.0%) T 350 (100.0%) R 370 (100.0%) N 396 (100.0%) S 397 (100.0%) N 401 (100.0%) T 403 (100.0%) Y 405 (100.0%) Q 406 (100.0%) S 408 (100.0%) S 411 (100.0%) E 428 (100.0%) R 433 (100.0%) R 438 (100.0%) 
+D 4, R 70, R 108, Y 122, T 123, D 128, H 132, T 135, Q 150, S 163, R 165, R 170, S 173, S 177, T 179, S 184, Y 188, S 214, N 216, K 217, N 222, R 235, K 240, R 265, S 272, N 284, Y 285, D 286, E 291, S 292, R 296, N 304, E 306, S 309, S 313, Y 317, S 327, T 328, H 342, N 343, Q 344, E 347, T 350, R 370, N 396, S 397, N 401, T 403, Y 405, Q 406, S 408, S 411, E 428, R 433, R 438
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
-|---------------------|---------|----------|---------|-----------|------------|--------------------------------------|
+| accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
+|-------------|---------|----------|---------|-----------|------------|--------------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_82/sequences.afa)
 
@@ -12396,7 +11852,7 @@ D 4 (100.0%) R 70 (100.0%) R 108 (100.0%) Y 122 (100.0%) T 123 (100.0%) D 128 (1
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12406,22 +11862,23 @@ D 4 (100.0%) R 70 (100.0%) R 108 (100.0%) Y 122 (100.0%) T 123 (100.0%) D 128 (1
 |:------------------|:----------------------|:------------------|
 | Micrococcales (2) | Microbacteriaceae (2) | Cryobacterium (2) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 52
+
 Total number of members in cluster: 2
 
 Average length of proteins in cluster: 340.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-T 1 (100.0%) N 2 (100.0%) T 3 (100.0%) N 4 (100.0%) Y 5 (100.0%) Y 7 (100.0%) N 8 (100.0%) E 9 (100.0%) R 13 (100.0%) S 21 (100.0%) T 25 (100.0%) S 27 (100.0%) T 28 (100.0%) K 30 (100.0%) E 32 (100.0%) D 35 (100.0%) H 36 (100.0%) D 37 (100.0%) Y 38 (100.0%) K 39 (100.0%) Q 40 (100.0%) Y 41 (100.0%) Y 43 (100.0%) E 46 (100.0%) Y 48 (100.0%) K 49 (100.0%) N 50 (100.0%) S 51 (100.0%) D 53 (100.0%) Y 58 (100.0%) E 59 (100.0%) E 61 (100.0%) Y 66 (100.0%) S 68 (100.0%) R 69 (100.0%) N 72 (100.0%) N 75 (100.0%) Y 85 (100.0%) T 86 (100.0%) K 93 (100.0%) K 98 (100.0%) R 99 (100.0%) T 101 (100.0%) K 102 (100.0%) K 103 (100.0%) T 104 (100.0%) S 105 (100.0%) Q 106 (100.0%) Y 114 (100.0%) S 115 (100.0%) Y 119 (100.0%) H 122 (100.0%) E 123 (100.0%) T 125 (100.0%) Q 126 (100.0%) R 128 (100.0%) S 130 (100.0%) S 140 (100.0%) Q 142 (100.0%) K 143 (100.0%) N 144 (100.0%) K 145 (100.0%) T 155 (100.0%) S 158 (100.0%) H 159 (100.0%) Y 160 (100.0%) S 161 (100.0%) S 165 (100.0%) S 170 (100.0%) R 173 (100.0%) Y 174 (100.0%) N 176 (100.0%) D 177 (100.0%) K 178 (100.0%) R 181 (100.0%) T 182 (100.0%) Q 183 (100.0%) Y 202 (100.0%) S 204 (100.0%) R 205 (100.0%) Q 206 (100.0%) T 207 (100.0%) K 209 (100.0%) Y 210 (100.0%) D 211 (100.0%) T 213 (100.0%) N 214 (100.0%) Y 218 (100.0%) Y 220 (100.0%) H 223 (100.0%) Y 225 (100.0%) S 226 (100.0%) S 232 (100.0%) Y 235 (100.0%) R 237 (100.0%) R 238 (100.0%) Y 239 (100.0%) K 241 (100.0%) N 242 (100.0%) H 243 (100.0%) Y 245 (100.0%) Y 246 (100.0%) Q 247 (100.0%) Y 250 (100.0%) Y 256 (100.0%) Y 257 (100.0%) S 262 (100.0%) Q 267 (100.0%) S 268 (100.0%) Q 269 (100.0%) R 274 (100.0%) E 277 (100.0%) N 291 (100.0%) S 292 (100.0%) S 293 (100.0%) K 295 (100.0%) S 296 (100.0%) S 297 (100.0%) K 300 (100.0%) T 309 (100.0%) Y 313 (100.0%) E 314 (100.0%) H 315 (100.0%) E 320 (100.0%) N 324 (100.0%) D 326 (100.0%) H 329 (100.0%) N 330 (100.0%) S 331 (100.0%) S 333 (100.0%) K 334 (100.0%) D 336 (100.0%) T 337 (100.0%) Q 339 (100.0%) 
+T 1, N 2, T 3, N 4, Y 5, Y 7, N 8, E 9, R 13, S 21, T 25, S 27, T 28, K 30, E 32, D 35, H 36, D 37, Y 38, K 39, Q 40, Y 41, Y 43, E 46, Y 48, K 49, N 50, S 51, D 53, Y 58, E 59, E 61, Y 66, S 68, R 69, N 72, N 75, Y 85, T 86, K 93, K 98, R 99, T 101, K 102, K 103, T 104, S 105, Q 106, Y 114, S 115, Y 119, H 122, E 123, T 125, Q 126, R 128, S 130, S 140, Q 142, K 143, N 144, K 145, T 155, S 158, H 159, Y 160, S 161, S 165, S 170, R 173, Y 174, N 176, D 177, K 178, R 181, T 182, Q 183, Y 202, S 204, R 205, Q 206, T 207, K 209, Y 210, D 211, T 213, N 214, Y 218, Y 220, H 223, Y 225, S 226, S 232, Y 235, R 237, R 238, Y 239, K 241, N 242, H 243, Y 245, Y 246, Q 247, Y 250, Y 256, Y 257, S 262, Q 267, S 268, Q 269, R 274, E 277, N 291, S 292, S 293, K 295, S 296, S 297, K 300, T 309, Y 313, E 314, H 315, E 320, N 324, D 326, H 329, N 330, S 331, S 333, K 334, D 336, T 337, Q 339
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ00812.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O34        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ00812.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O34        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_52/sequences.afa)
 
@@ -12437,7 +11894,7 @@ T 1 (100.0%) N 2 (100.0%) T 3 (100.0%) N 4 (100.0%) Y 5 (100.0%) Y 7 (100.0%) N 
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12447,21 +11904,22 @@ T 1 (100.0%) N 2 (100.0%) T 3 (100.0%) N 4 (100.0%) Y 5 (100.0%) Y 7 (100.0%) N 
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 205
+
 Total number of members in cluster: 2
 
 Average length of proteins in cluster: 335.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-N 5 (100.0%) S 7 (100.0%) Y 8 (100.0%) K 10 (100.0%) K 12 (100.0%) K 13 (100.0%) E 16 (100.0%) Y 17 (100.0%) Y 18 (100.0%) S 31 (100.0%) R 34 (100.0%) D 41 (100.0%) Y 42 (100.0%) Y 45 (100.0%) E 47 (100.0%) T 50 (100.0%) R 56 (100.0%) D 57 (100.0%) S 58 (100.0%) E 60 (100.0%) Y 63 (100.0%) R 64 (100.0%) R 67 (100.0%) N 70 (100.0%) D 71 (100.0%) D 75 (100.0%) H 77 (100.0%) Y 82 (100.0%) S 85 (100.0%) T 88 (100.0%) S 91 (100.0%) K 93 (100.0%) S 99 (100.0%) S 101 (100.0%) S 102 (100.0%) H 103 (100.0%) N 105 (100.0%) Y 111 (100.0%) S 114 (100.0%) H 119 (100.0%) E 120 (100.0%) Y 121 (100.0%) T 122 (100.0%) Q 123 (100.0%) R 125 (100.0%) S 136 (100.0%) K 138 (100.0%) D 139 (100.0%) E 142 (100.0%) N 143 (100.0%) R 144 (100.0%) K 151 (100.0%) T 156 (100.0%) H 159 (100.0%) Y 160 (100.0%) S 161 (100.0%) Y 171 (100.0%) T 172 (100.0%) R 173 (100.0%) R 176 (100.0%) S 177 (100.0%) K 179 (100.0%) T 185 (100.0%) S 192 (100.0%) E 197 (100.0%) S 200 (100.0%) T 203 (100.0%) K 204 (100.0%) Y 205 (100.0%) Y 207 (100.0%) Q 210 (100.0%) D 211 (100.0%) N 216 (100.0%) K 217 (100.0%) S 218 (100.0%) E 221 (100.0%) S 222 (100.0%) D 223 (100.0%) S 226 (100.0%) N 229 (100.0%) K 231 (100.0%) Y 232 (100.0%) T 234 (100.0%) S 243 (100.0%) T 244 (100.0%) K 247 (100.0%) K 248 (100.0%) E 249 (100.0%) D 250 (100.0%) S 251 (100.0%) N 253 (100.0%) T 255 (100.0%) Y 257 (100.0%) K 258 (100.0%) S 261 (100.0%) Y 267 (100.0%) Y 268 (100.0%) Y 269 (100.0%) Q 274 (100.0%) S 279 (100.0%) R 281 (100.0%) E 284 (100.0%) Y 286 (100.0%) S 287 (100.0%) Y 290 (100.0%) N 296 (100.0%) Y 299 (100.0%) N 300 (100.0%) K 301 (100.0%) D 302 (100.0%) Y 303 (100.0%) T 305 (100.0%) K 307 (100.0%) Y 310 (100.0%) S 316 (100.0%) T 320 (100.0%) Y 323 (100.0%) Y 325 (100.0%) K 329 (100.0%) T 330 (100.0%) T 332 (100.0%) 
+N 5, S 7, Y 8, K 10, K 12, K 13, E 16, Y 17, Y 18, S 31, R 34, D 41, Y 42, Y 45, E 47, T 50, R 56, D 57, S 58, E 60, Y 63, R 64, R 67, N 70, D 71, D 75, H 77, Y 82, S 85, T 88, S 91, K 93, S 99, S 101, S 102, H 103, N 105, Y 111, S 114, H 119, E 120, Y 121, T 122, Q 123, R 125, S 136, K 138, D 139, E 142, N 143, R 144, K 151, T 156, H 159, Y 160, S 161, Y 171, T 172, R 173, R 176, S 177, K 179, T 185, S 192, E 197, S 200, T 203, K 204, Y 205, Y 207, Q 210, D 211, N 216, K 217, S 218, E 221, S 222, D 223, S 226, N 229, K 231, Y 232, T 234, S 243, T 244, K 247, K 248, E 249, D 250, S 251, N 253, T 255, Y 257, K 258, S 261, Y 267, Y 268, Y 269, Q 274, S 279, R 281, E 284, Y 286, S 287, Y 290, N 296, Y 299, N 300, K 301, D 302, Y 303, T 305, K 307, Y 310, S 316, T 320, Y 323, Y 325, K 329, T 330, T 332
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
-|---------------------|---------|----------|---------|-----------|------------|--------------------------------------|
+| accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
+|-------------|---------|----------|---------|-----------|------------|--------------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_205/sequences.afa)
 
@@ -12477,7 +11935,7 @@ N 5 (100.0%) S 7 (100.0%) Y 8 (100.0%) K 10 (100.0%) K 12 (100.0%) K 13 (100.0%)
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12487,21 +11945,22 @@ N 5 (100.0%) S 7 (100.0%) Y 8 (100.0%) K 10 (100.0%) K 12 (100.0%) K 13 (100.0%)
 |:------------------|:-------------------|:----------------|
 | Bacteroidales (2) | Bacteroidaceae (2) | Bacteroides (2) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 197
+
 Total number of members in cluster: 2
 
 Average length of proteins in cluster: 429.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 2 (100.0%) T 10 (100.0%) T 13 (100.0%) D 15 (100.0%) R 20 (100.0%) S 21 (100.0%) K 24 (100.0%) S 26 (100.0%) S 32 (100.0%) S 36 (100.0%) S 37 (100.0%) Y 41 (100.0%) N 43 (100.0%) Y 44 (100.0%) R 45 (100.0%) Q 46 (100.0%) D 48 (100.0%) S 52 (100.0%) T 53 (100.0%) K 54 (100.0%) Y 58 (100.0%) S 61 (100.0%) S 65 (100.0%) R 74 (100.0%) R 78 (100.0%) K 79 (100.0%) K 80 (100.0%) D 81 (100.0%) K 82 (100.0%) N 83 (100.0%) Y 84 (100.0%) E 85 (100.0%) K 89 (100.0%) E 90 (100.0%) D 92 (100.0%) N 94 (100.0%) T 95 (100.0%) H 96 (100.0%) S 98 (100.0%) T 105 (100.0%) Y 112 (100.0%) S 116 (100.0%) K 118 (100.0%) D 119 (100.0%) Q 121 (100.0%) S 123 (100.0%) N 125 (100.0%) N 128 (100.0%) S 131 (100.0%) Q 132 (100.0%) Y 134 (100.0%) Y 135 (100.0%) K 136 (100.0%) N 137 (100.0%) Q 139 (100.0%) H 140 (100.0%) N 141 (100.0%) S 143 (100.0%) N 144 (100.0%) S 145 (100.0%) N 149 (100.0%) Q 150 (100.0%) E 153 (100.0%) T 156 (100.0%) Y 160 (100.0%) S 162 (100.0%) Q 165 (100.0%) S 168 (100.0%) R 170 (100.0%) Y 171 (100.0%) K 174 (100.0%) D 175 (100.0%) R 176 (100.0%) N 177 (100.0%) R 178 (100.0%) Q 179 (100.0%) T 180 (100.0%) N 182 (100.0%) Y 183 (100.0%) N 185 (100.0%) T 188 (100.0%) S 196 (100.0%) T 197 (100.0%) D 198 (100.0%) R 199 (100.0%) N 200 (100.0%) R 204 (100.0%) Y 208 (100.0%) Y 217 (100.0%) T 218 (100.0%) K 219 (100.0%) S 220 (100.0%) N 221 (100.0%) Q 222 (100.0%) S 224 (100.0%) K 226 (100.0%) S 227 (100.0%) N 229 (100.0%) K 231 (100.0%) R 234 (100.0%) K 235 (100.0%) S 236 (100.0%) Y 248 (100.0%) Y 249 (100.0%) K 252 (100.0%) K 254 (100.0%) N 255 (100.0%) Y 256 (100.0%) T 257 (100.0%) S 258 (100.0%) D 259 (100.0%) Q 261 (100.0%) R 262 (100.0%) Y 267 (100.0%) S 270 (100.0%) Y 273 (100.0%) N 274 (100.0%) N 276 (100.0%) N 280 (100.0%) K 281 (100.0%) T 285 (100.0%) N 286 (100.0%) K 288 (100.0%) Y 289 (100.0%) S 292 (100.0%) T 293 (100.0%) R 295 (100.0%) T 296 (100.0%) S 298 (100.0%) D 299 (100.0%) T 300 (100.0%) T 303 (100.0%) N 308 (100.0%) T 309 (100.0%) T 313 (100.0%) T 314 (100.0%) S 315 (100.0%) S 318 (100.0%) E 319 (100.0%) Q 324 (100.0%) S 325 (100.0%) S 326 (100.0%) T 327 (100.0%) Y 331 (100.0%) S 333 (100.0%) N 334 (100.0%) Y 336 (100.0%) S 337 (100.0%) R 340 (100.0%) E 344 (100.0%) D 345 (100.0%) Y 348 (100.0%) Y 354 (100.0%) E 363 (100.0%) Y 366 (100.0%) E 367 (100.0%) R 370 (100.0%) R 371 (100.0%) K 372 (100.0%) Y 374 (100.0%) S 375 (100.0%) Y 381 (100.0%) S 382 (100.0%) Y 383 (100.0%) S 384 (100.0%) Y 386 (100.0%) Y 390 (100.0%) E 394 (100.0%) E 395 (100.0%) Q 396 (100.0%) R 399 (100.0%) R 400 (100.0%) H 402 (100.0%) T 405 (100.0%) Y 407 (100.0%) E 408 (100.0%) S 410 (100.0%) Y 416 (100.0%) Q 421 (100.0%) R 422 (100.0%) K 423 (100.0%) R 425 (100.0%) K 427 (100.0%) 
+Y 2, T 10, T 13, D 15, R 20, S 21, K 24, S 26, S 32, S 36, S 37, Y 41, N 43, Y 44, R 45, Q 46, D 48, S 52, T 53, K 54, Y 58, S 61, S 65, R 74, R 78, K 79, K 80, D 81, K 82, N 83, Y 84, E 85, K 89, E 90, D 92, N 94, T 95, H 96, S 98, T 105, Y 112, S 116, K 118, D 119, Q 121, S 123, N 125, N 128, S 131, Q 132, Y 134, Y 135, K 136, N 137, Q 139, H 140, N 141, S 143, N 144, S 145, N 149, Q 150, E 153, T 156, Y 160, S 162, Q 165, S 168, R 170, Y 171, K 174, D 175, R 176, N 177, R 178, Q 179, T 180, N 182, Y 183, N 185, T 188, S 196, T 197, D 198, R 199, N 200, R 204, Y 208, Y 217, T 218, K 219, S 220, N 221, Q 222, S 224, K 226, S 227, N 229, K 231, R 234, K 235, S 236, Y 248, Y 249, K 252, K 254, N 255, Y 256, T 257, S 258, D 259, Q 261, R 262, Y 267, S 270, Y 273, N 274, N 276, N 280, K 281, T 285, N 286, K 288, Y 289, S 292, T 293, R 295, T 296, S 298, D 299, T 300, T 303, N 308, T 309, T 313, T 314, S 315, S 318, E 319, Q 324, S 325, S 326, T 327, Y 331, S 333, N 334, Y 336, S 337, R 340, E 344, D 345, Y 348, Y 354, E 363, Y 366, E 367, R 370, R 371, K 372, Y 374, S 375, Y 381, S 382, Y 383, S 384, Y 386, Y 390, E 394, E 395, Q 396, R 399, R 400, H 402, T 405, Y 407, E 408, S 410, Y 416, Q 421, R 422, K 423, R 425, K 427
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
-|---------------------|---------|----------|---------|-----------|------------|--------------------------------------|
+| accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
+|-------------|---------|----------|---------|-----------|------------|--------------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_197/sequences.afa)
 
@@ -12517,7 +11976,7 @@ Y 2 (100.0%) T 10 (100.0%) T 13 (100.0%) D 15 (100.0%) R 20 (100.0%) S 21 (100.0
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12527,21 +11986,22 @@ Y 2 (100.0%) T 10 (100.0%) T 13 (100.0%) D 15 (100.0%) R 20 (100.0%) S 21 (100.0
 |:--------------------|:---------------------|:------------------|
 | Lactobacillales (2) | Streptococcaceae (2) | Streptococcus (2) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 193
+
 Total number of members in cluster: 2
 
 Average length of proteins in cluster: 393.5
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 2 (100.0%) Y 3 (100.0%) R 26 (100.0%) S 28 (100.0%) S 43 (100.0%) R 46 (100.0%) Y 47 (100.0%) Y 48 (100.0%) D 52 (100.0%) E 54 (100.0%) Y 56 (100.0%) Q 57 (100.0%) Y 60 (100.0%) Y 64 (100.0%) S 66 (100.0%) N 74 (100.0%) Y 78 (100.0%) R 79 (100.0%) R 86 (100.0%) S 89 (100.0%) S 91 (100.0%) S 107 (100.0%) S 111 (100.0%) K 117 (100.0%) Y 130 (100.0%) Y 133 (100.0%) E 134 (100.0%) Y 135 (100.0%) Q 142 (100.0%) R 143 (100.0%) Q 144 (100.0%) H 148 (100.0%) N 164 (100.0%) K 166 (100.0%) T 179 (100.0%) H 181 (100.0%) S 183 (100.0%) Y 191 (100.0%) S 198 (100.0%) S 216 (100.0%) S 222 (100.0%) N 225 (100.0%) K 251 (100.0%) Y 254 (100.0%) Y 255 (100.0%) Y 258 (100.0%) K 263 (100.0%) S 267 (100.0%) R 269 (100.0%) Y 270 (100.0%) E 272 (100.0%) Y 273 (100.0%) S 289 (100.0%) K 292 (100.0%) Y 295 (100.0%) Y 305 (100.0%) H 310 (100.0%) S 318 (100.0%) Q 324 (100.0%) R 326 (100.0%) E 328 (100.0%) Y 330 (100.0%) H 335 (100.0%) S 340 (100.0%) K 349 (100.0%) S 361 (100.0%) K 367 (100.0%) Y 368 (100.0%) R 370 (100.0%) S 374 (100.0%) Y 377 (100.0%) D 381 (100.0%) S 382 (100.0%) H 383 (100.0%) Y 384 (100.0%) Q 385 (100.0%) R 386 (100.0%) Y 390 (100.0%) 
+D 2, Y 3, R 26, S 28, S 43, R 46, Y 47, Y 48, D 52, E 54, Y 56, Q 57, Y 60, Y 64, S 66, N 74, Y 78, R 79, R 86, S 89, S 91, S 107, S 111, K 117, Y 130, Y 133, E 134, Y 135, Q 142, R 143, Q 144, H 148, N 164, K 166, T 179, H 181, S 183, Y 191, S 198, S 216, S 222, N 225, K 251, Y 254, Y 255, Y 258, K 263, S 267, R 269, Y 270, E 272, Y 273, S 289, K 292, Y 295, Y 305, H 310, S 318, Q 324, R 326, E 328, Y 330, H 335, S 340, K 349, S 361, K 367, Y 368, R 370, S 374, Y 377, D 381, S 382, H 383, Y 384, Q 385, R 386, Y 390
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
-|---------------------|---------|----------|---------|-----------|------------|--------------------------------------|
+| accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
+|-------------|---------|----------|---------|-----------|------------|--------------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_193/sequences.afa)
 
@@ -12557,7 +12017,7 @@ D 2 (100.0%) Y 3 (100.0%) R 26 (100.0%) S 28 (100.0%) S 43 (100.0%) R 46 (100.0%
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12568,21 +12028,22 @@ D 2 (100.0%) Y 3 (100.0%) R 26 (100.0%) S 28 (100.0%) S 43 (100.0%) R 46 (100.0%
 | Vibrionales (2) | Vibrionaceae (2) | Photobacterium (1) |
 |                 |                  | Vibrio (1)         |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 189
+
 Total number of members in cluster: 2
 
 Average length of proteins in cluster: 452.5
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-T 46 (100.0%) Y 48 (100.0%) T 56 (100.0%) S 62 (100.0%) R 64 (100.0%) K 68 (100.0%) N 69 (100.0%) R 71 (100.0%) E 72 (100.0%) T 73 (100.0%) T 76 (100.0%) E 77 (100.0%) D 80 (100.0%) R 84 (100.0%) T 85 (100.0%) R 89 (100.0%) T 90 (100.0%) R 94 (100.0%) T 95 (100.0%) R 99 (100.0%) T 103 (100.0%) S 107 (100.0%) S 109 (100.0%) R 110 (100.0%) R 112 (100.0%) R 114 (100.0%) S 115 (100.0%) T 122 (100.0%) R 123 (100.0%) T 124 (100.0%) S 126 (100.0%) S 127 (100.0%) T 128 (100.0%) R 129 (100.0%) Y 130 (100.0%) R 131 (100.0%) R 133 (100.0%) S 134 (100.0%) T 140 (100.0%) E 141 (100.0%) E 142 (100.0%) E 143 (100.0%) T 144 (100.0%) R 146 (100.0%) R 149 (100.0%) R 150 (100.0%) T 152 (100.0%) D 155 (100.0%) T 160 (100.0%) S 166 (100.0%) R 169 (100.0%) Y 170 (100.0%) D 171 (100.0%) T 174 (100.0%) D 175 (100.0%) Y 176 (100.0%) T 178 (100.0%) Y 179 (100.0%) E 180 (100.0%) N 184 (100.0%) N 187 (100.0%) D 189 (100.0%) D 190 (100.0%) D 194 (100.0%) E 197 (100.0%) S 198 (100.0%) T 199 (100.0%) Q 200 (100.0%) E 201 (100.0%) Y 204 (100.0%) T 205 (100.0%) K 212 (100.0%) T 213 (100.0%) T 215 (100.0%) E 216 (100.0%) D 217 (100.0%) K 219 (100.0%) T 229 (100.0%) Y 234 (100.0%) K 238 (100.0%) R 239 (100.0%) S 241 (100.0%) D 243 (100.0%) E 255 (100.0%) Y 256 (100.0%) T 257 (100.0%) S 258 (100.0%) S 259 (100.0%) N 261 (100.0%) R 264 (100.0%) Q 265 (100.0%) Y 266 (100.0%) T 277 (100.0%) Y 278 (100.0%) R 281 (100.0%) K 282 (100.0%) N 283 (100.0%) S 295 (100.0%) H 297 (100.0%) T 299 (100.0%) R 311 (100.0%) R 312 (100.0%) R 314 (100.0%) T 316 (100.0%) Q 318 (100.0%) T 319 (100.0%) T 320 (100.0%) R 335 (100.0%) S 342 (100.0%) E 345 (100.0%) N 348 (100.0%) R 350 (100.0%) Y 351 (100.0%) D 353 (100.0%) Y 354 (100.0%) D 356 (100.0%) S 357 (100.0%) Q 359 (100.0%) T 360 (100.0%) S 364 (100.0%) Y 365 (100.0%) S 367 (100.0%) Y 371 (100.0%) S 383 (100.0%) R 384 (100.0%) K 385 (100.0%) T 389 (100.0%) R 390 (100.0%) E 392 (100.0%) S 393 (100.0%) Q 394 (100.0%) T 410 (100.0%) Q 411 (100.0%) S 416 (100.0%) R 417 (100.0%) S 419 (100.0%) Y 421 (100.0%) N 432 (100.0%) R 433 (100.0%) K 436 (100.0%) Q 438 (100.0%) D 439 (100.0%) R 440 (100.0%) T 441 (100.0%) T 444 (100.0%) Y 454 (100.0%) Y 455 (100.0%) Q 460 (100.0%) N 461 (100.0%) Y 462 (100.0%) E 464 (100.0%) Y 468 (100.0%) R 469 (100.0%) T 470 (100.0%) Y 471 (100.0%) Q 474 (100.0%) 
+T 46, Y 48, T 56, S 62, R 64, K 68, N 69, R 71, E 72, T 73, T 76, E 77, D 80, R 84, T 85, R 89, T 90, R 94, T 95, R 99, T 103, S 107, S 109, R 110, R 112, R 114, S 115, T 122, R 123, T 124, S 126, S 127, T 128, R 129, Y 130, R 131, R 133, S 134, T 140, E 141, E 142, E 143, T 144, R 146, R 149, R 150, T 152, D 155, T 160, S 166, R 169, Y 170, D 171, T 174, D 175, Y 176, T 178, Y 179, E 180, N 184, N 187, D 189, D 190, D 194, E 197, S 198, T 199, Q 200, E 201, Y 204, T 205, K 212, T 213, T 215, E 216, D 217, K 219, T 229, Y 234, K 238, R 239, S 241, D 243, E 255, Y 256, T 257, S 258, S 259, N 261, R 264, Q 265, Y 266, T 277, Y 278, R 281, K 282, N 283, S 295, H 297, T 299, R 311, R 312, R 314, T 316, Q 318, T 319, T 320, R 335, S 342, E 345, N 348, R 350, Y 351, D 353, Y 354, D 356, S 357, Q 359, T 360, S 364, Y 365, S 367, Y 371, S 383, R 384, K 385, T 389, R 390, E 392, S 393, Q 394, T 410, Q 411, S 416, R 417, S 419, Y 421, N 432, R 433, K 436, Q 438, D 439, R 440, T 441, T 444, Y 454, Y 455, Q 460, N 461, Y 462, E 464, Y 468, R 469, T 470, Y 471, Q 474
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
-|---------------------|---------|----------|---------|-----------|------------|--------------------------------------|
+| accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
+|-------------|---------|----------|---------|-----------|------------|--------------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_189/sequences.afa)
 
@@ -12598,7 +12059,7 @@ T 46 (100.0%) Y 48 (100.0%) T 56 (100.0%) S 62 (100.0%) R 64 (100.0%) K 68 (100.
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12608,21 +12069,22 @@ T 46 (100.0%) Y 48 (100.0%) T 56 (100.0%) S 62 (100.0%) R 64 (100.0%) K 68 (100.
 |:------------------|:---------------------|:--------------------|
 | Micrococcales (2) | Dermabacteraceae (2) | Brachybacterium (2) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 188
+
 Total number of members in cluster: 2
 
 Average length of proteins in cluster: 337.5
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 2 (100.0%) S 41 (100.0%) D 43 (100.0%) N 46 (100.0%) Y 47 (100.0%) N 49 (100.0%) Y 51 (100.0%) Y 52 (100.0%) E 61 (100.0%) S 64 (100.0%) S 81 (100.0%) K 93 (100.0%) S 105 (100.0%) Y 111 (100.0%) K 114 (100.0%) D 120 (100.0%) T 122 (100.0%) Q 123 (100.0%) R 125 (100.0%) Y 151 (100.0%) H 159 (100.0%) S 161 (100.0%) K 174 (100.0%) N 177 (100.0%) S 192 (100.0%) K 197 (100.0%) H 208 (100.0%) N 212 (100.0%) Y 213 (100.0%) Y 216 (100.0%) N 226 (100.0%) N 235 (100.0%) K 246 (100.0%) D 251 (100.0%) N 255 (100.0%) K 259 (100.0%) Y 261 (100.0%) S 264 (100.0%) S 267 (100.0%) Y 269 (100.0%) S 278 (100.0%) R 280 (100.0%) S 282 (100.0%) E 283 (100.0%) Y 288 (100.0%) Q 289 (100.0%) Q 304 (100.0%) R 305 (100.0%) S 316 (100.0%) Q 319 (100.0%) Y 321 (100.0%) T 323 (100.0%) Y 324 (100.0%) N 325 (100.0%) Y 333 (100.0%) 
+Y 2, S 41, D 43, N 46, Y 47, N 49, Y 51, Y 52, E 61, S 64, S 81, K 93, S 105, Y 111, K 114, D 120, T 122, Q 123, R 125, Y 151, H 159, S 161, K 174, N 177, S 192, K 197, H 208, N 212, Y 213, Y 216, N 226, N 235, K 246, D 251, N 255, K 259, Y 261, S 264, S 267, Y 269, S 278, R 280, S 282, E 283, Y 288, Q 289, Q 304, R 305, S 316, Q 319, Y 321, T 323, Y 324, N 325, Y 333
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
-|---------------------|---------|----------|---------|-----------|------------|--------------------------------------|
+| accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
+|-------------|---------|----------|---------|-----------|------------|--------------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_188/sequences.afa)
 
@@ -12638,7 +12100,7 @@ Y 2 (100.0%) S 41 (100.0%) D 43 (100.0%) N 46 (100.0%) Y 47 (100.0%) N 49 (100.0
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12649,21 +12111,22 @@ Y 2 (100.0%) S 41 (100.0%) D 43 (100.0%) N 46 (100.0%) Y 47 (100.0%) N 49 (100.0
 | Enterobacterales (2) | Erwiniaceae (1)        | Erwinia (1)     |
 |                      | Enterobacteriaceae (1) | Escherichia (1) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 187
+
 Total number of members in cluster: 2
 
 Average length of proteins in cluster: 362.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-Y 3 (100.0%) Y 19 (100.0%) N 20 (100.0%) Y 24 (100.0%) N 28 (100.0%) R 39 (100.0%) D 46 (100.0%) T 47 (100.0%) Y 50 (100.0%) N 58 (100.0%) N 65 (100.0%) N 68 (100.0%) Q 76 (100.0%) R 77 (100.0%) E 79 (100.0%) T 80 (100.0%) N 86 (100.0%) K 87 (100.0%) Y 90 (100.0%) S 93 (100.0%) N 95 (100.0%) Q 97 (100.0%) E 99 (100.0%) T 103 (100.0%) T 109 (100.0%) Y 122 (100.0%) N 137 (100.0%) S 138 (100.0%) N 140 (100.0%) R 143 (100.0%) Q 144 (100.0%) S 145 (100.0%) K 162 (100.0%) H 177 (100.0%) T 179 (100.0%) Y 187 (100.0%) S 190 (100.0%) N 195 (100.0%) E 214 (100.0%) K 215 (100.0%) S 221 (100.0%) S 224 (100.0%) T 225 (100.0%) E 226 (100.0%) S 231 (100.0%) N 237 (100.0%) N 244 (100.0%) Y 261 (100.0%) D 271 (100.0%) K 272 (100.0%) K 278 (100.0%) S 280 (100.0%) Y 282 (100.0%) S 294 (100.0%) K 296 (100.0%) S 298 (100.0%) Q 299 (100.0%) R 302 (100.0%) Y 306 (100.0%) E 311 (100.0%) N 324 (100.0%) K 328 (100.0%) Y 342 (100.0%) Q 347 (100.0%) R 350 (100.0%) E 352 (100.0%) S 354 (100.0%) Y 359 (100.0%) 
+Y 3, Y 19, N 20, Y 24, N 28, R 39, D 46, T 47, Y 50, N 58, N 65, N 68, Q 76, R 77, E 79, T 80, N 86, K 87, Y 90, S 93, N 95, Q 97, E 99, T 103, T 109, Y 122, N 137, S 138, N 140, R 143, Q 144, S 145, K 162, H 177, T 179, Y 187, S 190, N 195, E 214, K 215, S 221, S 224, T 225, E 226, S 231, N 237, N 244, Y 261, D 271, K 272, K 278, S 280, Y 282, S 294, K 296, S 298, Q 299, R 302, Y 306, E 311, N 324, K 328, Y 342, Q 347, R 350, E 352, S 354, Y 359
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
-|---------------------|---------|----------|---------|-----------|------------|--------------------------------------|
+| accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
+|-------------|---------|----------|---------|-----------|------------|--------------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_187/sequences.afa)
 
@@ -12679,7 +12142,7 @@ Y 3 (100.0%) Y 19 (100.0%) N 20 (100.0%) Y 24 (100.0%) N 28 (100.0%) R 39 (100.0
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12689,22 +12152,23 @@ Y 3 (100.0%) Y 19 (100.0%) N 20 (100.0%) Y 24 (100.0%) N 28 (100.0%) R 39 (100.0
 |:--------------------|:---------------------|:------------------------|
 | Lactobacillales (2) | Lactobacillaceae (2) | Limosilactobacillus (2) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 185
+
 Total number of members in cluster: 2
 
 Average length of proteins in cluster: 361.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 4 (100.0%) T 5 (100.0%) Y 10 (100.0%) S 16 (100.0%) K 23 (100.0%) E 24 (100.0%) R 27 (100.0%) N 29 (100.0%) K 31 (100.0%) Y 32 (100.0%) Y 34 (100.0%) D 37 (100.0%) Y 39 (100.0%) Y 41 (100.0%) S 46 (100.0%) Y 50 (100.0%) T 54 (100.0%) R 55 (100.0%) D 56 (100.0%) S 59 (100.0%) D 60 (100.0%) S 61 (100.0%) D 62 (100.0%) T 63 (100.0%) E 64 (100.0%) R 65 (100.0%) Y 66 (100.0%) S 68 (100.0%) E 71 (100.0%) Y 72 (100.0%) Y 73 (100.0%) R 74 (100.0%) N 76 (100.0%) Y 79 (100.0%) D 82 (100.0%) K 83 (100.0%) N 84 (100.0%) Y 85 (100.0%) Y 90 (100.0%) T 91 (100.0%) Y 92 (100.0%) Y 94 (100.0%) S 95 (100.0%) Y 97 (100.0%) D 99 (100.0%) Y 101 (100.0%) Y 102 (100.0%) Y 104 (100.0%) T 111 (100.0%) Y 114 (100.0%) S 115 (100.0%) Y 116 (100.0%) K 118 (100.0%) K 121 (100.0%) K 124 (100.0%) Y 125 (100.0%) Y 128 (100.0%) S 129 (100.0%) S 131 (100.0%) T 137 (100.0%) Q 143 (100.0%) S 145 (100.0%) S 147 (100.0%) K 150 (100.0%) Q 151 (100.0%) S 156 (100.0%) H 164 (100.0%) Q 167 (100.0%) T 168 (100.0%) K 169 (100.0%) Y 170 (100.0%) K 171 (100.0%) Q 172 (100.0%) S 177 (100.0%) S 181 (100.0%) S 182 (100.0%) H 184 (100.0%) T 186 (100.0%) T 189 (100.0%) S 194 (100.0%) Y 198 (100.0%) R 200 (100.0%) K 201 (100.0%) E 202 (100.0%) R 203 (100.0%) S 205 (100.0%) N 207 (100.0%) S 216 (100.0%) S 220 (100.0%) S 222 (100.0%) N 225 (100.0%) S 226 (100.0%) Y 227 (100.0%) S 230 (100.0%) Y 235 (100.0%) D 236 (100.0%) E 240 (100.0%) S 241 (100.0%) K 242 (100.0%) N 244 (100.0%) Y 246 (100.0%) E 248 (100.0%) S 249 (100.0%) T 250 (100.0%) N 251 (100.0%) N 252 (100.0%) T 254 (100.0%) R 257 (100.0%) D 259 (100.0%) S 264 (100.0%) N 274 (100.0%) R 275 (100.0%) T 276 (100.0%) K 280 (100.0%) D 281 (100.0%) R 282 (100.0%) Y 283 (100.0%) K 285 (100.0%) S 290 (100.0%) Y 291 (100.0%) Y 293 (100.0%) N 295 (100.0%) S 296 (100.0%) Y 298 (100.0%) N 299 (100.0%) S 302 (100.0%) S 307 (100.0%) D 308 (100.0%) R 309 (100.0%) Y 313 (100.0%) S 314 (100.0%) S 318 (100.0%) S 325 (100.0%) K 328 (100.0%) R 330 (100.0%) S 331 (100.0%) S 332 (100.0%) Y 334 (100.0%) S 337 (100.0%) S 338 (100.0%) N 345 (100.0%) Y 351 (100.0%) Y 352 (100.0%) N 353 (100.0%) S 354 (100.0%) K 360 (100.0%) 
+S 4, T 5, Y 10, S 16, K 23, E 24, R 27, N 29, K 31, Y 32, Y 34, D 37, Y 39, Y 41, S 46, Y 50, T 54, R 55, D 56, S 59, D 60, S 61, D 62, T 63, E 64, R 65, Y 66, S 68, E 71, Y 72, Y 73, R 74, N 76, Y 79, D 82, K 83, N 84, Y 85, Y 90, T 91, Y 92, Y 94, S 95, Y 97, D 99, Y 101, Y 102, Y 104, T 111, Y 114, S 115, Y 116, K 118, K 121, K 124, Y 125, Y 128, S 129, S 131, T 137, Q 143, S 145, S 147, K 150, Q 151, S 156, H 164, Q 167, T 168, K 169, Y 170, K 171, Q 172, S 177, S 181, S 182, H 184, T 186, T 189, S 194, Y 198, R 200, K 201, E 202, R 203, S 205, N 207, S 216, S 220, S 222, N 225, S 226, Y 227, S 230, Y 235, D 236, E 240, S 241, K 242, N 244, Y 246, E 248, S 249, T 250, N 251, N 252, T 254, R 257, D 259, S 264, N 274, R 275, T 276, K 280, D 281, R 282, Y 283, K 285, S 290, Y 291, Y 293, N 295, S 296, Y 298, N 299, S 302, S 307, D 308, R 309, Y 313, S 314, S 318, S 325, K 328, R 330, S 331, S 332, Y 334, S 337, S 338, N 345, Y 351, Y 352, N 353, S 354, K 360
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ACH97152.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O3         |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ACH97152.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O3         |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_185/sequences.afa)
 
@@ -12720,13 +12184,11 @@ S 4 (100.0%) T 5 (100.0%) Y 10 (100.0%) S 16 (100.0%) K 23 (100.0%) E 24 (100.0%
 
 #### Sugars in cluster:
 
-ACH97152.1 Escherichia coli O3:
+ACH97152.1 (Escherichia coli O3)
 
-![](../../../csdb/images/1501.gif)
+![](../../../csdb/images/1501.gif)1501
 
-CSDB record ID: 1501
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12736,22 +12198,23 @@ CSDB record ID: 1501
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 182
+
 Total number of members in cluster: 2
 
 Average length of proteins in cluster: 339.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-K 4 (100.0%) S 5 (100.0%) R 6 (100.0%) Y 22 (100.0%) K 23 (100.0%) E 25 (100.0%) N 27 (100.0%) Y 28 (100.0%) T 30 (100.0%) D 32 (100.0%) E 33 (100.0%) Y 36 (100.0%) S 39 (100.0%) D 40 (100.0%) S 41 (100.0%) T 44 (100.0%) D 45 (100.0%) T 47 (100.0%) S 50 (100.0%) R 51 (100.0%) Y 52 (100.0%) K 53 (100.0%) Y 57 (100.0%) R 60 (100.0%) Y 63 (100.0%) E 64 (100.0%) Y 65 (100.0%) E 67 (100.0%) Y 68 (100.0%) S 70 (100.0%) N 75 (100.0%) T 77 (100.0%) N 84 (100.0%) K 85 (100.0%) S 87 (100.0%) K 88 (100.0%) S 89 (100.0%) S 90 (100.0%) N 91 (100.0%) N 92 (100.0%) N 93 (100.0%) D 94 (100.0%) N 96 (100.0%) Y 97 (100.0%) Y 100 (100.0%) S 106 (100.0%) Y 110 (100.0%) S 112 (100.0%) R 116 (100.0%) D 117 (100.0%) Y 119 (100.0%) Y 129 (100.0%) R 131 (100.0%) R 132 (100.0%) K 134 (100.0%) H 135 (100.0%) K 136 (100.0%) Q 140 (100.0%) K 151 (100.0%) E 153 (100.0%) S 165 (100.0%) R 166 (100.0%) K 168 (100.0%) S 170 (100.0%) Y 176 (100.0%) T 184 (100.0%) H 190 (100.0%) N 191 (100.0%) Q 192 (100.0%) T 193 (100.0%) Y 198 (100.0%) N 200 (100.0%) T 201 (100.0%) E 203 (100.0%) R 204 (100.0%) E 206 (100.0%) T 208 (100.0%) S 211 (100.0%) E 212 (100.0%) Y 213 (100.0%) N 214 (100.0%) T 215 (100.0%) Q 221 (100.0%) Q 222 (100.0%) E 224 (100.0%) T 226 (100.0%) N 229 (100.0%) N 233 (100.0%) S 237 (100.0%) Y 238 (100.0%) N 240 (100.0%) S 243 (100.0%) S 248 (100.0%) S 251 (100.0%) N 252 (100.0%) T 253 (100.0%) N 255 (100.0%) N 258 (100.0%) T 262 (100.0%) D 264 (100.0%) S 265 (100.0%) N 280 (100.0%) T 281 (100.0%) K 282 (100.0%) K 283 (100.0%) Y 284 (100.0%) Y 285 (100.0%) S 286 (100.0%) D 287 (100.0%) D 288 (100.0%) Y 290 (100.0%) R 291 (100.0%) S 293 (100.0%) S 300 (100.0%) Y 303 (100.0%) Y 305 (100.0%) T 309 (100.0%) T 312 (100.0%) S 313 (100.0%) R 315 (100.0%) H 317 (100.0%) H 319 (100.0%) 
+K 4, S 5, R 6, Y 22, K 23, E 25, N 27, Y 28, T 30, D 32, E 33, Y 36, S 39, D 40, S 41, T 44, D 45, T 47, S 50, R 51, Y 52, K 53, Y 57, R 60, Y 63, E 64, Y 65, E 67, Y 68, S 70, N 75, T 77, N 84, K 85, S 87, K 88, S 89, S 90, N 91, N 92, N 93, D 94, N 96, Y 97, Y 100, S 106, Y 110, S 112, R 116, D 117, Y 119, Y 129, R 131, R 132, K 134, H 135, K 136, Q 140, K 151, E 153, S 165, R 166, K 168, S 170, Y 176, T 184, H 190, N 191, Q 192, T 193, Y 198, N 200, T 201, E 203, R 204, E 206, T 208, S 211, E 212, Y 213, N 214, T 215, Q 221, Q 222, E 224, T 226, N 229, N 233, S 237, Y 238, N 240, S 243, S 248, S 251, N 252, T 253, N 255, N 258, T 262, D 264, S 265, N 280, T 281, K 282, K 283, Y 284, Y 285, S 286, D 287, D 288, Y 290, R 291, S 293, S 300, Y 303, Y 305, T 309, T 312, S 313, R 315, H 317, H 319
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| ACA24890.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O159       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| ACA24890.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O159       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_182/sequences.afa)
 
@@ -12767,13 +12230,11 @@ K 4 (100.0%) S 5 (100.0%) R 6 (100.0%) Y 22 (100.0%) K 23 (100.0%) E 25 (100.0%)
 
 #### Sugars in cluster:
 
-ACA24890.1 Escherichia coli O159:
+ACA24890.1 (Escherichia coli O159)
 
-![](../../../csdb/images/1900.gif)
+![](../../../csdb/images/1900.gif)1900
 
-CSDB record ID: 1900
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12783,22 +12244,23 @@ CSDB record ID: 1900
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 178
+
 Total number of members in cluster: 2
 
 Average length of proteins in cluster: 409.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-D 1 (100.0%) S 2 (100.0%) N 4 (100.0%) R 5 (100.0%) S 6 (100.0%) S 7 (100.0%) K 9 (100.0%) K 12 (100.0%) S 13 (100.0%) N 14 (100.0%) S 18 (100.0%) Y 23 (100.0%) T 24 (100.0%) T 26 (100.0%) Y 28 (100.0%) D 31 (100.0%) D 36 (100.0%) N 37 (100.0%) K 40 (100.0%) N 44 (100.0%) T 45 (100.0%) S 46 (100.0%) K 52 (100.0%) S 59 (100.0%) T 64 (100.0%) Y 66 (100.0%) T 67 (100.0%) K 69 (100.0%) S 71 (100.0%) R 72 (100.0%) E 74 (100.0%) Y 84 (100.0%) S 86 (100.0%) S 87 (100.0%) T 92 (100.0%) S 93 (100.0%) D 94 (100.0%) Y 96 (100.0%) E 97 (100.0%) Y 100 (100.0%) S 103 (100.0%) N 104 (100.0%) Y 105 (100.0%) Y 108 (100.0%) Y 112 (100.0%) T 115 (100.0%) K 116 (100.0%) Y 118 (100.0%) E 120 (100.0%) K 121 (100.0%) Y 122 (100.0%) Y 124 (100.0%) Y 125 (100.0%) K 126 (100.0%) T 128 (100.0%) K 129 (100.0%) S 130 (100.0%) T 132 (100.0%) S 135 (100.0%) S 142 (100.0%) Y 144 (100.0%) D 146 (100.0%) Y 150 (100.0%) E 151 (100.0%) R 152 (100.0%) R 156 (100.0%) S 157 (100.0%) E 158 (100.0%) T 162 (100.0%) Y 163 (100.0%) S 166 (100.0%) Q 167 (100.0%) S 169 (100.0%) R 171 (100.0%) K 172 (100.0%) S 176 (100.0%) S 177 (100.0%) N 178 (100.0%) N 180 (100.0%) T 184 (100.0%) E 192 (100.0%) Y 193 (100.0%) Y 195 (100.0%) Y 198 (100.0%) N 199 (100.0%) R 200 (100.0%) H 202 (100.0%) T 203 (100.0%) K 204 (100.0%) T 205 (100.0%) T 206 (100.0%) T 220 (100.0%) S 222 (100.0%) K 223 (100.0%) T 224 (100.0%) S 229 (100.0%) T 236 (100.0%) T 238 (100.0%) K 239 (100.0%) S 241 (100.0%) R 244 (100.0%) Q 245 (100.0%) K 246 (100.0%) S 247 (100.0%) T 248 (100.0%) S 254 (100.0%) S 256 (100.0%) T 264 (100.0%) D 268 (100.0%) Y 269 (100.0%) Y 271 (100.0%) E 272 (100.0%) S 275 (100.0%) S 276 (100.0%) R 277 (100.0%) S 280 (100.0%) N 282 (100.0%) D 285 (100.0%) S 286 (100.0%) S 287 (100.0%) R 289 (100.0%) Y 290 (100.0%) E 291 (100.0%) Y 293 (100.0%) D 298 (100.0%) K 299 (100.0%) N 301 (100.0%) Q 302 (100.0%) N 303 (100.0%) T 308 (100.0%) D 311 (100.0%) R 313 (100.0%) E 314 (100.0%) D 315 (100.0%) Y 316 (100.0%) S 317 (100.0%) Q 318 (100.0%) Y 319 (100.0%) R 325 (100.0%) S 327 (100.0%) D 328 (100.0%) S 329 (100.0%) Y 331 (100.0%) N 333 (100.0%) S 337 (100.0%) S 338 (100.0%) T 347 (100.0%) T 349 (100.0%) T 356 (100.0%) K 359 (100.0%) K 360 (100.0%) D 361 (100.0%) R 362 (100.0%) R 364 (100.0%) S 372 (100.0%) E 378 (100.0%) D 379 (100.0%) Y 380 (100.0%) R 383 (100.0%) S 386 (100.0%) S 392 (100.0%) T 394 (100.0%) Y 396 (100.0%) S 399 (100.0%) T 400 (100.0%) N 401 (100.0%) K 403 (100.0%) N 406 (100.0%) T 407 (100.0%) K 408 (100.0%) 
+D 1, S 2, N 4, R 5, S 6, S 7, K 9, K 12, S 13, N 14, S 18, Y 23, T 24, T 26, Y 28, D 31, D 36, N 37, K 40, N 44, T 45, S 46, K 52, S 59, T 64, Y 66, T 67, K 69, S 71, R 72, E 74, Y 84, S 86, S 87, T 92, S 93, D 94, Y 96, E 97, Y 100, S 103, N 104, Y 105, Y 108, Y 112, T 115, K 116, Y 118, E 120, K 121, Y 122, Y 124, Y 125, K 126, T 128, K 129, S 130, T 132, S 135, S 142, Y 144, D 146, Y 150, E 151, R 152, R 156, S 157, E 158, T 162, Y 163, S 166, Q 167, S 169, R 171, K 172, S 176, S 177, N 178, N 180, T 184, E 192, Y 193, Y 195, Y 198, N 199, R 200, H 202, T 203, K 204, T 205, T 206, T 220, S 222, K 223, T 224, S 229, T 236, T 238, K 239, S 241, R 244, Q 245, K 246, S 247, T 248, S 254, S 256, T 264, D 268, Y 269, Y 271, E 272, S 275, S 276, R 277, S 280, N 282, D 285, S 286, S 287, R 289, Y 290, E 291, Y 293, D 298, K 299, N 301, Q 302, N 303, T 308, D 311, R 313, E 314, D 315, Y 316, S 317, Q 318, Y 319, R 325, S 327, D 328, S 329, Y 331, N 333, S 337, S 338, T 347, T 349, T 356, K 359, K 360, D 361, R 362, R 364, S 372, E 378, D 379, Y 380, R 383, S 386, S 392, T 394, Y 396, S 399, T 400, N 401, K 403, N 406, T 407, K 408
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01114.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O64        |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01114.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O64        |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_178/sequences.afa)
 
@@ -12814,13 +12276,11 @@ D 1 (100.0%) S 2 (100.0%) N 4 (100.0%) R 5 (100.0%) S 6 (100.0%) S 7 (100.0%) K 
 
 #### Sugars in cluster:
 
-BAQ01114.1 Escherichia coli O64:
+BAQ01114.1 (Escherichia coli O64)
 
-![](../../../csdb/images/1571.gif)
+![](../../../csdb/images/1571.gif)1571
 
-CSDB record ID: 1571
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12830,21 +12290,22 @@ CSDB record ID: 1571
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 175
+
 Total number of members in cluster: 2
 
 Average length of proteins in cluster: 358.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-S 42 (100.0%) N 68 (100.0%) Y 76 (100.0%) S 92 (100.0%) D 99 (100.0%) D 153 (100.0%) N 156 (100.0%) S 163 (100.0%) R 164 (100.0%) N 165 (100.0%) S 168 (100.0%) Y 178 (100.0%) K 187 (100.0%) S 200 (100.0%) R 207 (100.0%) S 213 (100.0%) Y 225 (100.0%) T 235 (100.0%) S 243 (100.0%) N 256 (100.0%) R 265 (100.0%) Y 272 (100.0%) S 275 (100.0%) N 301 (100.0%) H 303 (100.0%) N 304 (100.0%) H 310 (100.0%) S 331 (100.0%) K 336 (100.0%) R 350 (100.0%) Y 351 (100.0%) D 354 (100.0%) D 363 (100.0%) K 390 (100.0%) 
+S 42, N 68, Y 76, S 92, D 99, D 153, N 156, S 163, R 164, N 165, S 168, Y 178, K 187, S 200, R 207, S 213, Y 225, T 235, S 243, N 256, R 265, Y 272, S 275, N 301, H 303, N 304, H 310, S 331, K 336, R 350, Y 351, D 354, D 363, K 390
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
-|---------------------|---------|----------|---------|-----------|------------|--------------------------------------|
+| accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
+|-------------|---------|----------|---------|-----------|------------|--------------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_175/sequences.afa)
 
@@ -12860,7 +12321,7 @@ S 42 (100.0%) N 68 (100.0%) Y 76 (100.0%) S 92 (100.0%) D 99 (100.0%) D 153 (100
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12871,21 +12332,22 @@ S 42 (100.0%) N 68 (100.0%) Y 76 (100.0%) S 92 (100.0%) D 99 (100.0%) D 153 (100
 | Moraxellales (1)  | Moraxellaceae (1)  | Acinetobacter (1) |
 | Aeromonadales (1) | Aeromonadaceae (1) | Aeromonas (1)     |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 172
+
 Total number of members in cluster: 2
 
 Average length of proteins in cluster: 443.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-N 1 (100.0%) K 6 (100.0%) S 25 (100.0%) Y 34 (100.0%) Y 36 (100.0%) T 37 (100.0%) K 46 (100.0%) D 51 (100.0%) R 53 (100.0%) Y 63 (100.0%) T 65 (100.0%) R 70 (100.0%) N 78 (100.0%) D 82 (100.0%) E 83 (100.0%) S 89 (100.0%) R 91 (100.0%) Q 93 (100.0%) S 104 (100.0%) N 105 (100.0%) R 112 (100.0%) Q 113 (100.0%) S 129 (100.0%) E 130 (100.0%) R 131 (100.0%) S 151 (100.0%) S 155 (100.0%) K 156 (100.0%) R 157 (100.0%) E 158 (100.0%) D 161 (100.0%) K 167 (100.0%) S 170 (100.0%) D 171 (100.0%) T 178 (100.0%) R 184 (100.0%) R 187 (100.0%) D 195 (100.0%) Y 201 (100.0%) Y 208 (100.0%) T 212 (100.0%) E 214 (100.0%) R 215 (100.0%) D 216 (100.0%) K 220 (100.0%) Y 229 (100.0%) D 231 (100.0%) R 233 (100.0%) S 255 (100.0%) Q 256 (100.0%) Y 257 (100.0%) K 259 (100.0%) S 264 (100.0%) D 270 (100.0%) R 271 (100.0%) D 275 (100.0%) Y 279 (100.0%) S 280 (100.0%) E 281 (100.0%) S 284 (100.0%) S 286 (100.0%) R 287 (100.0%) N 288 (100.0%) Y 290 (100.0%) S 291 (100.0%) Q 299 (100.0%) S 302 (100.0%) S 306 (100.0%) D 307 (100.0%) R 310 (100.0%) T 315 (100.0%) Q 324 (100.0%) S 325 (100.0%) R 332 (100.0%) R 335 (100.0%) E 337 (100.0%) T 343 (100.0%) S 344 (100.0%) T 349 (100.0%) Y 355 (100.0%) Y 370 (100.0%) Y 378 (100.0%) N 379 (100.0%) R 381 (100.0%) R 383 (100.0%) S 384 (100.0%) Y 386 (100.0%) Y 388 (100.0%) Y 391 (100.0%) Y 400 (100.0%) R 403 (100.0%) D 405 (100.0%) N 408 (100.0%) S 411 (100.0%) K 415 (100.0%) S 417 (100.0%) H 428 (100.0%) R 432 (100.0%) R 433 (100.0%) 
+N 1, K 6, S 25, Y 34, Y 36, T 37, K 46, D 51, R 53, Y 63, T 65, R 70, N 78, D 82, E 83, S 89, R 91, Q 93, S 104, N 105, R 112, Q 113, S 129, E 130, R 131, S 151, S 155, K 156, R 157, E 158, D 161, K 167, S 170, D 171, T 178, R 184, R 187, D 195, Y 201, Y 208, T 212, E 214, R 215, D 216, K 220, Y 229, D 231, R 233, S 255, Q 256, Y 257, K 259, S 264, D 270, R 271, D 275, Y 279, S 280, E 281, S 284, S 286, R 287, N 288, Y 290, S 291, Q 299, S 302, S 306, D 307, R 310, T 315, Q 324, S 325, R 332, R 335, E 337, T 343, S 344, T 349, Y 355, Y 370, Y 378, N 379, R 381, R 383, S 384, Y 386, Y 388, Y 391, Y 400, R 403, D 405, N 408, S 411, K 415, S 417, H 428, R 432, R 433
 
 #### Seeds in cluster:
 
-| protein_accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
-|---------------------|---------|----------|---------|-----------|------------|--------------------------------------|
+| accession   | order   | family   | genus   | species   | serotype   | Enterobacterial common antigen Wzy   |
+|-------------|---------|----------|---------|-----------|------------|--------------------------------------|
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_172/sequences.afa)
 
@@ -12901,7 +12363,7 @@ N 1 (100.0%) K 6 (100.0%) S 25 (100.0%) Y 34 (100.0%) Y 36 (100.0%) T 37 (100.0%
 
 #### Sugars in cluster:
 
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12911,22 +12373,23 @@ N 1 (100.0%) K 6 (100.0%) S 25 (100.0%) Y 34 (100.0%) Y 36 (100.0%) T 37 (100.0%
 |:--------------------|:---------------------|:----------------|
 | Pseudomonadales (2) | Pseudomonadaceae (2) | Pseudomonas (2) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
 ### Cluster 151
+
 Total number of members in cluster: 2
 
 Average length of proteins in cluster: 346.0
 
-#### Conserved (non-aliphatic) residues: 
+#### Conserved (non-aliphatic) residues:
 
-E 1 (100.0%) H 2 (100.0%) N 4 (100.0%) R 5 (100.0%) Y 7 (100.0%) N 10 (100.0%) T 11 (100.0%) T 12 (100.0%) N 15 (100.0%) S 30 (100.0%) S 31 (100.0%) Y 34 (100.0%) K 35 (100.0%) D 37 (100.0%) S 38 (100.0%) S 39 (100.0%) S 40 (100.0%) S 46 (100.0%) T 47 (100.0%) S 52 (100.0%) S 57 (100.0%) S 61 (100.0%) S 62 (100.0%) K 63 (100.0%) Y 64 (100.0%) Y 65 (100.0%) N 67 (100.0%) T 68 (100.0%) S 69 (100.0%) N 70 (100.0%) S 72 (100.0%) K 74 (100.0%) S 75 (100.0%) Y 80 (100.0%) T 81 (100.0%) T 82 (100.0%) T 83 (100.0%) S 89 (100.0%) S 90 (100.0%) S 91 (100.0%) E 93 (100.0%) Y 94 (100.0%) K 96 (100.0%) H 104 (100.0%) Y 107 (100.0%) E 109 (100.0%) Y 112 (100.0%) H 116 (100.0%) H 117 (100.0%) S 119 (100.0%) S 122 (100.0%) T 128 (100.0%) N 130 (100.0%) S 131 (100.0%) K 133 (100.0%) N 134 (100.0%) R 135 (100.0%) N 148 (100.0%) N 154 (100.0%) R 155 (100.0%) D 156 (100.0%) T 161 (100.0%) K 172 (100.0%) R 173 (100.0%) K 174 (100.0%) S 176 (100.0%) K 178 (100.0%) S 185 (100.0%) E 196 (100.0%) Y 197 (100.0%) R 198 (100.0%) S 199 (100.0%) H 204 (100.0%) T 205 (100.0%) D 207 (100.0%) S 211 (100.0%) N 213 (100.0%) Y 214 (100.0%) E 215 (100.0%) K 216 (100.0%) T 220 (100.0%) Y 227 (100.0%) T 229 (100.0%) S 230 (100.0%) S 231 (100.0%) S 232 (100.0%) N 234 (100.0%) Y 236 (100.0%) Y 237 (100.0%) N 238 (100.0%) K 240 (100.0%) T 241 (100.0%) N 245 (100.0%) Y 247 (100.0%) S 249 (100.0%) N 250 (100.0%) N 252 (100.0%) E 256 (100.0%) Y 258 (100.0%) Y 259 (100.0%) S 261 (100.0%) S 262 (100.0%) D 265 (100.0%) S 266 (100.0%) Y 277 (100.0%) S 283 (100.0%) R 285 (100.0%) H 286 (100.0%) Y 287 (100.0%) T 290 (100.0%) K 291 (100.0%) K 292 (100.0%) T 293 (100.0%) S 294 (100.0%) E 295 (100.0%) T 297 (100.0%) Y 301 (100.0%) Y 303 (100.0%) Y 306 (100.0%) Q 307 (100.0%) Y 309 (100.0%) T 310 (100.0%) K 316 (100.0%) N 319 (100.0%) T 320 (100.0%) H 321 (100.0%) T 322 (100.0%) Q 333 (100.0%) N 336 (100.0%) K 341 (100.0%) K 342 (100.0%) R 343 (100.0%) R 344 (100.0%) S 345 (100.0%) 
+E 1, H 2, N 4, R 5, Y 7, N 10, T 11, T 12, N 15, S 30, S 31, Y 34, K 35, D 37, S 38, S 39, S 40, S 46, T 47, S 52, S 57, S 61, S 62, K 63, Y 64, Y 65, N 67, T 68, S 69, N 70, S 72, K 74, S 75, Y 80, T 81, T 82, T 83, S 89, S 90, S 91, E 93, Y 94, K 96, H 104, Y 107, E 109, Y 112, H 116, H 117, S 119, S 122, T 128, N 130, S 131, K 133, N 134, R 135, N 148, N 154, R 155, D 156, T 161, K 172, R 173, K 174, S 176, K 178, S 185, E 196, Y 197, R 198, S 199, H 204, T 205, D 207, S 211, N 213, Y 214, E 215, K 216, T 220, Y 227, T 229, S 230, S 231, S 232, N 234, Y 236, Y 237, N 238, K 240, T 241, N 245, Y 247, S 249, N 250, N 252, E 256, Y 258, Y 259, S 261, S 262, D 265, S 266, Y 277, S 283, R 285, H 286, Y 287, T 290, K 291, K 292, T 293, S 294, E 295, T 297, Y 301, Y 303, Y 306, Q 307, Y 309, T 310, K 316, N 319, T 320, H 321, T 322, Q 333, N 336, K 341, K 342, R 343, R 344, S 345
 
 #### Seeds in cluster:
 
-| protein_accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
-|:--------------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
-| BAQ01780.1          | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O154       |                                    0 |
+| accession   | order            | family             | genus       | species          | serotype   |   Enterobacterial common antigen Wzy |
+|:------------|:-----------------|:-------------------|:------------|:-----------------|:-----------|-------------------------------------:|
+| BAQ01780.1  | Enterobacterales | Enterobacteriaceae | Escherichia | Escherichia coli | O154       |                                    0 |
 
 [MSA fasta](https://github.com/idameitil/phd/tree/master/data/wzy/ssn-clusterings/2206101141/clusters/0002_151/sequences.afa)
 
@@ -12942,13 +12405,11 @@ E 1 (100.0%) H 2 (100.0%) N 4 (100.0%) R 5 (100.0%) Y 7 (100.0%) N 10 (100.0%) T
 
 #### Sugars in cluster:
 
-BAQ01780.1 Escherichia coli O154:
+BAQ01780.1 (Escherichia coli O154)
 
-![](../../../csdb/images/696.gif)
+![](../../../csdb/images/696.gif)696
 
-CSDB record ID: 696
-
-#### Sugars for blast hits:
+#### Sugars for blast hits only (may be incorrect):
 
 #### Alphafold models:
 
@@ -12960,5 +12421,5 @@ CSDB record ID: 696
 |:---------------------|:-----------------------|:----------------|
 | Enterobacterales (2) | Enterobacteriaceae (2) | Escherichia (2) |
 
-[top](#navigation)
+[top](#report-of-ssn-clustering-run-2206101141)
 
