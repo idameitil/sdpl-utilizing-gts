@@ -1,329 +1,64 @@
-import os
-import pandas as pd
+
+from common2 import SSNClusterData
 import sys
-from Bio import SeqIO
-
-###############################
-###       FUNCTIONS        ####
-###############################
-
-def make_taxonomy_table(taxonomy_df):
-    # Get counts and make heirarchy dict
-    hierarchy = dict()
-    counts = {'order': {}, 'family': {}, 'genus': {}}
-    for index, row in taxonomy_df.iterrows():
-        if row.order not in counts['order']:
-            counts['order'][row.order] = 1
-            counts['family'][row.family] = 1
-            counts['genus'][row.genus] = 1
-            hierarchy[row.order] = {row.family: [row.genus]}
-        else:
-            counts['order'][row.order] += 1
-            if row.family not in counts['family']:
-                counts['family'][row.family] = 1
-                hierarchy[row.order][row.family] = [row.genus]
-                counts['genus'][row.genus] = 1
-            else:
-                counts['family'][row.family] += 1
-                if row.genus not in counts['genus']:
-                    counts['genus'][row.genus] = 1
-                    if not pd.isna(row.family):
-                        hierarchy[row.order][row.family].append(row.genus)
-                else:
-                    counts['genus'][row.genus] += 1
-    data = {'order (count)': [], 'family (count)': [], 'genus (count)': []}
-
-    # Make pandas dataframe with hierarchy and count
-    # Order
-    orders_sorted = sorted(counts['order'].items(),
-                           key=lambda x: x[1], reverse=True)
-    for order, count in orders_sorted:
-        first_in_order = True
-        order_string = f"{order} ({count})"
-        # Family
-        families_in_order = {key: counts['family'][key]
-                             for key in hierarchy[order]}
-        families_sorted = sorted(
-            families_in_order.items(), key=lambda x: x[1], reverse=True)
-        for family, count in families_sorted:
-            first_in_family = True
-            family_string = f"{family} ({count})"
-            # Genus
-            genera_in_order = {key: counts['genus'][key]
-                               for key in hierarchy[order][family]}
-            genera_sorted = sorted(
-                genera_in_order.items(), key=lambda x: x[1], reverse=True)
-            for genus, count in genera_sorted:
-                genus_string = f"{genus} ({count})"
-                if first_in_order:
-                    data['order (count)'].append(order_string)
-                    data['family (count)'].append(family_string)
-                    data['genus (count)'].append(genus_string)
-                    first_in_order = False
-                    first_in_family = False
-                else:
-                    if first_in_family:
-                        data['order (count)'].append("")
-                        data['family (count)'].append(family_string)
-                        data['genus (count)'].append(genus_string)
-                        first_in_family = False
-                    else:
-                        data['order (count)'].append("")
-                        data['family (count)'].append("")
-                        data['genus (count)'].append(genus_string)
-    df = pd.DataFrame(data)
-    return df.to_markdown(index=False)
-
-def get_conserved_residues(df):
-    """Gets conserved residues from MSA"""
-    AAs_ignore = ['-', 'G', 'A', 'V', 'C', 'P', 'L', 'I', 'M', 'W', 'F']
-    length = len(df)
-    count_sequences = df.shape[1]
-    conserved_residues = dict()
-    for position in range(length):
-        most_frequent_AA = df.iloc[position].mode().values
-        if len(most_frequent_AA) == 1:
-            count_most_frequent_AA = df.iloc[position].value_counts().max()
-            freq_most_frequent_AA = (count_most_frequent_AA / count_sequences)
-            if freq_most_frequent_AA > 0.97 and most_frequent_AA not in AAs_ignore:
-                conserved_residues[position] = (most_frequent_AA[0], freq_most_frequent_AA)
-    return conserved_residues
-
-###############################
-### WRITE GENERAL INFO     ####
-###############################
 
 timestamp = sys.argv[1]
 
-github_url = 'https://github.com/idameitil/phd/tree/master'
+# Get clustering data
+clustering_data = SSNClusterData(timestamp)
+clusters = list(clustering_data.clusters)
 
+# Write report
 resultsdir = f"data/wzy/ssn-clusterings/{timestamp}"
+with open(f"{resultsdir}/report.md", "w") as outfile:
+    outfile.write(f"# Report of ssn-clustering run {timestamp}\n")
+    outfile.write(f"## Metadata\n{clustering_data.metadata}\n")
+    outfile.write(f"## Info\n{clustering_data.info}\n")
+    outfile.write(f"[File with accessions in each cluster]({clustering_data.cluster_table_url})\n\n")
+    outfile.write(f"Number of different taxons before and after expansion:\
+        \n\n{clustering_data.taxons_before_after_table.to_markdown()}\n\n")
 
-# Read files
-seed_df = pd.read_csv("data/wzy/wzy.tsv", sep='\t', dtype=object)
-seeds_and_hits_df = pd.read_csv("data/wzy/seeds-and-hits.tsv", sep='\t', dtype=object)
-hits_enriched_df = pd.read_csv("data/wzy/blast-full-genbank/1e-15/hits-enriched.tsv", sep='\t', dtype=object)
-
-# Start report
-outfile = open(f"{resultsdir}/report.md", "w")
-outfile.write(f"# Report of ssn-clustering run {timestamp}\n")
-
-# Metadata
-outfile.write('## Metadata\n')
-metadata_file = open(f"{resultsdir}/metadata.txt")
-for line in metadata_file:
-    outfile.write(line + '\n')
-metadata_file.close()
-
-# Info
-outfile.write('## Info\n')
-info_file = open(f"{resultsdir}/info.txt")
-for line in info_file:
-    outfile.write(line + '\n')
-info_file.close()
-cluster_tsv_url = f"{github_url}/{resultsdir}/clusters.tsv"
-outfile.write(f"[File with accessions in each cluster]({cluster_tsv_url})\n\n")
-
-clusterdir = f"{resultsdir}/clusters"
-clusters = [file for file in os.listdir(
-    clusterdir) if not file.startswith('.')]
-clusters.sort(reverse=True)
-
-# How many orders before/after
-infile = open(f"{resultsdir}/included_accessions.txt")
-included_accessions = []
-for line in infile:
-    included_accessions.append(line.strip())
-kingdom_before = seed_df.loc[seed_df.protein_accession.isin(included_accessions), 'kingdom'].unique()
-kingdom_after = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(included_accessions), 'kingdom'].unique()
-phylum_before = seed_df.loc[seed_df.protein_accession.isin(included_accessions), 'phylum'].unique()
-phylum_after = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(included_accessions), 'phylum'].unique()
-class_before = seed_df.loc[seed_df.protein_accession.isin(included_accessions), 'class'].unique()
-class_after = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(included_accessions), 'class'].unique()
-order_before = seed_df.loc[seed_df.protein_accession.isin(included_accessions), 'order'].unique()
-order_after = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(included_accessions), 'order'].unique()
-family_before = seed_df.loc[seed_df.protein_accession.isin(included_accessions), 'family'].unique()
-family_after = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(included_accessions), 'family'].unique()
-genus_before = seed_df.loc[seed_df.protein_accession.isin(included_accessions), 'genus'].unique()
-genus_after = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(included_accessions), 'genus'].unique()
-species_before = seed_df.loc[seed_df.protein_accession.isin(included_accessions), 'species'].unique()
-species_after = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(included_accessions), 'species'].unique()
-
-outfile.write("Number of different taxonomical ranks before and after expansion:\n\n")
-data = {"kingdom": [len(kingdom_before), len(kingdom_after)], \
-    "phylum": [len(phylum_before), len(phylum_after)], "class": [len(class_before), len(class_after)], \
-    "order": [len(order_before), len(order_after)], "family": [len(family_before), len(family_after)], \
-    "genus": [len(genus_before), len(genus_after)], "species": [len(species_before), len(species_after)]}
-before_after_df = pd.DataFrame(data, ['before', 'after'])
-outfile.write(f"{before_after_df.to_markdown()}\n\n")
-
-# Navigation
-outfile.write('## Navigation by cluster size\n')
-name2cluster = dict()
-for cluster in clusters:
-    name = cluster.split('_')[1]
-    count = cluster.split('_')[0].lstrip('0')
-    navigation_url = f"#cluster-{name}"
-    outfile.write(f"[{name}({count})]({navigation_url})  ")
-    # Save in dict
-    name2cluster[int(name)] = cluster
-outfile.write('\n\n')
-
-outfile.write('## Navigation by cluster name\n')
-for cluster_name in sorted(name2cluster):
-    cluster = name2cluster[cluster_name]
-    name = cluster.split('_')[1]
-    count = cluster.split('_')[0].lstrip('0')
-    navigation_url = f"#cluster-{name}"
-    outfile.write(f"[{name}({count})]({navigation_url})  ")
-outfile.write('\n\n')
-
-###############################
-### WRITE CLUSTER INFO     ####
-###############################
-
-outfile.write('## Clusters\n')
-image_github_url = 'https://github.com/idameitil/phd/raw/master'
-
-for cluster in clusters:
-    if cluster.startswith('.'):
-        continue
-    # Ignore clusters with only two members
-    # if cluster.split('_')[0].lstrip('0') == '2':
-    #     continue
-    dir = f"{clusterdir}/{cluster}"
-    # Header
-    name = cluster.split('_')[1]
-    outfile.write(f"### Cluster {name}\n")
-    # Number of members
-    count = cluster.split('_')[0].lstrip('0')
-    outfile.write(f"Total number of members in cluster: {count}\n\n")
-
-    # Get list of accessions
-    fasta_file = open(f"{dir}/sequences.fa")
-    accessions = list()
-    seed_accessions = list()
-    hit_accessions = list()
-    for line in fasta_file:
-        if line.startswith('>'):
-            acc = line.strip()[1:]
-            accessions.append(acc)
-            if acc in list(seed_df.protein_accession):
-                seed_accessions.append(acc)
-            else:
-                hit_accessions.append(acc)
-
-    # Length
-    lengths = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(accessions), 'seq'].apply(lambda x: len(x)).mean()
-    outfile.write(f"Average length of proteins in cluster: {round(lengths, 1)}\n\n")
-
-    # Conserved residues
-    outfile.write(f"#### Conserved (non-aliphatic) residues: \n\n")
-    MSA_file = f"{dir}/sequences.afa"
-    fasta_sequences = SeqIO.parse(open(MSA_file), 'fasta')
-    data = dict()
-    for fasta in fasta_sequences:
-        data[fasta.id] = [char for char in str(fasta.seq)]
-    df = pd.DataFrame(data)
-    conserved_residues = get_conserved_residues(df)
-    for position in conserved_residues:
-        AA, frequency = conserved_residues[position]
-        outfile.write(f"{AA} {position} ({str(round(frequency*100, 1))}%) ")
+    outfile.write("## Navigation by cluster size\n")
+    for cluster in clusters:
+        navigation_url = f"#cluster-{cluster['name']}"
+        outfile.write(f"[{cluster['name']}({cluster['size']})]({navigation_url})  ")
     outfile.write('\n\n')
 
-    # Seeds
-    outfile.write(f"#### Seeds in cluster:\n\n")
-    seeds_table = seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(seed_accessions),
-                                        ['protein_accession', 'order', 'family', 'genus', 'species', 'serotype', 'WzyE']]
-    seeds_table.rename(columns={'WzyE':'Enterobacterial common antigen Wzy'}, inplace=True)
-    outfile.write(seeds_table.to_markdown(index=False)+'\n\n')
+    outfile.write('## Navigation by cluster name\n')
+    for cluster in sorted(clusters, key=lambda x: int(x['name'])):
+        navigation_url = f"#cluster-{cluster['name']}"
+        outfile.write(f"[{cluster['name']}({cluster['size']})]({navigation_url})  ")
+    outfile.write('\n\n')
 
-    # Alignment
-    fasta_msa_url = f"{github_url}/{dir}/sequences.afa"
-    outfile.write(f"[MSA fasta]({fasta_msa_url})\n\n")
-    malign_url = f"{github_url}/{dir}/sequences.malign"
-    outfile.write(f"[Malign view]({malign_url})\n\n")
-    # Fasta
-    fasta_url = f"{github_url}/{dir}/sequences.fa"
-    outfile.write(f"[Fasta of members]({fasta_url})\n\n")
-    # Logoplot
-    logo_url = f"{github_url}/{dir}/sequences.logo.pdf"
-    outfile.write(f"[Logoplot]({logo_url})\n\n")
-    # Tree
-    tree_url = f"{github_url}/{dir}/sequences.nwk"
-    outfile.write(f"[Phylogenetic tree]({tree_url})\n\n")
-
-    # Hits table
-    hits_tsv_url = f"{github_url}/{dir}/hits.tsv"
-    outfile.write(f"[Hits in cluster]({hits_tsv_url})\n\n")
-
-    # Sugar images
-    outfile.write("#### Sugars in cluster:\n\n")
-    image2seeds = dict()
-    image2linear = dict()
-    for seed in seed_accessions:
-        CSDB_record_id = seed_df.loc[seed_df.protein_accession ==
-                                     seed, 'CSDB_record_ID'].item()
-        if not pd.isnull(CSDB_record_id):
-            seed_species = seed_df.loc[seed_df.protein_accession == seed, 'species_original'].item()
-            seed_serotype = seed_df.loc[seed_df.protein_accession == seed, 'serotype_edited'].item()
-            if CSDB_record_id in image2seeds:
-                image2seeds[CSDB_record_id].append((seed, seed_species, seed_serotype))
-            else:
-                image2seeds[CSDB_record_id] = [(seed, seed_species, seed_serotype)]
-                image2linear[CSDB_record_id] = seed_df.loc[seed_df.protein_accession ==
-                                     seed, 'CSDB_Linear'].item()
-    for CSDB_record_id in image2seeds:
-        image_path = f"../../../csdb/images/{CSDB_record_id}.gif"
-        #image_path = f"/Users/idamei/phd/data/csdb/images/{CSDB_record_id}.gif"
-        seeds = image2seeds[CSDB_record_id]
-        outfile.write(f"{', '.join([' '.join(seed) for seed in seeds])}:\n\n")
-        outfile.write(f"![]({image_path})\n\n")
-        outfile.write(f"CSDB record ID: {CSDB_record_id}\n\n")
-        #outfile.write(f"{image2linear[CSDB_record_id]}\n\n")
-
-    # Sugar images for hits
-    outfile.write("#### Sugars for blast hits:\n\n")
-    image2seeds = dict()
-    # image2linear = dict()
-    for acc in hit_accessions:
-        if acc in list(hits_enriched_df.protein_accession):
-            CSDB_record_id = hits_enriched_df.loc[hits_enriched_df.protein_accession == acc, 'CSDB_record_ID_y'].item()
-            if not pd.isnull(CSDB_record_id):
-                species = hits_enriched_df.loc[hits_enriched_df.protein_accession == acc, 'species'].item()
-                serotype = hits_enriched_df.loc[hits_enriched_df.protein_accession == acc, 'serotype_x'].item()
-                if CSDB_record_id in image2seeds:
-                    image2seeds[CSDB_record_id].append((acc, species, serotype))
-                else:
-                    image2seeds[CSDB_record_id] = [(acc, species, serotype)]
-                    # image2linear[CSDB_record_id] = hits_enriched_df.loc[hits_enriched_df.protein_accession ==
-                                        # acc, 'CSDB_Linear'].item()
-    for CSDB_record_id in image2seeds:
-        image_path = f"../../../csdb/images/{CSDB_record_id}.gif"
-        #image_path = f"/Users/idamei/phd/data/csdb/images/{CSDB_record_id}.gif"
-        seeds = image2seeds[CSDB_record_id]
-        outfile.write(f"{', '.join([' '.join(seed) for seed in seeds])}:\n\n")
-        outfile.write(f"![]({image_path})\n\n")
-        outfile.write(f"CSDB record ID: {CSDB_record_id}\n\n")
-        #outfile.write(f"{image2linear[CSDB_record_id]}\n\n")
-
-    # AlphaFold models
-    outfile.write("#### Alphafold models:\n\n")
-    rows_alphafold = seeds_and_hits_df.loc[(seeds_and_hits_df.protein_accession.isin(accessions))
-                                           & (seeds_and_hits_df.alphafold_bool == 'True')]
-    for index, row in rows_alphafold.iterrows():
-        acc = row.protein_accession
-        af_model_url = f"{github_url}/{row.alphafold_path}"
-        outfile.write(f"[{acc}]({af_model_url})\n\n")
-
-    # Taxonomy
-    outfile.write(f"#### Taxonomy:\n\n")
-    taxonomy_table = make_taxonomy_table(seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(
-        accessions), ['class', 'order', 'family', 'genus']])
-    outfile.write(taxonomy_table + '\n\n')
-
-    # Navigation to top
-    outfile.write(f"[top](#navigation)\n")
-    outfile.write('\n')
-
-outfile.close()
+    outfile.write('## Clusters\n\n')
+    for cluster in clusters:
+        outfile.write(f"### Cluster {cluster['name']}\n\n")
+        outfile.write(f"Total number of members in cluster: {cluster['size']}\n\n")
+        outfile.write(f"Average length of proteins in cluster: {cluster['average_length']}\n\n")
+        outfile.write(f"#### Conserved (non-aliphatic) residues:\n\n{cluster['conserved_residues']}\n\n")
+        outfile.write(f"#### Seeds in cluster:\n\n{cluster['seeds_table'].to_markdown(index=False)}\n\n")
+        outfile.write(f"[MSA fasta]({cluster['afa_url']})\n\n")
+        outfile.write(f"[Malign view]({cluster['malign_url']})\n\n")
+        outfile.write(f"[Fasta of members]({cluster['fasta_url']})\n\n")
+        outfile.write(f"[Logoplot]({cluster['logo_url']})\n\n")
+        outfile.write(f"[Phylogenetic tree]({cluster['tree_url']})\n\n")
+        outfile.write(f"[Hits in cluster]({cluster['hits_table_url']})\n\n")
+        outfile.write("#### Sugars in cluster:\n\n")
+        sugars_seeds = [sugar_id for sugar_id in cluster['sugars'] if not cluster['sugars'][sugar_id]['is_only_blast']]
+        for sugar_id in sugars_seeds:
+            my_list = [f"{protein['accession']} ({protein['species']} {protein['serotype']})" for protein in cluster['sugars'][sugar_id]['proteins']]
+            outfile.write(f"{', '.join(my_list)}\n\n")
+            outfile.write(f"![]({cluster['sugars'][sugar_id]['image']})")
+            outfile.write(f"{sugar_id}\n\n")
+        outfile.write("#### Sugars for blast hits only (may be incorrect):\n\n")
+        sugars_only_blast_hits = [sugar_id for sugar_id in cluster['sugars'] if cluster['sugars'][sugar_id]['is_only_blast']]
+        for sugar_id in sugars_only_blast_hits:
+            my_list = [f"{protein['accession']} ({protein['species']} {protein['serotype']})" for protein in cluster['sugars'][sugar_id]['proteins']]
+            outfile.write(f"{', '.join(my_list)}\n\n")
+            outfile.write(f"![]({cluster['sugars'][sugar_id]['image']})")
+            outfile.write(f"{sugar_id}\n\n")
+        outfile.write("#### Alphafold models:\n\n")
+        for acc in cluster['alphafold_models']:
+            outfile.write(f"[{acc}]({cluster['alphafold_models'][acc]})\n\n")
+        outfile.write(f"#### Taxonomy:\n\n{cluster['taxonomy_table'].to_markdown(index=False)}\n\n")
+        outfile.write(f"[top](#report-of-ssn-clustering-run-{timestamp})\n\n")
