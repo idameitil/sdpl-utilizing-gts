@@ -1,20 +1,20 @@
 # GT66 structures
 Archaea
-AAB90907 GT66_6
-AAB91198.1 GT66_6
-AAB90856.1 GT66_6
-CAB49148.1 GT66_4
-AAL80280.1 GT66_4
-BAA29314.1 GT66_4
+AAB90907 GT66_6 (3VGP) C-terminal globular domain
+AAB91198.1 GT66_6 (3VUO) C-terminal globular domain
+AAB90856.1 GT66_6 (3WAI) C-terminal globular domain, (3WAJ) complete
+CAB49148.1 GT66_4 (3WOV) C-terminal globular domain
+AAL80280.1 GT66_4 (2ZAG) soluble domain
+BAA29314.1 GT66_4 (3VUI) C-terminal globular domain
 
 Bacteria:
-AAW35590 GT66_2
-ACM64573 GT66_2
+AAW35590 GT66_2 (3AAG) C-terminal globular domain
+ACM64573 GT66_2 (3RCE) complete with protein acceptor and modeled lipid
 
 Human:
-NP_689926 GT66_1
-AAL71884.1 GT66_1
-BAA06079.1 GT66_1
+NP_689926 GT66_1 (6S7O) complete, in complex with many things, including diphospho-lipid
+AAL71884.1 GT66_1 (6S7T) complete, in complex with many things, including diphospho-lipid
+BAA06079.1 GT66_1 (2LGZ) C-terminal domain, solution structure, (6C26) complete, in complex with many things, including diphospho-lipid
 
 # Deleted from selected-ezys.tsv
 AQU71805.1, AQU71788.1
