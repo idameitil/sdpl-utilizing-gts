@@ -40,6 +40,8 @@ Number of different taxons before and after expansion:
 
 Total number of members in cluster: 548
 
+Average length of proteins in cluster: 448.2
+
 #### Conserved (non-aliphatic) residues:
 
 Y 160, Y 275, Y 295, Y 331, R 338, R 382, Y 383, D 415, S 418, N 473, T 479, S 506, T 508, S 512, D 538, R 578
@@ -176,6 +178,8 @@ Y 160, Y 275, Y 295, Y 331, R 338, R 382, Y 383, D 415, S 418, N 473, T 479, S 5
 
 Total number of members in cluster: 478
 
+Average length of proteins in cluster: 398.0
+
 #### Conserved (non-aliphatic) residues:
 
 R 824, R 1156, D 1224
@@ -209,41 +213,41 @@ R 824, R 1156, D 1224
 
 #### Sugars in cluster:
 
-CAI34348.1 (Streptococcus pneumoniae 35F)
+CAI33309.1 (Streptococcus pneumoniae 13)
 
-![](../../../csdb/images/7095.gif)7095
-
-CAI34328.1 (Streptococcus pneumoniae 35C)
-
-![](../../../csdb/images/7097.gif)7097
-
-CAI34310.1 (Streptococcus pneumoniae 35B)
-
-![](../../../csdb/images/1609.gif)1609
-
-CAI34080.1 (Streptococcus pneumoniae 29)
-
-![](../../../csdb/images/1227.gif)1227
-
-CAI34286.1 (Streptococcus pneumoniae 35A)
-
-![](../../../csdb/images/1611.gif)1611
-
-CAI34519.1 (Streptococcus pneumoniae 42)
-
-![](../../../csdb/images/25003.gif)25003
-
-CAI34657.1 (Streptococcus pneumoniae 47F)
-
-![](../../../csdb/images/25005.gif)25005
+![](../../../csdb/images/7061.gif)7061
 
 CAI33441.1 (Streptococcus pneumoniae 16A)
 
 ![](../../../csdb/images/1490.gif)1490
 
-CAI33309.1 (Streptococcus pneumoniae 13)
+CAI34310.1 (Streptococcus pneumoniae 35B)
 
-![](../../../csdb/images/7061.gif)7061
+![](../../../csdb/images/1609.gif)1609
+
+CAI34348.1 (Streptococcus pneumoniae 35F)
+
+![](../../../csdb/images/7095.gif)7095
+
+CAI34286.1 (Streptococcus pneumoniae 35A)
+
+![](../../../csdb/images/1611.gif)1611
+
+CAI34080.1 (Streptococcus pneumoniae 29)
+
+![](../../../csdb/images/1227.gif)1227
+
+CAI34519.1 (Streptococcus pneumoniae 42)
+
+![](../../../csdb/images/25003.gif)25003
+
+CAI34328.1 (Streptococcus pneumoniae 35C)
+
+![](../../../csdb/images/7097.gif)7097
+
+CAI34657.1 (Streptococcus pneumoniae 47F)
+
+![](../../../csdb/images/25005.gif)25005
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -329,6 +333,8 @@ CAI33309.1 (Streptococcus pneumoniae 13)
 
 Total number of members in cluster: 270
 
+Average length of proteins in cluster: 348.9
+
 #### Conserved (non-aliphatic) residues:
 
 D 199, Y 205, R 351, H 393, R 664
@@ -361,33 +367,33 @@ D 199, Y 205, R 351, H 393, R 664
 
 #### Sugars in cluster:
 
-BAQ01024.1 (Escherichia coli O51)
-
-![](../../../csdb/images/1558.gif)1558
-
-AQU71752.1 (Escherichia coli O1)
-
-![](../../../csdb/images/7222.gif)7222
-
 BAQ00622.1 (Escherichia coli O10)
 
 ![](../../../csdb/images/1512.gif)1512
 
-ADC54967.1 (Escherichia coli O75)
+AFW04820.1 (Salmonella enterica O11)
 
-![](../../../csdb/images/619.gif)619
+![](../../../csdb/images/2600.gif)2600
 
 ABX51892.1 (Cronobacter sakazakii O2)
 
 ![](../../../csdb/images/27572.gif)27572
 
+AQU71752.1 (Escherichia coli O1)
+
+![](../../../csdb/images/7222.gif)7222
+
 AFW04883.1 (Salmonella enterica O57)
 
 ![](../../../csdb/images/701.gif)701
 
-AFW04820.1 (Salmonella enterica O11)
+ADC54967.1 (Escherichia coli O75)
 
-![](../../../csdb/images/2600.gif)2600
+![](../../../csdb/images/619.gif)619
+
+BAQ01024.1 (Escherichia coli O51)
+
+![](../../../csdb/images/1558.gif)1558
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -478,6 +484,8 @@ AFW04820.1 (Salmonella enterica O11)
 
 Total number of members in cluster: 258
 
+Average length of proteins in cluster: 430.3
+
 #### Conserved (non-aliphatic) residues:
 
 Y 503, R 506, Y 533, K 582, R 709, N 814
@@ -503,13 +511,13 @@ Y 503, R 506, Y 533, K 582, R 709, N 814
 
 #### Sugars in cluster:
 
-CDF66396.1 (Yersinia similis O:9)
-
-![](../../../csdb/images/12130.gif)12130
-
 BAQ00780.1 (Escherichia coli O30)
 
 ![](../../../csdb/images/1539.gif)1539
+
+CDF66396.1 (Yersinia similis O:9)
+
+![](../../../csdb/images/12130.gif)12130
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -630,6 +638,8 @@ BAQ00780.1 (Escherichia coli O30)
 ### Cluster 9
 
 Total number of members in cluster: 240
+
+Average length of proteins in cluster: 353.5
 
 #### Conserved (non-aliphatic) residues:
 
@@ -772,6 +782,8 @@ AHB32215.1 (Acinetobacter baumannii O1)
 
 Total number of members in cluster: 152
 
+Average length of proteins in cluster: 412.2
+
 #### Conserved (non-aliphatic) residues:
 
 R 593, Y 633, D 664
@@ -877,6 +889,8 @@ CAI34124.1 (Streptococcus pneumoniae 32A)
 
 Total number of members in cluster: 139
 
+Average length of proteins in cluster: 443.5
+
 #### Conserved (non-aliphatic) residues:
 
 R 401, Y 510, N 608, D 619
@@ -905,11 +919,7 @@ R 401, Y 510, N 608, D 619
 
 #### Sugars in cluster:
 
-VMG48693.1 (Streptococcus pneumoniae 34), CAI34269.1 (Streptococcus pneumoniae 34)
-
-![](../../../csdb/images/7043.gif)7043
-
-CAI33631.1 (Streptococcus pneumoniae 19A), VOS41126.1 (Streptococcus pneumoniae 19A)
+VOS41126.1 (Streptococcus pneumoniae 19A), CAI33631.1 (Streptococcus pneumoniae 19A)
 
 ![](../../../csdb/images/740.gif)740
 
@@ -917,7 +927,11 @@ AAL82786.1 (Streptococcus pneumoniae 6A), CAI32823.1 (Streptococcus pneumoniae 6
 
 ![](../../../csdb/images/1087.gif)1087
 
-CMX58981.1 (Streptococcus pneumoniae 19F), VSB76654.1 (Streptococcus pneumoniae 19F), CAI33700.1 (Streptococcus pneumoniae 19F), VNC99741.1 (Streptococcus pneumoniae 19F)
+CAI34269.1 (Streptococcus pneumoniae 34), VMG48693.1 (Streptococcus pneumoniae 34)
+
+![](../../../csdb/images/7043.gif)7043
+
+VNC99741.1 (Streptococcus pneumoniae 19F), CMX58981.1 (Streptococcus pneumoniae 19F), VSB76654.1 (Streptococcus pneumoniae 19F), CAI33700.1 (Streptococcus pneumoniae 19F)
 
 ![](../../../csdb/images/739.gif)739
 
@@ -997,6 +1011,8 @@ VJK41440.1 (Streptococcus pneumoniae 6C)
 
 Total number of members in cluster: 136
 
+Average length of proteins in cluster: 394.0
+
 #### Conserved (non-aliphatic) residues:
 
 R 292, R 364, Y 423, Y 425, N 432
@@ -1024,7 +1040,7 @@ R 292, R 364, Y 423, Y 425, N 432
 
 #### Sugars in cluster:
 
-AFC91419.1 (Escherichia coli O45), AFC91458.1 (Escherichia coli O45), AAX07747.1 (Escherichia coli O45)
+AAX07747.1 (Escherichia coli O45), AFC91419.1 (Escherichia coli O45), AFC91458.1 (Escherichia coli O45)
 
 ![](../../../csdb/images/1552.gif)1552
 
@@ -1103,6 +1119,8 @@ AHB32411.1 (Acinetobacter baumannii O10)
 
 Total number of members in cluster: 134
 
+Average length of proteins in cluster: 356.2
+
 #### Conserved (non-aliphatic) residues:
 
 R 163, D 170, Y 175, R 298, H 336, R 561
@@ -1129,13 +1147,13 @@ R 163, D 170, Y 175, R 298, H 336, R 561
 
 #### Sugars in cluster:
 
+AHB32715.1 (Acinetobacter baumannii O23), AHB32637.1 (Acinetobacter baumannii O23)
+
+![](../../../csdb/images/563.gif)563
+
 CAI33718.1 (Streptococcus pneumoniae 20)
 
 ![](../../../csdb/images/1928.gif)1928
-
-AHB32637.1 (Acinetobacter baumannii O23), AHB32715.1 (Acinetobacter baumannii O23)
-
-![](../../../csdb/images/563.gif)563
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -1205,6 +1223,8 @@ VLD07009.1 (Streptococcus pneumoniae 20A)
 
 Total number of members in cluster: 129
 
+Average length of proteins in cluster: 452.7
+
 #### Conserved (non-aliphatic) residues:
 
 R 250, K 324, R 402, K 516
@@ -1231,6 +1251,10 @@ R 250, K 324, R 402, K 516
 
 #### Sugars in cluster:
 
+AAT77177.1 (Escherichia coli O114)
+
+![](../../../csdb/images/1854.gif)1854
+
 BAQ00569.1 (Escherichia coli O5)
 
 ![](../../../csdb/images/3191.gif)3191
@@ -1238,10 +1262,6 @@ BAQ00569.1 (Escherichia coli O5)
 AFN02899.1 (Escherichia coli O180)
 
 ![](../../../csdb/images/704.gif)704
-
-AAT77177.1 (Escherichia coli O114)
-
-![](../../../csdb/images/1854.gif)1854
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -1310,6 +1330,8 @@ AAT77177.1 (Escherichia coli O114)
 ### Cluster 33
 
 Total number of members in cluster: 129
+
+Average length of proteins in cluster: 395.6
 
 #### Conserved (non-aliphatic) residues:
 
@@ -1381,6 +1403,8 @@ QEH45435.1 (Aggregatibacter actinomycetemcomitans a)
 
 Total number of members in cluster: 119
 
+Average length of proteins in cluster: 423.2
+
 #### Conserved (non-aliphatic) residues:
 
 R 501, N 502, E 508, S 685
@@ -1413,21 +1437,21 @@ CAI34177.1 (Streptococcus pneumoniae 33A)
 
 ![](../../../csdb/images/7091.gif)7091
 
-CAI34236.1 (Streptococcus pneumoniae 33D), VIU37569.1 (Streptococcus pneumoniae 33D)
-
-![](../../../csdb/images/7094.gif)7094
-
 VQJ42306.1 (Streptococcus pneumoniae 33F), CAI34254.1 (Streptococcus pneumoniae 33F)
 
 ![](../../../csdb/images/1965.gif)1965
 
-CAI34198.1 (Streptococcus pneumoniae 33B)
+VIU37569.1 (Streptococcus pneumoniae 33D), CAI34236.1 (Streptococcus pneumoniae 33D)
 
-![](../../../csdb/images/7092.gif)7092
+![](../../../csdb/images/7094.gif)7094
 
 CAI34217.1 (Streptococcus pneumoniae 33C)
 
 ![](../../../csdb/images/7093.gif)7093
+
+CAI34198.1 (Streptococcus pneumoniae 33B)
+
+![](../../../csdb/images/7092.gif)7092
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -1482,6 +1506,8 @@ CAI34217.1 (Streptococcus pneumoniae 33C)
 
 Total number of members in cluster: 107
 
+Average length of proteins in cluster: 411.8
+
 #### Conserved (non-aliphatic) residues:
 
 Q 243, R 291, R 356, S 480, D 537, R 542
@@ -1510,15 +1536,15 @@ Q 243, R 291, R 356, S 480, D 537, R 542
 
 #### Sugars in cluster:
 
-BAQ02088.1 (Escherichia coli O187)
-
-![](../../../csdb/images/1934.gif)1934
-
 AFW04847.1 (Salmonella enterica O59)
 
 ![](../../../csdb/images/3362.gif)3362
 
-ACA24764.1 (Escherichia coli O143), ACA24754.1 (Shigella boydii 8)
+BAQ02088.1 (Escherichia coli O187)
+
+![](../../../csdb/images/1934.gif)1934
+
+ACA24754.1 (Shigella boydii 8), ACA24764.1 (Escherichia coli O143)
 
 ![](../../../csdb/images/1885.gif)1885
 
@@ -1585,6 +1611,8 @@ ACA24764.1 (Escherichia coli O143), ACA24754.1 (Shigella boydii 8)
 
 Total number of members in cluster: 91
 
+Average length of proteins in cluster: 431.6
+
 #### Conserved (non-aliphatic) residues:
 
 D 344, E 408, R 538
@@ -1610,13 +1638,13 @@ D 344, E 408, R 538
 
 #### Sugars in cluster:
 
-CAI32867.1 (Streptococcus pneumoniae 7A)
-
-![](../../../csdb/images/2624.gif)2624
-
 CAI32935.1 (Streptococcus pneumoniae 7F)
 
 ![](../../../csdb/images/1949.gif)1949
+
+CAI32867.1 (Streptococcus pneumoniae 7A)
+
+![](../../../csdb/images/2624.gif)2624
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -1665,6 +1693,8 @@ CAI32935.1 (Streptococcus pneumoniae 7F)
 ### Cluster 1
 
 Total number of members in cluster: 89
+
+Average length of proteins in cluster: 427.7
 
 #### Conserved (non-aliphatic) residues:
 
@@ -1748,6 +1778,8 @@ WP_097449287.1 (Escherichia coli O57)
 
 Total number of members in cluster: 83
 
+Average length of proteins in cluster: 448.1
+
 #### Conserved (non-aliphatic) residues:
 
 Y 264, R 345, R 421
@@ -1777,21 +1809,21 @@ Y 264, R 345, R 421
 
 #### Sugars in cluster:
 
-ABF01010.1 (Escherichia coli O28ac)
-
-![](../../../csdb/images/1537.gif)1537
-
 BAQ02048.1 (Escherichia coli O185)
 
 ![](../../../csdb/images/1929.gif)1929
 
-ACK44379.1 (Escherichia coli O42)
-
-![](../../../csdb/images/1549.gif)1549
-
 AAM27546.1 (Pseudomonas aeruginosa O1)
 
 ![](../../../csdb/images/6636.gif)6636
+
+ABF01010.1 (Escherichia coli O28ac)
+
+![](../../../csdb/images/1537.gif)1537
+
+ACK44379.1 (Escherichia coli O42)
+
+![](../../../csdb/images/1549.gif)1549
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -1838,6 +1870,8 @@ AAM27546.1 (Pseudomonas aeruginosa O1)
 
 Total number of members in cluster: 82
 
+Average length of proteins in cluster: 403.3
+
 #### Conserved (non-aliphatic) residues:
 
 E 271, S 273, Y 377, R 381, N 393, N 457, D 460, K 467, E 471
@@ -1863,7 +1897,7 @@ E 271, S 273, Y 377, R 381, N 393, N 457, D 460, K 467, E 471
 
 #### Sugars in cluster:
 
-ADC84238.1 (Escherichia coli O25), ADI43263.1 (Escherichia coli O25)
+ADI43263.1 (Escherichia coli O25), ADC84238.1 (Escherichia coli O25)
 
 ![](../../../csdb/images/12694.gif)12694
 
@@ -1920,6 +1954,8 @@ ADR74237.1 (Escherichia coli O109)
 
 Total number of members in cluster: 71
 
+Average length of proteins in cluster: 412.4
+
 #### Conserved (non-aliphatic) residues:
 
 R 320, R 321, R 460, Q 463, R 498, E 507, Y 510
@@ -1947,14 +1983,6 @@ R 320, R 321, R 460, Q 463, R 498, E 507, Y 510
 
 #### Sugars in cluster:
 
-AAM27615.1 (Pseudomonas aeruginosa O13)
-
-![](../../../csdb/images/24042.gif)24042
-
-AAM27645.1 (Pseudomonas aeruginosa O15)
-
-![](../../../csdb/images/3929.gif)3929
-
 AAM27766.1 (Pseudomonas aeruginosa O3)
 
 ![](../../../csdb/images/24032.gif)24032
@@ -1962,6 +1990,14 @@ AAM27766.1 (Pseudomonas aeruginosa O3)
 AAZ85713.1 (Escherichia coli O138)
 
 ![](../../../csdb/images/1880.gif)1880
+
+AAM27645.1 (Pseudomonas aeruginosa O15)
+
+![](../../../csdb/images/3929.gif)3929
+
+AAM27615.1 (Pseudomonas aeruginosa O13)
+
+![](../../../csdb/images/24042.gif)24042
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -2015,6 +2051,8 @@ AAZ85713.1 (Escherichia coli O138)
 
 Total number of members in cluster: 67
 
+Average length of proteins in cluster: 396.9
+
 #### Conserved (non-aliphatic) residues:
 
 R 189, K 255, R 301, Y 326, N 393, D 404, Y 441
@@ -2042,21 +2080,21 @@ R 189, K 255, R 301, Y 326, N 393, D 404, Y 441
 
 #### Sugars in cluster:
 
-BAQ00669.1 (Escherichia coli O18ab)
-
-![](../../../csdb/images/1524.gif)1524
-
-ADC54950.1 (Escherichia coli O18)
-
-![](../../../csdb/images/20645.gif)20645
-
 BAQ01732.1 (Escherichia coli O142)
 
 ![](../../../csdb/images/1884.gif)1884
 
+BAQ00669.1 (Escherichia coli O18ab)
+
+![](../../../csdb/images/1524.gif)1524
+
 BAQ00687.1 (Escherichia coli O18ac)
 
 ![](../../../csdb/images/1521.gif)1521
+
+ADC54950.1 (Escherichia coli O18)
+
+![](../../../csdb/images/20645.gif)20645
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -2098,6 +2136,8 @@ ARD51912.1 (Escherichia coli O68)
 
 Total number of members in cluster: 66
 
+Average length of proteins in cluster: 402.1
+
 #### Conserved (non-aliphatic) residues:
 
 D 220, S 252, R 256, K 321, R 325, R 401, Q 403
@@ -2134,33 +2174,33 @@ D 220, S 252, R 256, K 321, R 325, R 401, Q 403
 
 #### Sugars in cluster:
 
-AFC91472.1 (Escherichia coli O121), AFC91514.1 (Escherichia coli O121), AAO39700.1 (Escherichia coli O121), AFC91570.1 (Escherichia coli O121)
+AFC91514.1 (Escherichia coli O121), AFC91472.1 (Escherichia coli O121), AFC91570.1 (Escherichia coli O121), AAO39700.1 (Escherichia coli O121)
 
 ![](../../../csdb/images/1861.gif)1861
 
-BAQ02224.1 (Escherichia coli O123), ABG81806.1 (Escherichia coli O123)
+AAR97964.1 (Shigella dysenteriae 7)
+
+![](../../../csdb/images/108660.gif)108660
+
+ABG81806.1 (Escherichia coli O123), BAQ02224.1 (Escherichia coli O123)
 
 ![](../../../csdb/images/697.gif)697
-
-BAQ00758.1 (Escherichia coli O28ab)
-
-![](../../../csdb/images/736.gif)736
 
 BAQ02068.1 (Escherichia coli O186), AJR19430.1 (Escherichia coli O186)
 
 ![](../../../csdb/images/1933.gif)1933
 
-BAH24292.1 (Escherichia coli O7), AAD44158.1 (Escherichia coli O7)
+AAD44158.1 (Escherichia coli O7), BAH24292.1 (Escherichia coli O7)
 
 ![](../../../csdb/images/1385.gif)1385
+
+BAQ00758.1 (Escherichia coli O28ab)
+
+![](../../../csdb/images/736.gif)736
 
 BAQ00879.1 (Escherichia coli O39)
 
 ![](../../../csdb/images/1383.gif)1383
-
-AAR97964.1 (Shigella dysenteriae 7)
-
-![](../../../csdb/images/108660.gif)108660
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -2208,6 +2248,8 @@ AAR97964.1 (Shigella dysenteriae 7)
 
 Total number of members in cluster: 66
 
+Average length of proteins in cluster: 369.6
+
 #### Conserved (non-aliphatic) residues:
 
 R 188, K 218, D 226, S 227, N 228, S 281, R 282, D 367, S 369, K 373, H 414, E 423
@@ -2240,33 +2282,33 @@ R 188, K 218, D 226, S 227, N 228, S 281, R 282, D 367, S 369, K 373, H 414, E 4
 
 #### Sugars in cluster:
 
+AFW04741.1 (Salmonella enterica O21)
+
+![](../../../csdb/images/30351.gif)30351
+
 BAQ01494.1 (Escherichia coli O102), AFS33314.1 (Escherichia coli O102)
 
 ![](../../../csdb/images/1841.gif)1841
 
-ACD37157.1 (Escherichia coli O130)
+BAQ00975.1 (Escherichia coli O48)
 
-![](../../../csdb/images/1871.gif)1871
-
-ACD37014.1 (Escherichia coli O112ac)
-
-![](../../../csdb/images/1852.gif)1852
-
-AFW04741.1 (Salmonella enterica O21)
-
-![](../../../csdb/images/30351.gif)30351
+![](../../../csdb/images/1555.gif)1555
 
 BAQ00846.1 (Escherichia coli O37)
 
 ![](../../../csdb/images/1544.gif)1544
 
+ACD37157.1 (Escherichia coli O130)
+
+![](../../../csdb/images/1871.gif)1871
+
 ACD37006.1 (Shigella dysenteriae 2)
 
 ![](../../../csdb/images/1869.gif)1869
 
-BAQ00975.1 (Escherichia coli O48)
+ACD37014.1 (Escherichia coli O112ac)
 
-![](../../../csdb/images/1555.gif)1555
+![](../../../csdb/images/1852.gif)1852
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -2312,6 +2354,8 @@ BAQ00975.1 (Escherichia coli O48)
 
 Total number of members in cluster: 59
 
+Average length of proteins in cluster: 359.0
+
 #### Conserved (non-aliphatic) residues:
 
 R 65, D 71, Y 75, E 101, R 168, H 214, Y 288, R 371, Y 443
@@ -2341,6 +2385,10 @@ R 65, D 71, Y 75, E 101, R 168, H 214, Y 288, R 371, Y 443
 
 #### Sugars in cluster:
 
+ACA24821.1 (Escherichia coli O152), ACA24811.1 (Shigella dysenteriae 12)
+
+![](../../../csdb/images/1893.gif)1893
+
 ADQ37322.1 (Escherichia coli O151)
 
 ![](../../../csdb/images/1892.gif)1892
@@ -2352,10 +2400,6 @@ ADQ37335.1 (Escherichia coli O118)
 ADN43894.1 (Escherichia coli O173)
 
 ![](../../../csdb/images/3159.gif)3159
-
-ACA24821.1 (Escherichia coli O152), ACA24811.1 (Shigella dysenteriae 12)
-
-![](../../../csdb/images/1893.gif)1893
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -2396,6 +2440,8 @@ ACA24821.1 (Escherichia coli O152), ACA24811.1 (Shigella dysenteriae 12)
 ### Cluster 36
 
 Total number of members in cluster: 59
+
+Average length of proteins in cluster: 357.0
 
 #### Conserved (non-aliphatic) residues:
 
@@ -2467,6 +2513,8 @@ ACH97162.1 (Escherichia coli O21)
 
 Total number of members in cluster: 58
 
+Average length of proteins in cluster: 374.2
+
 #### Conserved (non-aliphatic) residues:
 
 Q 170, D 185, R 198, R 212, E 219, S 262, R 313, D 322, S 324, K 328, D 366, K 413
@@ -2496,18 +2544,6 @@ Q 170, D 185, R 198, R 212, E 219, S 262, R 313, D 322, S 324, K 328, D 366, K 4
 
 #### Sugars in cluster:
 
-AFW04828.1 (Salmonella enterica O44)
-
-![](../../../csdb/images/3367.gif)3367
-
-ADC54974.1 (Escherichia coli O85)
-
-![](../../../csdb/images/1591.gif)1591
-
-AFW04837.1 (Salmonella enterica O53)
-
-![](../../../csdb/images/26312.gif)26312
-
 BAQ01917.1 (Escherichia coli O175)
 
 ![](../../../csdb/images/1917.gif)1917
@@ -2519,6 +2555,18 @@ BAQ00994.1 (Escherichia coli O49)
 CAN87666.1 (Escherichia coli O45)
 
 ![](../../../csdb/images/1552.gif)1552
+
+AFW04828.1 (Salmonella enterica O44)
+
+![](../../../csdb/images/3367.gif)3367
+
+AFW04837.1 (Salmonella enterica O53)
+
+![](../../../csdb/images/26312.gif)26312
+
+ADC54974.1 (Escherichia coli O85)
+
+![](../../../csdb/images/1591.gif)1591
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -2552,6 +2600,8 @@ CAN87666.1 (Escherichia coli O45)
 ### Cluster 75
 
 Total number of members in cluster: 51
+
+Average length of proteins in cluster: 400.1
 
 #### Conserved (non-aliphatic) residues:
 
@@ -2615,6 +2665,8 @@ ABI55342.1 (Shigella boydii 17)
 
 Total number of members in cluster: 48
 
+Average length of proteins in cluster: 368.2
+
 #### Conserved (non-aliphatic) residues:
 
 D 86, Y 90, E 195, R 337, E 373, N 439, R 445
@@ -2641,13 +2693,13 @@ D 86, Y 90, E 195, R 337, E 373, N 439, R 445
 
 #### Sugars in cluster:
 
-AAN23078.1 (Yersinia pseudotuberculosis O:2a)
-
-![](../../../csdb/images/12135.gif)12135
-
 AAN23057.1 (Yersinia pseudotuberculosis O:4b)
 
 ![](../../../csdb/images/12136.gif)12136
+
+AAN23078.1 (Yersinia pseudotuberculosis O:2a)
+
+![](../../../csdb/images/12135.gif)12135
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -2689,6 +2741,8 @@ AAN23057.1 (Yersinia pseudotuberculosis O:4b)
 
 Total number of members in cluster: 46
 
+Average length of proteins in cluster: 408.4
+
 #### Conserved (non-aliphatic) residues:
 
 R 160, Y 163, T 166, R 167, S 177, K 216, Y 304, D 306, R 309, N 310, E 331, R 340, K 346, D 381, E 440
@@ -2720,21 +2774,21 @@ R 160, Y 163, T 166, R 167, S 177, K 216, Y 304, D 306, R 309, N 310, E 331, R 3
 
 #### Sugars in cluster:
 
-AAV77445.1 (Salmonella enterica Paratyphi A), CAR59582.1 (Salmonella enterica Paratyphi A)
-
-![](../../../csdb/images/7418.gif)7418
-
-AAL20257.1 (Salmonella enterica Typhimurium)
-
-![](../../../csdb/images/30397.gif)30397
-
 AAO68867.1 (Salmonella enterica Typhi), WP_000905563.1 (nan Typhii)
 
 ![](../../../csdb/images/21859.gif)21859
 
+CAR59582.1 (Salmonella enterica Paratyphi A), AAV77445.1 (Salmonella enterica Paratyphi A)
+
+![](../../../csdb/images/7418.gif)7418
+
 CAR37642.1 (Salmonella enterica Gallinarum)
 
 ![](../../../csdb/images/30403.gif)30403
+
+AAL20257.1 (Salmonella enterica Typhimurium)
+
+![](../../../csdb/images/30397.gif)30397
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -2768,6 +2822,8 @@ CAR37642.1 (Salmonella enterica Gallinarum)
 
 Total number of members in cluster: 45
 
+Average length of proteins in cluster: 410.4
+
 #### Conserved (non-aliphatic) residues:
 
 D 82, D 109, R 191, H 228, S 230, Y 287, R 371, R 436
@@ -2798,13 +2854,13 @@ ADI43271.1 (Escherichia coli O27)
 
 #### Sugars for blast hits only (may be incorrect):
 
-AXY99682.1 (Proteus vulgaris O34)
-
-![](../../../csdb/images/20104.gif)20104
-
 CZQ24278.1 (Klebsiella pneumoniae K27)
 
 ![](../../../csdb/images/6079.gif)6079
+
+AXY99682.1 (Proteus vulgaris O34)
+
+![](../../../csdb/images/20104.gif)20104
 
 #### Alphafold models:
 
@@ -2831,6 +2887,8 @@ CZQ24278.1 (Klebsiella pneumoniae K27)
 ### Cluster 57
 
 Total number of members in cluster: 43
+
+Average length of proteins in cluster: 379.6
 
 #### Conserved (non-aliphatic) residues:
 
@@ -2901,6 +2959,8 @@ CAI34008.1 (Streptococcus pneumoniae 27)
 
 Total number of members in cluster: 43
 
+Average length of proteins in cluster: 376.9
+
 #### Conserved (non-aliphatic) residues:
 
 D 160, R 162, R 166, T 168, N 175, S 228, R 229, T 230, Q 283, R 307, Y 332, D 336, Y 344, E 386
@@ -2927,17 +2987,17 @@ D 160, R 162, R 166, T 168, N 175, S 228, R 229, T 230, Q 283, R 307, Y 332, D 3
 
 #### Sugars in cluster:
 
-BAQ01687.1 (Escherichia coli O134)
+BAQ00957.1 (Escherichia coli O46)
 
-![](../../../csdb/images/1876.gif)1876
+![](../../../csdb/images/1554.gif)1554
 
 BAQ01812.1 (Escherichia coli O160)
 
 ![](../../../csdb/images/1901.gif)1901
 
-BAQ00957.1 (Escherichia coli O46)
+BAQ01687.1 (Escherichia coli O134)
 
-![](../../../csdb/images/1554.gif)1554
+![](../../../csdb/images/1876.gif)1876
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -2965,6 +3025,8 @@ BAQ00957.1 (Escherichia coli O46)
 ### Cluster 79
 
 Total number of members in cluster: 42
+
+Average length of proteins in cluster: 429.9
 
 #### Conserved (non-aliphatic) residues:
 
@@ -3033,6 +3095,8 @@ CAI33798.1 (Streptococcus pneumoniae 22F)
 
 Total number of members in cluster: 41
 
+Average length of proteins in cluster: 441.7
+
 #### Conserved (non-aliphatic) residues:
 
 Y 104, R 194, R 207, K 263, R 346, H 425, D 427
@@ -3099,6 +3163,8 @@ AXY99492.1 (Proteus vulgaris O17)
 
 Total number of members in cluster: 41
 
+Average length of proteins in cluster: 405.1
+
 #### Conserved (non-aliphatic) residues:
 
 Y 279, R 310, E 317, T 323, S 357, S 359, R 460, N 473, R 474
@@ -3160,6 +3226,8 @@ AAK60458.1 (Escherichia coli O91)
 
 Total number of members in cluster: 40
 
+Average length of proteins in cluster: 432.2
+
 #### Conserved (non-aliphatic) residues:
 
 Y 76, R 79, Q 176, K 179, Y 183, S 190, H 194, R 213, S 216, S 246, R 253, K 255, S 297, S 300, R 303, E 304, Y 313, D 319, S 320, Q 356, S 390, S 391, S 392, E 396, Y 413, R 449, E 451, K 461
@@ -3193,29 +3261,29 @@ Y 76, R 79, Q 176, K 179, Y 183, S 190, H 194, R 213, S 216, S 246, R 253, K 255
 
 #### Sugars in cluster:
 
-AAY23745.1 (Escherichia coli O106)
-
-![](../../../csdb/images/1845.gif)1845
-
-BAQ02105.1 (Escherichia coli O17)
-
-![](../../../csdb/images/1520.gif)1520
-
-BAQ02177.1 (Escherichia coli O77), AAY23739.1 (Escherichia coli O77)
+AAY23739.1 (Escherichia coli O77), BAQ02177.1 (Escherichia coli O77)
 
 ![](../../../csdb/images/1583.gif)1583
 
-AKA20935.1 (Yersinia pseudotuberculosis O:2c)
+AAY23733.1 (Escherichia coli O73)
 
-![](../../../csdb/images/12128.gif)12128
+![](../../../csdb/images/1578.gif)1578
+
+AAY23745.1 (Escherichia coli O106)
+
+![](../../../csdb/images/1845.gif)1845
 
 BAQ00945.1 (Escherichia coli O44)
 
 ![](../../../csdb/images/1551.gif)1551
 
-AAY23733.1 (Escherichia coli O73)
+AKA20935.1 (Yersinia pseudotuberculosis O:2c)
 
-![](../../../csdb/images/1578.gif)1578
+![](../../../csdb/images/12128.gif)12128
+
+BAQ02105.1 (Escherichia coli O17)
+
+![](../../../csdb/images/1520.gif)1520
 
 AKA20966.1 (Yersinia pseudotuberculosis O:4a)
 
@@ -3250,6 +3318,8 @@ BAQ01935.1 (Escherichia coli O176)
 ### Cluster 63
 
 Total number of members in cluster: 39
+
+Average length of proteins in cluster: 425.9
 
 #### Conserved (non-aliphatic) residues:
 
@@ -3311,6 +3381,8 @@ AAM27595.1 (Pseudomonas aeruginosa O12)
 
 Total number of members in cluster: 37
 
+Average length of proteins in cluster: 447.0
+
 #### Conserved (non-aliphatic) residues:
 
 K 257, R 311, Y 371, N 483, T 486, R 489, D 494, S 546
@@ -3336,13 +3408,13 @@ K 257, R 311, Y 371, N 483, T 486, R 489, D 494, S 546
 
 #### Sugars in cluster:
 
-AAM27560.1 (Pseudomonas aeruginosa O10)
-
-![](../../../csdb/images/11180.gif)11180
-
 AAM27711.1 (Pseudomonas aeruginosa O19)
 
 ![](../../../csdb/images/11026.gif)11026
+
+AAM27560.1 (Pseudomonas aeruginosa O10)
+
+![](../../../csdb/images/11180.gif)11180
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -3374,6 +3446,8 @@ AAM27711.1 (Pseudomonas aeruginosa O19)
 ### Cluster 43
 
 Total number of members in cluster: 37
+
+Average length of proteins in cluster: 395.6
 
 #### Conserved (non-aliphatic) residues:
 
@@ -3439,6 +3513,8 @@ CAI33491.1 (Streptococcus pneumoniae 17A)
 
 Total number of members in cluster: 36
 
+Average length of proteins in cluster: 432.9
+
 #### Conserved (non-aliphatic) residues:
 
 D 52, K 243, R 326, D 332, N 408, R 410, D 470
@@ -3498,6 +3574,8 @@ D 52, K 243, R 326, D 332, N 408, R 410, D 470
 
 Total number of members in cluster: 36
 
+Average length of proteins in cluster: 387.6
+
 #### Conserved (non-aliphatic) residues:
 
 R 190, D 201, Y 203, N 218, N 257, R 353, Q 356, Y 395, E 397, Q 399, Y 402, Q 406, Y 440, N 447, Y 449, D 452
@@ -3524,10 +3602,6 @@ R 190, D 201, Y 203, N 218, N 257, R 353, Q 356, Y 395, E 397, Q 399, Y 402, Q 4
 
 #### Sugars in cluster:
 
-ABI98986.1 (Escherichia coli O147)
-
-![](../../../csdb/images/1624.gif)1624
-
 ABE98437.1 (Escherichia coli O146)
 
 ![](../../../csdb/images/1887.gif)1887
@@ -3535,6 +3609,10 @@ ABE98437.1 (Escherichia coli O146)
 ABU80601.1 (Shigella flexneri 6)
 
 ![](../../../csdb/images/188.gif)188
+
+ABI98986.1 (Escherichia coli O147)
+
+![](../../../csdb/images/1624.gif)1624
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -3572,6 +3650,8 @@ ABU80601.1 (Shigella flexneri 6)
 
 Total number of members in cluster: 36
 
+Average length of proteins in cluster: 363.1
+
 #### Conserved (non-aliphatic) residues:
 
 R 60, D 66, Y 67, Y 70, R 184, Q 185, H 219, R 360
@@ -3601,7 +3681,7 @@ BAQ02116.1 (Escherichia coli O54)
 
 ![](../../../csdb/images/1561.gif)1561
 
-EGR73751.1 (Escherichia coli O104), AAK64372.1 (Escherichia coli O104)
+AAK64372.1 (Escherichia coli O104), EGR73751.1 (Escherichia coli O104)
 
 ![](../../../csdb/images/1843.gif)1843
 
@@ -3640,6 +3720,8 @@ EGR73751.1 (Escherichia coli O104), AAK64372.1 (Escherichia coli O104)
 ### Cluster 66
 
 Total number of members in cluster: 35
+
+Average length of proteins in cluster: 330.6
 
 #### Conserved (non-aliphatic) residues:
 
@@ -3708,6 +3790,8 @@ AHB32438.2 (Acinetobacter baumannii O22)
 
 Total number of members in cluster: 34
 
+Average length of proteins in cluster: 403.9
+
 #### Conserved (non-aliphatic) residues:
 
 R 204, E 244, Y 282, K 289, R 293, R 316, E 349, Y 397
@@ -3736,13 +3820,13 @@ R 204, E 244, Y 282, K 289, R 293, R 316, E 349, Y 397
 
 #### Sugars in cluster:
 
-AKA20948.1 (Yersinia pseudotuberculosis O:3)
-
-![](../../../csdb/images/12133.gif)12133
-
 BAQ01843.1 (Escherichia coli O163)
 
 ![](../../../csdb/images/1905.gif)1905
+
+AKA20948.1 (Yersinia pseudotuberculosis O:3)
+
+![](../../../csdb/images/12133.gif)12133
 
 ACV52983.1 (Yersinia pseudotuberculosis O:11)
 
@@ -3778,6 +3862,8 @@ ACV52983.1 (Yersinia pseudotuberculosis O:11)
 ### Cluster 93
 
 Total number of members in cluster: 33
+
+Average length of proteins in cluster: 344.3
 
 #### Conserved (non-aliphatic) residues:
 
@@ -3842,6 +3928,8 @@ AHB32334.1 (Acinetobacter baumannii O18)
 
 Total number of members in cluster: 33
 
+Average length of proteins in cluster: 382.3
+
 #### Conserved (non-aliphatic) residues:
 
 R 61, D 118, R 197, K 206, R 248, R 334, K 378
@@ -3869,13 +3957,13 @@ R 61, D 118, R 197, K 206, R 248, R 334, K 378
 
 #### Sugars in cluster:
 
-ACD37181.1 (Escherichia coli O129)
-
-![](../../../csdb/images/1870.gif)1870
-
 ACD37165.1 (Escherichia coli O13)
 
 ![](../../../csdb/images/1515.gif)1515
+
+ACD37181.1 (Escherichia coli O129)
+
+![](../../../csdb/images/1870.gif)1870
 
 ACD37173.1 (Escherichia coli O135)
 
@@ -3912,6 +4000,8 @@ ACD37173.1 (Escherichia coli O135)
 
 Total number of members in cluster: 29
 
+Average length of proteins in cluster: 413.9
+
 #### Conserved (non-aliphatic) residues:
 
 Y 165, R 210, Y 267, R 269, S 371, T 415, D 416, R 421, E 483, K 485
@@ -3937,7 +4027,7 @@ Y 165, R 210, Y 267, R 269, S 371, T 415, D 416, R 421, E 483, K 485
 
 #### Sugars in cluster:
 
-ACD37046.1 (Escherichia coli O167), ACD37037.1 (Shigella boydii 3)
+ACD37037.1 (Shigella boydii 3), ACD37046.1 (Escherichia coli O167)
 
 ![](../../../csdb/images/1909.gif)1909
 
@@ -3971,6 +4061,8 @@ ACD37046.1 (Escherichia coli O167), ACD37037.1 (Shigella boydii 3)
 
 Total number of members in cluster: 29
 
+Average length of proteins in cluster: 431.8
+
 #### Conserved (non-aliphatic) residues:
 
 R 187, R 188, Y 203, S 206, D 300, R 304, R 305, Y 329, D 331
@@ -4001,11 +4093,11 @@ R 187, R 188, Y 203, S 206, D 300, R 304, R 305, Y 329, D 331
 
 #### Sugars in cluster:
 
-AAM27728.1 (Pseudomonas aeruginosa O2)
+AAM27662.1 (Pseudomonas aeruginosa O16)
 
-![](../../../csdb/images/6565.gif)6565
+![](../../../csdb/images/6654.gif)6654
 
-AAM27801.1 (Pseudomonas aeruginosa O5), AAC45857.1 (Pseudomonas aeruginosa O5), AAA97573.1 (Pseudomonas aeruginosa O5)
+AAA97573.1 (Pseudomonas aeruginosa O5), AAC45857.1 (Pseudomonas aeruginosa O5), AAM27801.1 (Pseudomonas aeruginosa O5)
 
 ![](../../../csdb/images/1672.gif)1672
 
@@ -4013,9 +4105,9 @@ AAM27748.1 (Pseudomonas aeruginosa O20)
 
 ![](../../../csdb/images/6655.gif)6655
 
-AAM27662.1 (Pseudomonas aeruginosa O16)
+AAM27728.1 (Pseudomonas aeruginosa O2)
 
-![](../../../csdb/images/6654.gif)6654
+![](../../../csdb/images/6565.gif)6565
 
 AAM27693.1 (Pseudomonas aeruginosa O18)
 
@@ -4043,6 +4135,8 @@ AAM27693.1 (Pseudomonas aeruginosa O18)
 ### Cluster 54
 
 Total number of members in cluster: 28
+
+Average length of proteins in cluster: 384.1
 
 #### Conserved (non-aliphatic) residues:
 
@@ -4099,6 +4193,8 @@ ACD37026.1 (Shigella boydii 12)
 ### Cluster 41
 
 Total number of members in cluster: 26
+
+Average length of proteins in cluster: 416.3
 
 #### Conserved (non-aliphatic) residues:
 
@@ -4159,6 +4255,8 @@ BAQ01584.1 (Escherichia coli O120)
 
 Total number of members in cluster: 25
 
+Average length of proteins in cluster: 381.6
+
 #### Conserved (non-aliphatic) residues:
 
 Y 43, N 45, D 48, Y 52, E 69, N 113, E 132, Q 133, R 135, Q 136, H 171, K 226, Y 230, R 296, S 350
@@ -4189,7 +4287,7 @@ Y 43, N 45, D 48, Y 52, E 69, N 113, E 132, Q 133, R 135, Q 136, H 171, K 226, Y
 
 #### Sugars in cluster:
 
-ABK27354.1 (Escherichia coli O103), ABK27350.1 (Escherichia coli O103), ABK27352.1 (Escherichia coli O103), BAI31288.1 (Escherichia coli O103), ABK27351.1 (Escherichia coli O103), ABK27355.1 (Escherichia coli O103), ABK27321.1 (Escherichia coli O103)
+ABK27354.1 (Escherichia coli O103), ABK27321.1 (Escherichia coli O103), ABK27355.1 (Escherichia coli O103), ABK27350.1 (Escherichia coli O103), BAI31288.1 (Escherichia coli O103), ABK27352.1 (Escherichia coli O103), ABK27351.1 (Escherichia coli O103)
 
 ![](../../../csdb/images/1842.gif)1842
 
@@ -4221,6 +4319,8 @@ ABK27354.1 (Escherichia coli O103), ABK27350.1 (Escherichia coli O103), ABK27352
 
 Total number of members in cluster: 24
 
+Average length of proteins in cluster: 409.8
+
 #### Conserved (non-aliphatic) residues:
 
 R 53, D 60, D 61, H 65, Y 96, Y 98, Y 109, S 118, S 121, Y 129, N 167, R 169, S 173, R 176, Y 208, H 215, R 225, K 272, Y 276, Y 331, R 348, N 402, D 414, N 424
@@ -4249,25 +4349,25 @@ R 53, D 60, D 61, H 65, Y 96, Y 98, Y 109, S 118, S 121, Y 129, N 167, R 169, S 
 
 #### Sugars in cluster:
 
-CAI33048.1 (Streptococcus pneumoniae 10A)
+CAI34733.1 (Streptococcus pneumoniae 10B), CIV98579.1 (Streptococcus pneumoniae 10B)
 
-![](../../../csdb/images/1953.gif)1953
+![](../../../csdb/images/7051.gif)7051
+
+CAI34436.1 (Streptococcus pneumoniae 39)
+
+![](../../../csdb/images/3663.gif)3663
 
 CAI33084.1 (Streptococcus pneumoniae 10C)
 
 ![](../../../csdb/images/7052.gif)7052
 
-CIV98579.1 (Streptococcus pneumoniae 10B), CAI34733.1 (Streptococcus pneumoniae 10B)
+CAI33048.1 (Streptococcus pneumoniae 10A)
 
-![](../../../csdb/images/7051.gif)7051
+![](../../../csdb/images/1953.gif)1953
 
 CAI33105.1 (Streptococcus pneumoniae 10F)
 
 ![](../../../csdb/images/7049.gif)7049
-
-CAI34436.1 (Streptococcus pneumoniae 39)
-
-![](../../../csdb/images/3663.gif)3663
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -4290,6 +4390,8 @@ CAI34436.1 (Streptococcus pneumoniae 39)
 ### Cluster 25
 
 Total number of members in cluster: 24
+
+Average length of proteins in cluster: 399.5
 
 #### Conserved (non-aliphatic) residues:
 
@@ -4316,13 +4418,13 @@ N 194, R 302, Y 336, R 341, K 360
 
 #### Sugars in cluster:
 
-CAI33840.1 (Streptococcus pneumoniae 23B), VMO60215.1 (Streptococcus pneumoniae 23B)
-
-![](../../../csdb/images/7083.gif)7083
-
 CAI33862.1 (Streptococcus pneumoniae 23F), VOC17485.1 (Streptococcus pneumoniae 23F)
 
 ![](../../../csdb/images/1964.gif)1964
+
+VMO60215.1 (Streptococcus pneumoniae 23B), CAI33840.1 (Streptococcus pneumoniae 23B)
+
+![](../../../csdb/images/7083.gif)7083
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -4353,6 +4455,8 @@ CAI33862.1 (Streptococcus pneumoniae 23F), VOC17485.1 (Streptococcus pneumoniae 
 
 Total number of members in cluster: 23
 
+Average length of proteins in cluster: 398.1
+
 #### Conserved (non-aliphatic) residues:
 
 R 206, R 229, D 235, E 236, T 272, S 274, R 342, R 358, Q 454, R 455
@@ -4378,13 +4482,13 @@ R 206, R 229, D 235, E 236, T 272, S 274, R 342, R 358, Q 454, R 455
 
 #### Sugars in cluster:
 
-BAQ01878.1 (Escherichia coli O170)
-
-![](../../../csdb/images/1407.gif)1407
-
 BAQ01793.1 (Escherichia coli O156)
 
 ![](../../../csdb/images/1897.gif)1897
+
+BAQ01878.1 (Escherichia coli O170)
+
+![](../../../csdb/images/1407.gif)1407
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -4417,6 +4521,8 @@ BAQ01793.1 (Escherichia coli O156)
 
 Total number of members in cluster: 22
 
+Average length of proteins in cluster: 396.3
+
 #### Conserved (non-aliphatic) residues:
 
 R 64, Q 117, D 175, Y 188, Y 192, Y 203, R 208, D 215, Y 221, T 260, R 261, Y 308, R 315, D 318, S 319, S 323, S 326, R 330, S 337, Q 353, R 365, N 367, T 368, D 369, N 370, E 378
@@ -4446,11 +4552,11 @@ R 64, Q 117, D 175, Y 188, Y 192, Y 203, R 208, D 215, Y 221, T 260, R 261, Y 30
 
 #### Sugars in cluster:
 
-WP_001529369.1 (Salmonella enterica Kentucky), WP_000936589.1 (nan Kentucky)
+WP_000936589.1 (nan Kentucky), WP_001529369.1 (Salmonella enterica Kentucky)
 
 ![](../../../csdb/images/27410.gif)27410
 
-WP_000936592.1 (Salmonella enterica Newport), ACF64132.1 (Salmonella enterica Newport)
+ACF64132.1 (Salmonella enterica Newport), WP_000936592.1 (Salmonella enterica Newport)
 
 ![](../../../csdb/images/28331.gif)28331
 
@@ -4473,6 +4579,8 @@ WP_000936592.1 (Salmonella enterica Newport), ACF64132.1 (Salmonella enterica Ne
 ### Cluster 40
 
 Total number of members in cluster: 22
+
+Average length of proteins in cluster: 394.2
 
 #### Conserved (non-aliphatic) residues:
 
@@ -4528,6 +4636,8 @@ BAQ01533.1 (Escherichia coli O110)
 
 Total number of members in cluster: 22
 
+Average length of proteins in cluster: 368.3
+
 #### Conserved (non-aliphatic) residues:
 
 Y 56, D 57, Y 61, E 80, Y 113, E 140, R 143, Q 144, H 177, K 242, R 311
@@ -4579,6 +4689,8 @@ ABI98976.1 (Escherichia coli O141)
 ### Cluster 91
 
 Total number of members in cluster: 21
+
+Average length of proteins in cluster: 427.1
 
 #### Conserved (non-aliphatic) residues:
 
@@ -4643,6 +4755,8 @@ CBN82200.1 (Escherichia coli O70)
 
 Total number of members in cluster: 21
 
+Average length of proteins in cluster: 394.2
+
 #### Conserved (non-aliphatic) residues:
 
 R 229, R 284, R 356, S 359, R 363, S 398, H 399, Y 407, D 460
@@ -4669,6 +4783,10 @@ R 229, R 284, R 356, S 359, R 363, S 398, H 399, Y 407, D 460
 
 #### Sugars in cluster:
 
+CAI33389.1 (Streptococcus pneumoniae 15C)
+
+![](../../../csdb/images/2251.gif)2251
+
 CAI33324.1 (Streptococcus pneumoniae 14)
 
 ![](../../../csdb/images/5348.gif)5348
@@ -4676,10 +4794,6 @@ CAI33324.1 (Streptococcus pneumoniae 14)
 CAI33366.1 (Streptococcus pneumoniae 15B)
 
 ![](../../../csdb/images/1957.gif)1957
-
-CAI33389.1 (Streptococcus pneumoniae 15C)
-
-![](../../../csdb/images/2251.gif)2251
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -4712,6 +4826,8 @@ AAL57082.1 (Streptococcus agalactiae III)
 
 Total number of members in cluster: 21
 
+Average length of proteins in cluster: 396.0
+
 #### Conserved (non-aliphatic) residues:
 
 Y 30, Y 37, Y 73, Y 115, Y 118, T 124, Y 126, N 136, D 140, S 144, S 182, Q 186, R 188, R 189, E 190, S 201, Y 233, R 235, S 237, T 240, S 241, E 256, T 257, H 258, N 266, E 267, H 271, K 304, E 314, Y 318, D 320, K 321, T 328, H 332, Y 354, R 378, K 379, D 380, Y 383, K 386, Y 387, S 389, Y 402, K 408
@@ -4741,11 +4857,11 @@ Y 30, Y 37, Y 73, Y 115, Y 118, T 124, Y 126, N 136, D 140, S 144, S 182, Q 186,
 
 #### Sugars in cluster:
 
-AGS07363.1 (Salmonella enterica Strasbourg), AAB48190.1 (Salmonella enterica Strasbourg)
+AAB48190.1 (Salmonella enterica Strasbourg), AGS07363.1 (Salmonella enterica Strasbourg)
 
 ![](../../../csdb/images/30404.gif)30404
 
-CAA43077.1 (Salmonella enterica Anatum), AGS07327.1 (Salmonella enterica Anatum)
+AGS07327.1 (Salmonella enterica Anatum), CAA43077.1 (Salmonella enterica Anatum)
 
 ![](../../../csdb/images/30407.gif)30407
 
@@ -4771,6 +4887,8 @@ AGS07316.1 (Salmonella enterica Senftenberg)
 ### Cluster 123
 
 Total number of members in cluster: 21
+
+Average length of proteins in cluster: 465.9
 
 #### Conserved (non-aliphatic) residues:
 
@@ -4830,6 +4948,8 @@ CAI32772.1 (Streptococcus pneumoniae 4)
 
 Total number of members in cluster: 21
 
+Average length of proteins in cluster: 372.5
+
 #### Conserved (non-aliphatic) residues:
 
 Y 31, N 58, Y 65, N 86, Y 94, N 118, Y 154, Q 157, N 160, K 161, T 165, R 199, Q 201, Y 229, N 269, Y 272, N 281, Q 287, D 306, N 359
@@ -4882,6 +5002,8 @@ ABB04486.1 (Escherichia coli O98)
 
 Total number of members in cluster: 20
 
+Average length of proteins in cluster: 421.1
+
 #### Conserved (non-aliphatic) residues:
 
 D 189, R 193, E 200, S 202, S 237, K 240, T 307, T 310, R 311, E 362, Y 366, K 381, D 382, S 385
@@ -4930,6 +5052,8 @@ BAQ01317.1 (Escherichia coli O88)
 ### Cluster 126
 
 Total number of members in cluster: 20
+
+Average length of proteins in cluster: 346.6
 
 #### Conserved (non-aliphatic) residues:
 
@@ -4988,6 +5112,8 @@ AFW04785.1 (Salmonella enterica O62)
 
 Total number of members in cluster: 19
 
+Average length of proteins in cluster: 387.7
+
 #### Conserved (non-aliphatic) residues:
 
 R 156, N 160, Y 161, Y 173, Y 175, Y 226, T 231, K 233, K 235, R 247, S 254, S 272, K 278, Y 297, N 301, D 306, T 338, N 339, T 342, Y 345, H 367, Q 396, Y 402, Y 407
@@ -5041,6 +5167,8 @@ ACD37126.1 (Shigella boydii 2)
 
 Total number of members in cluster: 19
 
+Average length of proteins in cluster: 392.7
+
 #### Conserved (non-aliphatic) residues:
 
 D 43, Y 47, Y 51, E 67, N 93, Y 123, E 125, R 128, Q 129, S 134, H 162, K 220, Y 224, Y 230, D 243, R 295, Y 299, Q 341, R 344, K 380
@@ -5089,6 +5217,8 @@ AAT85653.1 (Escherichia coli O4)
 ### Cluster 86
 
 Total number of members in cluster: 18
+
+Average length of proteins in cluster: 404.2
 
 #### Conserved (non-aliphatic) residues:
 
@@ -5152,6 +5282,8 @@ BAQ00858.1 (Escherichia coli O38)
 
 Total number of members in cluster: 18
 
+Average length of proteins in cluster: 476.8
+
 #### Conserved (non-aliphatic) residues:
 
 R 300, T 301, R 362, Y 424, D 438, E 483, N 487, Y 523, R 537, R 538
@@ -5199,6 +5331,8 @@ R 300, T 301, R 362, Y 424, D 438, E 483, N 487, Y 523, R 537, R 538
 ### Cluster 144
 
 Total number of members in cluster: 18
+
+Average length of proteins in cluster: 329.0
 
 #### Conserved (non-aliphatic) residues:
 
@@ -5258,6 +5392,8 @@ AHB32242.2 (Acinetobacter baumannii O5)
 
 Total number of members in cluster: 18
 
+Average length of proteins in cluster: 421.3
+
 #### Conserved (non-aliphatic) residues:
 
 E 215, K 264, R 265, R 339, H 387, D 443
@@ -5285,21 +5421,21 @@ E 215, K 264, R 265, R 339, H 387, D 443
 
 #### Sugars in cluster:
 
+VQM63531.1 (Streptococcus pneumoniae 18A), CAI33537.1 (Streptococcus pneumoniae 18A)
+
+![](../../../csdb/images/7074.gif)7074
+
 VOG14504.1 (Streptococcus pneumoniae 18F), CAI33610.1 (Streptococcus pneumoniae 18F)
 
 ![](../../../csdb/images/7071.gif)7071
 
-CAI33585.1 (Streptococcus pneumoniae 18C)
-
-![](../../../csdb/images/939.gif)939
-
-CAI33537.1 (Streptococcus pneumoniae 18A), VQM63531.1 (Streptococcus pneumoniae 18A)
-
-![](../../../csdb/images/7074.gif)7074
-
 CAI33561.1 (Streptococcus pneumoniae 18B)
 
 ![](../../../csdb/images/846.gif)846
+
+CAI33585.1 (Streptococcus pneumoniae 18C)
+
+![](../../../csdb/images/939.gif)939
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -5322,6 +5458,8 @@ CAI33561.1 (Streptococcus pneumoniae 18B)
 ### Cluster 116
 
 Total number of members in cluster: 18
+
+Average length of proteins in cluster: 381.6
 
 #### Conserved (non-aliphatic) residues:
 
@@ -5349,7 +5487,7 @@ Q 123, N 130, Y 135, Y 165, K 201, Q 203, S 204, K 224, T 239, R 240, R 243, N 2
 
 #### Sugars in cluster:
 
-CAS09721.1 (Escherichia coli O127), AAR90892.1 (Escherichia coli O127)
+AAR90892.1 (Escherichia coli O127), CAS09721.1 (Escherichia coli O127)
 
 ![](../../../csdb/images/1866.gif)1866
 
@@ -5376,6 +5514,8 @@ BAQ01361.1 (Escherichia coli O90)
 ### Cluster 113
 
 Total number of members in cluster: 18
+
+Average length of proteins in cluster: 326.7
 
 #### Conserved (non-aliphatic) residues:
 
@@ -5435,6 +5575,8 @@ AEP25500.1 (Yersinia pseudotuberculosis O:6)
 
 Total number of members in cluster: 17
 
+Average length of proteins in cluster: 327.3
+
 #### Conserved (non-aliphatic) residues:
 
 D 79, Y 80, Y 83, E 99, K 131, Y 157, Q 169, R 171, H 203, Y 249, S 262, K 264, R 319, D 322
@@ -5476,6 +5618,8 @@ D 79, Y 80, Y 83, E 99, K 131, Y 157, Q 169, R 171, H 203, Y 249, S 262, K 264, 
 ### Cluster 95
 
 Total number of members in cluster: 17
+
+Average length of proteins in cluster: 411.9
 
 #### Conserved (non-aliphatic) residues:
 
@@ -5524,6 +5668,8 @@ ABX51880.1 (Cronobacter sakazakii O1)
 
 Total number of members in cluster: 17
 
+Average length of proteins in cluster: 408.1
+
 #### Conserved (non-aliphatic) residues:
 
 H 150, R 199, T 251, R 252, R 327, Q 330, R 357, Y 365, E 366, S 368, K 375
@@ -5549,13 +5695,13 @@ H 150, R 199, T 251, R 252, R 327, Q 330, R 357, Y 365, E 366, S 368, K 375
 
 #### Sugars in cluster:
 
-AAM27782.1 (Pseudomonas aeruginosa O4)
-
-![](../../../csdb/images/24033.gif)24033
-
 AAY28257.1 (Escherichia coli O177)
 
 ![](../../../csdb/images/1919.gif)1919
+
+AAM27782.1 (Pseudomonas aeruginosa O4)
+
+![](../../../csdb/images/24033.gif)24033
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -5578,6 +5724,8 @@ AAY28257.1 (Escherichia coli O177)
 ### Cluster 177
 
 Total number of members in cluster: 17
+
+Average length of proteins in cluster: 398.7
 
 #### Conserved (non-aliphatic) residues:
 
@@ -5629,6 +5777,8 @@ AAM27574.1 (Pseudomonas aeruginosa O11), AAD45264.1 (Pseudomonas aeruginosa O11)
 
 Total number of members in cluster: 17
 
+Average length of proteins in cluster: 360.2
+
 #### Conserved (non-aliphatic) residues:
 
 D 59, E 60, Y 63, D 142, N 146, Y 148, R 149, Q 150, H 183, S 185, Y 250, Y 262, R 269, Y 307, R 319, N 320
@@ -5655,13 +5805,13 @@ D 59, E 60, Y 63, D 142, N 146, Y 148, R 149, Q 150, H 183, S 185, Y 250, Y 262,
 
 #### Sugars in cluster:
 
-ACA24803.1 (Escherichia coli O150)
-
-![](../../../csdb/images/715.gif)715
-
 BAQ01169.1 (Escherichia coli O69)
 
 ![](../../../csdb/images/1575.gif)1575
+
+ACA24803.1 (Escherichia coli O150)
+
+![](../../../csdb/images/715.gif)715
 
 ACA24792.1 (Shigella dysenteriae 13)
 
@@ -5687,6 +5837,8 @@ ACA24792.1 (Shigella dysenteriae 13)
 ### Cluster 140
 
 Total number of members in cluster: 17
+
+Average length of proteins in cluster: 482.9
 
 #### Conserved (non-aliphatic) residues:
 
@@ -5745,6 +5897,8 @@ CAI33817.1 (Streptococcus pneumoniae 23A)
 
 Total number of members in cluster: 16
 
+Average length of proteins in cluster: 381.9
+
 #### Conserved (non-aliphatic) residues:
 
 D 85, R 103, S 111, Q 141, K 156, N 171, N 177, R 181, N 190, Q 219, N 222, S 223, N 224, E 283, T 292, D 332
@@ -5797,6 +5951,8 @@ AAV74543.1 (Escherichia coli O15)
 ### Cluster 51
 
 Total number of members in cluster: 16
+
+Average length of proteins in cluster: 439.1
 
 #### Conserved (non-aliphatic) residues:
 
@@ -5856,6 +6012,8 @@ CAI32705.1 (Streptococcus pneumoniae 1)
 
 Total number of members in cluster: 16
 
+Average length of proteins in cluster: 409.1
+
 #### Conserved (non-aliphatic) residues:
 
 S 28, Q 231, S 234, Y 235, R 288, R 354, R 373, H 406, S 462, Y 465
@@ -5888,7 +6046,7 @@ CAI33226.1 (Streptococcus pneumoniae 12A)
 
 ![](../../../csdb/images/7060.gif)7060
 
-CAI33278.1 (Streptococcus pneumoniae 12F), VPT20589.1 (Streptococcus pneumoniae 12F)
+VPT20589.1 (Streptococcus pneumoniae 12F), CAI33278.1 (Streptococcus pneumoniae 12F)
 
 ![](../../../csdb/images/1955.gif)1955
 
@@ -5914,6 +6072,8 @@ CAI33278.1 (Streptococcus pneumoniae 12F), VPT20589.1 (Streptococcus pneumoniae 
 ### Cluster 157
 
 Total number of members in cluster: 16
+
+Average length of proteins in cluster: 408.2
 
 #### Conserved (non-aliphatic) residues:
 
@@ -5969,6 +6129,8 @@ ADN43858.1 (Escherichia coli O137)
 
 Total number of members in cluster: 16
 
+Average length of proteins in cluster: 392.2
+
 #### Conserved (non-aliphatic) residues:
 
 Q 127, H 194, Q 196, R 308, Y 353, H 355, Q 360, D 364, S 411, Y 415, Y 417
@@ -5997,25 +6159,25 @@ Q 127, H 194, Q 196, R 308, Y 353, H 355, Q 360, D 364, S 411, Y 415, Y 417
 
 #### Sugars in cluster:
 
+CAI33188.1 (Streptococcus pneumoniae 11D)
+
+![](../../../csdb/images/7056.gif)7056
+
 CAI33149.1 (Streptococcus pneumoniae 11B)
 
 ![](../../../csdb/images/7054.gif)7054
 
-CAI33128.1 (Streptococcus pneumoniae 11A)
+CAI33207.1 (Streptococcus pneumoniae 11F)
 
-![](../../../csdb/images/1493.gif)1493
+![](../../../csdb/images/7053.gif)7053
 
 CAI33169.1 (Streptococcus pneumoniae 11C)
 
 ![](../../../csdb/images/31003.gif)31003
 
-CAI33188.1 (Streptococcus pneumoniae 11D)
+CAI33128.1 (Streptococcus pneumoniae 11A)
 
-![](../../../csdb/images/7056.gif)7056
-
-CAI33207.1 (Streptococcus pneumoniae 11F)
-
-![](../../../csdb/images/7053.gif)7053
+![](../../../csdb/images/1493.gif)1493
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -6042,6 +6204,8 @@ CAI33207.1 (Streptococcus pneumoniae 11F)
 
 Total number of members in cluster: 16
 
+Average length of proteins in cluster: 414.9
+
 #### Conserved (non-aliphatic) residues:
 
 R 195, R 201, R 246, R 323, Y 330, D 369
@@ -6067,13 +6231,13 @@ R 195, R 201, R 246, R 323, Y 330, D 369
 
 #### Sugars in cluster:
 
-CAI33675.1 (Streptococcus pneumoniae 19C)
-
-![](../../../csdb/images/2255.gif)2255
-
 CAI33652.1 (Streptococcus pneumoniae 19B)
 
 ![](../../../csdb/images/2254.gif)2254
+
+CAI33675.1 (Streptococcus pneumoniae 19C)
+
+![](../../../csdb/images/2255.gif)2255
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -6096,6 +6260,8 @@ CAI33652.1 (Streptococcus pneumoniae 19B)
 ### Cluster 138
 
 Total number of members in cluster: 16
+
+Average length of proteins in cluster: 436.0
 
 #### Conserved (non-aliphatic) residues:
 
@@ -6151,6 +6317,8 @@ CAI33466.1 (Streptococcus pneumoniae 16F)
 
 Total number of members in cluster: 16
 
+Average length of proteins in cluster: 399.3
+
 #### Conserved (non-aliphatic) residues:
 
 S 63, D 75, Y 79, E 94, E 98, Q 122, N 127, Q 157, R 164, Q 165, H 200, D 257, R 258, K 259, S 280, H 287, Y 318, R 333, K 359, R 379, N 384, D 385
@@ -6201,6 +6369,8 @@ BAQ01716.1 (Escherichia coli O140)
 ### Cluster 125
 
 Total number of members in cluster: 16
+
+Average length of proteins in cluster: 415.1
 
 #### Conserved (non-aliphatic) residues:
 
@@ -6258,6 +6428,8 @@ BAQ00830.1 (Escherichia coli O36)
 
 Total number of members in cluster: 16
 
+Average length of proteins in cluster: 453.4
+
 #### Conserved (non-aliphatic) residues:
 
 S 37, Y 39, T 45, N 56, K 57, T 59, S 60, S 63, S 68, S 69, R 76, S 80, D 86, R 88, D 91, Y 97, N 106, Y 107, Y 113, Y 116, N 125, K 160, S 170, N 171, S 172, Y 173, Y 177, Y 187, S 191, Y 195, R 209, S 225, K 228, S 230, R 231, E 233, T 236, T 240, Y 245, N 247, N 253, S 271, E 272, S 275, R 278, S 282, N 291, Y 298, S 303, Y 304, Q 309, S 310, Q 328, T 332, S 335, S 347, Y 348, S 349, S 353, T 355, N 357, Y 361, S 370, Y 371, E 374, S 375, N 396, E 399, T 402, Y 409, Y 412, S 414, R 424, E 425, Y 429, K 436, Y 447
@@ -6285,7 +6457,7 @@ S 37, Y 39, T 45, N 56, K 57, T 59, S 60, S 63, S 68, S 69, R 76, S 80, D 86, R 
 
 #### Sugars in cluster:
 
-WP_000864940.1 (Escherichia coli O6), CAD19991.1 (Escherichia coli O6), ADT75640.1 (Escherichia coli O6)
+WP_000864940.1 (Escherichia coli O6), ADT75640.1 (Escherichia coli O6), CAD19991.1 (Escherichia coli O6)
 
 ![](../../../csdb/images/114261.gif)114261
 
@@ -6306,6 +6478,8 @@ WP_000864940.1 (Escherichia coli O6), CAD19991.1 (Escherichia coli O6), ADT75640
 ### Cluster 96
 
 Total number of members in cluster: 15
+
+Average length of proteins in cluster: 402.9
 
 #### Conserved (non-aliphatic) residues:
 
@@ -6355,6 +6529,8 @@ ADV17650.1 (Escherichia coli O11)
 
 Total number of members in cluster: 15
 
+Average length of proteins in cluster: 395.7
+
 #### Conserved (non-aliphatic) residues:
 
 D 76, D 102, Y 131, R 174, H 211, S 213, Y 292, R 374
@@ -6381,17 +6557,17 @@ D 76, D 102, Y 131, R 174, H 211, S 213, Y 292, R 374
 
 #### Sugars in cluster:
 
-BAQ01999.1 (Escherichia coli O181)
+ACD37086.1 (Escherichia coli O112ab)
 
-![](../../../csdb/images/1923.gif)1923
+![](../../../csdb/images/705.gif)705
 
 ACD37078.1 (Shigella boydii 15)
 
 ![](../../../csdb/images/1851.gif)1851
 
-ACD37086.1 (Escherichia coli O112ab)
+BAQ01999.1 (Escherichia coli O181)
 
-![](../../../csdb/images/705.gif)705
+![](../../../csdb/images/1923.gif)1923
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -6415,6 +6591,8 @@ ACD37086.1 (Escherichia coli O112ab)
 ### Cluster 70
 
 Total number of members in cluster: 15
+
+Average length of proteins in cluster: 451.6
 
 #### Conserved (non-aliphatic) residues:
 
@@ -6467,6 +6645,8 @@ AAO37717.1 (Escherichia coli O86)
 
 Total number of members in cluster: 15
 
+Average length of proteins in cluster: 340.1
+
 #### Conserved (non-aliphatic) residues:
 
 S 41, N 42, D 43, Y 47, D 49, E 64, S 92, K 96, Y 117, S 120, H 125, E 126, T 128, Q 129, R 131, H 165, Y 166, S 167, N 214, Y 220, N 223, S 224, S 234, T 236, S 294, S 296, S 300, R 302, Y 304, E 305, S 308, R 343, S 354, H 356, R 357, N 365
@@ -6493,7 +6673,7 @@ S 41, N 42, D 43, Y 47, D 49, E 64, S 92, K 96, Y 117, S 120, H 125, E 126, T 12
 
 #### Sugars in cluster:
 
-AQU71739.1 (Escherichia coli O1), AQU71717.1 (Escherichia coli O1)
+AQU71717.1 (Escherichia coli O1), AQU71739.1 (Escherichia coli O1)
 
 ![](../../../csdb/images/7222.gif)7222
 
@@ -6520,6 +6700,8 @@ AFW04812.1 (Salmonella enterica O42)
 ### Cluster 164
 
 Total number of members in cluster: 15
+
+Average length of proteins in cluster: 396.9
 
 #### Conserved (non-aliphatic) residues:
 
@@ -6576,6 +6758,8 @@ CAI32797.1 (Streptococcus pneumoniae 5)
 
 Total number of members in cluster: 15
 
+Average length of proteins in cluster: 395.5
+
 #### Conserved (non-aliphatic) residues:
 
 S 30, Y 33, Y 34, K 54, K 57, Y 58, S 65, E 154, Y 165, T 169, R 173, S 174, S 176, N 180, N 183, Y 187, S 220, S 222, R 223, T 224, Y 271, R 284, R 294, D 306, D 313, Y 327, N 332, Y 378, S 391, N 395, Q 396, S 401
@@ -6603,7 +6787,7 @@ S 30, Y 33, Y 34, K 54, K 57, Y 58, S 65, E 154, Y 165, T 169, R 173, S 174, S 1
 
 #### Sugars in cluster:
 
-AAX58762.1 (Escherichia coli O145), AFD18613.1 (Escherichia coli O145), GEF03964.1 (Escherichia coli O145), AHG15281.1 (Escherichia coli O145)
+AAX58762.1 (Escherichia coli O145), AHG15281.1 (Escherichia coli O145), GEF03964.1 (Escherichia coli O145), AFD18613.1 (Escherichia coli O145)
 
 ![](../../../csdb/images/1886.gif)1886
 
@@ -6627,6 +6811,8 @@ AAX58762.1 (Escherichia coli O145), AFD18613.1 (Escherichia coli O145), GEF03964
 ### Cluster 110
 
 Total number of members in cluster: 15
+
+Average length of proteins in cluster: 438.1
 
 #### Conserved (non-aliphatic) residues:
 
@@ -6653,13 +6839,13 @@ S 60, S 101, K 126, H 186, R 197, R 199, E 204, S 206, S 245, K 246, D 299, S 30
 
 #### Sugars in cluster:
 
-ACA24882.1 (Escherichia coli O58)
-
-![](../../../csdb/images/108653.gif)108653
-
 ACA24868.1 (Shigella dysenteriae 5)
 
 ![](../../../csdb/images/1565.gif)1565
+
+ACA24882.1 (Escherichia coli O58)
+
+![](../../../csdb/images/108653.gif)108653
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -6686,6 +6872,8 @@ ACA24868.1 (Shigella dysenteriae 5)
 ### Cluster 55
 
 Total number of members in cluster: 14
+
+Average length of proteins in cluster: 383.7
 
 #### Conserved (non-aliphatic) residues:
 
@@ -6747,6 +6935,8 @@ ACA24852.1 (Escherichia coli O29)
 
 Total number of members in cluster: 14
 
+Average length of proteins in cluster: 350.3
+
 #### Conserved (non-aliphatic) residues:
 
 D 56, T 57, Y 60, N 89, S 133, E 138, T 141, N 142, R 145, Q 146, S 149, H 179, Y 235, R 246, Y 297, R 301, Y 304, N 339, S 350
@@ -6800,6 +6990,8 @@ ABI98966.1 (Escherichia coli O149)
 
 Total number of members in cluster: 14
 
+Average length of proteins in cluster: 380.4
+
 #### Conserved (non-aliphatic) residues:
 
 K 53, K 59, D 64, Q 74, T 83, Y 99, K 103, Q 128, Q 132, D 140, D 147, R 149, Y 151, R 155, K 156, N 157, T 160, Y 162, Y 173, S 203, T 205, Y 229, S 270, R 272, N 286, T 301, N 302, H 310, N 311, D 315, R 319, K 339, Y 357, E 361
@@ -6831,13 +7023,13 @@ CAI32973.1 (Streptococcus pneumoniae 9A)
 
 ![](../../../csdb/images/112112.gif)112112
 
-CAI33029.1 (Streptococcus pneumoniae 9V)
-
-![](../../../csdb/images/320.gif)320
-
 CAI32993.1 (Streptococcus pneumoniae 9L)
 
 ![](../../../csdb/images/7046.gif)7046
+
+CAI33029.1 (Streptococcus pneumoniae 9V)
+
+![](../../../csdb/images/320.gif)320
 
 CAI33011.1 (Streptococcus pneumoniae 9N)
 
@@ -6865,6 +7057,8 @@ CZE39046.1 (Streptococcus pneumoniae 5)
 ### Cluster 154
 
 Total number of members in cluster: 14
+
+Average length of proteins in cluster: 395.8
 
 #### Conserved (non-aliphatic) residues:
 
@@ -6918,6 +7112,8 @@ BAQ01456.1 (Escherichia coli O100)
 
 Total number of members in cluster: 14
 
+Average length of proteins in cluster: 489.3
+
 #### Conserved (non-aliphatic) residues:
 
 S 59, R 93, R 312, K 384, S 402, R 406, E 409, N 412, H 467, Y 485
@@ -6970,6 +7166,8 @@ ACA24912.1 (Shigella dysenteriae 10)
 ### Cluster 120
 
 Total number of members in cluster: 14
+
+Average length of proteins in cluster: 391.1
 
 #### Conserved (non-aliphatic) residues:
 
@@ -7026,6 +7224,8 @@ AGS07346.1 (Salmonella enterica 1,9,12,46,27:c:z39)
 
 Total number of members in cluster: 14
 
+Average length of proteins in cluster: 412.3
+
 #### Conserved (non-aliphatic) residues:
 
 E 209, S 352, E 429, R 486
@@ -7051,13 +7251,13 @@ E 209, S 352, E 429, R 486
 
 #### Sugars in cluster:
 
-ACD36984.1 (Shigella dysenteriae 4)
-
-![](../../../csdb/images/1937.gif)1937
-
 ACD36996.1 (Escherichia coli O168)
 
 ![](../../../csdb/images/1910.gif)1910
+
+ACD36984.1 (Shigella dysenteriae 4)
+
+![](../../../csdb/images/1937.gif)1937
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -7083,6 +7283,8 @@ ACD36996.1 (Escherichia coli O168)
 ### Cluster 60
 
 Total number of members in cluster: 13
+
+Average length of proteins in cluster: 416.8
 
 #### Conserved (non-aliphatic) residues:
 
@@ -7125,6 +7327,8 @@ H 26, H 114, Y 140, R 143, E 150, N 159, Y 160, R 202, Y 216, K 248, Y 271, Q 27
 
 Total number of members in cluster: 13
 
+Average length of proteins in cluster: 416.1
+
 #### Conserved (non-aliphatic) residues:
 
 Q 112, R 122, Q 166, R 192, R 240, R 317, D 367, N 368
@@ -7151,13 +7355,13 @@ Q 112, R 122, Q 166, R 192, R 240, R 317, D 367, N 368
 
 #### Sugars in cluster:
 
-CAI32910.1 (Streptococcus pneumoniae 7C)
-
-![](../../../csdb/images/7042.gif)7042
-
 CAI32889.1 (Streptococcus pneumoniae 7B)
 
 ![](../../../csdb/images/7041.gif)7041
+
+CAI32910.1 (Streptococcus pneumoniae 7C)
+
+![](../../../csdb/images/7042.gif)7042
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -7179,6 +7383,8 @@ CAI32889.1 (Streptococcus pneumoniae 7B)
 ### Cluster 45
 
 Total number of members in cluster: 13
+
+Average length of proteins in cluster: 391.5
 
 #### Conserved (non-aliphatic) residues:
 
@@ -7211,7 +7417,7 @@ Y 15, Q 18, D 25, R 27, Q 44, Q 62, T 82, E 84, K 93, E 94, D 100, D 102, K 107,
 
 #### Sugars in cluster:
 
-EKI95922.1 (Escherichia coli O157), EKK44895.1 (Escherichia coli O157), BAK69033.1 (Escherichia coli O157), AAC32340.1 (Escherichia coli O157), EKI39969.1 (Escherichia coli O157), BAK68980.1 (Escherichia coli O157), BAK69191.1 (Escherichia coli O157)
+BAK69191.1 (Escherichia coli O157), EKI39969.1 (Escherichia coli O157), EKI95922.1 (Escherichia coli O157), BAK68980.1 (Escherichia coli O157), BAK69033.1 (Escherichia coli O157), EKK44895.1 (Escherichia coli O157), AAC32340.1 (Escherichia coli O157)
 
 ![](../../../csdb/images/695.gif)695
 
@@ -7236,6 +7442,8 @@ EKI95922.1 (Escherichia coli O157), EKK44895.1 (Escherichia coli O157), BAK69033
 ### Cluster 173
 
 Total number of members in cluster: 13
+
+Average length of proteins in cluster: 405.0
 
 #### Conserved (non-aliphatic) residues:
 
@@ -7264,6 +7472,10 @@ R 75, Y 93, E 138, S 148, R 149, D 152, N 155, T 166, Y 169, Y 170, N 171, E 172
 
 #### Sugars in cluster:
 
+ACD37051.1 (Shigella boydii 14)
+
+![](../../../csdb/images/3977.gif)3977
+
 BAQ00736.1 (Escherichia coli O22)
 
 ![](../../../csdb/images/1530.gif)1530
@@ -7275,10 +7487,6 @@ ACD37058.1 (Escherichia coli O32)
 BAQ01277.1 (Escherichia coli O83)
 
 ![](../../../csdb/images/1589.gif)1589
-
-ACD37051.1 (Shigella boydii 14)
-
-![](../../../csdb/images/3977.gif)3977
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -7300,6 +7508,8 @@ ACD37051.1 (Shigella boydii 14)
 ### Cluster 20
 
 Total number of members in cluster: 12
+
+Average length of proteins in cluster: 407.6
 
 #### Conserved (non-aliphatic) residues:
 
@@ -7344,6 +7554,8 @@ N 150, R 180, D 187, Y 221, R 229, R 296, D 343
 
 Total number of members in cluster: 12
 
+Average length of proteins in cluster: 366.5
+
 #### Conserved (non-aliphatic) residues:
 
 K 25, S 39, R 42, Y 43, D 48, S 51, Y 52, Y 55, Y 66, N 84, Q 86, Y 92, Y 101, Y 128, S 129, N 137, Q 138, R 140, S 144, Y 150, H 172, S 173, Y 227, S 230, E 240, Y 243, S 284, D 286, R 292, D 295, K 298, K 318, N 341, S 346, N 347, Y 359, Y 361, N 364
@@ -7374,13 +7586,13 @@ ACD37146.1 (Escherichia coli O164)
 
 ![](../../../csdb/images/1906.gif)1906
 
-ACD37105.1 (Shigella dysenteriae 3)
-
-![](../../../csdb/images/718.gif)718
-
 ACD37138.1 (Escherichia coli O124)
 
 ![](../../../csdb/images/1863.gif)1863
+
+ACD37105.1 (Shigella dysenteriae 3)
+
+![](../../../csdb/images/718.gif)718
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -7401,6 +7613,8 @@ ACD37138.1 (Escherichia coli O124)
 ### Cluster 124
 
 Total number of members in cluster: 12
+
+Average length of proteins in cluster: 370.7
 
 #### Conserved (non-aliphatic) residues:
 
@@ -7451,6 +7665,8 @@ BAQ01960.1 (Escherichia coli O179)
 
 Total number of members in cluster: 12
 
+Average length of proteins in cluster: 410.8
+
 #### Conserved (non-aliphatic) residues:
 
 R 183, S 238, R 239, T 240, K 305, E 312, R 331, E 334, H 386, N 387, Y 389
@@ -7495,6 +7711,8 @@ R 183, S 238, R 239, T 240, K 305, E 312, R 331, E 334, H 386, N 387, Y 389
 ### Cluster 198
 
 Total number of members in cluster: 11
+
+Average length of proteins in cluster: 345.0
 
 #### Conserved (non-aliphatic) residues:
 
@@ -7544,6 +7762,8 @@ AAO37701.1 (Escherichia coli O128ab), WP_024244058.1 (Escherichia coli O128ac)
 
 Total number of members in cluster: 11
 
+Average length of proteins in cluster: 343.3
+
 #### Conserved (non-aliphatic) residues:
 
 Y 29, S 76, N 82, D 85, K 86, S 88, Y 89, S 100, D 101, N 107, T 108, D 110, S 111, Y 114, Y 115, Q 135, N 136, K 149, H 164, S 170, R 172, H 174, H 203, K 248, Y 252, Y 259, K 296, S 306, R 317, D 323, R 355, K 358
@@ -7569,7 +7789,7 @@ Y 29, S 76, N 82, D 85, K 86, S 88, Y 89, S 100, D 101, N 107, T 108, D 110, S 1
 
 #### Sugars in cluster:
 
-ADN43845.1 (Escherichia coli O126), ABE98419.1 (Escherichia coli O126)
+ABE98419.1 (Escherichia coli O126), ADN43845.1 (Escherichia coli O126)
 
 ![](../../../csdb/images/1865.gif)1865
 
@@ -7593,6 +7813,8 @@ ADN43845.1 (Escherichia coli O126), ABE98419.1 (Escherichia coli O126)
 ### Cluster 149
 
 Total number of members in cluster: 11
+
+Average length of proteins in cluster: 382.5
 
 #### Conserved (non-aliphatic) residues:
 
@@ -7642,6 +7864,8 @@ BAQ01563.1 (Escherichia coli O116)
 ### Cluster 147
 
 Total number of members in cluster: 11
+
+Average length of proteins in cluster: 399.3
 
 #### Conserved (non-aliphatic) residues:
 
@@ -7693,6 +7917,8 @@ ADB02825.1 (Escherichia coli O119)
 
 Total number of members in cluster: 10
 
+Average length of proteins in cluster: 359.4
+
 #### Conserved (non-aliphatic) residues:
 
 Y 11, S 48, R 50, D 55, R 56, D 57, Y 61, S 81, Q 86, E 87, K 95, R 108, Y 139, R 147, D 148, T 150, Q 151, R 153, S 164, S 176, H 187, N 188, Q 242, T 244, R 245, Y 246, T 257, Y 286, K 287, Y 290, Q 313, T 318
@@ -7738,6 +7964,8 @@ ADC54957.1 (Escherichia coli O166)
 ### Cluster 5
 
 Total number of members in cluster: 10
+
+Average length of proteins in cluster: 375.2
 
 #### Conserved (non-aliphatic) residues:
 
@@ -7793,6 +8021,8 @@ ACV67297.1 (Escherichia coli O78)
 ### Cluster 49
 
 Total number of members in cluster: 10
+
+Average length of proteins in cluster: 410.4
 
 #### Conserved (non-aliphatic) residues:
 
@@ -7852,6 +8082,8 @@ BAQ01516.1 (Escherichia coli O108)
 
 Total number of members in cluster: 10
 
+Average length of proteins in cluster: 341.5
+
 #### Conserved (non-aliphatic) residues:
 
 N 8, R 46, D 52, Y 56, Y 59, Y 70, Y 74, N 78, K 82, S 95, Q 103, Y 108, Y 122, S 125, D 130, R 135, S 137, H 169, E 170, N 213, N 219, N 221, Y 225, S 233, E 261, Y 265, S 279, Y 280, R 287, E 290, Y 296, Y 323, R 327, N 329, D 336
@@ -7877,13 +8109,13 @@ N 8, R 46, D 52, Y 56, Y 59, Y 70, Y 74, N 78, K 82, S 95, Q 103, Y 108, Y 122, 
 
 #### Sugars in cluster:
 
-BAQ00746.1 (Escherichia coli O23)
-
-![](../../../csdb/images/20006.gif)20006
-
 AFW04888.1 (Salmonella enterica O51)
 
 ![](../../../csdb/images/3366.gif)3366
+
+BAQ00746.1 (Escherichia coli O23)
+
+![](../../../csdb/images/20006.gif)20006
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -7904,6 +8136,8 @@ AFW04888.1 (Salmonella enterica O51)
 ### Cluster 34
 
 Total number of members in cluster: 10
+
+Average length of proteins in cluster: 389.4
 
 #### Conserved (non-aliphatic) residues:
 
@@ -7952,6 +8186,8 @@ BAQ01238.1 (Escherichia coli O80)
 
 Total number of members in cluster: 10
 
+Average length of proteins in cluster: 346.7
+
 #### Conserved (non-aliphatic) residues:
 
 R 55, D 63, Y 67, S 117, Q 152, R 154, Q 155, H 188, S 218, K 247, Y 251, S 263, Y 269, K 282, N 306, N 310, S 311, R 317, T 319, Y 320
@@ -7982,7 +8218,7 @@ BAL03056.1 (Escherichia coli O183)
 
 ![](../../../csdb/images/1925.gif)1925
 
-AIG62720.1 (Escherichia coli O169), BAQ01860.1 (Escherichia coli O169)
+BAQ01860.1 (Escherichia coli O169), AIG62720.1 (Escherichia coli O169)
 
 ![](../../../csdb/images/1911.gif)1911
 
@@ -8011,6 +8247,8 @@ AAL27339.1 (Shigella boydii 6)
 ### Cluster 153
 
 Total number of members in cluster: 10
+
+Average length of proteins in cluster: 383.4
 
 #### Conserved (non-aliphatic) residues:
 
@@ -8060,6 +8298,8 @@ BAQ01293.1 (Escherichia coli O84)
 
 Total number of members in cluster: 10
 
+Average length of proteins in cluster: 389.2
+
 #### Conserved (non-aliphatic) residues:
 
 D 21, T 43, D 45, T 55, Y 115, R 119, Y 123, S 128, Y 153, T 200, K 202, Q 203, S 211, R 244, Y 258, Y 262, S 265, Q 271, E 272, Y 274, S 284, H 307, T 317, N 318, Y 320, S 324, Y 326, H 341, Y 362, H 375, E 376, S 383, Q 387, S 396
@@ -8107,6 +8347,8 @@ BAQ00653.1 (Escherichia coli O16)
 ### Cluster 112
 
 Total number of members in cluster: 10
+
+Average length of proteins in cluster: 378.9
 
 #### Conserved (non-aliphatic) residues:
 
@@ -8158,6 +8400,8 @@ BAQ01207.1 (Escherichia coli O74)
 
 Total number of members in cluster: 10
 
+Average length of proteins in cluster: 437.4
+
 #### Conserved (non-aliphatic) residues:
 
 S 127, R 146, E 236, K 284, R 285, Y 332, R 355, Y 359, H 407, T 462, N 464
@@ -8201,6 +8445,8 @@ S 127, R 146, E 236, K 284, R 285, Y 332, R 355, Y 359, H 407, T 462, N 464
 ### Cluster 85
 
 Total number of members in cluster: 9
+
+Average length of proteins in cluster: 425.1
 
 #### Conserved (non-aliphatic) residues:
 
@@ -8252,6 +8498,8 @@ ABB65530.1 (Shigella boydii 4), ABZ79721.1 (Escherichia coli O53)
 
 Total number of members in cluster: 9
 
+Average length of proteins in cluster: 350.2
+
 #### Conserved (non-aliphatic) residues:
 
 E 10, K 68, S 98, K 110, S 112, K 140, D 152, Q 155, R 162, Q 164, Y 196, T 218, S 220, N 221, E 223, R 224, Y 229, D 237, Y 255, K 256, Y 259, N 267, D 268, H 270, Q 320, R 335
@@ -8278,13 +8526,13 @@ E 10, K 68, S 98, K 110, S 112, K 140, D 152, Q 155, R 162, Q 164, Y 196, T 218,
 
 #### Sugars in cluster:
 
-AFE83402.1 (Escherichia coli O111), WP_001300154.1 (Escherichia coli O111)
-
-![](../../../csdb/images/616.gif)616
-
 ADX97403.1 (Yersinia pseudotuberculosis O:10)
 
 ![](../../../csdb/images/12137.gif)12137
+
+WP_001300154.1 (Escherichia coli O111), AFE83402.1 (Escherichia coli O111)
+
+![](../../../csdb/images/616.gif)616
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -8309,6 +8557,8 @@ ADX97403.1 (Yersinia pseudotuberculosis O:10)
 ### Cluster 179
 
 Total number of members in cluster: 9
+
+Average length of proteins in cluster: 446.2
 
 #### Conserved (non-aliphatic) residues:
 
@@ -8361,6 +8611,8 @@ BAQ02031.1 (Escherichia coli O184)
 
 Total number of members in cluster: 9
 
+Average length of proteins in cluster: 441.2
+
 #### Conserved (non-aliphatic) residues:
 
 Q 9, Q 24, Q 27, R 33, E 39, N 47, Q 57, D 58, S 62, S 63, Y 64, Q 69, Q 76, S 77, T 78, N 83, T 90, Y 105, S 118, N 120, S 128, Q 129, Y 130, Q 131, H 133, K 136, K 138, E 147, K 151, N 179, Y 212, Q 216, S 219, Q 220, N 223, Q 224, R 226, T 227, Q 228, D 230, K 236, Y 246, S 247, K 250, Q 255, K 258, N 265, R 266, R 271, E 274, Q 276, S 297, Y 316, R 337, T 343, Q 348, N 350, T 353, E 356, N 360, S 388, Q 391, S 395, Y 414
@@ -8402,6 +8654,8 @@ Q 9, Q 24, Q 27, R 33, E 39, N 47, Q 57, D 58, S 62, S 63, Y 64, Q 69, Q 76, S 7
 ### Cluster 161
 
 Total number of members in cluster: 9
+
+Average length of proteins in cluster: 358.8
 
 #### Conserved (non-aliphatic) residues:
 
@@ -8450,6 +8704,8 @@ AFW04860.1 (Salmonella enterica O60)
 
 Total number of members in cluster: 9
 
+Average length of proteins in cluster: 403.6
+
 #### Conserved (non-aliphatic) residues:
 
 Q 153, D 162, N 165, Y 173, S 186, E 218, K 220, N 272, Y 285, R 300, N 302, Y 334, K 338, N 393
@@ -8475,13 +8731,13 @@ Q 153, D 162, N 165, Y 173, S 186, E 218, K 220, N 272, Y 285, R 300, N 302, Y 3
 
 #### Sugars in cluster:
 
-CAI33412.1 (Streptococcus pneumoniae 15F), VQD68897.1 (Streptococcus pneumoniae 15F)
-
-![](../../../csdb/images/2972.gif)2972
-
 VSN79485.1 (Streptococcus pneumoniae 15A), CAI33343.1 (Streptococcus pneumoniae 15A)
 
 ![](../../../csdb/images/2973.gif)2973
+
+CAI33412.1 (Streptococcus pneumoniae 15F), VQD68897.1 (Streptococcus pneumoniae 15F)
+
+![](../../../csdb/images/2972.gif)2972
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -8505,6 +8761,8 @@ VSN79485.1 (Streptococcus pneumoniae 15A), CAI33343.1 (Streptococcus pneumoniae 
 ### Cluster 146
 
 Total number of members in cluster: 9
+
+Average length of proteins in cluster: 379.3
 
 #### Conserved (non-aliphatic) residues:
 
@@ -8548,6 +8806,8 @@ Y 10, E 23, H 26, H 31, E 47, Y 50, Y 55, N 61, K 78, Y 104, N 118, S 120, R 123
 ### Cluster 119
 
 Total number of members in cluster: 9
+
+Average length of proteins in cluster: 360.8
 
 #### Conserved (non-aliphatic) residues:
 
@@ -8597,6 +8857,8 @@ BAQ01266.1 (Escherichia coli O82)
 
 Total number of members in cluster: 8
 
+Average length of proteins in cluster: 362.2
+
 #### Conserved (non-aliphatic) residues:
 
 S 2, Y 6, N 12, N 18, S 29, Y 37, N 40, R 42, S 46, D 47, Y 51, R 52, R 54, Y 55, S 61, D 66, Y 69, D 74, S 77, H 78, S 82, Q 84, S 94, S 95, Y 99, K 103, K 104, N 108, Y 109, N 110, S 117, Y 120, Y 123, E 126, R 129, S 135, Y 142, R 149, H 163, S 165, Y 176, K 179, K 183, S 192, N 199, N 204, S 206, S 207, Y 208, S 219, K 223, R 225, Y 229, T 230, S 233, T 234, R 235, Y 241, Y 244, N 248, K 257, N 264, Y 277, Q 278, R 298, Y 299, T 303, N 307, S 321, K 324, T 339, E 347, N 348, Y 353, E 354, N 359, N 362
@@ -8642,6 +8904,8 @@ CAI34587.1 (Streptococcus pneumoniae 45)
 ### Cluster 78
 
 Total number of members in cluster: 8
+
+Average length of proteins in cluster: 386.0
 
 #### Conserved (non-aliphatic) residues:
 
@@ -8692,6 +8956,8 @@ CAI32957.1 (Streptococcus pneumoniae 8)
 
 Total number of members in cluster: 8
 
+Average length of proteins in cluster: 416.1
+
 #### Conserved (non-aliphatic) residues:
 
 Y 52, D 55, Y 129, R 196, R 201, K 251, T 252, R 253, Y 258, D 311, R 317, Y 324, Y 364, Y 365, S 367, D 368, N 404, D 434
@@ -8736,6 +9002,8 @@ Y 52, D 55, Y 129, R 196, R 201, K 251, T 252, R 253, Y 258, D 311, R 317, Y 324
 ### Cluster 166
 
 Total number of members in cluster: 8
+
+Average length of proteins in cluster: 415.0
 
 #### Conserved (non-aliphatic) residues:
 
@@ -8785,6 +9053,8 @@ BAQ01419.1 (Escherichia coli O96)
 ### Cluster 152
 
 Total number of members in cluster: 8
+
+Average length of proteins in cluster: 363.5
 
 #### Conserved (non-aliphatic) residues:
 
@@ -8841,6 +9111,8 @@ ACA24739.1 (Escherichia coli O79)
 
 Total number of members in cluster: 8
 
+Average length of proteins in cluster: 445.9
+
 #### Conserved (non-aliphatic) residues:
 
 D 41, D 73, Y 83, S 87, R 127, S 165, S 176, R 185, E 187, K 200, Y 201, Y 206, Y 237, S 246, R 247, R 248, E 249, R 293, N 307, E 311, S 317, T 318, Y 321, S 335, Q 338, N 342, K 346, K 353, Y 376, T 379, T 382, E 383, N 387, S 404, E 408, Q 424, N 427, Q 429, R 430, S 435, E 439
@@ -8885,6 +9157,8 @@ D 41, D 73, Y 83, S 87, R 127, S 165, S 176, R 185, E 187, K 200, Y 201, Y 206, 
 
 Total number of members in cluster: 8
 
+Average length of proteins in cluster: 393.9
+
 #### Conserved (non-aliphatic) residues:
 
 E 134, N 140, N 158, Y 165, S 168, S 169, H 173, Y 174, T 175, Y 176, Y 179, N 195, Q 214, R 216, R 275, D 286, S 288, Q 291, R 292, T 295, N 298, Y 327, S 328, T 335, D 337, S 338, T 341, D 395, N 399, Y 407
@@ -8928,6 +9202,8 @@ CAI32727.1 (Streptococcus pneumoniae 2)
 ### Cluster 128
 
 Total number of members in cluster: 8
+
+Average length of proteins in cluster: 365.4
 
 #### Conserved (non-aliphatic) residues:
 
@@ -8978,6 +9254,8 @@ AXY99336.1 (Proteus vulgaris O2)
 ### Cluster 127
 
 Total number of members in cluster: 8
+
+Average length of proteins in cluster: 381.4
 
 #### Conserved (non-aliphatic) residues:
 
@@ -9030,6 +9308,8 @@ ADJ19217.1 (Escherichia coli O61)
 
 Total number of members in cluster: 8
 
+Average length of proteins in cluster: 394.4
+
 #### Conserved (non-aliphatic) residues:
 
 S 89, R 144, R 153, T 155, E 160, S 162, H 163, Y 164, T 195, S 197, S 199, K 250, S 267, R 271, S 274, Y 310, Y 311, N 314, N 325, S 333, S 368, Y 373
@@ -9077,6 +9357,8 @@ BAQ02015.1 (Escherichia coli O182)
 
 Total number of members in cluster: 7
 
+Average length of proteins in cluster: 321.1
+
 #### Conserved (non-aliphatic) residues:
 
 K 8, K 11, Y 18, Q 35, S 40, R 41, D 42, Y 43, N 45, Y 46, Q 48, S 51, E 54, E 60, Y 63, R 64, T 70, S 84, K 88, Y 95, N 98, S 100, Y 108, Y 109, D 118, Y 119, T 120, Q 121, R 123, N 124, S 129, S 134, Y 136, Y 137, Y 147, S 149, T 156, H 157, S 159, Y 167, Y 171, S 172, R 176, Y 180, S 184, S 192, E 197, R 203, Q 209, K 210, N 213, N 218, N 221, S 222, S 224, T 226, S 234, S 237, E 242, R 247, Y 252, Q 256, Y 257, S 264, R 271, E 274, Y 276, Q 289, Y 294, K 300, Y 306, T 308, Y 309, Y 310, Y 311, H 312, N 319
@@ -9102,13 +9384,13 @@ K 8, K 11, Y 18, Q 35, S 40, R 41, D 42, Y 43, N 45, Y 46, Q 48, S 51, E 54, E 6
 
 #### Sugars in cluster:
 
-ACD75809.1 (Escherichia coli O2)
-
-![](../../../csdb/images/108685.gif)108685
-
 BAQ01012.1 (Escherichia coli O50)
 
 ![](../../../csdb/images/1557.gif)1557
+
+ACD75809.1 (Escherichia coli O2)
+
+![](../../../csdb/images/108685.gif)108685
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -9126,6 +9408,8 @@ BAQ01012.1 (Escherichia coli O50)
 ### Cluster 199
 
 Total number of members in cluster: 7
+
+Average length of proteins in cluster: 385.4
 
 #### Conserved (non-aliphatic) residues:
 
@@ -9183,6 +9467,8 @@ AFW04790.1 (Salmonella enterica O52)
 
 Total number of members in cluster: 7
 
+Average length of proteins in cluster: 411.4
+
 #### Conserved (non-aliphatic) residues:
 
 R 56, Y 64, N 133, D 181, N 183, N 189, N 191, T 193, S 239, R 240, R 304, D 328, R 331, T 350, Y 357, H 378, N 379, Y 381, S 383, Y 384, N 435, E 436
@@ -9227,6 +9513,8 @@ R 56, Y 64, N 133, D 181, N 183, N 189, N 191, T 193, S 239, R 240, R 304, D 328
 
 Total number of members in cluster: 7
 
+Average length of proteins in cluster: 405.9
+
 #### Conserved (non-aliphatic) residues:
 
 Y 16, K 145, Y 157, R 177, K 199, N 204, R 260, D 266, T 268, Y 277, Y 289, D 292, S 296, Y 299, Y 317, N 324, D 325, S 326, N 329, Y 330, K 339, D 357, Y 380, Q 388, T 392, R 399, Y 401
@@ -9253,13 +9541,13 @@ Y 16, K 145, Y 157, R 177, K 199, N 204, R 260, D 266, T 268, Y 277, Y 289, D 29
 
 #### Sugars in cluster:
 
-AKA20999.1 (Yersinia pseudotuberculosis O:5b)
-
-![](../../../csdb/images/12126.gif)12126
-
 CAX18360.1 (Yersinia pseudotuberculosis O:15)
 
 ![](../../../csdb/images/12127.gif)12127
+
+AKA20999.1 (Yersinia pseudotuberculosis O:5b)
+
+![](../../../csdb/images/12126.gif)12126
 
 AKA20981.1 (Yersinia pseudotuberculosis O:5a)
 
@@ -9286,6 +9574,8 @@ AKA20981.1 (Yersinia pseudotuberculosis O:5a)
 ### Cluster 18
 
 Total number of members in cluster: 7
+
+Average length of proteins in cluster: 378.0
 
 #### Conserved (non-aliphatic) residues:
 
@@ -9334,6 +9624,8 @@ AAY28249.1 (Escherichia coli O174)
 ### Cluster 176
 
 Total number of members in cluster: 7
+
+Average length of proteins in cluster: 395.9
 
 #### Conserved (non-aliphatic) residues:
 
@@ -9389,6 +9681,8 @@ ACD37117.1 (Escherichia coli O40)
 
 Total number of members in cluster: 7
 
+Average length of proteins in cluster: 410.9
+
 #### Conserved (non-aliphatic) residues:
 
 K 6, Y 8, T 20, S 23, Y 31, D 64, S 86, Y 87, T 88, E 89, D 90, R 92, S 95, R 98, Y 99, Y 100, S 107, Y 111, K 115, Y 128, Y 134, T 141, K 151, D 153, S 155, D 159, S 161, Y 166, Q 167, S 170, D 171, S 172, S 187, K 188, T 198, N 206, R 208, S 209, D 252, E 261, N 264, S 265, R 266, Y 268, N 269, S 272, N 274, D 277, D 278, S 280, R 284, K 286, H 290, S 291, S 293, H 298, S 306, Q 307, D 313, R 318, Y 322, T 323, H 324, N 325, Y 329, D 331, Q 332, Y 350, N 351, N 352, K 356, D 362, S 372, Q 373, Q 374, K 378, S 379, T 381, Y 382, Y 384, E 393, K 396, K 400, N 402, Y 403, N 404, K 407
@@ -9435,6 +9729,8 @@ BAQ01218.1 (Escherichia coli O76)
 ### Cluster 169
 
 Total number of members in cluster: 7
+
+Average length of proteins in cluster: 351.1
 
 #### Conserved (non-aliphatic) residues:
 
@@ -9493,6 +9789,8 @@ AXL96526.1 (Providencia alcalifaciens O38)
 
 Total number of members in cluster: 7
 
+Average length of proteins in cluster: 394.0
+
 #### Conserved (non-aliphatic) residues:
 
 N 14, S 33, S 38, D 55, Y 60, N 81, K 89, K 98, E 99, T 106, Y 110, S 146, N 149, R 152, S 153, H 186, S 187, K 214, S 241, Y 245, Y 255, S 310, S 320, R 322, Y 323, Q 324, Y 369, R 372, Y 373, S 378
@@ -9541,6 +9839,8 @@ AAD50486.1 (Escherichia coli O113)
 
 Total number of members in cluster: 7
 
+Average length of proteins in cluster: 343.6
+
 #### Conserved (non-aliphatic) residues:
 
 N 44, R 45, N 47, D 49, Y 50, Y 53, E 65, Y 68, K 76, K 106, Y 115, D 123, Q 126, R 128, N 129, H 162, Y 168, Y 221, D 241, K 261, E 286, R 289, R 292, N 293, K 298, Y 299, Y 335
@@ -9588,6 +9888,8 @@ AAN60459.1 (Escherichia coli O26)
 
 Total number of members in cluster: 7
 
+Average length of proteins in cluster: 344.4
+
 #### Conserved (non-aliphatic) residues:
 
 N 9, N 30, S 38, Y 53, D 55, Y 59, Y 63, E 73, T 102, T 129, S 131, Y 134, E 138, R 141, K 166, Y 168, H 178, Y 179, S 180, K 230, Y 234, T 238, S 241, T 243, R 247, Y 267, Y 271, Y 274, D 285, E 286, R 289, R 290, K 311, Y 326, Y 334, Y 338, Y 343
@@ -9629,6 +9931,8 @@ N 9, N 30, S 38, Y 53, D 55, Y 59, Y 63, E 73, T 102, T 129, S 131, Y 134, E 138
 
 Total number of members in cluster: 7
 
+Average length of proteins in cluster: 387.4
+
 #### Conserved (non-aliphatic) residues:
 
 Y 20, Y 24, K 38, R 39, Y 40, S 72, Y 94, D 101, S 111, S 113, D 115, Y 127, K 129, Y 140, D 147, R 152, R 159, H 160, S 161, Y 162, H 166, N 168, S 169, D 180, S 182, K 186, T 208, D 209, S 210, R 211, T 212, N 269, R 275, H 280, Y 282, R 293, N 302, Y 312, D 314, R 318, Q 319, Q 334, H 344, E 358, Y 360, N 373, Y 374
@@ -9668,6 +9972,8 @@ Y 20, Y 24, K 38, R 39, Y 40, S 72, Y 94, D 101, S 111, S 113, D 115, Y 127, K 1
 
 Total number of members in cluster: 7
 
+Average length of proteins in cluster: 418.7
+
 #### Conserved (non-aliphatic) residues:
 
 Q 21, Y 32, S 35, N 147, T 168, R 174, E 178, S 184, K 219, R 220, T 221, S 299, R 303, N 318, N 326, D 351, N 352, Y 354, D 360, D 414
@@ -9694,13 +10000,13 @@ Q 21, Y 32, S 35, N 147, T 168, R 174, E 178, S 184, K 219, R 220, T 221, S 299,
 
 #### Sugars in cluster:
 
-CAI34475.1 (Streptococcus pneumoniae 41A)
-
-![](../../../csdb/images/25002.gif)25002
-
 CAI34099.1 (Streptococcus pneumoniae 31)
 
 ![](../../../csdb/images/7087.gif)7087
+
+CAI34475.1 (Streptococcus pneumoniae 41A)
+
+![](../../../csdb/images/25002.gif)25002
 
 CAI34498.1 (Streptococcus pneumoniae 41F)
 
@@ -9724,6 +10030,8 @@ CAI34498.1 (Streptococcus pneumoniae 41F)
 ### Cluster 10
 
 Total number of members in cluster: 7
+
+Average length of proteins in cluster: 376.9
 
 #### Conserved (non-aliphatic) residues:
 
@@ -9770,6 +10078,8 @@ AAM27879.1 (Pseudomonas aeruginosa O9)
 ### Cluster 16
 
 Total number of members in cluster: 6
+
+Average length of proteins in cluster: 387.5
 
 #### Conserved (non-aliphatic) residues:
 
@@ -9818,6 +10128,8 @@ BAQ01894.1 (Escherichia coli O171)
 
 Total number of members in cluster: 6
 
+Average length of proteins in cluster: 386.3
+
 #### Conserved (non-aliphatic) residues:
 
 Y 10, Y 12, D 32, R 34, Y 36, Y 38, K 64, T 95, K 121, N 123, Q 155, S 157, Q 159, Y 205, R 208, R 212, R 228, S 230, S 233, S 234, S 250, S 272, S 274, N 278, Y 288, S 331, N 354, R 377, Y 386, S 391, D 393, E 396, S 398, Q 402
@@ -9865,6 +10177,8 @@ AAZ20761.1 (Escherichia coli O66)
 
 Total number of members in cluster: 6
 
+Average length of proteins in cluster: 469.2
+
 #### Conserved (non-aliphatic) residues:
 
 E 31, S 70, Y 73, Y 76, Y 82, Y 83, K 92, K 132, S 142, Y 168, Q 188, H 192, Y 204, Y 207, Y 208, S 243, R 246, T 248, R 269, Y 287, R 290, S 293, N 294, D 301, N 318, D 321, Q 323, Q 324, T 331, Y 343, D 345, N 349, S 361, Y 370, S 375, T 379, E 385, Y 387, N 389, Y 424, S 425, Y 435, K 437, D 439, S 440, T 441, N 445
@@ -9906,6 +10220,8 @@ E 31, S 70, Y 73, Y 76, Y 82, Y 83, K 92, K 132, S 142, Y 168, Q 188, H 192, Y 2
 ### Cluster 136
 
 Total number of members in cluster: 6
+
+Average length of proteins in cluster: 406.5
 
 #### Conserved (non-aliphatic) residues:
 
@@ -9954,6 +10270,8 @@ ABI34565.1 (Escherichia coli O22)
 ### Cluster 118
 
 Total number of members in cluster: 6
+
+Average length of proteins in cluster: 388.5
 
 #### Conserved (non-aliphatic) residues:
 
@@ -10007,6 +10325,8 @@ AAT28922.1 (Escherichia coli O172)
 
 Total number of members in cluster: 6
 
+Average length of proteins in cluster: 435.3
+
 #### Conserved (non-aliphatic) residues:
 
 Y 63, Y 70, Q 75, S 78, E 83, E 91, N 140, Y 161, N 171, R 172, Y 175, Y 202, K 208, E 227, K 228, Y 237, Y 243, S 270, N 274, Y 275, E 279, R 289, Q 293, Q 295, Y 299, N 302, S 336, Y 345, T 353, S 354, Y 363, S 389, S 401, K 424, Y 428
@@ -10032,13 +10352,13 @@ Y 63, Y 70, Q 75, S 78, E 83, E 91, N 140, Y 161, N 171, R 172, Y 175, Y 202, K 
 
 #### Sugars in cluster:
 
-ACD37072.1 (Shigella boydii 7)
-
-![](../../../csdb/images/3984.gif)3984
-
 ADN43883.1 (Escherichia coli O165)
 
 ![](../../../csdb/images/1907.gif)1907
+
+ACD37072.1 (Shigella boydii 7)
+
+![](../../../csdb/images/3984.gif)3984
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -10056,6 +10376,8 @@ ADN43883.1 (Escherichia coli O165)
 ### Cluster 103
 
 Total number of members in cluster: 6
+
+Average length of proteins in cluster: 449.0
 
 #### Conserved (non-aliphatic) residues:
 
@@ -10082,13 +10404,13 @@ R 7, Y 8, Y 21, H 29, K 54, N 69, E 81, H 121, R 156, K 162, Y 201, Q 204, T 218
 
 #### Sugars in cluster:
 
-ADI59445.1 (Yersinia pseudotuberculosis O:2b)
-
-![](../../../csdb/images/12132.gif)12132
-
 ADI59429.1 (Yersinia pseudotuberculosis O:1c)
 
 ![](../../../csdb/images/12131.gif)12131
+
+ADI59445.1 (Yersinia pseudotuberculosis O:2b)
+
+![](../../../csdb/images/12132.gif)12132
 
 #### Sugars for blast hits only (may be incorrect):
 
@@ -10109,6 +10431,8 @@ ADI59429.1 (Yersinia pseudotuberculosis O:1c)
 ### Cluster 74
 
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 342.2
 
 #### Conserved (non-aliphatic) residues:
 
@@ -10159,6 +10483,8 @@ ACA24829.1 (Escherichia coli O105), AAS98031.1 (Shigella boydii 11)
 
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 415.8
+
 #### Conserved (non-aliphatic) residues:
 
 N 105, E 109, S 113, R 116, Y 120, N 171, R 175, S 232, R 233, K 256, N 277, T 278, R 283, D 296, S 298, T 299, R 302, N 328, H 343, N 344, E 352, N 418, Y 421
@@ -10207,6 +10533,8 @@ BAQ01702.1 (Escherichia coli O136)
 
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 355.2
+
 #### Conserved (non-aliphatic) residues:
 
 S 9, K 49, D 60, E 61, Y 64, N 66, Y 77, N 94, Y 135, K 142, E 143, S 146, R 176, E 178, K 195, N 196, Y 201, K 224, S 229, R 231, D 240, S 257, N 267, S 270, N 289, T 323, H 324, S 325, Y 327, R 328, Y 329, N 331, N 359
@@ -10253,6 +10581,8 @@ ADN43838.1 (Escherichia coli O115)
 
 Total number of members in cluster: 5
 
+Average length of proteins in cluster: 324.4
+
 #### Conserved (non-aliphatic) residues:
 
 R 133, Q 134, H 165, S 166, Y 211, R 215, Q 216, Y 220, Y 243, Y 270, R 280
@@ -10293,6 +10623,8 @@ R 133, Q 134, H 165, S 166, Y 211, R 215, Q 216, Y 220, Y 243, Y 270, R 280
 ### Cluster 100
 
 Total number of members in cluster: 5
+
+Average length of proteins in cluster: 386.4
 
 #### Conserved (non-aliphatic) residues:
 
@@ -10344,6 +10676,8 @@ ABD19779.1 (Shigella boydii 16)
 
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 399.5
+
 #### Conserved (non-aliphatic) residues:
 
 N 16, S 28, S 46, N 54, Y 65, Y 67, Y 71, N 77, R 78, E 79, Y 80, E 86, D 90, D 91, T 92, R 94, Y 95, D 116, S 119, E 121, R 125, N 139, Q 145, S 161, R 163, S 177, Y 178, T 179, Y 182, T 183, H 186, R 189, Q 190, S 195, Y 200, R 209, S 219, H 220, E 231, S 242, Y 257, K 266, Y 270, N 275, N 277, Y 278, K 282, Y 286, K 299, Y 322, D 332, N 335, R 336, Y 337, S 342, R 355, K 370, D 379, N 381, Y 383, N 395, D 398, Y 403, R 406
@@ -10391,6 +10725,8 @@ BAQ00893.1 (Escherichia coli O41)
 
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 429.2
+
 #### Conserved (non-aliphatic) residues:
 
 Y 28, N 36, Y 38, Y 41, D 47, R 71, S 73, N 161, S 165, Y 174, R 176, R 177, E 179, R 181, S 188, Y 192, N 199, Y 230, K 235, R 253, E 278, S 285, D 289, Y 290, R 293, R 294, E 337, N 346, N 348, N 350, Y 364, T 367, D 379, Y 382, Y 397, E 403, Q 404, T 408, S 412, S 413
@@ -10431,6 +10767,8 @@ Y 28, N 36, Y 38, Y 41, D 47, R 71, S 73, N 161, S 165, Y 174, R 176, R 177, E 1
 ### Cluster 204
 
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 370.2
 
 #### Conserved (non-aliphatic) residues:
 
@@ -10474,6 +10812,8 @@ S 22, K 27, S 75, N 79, D 83, D 109, T 120, N 128, N 143, N 145, S 146, Y 151, S
 ### Cluster 200
 
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 440.0
 
 #### Conserved (non-aliphatic) residues:
 
@@ -10525,6 +10865,8 @@ ACH97143.1 (Escherichia coli O117), ABE98413.1 (Escherichia coli O117)
 
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 362.8
+
 #### Conserved (non-aliphatic) residues:
 
 K 1, Y 6, N 7, N 11, S 15, Y 21, K 24, N 27, H 49, Y 53, N 56, K 59, Y 90, N 97, K 102, H 104, R 131, R 137, H 144, N 146, S 147, Y 153, T 156, R 167, K 169, Y 173, N 180, D 188, S 189, R 190, T 191, S 192, S 196, D 207, S 228, E 240, N 249, K 250, T 253, N 254, R 255, S 258, E 265, Y 266, D 289, S 290, Y 292, R 314, K 316, E 324, S 330, S 334, E 338, S 339, Y 340, D 353, R 358, K 359, E 360
@@ -10569,6 +10911,8 @@ CAI34641.1 (Streptococcus pneumoniae 47A)
 ### Cluster 191
 
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 403.5
 
 #### Conserved (non-aliphatic) residues:
 
@@ -10616,6 +10960,8 @@ AAZ85718.1 (Escherichia coli O139)
 
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 333.2
+
 #### Conserved (non-aliphatic) residues:
 
 N 7, S 20, K 26, D 28, Y 29, D 33, Y 37, T 38, Y 41, D 42, T 44, Y 45, E 47, E 52, Y 57, T 59, H 63, Y 64, Y 69, K 84, R 89, K 90, S 95, Y 96, Y 104, Y 108, H 112, T 115, Q 116, R 118, Y 127, Y 131, Y 133, H 153, Y 154, S 155, Y 168, R 169, Y 188, Y 195, N 198, E 199, K 200, Y 204, Y 206, S 207, S 209, S 211, N 222, N 224, S 239, R 240, K 243, E 248, K 253, Y 254, Q 256, S 258, Y 277, R 278, E 281, R 284, Y 287, K 299, N 300, S 315, T 322, R 324, S 327
@@ -10661,6 +11007,8 @@ ADC54929.1 (Escherichia coli O1)
 
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 319.8
+
 #### Conserved (non-aliphatic) residues:
 
 Y 33, S 35, D 44, T 45, Y 48, N 51, D 58, Y 62, E 65, N 107, N 125, R 131, Q 132, Y 133, K 151, S 156, S 163, S 166, H 167, R 231, K 232, Y 236, S 262, S 288, N 297, R 303, S 312
@@ -10702,6 +11050,8 @@ Y 33, S 35, D 44, T 45, Y 48, N 51, D 58, Y 62, E 65, N 107, N 125, R 131, Q 132
 ### Cluster 131
 
 Total number of members in cluster: 4
+
+Average length of proteins in cluster: 380.0
 
 #### Conserved (non-aliphatic) residues:
 
@@ -10753,6 +11103,8 @@ ABA42232.1 (Escherichia coli O148)
 
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 402.8
+
 #### Conserved (non-aliphatic) residues:
 
 K 3, Y 114, K 118, S 122, Y 125, R 134, Y 151, S 154, D 194, R 200, N 225, N 240, R 243, R 246, S 255, Y 278, Y 280, S 283, S 284, N 313, R 324, N 339, D 346, Y 348, Y 404, N 405, S 408
@@ -10800,6 +11152,8 @@ AAL27351.1 (Shigella boydii 9)
 
 Total number of members in cluster: 4
 
+Average length of proteins in cluster: 375.0
+
 #### Conserved (non-aliphatic) residues:
 
 S 25, S 40, N 42, Y 43, N 45, Y 47, D 48, N 51, Y 52, N 55, Q 57, Y 61, K 69, Y 70, Y 74, Y 79, S 82, Y 88, H 89, S 96, N 99, T 100, Y 101, N 110, N 113, S 123, Y 125, Y 130, S 131, E 132, T 133, R 135, Q 136, S 141, H 169, S 171, N 214, R 216, Y 220, N 232, Q 237, S 239, S 276, K 286, Q 290, Y 291, E 293, S 296, R 297, N 299, Y 300, Y 301, Y 309, N 321, K 322, Y 335, R 339, S 343, K 346, E 349, Y 350, Y 354
@@ -10845,6 +11199,8 @@ ACA24901.1 (Escherichia coli O87)
 
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 417.0
+
 #### Conserved (non-aliphatic) residues:
 
 S 126, N 134, R 141, Y 142, Q 153, Y 160, K 177, R 179, S 185, T 195, K 199, S 249, R 253, K 268, H 276, D 281, T 301, N 336, T 339, R 342, E 346, D 347, Y 391, S 395, S 399, Y 403, S 405
@@ -10885,6 +11241,8 @@ S 126, N 134, R 141, Y 142, Q 153, Y 160, K 177, R 179, S 185, T 195, K 199, S 2
 ### Cluster 203
 
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 423.0
 
 #### Conserved (non-aliphatic) residues:
 
@@ -10929,6 +11287,8 @@ BAQ01137.1 (Escherichia coli O65)
 ### Cluster 201
 
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 404.7
 
 #### Conserved (non-aliphatic) residues:
 
@@ -10977,6 +11337,8 @@ ADJ19203.1 (Escherichia coli O161)
 
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 437.0
+
 #### Conserved (non-aliphatic) residues:
 
 S 13, Y 14, H 17, S 19, N 23, Y 30, K 40, K 41, E 42, S 49, S 54, T 57, T 58, S 61, E 66, T 67, E 73, E 76, S 78, T 79, N 81, T 84, N 87, S 89, T 94, S 99, N 100, N 106, R 108, N 114, T 115, S 116, N 120, E 124, Y 127, T 135, K 144, D 150, Y 151, Q 153, D 154, R 155, Y 157, Y 158, N 160, N 161, S 165, N 168, R 171, E 175, Q 176, S 177, Y 185, K 187, K 189, K 191, S 203, Q 204, E 209, K 210, T 212, Q 216, S 229, N 230, S 234, K 235, K 236, S 239, S 247, T 259, S 260, Y 261, S 263, S 265, D 267, S 268, E 273, S 274, K 276, T 277, R 278, Q 282, S 283, Q 284, T 290, S 295, S 301, N 306, E 315, N 316, T 317, S 320, Y 321, Q 329, N 333, Y 335, Q 336, E 337, T 343, N 349, T 377, Y 379, T 380, R 382, N 383, K 384, D 385, Y 386, K 394, N 397, Q 401, R 407, Y 409, E 413, K 415, H 430, S 431, K 432, R 434, N 439
@@ -11015,6 +11377,8 @@ S 13, Y 14, H 17, S 19, N 23, Y 30, K 40, K 41, E 42, S 49, S 54, T 57, T 58, S 
 ### Cluster 195
 
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 383.7
 
 #### Conserved (non-aliphatic) residues:
 
@@ -11062,6 +11426,8 @@ ADN43871.1 (Escherichia coli O158)
 
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 374.3
+
 #### Conserved (non-aliphatic) residues:
 
 K 28, Y 29, E 70, Y 81, S 115, N 127, Y 140, R 141, R 150, N 157, N 159, S 160, Y 172, R 176, N 181, D 184, Y 196, S 201, R 202, T 203, K 234, N 258, R 264, Y 271, D 288, D 297, S 299, Y 300, K 328, Y 344, E 348, N 349, N 357, T 359
@@ -11102,6 +11468,8 @@ K 28, Y 29, E 70, Y 81, S 115, N 127, Y 140, R 141, R 150, N 157, N 159, S 160, 
 ### Cluster 183
 
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 399.0
 
 #### Conserved (non-aliphatic) residues:
 
@@ -11149,6 +11517,8 @@ BAQ01659.1 (Escherichia coli O132)
 
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 353.3
+
 #### Conserved (non-aliphatic) residues:
 
 K 7, S 23, T 38, Y 40, D 41, E 42, R 44, Y 45, T 49, D 55, K 57, Y 59, Y 63, T 64, E 66, N 67, Y 69, N 70, Y 71, Q 73, S 74, H 76, H 79, Y 80, R 87, Y 88, N 91, D 92, S 93, Y 100, Q 101, Y 105, E 119, Y 120, Y 138, S 147, R 150, D 151, Y 165, K 166, N 168, S 181, Y 183, R 184, N 186, Y 194, D 198, Q 199, Y 211, S 215, D 223, R 236, E 248, S 255, D 262, Y 268, R 270, S 276, Y 312, Y 316, E 319, R 325, Q 326, S 328, Y 335
@@ -11191,6 +11561,8 @@ K 7, S 23, T 38, Y 40, D 41, E 42, R 44, Y 45, T 49, D 55, K 57, Y 59, Y 63, T 6
 
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 366.3
+
 #### Conserved (non-aliphatic) residues:
 
 S 15, T 30, N 51, D 56, Y 60, S 67, H 83, T 84, E 85, Q 92, S 101, T 103, S 113, R 117, Y 118, Y 121, D 130, H 141, E 142, R 145, K 146, D 147, Q 150, R 152, N 153, S 157, Y 162, S 163, R 172, Q 186, T 188, R 199, S 203, Y 206, K 227, N 245, Y 246, Y 248, E 251, S 253, K 254, S 257, N 260, K 265, Q 266, D 283, K 285, Q 291, Y 293, T 297, Y 299, Y 300, R 304, D 305, E 307, R 312, S 315, Y 318, E 321, K 334, N 335, K 339, K 340, Y 347, N 354, T 357
@@ -11229,6 +11601,8 @@ S 15, T 30, N 51, D 56, Y 60, S 67, H 83, T 84, E 85, Q 92, S 101, T 103, S 113,
 ### Cluster 134
 
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 390.0
 
 #### Conserved (non-aliphatic) residues:
 
@@ -11273,6 +11647,8 @@ BAQ00927.1 (Escherichia coli O43)
 ### Cluster 122
 
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 368.0
 
 #### Conserved (non-aliphatic) residues:
 
@@ -11319,6 +11695,8 @@ BAQ01155.1 (Escherichia coli O68)
 
 Total number of members in cluster: 3
 
+Average length of proteins in cluster: 454.3
+
 #### Conserved (non-aliphatic) residues:
 
 Y 30, Y 40, Q 41, D 42, N 47, E 51, R 54, S 55, E 68, K 74, K 76, Q 85, K 86, Y 87, Y 94, Y 102, Y 112, E 117, K 122, K 125, Y 129, R 138, H 139, S 145, K 148, E 171, N 177, H 183, S 184, Y 189, R 191, R 193, T 196, E 198, S 199, S 200, T 202, Y 209, S 210, Y 215, N 222, Y 240, T 244, S 246, K 247, R 269, K 273, N 274, S 298, S 299, D 303, E 305, Y 307, T 308, S 309, T 312, R 313, T 333, Y 336, S 362, N 365, E 368, K 377, K 382, S 383, K 405, K 412, S 427, E 435, K 437, Y 438, E 439
@@ -11358,6 +11736,8 @@ Y 30, Y 40, Q 41, D 42, N 47, E 51, R 54, S 55, E 68, K 74, K 76, Q 85, K 86, Y 
 ### Cluster 109
 
 Total number of members in cluster: 3
+
+Average length of proteins in cluster: 365.7
 
 #### Conserved (non-aliphatic) residues:
 
@@ -11406,6 +11786,8 @@ AIG62747.1 (Escherichia coli O178)
 
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 373.5
+
 #### Conserved (non-aliphatic) residues:
 
 N 2, Y 3, K 5, N 11, H 13, S 21, S 22, Y 24, K 27, T 29, Q 30, S 32, Y 35, S 38, Q 48, S 51, R 53, K 54, S 56, S 61, Y 70, S 71, Q 72, Q 75, N 78, Y 79, N 80, S 81, S 83, T 84, Y 85, N 87, S 89, R 102, Y 105, D 106, Y 107, D 108, N 112, S 113, K 115, Y 117, D 128, S 129, Y 131, R 132, N 135, T 137, S 140, K 142, E 145, N 149, S 150, S 151, E 152, Y 156, Y 158, K 159, D 167, S 168, N 169, T 170, T 171, T 177, Y 183, Y 184, K 187, H 189, K 192, T 194, S 195, T 201, S 206, S 209, R 210, S 211, S 215, T 219, Y 227, K 228, R 230, S 237, S 249, N 251, S 253, D 254, S 256, D 258, S 259, K 260, Y 262, S 265, K 266, D 268, E 269, Y 270, T 272, S 273, S 275, S 278, D 286, S 288, S 289, D 293, N 294, Y 296, H 298, Y 301, T 303, E 307, S 308, Y 316, S 318, S 322, Y 326, T 327, N 328, K 330, S 342, S 344, Y 345, Y 348, Y 362, N 363, Y 367, E 368
@@ -11445,6 +11827,8 @@ N 2, Y 3, K 5, N 11, H 13, S 21, S 22, Y 24, K 27, T 29, Q 30, S 32, Y 35, S 38,
 
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 415.0
+
 #### Conserved (non-aliphatic) residues:
 
 D 4, R 70, R 108, Y 122, T 123, D 128, H 132, T 135, Q 150, S 163, R 165, R 170, S 173, S 177, T 179, S 184, Y 188, S 214, N 216, K 217, N 222, R 235, K 240, R 265, S 272, N 284, Y 285, D 286, E 291, S 292, R 296, N 304, E 306, S 309, S 313, Y 317, S 327, T 328, H 342, N 343, Q 344, E 347, T 350, R 370, N 396, S 397, N 401, T 403, Y 405, Q 406, S 408, S 411, E 428, R 433, R 438
@@ -11483,6 +11867,8 @@ D 4, R 70, R 108, Y 122, T 123, D 128, H 132, T 135, Q 150, S 163, R 165, R 170,
 ### Cluster 52
 
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 340.0
 
 #### Conserved (non-aliphatic) residues:
 
@@ -11524,6 +11910,8 @@ T 1, N 2, T 3, N 4, Y 5, Y 7, N 8, E 9, R 13, S 21, T 25, S 27, T 28, K 30, E 32
 
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 335.0
+
 #### Conserved (non-aliphatic) residues:
 
 N 5, S 7, Y 8, K 10, K 12, K 13, E 16, Y 17, Y 18, S 31, R 34, D 41, Y 42, Y 45, E 47, T 50, R 56, D 57, S 58, E 60, Y 63, R 64, R 67, N 70, D 71, D 75, H 77, Y 82, S 85, T 88, S 91, K 93, S 99, S 101, S 102, H 103, N 105, Y 111, S 114, H 119, E 120, Y 121, T 122, Q 123, R 125, S 136, K 138, D 139, E 142, N 143, R 144, K 151, T 156, H 159, Y 160, S 161, Y 171, T 172, R 173, R 176, S 177, K 179, T 185, S 192, E 197, S 200, T 203, K 204, Y 205, Y 207, Q 210, D 211, N 216, K 217, S 218, E 221, S 222, D 223, S 226, N 229, K 231, Y 232, T 234, S 243, T 244, K 247, K 248, E 249, D 250, S 251, N 253, T 255, Y 257, K 258, S 261, Y 267, Y 268, Y 269, Q 274, S 279, R 281, E 284, Y 286, S 287, Y 290, N 296, Y 299, N 300, K 301, D 302, Y 303, T 305, K 307, Y 310, S 316, T 320, Y 323, Y 325, K 329, T 330, T 332
@@ -11563,6 +11951,8 @@ N 5, S 7, Y 8, K 10, K 12, K 13, E 16, Y 17, Y 18, S 31, R 34, D 41, Y 42, Y 45,
 
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 429.0
+
 #### Conserved (non-aliphatic) residues:
 
 Y 2, T 10, T 13, D 15, R 20, S 21, K 24, S 26, S 32, S 36, S 37, Y 41, N 43, Y 44, R 45, Q 46, D 48, S 52, T 53, K 54, Y 58, S 61, S 65, R 74, R 78, K 79, K 80, D 81, K 82, N 83, Y 84, E 85, K 89, E 90, D 92, N 94, T 95, H 96, S 98, T 105, Y 112, S 116, K 118, D 119, Q 121, S 123, N 125, N 128, S 131, Q 132, Y 134, Y 135, K 136, N 137, Q 139, H 140, N 141, S 143, N 144, S 145, N 149, Q 150, E 153, T 156, Y 160, S 162, Q 165, S 168, R 170, Y 171, K 174, D 175, R 176, N 177, R 178, Q 179, T 180, N 182, Y 183, N 185, T 188, S 196, T 197, D 198, R 199, N 200, R 204, Y 208, Y 217, T 218, K 219, S 220, N 221, Q 222, S 224, K 226, S 227, N 229, K 231, R 234, K 235, S 236, Y 248, Y 249, K 252, K 254, N 255, Y 256, T 257, S 258, D 259, Q 261, R 262, Y 267, S 270, Y 273, N 274, N 276, N 280, K 281, T 285, N 286, K 288, Y 289, S 292, T 293, R 295, T 296, S 298, D 299, T 300, T 303, N 308, T 309, T 313, T 314, S 315, S 318, E 319, Q 324, S 325, S 326, T 327, Y 331, S 333, N 334, Y 336, S 337, R 340, E 344, D 345, Y 348, Y 354, E 363, Y 366, E 367, R 370, R 371, K 372, Y 374, S 375, Y 381, S 382, Y 383, S 384, Y 386, Y 390, E 394, E 395, Q 396, R 399, R 400, H 402, T 405, Y 407, E 408, S 410, Y 416, Q 421, R 422, K 423, R 425, K 427
@@ -11601,6 +11991,8 @@ Y 2, T 10, T 13, D 15, R 20, S 21, K 24, S 26, S 32, S 36, S 37, Y 41, N 43, Y 4
 ### Cluster 193
 
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 393.5
 
 #### Conserved (non-aliphatic) residues:
 
@@ -11642,6 +12034,8 @@ D 2, Y 3, R 26, S 28, S 43, R 46, Y 47, Y 48, D 52, E 54, Y 56, Q 57, Y 60, Y 64
 
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 452.5
+
 #### Conserved (non-aliphatic) residues:
 
 T 46, Y 48, T 56, S 62, R 64, K 68, N 69, R 71, E 72, T 73, T 76, E 77, D 80, R 84, T 85, R 89, T 90, R 94, T 95, R 99, T 103, S 107, S 109, R 110, R 112, R 114, S 115, T 122, R 123, T 124, S 126, S 127, T 128, R 129, Y 130, R 131, R 133, S 134, T 140, E 141, E 142, E 143, T 144, R 146, R 149, R 150, T 152, D 155, T 160, S 166, R 169, Y 170, D 171, T 174, D 175, Y 176, T 178, Y 179, E 180, N 184, N 187, D 189, D 190, D 194, E 197, S 198, T 199, Q 200, E 201, Y 204, T 205, K 212, T 213, T 215, E 216, D 217, K 219, T 229, Y 234, K 238, R 239, S 241, D 243, E 255, Y 256, T 257, S 258, S 259, N 261, R 264, Q 265, Y 266, T 277, Y 278, R 281, K 282, N 283, S 295, H 297, T 299, R 311, R 312, R 314, T 316, Q 318, T 319, T 320, R 335, S 342, E 345, N 348, R 350, Y 351, D 353, Y 354, D 356, S 357, Q 359, T 360, S 364, Y 365, S 367, Y 371, S 383, R 384, K 385, T 389, R 390, E 392, S 393, Q 394, T 410, Q 411, S 416, R 417, S 419, Y 421, N 432, R 433, K 436, Q 438, D 439, R 440, T 441, T 444, Y 454, Y 455, Q 460, N 461, Y 462, E 464, Y 468, R 469, T 470, Y 471, Q 474
@@ -11680,6 +12074,8 @@ T 46, Y 48, T 56, S 62, R 64, K 68, N 69, R 71, E 72, T 73, T 76, E 77, D 80, R 
 ### Cluster 188
 
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 337.5
 
 #### Conserved (non-aliphatic) residues:
 
@@ -11721,6 +12117,8 @@ Y 2, S 41, D 43, N 46, Y 47, N 49, Y 51, Y 52, E 61, S 64, S 81, K 93, S 105, Y 
 
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 362.0
+
 #### Conserved (non-aliphatic) residues:
 
 Y 3, Y 19, N 20, Y 24, N 28, R 39, D 46, T 47, Y 50, N 58, N 65, N 68, Q 76, R 77, E 79, T 80, N 86, K 87, Y 90, S 93, N 95, Q 97, E 99, T 103, T 109, Y 122, N 137, S 138, N 140, R 143, Q 144, S 145, K 162, H 177, T 179, Y 187, S 190, N 195, E 214, K 215, S 221, S 224, T 225, E 226, S 231, N 237, N 244, Y 261, D 271, K 272, K 278, S 280, Y 282, S 294, K 296, S 298, Q 299, R 302, Y 306, E 311, N 324, K 328, Y 342, Q 347, R 350, E 352, S 354, Y 359
@@ -11759,6 +12157,8 @@ Y 3, Y 19, N 20, Y 24, N 28, R 39, D 46, T 47, Y 50, N 58, N 65, N 68, Q 76, R 7
 ### Cluster 185
 
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 361.0
 
 #### Conserved (non-aliphatic) residues:
 
@@ -11804,6 +12204,8 @@ ACH97152.1 (Escherichia coli O3)
 
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 339.0
+
 #### Conserved (non-aliphatic) residues:
 
 K 4, S 5, R 6, Y 22, K 23, E 25, N 27, Y 28, T 30, D 32, E 33, Y 36, S 39, D 40, S 41, T 44, D 45, T 47, S 50, R 51, Y 52, K 53, Y 57, R 60, Y 63, E 64, Y 65, E 67, Y 68, S 70, N 75, T 77, N 84, K 85, S 87, K 88, S 89, S 90, N 91, N 92, N 93, D 94, N 96, Y 97, Y 100, S 106, Y 110, S 112, R 116, D 117, Y 119, Y 129, R 131, R 132, K 134, H 135, K 136, Q 140, K 151, E 153, S 165, R 166, K 168, S 170, Y 176, T 184, H 190, N 191, Q 192, T 193, Y 198, N 200, T 201, E 203, R 204, E 206, T 208, S 211, E 212, Y 213, N 214, T 215, Q 221, Q 222, E 224, T 226, N 229, N 233, S 237, Y 238, N 240, S 243, S 248, S 251, N 252, T 253, N 255, N 258, T 262, D 264, S 265, N 280, T 281, K 282, K 283, Y 284, Y 285, S 286, D 287, D 288, Y 290, R 291, S 293, S 300, Y 303, Y 305, T 309, T 312, S 313, R 315, H 317, H 319
@@ -11847,6 +12249,8 @@ ACA24890.1 (Escherichia coli O159)
 ### Cluster 178
 
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 409.0
 
 #### Conserved (non-aliphatic) residues:
 
@@ -11892,6 +12296,8 @@ BAQ01114.1 (Escherichia coli O64)
 
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 358.0
+
 #### Conserved (non-aliphatic) residues:
 
 S 42, N 68, Y 76, S 92, D 99, D 153, N 156, S 163, R 164, N 165, S 168, Y 178, K 187, S 200, R 207, S 213, Y 225, T 235, S 243, N 256, R 265, Y 272, S 275, N 301, H 303, N 304, H 310, S 331, K 336, R 350, Y 351, D 354, D 363, K 390
@@ -11932,6 +12338,8 @@ S 42, N 68, Y 76, S 92, D 99, D 153, N 156, S 163, R 164, N 165, S 168, Y 178, K
 
 Total number of members in cluster: 2
 
+Average length of proteins in cluster: 443.0
+
 #### Conserved (non-aliphatic) residues:
 
 N 1, K 6, S 25, Y 34, Y 36, T 37, K 46, D 51, R 53, Y 63, T 65, R 70, N 78, D 82, E 83, S 89, R 91, Q 93, S 104, N 105, R 112, Q 113, S 129, E 130, R 131, S 151, S 155, K 156, R 157, E 158, D 161, K 167, S 170, D 171, T 178, R 184, R 187, D 195, Y 201, Y 208, T 212, E 214, R 215, D 216, K 220, Y 229, D 231, R 233, S 255, Q 256, Y 257, K 259, S 264, D 270, R 271, D 275, Y 279, S 280, E 281, S 284, S 286, R 287, N 288, Y 290, S 291, Q 299, S 302, S 306, D 307, R 310, T 315, Q 324, S 325, R 332, R 335, E 337, T 343, S 344, T 349, Y 355, Y 370, Y 378, N 379, R 381, R 383, S 384, Y 386, Y 388, Y 391, Y 400, R 403, D 405, N 408, S 411, K 415, S 417, H 428, R 432, R 433
@@ -11970,6 +12378,8 @@ N 1, K 6, S 25, Y 34, Y 36, T 37, K 46, D 51, R 53, Y 63, T 65, R 70, N 78, D 82
 ### Cluster 151
 
 Total number of members in cluster: 2
+
+Average length of proteins in cluster: 346.0
 
 #### Conserved (non-aliphatic) residues:
 

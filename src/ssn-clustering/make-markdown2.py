@@ -10,7 +10,7 @@ clusters = list(clustering_data.clusters)
 
 # Write report
 resultsdir = f"data/wzy/ssn-clusterings/{timestamp}"
-with open(f"{resultsdir}/report2.md", "w") as outfile:
+with open(f"{resultsdir}/report.md", "w") as outfile:
     outfile.write(f"# Report of ssn-clustering run {timestamp}\n")
     outfile.write(f"## Metadata\n{clustering_data.metadata}\n")
     outfile.write(f"## Info\n{clustering_data.info}\n")
@@ -34,6 +34,7 @@ with open(f"{resultsdir}/report2.md", "w") as outfile:
     for cluster in clusters:
         outfile.write(f"### Cluster {cluster['name']}\n\n")
         outfile.write(f"Total number of members in cluster: {cluster['size']}\n\n")
+        outfile.write(f"Average length of proteins in cluster: {cluster['average_length']}\n\n")
         outfile.write(f"#### Conserved (non-aliphatic) residues:\n\n{cluster['conserved_residues']}\n\n")
         outfile.write(f"#### Seeds in cluster:\n\n{cluster['seeds_table'].to_markdown(index=False)}\n\n")
         outfile.write(f"[MSA fasta]({cluster['afa_url']})\n\n")

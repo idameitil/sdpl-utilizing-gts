@@ -296,6 +296,10 @@ class SSNClusterData:
              }
              for sugar_id in sugars2accessions}
         return enriched_sugars
+    
+    def get_average_length(self, accessions):
+        average_length = self.seeds_and_hits_df.loc[self.seeds_and_hits_df.protein_accession.isin(accessions), 'seq'].apply(lambda x: len(x)).mean()
+        return round(average_length, 1)
         
     def load_cluster_data(self, cluster_id):
         [size, name] = cluster_id.split('_')
@@ -321,6 +325,8 @@ class SSNClusterData:
         alphafold_models = self.get_alphafold_models(accessions)
         taxonomy_table = self.get_taxonomy_table(accessions)
 
+        average_length = self.get_average_length(accessions)
+
         return {
             'name': name,
             'size': size,
@@ -335,5 +341,6 @@ class SSNClusterData:
             'sugars': enriched_sugars,
             'alphafold_models': alphafold_models,
             'taxonomy_table': taxonomy_table,
-            'accessions': accessions
+            'accessions': accessions,
+            'average_length': average_length
         }
