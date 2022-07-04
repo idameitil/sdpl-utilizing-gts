@@ -300,10 +300,8 @@ class SSNClusterData:
     def load_cluster_data(self, cluster_id):
         [size, name] = cluster_id.split('_')
         size = int(size)
-        # print('conserved res')
-        # with open(self.MSA_filename(cluster_id), 'r') as MSA_file:
-        #     conserved_residues_string = get_conserved_residues_string(MSA_file)
-        # print('accessions')
+        with open(self.MSA_filename(cluster_id), 'r') as MSA_file:
+            conserved_residues_string = get_conserved_residues_string(MSA_file)
         seed_accessions, hit_accessions = self.read_split_fasta_seeds_hits(self.fasta_filename(cluster_id))
         accessions = []
         accessions.extend(seed_accessions)
@@ -318,17 +316,15 @@ class SSNClusterData:
         tree_url = filename_to_url(self.tree_filename(cluster_id))
         hits_table_url = filename_to_url(self.hits_table_filename(cluster_id))
 
-        # print('sugars')
         sugars2accessions = self.get_sugars2accessions(accessions, seed_accessions)
         enriched_sugars = self.enrich_sugars(seed_accessions, sugars2accessions)
         alphafold_models = self.get_alphafold_models(accessions)
-        # print('taxonomy_table')
         taxonomy_table = self.get_taxonomy_table(accessions)
 
         return {
             'name': name,
             'size': size,
-            #'conserved_residues': conserved_residues_string,
+            'conserved_residues': conserved_residues_string,
             'seeds_table': seeds_table,
             'afa_url': MSA_url,
             'malign_url': malign_url,
