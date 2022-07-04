@@ -229,7 +229,7 @@ write_info_file()
 # Read sequence files
 annotated_df = pd.read_csv("data/wzy/wzy.tsv", sep='\t')
 blast_hits_df = pd.read_csv("data/wzy/blast/unique-hits.csv", sep=' ,', \
-    names=['acc', 'org', 'taxid', 'name', 'seq'])
+    names=['acc', 'org', 'taxid', 'name', 'seq'], engine='python')
 
 # Write cluster fastas
 clusterdir = f"{outdir}/clusters"
