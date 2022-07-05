@@ -2,7 +2,7 @@ import sys
 import numpy as np
 import math
 from jinja2 import Environment, FileSystemLoader, select_autoescape
-from common import SSNClusterData
+from common2 import SSNClusterData
 
 table_output_path = lambda clustering_id: f"data/wzy/ssn-clusterings/{clustering_id}/clusters_table.html"
 

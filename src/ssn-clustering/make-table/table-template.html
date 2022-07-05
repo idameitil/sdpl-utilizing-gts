@@ -35,13 +35,19 @@
             {% set cluster_name = cluster.name %}
             {% set members_in_cluster = cluster.size %}
             {% set conserved_residues = cluster.conserved_residues %}
-            {% set sugars = cluster.sugars %}
+            {% set sugars_seeds = cluster.sugar_images_seeds %}
+            {% set sugars_blast = cluster.sugar_images_blast %}
+            {% set github_cluster_url = cluster.github_cluster_url %}
             <div class="column">
-                <p>Cluster {{cluster_name}}</p>
+                <a href="{{github_cluster_url}}">Cluster {{cluster_name}}</a>
                 <p>Members in cluster: {{members_in_cluster}}</p>
                 <p>Conserved residues: {{conserved_residues}} </p>
-                {% for sugar in sugars %}
+                {% for sugar in sugars_seeds %}
                     <img src="{{sugar}}" alt="">
+                {% endfor %}
+                <p>Additional sugars for blast hits: </p>
+                {% for sugar in sugars_blast %}
+                <img src="{{sugar}}" alt="">
                 {% endfor %}
             </div>
             {% endfor %}

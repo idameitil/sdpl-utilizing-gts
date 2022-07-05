@@ -73,7 +73,7 @@ class SSNClusterData:
         self.load_clusters()
 
     def results_dir_top(self):
-        return f"data/wzy/ssn-clusterings/{self.ssn_clustering_id}/"
+        return f"data/wzy/ssn-clusterings/{self.ssn_clustering_id}"
 
     def results_dir(self):
         return f"data/wzy/ssn-clusterings/{self.ssn_clustering_id}/clusters"
@@ -297,10 +297,21 @@ class SSNClusterData:
              }
              for sugar_id in sugars2accessions}
         return enriched_sugars
+
+    def sugar_images_seeds(self, enriched_sugars):
+        return [enriched_sugars[sugar_id]['image'] for sugar_id in enriched_sugars 
+        if not enriched_sugars[sugar_id]['is_only_blast']]
+
+    def sugar_images_blast(self, enriched_sugars):
+        return [enriched_sugars[sugar_id]['image'] for sugar_id in enriched_sugars 
+        if enriched_sugars[sugar_id]['is_only_blast']]
     
     def get_average_length(self, accessions):
         average_length = self.seeds_and_hits_df.loc[self.seeds_and_hits_df.protein_accession.isin(accessions), 'seq'].apply(lambda x: len(x)).mean()
         return round(average_length, 1)
+
+    def get_github_cluster_url(self, cluster_name):
+        return f"{github_url}/{self.results_dir_top()}/report.md#cluster-{cluster_name}"
         
     def load_cluster_data(self, cluster_id):
         [size, name] = cluster_id.split('_')
@@ -314,6 +325,7 @@ class SSNClusterData:
         accessions = list(set(accessions))
 
         seeds_table = self.get_seeds_table(seed_accessions)
+        github_cluster_url = self.get_github_cluster_url(name)
         MSA_url = filename_to_url(self.MSA_filename(cluster_id))
         malign_url = filename_to_url(self.malign_filename(cluster_id))
         fasta_url = filename_to_url(self.fasta_filename(cluster_id))
@@ -323,6 +335,8 @@ class SSNClusterData:
 
         sugars2accessions = self.get_sugars2accessions(accessions, seed_accessions)
         enriched_sugars = self.enrich_sugars(seed_accessions, sugars2accessions)
+        sugar_images_seeds = self.sugar_images_seeds(enriched_sugars)
+        sugar_images_blast = self.sugar_images_blast(enriched_sugars)
         alphafold_models = self.get_alphafold_models(accessions)
         taxonomy_table = self.get_taxonomy_table(accessions)
 
@@ -333,6 +347,7 @@ class SSNClusterData:
             'size': size,
             'conserved_residues': conserved_residues_string,
             'seeds_table': seeds_table,
+            'github_cluster_url': github_cluster_url,
             'afa_url': MSA_url,
             'malign_url': malign_url,
             'fasta_url': fasta_url,
@@ -340,6 +355,8 @@ class SSNClusterData:
             'tree_url': tree_url,
             'hits_table_url': hits_table_url,
             'sugars': enriched_sugars,
+            'sugar_images_seeds': sugar_images_seeds,
+            'sugar_images_blast': sugar_images_blast,
             'alphafold_models': alphafold_models,
             'taxonomy_table': taxonomy_table,
             'accessions': accessions,
