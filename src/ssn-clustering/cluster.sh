@@ -9,8 +9,8 @@ scp -r data/wzy/ssn-clusterings/$1 idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy
 # echo "\n*** STARTING JOBS ON HPC ***\n"
 # ssh -l idamei login1.gbar.dtu.dk 'sh /work3/idamei/ssn-clusterings/clustering/$1/submit.sh'
 
-#echo "\n*** RUNNING make-markdown.py ***\n"
-#python src/ssn-clustering/make-markdown.py $1
+#echo "\n*** RUNNING make-report.py ***\n"
+#python src/ssn-clustering/make-report.py $1
 
 #echo "\n*** CONVERTING REPORT TO HTML ***\n"
 #pandoc data/wzy/ssn-clusterings/$1/report.md -o data/wzy/ssn-clusterings/$1/report.html -f gfm

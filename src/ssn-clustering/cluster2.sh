@@ -5,7 +5,7 @@ echo "\n*** CONVERTING LOGOS TO PDF ***\n"
 python3 src/ssn-clustering/convert-logos-to-pdf.py $1
 
 echo "\n*** GENERATING MARKDOWN REPORT ***\n"
-python src/ssn-clustering/make-markdown.py $1
+python src/ssn-clustering/make-report.py $1
 
 echo "\n*** GENERATING SUMMARY TABLE ***\n"
 python src/ssn-clustering/make-table.py $1

@@ -22,7 +22,7 @@ This will create the files `data/wzx/wzx.tsv`, `data/wzz/wzz.tsv` and `data/waal
 ### Making fasta files
 To generate fasta files run `python3 src/data-collection-and-preprocessing/make-fastas.py`
 
-This will create the files `data/wzx.fasta`, `data/wzy.fasta` and `data/wzz.fasta`
+This will create the files `data/wzx.fasta`, `data/wzy.fasta`, `data/wzz.fasta` and `data/waal.fasta`.
 
 ### Expanding with Blast
 Copy fasta file with entries that need to be blasted to `/work3/idamei/wzy/blast/` on the HPC.
