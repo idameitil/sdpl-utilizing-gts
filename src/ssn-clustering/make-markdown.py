@@ -50,15 +50,21 @@ with open(f"{resultsdir}/report.md", "w") as outfile:
             outfile.write(f"{', '.join(my_list)}\n\n")
             outfile.write(f"![]({cluster['sugars'][sugar_id]['image']})")
             outfile.write(f"{sugar_id}\n\n")
-        outfile.write("#### Sugars for blast hits only (may be incorrect):\n\n")
+        if len(sugars_seeds) == 0:
+            outfile.write("None\n\n")
         sugars_only_blast_hits = [sugar_id for sugar_id in cluster['sugars'] if cluster['sugars'][sugar_id]['is_only_blast']]
+        outfile.write("#### Additional sugars from blast hits:\n\n")
         for sugar_id in sugars_only_blast_hits:
             my_list = [f"{protein['accession']} ({protein['species']} {protein['serotype']})" for protein in cluster['sugars'][sugar_id]['proteins']]
             outfile.write(f"{', '.join(my_list)}\n\n")
             outfile.write(f"![]({cluster['sugars'][sugar_id]['image']})")
             outfile.write(f"{sugar_id}\n\n")
+        if len(sugars_only_blast_hits) == 0:
+            outfile.write("None\n\n")
         outfile.write("#### Alphafold models:\n\n")
         for acc in cluster['alphafold_models']:
             outfile.write(f"[{acc}]({cluster['alphafold_models'][acc]})\n\n")
+        if len(cluster['alphafold_models']) == 0:
+            outfile.write("None\n\n")
         outfile.write(f"#### Taxonomy:\n\n{cluster['taxonomy_table'].to_markdown(index=False)}\n\n")
         outfile.write(f"[top](#report-of-ssn-clustering-run-{timestamp})\n\n")
