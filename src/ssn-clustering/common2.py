@@ -1,6 +1,8 @@
 import os
 import pandas as pd
 from Bio import SeqIO
+import numpy as np
+from scipy import stats
 
 wzy_seeds_filename = 'data/wzy/wzy.tsv'
 wzy_hits_filename = 'data/wzy/blast-full-genbank/1e-15/hits-enriched.tsv'
@@ -11,31 +13,36 @@ github_url = 'https://github.com/idameitil/phd/tree/master'
 def not_pd_null(value):
     return not pd.isnull(value)
 
-def get_conserved_residues(df):
-    """Gets convvserved residues from MSA"""
+aminoacids = ['A', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L',
+        'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Y', '-', 'X', 'J']
+
+def AA_to_number(AA):
+    return aminoacids.index(AA)
+
+def number_to_AA(number):
+    return aminoacids[number]
+
+AA_to_number_vectorized = np.vectorize(AA_to_number)
+number_to_AA_vectorized = np.vectorize(number_to_AA)
+
+def get_conserved_residues(proteins):
     AAs_ignore = ['-', 'G', 'A', 'V', 'C', 'P', 'L', 'I', 'M', 'W', 'F']
-    length = len(df)
-    count_sequences = df.shape[1]
-    conserved_residues = dict()
-    for position in range(length):
-        most_frequent_AA = df.iloc[position].mode().values
-        if len(most_frequent_AA) == 1:
-            count_most_frequent_AA = df.iloc[position].value_counts().max()
-            freq_most_frequent_AA = (count_most_frequent_AA / count_sequences)
-            if freq_most_frequent_AA > 0.97 and most_frequent_AA not in AAs_ignore:
-                conserved_residues[position] = (most_frequent_AA[0], freq_most_frequent_AA)
-    return conserved_residues
+    sequences = np.array([np.array(list(protein.seq)) for protein in proteins])
+    no_sequences = sequences.shape[0]
+    sequences_numerical = AA_to_number_vectorized(sequences)
+    mode = stats.mode(sequences_numerical)
+    mode_AAs = number_to_AA_vectorized(mode[0][0])
+    frequencies = mode[1][0] / no_sequences
+    condition = (frequencies > 0.97) & (np.isin(mode_AAs, AAs_ignore, invert=True))
+    conserved_AAs = mode_AAs[condition]
+    conserved_positions = list(np.where(condition)[0])
+    return conserved_AAs, conserved_positions
 
-def split(str):
-    return [c for c in str]
-
-def fasta_sequences_to_pd_df(sequences):
-    return pd.DataFrame({sequence.id: split(str(sequence.seq)) for sequence in sequences})
-
-def residue_to_str(residue):
-    (position, residue_data) = residue
-    (AA, frequency) = residue_data
-    return f"{AA} {position}"
+def get_conserved_residues_string(file):
+    proteins = SeqIO.parse(file, 'fasta')
+    conserved_AAs, conserved_positions = get_conserved_residues(proteins)
+    residue_string = ', '.join([f"{AA} {position}" for AA, position in zip(conserved_AAs, conserved_positions)])
+    return residue_string
 
 def is_accession_in_sugar_db(accessions_df, accession):
     CSDB_record_id = accessions_df.loc[accessions_df.protein_accession == accession, 'CSDB_record_ID'].item()
@@ -43,12 +50,6 @@ def is_accession_in_sugar_db(accessions_df, accession):
 
 def get_sugar_image(sugar_id):
     return f"{csdb_images_folder}{sugar_id}.gif"
-
-def get_conserved_residues_string(file):
-    sequences = SeqIO.parse(file, 'fasta')
-    sequences_df = fasta_sequences_to_pd_df(sequences)
-    residues = get_conserved_residues(sequences_df)
-    return ', '.join(map(residue_to_str, residues.items()))
 
 def filename_to_url(filename):
     return f"{github_url}/{filename}"
