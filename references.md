@@ -1,3 +1,29 @@
+# GT66 deleted sequences
+## GT66_1
+QEU59834
+CAL54049
+
+## GT66_3
+ADP77078
+AJF61370
+
+## GT66_6
+AIE93485
+AAB91198
+ADB58246
+AAB90907
+AIF12917
+AIF21817
+AIE91394
+AIE93485
+AIE94247
+AIF09373
+AIG97150
+QLC49944
+
+## GT66_7
+ADT85095 (maybe)
+
 # GT66 structures
 Archaea
 AAB90907 GT66_6 (3VGP) C-terminal globular domain
@@ -188,3 +214,10 @@ Loading python modules:
 
 Kill all jobs:
 `bkill 0`
+
+# Other stuff
+mlflow: mlflow.org
+
+Weights & Biases: https://wandb.ai/site
+
+Github co-pilot
