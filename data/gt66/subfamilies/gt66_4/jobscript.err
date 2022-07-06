@@ -71,3 +71,76 @@ ML-NNI round 4: LogLk = -30467.128 NNIs 0 max delta 0.00 Time 2.10 (final)
       2.10 seconds: ML Lengths 1 of 36 splits
 Optimize all lengths: LogLk = -30467.109 Time 2.27
 Total time: 2.72 seconds Unique: 38/40 Bad splits: 0/35
+
+muscle 5.1.linux64 [12f0e2]  396Gb RAM, 24 cores
+Built Jan 13 2022 23:17:13
+(C) Copyright 2004-2021 Robert C. Edgar.
+https://drive5.com
+
+Input: 40 seqs, length avg 967 max 1000
+
+00:00 3.7Mb     2.5% Derep 0 uniques, 0 dupes00:01 3.7Mb     5.0% Derep 1 uniques, 0 dupes00:01 3.7Mb   100.0% Derep 37 uniques, 2 dupes
+00:01 3.9Mb     2.6% UCLUST 38 seqs EE<0.01, 0 centroids, 0 members00:01 3.9Mb  CPU has 24 cores, defaulting to 20 threads            
+
+WARNING: Max OMP threads 1
+
+00:02 6.0Mb    15.8% UCLUST 38 seqs EE<0.01, 4 centroids, 1 members00:03 6.0Mb    23.7% UCLUST 38 seqs EE<0.01, 4 centroids, 4 members00:04 5.9Mb    28.9% UCLUST 38 seqs EE<0.01, 6 centroids, 4 members00:05 6.0Mb    31.6% UCLUST 38 seqs EE<0.01, 7 centroids, 4 members00:07 5.9Mb    36.8% UCLUST 38 seqs EE<0.01, 8 centroids, 5 members00:08 5.9Mb    42.1% UCLUST 38 seqs EE<0.01, 9 centroids, 6 members00:09 5.9Mb    44.7% UCLUST 38 seqs EE<0.01, 10 centroids, 6 members00:10 5.9Mb    47.4% UCLUST 38 seqs EE<0.01, 10 centroids, 7 members00:11 5.9Mb    52.6% UCLUST 38 seqs EE<0.01, 11 centroids, 8 members00:13 5.9Mb    55.3% UCLUST 38 seqs EE<0.01, 12 centroids, 8 members00:14 5.0Mb    65.8% UCLUST 38 seqs EE<0.01, 12 centroids, 12 members00:15 5.0Mb    81.6% UCLUST 38 seqs EE<0.01, 12 centroids, 18 members00:16 5.0Mb    86.8% UCLUST 38 seqs EE<0.01, 13 centroids, 19 members00:18 5.9Mb    94.7% UCLUST 38 seqs EE<0.01, 14 centroids, 21 members00:19 45Mb    100.0% UCLUST 38 seqs EE<0.01, 14 centroids, 23 members
+00:19 45Mb      7.1% UCLUST 14 seqs EE<0.30, 0 centroids, 0 members  00:20 6.0Mb    21.4% UCLUST 14 seqs EE<0.30, 1 centroids, 1 members00:21 6.0Mb    57.1% UCLUST 14 seqs EE<0.30, 1 centroids, 6 members00:22 5.9Mb    92.9% UCLUST 14 seqs EE<0.30, 1 centroids, 11 members00:22 5.9Mb   100.0% UCLUST 14 seqs EE<0.30, 1 centroids, 12 members
+00:22 5.9Mb   100.0% Make cluster MFAs                              
+1 clusters pass 1                     
+1 clusters pass 2
+00:22 5.9Mb  
+00:22 5.9Mb  Align cluster 1 / 1 (14 seqs)
+00:22 5.9Mb  
+00:22 5.9Mb     1.1% Calc posteriors00:23 5.0Mb     3.3% Calc posteriors00:24 5.0Mb     8.8% Calc posteriors00:25 5.0Mb    14.3% Calc posteriors00:26 5.0Mb    18.7% Calc posteriors00:27 5.0Mb    24.2% Calc posteriors00:28 5.0Mb    29.7% Calc posteriors00:29 5.0Mb    35.2% Calc posteriors00:30 5.1Mb    40.7% Calc posteriors00:31 5.2Mb    46.2% Calc posteriors00:32 5.3Mb    51.6% Calc posteriors00:33 5.4Mb    58.2% Calc posteriors00:34 5.5Mb    63.7% Calc posteriors00:35 5.6Mb    69.2% Calc posteriors00:36 5.7Mb    74.7% Calc posteriors00:37 5.8Mb    81.3% Calc posteriors00:38 5.9Mb    86.8% Calc posteriors00:39 6.0Mb    92.3% Calc posteriors00:40 6.1Mb    97.8% Calc posteriors00:40 6.1Mb   100.0% Calc posteriors
+00:40 46Mb      1.1% Consistency (1/2)00:40 46Mb    100.0% Consistency (1/2)
+00:40 46Mb      1.1% Consistency (2/2)00:40 46Mb    100.0% Consistency (2/2)
+00:40 46Mb      7.7% UPGMA5           00:40 46Mb    100.0% UPGMA5
+00:40 46Mb      1.0% Refining00:41 46Mb     34.0% Refining00:41 46Mb    100.0% Refining
+00:41 46Mb    100.0% Consensus sequences
+Inserting 2 dupes... done.              
+INFO:Malign:No identity filter
+INFO:Malign:Star None
+INFO:Malign:Star highlights 0
+INFO:Malign:No identity filter
+INFO:Malign:Fasta contains 40 valid records
+INFO:Malign:Aligned already
+INFO:Malign:Align contains 40 valid records
+inputType: FASTA
+================================================================================
+WARNINGS
+
+One or more weights was less than -50 bits.
+To avoid such amino acid dominating the logo position, these was reduced to -50
+bits.
+To remove this warning you could try choosing the option of pseudo counts.
+================================================================================
+
+FastTree Version 2.1.11 SSE3
+Alignment: /work3/idamei/gt66/subfamilies/gt66_4/sequences.afa
+Amino acid distances: BLOSUM45 Joins: balanced Support: SH-like 1000
+Search: Normal +NNI +SPR (2 rounds range 10) +ML-NNI opt-each=1
+TopHits: 1.00*sqrtN close=default refresh=0.80
+ML Model: Jones-Taylor-Thorton, CAT approximation with 20 rate categories
+Initial topology in 0.03 seconds
+Refining topology: 21 rounds ME-NNIs, 2 rounds ME-SPRs, 10 rounds ML-NNIs
+      0.25 seconds: ME NNI round 8 of 21, 1 of 36 splits
+      0.47 seconds: ME NNI round 15 of 21, 1 of 36 splits
+Total branch-length 4.842 after 0.49 sec
+      0.63 seconds: ML NNI round 1 of 10, 1 of 36 splits
+ML-NNI round 1: LogLk = -32602.392 NNIs 1 max delta 19.35 Time 1.06
+      1.07 seconds: Site likelihoods with rate category 1 of 20
+      1.18 seconds: Site likelihoods with rate category 9 of 20
+      1.28 seconds: Site likelihoods with rate category 17 of 20
+Switched to using 20 rate categories (CAT approximation)
+Rate categories were divided by 0.909 so that average rate = 1.0
+CAT-based log-likelihoods may not be comparable across runs
+Use -gamma for approximate but comparable Gamma(20) log-likelihoods
+ML-NNI round 2: LogLk = -30470.664 NNIs 1 max delta 2.98 Time 1.49
+      1.49 seconds: ML NNI round 3 of 10, 1 of 36 splits
+ML-NNI round 3: LogLk = -30470.386 NNIs 0 max delta 0.00 Time 1.57
+Turning off heuristics for final round of ML NNIs (converged)
+ML-NNI round 4: LogLk = -30467.128 NNIs 0 max delta 0.00 Time 2.07 (final)
+      2.07 seconds: ML Lengths 1 of 36 splits
+Optimize all lengths: LogLk = -30467.109 Time 2.24
+Total time: 2.68 seconds Unique: 38/40 Bad splits: 0/35
