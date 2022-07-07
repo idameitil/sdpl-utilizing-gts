@@ -66,6 +66,15 @@ Then locally run:
 
 To generate fasta with short headers, run: `sed 's/ >.*$//' data/wzy/blast/unique-hits.fasta > data/wzy/blast/unique-hits-short-headers.fasta`
 
+### Enriching blast hit data
+The list of accessions for 1e-15 is split into files of 1000 lines each by running `split data/wzy/ssn-clusterings/2206101141/included_accessions.txt data/wzy/blast-full-genbank/1e-15/hits`
+
+Each file is uploaded to NCBI batch entry and the gp files are downloaded and saved in `data/wzy/blast-full-genbank/1e-15`. 
+
+To retrieve serotypes for the blast hits (the ones where available), run `python src/data-collection-and-preprocessing/get-serotypes.py`. This will create the file `data/wzy/blast-full-genbank/1e-15/hits-serotypes.tsv`.
+
+Then, to enrich with sugar data and taxonomy, run `python src/data-collection-and-preprocessing/enrich-blast-hits.py`. This will create the file `data/wzy/blast/hits-enriched.tsv`.
+
 ### Make nodes file
 Run `python src/data-collection-and-preprocessing/make-nodes-file.py`. 
 
@@ -75,15 +84,6 @@ This will generate the file `data/wzy/seeds-and-hits.tsv`.
 To filter blast hits by length and perform redundancy reduction with cd-hit run: `python3 src/data-collection-and-preprocessing/filter-blast-hits.py`.
 
 This will create the files `data/wzy/blast/unique-hits-min320max600.fasta` and `data/wzy/blast/unique-hits-min320max600-cdhit99.fasta`.
-
-### Retrieving blast hit serotypes
-The list of accessions for 1e-15 is split into files of 1000 lines each by running `split data/wzy/ssn-clusterings/2206101141/included_accessions.txt data/wzy/blast-full-genbank/1e-15/hits`
-
-Each file is uploaded to NCBI batch entry and the gp files are downloaded and saved in `data/wzy/blast-full-genbank/1e-15`. 
-
-To retrieve serotypes for the blast hits (the ones where available), run `python src/data-collection-and-preprocessing/get-serotypes.py`. This will create the file `data/wzy/blast-full-genbank/1e-15/hits-serotypes.tsv`.
-
-Then, to enrich with sugar data, run `python src/data-collection-and-preprocessing/enrich-blast-hits.py`. This will create the file `data/wzy/blast-full-genbank/1e-15/hits-enriched.tsv`.
 
 ## All-vs-all blast
 
