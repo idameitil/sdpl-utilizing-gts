@@ -14,6 +14,8 @@ This will create the file `data/wzy/wzy.tsv`
 ### Downloading CSDB images
 In order to download new CSDB images, run `python src/data-collection-and-preprocessing/download-csdb-images.py`
 
+Add to wzy_polymerases repo.
+
 ### Retrieving Wzxs, Wzzs and WaaLs
 To retrieve the Wzx, Wzz and Waal entries run `python src/data-collection-and-preprocessing/retrieve-wzx-wzz-and-waal.py`
 
