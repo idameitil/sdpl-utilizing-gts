@@ -87,6 +87,9 @@ To filter blast hits by length and perform redundancy reduction with cd-hit run:
 
 This will create the files `data/wzy/blast/unique-hits-min320max600.fasta` and `data/wzy/blast/unique-hits-min320max600-cdhit99.fasta`.
 
+## Phobius
+Phobius is run at `https://phobius.sbc.su.se/`. The results are downloaded with "Save page as", "Web Page, complete" and saved in `data/wzy/phobius`.
+
 ## All-vs-all blast
 
 Locally run `sh src/all-vs-all-blast/all-vs-all.sh`
