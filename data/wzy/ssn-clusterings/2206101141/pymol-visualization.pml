@@ -5,7 +5,7 @@ select chain_L, chain L
 select chain_B, chain B
 hide cartoon, chain_H
 hide cartoon, chain_L
-color teal, chain_B
+color grey, chain_B
 select "arg_7tpg", resi 242 and chain_B or resi 265 and chain_B or resi 191 and chain_B or resi 139 and chain_B
 show licorice, arg_7tpg
 color atomic, arg_7tpg
@@ -14,7 +14,7 @@ set_view (     0.129056588,   -0.914879322,   -0.382540226,    -0.931019366,    
 
 
 load data/wzy/alphafold/ACH50550.1/ranked_0.pdb, 8_ACH50550.1
-color silver, 8_ACH50550.1
+color teal, 8_ACH50550.1
 cealign 7tpg, 8_ACH50550.1
 
 label n. CA and resi 89 and 8_ACH50550.1, "%s-%s" % (resn, resi)
@@ -40,7 +40,7 @@ color atomic, cons_ACH50550.1
 
 
 load data/wzy/alphafold/CAI33309.1/ranked_0.pdb, 3_CAI33309.1
-color silver, 3_CAI33309.1
+color teal, 3_CAI33309.1
 cealign 7tpg, 3_CAI33309.1
 
 label n. CA and resi 150 and 3_CAI33309.1, "%s-%s" % (resn, resi)
@@ -53,8 +53,8 @@ color atomic, cons_CAI33309.1
 
 
 load data/wzy/alphafold/CAI34369.1/ranked_0.pdb, 3_CAI34369.1
-color silver, 3_CAI34369.1
-cealign 7tpg, 3_CAI34369.1
+color orange, 3_CAI34369.1
+cealign 3_CAI33309.1, 3_CAI34369.1
 
 label n. CA and resi 151 and 3_CAI34369.1, "%s-%s" % (resn, resi)
 label n. CA and resi 268 and 3_CAI34369.1, "%s-%s" % (resn, resi)
@@ -66,7 +66,7 @@ color atomic, cons_CAI34369.1
 
 
 load data/wzy/alphafold/ADC54967.1/ranked_0.pdb, 32_ADC54967.1
-color silver, 32_ADC54967.1
+color teal, 32_ADC54967.1
 cealign 7tpg, 32_ADC54967.1
 
 label n. CA and resi 50 and 32_ADC54967.1, "%s-%s" % (resn, resi)
@@ -81,7 +81,7 @@ color atomic, cons_ADC54967.1
 
 
 load data/wzy/alphafold/CDF66396.1/ranked_0.pdb, 15_CDF66396.1
-color silver, 15_CDF66396.1
+color teal, 15_CDF66396.1
 cealign 7tpg, 15_CDF66396.1
 
 label n. CA and resi 168 and 15_CDF66396.1, "%s-%s" % (resn, resi)
@@ -97,7 +97,7 @@ color atomic, cons_CDF66396.1
 
 
 load data/wzy/alphafold/AHB32215.1/ranked_0.pdb, 9_AHB32215.1
-color silver, 9_AHB32215.1
+color teal, 9_AHB32215.1
 cealign 7tpg, 9_AHB32215.1
 
 label n. CA and resi 43 and 9_AHB32215.1, "%s-%s" % (resn, resi)
@@ -117,8 +117,8 @@ color atomic, cons_AHB32215.1
 
 
 load data/wzy/alphafold/AHB32861.1/ranked_0.pdb, 9_AHB32861.1
-color silver, 9_AHB32861.1
-cealign 7tpg, 9_AHB32861.1
+color orange, 9_AHB32861.1
+cealign 9_AHB32215.1, 9_AHB32861.1
 
 label n. CA and resi 42 and 9_AHB32861.1, "%s-%s" % (resn, resi)
 label n. CA and resi 48 and 9_AHB32861.1, "%s-%s" % (resn, resi)
@@ -137,7 +137,7 @@ color atomic, cons_AHB32861.1
 
 
 load data/wzy/alphafold/CAI34124.1/ranked_0.pdb, 11_CAI34124.1
-color silver, 11_CAI34124.1
+color teal, 11_CAI34124.1
 cealign 7tpg, 11_CAI34124.1
 
 label n. CA and resi 267 and 11_CAI34124.1, "%s-%s" % (resn, resi)
@@ -150,7 +150,7 @@ color atomic, cons_CAI34124.1
 
 
 load data/wzy/alphafold/AHB32411.1/ranked_0.pdb, 29_AHB32411.1
-color silver, 29_AHB32411.1
+color teal, 29_AHB32411.1
 cealign 7tpg, 29_AHB32411.1
 
 label n. CA and resi 162 and 29_AHB32411.1, "%s-%s" % (resn, resi)
@@ -165,7 +165,7 @@ color atomic, cons_AHB32411.1
 
 
 load data/wzy/alphafold/AAT77177.1/ranked_0.pdb, 50_AAT77177.1
-color silver, 50_AAT77177.1
+color teal, 50_AAT77177.1
 cealign 7tpg, 50_AAT77177.1
 
 label n. CA and resi 165 and 50_AAT77177.1, "%s-%s" % (resn, resi)
@@ -179,7 +179,7 @@ color atomic, cons_AAT77177.1
 
 
 load data/wzy/alphafold/BAQ00795.1/ranked_0.pdb, 33_BAQ00795.1
-color silver, 33_BAQ00795.1
+color teal, 33_BAQ00795.1
 cealign 7tpg, 33_BAQ00795.1
 
 label n. CA and resi 30 and 33_BAQ00795.1, "%s-%s" % (resn, resi)
@@ -221,7 +221,7 @@ color atomic, cons_BAQ00795.1
 
 
 load data/wzy/alphafold/CAI34254.1/ranked_0.pdb, 39_CAI34254.1
-color silver, 39_CAI34254.1
+color teal, 39_CAI34254.1
 cealign 7tpg, 39_CAI34254.1
 
 label n. CA and resi 182 and 39_CAI34254.1, "%s-%s" % (resn, resi)
@@ -235,8 +235,8 @@ color atomic, cons_CAI34254.1
 
 
 load data/wzy/alphafold/CAI34198.1/ranked_0.pdb, 39_CAI34198.1
-color silver, 39_CAI34198.1
-cealign 7tpg, 39_CAI34198.1
+color orange, 39_CAI34198.1
+cealign 39_CAI34254.1, 39_CAI34198.1
 
 label n. CA and resi 182 and 39_CAI34198.1, "%s-%s" % (resn, resi)
 label n. CA and resi 183 and 39_CAI34198.1, "%s-%s" % (resn, resi)
@@ -249,8 +249,8 @@ color atomic, cons_CAI34198.1
 
 
 load data/wzy/alphafold/CAI34217.1/ranked_0.pdb, 39_CAI34217.1
-color silver, 39_CAI34217.1
-cealign 7tpg, 39_CAI34217.1
+color green, 39_CAI34217.1
+cealign 39_CAI34254.1, 39_CAI34217.1
 
 label n. CA and resi 186 and 39_CAI34217.1, "%s-%s" % (resn, resi)
 label n. CA and resi 187 and 39_CAI34217.1, "%s-%s" % (resn, resi)
@@ -263,7 +263,7 @@ color atomic, cons_CAI34217.1
 
 
 load data/wzy/alphafold/BAQ02088.1/ranked_0.pdb, 2_BAQ02088.1
-color silver, 2_BAQ02088.1
+color teal, 2_BAQ02088.1
 cealign 7tpg, 2_BAQ02088.1
 
 label n. CA and resi 139 and 2_BAQ02088.1, "%s-%s" % (resn, resi)
@@ -279,8 +279,8 @@ color atomic, cons_BAQ02088.1
 
 
 load data/wzy/alphafold/ACA24754.1/ranked_0.pdb, 2_ACA24754.1
-color silver, 2_ACA24754.1
-cealign 7tpg, 2_ACA24754.1
+color orange, 2_ACA24754.1
+cealign 2_BAQ02088.1, 2_ACA24754.1
 
 label n. CA and resi 124 and 2_ACA24754.1, "%s-%s" % (resn, resi)
 label n. CA and resi 162 and 2_ACA24754.1, "%s-%s" % (resn, resi)
@@ -294,7 +294,7 @@ color atomic, cons_ACA24754.1
 
 
 load data/wzy/alphafold/WP_097449287.1/ranked_0.pdb, 1_WP_097449287.1
-color silver, 1_WP_097449287.1
+color teal, 1_WP_097449287.1
 cealign 7tpg, 1_WP_097449287.1
 
 label n. CA and resi 44 and 1_WP_097449287.1, "%s-%s" % (resn, resi)
@@ -312,7 +312,7 @@ color atomic, cons_WP_097449287.1
 
 
 load data/wzy/alphafold/AHB32490.1/ranked_0.pdb, 44_AHB32490.1
-color silver, 44_AHB32490.1
+color teal, 44_AHB32490.1
 cealign 7tpg, 44_AHB32490.1
 
 label n. CA and resi 175 and 44_AHB32490.1, "%s-%s" % (resn, resi)
@@ -325,7 +325,7 @@ color atomic, cons_AHB32490.1
 
 
 load data/wzy/alphafold/ADI43263.1/ranked_0.pdb, 37_ADI43263.1
-color silver, 37_ADI43263.1
+color teal, 37_ADI43263.1
 cealign 7tpg, 37_ADI43263.1
 
 label n. CA and resi 158 and 37_ADI43263.1, "%s-%s" % (resn, resi)
@@ -344,8 +344,8 @@ color atomic, cons_ADI43263.1
 
 
 load data/wzy/alphafold/ADR74237.1/ranked_0.pdb, 37_ADR74237.1
-color silver, 37_ADR74237.1
-cealign 7tpg, 37_ADR74237.1
+color orange, 37_ADR74237.1
+cealign 37_ADI43263.1, 37_ADR74237.1
 
 label n. CA and resi 162 and 37_ADR74237.1, "%s-%s" % (resn, resi)
 label n. CA and resi 164 and 37_ADR74237.1, "%s-%s" % (resn, resi)
@@ -363,7 +363,7 @@ color atomic, cons_ADR74237.1
 
 
 load data/wzy/alphafold/AAM27615.1/ranked_0.pdb, 67_AAM27615.1
-color silver, 67_AAM27615.1
+color teal, 67_AAM27615.1
 cealign 7tpg, 67_AAM27615.1
 
 label n. CA and resi 187 and 67_AAM27615.1, "%s-%s" % (resn, resi)
@@ -380,7 +380,7 @@ color atomic, cons_AAM27615.1
 
 
 load data/wzy/alphafold/ADC54950.1/ranked_0.pdb, 27_ADC54950.1
-color silver, 27_ADC54950.1
+color teal, 27_ADC54950.1
 cealign 7tpg, 27_ADC54950.1
 
 label n. CA and resi 133 and 27_ADC54950.1, "%s-%s" % (resn, resi)
@@ -397,7 +397,7 @@ color atomic, cons_ADC54950.1
 
 
 load data/wzy/alphafold/ABG81806.1/ranked_0.pdb, 68_ABG81806.1
-color silver, 68_ABG81806.1
+color teal, 68_ABG81806.1
 cealign 7tpg, 68_ABG81806.1
 
 label n. CA and resi 138 and 68_ABG81806.1, "%s-%s" % (resn, resi)
@@ -414,8 +414,8 @@ color atomic, cons_ABG81806.1
 
 
 load data/wzy/alphafold/AFC91472.1/ranked_0.pdb, 68_AFC91472.1
-color silver, 68_AFC91472.1
-cealign 7tpg, 68_AFC91472.1
+color orange, 68_AFC91472.1
+cealign 68_ABG81806.1, 68_AFC91472.1
 
 label n. CA and resi 126 and 68_AFC91472.1, "%s-%s" % (resn, resi)
 label n. CA and resi 152 and 68_AFC91472.1, "%s-%s" % (resn, resi)
@@ -431,8 +431,8 @@ color atomic, cons_AFC91472.1
 
 
 load data/wzy/alphafold/BAQ02224.1/ranked_0.pdb, 68_BAQ02224.1
-color silver, 68_BAQ02224.1
-cealign 7tpg, 68_BAQ02224.1
+color green, 68_BAQ02224.1
+cealign 68_ABG81806.1, 68_BAQ02224.1
 
 label n. CA and resi 138 and 68_BAQ02224.1, "%s-%s" % (resn, resi)
 label n. CA and resi 167 and 68_BAQ02224.1, "%s-%s" % (resn, resi)
@@ -448,7 +448,7 @@ color atomic, cons_BAQ02224.1
 
 
 load data/wzy/alphafold/AHB32538.1/ranked_0.pdb, 12_AHB32538.1
-color silver, 12_AHB32538.1
+color teal, 12_AHB32538.1
 cealign 7tpg, 12_AHB32538.1
 
 label n. CA and resi 141 and 12_AHB32538.1, "%s-%s" % (resn, resi)
@@ -470,8 +470,8 @@ color atomic, cons_AHB32538.1
 
 
 load data/wzy/alphafold/ACD37014.1/ranked_0.pdb, 12_ACD37014.1
-color silver, 12_ACD37014.1
-cealign 7tpg, 12_ACD37014.1
+color orange, 12_ACD37014.1
+cealign 12_AHB32538.1, 12_ACD37014.1
 
 label n. CA and resi 123 and 12_ACD37014.1, "%s-%s" % (resn, resi)
 label n. CA and resi 149 and 12_ACD37014.1, "%s-%s" % (resn, resi)
@@ -492,8 +492,8 @@ color atomic, cons_ACD37014.1
 
 
 load data/wzy/alphafold/ACD37157.1/ranked_0.pdb, 12_ACD37157.1
-color silver, 12_ACD37157.1
-cealign 7tpg, 12_ACD37157.1
+color green, 12_ACD37157.1
+cealign 12_AHB32538.1, 12_ACD37157.1
 
 label n. CA and resi 137 and 12_ACD37157.1, "%s-%s" % (resn, resi)
 label n. CA and resi 152 and 12_ACD37157.1, "%s-%s" % (resn, resi)
@@ -514,7 +514,7 @@ color atomic, cons_ACD37157.1
 
 
 load data/wzy/alphafold/ACA24821.1/ranked_0.pdb, 56_ACA24821.1
-color silver, 56_ACA24821.1
+color teal, 56_ACA24821.1
 cealign 7tpg, 56_ACA24821.1
 
 label n. CA and resi 48 and 56_ACA24821.1, "%s-%s" % (resn, resi)
@@ -533,7 +533,7 @@ color atomic, cons_ACA24821.1
 
 
 load data/wzy/alphafold/ACH97162.1/ranked_0.pdb, 36_ACH97162.1
-color silver, 36_ACH97162.1
+color teal, 36_ACH97162.1
 cealign 7tpg, 36_ACH97162.1
 
 label n. CA and resi 45 and 36_ACH97162.1, "%s-%s" % (resn, resi)
@@ -554,7 +554,7 @@ color atomic, cons_ACH97162.1
 
 
 load data/wzy/alphafold/BAQ00994.1/ranked_0.pdb, 21_BAQ00994.1
-color silver, 21_BAQ00994.1
+color teal, 21_BAQ00994.1
 cealign 7tpg, 21_BAQ00994.1
 
 label n. CA and resi 134 and 21_BAQ00994.1, "%s-%s" % (resn, resi)
@@ -576,8 +576,8 @@ color atomic, cons_BAQ00994.1
 
 
 load data/wzy/alphafold/BAQ01917.1/ranked_0.pdb, 21_BAQ01917.1
-color silver, 21_BAQ01917.1
-cealign 7tpg, 21_BAQ01917.1
+color orange, 21_BAQ01917.1
+cealign 21_BAQ00994.1, 21_BAQ01917.1
 
 label n. CA and resi 131 and 21_BAQ01917.1, "%s-%s" % (resn, resi)
 label n. CA and resi 143 and 21_BAQ01917.1, "%s-%s" % (resn, resi)
@@ -598,7 +598,7 @@ color atomic, cons_BAQ01917.1
 
 
 load data/wzy/alphafold/AHB32687.1/ranked_0.pdb, 75_AHB32687.1
-color silver, 75_AHB32687.1
+color teal, 75_AHB32687.1
 cealign 7tpg, 75_AHB32687.1
 
 label n. CA and resi 32 and 75_AHB32687.1, "%s-%s" % (resn, resi)
@@ -618,8 +618,8 @@ color atomic, cons_AHB32687.1
 
 
 load data/wzy/alphafold/BAQ01743.1/ranked_0.pdb, 75_BAQ01743.1
-color silver, 75_BAQ01743.1
-cealign 7tpg, 75_BAQ01743.1
+color orange, 75_BAQ01743.1
+cealign 75_AHB32687.1, 75_BAQ01743.1
 
 label n. CA and resi 32 and 75_BAQ01743.1, "%s-%s" % (resn, resi)
 label n. CA and resi 55 and 75_BAQ01743.1, "%s-%s" % (resn, resi)
@@ -638,8 +638,8 @@ color atomic, cons_BAQ01743.1
 
 
 load data/wzy/alphafold/ABI55342.1/ranked_0.pdb, 75_ABI55342.1
-color silver, 75_ABI55342.1
-cealign 7tpg, 75_ABI55342.1
+color green, 75_ABI55342.1
+cealign 75_AHB32687.1, 75_ABI55342.1
 
 label n. CA and resi 34 and 75_ABI55342.1, "%s-%s" % (resn, resi)
 label n. CA and resi 58 and 75_ABI55342.1, "%s-%s" % (resn, resi)

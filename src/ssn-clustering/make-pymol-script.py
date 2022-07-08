@@ -14,7 +14,7 @@ select chain_L, chain L
 select chain_B, chain B
 hide cartoon, chain_H
 hide cartoon, chain_L
-color teal, chain_B
+color grey, chain_B
 select "arg_7tpg", resi 242 and chain_B or resi 265 and chain_B or resi 191 and chain_B or resi 139 and chain_B
 show licorice, arg_7tpg
 color atomic, arg_7tpg
@@ -30,8 +30,8 @@ set_view (\
 
 load_model_string = f"""
 load PDB, CLUSTER_ACC
-color silver, CLUSTER_ACC
-cealign 7tpg, CLUSTER_ACC\n
+color COLOR, CLUSTER_ACC
+cealign ALIGN, CLUSTER_ACC\n
 """
 
 show_conserved_residues_string = f"""show licorice, cons_ACC
@@ -40,15 +40,25 @@ color atomic, cons_ACC\n
 
 banned_AF_models = ["EHX11459.1"]
 
+colors = ['teal', 'orange', 'green', 'br6']
+
 script = load_ligase_string
 for cluster in clusters:
     if cluster['size'] < 50:
         continue
+    number = 0
     for acc in cluster['alphafold_models']:
         model_path = cluster['alphafold_models'][acc]['filepath']
         if acc in banned_AF_models:
             continue
-        script += load_model_string.replace("ACC", acc).replace("PDB", model_path).replace("CLUSTER", cluster['name'])
+        if number == 0:
+            first_model_name = f"{cluster['name']}_{acc}"
+            first_model = False
+            script += load_model_string.replace("ACC", acc).replace("PDB", model_path).replace("CLUSTER", cluster['name'])\
+                .replace("ALIGN", "7tpg").replace('COLOR', colors[number])
+        else:
+            script += load_model_string.replace("ACC", acc).replace("PDB", model_path).replace("CLUSTER", cluster['name'])\
+                .replace("ALIGN", first_model_name).replace('COLOR', colors[number])
         positions = cluster['conserved_positions_af_models'][acc]
         for position in positions:
             script += f'label n. CA and resi {position} and {cluster["name"]}_{acc}, "%s-%s" % (resn, resi)\n'
@@ -57,6 +67,7 @@ for cluster in clusters:
             temp_string += f"resi {position} and {cluster['name']}_{acc} or "
         script += temp_string[:-4] + '\n'
         script += show_conserved_residues_string.replace("ACC", acc).replace("CLUSTER", cluster['name']) + '\n'
+        number += 1
 script += "set label_position,(1,1,1)\n"
 script += "set label_color,black\n"
 script += "center \n"
