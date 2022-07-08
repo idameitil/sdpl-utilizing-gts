@@ -36,6 +36,7 @@ with open(f"{resultsdir}/report.md", "w") as outfile:
         outfile.write(f"Total number of members in cluster: {cluster['size']}\n\n")
         outfile.write(f"Average length of proteins in cluster: {cluster['average_length']}\n\n")
         outfile.write(f"#### Conserved (non-aliphatic) residues:\n\n{cluster['conserved_residues_string']}\n\n")
+        outfile.write(f"#### Number of TMs:\n\n{cluster['TM_count_string']}\n\n")
         outfile.write(f"#### Seeds in cluster:\n\n{cluster['seeds_table'].to_markdown(index=False)}\n\n")
         outfile.write(f"[MSA fasta]({cluster['afa_url']})\n\n")
         outfile.write(f"[Malign view]({cluster['malign_url']})\n\n")

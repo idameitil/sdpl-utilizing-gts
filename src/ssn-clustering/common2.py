@@ -4,9 +4,8 @@ from Bio import SeqIO
 import numpy as np
 from scipy import stats
 
-wzy_seeds_filename = 'data/wzy/wzy.tsv'
-wzy_hits_filename = 'data/wzy/blast/unique-hits-enriched.tsv'
 wzy_seeds_and_hits_filename = 'data/wzy/seeds-and-hits.tsv'
+phobius_filename = 'data/wzy/phobius/2112081041/Phobius prediction.txt'
 csdb_images_folder = '../../../csdb/images/'
 github_url = 'https://github.com/idameitil/phd/tree/master'
 
@@ -82,9 +81,27 @@ def get_sugar_image(sugar_id):
 def filename_to_url(filename):
     return f"{github_url}/{filename}"
 
+def read_phobius(phobius_filename):
+    TM_counts = {}
+    with open(phobius_filename, 'r') as file:
+        flag = False
+        for line in file:
+            if line.strip().startswith('Prediction of'):
+                accession = line.strip().split()[2]
+                TM_count = 0
+                flag = True
+            if line.strip() == '//':
+                TM_counts[accession] = TM_count
+                flag = False
+            if flag and line.strip() != '':
+                if line.split()[1] == 'TRANSMEM':
+                    TM_count += 1
+    return TM_counts
+
 class SSNClusterData:
 
     seeds_and_hits_df = pd.read_csv(wzy_seeds_and_hits_filename, sep='\t', dtype=object)
+    TM_counts = read_phobius(phobius_filename)
 
     def __init__(self, ssn_clustering_id):
         self.ssn_clustering_id = ssn_clustering_id
@@ -338,6 +355,9 @@ class SSNClusterData:
 
     def get_github_cluster_url(self, cluster_name):
         return f"{github_url}/{self.results_dir_top()}/report.md#cluster-{cluster_name}"
+
+    def get_TM_count_string(self, accessions):
+        return ', '.join([f"{accession}: {self.TM_counts[accession]}" for accession in accessions if accession in self.TM_counts])
         
     def load_cluster_data(self, cluster_id):
         [size, name] = cluster_id.split('_')
@@ -373,6 +393,8 @@ class SSNClusterData:
 
         average_length = self.get_average_length(accessions)
 
+        TM_count_string = self.get_TM_count_string(accessions)
+
         return {
             'name': name,
             'size': size,
@@ -393,5 +415,6 @@ class SSNClusterData:
             'alphafold_models': alphafold_models,
             'taxonomy_table': taxonomy_table,
             'accessions': accessions,
-            'average_length': average_length
+            'average_length': average_length,
+            'TM_count_string': TM_count_string
         }
