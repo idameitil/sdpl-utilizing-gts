@@ -34,7 +34,7 @@
             {% for cluster in cluster_chunks %}
             {% set cluster_name = cluster.name %}
             {% set members_in_cluster = cluster.size %}
-            {% set conserved_residues = cluster.conserved_residues %}
+            {% set conserved_residues = cluster.conserved_residues_string %}
             {% set sugars_seeds = cluster.sugar_images_seeds %}
             {% set sugars_blast = cluster.sugar_images_blast %}
             {% set github_cluster_url = cluster.github_cluster_url %}

@@ -5,7 +5,7 @@ import numpy as np
 from scipy import stats
 
 wzy_seeds_filename = 'data/wzy/wzy.tsv'
-wzy_hits_filename = 'data/wzy/blast-full-genbank/1e-15/hits-enriched.tsv'
+wzy_hits_filename = 'data/wzy/blast/unique-hits-enriched.tsv'
 wzy_seeds_and_hits_filename = 'data/wzy/seeds-and-hits.tsv'
 csdb_images_folder = '../../../csdb/images/'
 github_url = 'https://github.com/idameitil/phd/tree/master'
@@ -25,9 +25,15 @@ def number_to_AA(number):
 AA_to_number_vectorized = np.vectorize(AA_to_number)
 number_to_AA_vectorized = np.vectorize(number_to_AA)
 
-def get_conserved_residues(proteins):
+def read_MSA_file(MSA_filename):
+    with open(MSA_filename, 'r') as MSA_file:
+        proteins = SeqIO.parse(MSA_file, 'fasta')
+        fasta_dict = {protein.id: protein.seq for protein in proteins}
+    return fasta_dict
+
+def get_conserved_residues(fasta_dict):
     AAs_ignore = ['-', 'G', 'A', 'V', 'C', 'P', 'L', 'I', 'M', 'W', 'F']
-    sequences = np.array([np.array(list(protein.seq)) for protein in proteins])
+    sequences = np.array([np.array(list(fasta_dict[acc])) for acc in fasta_dict])
     no_sequences = sequences.shape[0]
     sequences_numerical = AA_to_number_vectorized(sequences)
     mode = stats.mode(sequences_numerical)
@@ -36,12 +42,34 @@ def get_conserved_residues(proteins):
     condition = (frequencies > 0.97) & (np.isin(mode_AAs, AAs_ignore, invert=True))
     conserved_AAs = mode_AAs[condition]
     conserved_positions = list(np.where(condition)[0])
-    return conserved_AAs, conserved_positions
+    return {pos: AA for pos, AA in zip(conserved_positions, conserved_AAs)}
 
-def get_conserved_residues_string(file):
-    proteins = SeqIO.parse(file, 'fasta')
-    conserved_AAs, conserved_positions = get_conserved_residues(proteins)
-    residue_string = ', '.join([f"{AA} {position}" for AA, position in zip(conserved_AAs, conserved_positions)])
+def get_specific_positions_conserved_residues(accession, conserved_residues, fasta_dict):
+    """Gets positions of conserved residues in a specific protein"""
+    seq = fasta_dict[accession]
+    protein_position = 0
+    positions = []
+    alignment_position = 0
+    for AA in seq:
+        if AA != '-':
+            protein_position += 1
+        if alignment_position in conserved_residues:
+            if AA == conserved_residues[alignment_position][0]:
+                positions.append(protein_position)
+            else:
+                pass
+                # print(f"Warning: {accession} doesn't have the conserved residue {alignment_position} {conserved_residues[alignment_position][0]}")
+        alignment_position += 1
+    return positions
+
+def get_conserved_positions_af_models(alphafold_models, conserved_residues, fasta_dict):
+    conserved_positions_alphafold_models = {}
+    for accession in alphafold_models:
+        conserved_positions_alphafold_models[accession] = get_specific_positions_conserved_residues(accession, conserved_residues, fasta_dict)
+    return conserved_positions_alphafold_models
+
+def get_conserved_residues_string(conserved_residues):
+    residue_string = ', '.join([f"{conserved_residues[position]} {position}" for position in conserved_residues])
     return residue_string
 
 def is_accession_in_sugar_db(accessions_df, accession):
@@ -56,21 +84,25 @@ def filename_to_url(filename):
 
 class SSNClusterData:
 
-    seeds_df = pd.read_csv(wzy_seeds_filename, sep='\t', dtype=object)
-    hits_df = pd.read_csv(wzy_hits_filename, sep='\t', dtype=object)
     seeds_and_hits_df = pd.read_csv(wzy_seeds_and_hits_filename, sep='\t', dtype=object)
 
     def __init__(self, ssn_clustering_id):
         self.ssn_clustering_id = ssn_clustering_id
+
+        self.seed_accessions = self.load_seed_accessions()
+        self.load_included_accessions()
+
         self.clusters = []
         self.cluster_table_url = filename_to_url(self.cluster_table_filename())
 
         self.load_metadata()
         self.load_info()
         self.load_cluster_dict()
-        self.load_included_accessions()
         self.load_taxons_before_after_table()
         self.load_clusters()
+
+    def load_seed_accessions(self):
+        return list(self.seeds_and_hits_df[self.seeds_and_hits_df.seed == '1']['protein_accession'])
 
     def results_dir_top(self):
         return f"data/wzy/ssn-clusterings/{self.ssn_clustering_id}"
@@ -142,7 +174,7 @@ class SSNClusterData:
         self.cluster_dict = cluster_dict
 
     def get_count_taxons_before(self, rank):
-        return len(self.seeds_df.loc[self.seeds_df.protein_accession.isin(self.included_accessions), rank].unique())
+        return len(self.seeds_and_hits_df.loc[self.seeds_and_hits_df.protein_accession.isin(self.seed_accessions), rank].unique())
 
     def get_count_taxons_after(self, rank):
         return len(self.seeds_and_hits_df.loc[self.seeds_and_hits_df.protein_accession.isin(self.included_accessions), rank].unique())
@@ -162,7 +194,7 @@ class SSNClusterData:
             for fasta_line in fasta_file:
                 if fasta_line.startswith('>'):
                     acc = fasta_line.strip()[1:]
-                    if acc in list(self.seeds_df.protein_accession):
+                    if acc in self.seed_accessions:
                         seed_accessions.append(acc)
                     else:
                         hit_accessions.append(acc)
@@ -175,22 +207,19 @@ class SSNClusterData:
         self.clusters = map(lambda cluster_id: self.load_cluster_data(cluster_id), cluster_filenames)
 
     def get_sugar_id(self, accession):
-        search_results = self.seeds_df.loc[self.seeds_df.protein_accession == accession, 'CSDB_record_ID']
-        if search_results.size != 0:
-            return search_results.item()
-        search_results = self.hits_df.loc[self.hits_df.protein_accession == accession, 'CSDB_record_ID_y']
+        search_results = self.seeds_and_hits_df.loc[self.seeds_and_hits_df.protein_accession == accession, 'CSDB_record_ID']
         if search_results.size != 0:
             return search_results.item()
         return None
 
     def get_alphafold_models(self, accessions):
         rows_alphafold = self.seeds_and_hits_df.loc[(self.seeds_and_hits_df.protein_accession.isin(accessions))
-                                           & (self.seeds_and_hits_df.alphafold_bool == 'True')]
+                                           & (self.seeds_and_hits_df.alphafold_bool == '1')]
         alphafold_models = {}
         for index, row in rows_alphafold.iterrows():
             acc = row.protein_accession
             af_model_url = f"{github_url}/{row.alphafold_path}"
-            alphafold_models[acc] = af_model_url
+            alphafold_models[acc] = {'filepath': row.alphafold_path, 'url': af_model_url}
         return alphafold_models
 
     def get_taxonomy_table(self, accessions):
@@ -270,10 +299,7 @@ class SSNClusterData:
         for accession in accessions:
             sugar_id = self.get_sugar_id(accession)
             if not_pd_null(sugar_id):
-                if accession in seed_accessions:
-                    serotype = self.seeds_df.loc[self.seeds_df['protein_accession'] == accession]['serotype'].item()
-                else:
-                    serotype = self.hits_df.loc[self.hits_df['protein_accession'] == accession]['serotype_x'].item()
+                serotype = self.seeds_and_hits_df.loc[self.seeds_and_hits_df['protein_accession'] == accession]['serotype'].item()
                 species = self.seeds_and_hits_df.loc[self.seeds_and_hits_df['protein_accession'] == accession]['species'].item()
                 if sugar_id in sugars2accessions:
                     sugars2accessions[sugar_id].append({'accession': accession, 'species': species, 'serotype': serotype})
@@ -316,13 +342,19 @@ class SSNClusterData:
     def load_cluster_data(self, cluster_id):
         [size, name] = cluster_id.split('_')
         size = int(size)
-        with open(self.MSA_filename(cluster_id), 'r') as MSA_file:
-            conserved_residues_string = get_conserved_residues_string(MSA_file)
+
         seed_accessions, hit_accessions = self.read_split_fasta_seeds_hits(self.fasta_filename(cluster_id))
         accessions = []
         accessions.extend(seed_accessions)
         accessions.extend(hit_accessions)
         accessions = list(set(accessions))
+
+        alphafold_models = self.get_alphafold_models(accessions)
+        fasta_dict = read_MSA_file(self.MSA_filename(cluster_id))
+
+        conserved_residues = get_conserved_residues(fasta_dict)
+        conserved_positions_af_models = get_conserved_positions_af_models(alphafold_models, conserved_residues, fasta_dict)
+        conserved_residues_string = get_conserved_residues_string(conserved_residues)
 
         seeds_table = self.get_seeds_table(seed_accessions)
         github_cluster_url = self.get_github_cluster_url(name)
@@ -337,7 +369,6 @@ class SSNClusterData:
         enriched_sugars = self.enrich_sugars(seed_accessions, sugars2accessions)
         sugar_images_seeds = self.sugar_images_seeds(enriched_sugars)
         sugar_images_blast = self.sugar_images_blast(enriched_sugars)
-        alphafold_models = self.get_alphafold_models(accessions)
         taxonomy_table = self.get_taxonomy_table(accessions)
 
         average_length = self.get_average_length(accessions)
@@ -345,7 +376,9 @@ class SSNClusterData:
         return {
             'name': name,
             'size': size,
-            'conserved_residues': conserved_residues_string,
+            'conserved_residues_string': conserved_residues_string,
+            'conserved_residues': conserved_residues,
+            'conserved_positions_af_models': conserved_positions_af_models,
             'seeds_table': seeds_table,
             'github_cluster_url': github_cluster_url,
             'afa_url': MSA_url,

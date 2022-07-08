@@ -35,7 +35,7 @@ with open(f"{resultsdir}/report.md", "w") as outfile:
         outfile.write(f"### Cluster {cluster['name']}\n\n")
         outfile.write(f"Total number of members in cluster: {cluster['size']}\n\n")
         outfile.write(f"Average length of proteins in cluster: {cluster['average_length']}\n\n")
-        outfile.write(f"#### Conserved (non-aliphatic) residues:\n\n{cluster['conserved_residues']}\n\n")
+        outfile.write(f"#### Conserved (non-aliphatic) residues:\n\n{cluster['conserved_residues_string']}\n\n")
         outfile.write(f"#### Seeds in cluster:\n\n{cluster['seeds_table'].to_markdown(index=False)}\n\n")
         outfile.write(f"[MSA fasta]({cluster['afa_url']})\n\n")
         outfile.write(f"[Malign view]({cluster['malign_url']})\n\n")
@@ -63,7 +63,7 @@ with open(f"{resultsdir}/report.md", "w") as outfile:
             outfile.write("None\n\n")
         outfile.write("#### Alphafold models:\n\n")
         for acc in cluster['alphafold_models']:
-            outfile.write(f"[{acc}]({cluster['alphafold_models'][acc]})\n\n")
+            outfile.write(f"[{acc}]({cluster['alphafold_models'][acc]['url']})\n\n")
         if len(cluster['alphafold_models']) == 0:
             outfile.write("None\n\n")
         outfile.write(f"#### Taxonomy:\n\n{cluster['taxonomy_table'].to_markdown(index=False)}\n\n")
