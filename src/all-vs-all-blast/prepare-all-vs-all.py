@@ -14,8 +14,8 @@ for line in unique_hits_file:
     if line.startswith('>'):
         accessions_hits.add(line.split(' ')[0][1:])
         
-shutil.copy(f'{work_dir}/unique-hits-short-headers.fasta', f'{work_dir}/seeds-and-unique-hits.fasta')
-seeds_and_unique_hits_file = open(f'{work_dir}/seeds-and-unique-hits.fasta', 'a')
+shutil.copy(f'{work_dir}/unique-hits-short-headers.fasta', f'{work_dir}/db/seeds-and-unique-hits.fasta')
+seeds_and_unique_hits_file = open(f'{work_dir}/db/seeds-and-unique-hits.fasta', 'a')
 seed_fasta = open(f'{work_dir}/wzy.fasta')
 for line in seed_fasta:
     if line.startswith('>'):
@@ -31,13 +31,13 @@ for line in seed_fasta:
 seeds_and_unique_hits_file.close()
 
 # Make blastdb
-command = f"$BLASTDB/../current/bin/makeblastdb -in {work_dir}/seeds-and-unique-hits.fasta -dbtype prot -parse_seqids"
+command = f"$BLASTDB/../current/bin/makeblastdb -in {work_dir}/db/seeds-and-unique-hits.fasta -dbtype prot -parse_seqids"
 s = os.system(command)
 if s != 0:
     raise Exception(f'Failure in os.system {command}.')
 
 # Chunkfastas
-command = f"chunkfasta -c {chunk_number} -f {work_dir}/chunk%03d.fa {work_dir}/seeds-and-unique-hits.fasta > {work_dir}/chunkfasta.out"
+command = f"chunkfasta -c {chunk_number} -f {work_dir}/chunk%03d.fa {work_dir}/db/seeds-and-unique-hits.fasta > {work_dir}/chunkfasta.out"
 s = os.system(command)
 if s != 0:
     raise Exception(f'Failure in os.system {command}.')
@@ -76,7 +76,7 @@ jobscript = f"""#! /bin/sh
 #BSUB -e {work_dir}/run/CHUNK/jobscript.err
 # here follow the commands you want to execute 
 export BLASTDB=/work3/garryg/blast/db
-$BLASTDB/../current/bin/blastp -db {work_dir}/seeds-and-unique-hits.fasta -query {work_dir}/run/CHUNK/sequences.fa -max_target_seqs 100000 -out {work_dir}/run/CHUNK/blast.out"""
+$BLASTDB/../current/bin/blastp -db {work_dir}/db/seeds-and-unique-hits.fasta -query {work_dir}/run/CHUNK/sequences.fa -max_target_seqs 100000 -out {work_dir}/run/CHUNK/blast.out"""
 
 submit_file = open(f"{work_dir}/submit.sh", 'w')
 for i in range(chunk_number):
