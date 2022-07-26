@@ -30,7 +30,7 @@ def read_MSA_file(MSA_filename):
         fasta_dict = {protein.id: protein.seq for protein in proteins}
     return fasta_dict
 
-def get_conserved_residues(fasta_dict):
+def get_conserved_residues(fasta_dict, threshold = 0.97):
     AAs_ignore = ['-', 'G', 'A', 'V', 'C', 'P', 'L', 'I', 'M', 'W', 'F']
     sequences = np.array([np.array(list(fasta_dict[acc])) for acc in fasta_dict])
     no_sequences = sequences.shape[0]
@@ -38,7 +38,7 @@ def get_conserved_residues(fasta_dict):
     mode = stats.mode(sequences_numerical)
     mode_AAs = number_to_AA_vectorized(mode[0][0])
     frequencies = mode[1][0] / no_sequences
-    condition = (frequencies > 0.97) & (np.isin(mode_AAs, AAs_ignore, invert=True))
+    condition = (frequencies > threshold) & (np.isin(mode_AAs, AAs_ignore, invert=True))
     conserved_AAs = mode_AAs[condition]
     conserved_positions = list(np.where(condition)[0])
     return {pos: AA for pos, AA in zip(conserved_positions, conserved_AAs)}
