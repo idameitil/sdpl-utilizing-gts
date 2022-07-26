@@ -19,7 +19,7 @@ Add to wzy_polymerases repo.
 ### Retrieving Wzxs, Wzzs and WaaLs
 To retrieve the Wzx, Wzz and Waal entries run `python src/data-collection-and-preprocessing/retrieve-wzx-wzz-and-waal.py`
 
-This will create the files `data/wzx/wzx.tsv`, `data/wzz/wzz.tsv` and `data/waal/waal.tsv`
+This will create the files `data/wzx/wzx.tsv`, `data/wzz/wzz.tsv` and `data/waal/waal.tsv` (add 7tpg to waal.tsv and waal.fasta)
 
 ### Making fasta files
 To generate fasta files run `python3 src/data-collection-and-preprocessing/make-fastas.py`
@@ -192,15 +192,20 @@ To generate fasta with short headers, run: `sed 's/ >.*$//' data/waal/blast/uniq
 ### Filter and redundancy reduce
 `python src/waal-analysis/filter-waal-blast-hits.py`
 
-`cd-hit -i data/waal/MSA/waal_hits_1e-15_filtered.fasta -o data/waal/MSA/waal_hits_1e-15_filtered-cdhit99.fasta -c 0.99`
+`cd-hit -i data/waal/blast/unique-hits-short-headers-1e-15-filtered.fasta -o data/waal/blast/unique-hits-short-headers-1e-15-filtered-cdhit99.fasta -c 0.99`
 
 ### Make MSA and logo
-`scp data/waal/MSA/waal_hits_1e-15_filtered-cdhit99.fasta idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/MSA/`
+`python src/waal-analysis/prepare-MSA-and-logo.py`
 
-To make the MSA, run on the HPC: `qrsh` and `muscle -super5 /work3/idamei/waal/MSA/waal_hits_1e-15_filtered-cdhit99.fasta -output /work3/idamei/waal/MSA/waal_hits_1e-15_filtered-cdhit99.afa`.
+`scp -r data/waal/MSA-logo idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/`
 
-To make the logo, run on the HPC: `python2 /work3/idamei/bin/seq2logo-2.1/Seq2Logo.py -f /work3/idamei/waal/MSA/waal_hits_1e-15_filtered-cdhit99.afa -m 0.0001 -b 0 -o /work3/idamei/waal/logo/waal_hits_1e-15_filtered-cdhit99.logo  -p 640x1000 -l 30  -I 1`.
+On the HPC, run `bsub < /work3/idamei/waal/MSA-logo/MSA-logo.sh`
 
-To download the results, run `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/logo data/waal` and `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/MSA/waal_hits_1e-15_filtered-cdhit99.afa data/waal/MSA`.
+To download the results, run `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/MSA-logo data/waal`.
 
-To convert the logo to pdf, run: `ps2pdf -dEPSCrop data/waal/logo/waal_hits_1e-15_filtered-cdhit99.logo.eps data/waal/logo/waal_hits_1e-15_filtered-cdhit99.logo.pdf`.
+To convert the logo to pdf, run: `ps2pdf -dEPSCrop data/waal/MSA-logo/seeds-and-hits.logo.eps data/waal/MSA-logo/seeds-and-hits.logo.pdf`.
+
+### Pymol visualization
+`python src/waal-analysis/make-pymol-script.py`
+
+`pymol src/waal-analysis/pymol-visualization.pml`
