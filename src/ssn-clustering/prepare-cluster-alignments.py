@@ -4,7 +4,7 @@ import pandas as pd
 
 timestamp = sys.argv[1]
 
-hpc_directory = f'/work3/idamei/ssn-clusterings/{timestamp}/clusters'
+hpc_directory = f'/work3/idamei/wzy/ssn-clusterings/{timestamp}/clusters'
 
 jobscript=f"""#! /bin/sh 
 ### General options 
