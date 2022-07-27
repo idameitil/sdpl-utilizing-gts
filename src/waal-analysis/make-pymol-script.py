@@ -3,15 +3,17 @@ sys.path.insert(0, 'src/ssn-clustering')
 import common2
 
 fasta_dict = common2.read_MSA_file("data/waal/MSA-logo/seeds-and-hits.afa")
-conserved_residues = common2.get_conserved_residues(fasta_dict, 0.9)
+conserved_residues = common2.get_conserved_residues(fasta_dict, 0.95)
 structure_name = 'WP_011517284.1'
 positions = common2.get_specific_positions_conserved_residues(structure_name, conserved_residues, fasta_dict)
 
 load_model_string = f"""
 fetch 7TPG
-hide everything
 select chain_B, chain B
-show cartoon, chain_B
+select chain_L, chain L
+hide cartoon, chain_L
+select chain_H, chain H
+hide cartoon, chain_H
 """
 
 show_conserved_residues_string = f"""show licorice, cons_ACC
