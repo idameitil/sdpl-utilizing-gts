@@ -68,7 +68,7 @@ NP_689926 GT66_1 (6S7O) complete, in complex with many things, including diphosp
 AAL71884.1 GT66_1 (6S7T) complete, in complex with many things, including diphospho-lipid
 BAA06079.1 GT66_1 (2LGZ) C-terminal domain, solution structure, (6C26) complete, in complex with many things, including diphospho-lipid
 
-# Deleted from selected-ezys.tsv
+# Deleted from selected-wzys.tsv
 AQU71805.1, AQU71788.1
 CAI34388.1 (removed from selected-wzys.tsv). The paper says that the sugar of this serotype is produced from a different gene cluster.
 AHB32746.2 (188 AA and no sugar)
