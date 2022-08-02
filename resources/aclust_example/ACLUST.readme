@@ -14,9 +14,6 @@
  sh submit.sh
  bstat
 
-# wait for all the alignfastas to finish
- bstat
-
 # Run a script that generates the 'DMX' (labelA, labelB, distanceA,B)
  gendmx
 
@@ -25,6 +22,6 @@
  bstat
 
 # Look at the err file soon after starting the REEMBED job, to see that it is working properly (could read the right number of dmx elements)
- more reembed*err
+ less reembed*err
 
 # When it finishes, you will have a my.tree (Newick file)

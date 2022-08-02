@@ -17,6 +17,7 @@ In order to download new CSDB images, run `python src/data-collection-and-prepro
 Add to wzy_polymerases repo.
 
 ### Retrieving Wzxs, Wzzs and WaaLs
+(OBS: new entry was added to waal.tsv, so don't run this)
 To retrieve the Wzx, Wzz and Waal entries run `python src/data-collection-and-preprocessing/retrieve-wzx-wzz-and-waal.py`
 
 This will create the files `data/wzx/wzx.tsv`, `data/wzz/wzz.tsv` and `data/waal/waal.tsv` (add 7tpg to waal.tsv and waal.fasta)
@@ -204,7 +205,7 @@ On the HPC, run `bsub < /work3/idamei/waal/MSA-logo/MSA-logo.sh`
 To download the results, run `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/MSA-logo data/waal`.
 
 To convert the logo to pdf, run: `ps2pdf -dEPSCrop data/waal/MSA-logo/seeds-and-hits.logo.eps data/waal/MSA-logo/seeds-and-hits.logo.pdf`.
-
+ 
 ### Pymol visualization
 `python src/waal-analysis/make-pymol-script.py`
 
