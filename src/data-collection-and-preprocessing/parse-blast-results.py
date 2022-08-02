@@ -50,7 +50,6 @@ protein_family = sys.argv[1]
 
 blast_run_path = f"data/{protein_family}/blast/run/"
 db_file = f"data/{protein_family}/{protein_family}.tsv"
-output_filename = f"data/{protein_family}/blast/unique-hits.tsv"
 
 db_df = pd.read_csv(db_file, sep='\t')
 accessions_to_include = list(db_df.protein_accession)
@@ -68,4 +67,5 @@ for accession in accessions_to_include:
                 acc2evalue_best[acc] = acc2evalue[acc]
 
 # Write file with unique hits and their best e-value
+output_filename = f"data/{protein_family}/blast/unique-hits.tsv"
 pd.Series(acc2evalue_best).to_csv(output_filename, sep = '\t', header=False)
