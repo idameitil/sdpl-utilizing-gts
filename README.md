@@ -210,3 +210,26 @@ To convert the logo to pdf, run: `ps2pdf -dEPSCrop data/waal/MSA-logo/seeds-and-
 `python src/waal-analysis/make-pymol-script.py`
 
 `pymol src/waal-analysis/pymol-visualization.pml`
+
+### Make clade fastas
+script not updates: `python src/waal-analysis/make-clade-fastas.py`
+
+### Build HMMs
+`hmmbuild data/waal/clades/clade1/clade1.hmm data/waal/clades/clade1/clade1.afa`
+
+`hmmbuild data/waal/clades/clade2-1/clade2-1.hmm data/waal/clades/clade2-1/clade2-1.afa`
+
+`hmmbuild data/waal/clades/clade2-2/clade2-2.hmm data/waal/clades/clade2-2/clade2-2.afa`
+
+### HMM search
+`hmmsearch data/waal/clades/clade1/clade1.hmm data/waal/clades/clade2/clade2.fasta > data/waal/hmmsearch/clade1_clade2.out`
+
+`hmmsearch data/waal/clades/clade2-1/clade2-1.hmm data/waal/clades/clade1/clade1.fasta > data/waal/hmmsearch/clade2-1_clade1.out`
+
+`hmmsearch data/waal/clades/clade2-1/clade2-1.hmm data/waal/clades/clade2-2/clade2-2.fasta > data/waal/hmmsearch/clade2-1_clade2-2.out`
+
+`hmmsearch data/waal/clades/clade2-2/clade2-2.hmm data/waal/clades/clade1/clade1.fasta > data/waal/hmmsearch/clade2-2_clade1.out`
+
+`hmmsearch data/waal/clades/clade2-2/clade2-2.hmm data/waal/clades/clade2-1/clade2-1.fasta > data/waal/hmmsearch/clade2-2_clade2-1.out`
+
+### HMM scan
