@@ -1,3 +1,6 @@
+# RodA
+Peptidoglycan polymerase
+
 # Fragments
 AHB32438.2
 AHB32614.2
