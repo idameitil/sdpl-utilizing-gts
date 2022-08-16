@@ -1,0 +1,891 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  data/waal/clades/clade2-1/clade2-1.hmm
+# target sequence database:        data/waal/clades/clade2-5/clade2-5.fasta
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       clade2-1  [M=416]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    4.8e-94  305.9  38.6    6.1e-94  305.6  38.6    1.0  1  WP_092969313.1  
+    8.5e-94  305.1  36.6    1.1e-93  304.7  36.6    1.0  1  WP_048931921.1  
+    3.2e-93  303.2  37.6    4.1e-93  302.8  37.6    1.0  1  WP_147214630.1  
+    1.2e-92  301.3  38.7    1.5e-92  301.0  38.7    1.0  1  KJJ95006.1      
+    5.9e-92  299.0  42.0    6.8e-92  298.8  42.0    1.0  1  WP_065859024.1  
+    7.4e-92  298.7  36.4    9.1e-92  298.4  36.4    1.0  1  RWA52693.1      
+    7.5e-92  298.7  40.9    9.2e-92  298.4  40.9    1.0  1  WP_037028423.1  
+    9.2e-92  298.4  35.3    1.1e-91  298.1  35.3    1.0  1  WP_025583996.1  
+    1.5e-91  297.7  35.5    1.8e-91  297.4  35.5    1.0  1  WP_116346266.1  
+    1.5e-91  297.7  39.5      2e-91  297.3  39.5    1.0  1  WP_024972425.1  
+    2.4e-91  297.0  32.9    2.8e-91  296.8  32.9    1.0  1  WP_013957707.1  
+    2.5e-91  297.0  42.5    2.9e-91  296.8  42.5    1.0  1  WP_009241144.1  
+    1.2e-90  294.7  41.1    1.4e-90  294.5  41.1    1.0  1  WP_154206567.1  
+    1.3e-90  294.6  35.0    1.4e-90  294.5  35.0    1.0  1  WP_114133434.1  
+    2.1e-90  294.0  35.1    2.5e-90  293.7  35.1    1.0  1  WP_116600684.1  
+    3.1e-90  293.4  34.9    3.8e-90  293.1  34.9    1.0  1  WP_174077037.1  
+    3.3e-90  293.3  34.6    3.9e-90  293.0  34.6    1.0  1  WP_112774438.1  
+    4.6e-90  292.8  33.3    5.2e-90  292.6  33.3    1.0  1  WP_153956467.1  
+    4.7e-90  292.8  37.2    5.6e-90  292.5  37.2    1.0  1  WP_115680899.1  
+    2.3e-89  290.5  34.9    2.8e-89  290.2  34.9    1.0  1  NUT14617.1      
+    2.4e-89  290.5  38.6    2.8e-89  290.2  38.6    1.0  1  WP_115710483.1  
+    2.7e-89  290.3  28.4    3.2e-89  290.0  28.4    1.0  1  WP_062801481.1  
+    1.2e-88  288.1  39.2    1.4e-88  287.9  39.2    1.0  1  WP_171515677.1  
+    2.3e-88  287.2  36.1    2.8e-88  286.9  36.1    1.0  1  WP_012353596.1  
+    2.8e-87  283.6  35.5    3.4e-87  283.3  35.5    1.0  1  WP_115687771.1  
+    1.8e-77  251.3  31.9    2.3e-77  251.0  31.9    1.0  1  WP_132979369.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_092969313.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  305.6  38.6   6.1e-94   6.1e-94       9     409 ..      14     418 ..       5     424 .. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 305.6 bits;  conditional E-value: 6.1e-94
+        clade2-1   9 ellelltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhgeglrel.dkpsrfll 96 
+                     ++l +l+ + ++++pa++l v+ +  l ++lll+a+++ + + p+ a++      re r+l++a++++  ++l+s+ll+ +  r++     r++l
+  WP_092969313.1  14 SALAALAVFGIAILPAFMLSVRGAAFLSFLLLLIAAIWSMLAAPAEAMNrlramwREYRWLILAMAAMPTAMLISALLNPAAPRNVpFAYGRLWL 108
+                     4566777788999*************************99887766665666888************************877777725778**** PP
+
+        clade2-1  97 aipvlllllayppr.laalwlGlalGaiaagllalyqrlvlgleRaggftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGlla 190
+                     + ++l++ll+++p+ l+ + +G+++Ga+a++++a  +  +   +++g f n I+fGnlsll+gl+sl++++w  ++  + ++ll +++  aGl+a
+  WP_092969313.1 109 FGLALFALLQLRPKqLESVQWGCVAGALASVVWAYLELRIGRPDKIGAFANTIPFGNLSLLMGLFSLISIGWSNRD-GWPLILLRVFAGGAGLYA 202
+                     *************879************************99******************************9975.788999************ PP
+
+        clade2-1 191 sllSgsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliae 285
+                     s lS+sRGGWia+p++ll+ + a  r++s++ ++++l++++all++v+ + ++ v+ R+ +a++d+++Y++g +++tSvG+R+++WkaA+ + ++
+  WP_092969313.1 203 SYLSQSRGGWIAIPILLLIAV-ATLRHVSWKKRATALLVFFALLVTVC-VSSSMVRTRFGQAMEDIHAYQAG-QTNTSVGIRFQLWKAATLMLTR 294
+                     *****************9999.66677777777777777777766666.699******************96.89******************** PP
+
+        clade2-1 286 kPllGwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLT 380
+                     +Pl G+g++++e +lk+  +eg i+++++ f+haHNe+L + a+ G+lG+ allalylvP+v F+r++  +d+  r +  +G++l+v ++ fgLT
+  WP_092969313.1 295 HPLAGVGRGQFEPALKAIHAEGLITQEATAFEHAHNEFLYNGATLGVLGIGALLALYLVPAVYFLRAALCDDRVLRTTGAMGLTLCVGFVLFGLT 389
+                     *********************************************************************************************** PP
+
+        clade2-1 381 qvflahnsgvmfYafmlvvlwgllraaek 409
+                     +v+l   ++v+fY +m++v+ + ++++++
+  WP_092969313.1 390 EVMLIIAQTVVFYSVMVAVFTAHIHRRRQ 418
+                     **********************9999886 PP
+
+>> WP_048931921.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  304.7  36.6   1.1e-93   1.1e-93      13     409 ..      18     418 ..       6     424 .. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 304.7 bits;  conditional E-value: 1.1e-93
+        clade2-1  13 lltsllvflfpalalvvpsgyslgavllllaslvllrk...rprlals...redrlllaalllyflvallsvllhgeglreld.kpsrfllaipv 100
+                     +l+ l ++++pal+l ++ +  l+++lll+ +l+ +       + +l+    e r+l++a++++  ++l+s+ll+ +  r++     r++l+ +v
+  WP_048931921.1  18 VLSVLGIVILPALMLSMHGAAFLAFTLLLVSALLSMLVgysALNDRLRamwCEHRWLILAMVAMPTAMLVSALLNPAAPRGVPfAYGRLWLFGFV 112
+                     566778999********99988888888888777654322211222334448***********************888888862678******** PP
+
+        clade2-1 101 lllllayppr.laalwlGlalGaiaagllalyqrlvlgleRaggftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGllasllS 194
+                     l+ ll+++p  l+ + +G+++Gai+++++a  +      + +g f+n I+fGn+slllgl+sl++++war++  + +++l + g +aGl+as +S
+  WP_048931921.1 113 LFGLLQLRPAqLQNVQWGCVIGAITSAVWAYLELRGDRPDMVGAFSNTIPFGNVSLLLGLFSLISIGWARNE-GWPLIVLRMTGGAAGLYASYMS 206
+                     *******99659************************999999****************************75.78999***************** PP
+
+        clade2-1 195 gsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliaekPll 289
+                     +sRGGWia+p++ll+ + a  r++s++ ++++l++++allaav+ + ++ v+ R+d+a+sd+++Ye+g +a+tSvG+R+++WkaA+ + +++Pl 
+  WP_048931921.1 207 QSRGGWIAIPVLLLIAV-ATLRHVSWKKRVTALLVFFALLAAVC-VSSSMVRTRFDQALSDIHAYEAG-QANTSVGIRFQLWKAAALMLTRHPLA 298
+                     *************9999.66666777777776776766666555.699******************96.89************************ PP
+
+        clade2-1 290 GwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLTqvfl 384
+                     G+g++++++ l++  +eg+i+++++ f+haHNe+L + a+ G+lG+ allalylvP++ F+r+   +d+  r +  +G++l+v ++ fgLT+v+l
+  WP_048931921.1 299 GVGRGEFHNSLQAIHAEGVITQEATAFEHAHNEFLYNGATLGVLGIGALLALYLVPAAYFLRATLCDDRILRTTGAMGLTLCVGFMLFGLTEVML 393
+                     *********************************************************************************************** PP
+
+        clade2-1 385 ahnsgvmfYafmlvvlwgllraaek 409
+                        ++v+fY +m++v+ + ++++++
+  WP_048931921.1 394 IIAQTVVFYSVMVAVFTAHIHRRRQ 418
+                     ******************9999886 PP
+
+>> WP_147214630.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  302.8  37.6   4.1e-93   4.1e-93      12     409 ..      17     418 ..       5     424 .. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 302.8 bits;  conditional E-value: 4.1e-93
+        clade2-1  12 elltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhgeglrel.dkpsrfllaip 99 
+                      +l+ + ++++pa++l v+ +  l + lll+a+++ + + p+  ls      re r+l++a++++  ++l+s+ l+ +  r++     r++l+ +
+  WP_147214630.1  17 AALAVFGIAVLPAFMLSVRGAAFLSFSLLLVAAFWSMLAAPAEVLSrlrtmwREHRWLILAMAAMPTAMLVSAQLNPAAPRSVpFAYGRLWLFGF 111
+                     5667788999************************999877766555556788*********************999777777625778******* PP
+
+        clade2-1 100 vlllllayppr.laalwlGlalGaiaagllalyqrlvlgleRaggftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGllasll 193
+                     +l++ll+++ + l+ + +G+++Ga+a++++a  +  +   +++g f n I+fGnlsll+gl+sl++++w + +  + +++l llg  aGl+as +
+  WP_147214630.1 112 ALFALLQLRHKqLESVQWGCVAGALASVVWAYLELRIGRPDKIGAFANTIPFGNLSLLMGLFSLISIGWSKGD-GWPLIALRLLGGGAGLVASYM 205
+                     ********99769************************99******************************9986.7899***************** PP
+
+        clade2-1 194 SgsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliaekPl 288
+                     S+sRGGW+a+p++ll+ + a  r++s++ ++++l++++allaav+ + ++ v++R+d+avsd+++Ye+g +++tSvG+R+++WkaA+ + +++Pl
+  WP_147214630.1 206 SQSRGGWVAIPVLLLIAV-ATLRHVSWKKRVAALLVFFALLAAVC-VSSSMVRARFDQAVSDLHAYEAG-QTNTSVGIRFQLWKAATLMLTRHPL 297
+                     **************9999.66667777777776776666666555.699******************96.89*********************** PP
+
+        clade2-1 289 lGwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLTqvf 383
+                      G+g++++e +lk+  +eg i+++++ f+haHNe+L + a+ G+lG+ allalylvP++ F+r++  +d+  r +  +G++l+v ++ fgLT+v+
+  WP_147214630.1 298 AGVGRGQFEPALKAIHAEGLITKEATAFEHAHNEFLYNGATLGVLGIGALLALYLVPAAYFLRAALCDDRVLRTTGAMGLTLCVGFVLFGLTEVM 392
+                     *********************************************************************************************** PP
+
+        clade2-1 384 lahnsgvmfYafmlvvlwgllraaek 409
+                     l   ++v+fY +m++v+ + ++++++
+  WP_147214630.1 393 LIIAQTVVFYSVMVAVFTAHIHRRRQ 418
+                     *******************9999886 PP
+
+>> KJJ95006.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  301.0  38.7   1.5e-92   1.5e-92      10     409 ..      15     418 ..       3     424 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 301.0 bits;  conditional E-value: 1.5e-92
+    clade2-1  10 llelltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhgeglrel.dkpsrfllaipvl 101
+                 +  +l+ + ++++pa++l v+ +  l ++lll+a+++ + + p+  +s      re r+l++a++++  ++l+s+ll+ +  r++     r++l+ +vl
+  KJJ95006.1  15 VPAALAVFGIAILPAFMLSVRGAAFLSFLLLLVAAIWSMLAAPADVMSrlrtmwREHRWLILAMAAMPTAMLISALLNPAAPRNVpFAYGRLWLFGLVL 113
+                 55667778899**************************99876654444444778************************877777725778********* PP
+
+    clade2-1 102 llllayppr.laalwlGlalGaiaagllalyqrlvlgleRaggftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGllasllSgsRGG 199
+                 ++ll+++p+ l+ + +G+++Ga++++++   +  +     +g f+n I+fGnlsll+gl++l++++wa+++  + ++ l l++  aGl+as lS++RGG
+  KJJ95006.1 114 FALLQLRPKqLESVQWGCVAGALGSAVWSYLELRAGRAGTVGAFSNTIPFGNLSLLMGLFALISIGWAKND-GWPLIGLRLAAGGAGLYASYLSQARGG 211
+                 ********879**************99999999999999999***************************75.78999********************** PP
+
+    clade2-1 200 WialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliaekPllGwgeegyea 298
+                 Wia+p++ll+ + a  r++s++ ++++l++++allaav+ + ++ v+ R+d+a+ d+++Y++g +++tSvG+R+++WkaA+ + +++Pl G+g++++e 
+  KJJ95006.1 212 WIAIPILLLIAV-ATLRHVSWKKRVTALLVFFALLAAVC-VSSSMVRTRFDQAMGDIHAYQAG-QTNTSVGIRFQLWKAATLMLTRHPLAGVGRGQFEP 307
+                 ********9999.66666777777776776766666555.699******************96.89********************************* PP
+
+    clade2-1 299 elkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLTqvflahnsgvmfYafml 397
+                 +lk+  +eg i+++++ f+haHNe+L + a+ G+lG+ allalylvP++ F+r++  +d+  r +  +G++l+v ++ fgLT+v+l   ++v+fY +m+
+  KJJ95006.1 308 ALKAIHAEGLITQEATAFEHAHNEFLYNGATLGVLGIGALLALYLVPAAYFLRAALCDDRILRTTGAMGLTLCVGFVLFGLTEVMLIIAQTVVFYSVMV 406
+                 *************************************************************************************************** PP
+
+    clade2-1 398 vvlwgllraaek 409
+                 +v+ + ++++++
+  KJJ95006.1 407 AVFTAHIHRRRQ 418
+                 *****9999886 PP
+
+>> WP_065859024.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  298.8  42.0   6.8e-92   6.8e-92       9     409 ..      14     418 ..       1     424 [. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 298.8 bits;  conditional E-value: 6.8e-92
+        clade2-1   9 ellelltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhgeglrel.dkpsrfll 96 
+                     ++  +l+ + ++++pa++l v+ +  l + lll+a++ ++ + p+  +s      re r+l++a++++  ++l+s+ l+ +  r++     r++l
+  WP_065859024.1  14 SAPAALAVFGIAILPAFMLSVRGAAFLSFSLLLVAAFGWMLAAPAEVMSrlramwREHRWLIVAMAAMPTAMLISAQLNPAAPRNVpFAYGRLWL 108
+                     566677888999***************9999999999988766544433444777*********************999777777725778**** PP
+
+        clade2-1  97 aipvlllllayppr.laalwlGlalGaiaagllalyqrlvlgleRaggftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGlla 190
+                     + ++l++ll+++p+ l+ + +G+++Ga+a++++a  +  +  +  +g f+naI+fGnlsll++l++l++++w  ++  ++++ l ll+ +aGl+a
+  WP_065859024.1 109 FGLALFALLQLRPKqLESVQWGCVAGALASAVWAYLELRAGRVGMVGAFSNAIPFGNLSLLMALFALMSIGWTEDD-GWALIGLRLLAGCAGLYA 202
+                     *************879********************************************************9975.788999************ PP
+
+        clade2-1 191 sllSgsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliae 285
+                     s lS++RGGWia+p++ll+ + a  r++s++ +l++l+l++++laav+a  ++ v++R+d+a++d+++Y++g +++tSvG+R+++WkaA+ + ++
+  WP_065859024.1 203 SYLSQARGGWIAIPVLLLIAV-ATLRHVSWKKRLTALLLFFVFLAAVCA-SSSVVRSRFDQAMEDIHAYQAG-QTNTSVGIRFQLWKAATLMLTR 294
+                     *****************9999.666777777777777777777777766.99******************96.89******************** PP
+
+        clade2-1 286 kPllGwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLT 380
+                     +Pl G+g++++   lk+  +eg i+++++ f+haHNe+L + a+ G+lG++allalylvP++ F+r++  +d++ r +  +G++l+v ++ fgLT
+  WP_065859024.1 295 HPLAGVGRGQFGPTLKAIHAEGLITQEATAFEHAHNEFLYNGATLGVLGIAALLALYLVPAAYFLRAALCDDRALRTTGAMGLTLCVGFLLFGLT 389
+                     *********************************************************************************************** PP
+
+        clade2-1 381 qvflahnsgvmfYafmlvvlwgllraaek 409
+                     +v+l   ++v+fY +m++v+ + ++++++
+  WP_065859024.1 390 EVMLIIAQTVVFYSVMVAVFTAHIHRRRQ 418
+                     **********************9999886 PP
+
+>> RWA52693.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  298.4  36.4   9.1e-92   9.1e-92       8     409 ..      12     420 ..       4     427 .. 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 298.4 bits;  conditional E-value: 9.1e-92
+    clade2-1   8 s....ellelltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhgeglreldkpsrfll 96 
+                 s    +++ l + +++++fpal++v p+  +++  lll  s ++l++  r+ l+      r+ +++++a+++  +v+ll+ ll g++ +     +rf l
+  RWA52693.1  12 ShgieKAFYLAACAVLAAFPALMFVKPTLSNICYGLLLGWSACTLVAGGRAGLAecgallRRYWVFMLAMAALPFVVLLQQLLAGAEPHVSYLYLRFAL 110
+                 245545666777788899***************************998888777777888*************************************** PP
+
+    clade2-1  97 aipvlllllay.pprlaalwlGlalGaiaagllalyqrlvlgleRaggftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGllasllS 194
+                 +ip+++ ++++ +   + + +G+++ a+++++++ ++  + g +   gftn I+  nls+l+g+l+l++++w r  r ++ + l ll+ +aGl+as +S
+  RWA52693.1 111 FIPLVFGMVRLgRGGMRSVQWGFVVCALLSAAWI-HEATAAGRPAHVGFTNIIPLSNLSMLMGILALISIGWDRP-RDYLRSGLKLLAGFAGLYASYMS 207
+                 ***888666651667*************999996.566667777778*************************997.578899***************** PP
+
+    clade2-1 195 gsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliaekPllGwge 293
+                 g+RGGW+a+p+++l+ l a +r+l++  ++++la ++ l++++++  +t vq+R  e+vs+++q+ ++   dtS+G+Rl++W+++l++++ +P++G+g 
+  RWA52693.1 208 GTRGGWLAIPVLALIAL-AASRRLTRLHKAAALAGLVGLMVLTWF-GSTWVQQRTTEVVSELSQFDHHVTLDTSIGIRLQLWRTSLQMVQAHPWTGVGP 304
+                 **************999.777888888888888888888888887.99*************************************************** PP
+
+    clade2-1 294 egyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLTqvflahnsgvmf 392
+                 e++e+ l++l+++++isp + ++ h HNe+L+a+a+ Gi+Glla+lalylvP+++F+r+l +ad+ +++++ +G+ l++ +++fgLT+v++a    ++f
+  RWA52693.1 305 ENFEQTLEALAAQHVISPLAGTMPHSHNELLHAAATLGIPGLLAILALYLVPAAFFLRHLGNADRGTQVASAMGLALCCGFMVFGLTEVMFATTLVNAF 403
+                 *************************************************************************************************** PP
+
+    clade2-1 393 Yafmlvvlwgllraaek 409
+                 Y ++++v+++++ a+++
+  RWA52693.1 404 YSLIMAVCFAYVIARKD 420
+                 ***********999875 PP
+
+>> WP_037028423.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  298.4  40.9   9.2e-92   9.2e-92      12     409 ..      17     418 ..       5     424 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 298.4 bits;  conditional E-value: 9.2e-92
+        clade2-1  12 elltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhgeglrel.dkpsrfllaip 99 
+                      +l+ + ++++pa++l v+ +  l ++lll+a+l+ + ++p+ a++      +e r+l++a++++  ++l+s+ l+ +  r++     r++l+ +
+  WP_037028423.1  17 AALAVFGIAILPAFMLSVRGAAFLSFLLLLVAALWSMLASPADAMNrlramwHEHRWLILAMAAMPTAMLISAQLNPAAPRSVpFAYGRLWLFGL 111
+                     566778899***************************99887666666667789********************999777777625778******* PP
+
+        clade2-1 100 vlllllayppr.laalwlGlalGaiaagllalyqrlvlgleRaggftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGllasll 193
+                     +l++ll+++p  l+ + +G+++Ga+a++++a  +  +  +  +g f+naI+fGnlsll++l++l++++w  ++  ++++ l ll+ +aGl+as l
+  WP_037028423.1 112 ALFALLQLRPTqLESVQWGCVAGALASAVWAYLELRAGRVGMVGAFSNAIPFGNLSLLMALFALMSIGWTEDD-GWALIGLRLLAGCAGLYASYL 205
+                     ********99659********************************************************9975.788999*************** PP
+
+        clade2-1 194 SgsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliaekPl 288
+                     S++RGGWia+p++ll+ + a  r++s++ +l++l+l++++l+av ++ ++ v+ R+d+a++d+++Y++g +++tSvG+R+++WkaA+ + +++Pl
+  WP_037028423.1 206 SQARGGWIAIPVLLLIAV-ATLRHVSWKKRLTALLLFFVFLTAV-CVSSSAVRTRFDQAMEDIHAYQAG-QTNTSVGIRFQLWKAATLMLTRHPL 297
+                     **************9999.6666666666666666666655555.569*******************96.89*********************** PP
+
+        clade2-1 289 lGwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLTqvf 383
+                      G+g++++   lk+  +eg i+++++ f+haHNe+L + a+ G+lG+ allalylvP++ F+r++  +d++ r +  +G++l+v ++ fgLT+v+
+  WP_037028423.1 298 AGVGRGQFGPTLKAIHAEGLITQEATAFEHAHNEFLYNGATLGVLGIGALLALYLVPAAYFLRAALCDDRALRTTGAMGLTLCVGFLLFGLTEVM 392
+                     *********************************************************************************************** PP
+
+        clade2-1 384 lahnsgvmfYafmlvvlwgllraaek 409
+                     l   ++v+fY +m++++ + ++++++
+  WP_037028423.1 393 LIIAQTVVFYSVMVAIFTAHIHRRRQ 418
+                     *******************9999886 PP
+
+>> WP_025583996.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  298.1  35.3   1.1e-91   1.1e-91      13     409 ..      21     421 ..       4     428 .. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 298.1 bits;  conditional E-value: 1.1e-91
+        clade2-1  13 lltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhgeg.lreldkpsrfllaipv 100
+                     l + +++++fpal++v ps  + +  lll  s++ l++  r+al+      r+ + +++a+++  l++l++ ll+g++  +     +rf l+i++
+  WP_025583996.1  21 LSACVVLAAFPALMFVKPSLSNTCYGLLLGWSVIALAAGGRAALAeygcilRRYWPFMLAMAALPLAVLVQQLLTGAEdPHVPYLYLRFALFIVL 115
+                     456678899***************************998899888899999***********************975505555789*******99 PP
+
+        clade2-1 101 lllllayppr.laalwlGlalGaiaagllalyqrlvlgleRag..gftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGllasl 192
+                     +  +l++  r  + + +G+++ a++++l+    + v    R++  gf+n+I+fGnl+ll+g+l++++++w r    +++a l llg +aGl+as 
+  WP_025583996.1 116 VPGILRLGRRgMQSIQWGFVACALISALW---LHEVAAAGRPShvGFSNVIPFGNLALLTGMLAVISIGWNRPG-DHWVAGLKLLGGFAGLYASY 206
+                     999999887779********999887655...45555555665559************************9975.566799************** PP
+
+        clade2-1 193 lSgsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliaekP 287
+                     +Sg+RGGW+a+p+++l+ l a +r+l++  ++++l+ ++ l+a+ ++  +  vq+R +++vs+v+q++++  +dtS+G+Rl++W+a+lel++ +P
+  WP_025583996.1 207 MSGTRGGWLAIPVLALIAL-AASRRLTRLHKAGVLVGLAGLMALGWF-SSAMVQQRTAAVVSEVSQFVQHVTSDTSIGIRLQLWRASLELFQAHP 299
+                     ****************999.777777777777777777666666665.99********************************************* PP
+
+        clade2-1 288 llGwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLTqv 382
+                     ++G+g e++e  l++l+++++i+p ++++ h HNe+L+a+a+ Gi+Glla+lalylvP+++F+r+lr +d+ +r+++ +G+ l++ +++fgLT+v
+  WP_025583996.1 300 WTGVGPEHFETTLQTLAAQHVITPLAATMPHSHNELLHAAATLGIPGLLAILALYLVPAIFFLRHLRGTDRGTRVASAMGLALCCGFMVFGLTEV 394
+                     *********************************************************************************************** PP
+
+        clade2-1 383 flahnsgvmfYafmlvvlwgllraaek 409
+                     ++a    ++fY ++++++++++ a+++
+  WP_025583996.1 395 MFATTLVNAFYSLVMAFCFAYVVARQS 421
+                     *********************998875 PP
+
+>> WP_116346266.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  297.4  35.5   1.8e-91   1.8e-91      13     409 ..      21     421 ..       4     428 .. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 297.4 bits;  conditional E-value: 1.8e-91
+        clade2-1  13 lltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhgeg.lreldkpsrfllaipv 100
+                     l + +++++fpal++v ps  + +  lll  s++ l++  r+al+      r+ + +++a+++  l++l++ ll+g++  +     +rf l+i++
+  WP_116346266.1  21 LSACVVLAAFPALMFVKPSLSNTCYGLLLGWSVIALAAGGRAALAeygcilRRYWPFMLAMAALPLAVLVQQLLTGAEdPHVPYLYLRFALFIVL 115
+                     456678899***************************998899888899999***********************975505555789******999 PP
+
+        clade2-1 101 lllllayppr.laalwlGlalGaiaagllalyqrlvlgleRag..gftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGllasl 192
+                     +  +l++  r  + + +G+++ a++++l+    + v    R++  gf+n+I+fGnl+ll+g+l++++++w r    +++a l llg ++Gl+as 
+  WP_116346266.1 116 VPGMLRLGRRgMQSIQWGFVACALISALW---LHEVAAAGRPShvGFSNVIPFGNLALLTGMLAVISIGWNRPG-DHWLAGLKLLGGFGGLYASY 206
+                     998888877769********999887655...45555555665559************************9975.56789*************** PP
+
+        clade2-1 193 lSgsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliaekP 287
+                     +Sg+RGGW+a+p+++l+ l a +r+l++  ++++l+ ++ l+a+ ++  +  vq+R +++vs+v+q++++  +dtSvG+Rl++W+a+lel++ +P
+  WP_116346266.1 207 MSGTRGGWLAIPVLALIAL-AASRRLTRLHKAGVLVGLAGLMALGWF-SSAMVQQRTAAVVSEVSQFVQHVTSDTSVGVRLQLWRASLELFQAHP 299
+                     ****************999.777777777777777777666666665.99********************************************* PP
+
+        clade2-1 288 llGwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLTqv 382
+                     ++G+g e++e  l++l+++++i+p ++++ h HNe+L+a+a+ Gi+Glla+lalylvP+v+F+r+lr +d+ +r+++ +G+ l++ +++fgLT+v
+  WP_116346266.1 300 WTGVGPEHFETTLQTLATQHVITPLAATMPHSHNELLHAAATLGIPGLLAILALYLVPAVFFLRHLRGTDRGTRVASAMGLALCCGFMVFGLTEV 394
+                     *********************************************************************************************** PP
+
+        clade2-1 383 flahnsgvmfYafmlvvlwgllraaek 409
+                     ++a    ++fY ++++++++++ a+++
+  WP_116346266.1 395 MFATTLVNAFYSLVMAFCFAYVVARQS 421
+                     *********************998875 PP
+
+>> WP_024972425.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  297.3  39.5     2e-91     2e-91      11     409 ..      16     418 ..       2     423 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 297.3 bits;  conditional E-value: 2e-91
+        clade2-1  11 lelltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhgeglrel.dkpsrfllai 98 
+                       +l+ + ++++pa++l v+ +  l ++lll+a+l+ + ++p+ a++      +e r+l++a++++  ++l+s+  + +  r++     r++l+ 
+  WP_024972425.1  16 PAALAVFGIAILPAFMLSVRGAAFLSFLLLLVAALWSMLASPADAMNrlramwHEHRWLILAMAAMPTAMLISAQSNPAAPRSVpFAYGRLWLFG 110
+                     5567778899***************************99887666666667789********************999777777725778****** PP
+
+        clade2-1  99 pvlllllayppr.laalwlGlalGaiaagllalyqrlvlgleRaggftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGllasl 192
+                     ++l++ll+++p+ l+ + +G+++Ga+a++++a  +  +   + +g f n I+fGnlsll+gl+sl++++w + +  +++++l +++  aGl+as 
+  WP_024972425.1 111 FALFALLQLRPKqLESVQWGCVAGALASVVWAYLELRIGRPDMIGAFANTIPFGNLSLLMGLFSLISIGWSKGD-GWLLIILRVVAGGAGLYASY 204
+                     ***********879******************99999888888889************************9985.78899*************** PP
+
+        clade2-1 193 lSgsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliaekP 287
+                     lS+sRGGWia+p++ll+ +  + r+++++ ++++l++++allaav+ + ++ v++R+d+avsd+++Y++g +++tS+G+R+++WkaA+ + +++P
+  WP_024972425.1 205 LSQSRGGWIAIPVLLLIAVATL-RHVGWKKRVTALLVFFALLAAVC-VSSSVVRARFDQAVSDLRAYQAG-QTNTSIGIRFQLWKAAALMLTRHP 296
+                     ***************9999555.55555555555665666655555.699******************96.89********************** PP
+
+        clade2-1 288 llGwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLTqv 382
+                     l G+g++++e +lk+  +eg i+++++ ++haHNe+L + a+ G+lG+ allalylvP++ F+r++  +d+  + +  +G++l+v ++ fgLT+v
+  WP_024972425.1 297 LAGVGRGQFEPALKAIHAEGLITQEATAVEHAHNEFLYNGATLGVLGIGALLALYLVPAAYFLRAALCDDRVLQTTGAMGLTLCVGFVLFGLTEV 391
+                     *********************************************************************************************** PP
+
+        clade2-1 383 flahnsgvmfYafmlvvlwgllraaek 409
+                     +l   ++v+fY +m++v+ + ++++++
+  WP_024972425.1 392 MLIIAQTVVFYSVMVAVFTAHIHRRRQ 418
+                     ********************9998875 PP
+
+>> WP_013957707.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  296.8  32.9   2.8e-91   2.8e-91       9     410 ..      17     422 ..       4     429 .] 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 296.8 bits;  conditional E-value: 2.8e-91
+        clade2-1   9 ellelltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhg.eglreldkpsrfll 96 
+                     ++l l + +++++fpal++v p+  +l+  lll  s ++l++  r+  +      r+ +l+++a+++  l++ll+ ll g e+ +     +rf l
+  WP_013957707.1  17 KALYLAACAVLAAFPALMFVKPTVSNLCYGLLLGWSAITLVAGGRAGRAecgallRRYWLFMLAMAALPLAVLLQQLLAGaEEPHVSYLYLRFAL 111
+                     4556667778899**********************99999874433222233555*********************99962566666789***** PP
+
+        clade2-1  97 aipvlllllay.pprlaalwlGlalGaiaagllalyqrlvlgleRaggftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGlla 190
+                     +ip+++ ++++ +   + + +G+++ a+++++++ ++  + g +   gf+n I+  nls+l+g+l+l++++w r  r ++ + l ll+  aGl+a
+  WP_013957707.1 112 FIPLVFGMVRLgRGGMRSVQWGFVVCALLSAAWI-HEATAAGRPAHVGFSNIIPLSNLSMLMGILALISIGWDRP-RGYLQSGLKLLAGSAGLYA 204
+                     ***888666651667*************999996.566667777778*************************996.578899************* PP
+
+        clade2-1 191 sllSgsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliae 285
+                     s  Sg+RGGW+a+p+++l+ l a +r+l++  ++++la ++ l++++++  ++ vq+R  ++vs+++q+ ++   dtS+G+Rl++W+++l++++ 
+  WP_013957707.1 205 SYTSGTRGGWLAIPVLALIAL-AASRRLTRVHKVAALAGLAGLMVLTWF-GSPFVQQRTTDVVSELSQFDHHVTLDTSIGIRLQLWRTSLQMVQA 297
+                     *****************9999.888889999999999999999988887.99******************************************* PP
+
+        clade2-1 286 kPllGwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLT 380
+                     +P++G+g ++ye++l++l+++++i+++++++ h+HN++L+a+a+ Gi+Glla+l+lylvP+++F+r+lr++d+++++++ +G+ l++ +++fgLT
+  WP_013957707.1 298 HPWTGVGPDNYEQALQALAAQHVITAEAATMPHTHNDILHAAATLGIPGLLAVLMLYLVPAAFFLRHLRNDDRDTQVASAMGLALCCGFMVFGLT 392
+                     *********************************************************************************************** PP
+
+        clade2-1 381 qvflahnsgvmfYafmlvvlwgllraaeke 410
+                     +v++a    ++fY ++++v+++++ a++++
+  WP_013957707.1 393 EVMFATTLVNAFYSLIMAVCFAYVVARKDA 422
+                     ***********************9998864 PP
+
+>> WP_009241144.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  296.8  42.5   2.9e-91   2.9e-91       9     409 ..      14     418 ..       1     424 [. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 296.8 bits;  conditional E-value: 2.9e-91
+        clade2-1   9 ellelltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhgeglrel.dkpsrfll 96 
+                     ++  +lt + ++++pa++l v+ +  l + lll+a++ ++ + p++ +s      re r+l++a++++  ++l+s+ l+ +  r++     r++l
+  WP_009241144.1  14 SAPAALTVFGIAILPAFMLSVRGAAFLSFSLLLVAAFGWMLSAPAAVMSrlramwREHRWLIVAMAAMPTAMLISAQLNPAAPRNVpFAYGRLWL 108
+                     55677889999*****************999999999998877665555555777*********************999777777725778**** PP
+
+        clade2-1  97 aipvlllllayppr.laalwlGlalGaiaagllalyqrlvlgleRaggftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGlla 190
+                     + ++l++ll+++p+ l+ + +G+++Ga+a++++a  +  +  +  +g f+naI+fGnlsll++l++l++++w  ++  +++++l ll+ +aGl+a
+  WP_009241144.1 109 FGLALFALLQLRPKqLESVQWGCVAGALASAVWAYLELRAGRVGMVGAFSNAIPFGNLSLLMALFALMSIGWTEDD-GWALIALRLLAGCAGLYA 202
+                     *************879********************************************************9975.788999************ PP
+
+        clade2-1 191 sllSgsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliae 285
+                     s lS++RGGWia+p++ll+ + a  r++s++ +l++l+l++++l+av+ + ++ v+ R+d+a++d+++Y++g +++tSvG+R+++WkaA+ + ++
+  WP_009241144.1 203 SYLSQARGGWIAIPVLLLIAV-ATLRHVSWKKRLTALLLFFVFLIAVC-VSSSVVRTRFDQAMEDIHAYQAG-QTNTSVGIRFQLWKAATLMLTR 294
+                     *****************9999.56666666666666666666655555.699******************96.89******************** PP
+
+        clade2-1 286 kPllGwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLT 380
+                     +Pl G+g++++  +lk+  +eg i+++++ f+haHNe+L + a+ G+lG+ allalylvP++ F+r++  +d+  r +  +G++l+v ++ fgLT
+  WP_009241144.1 295 HPLAGVGRGQFGPALKAIHAEGLITQEATAFEHAHNEFLYNGATLGVLGIGALLALYLVPAAYFLRAALCDDRVLRTTGAMGLTLCVGFLLFGLT 389
+                     *********************************************************************************************** PP
+
+        clade2-1 381 qvflahnsgvmfYafmlvvlwgllraaek 409
+                     +v+l   ++v+fY +m++v+ + ++++++
+  WP_009241144.1 390 EVMLIIAQTVVFYSVMVAVFTAHIHRRRQ 418
+                     **********************9999886 PP
+
+>> WP_154206567.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  294.5  41.1   1.4e-90   1.4e-90       9     409 ..      14     418 ..       1     424 [. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 294.5 bits;  conditional E-value: 1.4e-90
+        clade2-1   9 ellelltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhgeglrel.dkpsrfll 96 
+                     ++  +l+ + ++++pa++l v+ +  l + lll+a++ ++ + p+  +s      re r+l++a++++  ++l+s+ l+ +  r++     r++l
+  WP_154206567.1  14 SAPAALAVFGIAILPAFMLSVRGAAFLSFSLLLVAAFGWMLAAPAEVMSrlramwREHRWLIVAMAAMPTAMLISAQLNPAAPRNVpFAYGRLWL 108
+                     566677888999***************9999999999988766544433444777*********************999777777725778**** PP
+
+        clade2-1  97 aipvlllllayppr.laalwlGlalGaiaagllalyqrlvlgleRaggftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGlla 190
+                     + ++l++ll+++p+ l+ + +G+++Ga+a++++a  +  +  +  +g f+naI+fGnlsll++l++l++++w  ++  ++++ l ll+ +aGl+a
+  WP_154206567.1 109 FGLALFALLQLRPKqLESVQWGCVAGALASAVWAYLELRAGRVGMVGAFSNAIPFGNLSLLMALFALMSIGWTEDD-GWALIGLRLLAGCAGLYA 202
+                     *************879********************************************************9975.788999************ PP
+
+        clade2-1 191 sllSgsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliae 285
+                     s lS++RGGWia+p++ll+ + a  r++s++ +l++l+l++++l+av ++ ++ v+ R+d++++d+++Y+ g +++tSvG+R+++WkaA+ + ++
+  WP_154206567.1 203 SYLSQARGGWIAIPVLLLIAV-ATLRHVSWKKRLTALLLFFVFLTAV-CVSSSAVRTRFDQGMEDIHAYQVG-QTNTSVGIRFQLWKAATLMLTR 294
+                     *****************9999.6666666666666666666655555.569*******************96.89******************** PP
+
+        clade2-1 286 kPllGwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLT 380
+                     +Pl G+g++++   lk+  +eg i+++++ f+haHNe+L + a+ G+lG+ allalylvP++ F+r++  +d++ r +  +G++l+v ++ fgLT
+  WP_154206567.1 295 HPLAGVGRGQFGPTLKAIHAEGLITQEATAFEHAHNEFLYNGATLGVLGIGALLALYLVPAAYFLRAALCDDRALRTTGAMGLTLCVGFLLFGLT 389
+                     *********************************************************************************************** PP
+
+        clade2-1 381 qvflahnsgvmfYafmlvvlwgllraaek 409
+                     +v+l   ++v+fY +m++v+ + ++++++
+  WP_154206567.1 390 EVMLIIAQTVVFYSVMVAVFTAHIHRRRQ 418
+                     **********************9999886 PP
+
+>> WP_114133434.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  294.5  35.0   1.4e-90   1.4e-90       8     410 ..      12     422 ..       4     429 .] 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 294.5 bits;  conditional E-value: 1.4e-90
+        clade2-1   8 s....ellelltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhg.eglreldkp 91 
+                     s    +++ l + +++++fpal++v p+  +++  lll  s ++l++  r+ l+      r+ +l+++a+++  l++ll+ ll g e+ +     
+  WP_114133434.1  12 ShgieKAFYLAACAVLAAFPALMFVKPTLSNICYGLLLGWSACTLVAGGRAGLAecgtllRRYWLFMLAMAALPLAVLLQQLLAGaEEPHVSYLY 106
+                     245545666777788899***************************998888777777888*********************99962566666789 PP
+
+        clade2-1  92 srfllaipvlllllay.pprlaalwlGlalGaiaagllalyqrlvlgleRaggftnaIqfGnlslllgllslagllwarkqrrrrwalllllgal 185
+                     +rf l+ip+++ ++++ +   + + +G+++ a+++++++ ++  + g +   g +n I+  nls+l+g+l+l++++w r  r ++ + l ll+ +
+  WP_114133434.1 107 LRFALFIPLVFGMVRLgRGGMRSVQWGFVVCALLSAAWI-HEATAAGRPAHVGSSNIIPLSNLSMLMGILALISIGWDRP-RDYLQSGLKLLAGF 199
+                     ********888666651667************9999986.46666777777799***********************997.58999********* PP
+
+        clade2-1 186 aGllasllSgsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAl 280
+                     aGl++s +Sg+RGGW+a+p+++l+ l a +r+l++  ++++la ++ l++++++  +t vq+R  e+vs+++q+ ++   dtS+G+Rl++W+++l
+  WP_114133434.1 200 AGLYGSYMSGTRGGWLAIPVLALIAL-AASRRLTRLHKAAALAGLVGLMVLTWF-GSTWVQQRTTEVVSELSQFDHHVTLDTSIGIRLQLWRTSL 292
+                     ***********************999.777888888888888888888888887.99************************************** PP
+
+        clade2-1 281 eliaekPllGwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyi 375
+                     ++++ +P++G+g e++e+ l++l+++++isp + ++ h HNe+L+a+a+ Gi+Glla+lalylvP+++F+r+l +ad+ +++++ +G+ l++ ++
+  WP_114133434.1 293 QMVQAHPWTGVGPENFEQTLEALAAQHVISPLAGTMPHSHNELLHAAATLGIPGLLAILALYLVPAAFFMRHLGNADRGTQVASAMGLALCCGFM 387
+                     *********************************************************************************************** PP
+
+        clade2-1 376 dfgLTqvflahnsgvmfYafmlvvlwgllraaeke 410
+                     +fgLT+v++a    ++fY ++++v+++++ a++++
+  WP_114133434.1 388 VFGLTEVMFATTLVNAFYSLIMAVCFAYVVARKDA 422
+                     ****************************9998864 PP
+
+>> WP_116600684.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  293.7  35.1   2.5e-90   2.5e-90      13     409 ..      21     421 ..       4     428 .. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 293.7 bits;  conditional E-value: 2.5e-90
+        clade2-1  13 lltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhgeg.lreldkpsrfllaipv 100
+                     l + +++++fpal++v ps  + ++ lll  s++ l++  r+a++      r+ + +++a+++  l++l++ ll+g++  +     +rf l+i++
+  WP_116600684.1  21 LSACVVLAAFPALMFVKPSLSNTCFGLLLGWSVIALAAGGRAAVAeygvilRRYWPFMLAMAALPLAVLIQQLLSGAEdPHVPYLYLRFALFIVL 115
+                     456678899*************************99987777666678999************************75505555789******999 PP
+
+        clade2-1 101 lllllayppr.laalwlGlalGaiaagllalyqrlvlgleRag..gftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGllasl 192
+                     +  +l++  r  + + +G+++ a++++l+    + v    R++  gf+n+I+fGnl+ll+g+l++++++w r    +++a l ll+ ++Gl+as 
+  WP_116600684.1 116 VPGMLRLGRRgMQSIQWGFVACALISALW---LHEVAAAGRPShvGFSNVIPFGNLALLTGMLAVISIGWNRPG-DHWLAGLKLLAGFGGLYASY 206
+                     998888877769********999887655...45555555665559************************9975.56789*************** PP
+
+        clade2-1 193 lSgsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliaekP 287
+                     +Sg+RGGW+a+p+++l+ l a +r+l++  ++++l+ ++ l+a+ ++  +  vq+R +++vs+++q++++  +dtS G+Rl++W+a+leli+ +P
+  WP_116600684.1 207 MSGTRGGWLAIPVLALIAL-AASRRLTRLHKAGVLVGLAGLMALGWF-SSAIVQQRTAAVVSELSQFVQHVTSDTSTGIRLQLWRASLELIQAHP 299
+                     ****************999.777777777777777777666666665.999******************************************** PP
+
+        clade2-1 288 llGwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLTqv 382
+                     ++G+g e++e+ l++l+++++i+p ++++ h HNe+L+a+a+ Gi+Glla+lalylvP+v+F+r+lr +d+ +r+++ +G+ l++ +++fgLT+v
+  WP_116600684.1 300 WTGVGPEHFESTLQTLAAQHVITPLAATMPHSHNELLHAAATLGIPGLLAILALYLVPAVFFLRHLRGTDRGTRVASAMGLALCCGFMVFGLTEV 394
+                     *********************************************************************************************** PP
+
+        clade2-1 383 flahnsgvmfYafmlvvlwgllraaek 409
+                     ++a    ++fY +++++++g++ a+++
+  WP_116600684.1 395 MFATTLVNAFYSLVMAFCFGYVVARQS 421
+                     *********************999875 PP
+
+>> WP_174077037.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  293.1  34.9   3.8e-90   3.8e-90      14     409 ..      22     421 ..       5     428 .. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 293.1 bits;  conditional E-value: 3.8e-90
+        clade2-1  14 ltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhgeg.lreldkpsrfllaipvl 101
+                      + +++++fpal++v ps  + +  lll  + + l++  r+ l+      r+ + +++a+++  l++l + ll+g++  +     +rf l+i+++
+  WP_174077037.1  22 SACVVLAAFPALMFVKPSLSNTCYGLLLGWGAIALAAGGRAGLAeygailRRYWFFMLAMAALPLAVLTQQLLSGAEdPHVPYLYLRFALFIVLV 116
+                     55678889****************99999998888887888777778888***********************975505555789******9999 PP
+
+        clade2-1 102 llllayppr.laalwlGlalGaiaagllalyqrlvlgleRag..gftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGllasll 193
+                       ll++  r  + + +G+++ a++++l+    + v    R++  gf+n+I+fGnl+ll+g+l++++++w r    +++a l ll+ +aGl+as +
+  WP_174077037.1 117 PGLLRLGRRgMQNIQWGFVACALISALW---LHEVAAAGRPShvGFSNVIPFGNLALLTGMLAVISIGWNRPG-DHWLAGLKLLAGFAGLYASYM 207
+                     9888887776999******999887655...45555555665559************************9975.56789**************** PP
+
+        clade2-1 194 SgsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliaekPl 288
+                     Sg+RGGW+a+p+++l+ l a +r+l++  ++++l+ ++ l+a+ ++  +  vq+R +++vs+v+q++++  +dtS+G+Rl++W+a+leli+ +P+
+  WP_174077037.1 208 SGTRGGWLAIPVLALIAL-AASRRLTRLHKAGVLVGLAGLMALGWF-SSAIVQQRTAAVVSEVSQFVQHVTSDTSIGVRLQLWRASLELIQAHPW 300
+                     ***************999.777777777777777777666666665.999********************************************* PP
+
+        clade2-1 289 lGwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLTqvf 383
+                     +G+g e++e  l++l+++++i+p ++++ h HNe+L+a+a+ Gi+G+la+lalylvP+v+F+r+lr +d+ +r+++ +G+ l++ +++fgLT+v+
+  WP_174077037.1 301 TGVGPEHFETTLQTLAAQHVITPLAATMPHSHNELLHAAATLGIPGVLAILALYLVPAVFFLRHLRGTDRGTRVASAMGLALCCGFMVFGLTEVM 395
+                     *********************************************************************************************** PP
+
+        clade2-1 384 lahnsgvmfYafmlvvlwgllraaek 409
+                     +a    ++fY ++++++++++ a+++
+  WP_174077037.1 396 FATTLVNAFYSLVMALCFAYVIARQS 421
+                     ********************999875 PP
+
+>> WP_112774438.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  293.0  34.6   3.9e-90   3.9e-90      13     409 ..      21     421 ..       4     428 .. 0.89
+
+  Alignments for each domain:
+  == domain 1  score: 293.0 bits;  conditional E-value: 3.9e-90
+        clade2-1  13 lltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhgeg.lreldkpsrfllaipv 100
+                     l + +++++fpal++v ps  + ++ lll  s + l++  r+  +      r+ + +++a+++  l++l++ ll+g++  +     +rf l+i++
+  WP_112774438.1  21 LSACVVLAAFPALMFVKPSLSNTCFGLLLGWSAIALVAGGRAGRAeyglilRRYWPFMLAMAALPLAVLVQQLLSGAEdPHVPYLYLRFALFILL 115
+                     456678899******************999998888764443333345778***********************975505555789*******99 PP
+
+        clade2-1 101 lllllayppr.laalwlGlalGaiaagllalyqrlvlgleRag..gftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGllasl 192
+                     +  +l++  r  + + +G+++ a++++l+    + v    R++  gf+n+I+fGnl+ll+g+l++++++w r    +++a l ll+ ++Gl+as 
+  WP_112774438.1 116 VPGMLRLGRRgMQSIQWGFVACALISALW---LHEVAAAGRPShvGFSNVIPFGNLALLTGMLAVISIGWNRPG-DHWLAGLKLLAGFGGLYASY 206
+                     999998877769********999887655...45555555665559************************9975.56789*************** PP
+
+        clade2-1 193 lSgsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliaekP 287
+                     +Sg+RGGW+a+p+++l+ l a +r+l++  ++++l+ ++ l+a+ ++  +  vq+R +++vs+++q++++  +dtS G+Rl++W+a+leli+ +P
+  WP_112774438.1 207 MSGTRGGWLAIPVLALIAL-AASRRLTRLHKAGVLVGLAGLMALGWF-SSAIVQQRTAAVVSELSQFVQHVTSDTSTGIRLQLWRASLELIQAHP 299
+                     ****************999.777777777777777777666666665.999******************************************** PP
+
+        clade2-1 288 llGwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLTqv 382
+                     ++G+g e++e+ l++l+++++i+p ++++ h HNe+L+a+a+ Gi+Glla+lalylvP+v+F+r+lr +d+ +r+++ +G+ l++ +++fgLT+v
+  WP_112774438.1 300 WTGVGPEHFESTLQTLAAQHVITPLAATMPHSHNELLHAAATLGIPGLLAILALYLVPAVFFLRHLRGTDRGTRVASAMGLALCCGFMVFGLTEV 394
+                     *********************************************************************************************** PP
+
+        clade2-1 383 flahnsgvmfYafmlvvlwgllraaek 409
+                     ++a    ++fY +++++++g++ a+++
+  WP_112774438.1 395 MFATTLVNAFYSLVMAFCFGYVVARQS 421
+                     *********************999875 PP
+
+>> WP_153956467.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  292.6  33.3   5.2e-90   5.2e-90       9     410 ..      17     422 ..       4     429 .] 0.89
+
+  Alignments for each domain:
+  == domain 1  score: 292.6 bits;  conditional E-value: 5.2e-90
+        clade2-1   9 ellelltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhg.eglreldkpsrfll 96 
+                     ++l l + +++++fpal++v p+  +l+  lll  s ++l++  r+  +      r+ + +++a+++  l++ll+ ll+g e+ +     +rf l
+  WP_153956467.1  17 KALYLAACAVLAAFPALMFVKPTVSNLCYGLLLGWSAITLVAGGRAGRTecgallRRYWFFMLAMAALPLAVLLQQLLSGaEEPHVSYLYLRFAL 111
+                     4556667778899***********************9999875444322333555***********************962556666789***** PP
+
+        clade2-1  97 aipvlllllay.pprlaalwlGlalGaiaagllalyqrlvlgleRaggftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGlla 190
+                     +ip+++ ++++ +   + + +G+++ a+++++++ ++  + g +   g +n I+  nls+l+g+l+l++++w r  r ++ + + ll+ +aGl+a
+  WP_153956467.1 112 FIPLVFGMVRLgRGGMRSVQWGFVVCALLSAAWI-HEAAAAGRPAHVGSSNIIPLSNLSMLMGILALISIGWDRP-RDYLQSGMKLLAGFAGLYA 204
+                     ***888666651667************9999986.56666777777799***********************997.589999************* PP
+
+        clade2-1 191 sllSgsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliae 285
+                     s +Sg+RGGWia+p+++++ l a +r+l++  ++++l+ ++ l+a++++  +  vq+R  e+vs+++q+ ++   dtS+G+Rl++W+a+l++++ 
+  WP_153956467.1 205 SYMSGTRGGWIAIPVLAIIAL-AASRRLTRLHKAAALVGLAGLMALTWF-GSAWVQQRTTEVVSELSQFDHHVTPDTSIGIRLQLWRASLQMVRA 297
+                     ******************999.777777877788777777777777776.99******************************************* PP
+
+        clade2-1 286 kPllGwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLT 380
+                     +P++G+g e++e+ l++l ++++isp ++++ h HNe+L+a+a+ Gi+Glla+lalylvP+++F+r+l +ad+ +++++ +G+ l++ +++fgLT
+  WP_153956467.1 298 HPWTGVGPENFEQTLETLGAQHVISPLAATMPHSHNELLHATATLGIPGLLAILALYLVPAAFFLRHLGNADRGTQVASAMGLALCCGFMVFGLT 392
+                     *********************************************************************************************** PP
+
+        clade2-1 381 qvflahnsgvmfYafmlvvlwgllraaeke 410
+                     +v++a    ++fY ++++v+++++ a++++
+  WP_153956467.1 393 EVMFATTLVNAFYSLIMAVCFAYVVARKDA 422
+                     ***********************9998864 PP
+
+>> WP_115680899.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  292.5  37.2   5.6e-90   5.6e-90      13     409 ..      21     421 ..       4     428 .. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 292.5 bits;  conditional E-value: 5.6e-90
+        clade2-1  13 lltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhg.eglreldkpsrfllaipv 100
+                     l + +++++fpal++v ps  + +  lll  s + l++  r+al+      r+ + +++a+++  l++ll+ ll+g ++ +     +rf l+i++
+  WP_115680899.1  21 LSACVVLAAFPALMFVKPSLSNTCYGLLLGWSAIALAAGGRAALAeygcilRRYWPFMLAMAALPLAVLLQQLLTGaDDPHVPYLYLRFALFIVL 115
+                     456678899***********************9999988888888889999***********************972555666789***999998 PP
+
+        clade2-1 101 lllllayppr.laalwlGlalGaiaagllalyqrlvlgleRaggftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGllasllS 194
+                     +  +l++  r  + + +G+++ a++a+l+ l+++ + g +   gf+n+I+fGnl+ll+g+l++++++w r    +++a l ll+ +aGl+as +S
+  WP_115680899.1 116 VAGMLRLGRRgMQSIQWGFVACALIAALW-LHEVAAAGRPSHVGFSNVIPFGNLALLTGMLAVISIGWNRPG-DHWLAGLKLLAGFAGLYASYMS 208
+                     888888777669*********99999766.45555555555559************************9975.56789***************** PP
+
+        clade2-1 195 gsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliaekPll 289
+                     g+RGGW+a+p+++l+ l a +r+l++  ++++l+ ++ l+a+ ++  +  vq+R +++vs+++q++++  +dtS+G+Rl++W+a+lel++ +P++
+  WP_115680899.1 209 GTRGGWLAIPVLALIAL-AASRRLTRLHKAGVLVGLAGLMALGWF-SSAMVQQRTAAVVSELSQFVQHVTSDTSIGVRLQLWRASLELFQAQPWT 301
+                     **************999.777777777777777777666666665.99*********************************************** PP
+
+        clade2-1 290 GwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLTqvfl 384
+                     G+g e++e  l++l+++++i+p ++++ h HNe+L+a+a+ Gi+Glla+lalylvP+v+F+r+lr +d+ +r+++ +G+ l++ +++fgLT+v++
+  WP_115680899.1 302 GVGPEHFETTLQTLATQHVITPLAATMPHSHNELLHAAATLGIPGLLAILALYLVPAVFFLRHLRGTDRGTRVASAMGLALCCGFMVFGLTEVMF 396
+                     *********************************************************************************************** PP
+
+        clade2-1 385 ahnsgvmfYafmlvvlwgllraaek 409
+                     a    ++fY ++++++++++ a+++
+  WP_115680899.1 397 ATTLVNAFYSLVMAFCFAYVVARQS 421
+                     *******************998875 PP
+
+>> NUT14617.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  290.2  34.9   2.8e-89   2.8e-89      13     409 ..      21     421 ..       4     428 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 290.2 bits;  conditional E-value: 2.8e-89
+    clade2-1  13 lltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhgeglrel.dkpsrfllaipvllll 104
+                 l + +++++fpal++v ps  + ++ lll  s + l++  r+ l       r+ + +++a+++  l++l++ ll+g++  ++    +rf l+i+++  l
+  NUT14617.1  21 LSACVVLAAFPALMFVKPSLSNTCFGLLLGWSAIALAAGGRAGLGeyglilRRYWPFMLAMAALPLAVLVQQLLTGTEYPHVpYLYLRFALFILLVPGL 119
+                 456678899***********************9999988899888889999************************988877735789**9999988877 PP
+
+    clade2-1 105 layppr.laalwlGlalGaiaagllalyqrlvlgleRag..gftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGllasllSgsRGGW 200
+                 l +  r  + + +G+++ a++++l   + + v    R++  gf+n+I+fGnl +l+g+l++++++w r    +++a l ll+ +aGl+as +Sg+RGGW
+  NUT14617.1 120 LCLGRRgMQSIQWGFVACALISAL---WLHEVAAAGRPSnvGFSNVIPFGNLDMLTGMLAVISIGWNRPG-DYWLAGLKLLAGFAGLYASYMSGTRGGW 214
+                 776665599*******99888765...5555566666665599***********************9964.57779*********************** PP
+
+    clade2-1 201 ialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliaekPllGwgeegyeae 299
+                 +a+p+++l+ l a +r+l++  ++++l+ ++ l+a+v++  +  vqeR +++vs+++q++++  +dtS+G+Rl++W+a+lel++ +P++G+g +++e  
+  NUT14617.1 215 LAIPVLALIAL-AASRTLTRLHKAGVLVGLAGLMALVWF-SSALVQERTAAVVSELSQFVQHVTSDTSIGIRLQLWRASLELFQGHPWIGVGPDHFETT 311
+                 *******9999.888888888888888777777777776.999******************************************************** PP
+
+    clade2-1 300 lkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLTqvflahnsgvmfYafmlv 398
+                 l++l+++++i+p ++++ h HNe+L+a+a+ G++Glla+lalylvP+++F+r+lr +d+ +r+++ +G+ l++ +++fgLT+v++a    ++fY ++++
+  NUT14617.1 312 LQTLADQHVITPLAATMPHSHNELLHAAATLGVVGLLAILALYLVPAIFFLRHLRGTDRGTRVASAMGLALCCGFMVFGLTEVMFATTLVNAFYSLVMA 410
+                 *************************************************************************************************** PP
+
+    clade2-1 399 vlwgllraaek 409
+                 ++++++ a+++
+  NUT14617.1 411 FCFAYVVARQS 421
+                 *****998875 PP
+
+>> WP_115710483.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  290.2  38.6   2.8e-89   2.8e-89      13     409 ..      21     421 ..       4     428 .. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 290.2 bits;  conditional E-value: 2.8e-89
+        clade2-1  13 lltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhgeg.lreldkpsrfllaipv 100
+                     l + +++++fpal++v ps  + ++ lll  s + l++  r+al+      ++ + +++a+++  l++ll+ ll+g++  +     +rf l+i++
+  WP_115710483.1  21 LSACVVLAAFPALMFVKPSLSNTCFGLLLGWSAIALAAGGRAALAeygailSRYWPFMLAMAALPLAVLLQQLLTGAEdPHVPYLYLRFALFILL 115
+                     456678899*********************99999998888888878888899*********************975505555789****99999 PP
+
+        clade2-1 101 lllllayppr.laalwlGlalGaiaagllalyqrlvlgleRaggftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGllasllS 194
+                     +  +l++  r  + + +G+++ a++a+l+ l+++ + g +   gf+n+I+fGnl+ll+g+l++++++w r    +++a l ll+ +aGl+as +S
+  WP_115710483.1 116 VAGMLRLGRRgMQSIQWGFVACALIAALW-LHEVAAAGRPSHVGFSNVIPFGNLALLTGMLAVISIGWNRPG-DHWLAGLKLLAGFAGLYASYMS 208
+                     988888877769*********99999766.45555555555559************************9975.56789***************** PP
+
+        clade2-1 195 gsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliaekPll 289
+                     g+RGGW+a+p+++l+ l a +r+l++  ++++l+ ++ l+a+ ++  +  vq+R +++vs+++q++++  +dtS+G+Rl++W+a+lel++ +P++
+  WP_115710483.1 209 GTRGGWLAIPVLALIAL-AASRRLTRLHKAGVLVGLAGLMALGWF-SSAMVQQRTAAVVSELSQFVQHVTSDTSIGVRLQLWRASLELFQAQPWT 301
+                     **************999.777777777777777777666666665.99*********************************************** PP
+
+        clade2-1 290 GwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLTqvfl 384
+                     G+g e++e  l++l+++++i+p ++++ h HNe+L+a+a+ Gi+Glla+lalylvP+v+F+r+lr +d+ +r+++ +G+ l++ +++fgLT+v++
+  WP_115710483.1 302 GVGPEHFEMTLQTLATQHVITPLAATMPHSHNELLHAAATLGIPGLLAILALYLVPAVFFLRHLRGTDRGTRVASAMGLALCCGFMVFGLTEVMF 396
+                     *********************************************************************************************** PP
+
+        clade2-1 385 ahnsgvmfYafmlvvlwgllraaek 409
+                     a    ++fY ++++++++++ a+++
+  WP_115710483.1 397 ATTLVNAFYSLVMAFCFAYVVARQS 421
+                     *******************998875 PP
+
+>> WP_062801481.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  290.0  28.4   3.2e-89   3.2e-89      13     410 ..      21     422 ..       4     431 .. 0.89
+
+  Alignments for each domain:
+  == domain 1  score: 290.0 bits;  conditional E-value: 3.2e-89
+        clade2-1  13 lltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhg.eglreldkpsrfllaipv 100
+                     l + +++++fpal++v ps  + +  lll  s++ l++  r+a++      r+ + +++a+++  l+ ll+ ll+g ++ +     +rf l+i++
+  WP_062801481.1  21 LSACVVLAAFPALMFVKPSLSNTCYGLLLGWSVIALATGGRAAVAeygcilRRYWPFMLAMAALPLALLLQQLLTGaDDPHVPYLYLRFALFIVL 115
+                     456678899*************************99987777766788999***********************972555666789******999 PP
+
+        clade2-1 101 lllllayppr.laalwlGlalGaiaagllalyqrlvlgleRag..gftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGllasl 192
+                     +  ll++  r  + + +G+++ a++++l+    + v    R++  gf+n+I+fGnl+ll+g+l++++++w r   +++ + + ll+ +aGl+as 
+  WP_062801481.1 116 VPGLLRLGRRgMQNIQWGFVACALISALW---LHEVAAAGRPShvGFSNVIPFGNLALLTGMLAVISTGWNRP-GEYVQVGVKLLAGFAGLYASY 206
+                     99888887776999******999887655...45555555665559************************997.579999*************** PP
+
+        clade2-1 193 lSgsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliaekP 287
+                     +Sg+RGGWia+p+++lv l+a  r+l+ r+  ++ +lvla ++a+ ++ ++ vq+R  e+vs+++q+ ++   dtS G+Rl++W+a+l++ + +P
+  WP_062801481.1 207 MSGTRGGWIAVPVLVLVSLMAS-RKLK-RIHKGAGLLVLAGFMAATWLSSDRVQQRTMETVSELSQFAHHVTLDTSTGIRLQLWRASLKMLQAHP 299
+                     ******************9555.5555.55556666667777777778*********************************************** PP
+
+        clade2-1 288 llGwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLTqv 382
+                     + G+g e+ye++lk l+e+++++p ++++ haHN++L++ a+ Gi+Gl+a++alylvP+++F+ +lr++d+++++++ +G+ l++ +++fgLT++
+  WP_062801481.1 300 WAGVGPENYEQALKGLAEQHVVTPLAATMPHAHNDILHTGATLGIPGLIAIFALYLVPVAFFLYHLRSNDRDTQVASAMGLALCCGFMVFGLTEA 394
+                     *********************************************************************************************** PP
+
+        clade2-1 383 flahnsgvmfYafmlvvlwgllraaeke 410
+                     ++     +++Y ++++v+++++ +++k+
+  WP_062801481.1 395 MFGTTLVNACYSLIMAVCFAYVVSSKKA 422
+                     *********************9998865 PP
+
+>> WP_171515677.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  287.9  39.2   1.4e-88   1.4e-88      13     410 ..      21     422 ..       4     428 .. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 287.9 bits;  conditional E-value: 1.4e-88
+        clade2-1  13 lltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhgeg.lreldkpsrfllaipv 100
+                     l + +++++fpal++v ps  + ++ lll  s + l+++ r+ ++      r+ + +++a++   l++l++ l +g++ l+     +rf l+ip+
+  WP_171515677.1  21 LSACVVLAAFPALMFVKPSLSNTCFGLLLGWSAIALASSGRAGVAeygailRRYWPFMLAMAGLPLAVLIQQLATGAEtLHVPYLYLRFALFIPL 115
+                     455678899*********************999999987777666677888***********************975505556789*******97 PP
+
+        clade2-1 101 ll.lllaypprlaalwlGlalGaiaagllalyqrlvlgleRag..gftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGllasl 192
+                     ++ +++  +p  + + +G+++ a++++l   + + v    R++  gf+n+I+fGnl+ll+g+l++++++w r   +++ a l l++ +aGl+as 
+  WP_171515677.1 116 VIgMVRLGRPGMQSIQWGFMVCALVSAL---WLHEVAAAGRPShvGFSNVIPFGNLALLTGMLAVISIGWNRP-GEYLQAGLKLVAGFAGLYASY 206
+                     65266677999*********98887765...555555666666559************************997.58999**************** PP
+
+        clade2-1 193 lSgsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliaekP 287
+                     +Sg+RGGW+a+p+++l+ l a +r+l++  ++++la +l l+++ + + +  vq+R +++vs+++q +++  +dtS+G+Rl++W+a+leli+ +P
+  WP_171515677.1 207 MSGTRGGWLAIPVLALIAL-AASRRLKRWHKAAVLAGLLGLMVLGW-YSSAMVQQRTAAVVSELSQSVQHVTSDTSIGVRLQLWRASLELIQAHP 299
+                     ****************999.77778887777777777777666665.589********************************************* PP
+
+        clade2-1 288 llGwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLTqv 382
+                     ++G+g e++ea+l++++++++i+p ++++ h HNe+L+a+a+ Gi+Glla+lalylvP+++F+r+lr +d+ +r+++ +G+ l+  +++fgLT+v
+  WP_171515677.1 300 WTGVGPEHFEAALQTFAARHVITPLAATMPHSHNELLHAAATLGIPGLLAILALYLVPAAFFLRHLRGTDRGTRVASAMGLALCSGFMVFGLTEV 394
+                     *********************************************************************************************** PP
+
+        clade2-1 383 flahnsgvmfYafmlvvlwgllraaeke 410
+                     ++a    ++fY ++++++++++ a++++
+  WP_171515677.1 395 MFATTLVNAFYSLVMAFCFAYVVARQSK 422
+                     *********************9998864 PP
+
+>> WP_012353596.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  286.9  36.1   2.8e-88   2.8e-88      13     407 ..      21     419 ..       4     427 .. 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 286.9 bits;  conditional E-value: 2.8e-88
+        clade2-1  13 lltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhg.eglreldkpsrfllaipv 100
+                     l + +++++fp l++v ps  + ++ lll  s++ l++  r+al+      r+ + +++a+++  l++ll+ ll g ++ +     +rf l+i++
+  WP_012353596.1  21 LSACVVLAAFPTLMFVKPSLSNTCFGLLLGWSVIALAAGGRAALAeygcilRRYWPFMLAMAALPLAVLLQQLLAGaDDPHVPYLYLRFALFIVL 115
+                     455678889***************************998899888899999*********************99961555666789******999 PP
+
+        clade2-1 101 lllllayppr.laalwlGlalGaiaagllalyqrlvlgleRag..gftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGllasl 192
+                     +  ll++  r  + + lG+++ a++++l+    + v    R++  gf+n+I+fGnl+ll+g+l++++++w r    +++a l llg +aGl+as 
+  WP_012353596.1 116 VPGLLRLGRRgMQNIQLGFVACALISALW---LHEVAAAGRPShvGFSNVIPFGNLALLTGMLAVISIGWNRPG-DHWLAGLKLLGGFAGLYASY 206
+                     99888887776999******999887655...45555556665559************************9975.56789*************** PP
+
+        clade2-1 193 lSgsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliaekP 287
+                     +Sg+RGGW+a+p+++l+ l a +r+l++  ++++la ++ l+a+ ++  +  vq+R +++vs+++++ ++   dtS+G+Rl++W+a+l++ + +P
+  WP_012353596.1 207 MSGTRGGWLAIPVLALIAL-AASRRLTRLHKAGVLAGLAGLMALGWF-SSAMVQQRTAAVVSELSKFSQHVTLDTSIGIRLQLWQASLRMLQAHP 299
+                     ****************999.777777777777777766666666665.99********************************************* PP
+
+        clade2-1 288 llGwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLTqv 382
+                     ++G+g ++yea l++l+++++i+p ++++ haHN++L+a+a+ GilGlla+lalylvP+v+F+r+lr+a++ +++++ +G+ l++ +++fgLT++
+  WP_012353596.1 300 WTGVGPDNYEAILQSLAAQHVITPLAATLPHAHNDVLHAAATLGILGLLAVLALYLVPIVFFLRHLRSANRGTQVASAMGLALCFGFMVFGLTEA 394
+                     *********************************************************************************************** PP
+
+        clade2-1 383 flahnsgvmfYafmlvvlwgllraa 407
+                     ++    +++fY ++++v++ ++  +
+  WP_012353596.1 395 MFITTLTNAFYSLVIAVCFSYVVVH 419
+                     ******************9987665 PP
+
+>> WP_115687771.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  283.3  35.5   3.4e-87   3.4e-87      13     408 ..      21     420 ..       4     427 .. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 283.3 bits;  conditional E-value: 3.4e-87
+        clade2-1  13 lltsllvflfpalalvvpsgyslgavllllaslvllrkrprlals......redrlllaalllyflvallsvllhgeg.lreldkpsrfllaipv 100
+                     l + +++++fpal++v ps  + +  lll  s++++++  r+ l+      r+ + +++a+++  l++l++ ll+g++  +     +rf l+i++
+  WP_115687771.1  21 LSACVVLAAFPALMFVKPSLSNTCYGLLLGWSVIVMAAGGRAGLAeyglilRRYWPFMLAMAALPLAVLFQQLLTGAEdPHVPYLYLRFALFILL 115
+                     456678899***************************998899888889999************************75505555789*******99 PP
+
+        clade2-1 101 lllllayppr.laalwlGlalGaiaagllalyqrlvlgleRag..gftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGllasl 192
+                     +  +l++  r  + + +G+++ a++++l+    + v    R++  gf+n+I+fGnl+ll+g+l++++++w r    +++a l ll+ +aGl+as 
+  WP_115687771.1 116 VPGMLRLGRRgMQHIQWGFVACALISALW---LHEVAAAGRPShvGFSNVIPFGNLALLTGMLAVISIGWNRPG-DHWLAGLKLLAGFAGLYASY 206
+                     9999988777699*******999887655...45555555665559************************9975.56789*************** PP
+
+        clade2-1 193 lSgsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliaekP 287
+                     +Sg+RGGW+a+p+++l+ l a +r+l++  ++++la ++ l+a+ ++  +  vq+R +++vs+++q +++  +dtS+G+Rl++W+a+leli+ +P
+  WP_115687771.1 207 MSGTRGGWLAIPVLALIAL-AASRRLKRWHKAGVLAGLAGLMALGWF-TSALVQQRTAAVVSELSQSVQHVTSDTSIGIRLQLWRASLELIQAHP 299
+                     ***************9999.777888888888777777777776666.899******************************************** PP
+
+        clade2-1 288 llGwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLTqv 382
+                     ++G+g e++e  l++l++e +i+p ++++ h HNe+L+a+a+ G++Glla+lalylvP+++F+r lr +d+ ar+ + +G+ l++ +++fgLT+v
+  WP_115687771.1 300 WTGVGPEHFEGSLQTLAAERVITPLAATMPHSHNELLHAAATLGMPGLLAVLALYLVPAAFFLRYLRGTDRGARVGSAMGLALCCGFMVFGLTEV 394
+                     *********************************************************************************************** PP
+
+        clade2-1 383 flahnsgvmfYafmlvvlwgllraae 408
+                     ++a    ++fY ++++++++++  ++
+  WP_115687771.1 395 MFATTLVNAFYSLVMAFCFAYVIVRQ 420
+                     *******************9987665 PP
+
+>> WP_132979369.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  251.0  31.9   2.3e-77   2.3e-77      11     408 ..      17     414 ..       6     425 .. 0.89
+
+  Alignments for each domain:
+  == domain 1  score: 251.0 bits;  conditional E-value: 2.3e-77
+        clade2-1  11 lelltsllvflfpalalvvpsgyslgavllllaslvllrk..rprlals...redrlllaalllyflvallsvllhgeglreldkpsrfllaipv 100
+                     l+ l ++l++lfp+++l   s  ++++++l + +l +l    r r ++    r++  l +a+ll+ l+++++ ++ g++++      rf+l  ++
+  WP_132979369.1  17 LQGLLAVLLALFPVFLLPKMSVSNALFTVLACWGLGCLLVpgRDRERWGtywRSAGGLSLAFLLWPLAVAIQQAVAGQPINIPYLFTRFVLLFVL 111
+                     5778899***********99999999999999999888653344444445569999*********************************988888 PP
+
+        clade2-1 101 lllllaypp.rlaalwlGlalGaiaagllalyqrlvlgleRag..gftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGllasl 192
+                      + l ++   rl+++ +G+a++a+ a++++ + +l     R++  g +n I+f nl+ll+g l+ ++++w    r++++  + ll++laG++   
+  WP_132979369.1 112 AWGLTRLGAkRLEWMAWGCAAAACYAAVWIHFATL---EMRPDhvGIYNIIPFSNLALLMGALAAISIGWDEP-RQYAIHGVKLLAMLAGMYVAY 202
+                     777777655169**************999988887...455654488***********************886.6899***************** PP
+
+        clade2-1 193 lSgsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliaekP 287
+                       ++RG+W+a+p++++v++ +y+ + s++l++++l +++++ ++++   ++ v+eRv+e v+ +    +    d+S G R+++W+a+l+l+ae+P
+  WP_132979369.1 203 SGQTRGSWLAVPVLVCVVCASYR-HGSRKLRVMALSALVVVGVSIA-GTSDMVRERVAESVAALAGGKN--TLDSSSGGRIQVWHASLRLFAEHP 293
+                     ******************96665.5566666666666666555554.5899**********99998776..589********************* PP
+
+        clade2-1 288 llGwgeegyeaelkelveegkispsvlefghaHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLTqv 382
+                     ++G+g+e+++++l+e++++g i+++++e+ h HN++L a+a  G++Gl+a+l lyl+P+v+F rrlrrad+++ ++a +G++  vs+++fgLT++
+  WP_132979369.1 294 WTGVGREHFRDALREQAKAGLITREAAELAHSHNDILYAMAAYGVPGLIAVLTLYLAPAVFFGRRLRRADPRVACAAAMGLTTAVSFFIFGLTEA 388
+                     *********************************************************************************************** PP
+
+        clade2-1 383 flahnsgvmfYafmlvvlwgllraae 408
+                     +++  ++++fY+++++ l++++  +e
+  WP_132979369.1 389 MFSISITNAFYVLIMAWLVAFIVCRE 414
+                     ********************987666 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (416 nodes)
+Target sequences:                         26  (11132 residues searched)
+Passed MSV filter:                        26  (1); expected 0.5 (0.02)
+Passed bias filter:                       26  (1); expected 0.5 (0.02)
+Passed Vit filter:                        26  (1); expected 0.0 (0.001)
+Passed Fwd filter:                        26  (1); expected 0.0 (1e-05)
+Initial search space (Z):                 26  [actual number of targets]
+Domain search space  (domZ):              26  [number of targets reported over threshold]
+# CPU time: 0.05u 0.00s 00:00:00.05 Elapsed: 00:00:00.05
+# Mc/sec: 90.10
+//
+[ok]

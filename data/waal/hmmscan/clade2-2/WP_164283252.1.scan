@@ -1,0 +1,99 @@
+# hmmscan :: search sequence(s) against a profile database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             data/waal/hmmscan/clade2-2/WP_164283252.1.fasta
+# target HMM database:             data/waal/hmmscan/db/hmmdb
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       WP_164283252.1  [L=418]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+   3.1e-189  616.7  32.1   3.3e-189  616.6  32.1    1.0  1  clade2-2  
+    4.5e-76  243.6  31.5    5.7e-76  243.3  31.5    1.0  1  clade2-1  
+
+
+Domain annotation for each model (and alignments):
+>> clade2-2  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  616.6  32.1  2.2e-189  3.3e-189       7     411 ..       9     413 ..       1     418 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 616.6 bits;  conditional E-value: 2.2e-189
+        clade2-2   7 sasersrlaralaelalfalpalvlsvpkgllpfglllllatllalralrrarreagkvlrvllllvlavlavallSvllfeqelrdvdnrsRlL 101
+                     +a  r+ +a+ala+l+lf+lpalvl+vp +llp+glllll+tlla++ l+rar +ag++++vl++l+lavla+ +lSv+lfeq+lrdvdnrsR++
+  WP_164283252.1   9 PAGGRHGVAHALAQLGLFCLPALVLTVPINLLPYGLLLLLSTLLAPELLWRARGMAGQPVKVLAWLMLAVLALGVLSVVLFEQGLRDVDNRSRFV 103
+                     5678999**************************************************************************************** PP
+
+        clade2-2 102 vlpwaallvlalrprrrwLWrGalvGllaallialvqvlqgaeRaegwtnaIvfAdivlaLlvlvvfcRpsgrlrllvlalaagvvvivlsGsRG 196
+                     v+pw+al+v+alrp+ rwLW+G l+Glla+++++l+qvl ga+Rae +tnaIv+Adiv++L+vl+vfcRps+r++l++l++aag+ +ivl+GsRG
+  WP_164283252.1 104 VIPWIALWVCALRPNLRWLWYGSLTGLLATFAMSLWQVLGGAPRAELFTNAIVLADIVMVLMVLLVFCRPSRRWSLVILGMAAGCGTIVLTGSRG 198
+                     *********************************************************************************************** PP
+
+        clade2-2 197 vllalllllvvlllsvrwrslrlrllvlaaalalaaalllsvpalteqvRleelqsdvqrleqGdsdssaGaRlellqvAwdtflehPltGvGvg 291
+                     v++all+llvvl+ls+rwr++++rl+vla++la+ a+lllsvp+l++qvRl+el+sdvqr+e GdsdssaGaR+e+lqvAw+tfl+hPl+GvG+g
+  WP_164283252.1 199 VFAALLALLVVLALSLRWRTGAARLSVLAGMLAIGATLLLSVPELRHQVRLSELHSDVQRMELGDSDSSAGARVERLQVAWETFLDHPLVGVGIG 293
+                     *********************************************************************************************** PP
+
+        clade2-2 292 rFdramqalpaCredeeeerchLgHAHnDlaewaATqGvpGlllllalygvPlwlfvrllrrsgeerfrgpaaagvmvvvayllcGLtQsmfAHq 386
+                     +Fd+am ++p+Cre++ee rchLgHAHnD+aewaATqGvpGllllla+yg+Pl lfvrl+rrsg+++frgpaaag+m+v++y+lcGLtQsmfAHq
+  WP_164283252.1 294 HFDSAMLRVPVCRENPEELRCHLGHAHNDVAEWAATQGVPGLLLLLAVYGIPLGLFVRLHRRSGRSTFRGPAAAGIMLVITYALCGLTQSMFAHQ 388
+                     *********************************************************************************************** PP
+
+        clade2-2 387 vtasfYaalvGlLlGlalreaeear 411
+                     +tasfY+++vGlL+Gl+++e +++r
+  WP_164283252.1 389 MTASFYVTMVGLLTGLSIVEGARHR 413
+                     ********************99987 PP
+
+>> clade2-1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  243.3  31.5   3.8e-76   5.7e-76      10     407 ..      16     408 ..       4     416 .. 0.89
+
+  Alignments for each domain:
+  == domain 1  score: 243.3 bits;  conditional E-value: 3.8e-76
+        clade2-1  10 llelltsllvflfpalalvvpsgyslgavllllaslvll.rkrprlals.redrlllaalllyflvallsvllhgeglreldkpsrfllaipvll 102
+                     ++++l++l +f++pal+l+vp       +llll +l+     ++++ ++ +  ++l + +l+++++ +lsv+l ++glr++d+ srf+++  + l
+  WP_164283252.1  16 VAHALAQLGLFCLPALVLTVPINLLPYGLLLLLSTLLAPeLLWRARGMAgQPVKVLAWLMLAVLALGVLSVVLFEQGLRDVDNRSRFVVIPWIAL 110
+                     5678999**************87655555555555544323355555555889999*************************************** PP
+
+        clade2-1 103 lllaypprlaalwlGlalGaiaagllalyqrlvlgleRaggftnaIqfGnlslllgllslagllwarkqrrrrwalllllgalaGllasllSgsR 197
+                     +++a++p+l++lw+G + G +a++++ l+q+l  g +Ra+ ftnaI  +++ ++l +l    l+++r   +rrw  l++lg++aG+ +++l+gsR
+  WP_164283252.1 111 WVCALRPNLRWLWYGSLTGLLATFAMSLWQVL-GGAPRAELFTNAIVLADIVMVLMVL----LVFCRP--SRRW-SLVILGMAAGCGTIVLTGSR 197
+                     ******************************99.79******************99765....445563..3556.5889**************** PP
+
+        clade2-1 198 GGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliaekPllGwg 292
+                     G + al+++l+vl+l+++ + ++ +l +l+ ++++ +++++ +p+   q R++e  sdvq+ e g ++d+S GaR e  + A+e + ++Pl+G+g
+  WP_164283252.1 198 GVFAALLALLVVLALSLRWRTGAARLSVLAGMLAIGATLLLSVPELRHQVRLSELHSDVQRMELG-DSDSSAGARVERLQVAWETFLDHPLVGVG 291
+                     **************9999999999999999999999***************************96.88*************************** PP
+
+        clade2-1 293 eegyeaelkelveegkispsvl.efghaHNeyLdalakrGilGllallalylvPlvlFarrlrra.dlearalalaGvllvvsyidfgLTqvfla 385
+                      +++ +++ ++    +  +++  ++ghaHN++ + +a++G++Gll+lla+y++Pl lF+r  rr+ + + r +a aG++lv++y   gLTq+++a
+  WP_164283252.1 292 IGHFDSAMLRVPVCRENPEELRcHLGHAHNDVAEWAATQGVPGLLLLLAVYGIPLGLFVRLHRRSgRSTFRGPAAAGIMLVITYALCGLTQSMFA 386
+                     ********99876666666655267***********************************88886368999************************ PP
+
+        clade2-1 386 hnsgvmfYafmlvvlwgllraa 407
+                     h+++++fY++m+ +l gl   +
+  WP_164283252.1 387 HQMTASFYVTMVGLLTGLSIVE 408
+                     ****************998765 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (418 residues searched)
+Target model(s):                           3  (1239 nodes)
+Passed MSV filter:                         3  (1); expected 0.1 (0.02)
+Passed bias filter:                        2  (0.666667); expected 0.1 (0.02)
+Passed Vit filter:                         2  (0.666667); expected 0.0 (0.001)
+Passed Fwd filter:                         2  (0.666667); expected 0.0 (1e-05)
+Initial search space (Z):                  3  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+# Mc/sec: 82.64
+//
+[ok]

@@ -1,0 +1,94 @@
+# hmmscan :: search sequence(s) against a profile database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             data/waal/hmmscan/clade1/ERN78768.1.fasta
+# target HMM database:             data/waal/hmmscan/db/hmmdb
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       ERN78768.1  [L=446]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+   3.3e-191  623.0  20.4   4.1e-191  622.7  20.4    1.0  1  clade1    
+    1.3e-13   37.9  15.1    4.6e-13   36.1  15.1    2.3  1  clade2-1  
+
+
+Domain annotation for each model (and alignments):
+>> clade1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  622.7  20.4  2.8e-191  4.1e-191       1     403 [.       1     407 [.       1     409 [. 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 622.7 bits;  conditional E-value: 2.8e-191
+      clade1   1 Mlltsl.ekkekkkslwnkalvflfialyfldgitryknlvvilivitalvylvkdpkkvlkllknnlflsllllllallysiliSvdpklSlkeinkt 98 
+                 Ml+tsl  +kek+k++wnkalvflf+a+yfldgitryk+l++il+vita+++++++pk++  l+kn++f+s+++l+l+l+ysiliS+d+k+S+ke+++t
+  ERN78768.1   1 MLTTSLtLNKEKWKPIWNKALVFLFVATYFLDGITRYKHLIIILMVITAIYQVSRSPKSFPPLFKNSVFYSVAVLSLILVYSILISPDMKESFKEFENT 99 
+                 778877789****************************************************************************************** PP
+
+      clade1  99 ileglllfsllipivLkkekkekiaklvlvsfliglllillkelvqYieeYqkgilpftnyehReisdalvflfpallalwllkkkkskllflvlslif 197
+                 +leg+ll++llip++Lk+e+ke++ak++l+sfl++l l++l+e ++Yie+Y+kgi+pf++y+hR++sd++vflfpall++wl++k+  kl+flvls+i+
+  ERN78768.1 100 VLEGFLLYTLLIPVLLKDETKETVAKILLFSFLTSLGLRCLAESILYIEDYNKGIMPFMSYAHRHMSDSMVFLFPALLNIWLFRKNALKLVFLVLSAIY 198
+                 *************************************************************************************************** PP
+
+      clade1 198 lfllLGtlsRGawlavlvvtllwlilnrewkllllaliillil.llvitl.knkekskkLlykLeqtdsskrytnGtqgsAleLilenPikGYGyGnkv 294
+                 lf++LGtlsRGawlavl+v++lw+ilnr+wkl+ +++i+l+i+ +lvit+ +n+++s++LlykL+qtdss+rytnGtqg+A+ Li+enPikGYGyGn+v
+  ERN78768.1 199 LFFILGTLSRGAWLAVLIVGALWAILNRQWKLIGVGAILLAIIgALVITQhNNQSDSEHLLYKLQQTDSSSRYTNGTQGTAWILIQENPIKGYGYGNDV 297
+                 ****************************************99999999977999********************************************* PP
+
+      clade1 295 YhkvYnkrvkdypeWtfkksiGPHnifLaiWfaaGilgLlsllllllsilkesikair.knegiikqaalilllsfigvyivrGlfEqvelnqlgillG 392
+                 Y+ vYnkrv+dyp+Wtfk+siGPHn++L+iWf+aGilgL+sl++l+++i++e++++++ k e+++++a+l+l+lsf+g+yivrG+fEqv+++q+gi++G
+  ERN78768.1 298 YDGVYNKRVVDYPTWTFKESIGPHNTILYIWFSAGILGLASLAYLYGAIIRETASSTFrKAEISPYNAHLLLFLSFVGFYIVRGNFEQVDIAQIGIITG 396
+                 ******************************************************999878899************************************ PP
+
+      clade1 393 lllalrnkkkk 403
+                 +llalrn+ kk
+  ERN78768.1 397 FLLALRNRIKK 407
+                 ******98654 PP
+
+>> clade2-1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   36.1  15.1     3e-13   4.6e-13       7     385 ..      10     384 ..       1     411 [. 0.70
+
+  Alignments for each domain:
+  == domain 1  score: 36.1 bits;  conditional E-value: 3e-13
+    clade2-1   7 ksellelltsllvflfpalalv..vpsgyslgavllllaslvllrkrp..rlalsredrlllaalllyflvallsvllh...geglreldkpsr..fll 96 
+                 k+++  ++ ++lvflf+a+ ++  + +  +l+ +l+++++++ + ++p   ++l ++     +a+l  +lv+  s+l++   +e+++e+++ +   fll
+  ERN78768.1  10 KEKWKPIWNKALVFLFVATYFLdgITRYKHLIIILMVITAIYQVSRSPksFPPLFKNSVFYSVAVLSLILVY--SILISpdmKESFKEFENTVLegFLL 106
+                 3378889999******99987643555566666677777777665433113444454444444444444444..44444337999****9987522444 PP
+
+    clade2-1  97 aipvlllllaypprlaalwlGlalGaiaagllalyqrlvlgleRag.gftnaIqfGnlslllgllsl....agllwarkqrrrrwalllllgalaGlla 190
+                   +++ +ll+    ++++   l++  +++++l +    +l +e  + g +    ++   +   ++ l    + +  +r  ++++  ++l+l a+  l+ 
+  ERN78768.1 107 YTLLIPVLLK-DETKETVAKILLFSFLTSLGLRCLAESILYIEDYNkGIMPFMSYAHRHMSDSMVFLfpalLNIWLFR--KNALKLVFLVLSAIY-LFF 201
+                 4444444444.5556666777888888888898888889999888834555567777766544433311003333333..455566777777766.888 PP
+
+    clade2-1 191 sllSgsRGGWialplvllvlllaygrllskrllllllalvlallaavyaipqtgvqeRvdeavsdvqqYesggnadtSvGaRlemWkaAleliaekPll 289
+                 +l + sRG+W+a+++v  +++      l+++++l+++ ++l++++ +++i q + q+  ++ +  +qq  s+ +++t+  +      +A+ li+e+P+ 
+  ERN78768.1 202 ILGTLSRGAWLAVLIVGALWA-----ILNRQWKLIGVGAILLAIIGALVITQHNNQSDSEHLLYKLQQTDSS-SRYTNGTQ-----GTAWILIQENPIK 289
+                 999**********99998877.....678899999999999999999999*************999999885.78998655.....89**********9 PP
+
+    clade2-1 290 Gwgeegyeaelkelveegkispsvlefgh...aHNeyLdalakrGilGllallalylvPlvlFarrlrradlearalalaGvllvvsyidfgLTqvfla 385
+                 G+g+++  +  + ++++ +++  + +f++    HN +L  + + GilGl++l+ ly++ ++  a++  r+  ++ ++  a +ll +s+++f +    ++
+  ERN78768.1 290 GYGYGN--DVYDGVYNKRVVDYPTWTFKEsigPHNTILYIWFSAGILGLASLAYLYGAIIRETASSTFRK--AEISPYNAHLLLFLSFVGFYIVRGNFE 384
+                 999875..6667777777887777777542227************************9999888777765..355566677888888888876665555 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (446 residues searched)
+Target model(s):                           3  (1239 nodes)
+Passed MSV filter:                         3  (1); expected 0.1 (0.02)
+Passed bias filter:                        3  (1); expected 0.1 (0.02)
+Passed Vit filter:                         2  (0.666667); expected 0.0 (0.001)
+Passed Fwd filter:                         2  (0.666667); expected 0.0 (1e-05)
+Initial search space (Z):                  3  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.01
+# Mc/sec: 46.71
+//
+[ok]

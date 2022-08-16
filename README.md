@@ -43,7 +43,7 @@ When all jobs have finished, download the data: `scp -r idamei@transfer.gbar.dtu
 For Wzx, Wzz and WaaL, it is the same procedure, just `/work3/idamei/waal/blast/`
 
 ### Parsing Blast results
-To parse the blast expansion output files run `python3 src/data-collection-and-preprocessing/parse-blast-results.py [protein-family]`. Where `protein-family` is `wzy`, `wzx`, `wzz`, or `waal`.
+To parse the blast expansion output files run `python3 src/data-collection-and-preprocessing/parse-blast-results.py [protein-family]`. Where `protein-family` is `wzy`, `wzx`, `wzz`, `waal` or `eca-pol`.
 
 This will create the file `data/[protein-family]/blast/unique-hits.tsv` which contains a list of the hit accessions and their best e-values.
 
@@ -222,14 +222,15 @@ script not updates: `python src/waal-analysis/make-clade-fastas.py`
 `hmmbuild data/waal/clades/clade2-2/clade2-2.hmm data/waal/clades/clade2-2/clade2-2.afa`
 
 ### HMM search
-`hmmsearch data/waal/clades/clade1/clade1.hmm data/waal/clades/clade2/clade2.fasta > data/waal/hmmsearch/clade1_clade2.out`
-
-`hmmsearch data/waal/clades/clade2-1/clade2-1.hmm data/waal/clades/clade1/clade1.fasta > data/waal/hmmsearch/clade2-1_clade1.out`
-
-`hmmsearch data/waal/clades/clade2-1/clade2-1.hmm data/waal/clades/clade2-2/clade2-2.fasta > data/waal/hmmsearch/clade2-1_clade2-2.out`
-
-`hmmsearch data/waal/clades/clade2-2/clade2-2.hmm data/waal/clades/clade1/clade1.fasta > data/waal/hmmsearch/clade2-2_clade1.out`
-
-`hmmsearch data/waal/clades/clade2-2/clade2-2.hmm data/waal/clades/clade2-1/clade2-1.fasta > data/waal/hmmsearch/clade2-2_clade2-1.out`
+Search for hits in all clades with the three HMMs:
+`python src/waal-analysis/hmmsearch.py`
 
 ### HMM scan
+Make the database:
+`cat data/waal/clades/clade1/clade1.hmm data/waal/clades/clade2-1/clade2-1.hmm data/waal/clades/clade2-2/clade2-2.hmm > data/waal/hmmscan/db/hmmdb`
+
+Compress the database:
+`hmmpress data/waal/hmmscan/db/hmmdb`
+
+Run hmmscan:
+`python src/waal-analysis/hmmscan.py`
