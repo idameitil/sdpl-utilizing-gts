@@ -191,7 +191,7 @@ Then locally run:
 To generate fasta with short headers, run: `sed 's/ >.*$//' data/waal/blast/unique-hits.fasta > data/waal/blast/unique-hits-short-headers.fasta`
 
 ### Filter and redundancy reduce
-`python src/waal-analysis/filter-waal-blast-hits.py`
+`python src/data-collection-and-preprocessing/filter-waal-eca-pol-blast-hits.py waal 280 500`
 
 `cd-hit -i data/waal/blast/unique-hits-short-headers-1e-15-filtered.fasta -o data/waal/blast/unique-hits-short-headers-1e-15-filtered-cdhit99.fasta -c 0.99`
 
@@ -217,6 +217,8 @@ script not updates: `python src/waal-analysis/make-clade-fastas.py`
 ### Build HMMs
 `hmmbuild data/waal/clades/clade1/clade1.hmm data/waal/clades/clade1/clade1.afa`
 
+`hmmbuild data/waal/clades/clade2/clade2.hmm data/waal/clades/clade2/clade2.afa`
+
 `hmmbuild data/waal/clades/clade2-1/clade2-1.hmm data/waal/clades/clade2-1/clade2-1.afa`
 
 `hmmbuild data/waal/clades/clade2-2/clade2-2.hmm data/waal/clades/clade2-2/clade2-2.afa`
@@ -234,3 +236,25 @@ Compress the database:
 
 Run hmmscan:
 `python src/waal-analysis/hmmscan.py`
+
+### Make tree with all hits below 1e-15 and seeds
+`python src/waal-analysis/prepare-tree-all.py`
+
+## ECA-Pol
+
+### Filter and redundancy reduce
+`python src/data-collection-and-preprocessing/filter-waal-eca-pol-blast-hits.py eca-pol 400 600`
+
+`cd-hit -i data/eca-pol/blast/unique-hits-short-headers-1e-15-filtered.fasta -o data/eca-pol/blast/unique-hits-short-headers-1e-15-filtered-cdhit99.fasta -c 0.99`
+
+### Make MSA
+`scp data/eca-pol/blast/unique-hits-short-headers-1e-15-filtered-cdhit99.fasta idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/MSA/`
+
+On the HPC:
+`qrsh`
+`/work3/idamei/bin/muscle5.1.linux_intel64 -super5 /work3/idamei/eca-pol/MSA/unique-hits-short-headers-1e-15-filtered-cdhit99.fasta -output /work3/idamei/eca-pol/MSA/unique-hits-short-headers-1e-15-filtered-cdhit99.afa`
+
+`scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/MSA/ data/eca-pol/`
+
+### Build HMMs
+`hmmbuild data/eca-pol/hmm/eca-pol.hmm data/eca-pol/MSA/eca-pol.afa`
