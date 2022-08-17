@@ -1,0 +1,2 @@
+#grep -h -v "#" run/*out | args 2,4,-1 | sed 's/|[^ ]*|/./g' | sort > my.dmx
+grep -h -v "#" run/*out | args 2,4,-1 > my.dmx
