@@ -3,7 +3,7 @@
 ### -- specify queue -- 
 #BSUB -q hpc
 ### -- set the job Name -- 
-#BSUB -J Reembed_GH5_both
+#BSUB -J reembed
 ### -- ask for number of cores (default: 1) -- 
 #BSUB -n 1 
 ### -- specify that the cores must be on the same host -- 
@@ -17,7 +17,7 @@
 ### -- set the email address -- 
 # please uncomment the following line and put in your e-mail address,
 # if you want to receive e-mail notifications on a non-default address
-#BSUB -u garryg@dtu.dk
+#BSUB -u idamei@dtu.dk
 ### -- send notification at start -- 
 #BSUB -B 
 ### -- send notification at completion -- 

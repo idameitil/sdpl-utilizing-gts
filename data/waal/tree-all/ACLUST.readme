@@ -6,15 +6,11 @@
  chunkfasta -c 10 sequence.fasta > chunkfasta.out
 
 # Generate a matrix of alignfastas jobs to submit
-# Edit the runalignfastas.py and make sure N is the same as number of chunks
  mkdir run
  runalignfastas.py > submit.sh
 
 # submit the matrix of alignfastas jobs
  sh submit.sh
- bstat
-
-# wait for all the alignfastas to finish
  bstat
 
 # Run a script that generates the 'DMX' (labelA, labelB, distanceA,B)
@@ -25,6 +21,6 @@
  bstat
 
 # Look at the err file soon after starting the REEMBED job, to see that it is working properly (could read the right number of dmx elements)
- more reembed*err
+ less reembed*err
 
 # When it finishes, you will have a my.tree (Newick file)
