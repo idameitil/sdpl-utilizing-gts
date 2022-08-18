@@ -190,6 +190,12 @@ Then locally run:
 
 To generate fasta with short headers, run: `sed 's/ >.*$//' data/waal/blast/unique-hits.fasta > data/waal/blast/unique-hits-short-headers.fasta`
 
+### Enrich blast hits with taxonomy
+`python src/data-collection-and-preprocessing/enrich-blast-hits-waal-eca-pol.py waal`
+
+### Make nodes file
+`python src/data-collection-and-preprocessing/make-nodes-file-waal-eca-pol.py waal`
+
 ### Filter and redundancy reduce
 `python src/data-collection-and-preprocessing/filter-waal-eca-pol-blast-hits.py waal 280 500`
 
@@ -241,6 +247,12 @@ Run hmmscan:
 `python src/waal-analysis/prepare-tree-all.py`
 
 ## ECA-Pol
+
+### Enrich blast hits with taxonomy
+`python src/data-collection-and-preprocessing/enrich-blast-hits-waal-eca-pol.py eca-pol`
+
+### Make nodes file
+`python src/data-collection-and-preprocessing/make-nodes-file-waal-eca-pol.py eca-pol`
 
 ### Filter and redundancy reduce
 `python src/data-collection-and-preprocessing/filter-waal-eca-pol-blast-hits.py eca-pol 400 600`
