@@ -136,7 +136,7 @@ To build HMMs for each cluster, run `sh src/ssn-clustering/build-hmms.sh [timest
 ### HMM search
 `python src/ssn-clustering/search-hmms.py [timestamp]`
 
-### HHsearch
+### HHblits
 
 Put all MSAs in one folder with `python src/ssn-clustering/make-hhsearch_cb.py`
 
@@ -153,7 +153,17 @@ Create database:
 
 `ffindex_apply hhsearchdb_a3m.ff{data,index} -i hhsearchdb_hhm.ffindex -d hhsearchdb_hhm.ffdata -- hhmake -i stdin -o stdout -v 0`
 
+`cstranslate -f -x 0.3 -c 4 -I a3m -i hhsearchdb_a3m -o hhsearchdb_cs219`
 
+`sort -k3 -n -r hhsearchdb_cs219.ffindex | cut -f1 > sorting.dat`
+
+`ffindex_order sorting.dat hhsearchdb_hhm.ff{data,index} hhsearchdb_hhm_ordered.ff{data,index}`
+
+`mv hhsearchdb_hhm_ordered.ffindex hhsearchdb_hhm.ffindex`
+
+`mv hhsearchdb_hhm_ordered.ffdata hhsearchdb_hhm.ffdata`
+
+`python src/ssn-clustering/hhblitz.py [timestamp]`
 
 ## Phylogenetic trees
 
