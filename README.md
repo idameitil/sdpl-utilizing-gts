@@ -130,6 +130,12 @@ Push changes.
 
 To visualize alphafold models with conserved residues, run: `pymol data/wzy/ssn-clusterings/[timestamp]/pymol-visualization.pml`.
 
+### Build HMMs
+To build HMMs for each cluster, run `sh src/ssn-clustering/build-hmms.sh [timestamp]`.
+
+### HMM search
+`python src/ssn-clustering/search-hmms.py [timestamp]`
+
 ## Phylogenetic trees
 
 ### Make iTOL label files
