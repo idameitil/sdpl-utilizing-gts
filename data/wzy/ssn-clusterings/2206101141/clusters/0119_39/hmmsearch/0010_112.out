@@ -1,0 +1,108 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  data/wzy/ssn-clusterings/2206101141/clusters/0119_39/sequences.hmm
+# target sequence database:        data/wzy/ssn-clusterings/2206101141/clusters/0010_112/sequences.fa
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       sequences  [M=414]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    0.00049    8.1  50.3    0.00036    8.5  29.0    2.9  3  WP_102394208.1  
+  ------ inclusion threshold ------
+       0.95   -2.8  54.0     0.0038    5.1  19.2    3.2  3  MBS6057122.1    
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_102394208.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !    4.4  12.2    0.0012    0.0062      47     118 ..      32     101 ..      21     129 .. 0.61
+   2 ?   -0.5   5.0     0.037      0.19      71     103 ..     161     193 ..     123     203 .. 0.58
+   3 !    8.5  29.0   7.2e-05   0.00036     202     405 ..     164     363 ..     158     377 .. 0.57
+
+  Alignments for each domain:
+  == domain 1  score: 4.4 bits;  conditional E-value: 0.0012
+       sequences  47 liilvlllllskklskkkikkllililiyllyllifllvsss..nlksflilflvllpllllyflllvkknelk 118
+                     l++    +l+ + l+++  ++lli++l++++y+ ++ll+s++  + + +++++ ++  +l+++f ++ +k ++k
+  WP_102394208.1  32 LML----FLFLSLLNSRINDRLLIFVLLVTAYSTFYLLLSQNsmSHEPVVVYIRIIQSMLVVLFAYFLSKSHFK 101
+                     233....3333444544456799999999999999999999855444466455444444444554444444443 PP
+
+  == domain 2  score: -0.5 bits;  conditional E-value: 0.037
+       sequences  71 liliyllyllifllvsssnlksflilflvllpl 103
+                      +l++++++ ++++++ssn +++++ f++ll+ 
+  WP_102394208.1 161 NLLMMCFFCSFWIYTKSSNRSYLIYSFVFLLVP 193
+                     233444444445555445555555444433332 PP
+
+  == domain 3  score: 8.5 bits;  conditional E-value: 7.2e-05
+       sequences 202 siAllielflkkkkkk..kkilillitil.tTfSttGiivlllilllkllkklkkkkskkllkllllpill.vivvilllvlleeKlg.tgSgsi 291
+                     ++ + +++ +  k+++  + i  +++ ++ t + t G+i+ l++ +l +  ++  + + ++l +++++++  +++v+ l+++ e  ++    +s 
+  WP_102394208.1 164 MMCFFCSFWIYTKSSNrsYLIYSFVFLLVpTLMMTKGVILGLVLAFLIIGYEKLYRLYGRAL-IIVFILTGgLVFVFSLNYIHEFFSEfNINVSG 257
+                     44444444444444442222222223333133344455443333333332222223334444.23333333033344444444444432556667 PP
+
+       sequences 292 RldDyiagfkawkdhpifGnGfnnleaiqqymssfrrsntGfSnslfavLaqGGiylfllylipliklllksikkknlkvlifallflilfitti 386
+                     R + y+  ++a+ d+ ++G+G+++++++ +++    + n    n +++vL + Gi+ fl++l+ ++ l+ + i  ++ k   f+l +++ f++t 
+  WP_102394208.1 258 RDNLYVGALRAFSDN-FMGYGLDSQNTVLEQYT---GINYPAHNFFLSVLLELGIFAFLFFLFVILGLFKHLINIED-K---FSLAVFVAFFITG 344
+                     777777778888776.79*******88877665...5699999*************999999877777766665543.3...4667777777777 PP
+
+       sequences 387 fqytyllllllallyslil 405
+                     +  ++l+++ l +++ +++
+  WP_102394208.1 345 MFGNLLYFYKLHFFILCFT 363
+                     7777777777777776654 PP
+
+>> MBS6057122.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    4.1  16.6    0.0016     0.008      39     142 ..      30     138 ..       3     151 .. 0.67
+   2 ?    0.2   2.1     0.023      0.12      76     107 ..     178     210 ..     149     215 .. 0.59
+   3 ?    5.1  19.2   0.00077    0.0038     238     406 ..     216     378 ..     211     386 .. 0.63
+
+  Alignments for each domain:
+  == domain 1  score: 4.1 bits;  conditional E-value: 0.0016
+     sequences  39 lilillllliilvlllllskklskkkikkllililiyllyllifllvsss.......nlksflilflvllpllllyflllvkknelkellkkfsniv 128
+                     +il++ll+il++ +llskk++  +   +++++++ ll++ i l+ s +         + ++ +++ +l  ll+++++++  n+ ++ ++ f++  
+  MBS6057122.1  30 DDVILIFLLVILIVRMLLSKKKEVISR-GVVLFLFLTLLFSTISLIKSINyfpdqayGDSGYT-VYARILQSLLIILFVCFLANRSERTINFFKKGF 124
+                   455677777777777888776555443.33444444444444444444334687787444455.555566777777777788899999999999999 PP
+
+     sequences 129 viiAiiSLffWlfg 142
+                   ++ + iSL +++  
+  MBS6057122.1 125 LLGSTISLAIFFSY 138
+                   99999999887654 PP
+
+  == domain 2  score: 0.2 bits;  conditional E-value: 0.023
+     sequences  76 llyllifllvsss..nlksflilflvllplllly 107
+                   ++++ +fll+ +   n+ +++  f++llp lll+
+  MBS6057122.1 178 FFLISFFLLYDQEkyNIYKVM-SFFFLLPSLLLI 210
+                   223333333333234666666.555566666654 PP
+
+  == domain 3  score: 5.1 bits;  conditional E-value: 0.00077
+     sequences 238 vlllilllkllkklkkkkskkllkllllpillvivvilllvlleeKlgtgSgsiRldDyi.agfkawkdhpi.fGnGfnnleaiqqymssfrrsntG 332
+                   ++l+++++  + ++  k+++ ++ ++llpi l++ + ++++l++  ++ + +s   d ++ a + +  ++p+ +G G++n+   q+   +f  +n+ 
+  MBS6057122.1 216 LALFLFFIVNFYQY--KRFRVFFYYILLPISLFL-APVFYSLYQGLSQYRVYSSGRDEIYgAAIDSIFNSPFgYGLGVQNEIIFQKIAINFPAHNIL 309
+                   33333333333333..344455688999999988.88999999999999888876676552677777766643455555554445555555588888 PP
+
+     sequences 333 fSnslfavLaqGGiylfllylipliklllksikkknlkvlifallflilfittifqytyllllllallyslild 406
+                   +S +l     + G++ +++ ++ ++  +++  k +    ++++ +++ lf + ++ y++ +l+l + ++ +i  
+  MBS6057122.1 310 LSVGL-----ELGLIYLFIVILYFFVWFFNHRKAHFQTGIVICYVIIGLFGNAMYFYKFHTLILAMTMLGIIKG 378
+                   88886.....5666666666666777777776664444455666777888899999998888888887776644 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (414 nodes)
+Target sequences:                         10  (3789 residues searched)
+Passed MSV filter:                        10  (1); expected 0.2 (0.02)
+Passed bias filter:                        4  (0.4); expected 0.2 (0.02)
+Passed Vit filter:                         4  (0.4); expected 0.0 (0.001)
+Passed Fwd filter:                         2  (0.2); expected 0.0 (1e-05)
+Initial search space (Z):                 10  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.01
+# Mc/sec: 85.73
+//
+[ok]

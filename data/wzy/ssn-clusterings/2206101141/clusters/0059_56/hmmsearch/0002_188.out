@@ -1,0 +1,89 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  data/wzy/ssn-clusterings/2206101141/clusters/0059_56/sequences.hmm
+# target sequence database:        data/wzy/ssn-clusterings/2206101141/clusters/0002_188/sequences.fa
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       sequences  [M=358]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    6.9e-21   61.7  53.2    8.5e-21   61.4  53.2    1.0  1  WP_034915856.1  
+    2.2e-17   50.1  56.9    2.6e-17   49.9  56.9    1.1  1  WP_212406985.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_034915856.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   61.4  53.2   8.5e-21   8.5e-21      16     332 ..       7     322 ..       1     334 [. 0.78
+
+  Alignments for each domain:
+  == domain 1  score: 61.4 bits;  conditional E-value: 8.5e-21
+       sequences  16 llflylaekikskklkiilllilflilfipaa.iRygiGtDYfnYveifnniktgessiEigFylinkllsylgldvqwlfvissfltyfflfls 109
+                     l++l+++  ++    +++l+ +++++lf++a+ i  ++  D++nY + +   +  ++  E+   li   ++ ++l+  + f+i++fl +++ +++
+  WP_034915856.1   7 LFILFISTLAR----NNYLIALVLVALFVMAGfIAPEVSHDFQNYYNGYYLAQP-RYFPEPISSLIFSGAQHFSLPIAVSFIILAFLATVLKIKA 96 
+                     44555555555....468888889999999986788*************99886.8999************************************ PP
+
+       sequences 110 ikkknfflsvfifi...lllYlsSfslvRqaiavsilllalklllekkklkslilillaslfHlSallllpllllskiklkkllllliiililil 201
+                     +++ +  +s+f+++    l+ l  +  vR a+avs++ll++  ++++kk+ ++i+i+la++fHlS++++++++++++ k ++++ l+ +++ l +
+  WP_034915856.1  97 LRRLSLPVSLFFLVyfgKLFLLLDLTQVRAAVAVSVCLLSFDAYIKNKKVMAFIYIILAFCFHLSSIMFIVIFFVNRKKPNATFWLVALLCGLGF 191
+                     ***87655555433223688899******************************************************998888877755555443 PP
+
+       sequences 202 .vfklnlielilssslflnskYgvYanskfnseteigsGlGvllklllpflilifakkilkknkkynilillsllyiialilslkihIfg.Rlad 294
+                      +++++   +i    l l  +Y  Y++++ ns ++    l vl  + +++ + +f+k ++++  k n+ + l  + ii++++ + + +++ R+++
+  WP_034915856.1 192 sFINIKYYLYISMIYLHLPLNYLTYIDNANNSTVNPLNVLAVLN-VAIFVTYCFFKKAFVDS--KMNVAFKLYGISIISFYVFIDFPVLSfRISE 283
+                     25666666666667777889*********999999877676654.44444445555555544..567777777888888888888988877**** PP
+
+       sequences 295 lfifvlilliplllklskkkliklil.lliillllllfe 332
+                     +f++ +i+l+   +k +++  + +++ +l+i++ l l+ 
+  WP_034915856.1 284 FFLIYQIVLLANTTKFIRNDQRWMYIsILFIFSALQLYL 322
+                     ****************99975555543555555555553 PP
+
+>> WP_212406985.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   49.9  56.9   2.6e-17   2.6e-17       7     351 ..       2     334 ..       1     337 [] 0.74
+
+  Alignments for each domain:
+  == domain 1  score: 49.9 bits;  conditional E-value: 2.6e-17
+       sequences   7 iYnliLllsllflylaekikskklkiilllilflilfipaaiRygiGtDYfnYveifnniktgessiEigFylinkllsylgldvqwlfvissfl 101
+                     +Y l+L++++  +++a+       +    ++++ +++    i  g+ +DY+nY++ +   +  + ++E++  +i  l   l+ +  + f+i++++
+  WP_212406985.1   2 FYWLMLFFVSTTAFVAKGKIG---N---SITVLAAIITAGFIAPGVSQDYYNYLNGYYLTTP-SLYTEPLSKIIFRLSFQLNQPITVSFLIFAII 89 
+                     688888888888877654332...2...23333333333345579************98886.89****************************** PP
+
+       sequences 102 tyfflflsikkknfflsvfifi..lllYl.sSfslvRqaiavsilllalklllekkklkslilillaslfHlSallllpllllskiklkklllll 193
+                     ++++ + ++ k n+ +svf+++    lYl   +  vR  +av+i+l+al++ ++++++ sl++i++++lfH+Sa+++l+++l+sk + ++ + l+
+  WP_212406985.1  90 SLMIKYNALIKLNVPISVFFLVycSKLYLlLDLTQVRAGVAVAICLIALFYRVNGRNKLSLLYIIIGFLFHYSAIMFLMIFLFSKKHANNAMWLC 184
+                     ***********998887776553266887579*****************************************************9999888877 PP
+
+       sequences 194 iiilililvfklnlielils..sslflnskYgvYanskfnseteigsGlGvllklllpflilifakkilkknkkynilillsllyiialilslki 286
+                       ++++il+++l++  ++ s    l   ++Y +Y++ +   +++  s   +l  l l+++++++  k l+++   n+ + l  + ii+++l l++
+  WP_212406985.1 185 -GVVLSILFSALDIKGILTSlfITLHVPTNYLAYLSIESDFKVNPFS---ILSILNLMIFVIFSFYKGLNNDVLFNLCYKLYGMSIISFYLFLHF 275
+                     .4445555555555555544115555668899999866544444444...4444444555555566888999999******************** PP
+
+       sequences 287 hIfg.Rladlfifvlilliplllklskkkliklil.lliillllllfektiaanksssngglgisPY 351
+                      +++ R++++f++ +illi l ++ +  + + ++l ll  ++ l l++        + n    i+PY
+  WP_212406985.1 276 PVLSfRISEFFLIYQILLIGLAYNKTIVNQRWFFLvLLTSYSGLQLYM--------TYNVAQVIMPY 334
+                     ***88**************99997753322222221222222222222........23445556666 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (358 nodes)
+Target sequences:                          2  (675 residues searched)
+Passed MSV filter:                         2  (1); expected 0.0 (0.02)
+Passed bias filter:                        2  (1); expected 0.0 (0.02)
+Passed Vit filter:                         2  (1); expected 0.0 (0.001)
+Passed Fwd filter:                         2  (1); expected 0.0 (1e-05)
+Initial search space (Z):                  2  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+# Mc/sec: 57.20
+//
+[ok]

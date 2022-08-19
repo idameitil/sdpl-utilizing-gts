@@ -1,0 +1,94 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  data/wzy/ssn-clusterings/2206101141/clusters/0017_99/sequences.hmm
+# target sequence database:        data/wzy/ssn-clusterings/2206101141/clusters/0018_86/sequences.fa
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       sequences  [M=322]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence     Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------     -----------
+  ------ inclusion threshold ------
+       0.34    0.3  58.4       0.09    2.2  52.8    2.5  2  EFF0768368.1  
+       0.62   -0.5  59.5      0.041    3.4  52.5    2.2  2  ACA24776.1    
+
+
+Domain annotation for each sequence (and alignments):
+>> EFF0768368.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -4.6   4.7       1.2        11      89     113 ..      42      67 ..      16      71 .. 0.47
+   2 ?    2.2  52.8      0.01      0.09      53     296 ..     103     354 ..      55     376 .. 0.60
+
+  Alignments for each domain:
+  == domain 1  score: -4.6 bits;  conditional E-value: 1.2
+     sequences  89 alirlkkssvle.lvyflvlYflvfF 113
+                   al  l +  +++ ++y l+++++vfF
+  EFF0768368.1  42 ALSPLLHPVLRNfYFYALLVFIIVFF 67 
+                   33333322222213444566677777 PP
+
+  == domain 2  score: 2.2 bits;  conditional E-value: 0.01
+     sequences  53 vEvvfkliseileslglgfillLflfc.FlslllKfvalirlkkssvlelvyflvlYflvfFplWeltQ..IRaslaigivalallsvkklskllfl 146
+                    E +f    +++ ++  g  +++ l + Fl +++  ++l ++  +  + ++  l+++ l      e+t   +R+ l++ ++++a+  +++l+k++f+
+  EFF0768368.1 103 LEFMFLAFMKFIGYISDGNDEVFLLSTyFLIVFFLSKILKDVD-KKYKLFLLSLFFFNL---GFIEVTSyfLRQVLSVVVFLYAIN-ERSLKKYIFF 194
+                   5666666666666664444333333330333444444455552.222222222222222...2347775448************86.5789****** PP
+
+     sequences 147 llalllHysalivlvlyliakffkskky....lilllslvvvyllkllisltyyevY..saksyvekfnpfSlKnlfivltsllvllfskkn....n 233
+                   ll++++H sa++ +++y ++ +f+skky    +++ +++ +++l+ ++ + + y+v   + +s +e+ +++ l   +i++t++ + ++ +       
+  EFF0768368.1 195 LLSVFFHMSAVVNVFIYAVYMIFGSKKYsyakIAFSILVGLIVLFFVVYNTPIYSVLlsKFTSVSENDKFTRLPLNYIIITIVNICFIIMIGkrskC 291
+                   *************************99855445566666678999999999***9962234566666666666666777776666555544322223 PP
+
+     sequences 234 kelakvlalislsllvlyivlglkyPsvaiRvaDisl....flvllaLvlvrnnslavlykllvlli 296
+                   ++++k+l++     +++ i l+  +P+++ R+  +      +++l  L +++++  ++++ l+ l +
+  EFF0768368.1 292 DNFNKILFCKEC--FLFLILLP--FPALSNRLGMVIFgfypYFILPYLKAFERKGRNKYALLICLYV 354
+                   555555555444..44455566..7888877754332222255555566665555555444444444 PP
+
+>> ACA24776.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    3.4  52.5    0.0046     0.041      43     305 ..      92     364 ..      52     369 .. 0.59
+   2 ?   -2.5   0.0      0.28       2.5      43      71 ..     372     401 ..     365     404 .. 0.81
+
+  Alignments for each domain:
+  == domain 1  score: 3.4 bits;  conditional E-value: 0.0046
+   sequences  43 eyyeev.ekesvEvvfkliseileslglgfillLflfcFls.lllKfvalirlkkssvlelvyflvlYflvfFplWeltQ..IRaslaigivalallsv 137
+                 +++ +       E +f  i +++ ++  g  +++ l +++  +++  ++l ++ ++  + ++  l+++ l f    e+t   +R+ l++ ++++a+  +
+  ACA24776.1  92 DVFGYSrFGDGLEFMFLAIMKFIGYISGGNDEVFLLSTYFLiVFFLSKILKDV-DKKYKLFLLSLFFFNLGF---IEVTSyfLRQVLSVVVFLYAIN-E 185
+                 33333234456799999999999999877766666555554044445555555.333333333333333333...47775348************86.5 PP
+
+   sequences 138 kklskllflllalllHysalivlvlyliakffkskkyli....lllslvvvyllkllisltyyev....YsaksyvekfnpfSlKnlfivltsllvllf 228
+                 ++ +k++f+ll++++H sa++ +++y ++ +f+skky      + +++ + +++ ++ + + y+v    + + s ++kf  + l  + i +++++ +++
+  ACA24776.1 186 RSFKKYIFFLLSVFFHMSAVVNVFIYAVYMIFGSKKYPYakivFSILIGLLVVFFVVYNTPIYSVllskFTSVSGNDKFTRLPLNYIIITVVNICFIIM 284
+                 6789*******************************9964111122222233444556788889883222444455677777777666665555443333 PP
+
+   sequences 229 skkn.n.kelakvlalislsllvlyivlglkyPsvaiRvaDisl....flvllaLvlvrnnslavlykllvlliliay.fvyis 305
+                   k  + + ++k+l++     +++ i l+  +P+++ R+  i      +++l  L +++++  ++++ l+ l ++  + f+y+ 
+  ACA24776.1 285 IGKRsKcDDFNKILFCKE--CFLFLILLP--FPALSNRLGMIIFgfypYFILPYLKAFERKGKSKYALLICLYVVNLVpFLYLM 364
+                 333323255555554444..444556677..89999998876543333666666677666666666666666655433355555 PP
+
+  == domain 2  score: -2.5 bits;  conditional E-value: 0.28
+   sequences  43 eyyeev.ekesvEvvfkliseileslglgf 71 
+                 ++++ + ++++ E v+ +i  ile ++ g 
+  ACA24776.1 372 NMFTFLnNHPFTEGVYGMIDYILEAIDKGV 401
+                 566666578999**********99998875 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (322 nodes)
+Target sequences:                         18  (7276 residues searched)
+Passed MSV filter:                        18  (1); expected 0.4 (0.02)
+Passed bias filter:                       11  (0.611111); expected 0.4 (0.02)
+Passed Vit filter:                        11  (0.611111); expected 0.0 (0.001)
+Passed Fwd filter:                         2  (0.111111); expected 0.0 (1e-05)
+Initial search space (Z):                 18  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.01
+# Mc/sec: 152.13
+//
+[ok]

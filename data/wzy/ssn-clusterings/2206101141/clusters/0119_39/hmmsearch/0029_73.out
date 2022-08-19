@@ -1,0 +1,66 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  data/wzy/ssn-clusterings/2206101141/clusters/0119_39/sequences.hmm
+# target sequence database:        data/wzy/ssn-clusterings/2206101141/clusters/0029_73/sequences.fa
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       sequences  [M=414]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence   Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+  ------ inclusion threshold ------
+       0.23    0.8  49.5     0.0054    6.1  21.5    3.5  3  RKI43517.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> RKI43517.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    6.1  21.5   0.00019    0.0054      20     146 ..       9     143 ..       6     152 .. 0.79
+   2 ?    0.9   9.1    0.0072      0.21      38     126 ..     177     256 ..     170     268 .. 0.59
+   3 ?    4.5   3.4   0.00058     0.017      41     100 ..     337     395 ..     318     407 .. 0.40
+
+  Alignments for each domain:
+  == domain 1  score: 6.1 bits;  conditional E-value: 0.00019
+   sequences  20 lliilncnsvyvlssgsnylil.illllliilvlllllskklskkkikkllililiyllyllifllvsss.......nlksflilflvllpllllyfll 110
+                 ++iil c s+y  +  ++     +++  + ++ ll+ ++++++++k++ +++++l++ll+l if+ + ++       ++ +f+++  v++++l++++l 
+  RKI43517.1   9 FIIILFCISIYPITLRFSPVMSyAAIYGIPFCYLLCHFRQFVKITKKQLMVTVMLFLLLLLSIFYPALHGtgdysyvKVITFIFRKSVIYLFLVCILLK 107
+                 89*********9999999855514444454555667788878877777777777777777777776654447788888899999988888888888888 PP
+
+   sequences 111 lvkknelkellkkfsnivviiAiiSLffWlfgsilk 146
+                 ++k++   e++ ++  +   i ++  ++++f+  l+
+  RKI43517.1 108 YYKEKIRVEIFYYYFALANAIYVVGTLCFVFVPGLH 143
+                 9999999**********************9998777 PP
+
+  == domain 2  score: 0.9 bits;  conditional E-value: 0.0072
+   sequences  38 ylilillllliilvlllllskklskkkikkllililiyllyllifllvsssnlksflilflvllpllllyflllvkknelkellkkfsn 126
+                  ++++l + l +l+ll+++ ++ sk +ikk +++i  y+l+++  +++ +s    +      + +ll+++ ++ +++++lk++++ ++ 
+  RKI43517.1 177 GFRMTLHCTLSCLFLLYMYYSRDSKIRIKKHVFFI-SYALCFMGNMFYGRSG---LA-----VTVLLTIVAIVAWNRGQLKKIFRFVIA 256
+                 55667778888888888888888889999977765.5555555555553333...22.....122233333334566666666665554 PP
+
+  == domain 3  score: 4.5 bits;  conditional E-value: 0.00058
+   sequences  41 lillllliilvlllllskklskkkikkllililiyllyllifllvsssnlksflilflvl 100
+                  il+  +i  vl ++++    +   kk ++++ +++++++i++ +++ +  +f++lf+v+
+  RKI43517.1 337 NILFWGMIGGVLSYFTTVYCMWDLRKKNIVFF-LMFCVAFILFEYKGDTYYEFITLFYVI 395
+                 33333333333333333222222222222222.222222222233333444444444432 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (414 nodes)
+Target sequences:                         29  (12004 residues searched)
+Passed MSV filter:                        29  (1); expected 0.6 (0.02)
+Passed bias filter:                        7  (0.241379); expected 0.6 (0.02)
+Passed Vit filter:                         7  (0.241379); expected 0.0 (0.001)
+Passed Fwd filter:                         1  (0.0344828); expected 0.0 (1e-05)
+Initial search space (Z):                 29  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.00
+# Mc/sec: 638.77
+//
+[ok]

@@ -1,0 +1,66 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  data/wzy/ssn-clusterings/2206101141/clusters/0041_48/sequences.hmm
+# target sequence database:        data/wzy/ssn-clusterings/2206101141/clusters/0015_164/sequences.fa
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       sequences  [M=399]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence   Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+  ------ inclusion threshold ------
+        3.9   -3.9  49.8    0.00026    9.8  16.3    2.9  3  HIW50308.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> HIW50308.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -2.3  17.8     0.083       1.3       3     136 ..       3     139 ..       1     145 [. 0.76
+   2 ?    9.8  16.3   1.8e-05   0.00026      31     129 ..     149     245 ..     132     260 .. 0.71
+   3 ?   -0.5   1.1     0.024      0.37      86     126 ..     313     353 ..     296     380 .. 0.56
+
+  Alignments for each domain:
+  == domain 1  score: -2.3 bits;  conditional E-value: 0.083
+   sequences   3 kkkiksllekilifllallaflslePyfvWenalielali.ivillfll..llfikkkkiskkeillaflallllllfsfkgeeilvsllllsivlivf 98 
+                 ++k k++l  i+i l+ +l  +s  P fv  +  +++a+i  +++++++   ++++  +i   +i+l+f+a++ ++  + +++ei ++++l +i++i+ 
+  HIW50308.1   3 TIK-KKNLLVIIICLAVFLNNISQLPIFVDLKITSPIAIIgWAVAFLAIvpEVKFRVHSILFPSITLVFCAFFWIVTNNNYFSEINRNFFLSVIIFIMG 100
+                 444.3567788888888999999999999877777777330334555553445667777777899999999999999999999**99999988888888 PP
+
+   sequences  99 lllpkeeklkiykkfrkifais.lipgivvyfllllgid 136
+                 +        ++++ +  +++is +i +i v+   llg++
+  HIW50308.1 101 YSYAPFLDRDSFRRIGLFYIIStVITSISVWYSYLLGTN 139
+                 888999999999999999999735668999998888875 PP
+
+  == domain 2  score: 9.8 bits;  conditional E-value: 1.8e-05
+   sequences  31 vWenalielaliivillfllllfikkkkiskkeillaflallllllfsfkgeeilvsllllsivlivflllpkeeklkiykkfrkifaislipgivvyf 129
+                 + +n+l++++l+++illf+  + + +++ ++k i+++ ++ ll+ +f +++   ++ +l+ +++ ++f+ll k+e + + k+ + +++i+li+ ++v++
+  HIW50308.1 149 TPKNSLSQIILTAIILLFVS-FIMYRQSHNRKIIYIITILALLFEVFVLFT-LRSRATLIGFLLSVTFFLLCKDEGTRTRKYKSIVIVILLILTVTVFV 245
+                 55677777776777777777.333444455555555555555554555444.44566788888999999999999999999999999999999999997 PP
+
+  == domain 3  score: -0.5 bits;  conditional E-value: 0.024
+   sequences  86 vsllllsivlivflllpkeeklkiykkfrkifaislipgiv 126
+                 v l+ +++ l++++   ++ ++   k +r ifa++ ++ i+
+  HIW50308.1 313 VGLSQILFALLPLIWWANKGRYILCKEYRMIFACVSVVYII 353
+                 33333334444444444444444444444444444333333 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (399 nodes)
+Target sequences:                         15  (5954 residues searched)
+Passed MSV filter:                        15  (1); expected 0.3 (0.02)
+Passed bias filter:                        2  (0.133333); expected 0.3 (0.02)
+Passed Vit filter:                         2  (0.133333); expected 0.0 (0.001)
+Passed Fwd filter:                         1  (0.0666667); expected 0.0 (1e-05)
+Initial search space (Z):                 15  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.00
+# Mc/sec: 316.05
+//
+[ok]

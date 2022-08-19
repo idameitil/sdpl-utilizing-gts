@@ -1,0 +1,91 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  data/wzy/ssn-clusterings/2206101141/clusters/0018_86/sequences.hmm
+# target sequence database:        data/wzy/ssn-clusterings/2206101141/clusters/0011_149/sequences.fa
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       sequences  [M=410]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    4.3e-07   18.9  48.0    4.3e-07   18.9  48.0    2.2  2  WP_063645054.1  
+     0.0034    6.1  67.3      0.081    1.5  67.3    2.2  1  WP_155671752.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_063645054.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.6   4.6     0.014     0.077     132     159 ..       7      34 ..       1      44 [. 0.82
+   2 !   18.9  48.0   7.8e-08   4.3e-07     114     357 ..      76     326 ..      71     341 .. 0.75
+
+  Alignments for each domain:
+  == domain 1  score: 1.6 bits;  conditional E-value: 0.014
+       sequences 132 tlivillvlickkidkrfkllllllffl 159
+                     ++i++ll+l+ ++ ++ +k+ ++l++f+
+  WP_063645054.1   7 FIILFLLFLFSNRFNETLKVNIFLIVFF 34 
+                     47778899999************99998 PP
+
+  == domain 2  score: 18.9 bits;  conditional E-value: 7.8e-08
+       sequences 114 vvgfisdgNeqvfLlaiytlivillvlickk...id.krfkllllllfflslgfvevnsYFlRqvlSvvlllyail...eiskkkyvy.fllsii 200
+                     +v+f s   e + +l ++   v +++++c +   i+ k  + l+ll++++ +g + + s  +Rq  S v++l  +l   +is++++ +  ++s +
+  WP_063645054.1  76 LVYFFSRFFEDMHVLYVFNAFVWVVFFFCSRnvfIElKANQSLFLLIVYITMGNLLF-SGAIRQSFSCVIILFCFLygkNISRSRWFFlICISSL 169
+                     577777776766666666666666666665433344233456778889999**9977.5579*********999976768899999872579*** PP
+
+       sequences 201 sHlSavlnivvylvlllarkkkvkvvvillalligllvvlfilyrspiysl...llskllnvssndkfstlplnyilittvnlvlillllskrkk 292
+                     +H Sa+l +  y +l + + k+ kv  ++++++++ll++l++ ++ ++ ++   + +k+   +s d+  ++++   +i  +++v +++l++ r+k
+  WP_063645054.1 170 FHFSALLLMPFYSIL-KLELKIFKVKYFVIFYTLSLLFFLLMPFYYQFLDFipiIGQKIA--NSFDRGAQIKIGITII--IDIVAVFFLIYIRRK 259
+                     ************999.56667666666656666777777777666666555121445666..5666666777766555..678899999999999 PP
+
+       sequences 293 lkelesilflkefflfli...llkiPalsnRlglilfafsplfllpllksseikikskylllilllvi 357
+                      ++++sil+  +++ f +   ++ +P  + Rl++ +f +  lf+++++k+ +    + ++++++ + i
+  WP_063645054.1 260 ISNVHSILWYSSLIYFSMhsiFMTFP-YAQRLSMYFFPMMILFMVANIKKKHLIGLFSFCIITVHVFI 326
+                     99******998877776655578888.589******************99999999888888877766 PP
+
+>> WP_155671752.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.5  67.3     0.015     0.081      60     357 ..      30     326 ..       1     338 [. 0.64
+
+  Alignments for each domain:
+  == domain 1  score: 1.5 bits;  conditional E-value: 0.015
+       sequences  60 vlvfiilfyaslkPFsDlaEYlnvYkeinaneidifsysRFGkGiEiliLvlmkvvgfisdgNeqvfLlaiytlivillvlickk...id.krfk 150
+                     ++vf+i    s     D   Y+  Y + ++n+ + ++     +  E   L    +v+f s   e + +l ++   v +++++c +   i+ k  +
+  WP_155671752.1  30 LIVFFIATSGSYYNGVDWVNYIYTYSSFYKNDFNQLA-----MLYEPGYLG---LVYFFSRFFEDMHVLYVFNAFVWVVFFFCSRnvfIElKANQ 116
+                     4555555555555555666666666666655433332.....223333333...34444444444444444433333333333322114412335 PP
+
+       sequences 151 llllllfflslgfvevnsYFlRqvlSvvlllyail...eiskkkyvy.fllsiisHlSavlnivvylvlllarkk.kvkvvvillalligllvvl 240
+                      l+ll++++ +g + + s  +Rq  S v++l  +l   +is++++ +  ++s ++H Sa+l +  y +l+l  ++ kvk+ vi+ +  ++ll++l
+  WP_155671752.1 117 SLFLLIVYITMGNLLF-SGAIRQSFSCVIILFCFLygkNISRSRWFFlICISSLFHFSALLLMPFYSILKLELNRfKVKYFVIFYT--LSLLFFL 208
+                     5677789999999877.5579*********999976768899999872579****************9987766647777777444..4566666 PP
+
+       sequences 241 filyrspiysl...llskllnvssndkfstlplnyilittvnlvlillllskrkklkelesilflkefflfli...llkiPalsnRlglilfafs 329
+                     ++ ++ ++ ++   + +k+   +s d+  ++++   +i  +++v +++l++ r+k ++++sil+  +++ f +   ++ +P  + Rl++ +f + 
+  WP_155671752.1 209 LMPFYYQFLDFipiIGKKIA--NSFDRGAQIKIGITII--IDIVAVVFLIYIRRKISNVHSILWYSSLIYFSMhsiFMTFP-YAQRLSMYFFPMM 298
+                     65555555544121445555..5666667777665555..67788888888889999999999997777776655578888.589********** PP
+
+       sequences 330 plfllpllksseikikskylllilllvi 357
+                      lf+++++k+ +    + ++++++ + i
+  WP_155671752.1 299 ILFMVANIKKKHLIGLFSFCIITVHVFI 326
+                     ********99999999898888877766 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (410 nodes)
+Target sequences:                         11  (4207 residues searched)
+Passed MSV filter:                        11  (1); expected 0.2 (0.02)
+Passed bias filter:                        2  (0.181818); expected 0.2 (0.02)
+Passed Vit filter:                         2  (0.181818); expected 0.0 (0.001)
+Passed Fwd filter:                         2  (0.181818); expected 0.0 (1e-05)
+Initial search space (Z):                 11  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.00
+# Mc/sec: 182.95
+//
+[ok]

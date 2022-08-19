@@ -1,0 +1,65 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  data/wzy/ssn-clusterings/2206101141/clusters/0107_2/sequences.hmm
+# target sequence database:        data/wzy/ssn-clusterings/2206101141/clusters/0129_50/sequences.fa
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       sequences  [M=412]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence   Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+     0.0042    8.9  45.6    0.00046   12.1  16.6    3.2  3  TXH71870.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> TXH71870.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !    0.9   5.2     0.009       1.2      87     134 ..       6      54 ..       1      78 [. 0.69
+   2 !   12.1  16.6   3.6e-06   0.00046      92     273 ..     103     282 ..      96     286 .. 0.62
+   3 !    8.3   7.8   5.1e-05    0.0066      21     111 ..     371     452 ..     354     460 .. 0.72
+
+  Alignments for each domain:
+  == domain 1  score: 0.9 bits;  conditional E-value: 0.009
+   sequences  87 nlvslfaayflvsilksk.kevsfkkilklivlvfviQsiiiilaflsp 134
+                 +++ l  ++fl++ +  +   ++++ +  ++++ +viQs+i+ + +++ 
+  TXH71870.1   6 SFITLALSFFLFRSVAGSlALTKINLVSWIFYYNLVIQSFIASVLIINN 54 
+                 4566666666666666555667788888888888888888887777665 PP
+
+  == domain 2  score: 12.1 bits;  conditional E-value: 3.6e-06
+   sequences  92 faayflvsilksk.kevsfkkilklivlvfviQsiiiilaflspsfkelvqsfqkeseeaerl.esyggiRglglsGsqfFglaiifglllillaylls 188
+                 f+ay+   i + +  ++s+ +   +i+ +++i s++  la+l  +    v+s ++++ +a    +   ++ g        F ++++  l +i +ay+  
+  TXH71870.1 103 FSAYLEQPIQTTIsPNDSYIRYPLYILSIIAIASVLYTLALLDTNPLMAVFSGFDSEALAGLRqDASRQFSGNIY-VRNIFAIGLTPVLSYIAFAYWKL 200
+                 555555555555556667777778888888888888888888888888888888885553322233444444433.5788******************* PP
+
+   sequences 189 kekkkislilllilflliliagil.agRTtivGivlglvyll..lsskklkkiksallllilillllllflllllpessseilekllp 273
+                 + ++k  ++++l++f+  +++    ++   ++ ++lg+++l+  ++    kki+ +++++ ++l+l l ++ll+     ++ l++ll+
+  TXH71870.1 201 T-QSKTDFLWFLLMFIASFFIKTYdLSKAPFIFFILGFLFLYvlIQGGVSKKIFLFFVSIAFLLIL-LAYYLLMD----NANLSELLN 282
+                 9.5557777777766665555433378888888888877665115555566655555444444444.33333334....344444444 PP
+
+  == domain 3  score: 8.3 bits;  conditional E-value: 5.1e-05
+   sequences  21 filnssllllllglillllnikklkslikkkylylfllllllillsllstllngtyDfsflktlisnlvslfaayflvsilkskkevsfkk 111
+                 +++ s + +++l+ +l+l        ++k+k + ++l   l++ +s+  ++  g +Df +   ++ +++++  +yf++s+lk ++ ++ ++
+  TXH71870.1 371 GVIISPIYVGFLVQLLFL-------FFLKSKKTPIMLG--LFTHFSCSLPITGGMNDFIYNAGILITIIIFATVYFIASFLKITQGFECEN 452
+                 443344444444433333.......4556666666655..588999999999*****************************9886666555 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (412 nodes)
+Target sequences:                        129  (58403 residues searched)
+Passed MSV filter:                       129  (1); expected 2.6 (0.02)
+Passed bias filter:                       41  (0.317829); expected 2.6 (0.02)
+Passed Vit filter:                        41  (0.317829); expected 0.1 (0.001)
+Passed Fwd filter:                         1  (0.00775194); expected 0.0 (1e-05)
+Initial search space (Z):                129  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.02
+# Mc/sec: 1195.15
+//
+[ok]

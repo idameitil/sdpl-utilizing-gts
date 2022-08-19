@@ -1,0 +1,62 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  data/wzy/ssn-clusterings/2206101141/clusters/0016_129/sequences.hmm
+# target sequence database:        data/wzy/ssn-clusterings/2206101141/clusters/0059_36/sequences.fa
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       sequences  [M=398]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+  ------ inclusion threshold ------
+      0.014    6.2  61.2      0.018    5.9  61.2    1.1  1  WP_221411962.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_221411962.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    5.9  61.2    0.0003     0.018      31     373 ..       4     350 ..       1     368 [. 0.65
+
+  Alignments for each domain:
+  == domain 1  score: 5.9 bits;  conditional E-value: 0.0003
+       sequences  31 lslllls...iilffvktelrlllvvllillsalfn....ssvdisgDlsnYkeifvninkssyteefksePlllllykvlklldldfksvLflq 118
+                     +++llls     lf+  ++++  ++v  +++s++++    s   +  D ++Y +if+n n  +y ++ k+e l+ ++ k+ ++l l+ ++v ++ 
+  WP_221411962.1   4 IVVLLLSlliLYLFYKGKPSKYSFLVATLFVSTIWViiigSQDSVGTDYTSYISIFSNKNYLEYYKDVKAEYLFYYIVKLSNYLSLNGQNVFYV- 97 
+                     44444441104578889999*99999999999986522223445888*****************************************999766. PP
+
+       sequences 119 slllnivllyaliktlGlkglkyyslill.yPqyiqlsLfLsRqslsvlflillvaqskenkktlfkklvfsilavlahsisilyiviill..sk 210
+                      + l  +l + ++  +  k +   + + +         +   Rqs++v f+ l + +    +k+++ +++f++  +l h +s++ i ++ll  ++
+  WP_221411962.1  98 FIALTSFLFFKIVSLINKKEVVTLTYLFItVSTLFHYQMNGLRQSVAVFFITLAILY--YIRKNRLWFIIFALCGILMHKSSFIVIPVFLLlsNN 190
+                     578888999999988888887655443331344445556667*****9887766666..456778899**************9999887662245 PP
+
+       sequences 211 klkrllkwkllltivlval..llPlneelitqilaslanisdllDRkigf....ylnsssdssslsllsllllPLhitfllllls..iksrktka 297
+                     ++  +l+ +l+ +++  ++  llP+++  + + l +++ + + +    ++    y++ +s  +   l  l+ lP+++ ++  +++  +  + +  
+  WP_221411962.1 191 RILFFLEKYLIGILITTSVlcLLPFDN--VIEKLLGFTGVFKEVANYSNYaesdYVQRVSIVN--KLSKLVYLPIYLYIVHFFYKqgYICKLSDF 281
+                     666677766654444444411566654..3333334444444333333320000333333333..344556677766655554441122232333 PP
+
+       sequences 298 didavsiifiilYlvvlflrnyslLPtRlglliiifsplfffnittlykseskniklletlflifiilvfiRflyt 373
+                     +  +++i  + + +  lfl+  s + +R+gl  ++fs    f ++ l+ +e kn+k+  ++ l+ +i+++i  ly 
+  WP_221411962.1 282 ERRMLIIGVVSFSIKNLFLI--SSITNRIGLFFLLFSI---FPVMLLF-KELKNLKYNANALLA-VIIIYINVLYF 350
+                     33344455555555567776..56789****9999985...4566666.558888888777665.45678877775 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (398 nodes)
+Target sequences:                         59  (21064 residues searched)
+Passed MSV filter:                        59  (1); expected 1.2 (0.02)
+Passed bias filter:                        2  (0.0338983); expected 1.2 (0.02)
+Passed Vit filter:                         2  (0.0338983); expected 0.1 (0.001)
+Passed Fwd filter:                         1  (0.0169492); expected 0.0 (1e-05)
+Initial search space (Z):                 59  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+# Mc/sec: 1776.29
+//
+[ok]

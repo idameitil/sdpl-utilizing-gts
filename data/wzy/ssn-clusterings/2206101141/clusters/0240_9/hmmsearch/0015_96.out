@@ -1,0 +1,61 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  data/wzy/ssn-clusterings/2206101141/clusters/0240_9/sequences.hmm
+# target sequence database:        data/wzy/ssn-clusterings/2206101141/clusters/0015_96/sequences.fa
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       sequences  [M=358]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    2.5e-06   16.6  44.0    5.9e-05   12.1  44.0    2.6  1  WP_079858329.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_079858329.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   12.1  44.0   3.9e-06   5.9e-05      13     335 ..      17     369 ..      10     376 .. 0.70
+
+  Alignments for each domain:
+  == domain 1  score: 12.1 bits;  conditional E-value: 3.9e-06
+       sequences  13 liYwllflllallallsskrkkrrskillilfllllvlfiGlRyevGgDWenYlriyeeikslslkealkstdpgYall...nwlsaqlgl...g 101
+                     liY+ + +l +++ ll++    r+++++++ +++  + f  + y+v  D  +  + + +i++++++e ++++ + Y  l    w++a++gl    
+  WP_079858329.1  17 LIYLPISILSIFCFLLKP----RYQSVFFVSLIFSGFAFLLIPYNV-WDLARHYESFLTISNMPFSELFEYGHIRYLPLhvyMWFIASIGLpkeV 106
+                     467666666666666665....566777777777777777778888.799999999999*****************7652226999999996533 PP
+
+       sequences 102 iyfvnlvcalifvlglvrfarrqp....npwlallvavPyliivvam.GYtRQavAiGllllalvaleekkllkflllvllAalFHksallllpl 191
+                     +  + ++ + i +l +++ + + +      +l+l++++ + +  +++ +  RQ +Ai ++++++ +++ k++ k+ll+++++ l H+s+++ll++
+  WP_079858329.1 107 LPAISIFFSYITLLTILVNIHESKrltdFQFLILTISIWCAVPFIGIaSSLRQHLAIIIFIYGMWNYVLKNKSKYLLYLFVGLLIHSSVIVLLII 201
+                     556777778887777776665555121256788888888888777762567*****************************************999 PP
+
+       sequences 192 aalalkr.....nrllklllvlllalllllllladsldklvsnYve...............aeyeSsGa...liRvamnllpallfllfrkr.fk 262
+                     ++  + +     +r+ ++l+vll+a  l + l+ + ++ + +  ve               ++++S      +++ ++n +   ++ +f++   k
+  WP_079858329.1 202 MFACKLKindniKRFSSILFVLLMASGLSSDLFFSVISVFKNILVEngfyfalyfdksiimESIDSLSKfeyVVKFIVNPMLFYCVAFFYSFyCK 296
+                     88766544223455666666666666554444444444444444434444445555665555566655411145666665555555556665257 PP
+
+       sequences 263 lseeerklwlllsllalallvlvfvsstavDRlalYliplqlvvlsrlpellkkkk.krkllvllvilyyalvl 335
+                      s +e++l++++ +l l+++++v++s t+  R+++ + +l ++ + +  ++++ +  kr+ll +l++l  +++ 
+  WP_079858329.1 297 TSCKEERLINNFLYLLLLTIFIVSPSETIFSRFSFAFTVLGILYIFNY-NIFQYSMvKRTLLYFLLLLSITITT 369
+                     7778***********************************998766554.3444444256666666665555544 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (358 nodes)
+Target sequences:                         15  (6043 residues searched)
+Passed MSV filter:                        15  (1); expected 0.3 (0.02)
+Passed bias filter:                        4  (0.266667); expected 0.3 (0.02)
+Passed Vit filter:                         4  (0.266667); expected 0.0 (0.001)
+Passed Fwd filter:                         1  (0.0666667); expected 0.0 (1e-05)
+Initial search space (Z):                 15  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.00
+# Mc/sec: 251.19
+//
+[ok]

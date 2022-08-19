@@ -1,0 +1,1160 @@
+# hmmscan :: search sequence(s) against a profile database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query sequence file:             data/wzy/ssn-clusterings/2206101141/clusters/0012_124/sequences.fa
+# target HMM database:             data/wzy/ssn-clusterings/2206101141/hmmdb
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       BAQ01960.1  [L=367]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+   3.6e-179  589.2  45.6   4.3e-179  588.9  45.6    1.0  1  0012_124  
+  ------ inclusion threshold ------
+       0.01    8.6  52.4       0.52    3.0  52.4    2.2  1  0066_12   
+
+
+Domain annotation for each model (and alignments):
+>> 0012_124  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  588.9  45.6  4.2e-181  4.3e-179       1     364 [.       1     364 [.       1     366 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 588.9 bits;  conditional E-value: 4.2e-181
+    0012_124   1 mfvllpvfvenlifpgirtlsdvllllillliklkykkivisllglvliiivllivllnlangfsnasdsienelyeklkWlildrnisefvslGdyyr 99 
+                 mf+++pvf+en++f+g+rtl+dvl++++llli++k+kk++isllg+v+iiivl+i+++n+a+gfsnas++i+nel++kl+Wlildrni+ef+++Gdyyr
+  BAQ01960.1   1 MFTISPVFFENITFQGSRTLADVLFCISLLLIICKHKKVNISLLGIVYIIIVLVIMSVNAALGFSNASTTINNELFDKLTWLILDRNINEFIPFGDYYR 99 
+                 999************************************************************************************************ PP
+
+    0012_124 100 niliylrylliPlyfvlGylfaklvgkekalvtlfnillialllnliyglisdddrlsGlfentaelsvlallllllslytkskkkkilgllisiilll 198
+                 niliy+rylliP+yf++G++++klvgke+a+vtl+n l+i+llln++yg+++dddrl+G+fenta+ls+lall++llsl+tksk+k+il+++i+ii+ll
+  BAQ01960.1 100 NILIYTRYLLIPFYFWMGLYYSKLVGKERAIVTLYNGLIICLLLNMLYGIYNDDDRLTGFFENTAALSSLALLCMLLSLFTKSKYKIILSWVIGIIALL 198
+                 *************************************************************************************************** PP
+
+    0012_124 199 lsftasafialaalllllvlnikklhkklvyilvllsvvilsidlsssvseeiakylyvGsllnrlnlWsvlidifdsykviilglGsfPvfadnifiy 297
+                 +s+tasafi+l+a++l+lv+ni+++hkk+vyi++llsvvi+si+l+++++e+ia+y+y+Gsl+nr+n+Ws++i++fdsy+v+ilglGsfP+fadnifi+
+  BAQ01960.1 199 MSQTASAFIGLTAVVLILVFNIRRHHKKTVYITSLLSVVIASIGLMPEIMEFIARYMYTGSLINRINTWSTIINYFDSYQVAILGLGSFPLFADNIFIW 297
+                 *************************************************************************************************** PP
+
+    0012_124 298 lisGlGisgfllylyllkignknkkiallislvllqGllfPGfimPyllillfillGilsvkeevev 364
+                 lisG+Gi++f++y+yl++ignk++k+al+isl+l+qG+lfPGfimPy+l+++fi+lGils+++++e 
+  BAQ01960.1 298 LISGFGIFSFVIYMYLVSIGNKSQKSALFISLLLWQGVLFPGFIMPYMLMTTFITLGILSNNKGCEN 364
+                 ****************************************************************975 PP
+
+>> 0066_12  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    3.0  52.4    0.0051      0.52      11     354 ..      26     353 ..      16     365 .. 0.71
+
+  Alignments for each domain:
+  == domain 1  score: 3.0 bits;  conditional E-value: 0.0051
+     0066_12  11 illllllfsgfy.inllpisPvYilfillilllfllll...kkikiskli..llllifiiyliliqlflnseistvlnliisillliivvellkklskk 103
+                 ++ lll+++    +n+ ++  vYi+++l+i+ +   l      ++i++ +   l+ +++   i  ++ +   ++ +l ++  +l+++++ + l++ +  
+  BAQ01960.1  26 CISLLLIICKHKkVNISLLGIVYIIIVLVIMSVNAALGfsnASTTINNELfdKLTWLILDRNINEFIPFGDYYRNILIYTRYLLIPFYFWMGLYYSKLV 124
+                 445556666666688888999998888777765433223554455555441234443344444445557777755555553444444444444445555 PP
+
+     0066_12 104 krkkilkkfilisiillileliiRilnpdleyvekleeleglfyaYKvnSimYeDSNfvglvilsllflllylkkekkkklklilllllillllTfSRA 202
+                  +++ + ++++ +ii l+l +++ i+n d +          +f+            N  +l  l ll++ll l  ++k+k+ l  ++ +i+ll++   +
+  BAQ01960.1 125 GKERAIVTLYNGLIICLLLNMLYGIYNDDDR--------LTGFF-----------ENTAALSSLALLCMLLSLFTKSKYKIILSWVIGIIALLMSQTAS 204
+                 6666777777999999999999999998887........33332...........29999999999999999988878888888888889999999999 PP
+
+     0066_12 203 Aiialilfliilvlkkskvikilsllillilllvlil.......fllsilssDgSFnSKFyiielaikylksasllnilfGvGlgnteeviGigAHNif 294
+                 A+i+l  +++ilv++ ++  k++++++ l++++++++       +++  +   gS+  +++  +++i+y++s +    ++G G       + ++A Nif
+  BAQ01960.1 205 AFIGLTAVVLILVFNIRRHHKKTVYITSLLSVVIASIglmpeimEFIARYMYTGSLINRINTWSTIINYFDSYQ--VAILGLGS------FPLFADNIF 295
+                 ************99987777777777777777776666778777555555677*****************9987..57889885......679****** PP
+
+     0066_12 295 vtlllEtGiiGlilfllllvylliklkkksliillpfliaglSlfsaaiPylfvllalii 354
+                 + l+  +Gi+ ++++++l+  +  k++k++l+i l +l  g+ + ++++Py+ +++ + +
+  BAQ01960.1 296 IWLISGFGIFSFVIYMYLV-SIGNKSQKSALFISL-LLWQGVLFPGFIMPYMLMTTFITL 353
+                 **********999987766.455556656666655.7889999********998776654 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (367 residues searched)
+Target model(s):                         205  (80902 nodes)
+Passed MSV filter:                       192  (0.936585); expected 4.1 (0.02)
+Passed bias filter:                       10  (0.0487805); expected 4.1 (0.02)
+Passed Vit filter:                        10  (0.0487805); expected 0.2 (0.001)
+Passed Fwd filter:                         2  (0.0097561); expected 0.0 (1e-05)
+Initial search space (Z):                205  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.01
+# Mc/sec: 1561.15
+//
+Query:       WP_137586850.1  [L=367]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+   2.1e-179  590.0  45.8   2.5e-179  589.7  45.8    1.0  1  0012_124  
+     0.0084    8.9  53.3       0.42    3.3  53.3    2.2  1  0066_12   
+
+
+Domain annotation for each model (and alignments):
+>> 0012_124  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  589.7  45.8  2.5e-181  2.5e-179       1     364 [.       1     364 [.       1     366 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 589.7 bits;  conditional E-value: 2.5e-181
+        0012_124   1 mfvllpvfvenlifpgirtlsdvllllillliklkykkivisllglvliiivllivllnlangfsnasdsienelyeklkWlildrnisefvslG 95 
+                     mf+++pvf+en++f+g+rtl+dvl++++llli++k+kk++isllg+v+iiivl+i+++n+a+gfsnas++i+nel++kl+Wlildrni+ef+++G
+  WP_137586850.1   1 MFTISPVFFENITFQGSRTLADVLFCISLLLIICKHKKVNISLLGIVYIIIVLVIMSVNAALGFSNASTTINNELFDKLTWLILDRNINEFIPFG 95 
+                     999******************************************************************************************** PP
+
+        0012_124  96 dyyrniliylrylliPlyfvlGylfaklvgkekalvtlfnillialllnliyglisdddrlsGlfentaelsvlallllllslytkskkkkilgl 190
+                     dyyrniliy+rylliP+yf++G++++klvgke+a+vtl+n l+i+llln++yg+++dddrl+G+fenta+ls+lall++llsl+tksk+k+il++
+  WP_137586850.1  96 DYYRNILIYTRYLLIPFYFWMGLYYSKLVGKERAIVTLYNGLIICLLLNMLYGIYNDDDRLTGFFENTAALSSLALLCMLLSLFTKSKYKIILSW 190
+                     *********************************************************************************************** PP
+
+        0012_124 191 lisiillllsftasafialaalllllvlnikklhkklvyilvllsvvilsidlsssvseeiakylyvGsllnrlnlWsvlidifdsykviilglG 285
+                     +i+ii+ll+s+tasafi+l+a++l+lv+ni+k+hkk+vyi++llsvvi+si+l+++++e+ia+y+y+Gsl+nr+n+Ws++i++fdsy+v+ilglG
+  WP_137586850.1 191 VIGIIALLMSQTASAFIGLTAVVLILVFNIRKHHKKTVYITSLLSVVIASIGLMPEIMEFIARYMYTGSLINRINTWSTIINYFDSYQVAILGLG 285
+                     *********************************************************************************************** PP
+
+        0012_124 286 sfPvfadnifiylisGlGisgfllylyllkignknkkiallislvllqGllfPGfimPyllillfillGilsvkeevev 364
+                     sfP+fadnifi+lisG+Gi++f++y+yl++ignk++k+al+isl+l+qG+lfPGfimPy+l+++fi+lGils+++++e 
+  WP_137586850.1 286 SFPLFADNIFIWLISGFGIFSFVIYMYLVSIGNKSQKSALFISLLLWQGVLFPGFIMPYMLMTTFITLGILSNNKGCEN 364
+                     ****************************************************************************975 PP
+
+>> 0066_12  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !    3.3  53.3    0.0041      0.42      11     354 ..      26     353 ..      15     365 .. 0.71
+
+  Alignments for each domain:
+  == domain 1  score: 3.3 bits;  conditional E-value: 0.0041
+         0066_12  11 illllllfsgfy.inllpisPvYilfillilllfllll...kkikiskli..llllifiiyliliqlflnseistvlnliisillliivvellkk 99 
+                     ++ lll+++    +n+ ++  vYi+++l+i+ +   l      ++i++ +   l+ +++   i  ++ +   ++ +l ++  +l+++++ + l++
+  WP_137586850.1  26 CISLLLIICKHKkVNISLLGIVYIIIVLVIMSVNAALGfsnASTTINNELfdKLTWLILDRNINEFIPFGDYYRNILIYTRYLLIPFYFWMGLYY 120
+                     44555666666668888899999988877776543322355445555544123444334444444555777775555555344444444444444 PP
+
+         0066_12 100 lskkkrkkilkkfilisiillileliiRilnpdleyvekleeleglfyaYKvnSimYeDSNfvglvilsllflllylkkekkkklklilllllil 194
+                      +   +++ + ++++ +ii l+l +++ i+n d +          +f+            N  +l  l ll++ll l  ++k+k+ l  ++ +i+
+  WP_137586850.1 121 SKLVGKERAIVTLYNGLIICLLLNMLYGIYNDDDR--------LTGFF-----------ENTAALSSLALLCMLLSLFTKSKYKIILSWVIGIIA 196
+                     55556666777777999999999999999998887........33332...........299999999999999999888788888888888899 PP
+
+         0066_12 195 lllTfSRAAiialilfliilvlkkskvikilsllillilllvlil.......fllsilssDgSFnSKFyiielaikylksasllnilfGvGlgnt 282
+                     ll++   +A+i+l  +++ilv++ +k  k++++++ l++++++++       +++  +   gS+  +++  +++i+y++s +    ++G G    
+  WP_137586850.1 197 LLMSQTASAFIGLTAVVLILVFNIRKHHKKTVYITSLLSVVIASIglmpeimEFIARYMYTGSLINRINTWSTIINYFDSYQ--VAILGLGS--- 286
+                     99999999**************998888888888887777777667888777555555677*****************9987..57889885... PP
+
+         0066_12 283 eeviGigAHNifvtlllEtGiiGlilfllllvylliklkkksliillpfliaglSlfsaaiPylfvllalii 354
+                        + ++A Nif+ l+  +Gi+ ++++++l+  +  k++k++l+i l +l  g+ + ++++Py+ +++ + +
+  WP_137586850.1 287 ---FPLFADNIFIWLISGFGIFSFVIYMYLV-SIGNKSQKSALFISL-LLWQGVLFPGFIMPYMLMTTFITL 353
+                     ...679****************999987766.455556656666655.7889999********998776654 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (367 residues searched)
+Target model(s):                         205  (80902 nodes)
+Passed MSV filter:                       193  (0.941463); expected 4.1 (0.02)
+Passed bias filter:                       10  (0.0487805); expected 4.1 (0.02)
+Passed Vit filter:                        10  (0.0487805); expected 0.2 (0.001)
+Passed Fwd filter:                         2  (0.0097561); expected 0.0 (1e-05)
+Initial search space (Z):                205  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.01
+# Mc/sec: 1608.87
+//
+Query:       WP_021535079.1  [L=367]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+   1.1e-177  584.3  46.1   1.4e-177  584.0  46.1    1.0  1  0012_124  
+  ------ inclusion threshold ------
+       0.42    3.3  54.3         25   -2.6  54.3    2.3  1  0066_12   
+
+
+Domain annotation for each model (and alignments):
+>> 0012_124  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  584.0  46.1  1.3e-179  1.4e-177       1     364 [.       1     364 [.       1     366 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 584.0 bits;  conditional E-value: 1.3e-179
+        0012_124   1 mfvllpvfvenlifpgirtlsdvllllillliklkykkivisllglvliiivllivllnlangfsnasdsienelyeklkWlildrnisefvslG 95 
+                     mf+++pvf+en++f+g+rtl+dvl++++llli++k+kk++isllglv+iiiv++i+++n+a+gfsnas++i+nel++kl+Wlildrni+ef+++G
+  WP_021535079.1   1 MFTISPVFLENITFQGSRTLADVLFCISLLLIICKHKKVNISLLGLVYIIIVMVIMSVNAALGFSNASTTINNELFDKLTWLILDRNINEFIPFG 95 
+                     999******************************************************************************************** PP
+
+        0012_124  96 dyyrniliylrylliPlyfvlGylfaklvgkekalvtlfnillialllnliyglisdddrlsGlfentaelsvlallllllslytkskkkkilgl 190
+                     dyyrniliy+rylliP+yf++G++++klvgke+a+vtl+n l+i+llln++yg+++dddrl+G+fenta+ls+lall++llsl+tksk+k+il++
+  WP_021535079.1  96 DYYRNILIYTRYLLIPFYFWMGLYYSKLVGKERAIVTLYNGLIICLLLNMLYGIYNDDDRLTGFFENTATLSSLALLCMLLSLFTKSKHKIILSW 190
+                     *********************************************************************************************** PP
+
+        0012_124 191 lisiillllsftasafialaalllllvlnikklhkklvyilvllsvvilsidlsssvseeiakylyvGsllnrlnlWsvlidifdsykviilglG 285
+                     +i+ii+ll+s+tasafi+l+a++l+lv+ni+ +hk++vyi++llsv+i+si+l++ ++e+ia+y+y+Gsl+nr+n+Ws++i++fdsy+v+ilglG
+  WP_021535079.1 191 VIGIIALLMSQTASAFIGLTAVVLILVFNIRSHHKMTVYITSLLSVIIASIGLMPGIMEFIARYMYTGSLINRINTWSTIINYFDSYQVAILGLG 285
+                     *********************************************************************************************** PP
+
+        0012_124 286 sfPvfadnifiylisGlGisgfllylyllkignknkkiallislvllqGllfPGfimPyllillfillGilsvkeevev 364
+                     sfP+fadnifi+lisG+Gi++f++y+yl++ignk++k+al+isl+l+qG+lfPGfimPy+l+++fi+lGils+++++e 
+  WP_021535079.1 286 SFPLFADNIFIWLISGFGIFSFVIYMYLVSIGNKSQKSALFISLLLWQGVLFPGFIMPYMLMTTFITLGILSSNKGCEN 364
+                     ****************************************************************************975 PP
+
+>> 0066_12  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -2.6  54.3      0.24        25      11     354 ..      26     353 ..      18     365 .. 0.67
+
+  Alignments for each domain:
+  == domain 1  score: -2.6 bits;  conditional E-value: 0.24
+         0066_12  11 illllllfsgfy.inllpisPvYilfillilllfllll...kkikiskli..llllifiiyliliqlflnseistvlnliisillliivvellkk 99 
+                     ++ lll+++    +n+ ++  vYi+++++i+ +   l      ++i++ +   l+ +++   i  ++ +   ++ +l ++  +l+++++ + l++
+  WP_021535079.1  26 CISLLLIICKHKkVNISLLGLVYIIIVMVIMSVNAALGfsnASTTINNELfdKLTWLILDRNINEFIPFGDYYRNILIYTRYLLIPFYFWMGLYY 120
+                     44455555555558888888888877666665433222345444454444123333334444444444766665555555344444444444444 PP
+
+         0066_12 100 lskkkrkkilkkfilisiillileliiRilnpdleyvekleeleglfyaYKvnSimYeDSNfvglvilsllflllylkkekkkklklilllllil 194
+                      +   +++ + ++++ +ii l+l +++ i+n d +       l+g+f             N   l  l ll++ll l  ++k k+ l  ++ +i+
+  WP_021535079.1 121 SKLVGKERAIVTLYNGLIICLLLNMLYGIYNDDDR-------LTGFFE------------NTATLSSLALLCMLLSLFTKSKHKIILSWVIGIIA 196
+                     44455666666666888888888888888888887.......333332............77777777777777777666666767777777888 PP
+
+         0066_12 195 lllTfSRAAiialilfliilvlkkskvikilsllillilllvlil.......fllsilssDgSFnSKFyiielaikylksasllnilfGvGlgnt 282
+                     ll++   +A+i+l  +++ilv++ +   k++++++ l++++++++       +++  +   gS+  +++  +++i+y++s +    ++G G    
+  WP_021535079.1 197 LLMSQTASAFIGLTAVVLILVFNIRSHHKMTVYITSLLSVIIASIglmpgimEFIARYMYTGSLINRINTWSTIINYFDSYQ--VAILGLGS--- 286
+                     88888889******99999999876666777777776666666556667777666666778*****************9988..57889885... PP
+
+         0066_12 283 eeviGigAHNifvtlllEtGiiGlilfllllvylliklkkksliillpfliaglSlfsaaiPylfvllalii 354
+                        + ++A Nif+ l+  +Gi+ ++++++l+  +  k++k++l+i l +l  g+ + ++++Py+ +++ + +
+  WP_021535079.1 287 ---FPLFADNIFIWLISGFGIFSFVIYMYLV-SIGNKSQKSALFISL-LLWQGVLFPGFIMPYMLMTTFITL 353
+                     ...679****************999987766.455556656666655.7889999********998776644 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (367 residues searched)
+Target model(s):                         205  (80902 nodes)
+Passed MSV filter:                       194  (0.946341); expected 4.1 (0.02)
+Passed bias filter:                        9  (0.0439024); expected 4.1 (0.02)
+Passed Vit filter:                         9  (0.0439024); expected 0.2 (0.001)
+Passed Fwd filter:                         2  (0.0097561); expected 0.0 (1e-05)
+Initial search space (Z):                205  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.01u 0.01s 00:00:00.02 Elapsed: 00:00:00.01
+# Mc/sec: 1774.98
+//
+Query:       EGM8107999.1  [L=367]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+   2.7e-174  573.2  47.1   3.3e-174  572.9  47.1    1.0  1  0012_124  
+  ------ inclusion threshold ------
+       0.75    2.4  46.4    0.00036   13.3  10.5    3.5  4  0022_40   
+        1.3    1.6  55.4         29   -2.8  55.4    2.1  1  0066_12   
+
+
+Domain annotation for each model (and alignments):
+>> 0012_124  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  572.9  47.1  4.8e-176  3.3e-174       1     364 [.       1     364 [.       1     365 [. 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 572.9 bits;  conditional E-value: 4.8e-176
+      0012_124   1 mfvllpvfvenlifpgirtlsdvllllillliklkykkivisllglvliiivllivllnlangfsnasdsienelyeklkWlildrnisefvslGdy 97 
+                   mf+++pvf+e+++fpg+rtl+d+l++++llli++kykki+is+lg+++iiivl+++l+n+a+gfsn+s++i+nely+kl+Wlildrni+ef+++G+y
+  EGM8107999.1   1 MFIVFPVFLESFTFPGSRTLADILFCISLLLIVCKYKKINISFLGVIYIIIVLILMLVNAALGFSNVSTTINNELYDKLTWLILDRNINEFIPFGNY 97 
+                   999********************************************************************************************** PP
+
+      0012_124  98 yrniliylrylliPlyfvlGylfaklvgkekalvtlfnillialllnliyglisdddrlsGlfentaelsvlallllllslytkskkkkilgllisi 194
+                   yrniliy+rylliP+yf++G++++kl+gk++a++tl+n ++i+llln++yg+++ ddrl+G+fenta++s+lall+++lsl+tksk+k+i++++i+i
+  EGM8107999.1  98 YRNILIYTRYLLIPFYFWMGLYYSKLIGKNRAIATLYNGVMICLLLNMFYGIYNGDDRLTGFFENTATFSSLALLCMILSLFTKSKHKIIISWFIGI 194
+                   ************************************************************************************************* PP
+
+      0012_124 195 illllsftasafialaalllllvlnikklhkklvyilvllsvvilsidlsssvseeiakylyvGsllnrlnlWsvlidifdsykviilglGsfPvfa 291
+                   i+ll+s+tasafi++aa+++++v+ni+++hkk+vy++vlls+ i+si+l++ ++e++aky+y+Gsl+nrln+W++++d+fdsykv+ilglGsfP+fa
+  EGM8107999.1 195 IALLMSQTASAFIGVAAMVFIIVFNIQRHHKKTVYTTVLLSAGIASIGLMPGIMEFLAKYMYTGSLINRLNTWTIIMDYFDSYKVAILGLGSFPLFA 291
+                   ************************************************************************************************* PP
+
+      0012_124 292 dnifiylisGlGisgfllylyllkignknkkiallislvllqGllfPGfimPyllillfillGilsvkeevev 364
+                   dn+fi+lisG+G+++f++y+yl++ignk+kk+al+is +l+qG+lfPGfimPy+l+++fi+lGils +e+++ 
+  EGM8107999.1 292 DNVFIWLISGFGVFSFVIYMYLVSIGNKSKKSALFISSLLWQGVLFPGFIMPYMLMTTFITLGILSGNEGCKN 364
+                   **********************************************************************975 PP
+
+>> 0022_40  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    3.4   8.7    0.0053      0.36      14      86 ..       2      76 ..       1      94 [. 0.66
+   2 ?   -1.6   0.3      0.17        12      30      71 ..     105     146 ..      79     152 .. 0.55
+   3 ?   13.3  10.5   5.2e-06   0.00036     172     254 ..     155     241 ..     144     287 .. 0.68
+   4 ?    0.9   7.6      0.03       2.1     324     374 ..     294     342 ..     270     355 .. 0.78
+
+  Alignments for each domain:
+  == domain 1  score: 3.4 bits;  conditional E-value: 0.0053
+       0022_40 14 lliFilslenhgelryllvllllf.ililaliskkkkikksllksfillilli.lllsl.lssleilpyksnlvky 86
+                  +++F ++le+++      ++ +lf i++l +++k kki+ s+l ++ ++i+li +l+++ l++ ++ + ++n   y
+  EGM8107999.1  2 FIVFPVFLESFTFPGSRTLADILFcISLLLIVCKYKKINISFLGVIYIIIVLIlMLVNAaLGFSNVSTTINN-ELY 76
+                  57888999998765544444444314447799***********99998887774555550444444444444.344 PP
+
+  == domain 2  score: -1.6 bits;  conditional E-value: 0.17
+       0022_40  30 llvllllfililaliskkkkikksllksfillillilllsll 71 
+                   +  ll+ f +++ l ++k + k++++ ++   +++ lll+++
+  EGM8107999.1 105 TRYLLIPFYFWMGLYYSKLIGKNRAIATLYNGVMICLLLNMF 146
+                   222223333334455555555555555555555555555554 PP
+
+  == domain 3  score: 13.3 bits;  conditional E-value: 5.2e-06
+       0022_40 172 RpTGlyeEPStYsafilvLlalklilnkkvdkld..liallsiilslSvAa.iiy.allfllylllkskksylkyllllllllllai 254
+                   R TG++e   t+s++ l+ ++l l+ + k + ++   i ++ +++s  + a i + a++f++++++++++++  y  +ll+  +++i
+  EGM8107999.1 155 RLTGFFENTATFSSLALLCMILSLFTKSKHKIIIswFIGIIALLMSQTASAfIGVaAMVFIIVFNIQRHHKKTVYTTVLLSAGIASI 241
+                   99***********99888888888888666655522677888888874444133313455666666665554444444444444433 PP
+
+  == domain 4  score: 0.9 bits;  conditional E-value: 0.03
+       0022_40 324 LwlFliikfGvvgliilllllllklkskrnlilfliillTKisflsflFif 374
+                   ++++li  fGv++++i+++l+ + +ksk++ ++   +l   + f  ++Fi+
+  EGM8107999.1 294 VFIWLISGFGVFSFVIYMYLVSIGNKSKKSALFISSLLWQGVLF--PGFIM 342
+                   57889999***************999999888777777665544..44444 PP
+
+>> 0066_12  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -2.8  55.4      0.43        29      10     353 ..      25     352 ..      17     364 .. 0.73
+
+  Alignments for each domain:
+  == domain 1  score: -2.8 bits;  conditional E-value: 0.43
+       0066_12  10 sillllllfsgfy.inllpisPvYilfillilllfllll...kkikiskli..llllifiiyliliqlflnseistvlnliisillliivvellkkl 100
+                   +++ lll+++ +  in+ ++  +Yi+++l+++l+   l      ++i++ +   l+ +++   i  ++ + + ++ +l ++  +l+++++ + l++ 
+  EGM8107999.1  25 FCISLLLIVCKYKkINISFLGVIYIIIVLILMLVNAALGfsnVSTTINNELydKLTWLILDRNINEFIPFGNYYRNILIYTRYLLIPFYFWMGLYYS 121
+                   46677888888888**********9988777775433223554455555442344444455555556668888866666664666666666666667 PP
+
+       0066_12 101 skkkrkkilkkfilisiillileliiRilnpdleyvekleeleglfyaYKvnSimYeDSNfvglvilsllflllylkkekkkklklilllllillll 197
+                   + + +++ + ++++ ++i l+l +++ i+n d +       l+g+f +            f +l +l+++ + l++k+++  k+ +  ++ +i+ll+
+  EGM8107999.1 122 KLIGKNRAIATLYNGVMICLLLNMFYGIYNGDDR-------LTGFFENTA---------TFSSLALLCMILS-LFTKSKH--KIIISWFIGIIALLM 199
+                   7788888999999*******************98.......444444333.........4668888887766.5665544..444555666666666 PP
+
+       0066_12 198 TfSRAAiialilfliilvlkkskvikilsllillilllvlil.......fllsilssDgSFnSKFyiielaikylksasllnilfGvGlgnteeviG 287
+                   +   +A+i++  +++i+v++ ++  k++++ ++l+++ ++++       ++l ++   gS+  +++    +++y++s +    ++G G       + 
+  EGM8107999.1 200 SQTASAFIGVAAMVFIIVFNIQRHHKKTVYTTVLLSAGIASIglmpgimEFLAKYMYTGSLINRLNTWTIIMDYFDSYK--VAILGLGS------FP 288
+                   6667799999999999999887777777777777776666666777777667777788*****************9988..57889885......67 PP
+
+       0066_12 288 igAHNifvtlllEtGiiGlilfllllvylliklkkksliillpfliaglSlfsaaiPylfvllali 353
+                   ++A N+f+ l+  +G++ ++++++l++ +  k+k ks++++  +l  g+ + ++++Py+ +++ + 
+  EGM8107999.1 289 LFADNVFIWLISGFGVFSFVIYMYLVS-IGNKSK-KSALFISSLLWQGVLFPGFIMPYMLMTTFIT 352
+                   9****************9999877664.444455.78888899***************99887664 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (367 residues searched)
+Target model(s):                         205  (80902 nodes)
+Passed MSV filter:                       198  (0.965854); expected 4.1 (0.02)
+Passed bias filter:                        8  (0.0390244); expected 4.1 (0.02)
+Passed Vit filter:                         8  (0.0390244); expected 0.2 (0.001)
+Passed Fwd filter:                         3  (0.0146341); expected 0.0 (1e-05)
+Initial search space (Z):                205  [actual number of targets]
+Domain search space  (domZ):               3  [number of targets reported over threshold]
+# CPU time: 0.03u 0.00s 00:00:00.03 Elapsed: 00:00:00.02
+# Mc/sec: 1238.22
+//
+Query:       WP_214605624.1  [L=361]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+   1.6e-169  557.4  47.9   1.8e-169  557.3  47.9    1.0  1  0012_124  
+  ------ inclusion threshold ------
+      0.089    5.5  57.2       0.32    3.7  57.2    2.2  1  0066_12   
+
+
+Domain annotation for each model (and alignments):
+>> 0012_124  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  557.3  47.9  1.8e-171  1.8e-169       1     361 [.       1     361 []       1     361 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 557.3 bits;  conditional E-value: 1.8e-171
+        0012_124   1 mfvllpvfvenlifpgirtlsdvllllillliklkykkivisllglvliiivllivllnlangfsnasdsienelyeklkWlildrnisefvslG 95 
+                     mf+llp f+en++fp++rt+sd+l++li+++++l+ykkivi+++g+++iii++l+v++n+ ngf+n+sd+i++++yekl+Wl++dr+isefv+lG
+  WP_214605624.1   1 MFFLLPPFFENFTFPSSRTISDLLFILIFFILLLHYKKIVINNVGIFYIIITTLVVIINAGNGFANVSDQINTDFYEKLNWLVTDRGISEFVPLG 95 
+                     899******************************************************************************************** PP
+
+        0012_124  96 dyyrniliylrylliPlyfvlGylfaklvgkekalvtlfnillialllnliyglisdddrlsGlfentaelsvlallllllslytkskkkkilgl 190
+                     dyyrn+liylrylliPlyf++G+++a+++g+++al++++++l++al+lnliygl++d++r+sG+fenta+l++l++l+++l+++ ks+kk+i++l
+  WP_214605624.1  96 DYYRNTLIYLRYLLIPLYFAVGFRIALTQGRHQALNNIWIMLTFALVLNLIYGLFKDEQRISGFFENTATLASLSILCIFLATKLKSSKKIIFTL 190
+                     *********************************************************************************************** PP
+
+        0012_124 191 lisiillllsftasafialaalllllvlnikklhkklvyilvllsvvilsidlsssvseeiakylyvGsllnrlnlWsvlidifdsykviilglG 285
+                     lis+++llls+tasa+++la+llll+++nikk+h+k+v+i++++svvi++i+l++sv+++i+kyly+Gsl+nrln+W+++i+++d+ykvi++glG
+  WP_214605624.1 191 LISGVTLLLSQTASAYLGLAVLLLLSIFNIKKPHIKSVFITIFISVVISTIGLIPSVIDFIGKYLYTGSLMNRLNTWGTIISYYDNYKVIMFGLG 285
+                     *********************************************************************************************** PP
+
+        0012_124 286 sfPvfadnifiylisGlGisgfllylyllkignknkkiallislvllqGllfPGfimPyllillfillGilsvkee 361
+                     sfP+fadn+fi+lisG+G+s+f++y+yl+k+g++nk++a++is++++qGllfPGf+mPy+li++fi+lG+lsv++e
+  WP_214605624.1 286 SFPLFADNLFIWLISGFGLSAFIFYIYLIKLGSNNKDCAIFISMIVWQGLLFPGFMMPYMLITTFIILGVLSVNKE 361
+                     *************************************************************************985 PP
+
+>> 0066_12  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    3.7  57.2    0.0031      0.32      34     354 ..      23     353 ..       1     361 [] 0.76
+
+  Alignments for each domain:
+  == domain 1  score: 3.7 bits;  conditional E-value: 0.0031
+         0066_12  34 lfillilllfllllkkikisklillllifiiyliliqlf.....lnseistvlnliisillliivvellkklskkkrkkilkkfilisiillile 123
+                     l+++li++++ll +kki i+++ ++++i+ + +++i+       ++ +i+t ++  + +l+    ++ +  l  + r++++   +l++ +++++ 
+  WP_214605624.1  23 LLFILIFFILLLHYKKIVINNVGIFYIIITTLVVIINAGngfanVSDQINTDFYEKLNWLVTDRGISEFVPLGDYYRNTLIYLRYLLIPLYFAVG 117
+                     345566666666679*****999888755333333322245567888999999999999999988888888887777777666669999999999 PP
+
+         0066_12 124 liiRilnpdleyvekl..........eeleglfyaYKvnSimYeDSNfvglvilsllflllylkkekkkklklilllllillllTfSRAAiiali 208
+                     + i +++ ++++++ +          + + glf +    S ++e  N   l  ls+l+++l +k +++kk+ ++ll+  + lll+   +A+++l 
+  WP_214605624.1 118 FRIALTQGRHQALNNIwimltfalvlNLIYGLFKDEQRISGFFE--NTATLASLSILCIFLATKLKSSKKIIFTLLISGVTLLLSQTASAYLGLA 210
+                     99999999999877667788886443334444444445688888..9****************999999999999999999999999******** PP
+
+         0066_12 209 lfliilvlkkskvikilsllillilllvlil........fllsilssDgSFnSKFyiielaikylksasllnilfGvGlgnteeviGigAHNifv 295
+                     ++l++ +++ +k   i+s++i++++ +v+++         ++ ++   gS+  +++   ++i+y+++ +   i+fG G       + ++A N+f+
+  WP_214605624.1 211 VLLLLSIFNIKK-PHIKSVFITIFISVVISTiglipsviDFIGKYLYTGSLMNRLNTWGTIISYYDNYK--VIMFGLGS------FPLFADNLFI 296
+                     ******999777.55555555544544444446778777445566678******************988..689**995......679******* PP
+
+         0066_12 296 tlllEtGiiGlilfllllvylliklkkksliillpfliaglSlfsaaiPylfvllalii 354
+                      l+  +G+  +i++++l+  l    +k+++i++  ++  gl + ++++Py+ +++ +i+
+  WP_214605624.1 297 WLISGFGLSAFIFYIYLI-KLGS-NNKDCAIFISMIVWQGLLFPGFMMPYMLITTFIIL 353
+                     *******87776666555.4444.56789999999999***************999997 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (361 residues searched)
+Target model(s):                         205  (80902 nodes)
+Passed MSV filter:                       186  (0.907317); expected 4.1 (0.02)
+Passed bias filter:                        7  (0.0341463); expected 4.1 (0.02)
+Passed Vit filter:                         7  (0.0341463); expected 0.2 (0.001)
+Passed Fwd filter:                         2  (0.0097561); expected 0.0 (1e-05)
+Initial search space (Z):                205  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.01
+# Mc/sec: 1734.98
+//
+Query:       WP_095427547.1  [L=361]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+     4e-168  552.9  48.4   4.4e-168  552.7  48.4    1.0  1  0012_124  
+  ------ inclusion threshold ------
+       0.58    2.8  57.7        2.4    0.8  57.7    2.2  1  0066_12   
+
+
+Domain annotation for each model (and alignments):
+>> 0012_124  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  552.7  48.4  4.3e-170  4.4e-168       1     361 [.       1     361 []       1     361 [] 1.00
+
+  Alignments for each domain:
+  == domain 1  score: 552.7 bits;  conditional E-value: 4.3e-170
+        0012_124   1 mfvllpvfvenlifpgirtlsdvllllillliklkykkivisllglvliiivllivllnlangfsnasdsienelyeklkWlildrnisefvslG 95 
+                     mf+llp f+en++fp++rt+sd+l++li+++++l+ykkivi+++g+++iii++l+v++n+ ngf+n+sd+i++++yekl+Wl++dr+isefv+lG
+  WP_095427547.1   1 MFFLLPPFFENFTFPSSRTISDLLFILIFFILLLHYKKIVINNIGIFYIIITTLVVMINAGNGFANVSDQINTDFYEKLNWLVTDRGISEFVPLG 95 
+                     899******************************************************************************************** PP
+
+        0012_124  96 dyyrniliylrylliPlyfvlGylfaklvgkekalvtlfnillialllnliyglisdddrlsGlfentaelsvlallllllslytkskkkkilgl 190
+                     dyyr++liylrylliPlyf++Gy++a+++g+ +al++++++l++al+lnliygl++d++r+sG+fenta+l++l++l+++l+++ ks+kk+i++l
+  WP_095427547.1  96 DYYRSTLIYLRYLLIPLYFAVGYRIALTQGRLQALNNIWIMLTFALALNLIYGLFKDEQRISGFFENTATLASLSILCIFLATKLKSSKKIIFTL 190
+                     *********************************************************************************************** PP
+
+        0012_124 191 lisiillllsftasafialaalllllvlnikklhkklvyilvllsvvilsidlsssvseeiakylyvGsllnrlnlWsvlidifdsykviilglG 285
+                     lis+++llls+tasa+++la+llll++lnikk+h+k+v+i++++sv+i++i+l++sv+++i+kyly+Gsl+nrln+W+++i+++d+ykvi++glG
+  WP_095427547.1 191 LISGFTLLLSQTASAYLGLAVLLLLTILNIKKPHIKSVFITIFISVMISTIGLIPSVIDFIGKYLYTGSLMNRLNTWGTIISYYDNYKVIMFGLG 285
+                     *********************************************************************************************** PP
+
+        0012_124 286 sfPvfadnifiylisGlGisgfllylyllkignknkkiallislvllqGllfPGfimPyllillfillGilsvkee 361
+                     sfPvfadn+fi++isG+G+s+f++y+yl+k+g++n+++a++is++++qGllfPGf+mPy+li++fi+lG+lsv++e
+  WP_095427547.1 286 SFPVFADNLFIWMISGFGLSAFIFYVYLIKLGSYNRDCAIFISMIVWQGLLFPGFMMPYMLITTFIILGVLSVNKE 361
+                     *************************************************************************985 PP
+
+>> 0066_12  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    0.8  57.7     0.023       2.4      34     354 ..      23     353 ..       1     361 [] 0.75
+
+  Alignments for each domain:
+  == domain 1  score: 0.8 bits;  conditional E-value: 0.023
+         0066_12  34 lfillilllfllllkkikisklillllifiiyliliqlf.....lnseistvlnliisillliivvellkklskkkrkkilkkfilisiillile 123
+                     l+++li++++ll +kki i+++ ++++i+ + +++i+       ++ +i+t ++  + +l+    ++ +  l  + r++++   +l++ +++++ 
+  WP_095427547.1  23 LLFILIFFILLLHYKKIVINNIGIFYIIITTLVVMINAGngfanVSDQINTDFYEKLNWLVTDRGISEFVPLGDYYRSTLIYLRYLLIPLYFAVG 117
+                     34556666666667*******99888866333333332245567888999999999999999988888888887777776666657777777777 PP
+
+         0066_12 124 liiRilnpdleyvekl.......eeleglfyaYK...vnSimYeDSNfvglvilsllflllylkkekkkklklilllllillllTfSRAAiiali 208
+                       i +++ +l++++ +         l+ ++  +K     S ++e  N   l  ls+l+++l +k +++kk+ ++ll+  + lll+   +A+++l 
+  WP_095427547.1 118 YRIALTQGRLQALNNIwimltfaLALNLIYGLFKdeqRISGFFE--NTATLASLSILCIFLATKLKSSKKIIFTLLISGFTLLLSQTASAYLGLA 210
+                     77777777777766556788887444444445662114588887..9****************999999999999999999999999******** PP
+
+         0066_12 209 lfliilvlkkskv.ikilsllillilllvlil........fllsilssDgSFnSKFyiielaikylksasllnilfGvGlgnteeviGigAHNif 294
+                     ++l++ +l+ +k  ik +++ i+  + +++++         ++ ++   gS+  +++   ++i+y+++ +   i+fG G       + ++A N+f
+  WP_095427547.1 211 VLLLLTILNIKKPhIKSVFITIF--ISVMISTiglipsviDFIGKYLYTGSLMNRLNTWGTIISYYDNYK--VIMFGLGS------FPVFADNLF 295
+                     ***99999976644554444444..333333335677777455566678******************988..689**995......679****** PP
+
+         0066_12 295 vtlllEtGiiGlilfllllvylliklkkksliillpfliaglSlfsaaiPylfvllalii 354
+                     + ++  +G+  +i++++l+  l   ++ +++i++  ++  gl + ++++Py+ +++ +i+
+  WP_095427547.1 296 IWMISGFGLSAFIFYVYLI-KLGS-YNRDCAIFISMIVWQGLLFPGFMMPYMLITTFIIL 353
+                     ********97777766665.4443.57799999999999***************999997 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (361 residues searched)
+Target model(s):                         205  (80902 nodes)
+Passed MSV filter:                       187  (0.912195); expected 4.1 (0.02)
+Passed bias filter:                        6  (0.0292683); expected 4.1 (0.02)
+Passed Vit filter:                         6  (0.0292683); expected 0.2 (0.001)
+Passed Fwd filter:                         2  (0.0097561); expected 0.0 (1e-05)
+Initial search space (Z):                205  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.01
+# Mc/sec: 1856.79
+//
+Query:       WP_148418225.1  [L=373]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+   1.3e-163  538.0  46.1   1.6e-163  537.7  46.1    1.0  1  0012_124  
+  ------ inclusion threshold ------
+      0.012    8.4  53.2      0.023    7.4  53.2    1.6  1  0066_12   
+
+
+Domain annotation for each model (and alignments):
+>> 0012_124  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  537.7  46.1  1.6e-165  1.6e-163       1     361 [.       1     361 [.       1     367 [. 0.99
+
+  Alignments for each domain:
+  == domain 1  score: 537.7 bits;  conditional E-value: 1.6e-165
+        0012_124   1 mfvllpvfvenlifpgirtlsdvllllillliklkykkivisllglvliiivllivllnlangfsnasdsienelyeklkWlildrnisefvslG 95 
+                     mf+llp+f+enl+fp++rt+sd+l++li ++++l ykki+i+++g+++i++++livl+n+angf+n+sd+i++++yekl+Wl++dr+isefv+lG
+  WP_148418225.1   1 MFFLLPAFFENLTFPTSRTISDLLFILIAIILLLFYKKITIEKIGICYILFTALIVLINAANGFANVSDQINTDFYEKLNWLVTDRGISEFVPLG 95 
+                     999******************************************************************************************** PP
+
+        0012_124  96 dyyrniliylrylliPlyfvlGylfaklvgkekalvtlfnillialllnliyglisdddrlsGlfentaelsvlallllllslytkskkkkilgl 190
+                     dyyr++liylrylliP+yf++Gy++a+++g+ +al++l+++l++al+lnl+ygl++d++r+sG+fenta+l++l++l+++l+++ +s+ k++++l
+  WP_148418225.1  96 DYYRSTLIYLRYLLIPIYFAVGYRIALVQGRYQALNSLWILLTFALTLNLVYGLFKDNQRISGFFENTATLASLSILCIFLATKLNSYLKITYTL 190
+                     *********************************************************************************************** PP
+
+        0012_124 191 lisiillllsftasafialaalllllvlnikklhkklvyilvllsvvilsidlsssvseeiakylyvGsllnrlnlWsvlidifdsykviilglG 285
+                     lis+i+llls+tasa+++laa+++l  l++kk+h+k+++i+v++s++i++i+l++s++e+i+kyly+Gsl+nr+++W+++i+++dsykvi++glG
+  WP_148418225.1 191 LISGITLLLSQTASAYLGLAAIIILPLLKVKKPHIKSILITVTISIIISTIGLIPSIIEFIGKYLYTGSLINRFTTWGTIISYYDSYKVIMFGLG 285
+                     *********************************************************************************************** PP
+
+        0012_124 286 sfPvfadnifiylisGlGisgfllylyllkignknkkiallislvllqGllfPGfimPyllillfillGilsvkee 361
+                     sfPvfadn+f++lisG+G+s++++y+yl+k+gn+n+++a++is++++qGllfPGfimPy++i++f++lGilsv++e
+  WP_148418225.1 286 SFPVFADNLFVWLISGFGLSAIIMYVYLMKLGNYNNDCAIFISMIVWQGLLFPGFIMPYMIITTFMILGILSVDKE 361
+                     ************************************************************************9986 PP
+
+>> 0066_12  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    7.4  53.2   0.00022     0.023      34     355 ..      23     354 ..       1     364 [. 0.75
+
+  Alignments for each domain:
+  == domain 1  score: 7.4 bits;  conditional E-value: 0.00022
+         0066_12  34 lfillilllfllllkkikisklillllifiiyliliqlf.....lnseistvlnliisillliivvellkklskkkrkkilkkfilisiillile 123
+                     l+++li +++ll++kki+i+k+ + +++f   ++li+       ++ +i+t ++  + +l+    ++ +  l  + r++++   +l++ i++++ 
+  WP_148418225.1  23 LLFILIAIILLLFYKKITIEKIGICYILFTALIVLINAAngfanVSDQINTDFYEKLNWLVTDRGISEFVPLGDYYRSTLIYLRYLLIPIYFAVG 117
+                     33444444445555999999998888877444444444445567888999999999999999988888888887777777666668888899988 PP
+
+         0066_12 124 liiRilnpdleyvekl.......eeleglfyaYKvn...SimYeDSNfvglvilsllflllylkkekkkklklilllllillllTfSRAAiiali 208
+                       i +++ ++++++ l        +l+ ++  +K n   S ++e  N   l  ls+l+++l +k ++  k+ ++ll+  i lll+   +A+++l 
+  WP_148418225.1 118 YRIALVQGRYQALNSLwilltfaLTLNLVYGLFKDNqriSGFFE--NTATLASLSILCIFLATKLNSYLKITYTLLISGITLLLSQTASAYLGLA 210
+                     88888888888877667889988555555556665444488887..9************99999999999999999999***************9 PP
+
+         0066_12 209 lfliilvlkkskvikilsllillilllvlil........fllsilssDgSFnSKFyiielaikylksasllnilfGvGlgnteeviGigAHNifv 295
+                      ++i+  lk +k   i+s+li++ + +++++        +++ ++   gS+  +F+   ++i+y++s +   i+fG G       + ++A N+fv
+  WP_148418225.1 211 AIIILPLLKVKK-PHIKSILITVTISIIISTiglipsiiEFIGKYLYTGSLINRFTTWGTIISYYDSYK--VIMFGLGS------FPVFADNLFV 296
+                     999999998655.44444444433333333335566666777778889*****************9987..689**995......679******* PP
+
+         0066_12 296 tlllEtGiiGlilfllllvylliklkkksliillpfliaglSlfsaaiPylfvllaliil 355
+                      l+  +G+  +i++++l+   l +++++++i++  ++  gl + ++++Py+++++ +i+ 
+  WP_148418225.1 297 WLISGFGLSAIIMYVYLM--KLGNYNNDCAIFISMIVWQGLLFPGFIMPYMIITTFMILG 354
+                     *******98777776655..66678999**999999******************999975 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (373 residues searched)
+Target model(s):                         205  (80902 nodes)
+Passed MSV filter:                       182  (0.887805); expected 4.1 (0.02)
+Passed bias filter:                        3  (0.0146341); expected 4.1 (0.02)
+Passed Vit filter:                         3  (0.0146341); expected 0.2 (0.001)
+Passed Fwd filter:                         2  (0.0097561); expected 0.0 (1e-05)
+Initial search space (Z):                205  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.01
+# Mc/sec: 2193.31
+//
+Query:       WP_217534216.1  [L=377]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+     3e-150  494.1  56.9   3.3e-150  493.9  56.9    1.0  1  0012_124  
+    3.8e-08   26.5  59.6    4.5e-08   26.2  59.6    1.1  1  0005_100  
+  ------ inclusion threshold ------
+          9   -1.1  64.0       0.66    2.6  12.0    3.0  2  0066_12   
+
+
+Domain annotation for each model (and alignments):
+>> 0012_124  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  493.9  56.9  4.8e-152  3.3e-150       4     364 ..       7     376 ..       1     377 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 493.9 bits;  conditional E-value: 4.8e-152
+        0012_124   4 llpvfvenlifp....girtlsdvllllillli.....klkykkivisllglvliii.vllivllnlangfsnas.dsienelyeklkWlildrn 87 
+                     ++++f+++lifp    gir  +d+++ll++lli     kl++kk++++ll l++i+i +++i+ll+l+n+f++a+ d +en+++++l+Wli+dr+
+  WP_217534216.1   7 IITLFIFTLIFPvsvlGIR-SNDIAILLVILLIpfildKLVFKKSIDNLL-LIIISIsIVFIYLLSLYNDFNLANlDVYENRVNKALSWLISDRE 99 
+                     699****************.9*****************************.8888888************************************* PP
+
+        0012_124  88 isefvslGdyyrniliylrylliPlyfvlGylfaklvgkekalvtlfnillialllnl...iyglisdddrlsGlfentaelsvlallllllsly 179
+                     is+f+s+G++yrn+liy+ry+l+P+yf+lG++f+k  g+e+++v++fni+lia++l+l   i+g+is+++r+sG+f+n+aelsv++l+l+l+s+y
+  WP_217534216.1 100 ISSFFSSGNVYRNSLIYFRYMLMPMYFFLGWWFFK--GSERPIVNIFNIFLIASFLHLilsIFGFISNGGRQSGIFSNPAELSVIGLILMLFSKY 192
+                     ***********************************..*********************9999********************************* PP
+
+        0012_124 180 tkskkkkilgllisiillllsftasafialaalllllvlnikklhkklvyilvllsvvilsidlsssvseeiakylyvGsllnrlnlWsvlidif 274
+                     + +k+k++lg+++s++llllsft+safial++++l+++++++k+  +lv+++v++ ++il++d+s++vs+ei+kylyvGsl+nr+nlW+v++dif
+  WP_217534216.1 193 QVEKYKRVLGYTLSSSLLLLSFTFSAFIALLGYFLFCNFRFFKI--RLVFPIVMFLSFILASDISAIVSSEISKYLYVGSLMNRFNLWAVFKDIF 285
+                     ********************************************..************************************************* PP
+
+        0012_124 275 dsy.kviilglGsfPvfadnifiylisGlGisgfllylyllkignknkkiallislvllqGllfPGfimPyllillfillGilsvkeevev 364
+                     +++  +++lg+GsfPvfadnif+ylisGlG+sg+l+++yl++++++n+ ++ ++++v+lqGllfPGf+mPy+++ll++l+G+l+++e+++v
+  WP_217534216.1 286 SQDaIIYVLGFGSFPVFADNIFWYLISGLGLSGWLIFIYLYRVSVRNELMSGIVIFVVLQGLLFPGFVMPYFIALLLFLIGFLYHYEGANV 376
+                     ***999*********************************************************************************9875 PP
+
+>> 0005_100  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   26.2  59.6   6.6e-10   4.5e-08      11     383 ..       8     372 ..       1     377 [] 0.69
+
+  Alignments for each domain:
+  == domain 1  score: 26.2 bits;  conditional E-value: 6.6e-10
+        0005_100  11 ffifliisvfPnievelsgsllkiysviffllllllikkvd.klrlissellfivl..ffaayliisgrdesl..idiansliPneWyslygkqv 100
+                       +f+++ +fP   + +    + i     +ll+ + + k   k + i++ ll+i+   ++ +yl+  ++d +l  +d+ ++ + +    l +  +
+  WP_217534216.1   8 ITLFIFTLIFPVSVLGIRSNDIAILL--VILLIPFILDKLVfK-KSIDNLLLIIISisIVFIYLLSLYNDFNLanLDVYENRVNKALSWLISDRE 99 
+                     44567777888655666555555543..344445555554422.233333333333012333333334444442245666777777777888888 PP
+
+        0005_100 101 vdsfyrselvslfqllnflilvl..vf....sffknvdrelflldslkyvlvislltqiiisiiqlvvldedrayGsldnaqslGlfvllviivi 189
+                     + sf+ s  v    l+ f  +++  +f     ffk  +r   +++ ++ +l+ s ++ +i+si+  ++ +  r +G ++n+  l ++ l+ +++ 
+  WP_217534216.1 100 ISSFFSSGNVYRNSLIYFRYMLMpmYFflgwWFFKGSERP--IVNIFNIFLIAS-FLHLILSIFG-FISNGGRQSGIFSNPAELSVIGLILMLFS 190
+                     8888887777776666665544311333333677766554..568888899888.67899**998.78999*******************99998 PP
+
+        0005_100 190 kvflpskkkllslvillllvivlsGtksalfvllvivfllmlnslklsvfilklilfllfisvvilaslfseedvidvilelislftdtsslyvr 284
+                     k  ++  k++l    l   +++ls t sa++ ll   ++  + ++k+ ++    ++fl f    il      +d+  ++ + is +  + sl  r
+  WP_217534216.1 191 KYQVEKYKRVLGY-TLSSSLLLLSFTFSAFIALLGYFLFCNFRFFKIRLVFP-IVMFLSF----IL-----ASDISAIVSSEISKYLYVGSLMNR 274
+                     8889999999999.677777899******98888777767777777765443.3344433....33.....3567777778899999999***** PP
+
+        0005_100 285 yllWnsfsevlsesplfGakGi..tvefadnifWffilsyGivGlvliivfflsiirsanskfiflllvvfilqgvsyyGfliesvgvvltilla 377
+                     + lW  f++++s++ +  + G      fadnifW++i   G+ G  ++i ++   +r++    +  + + ++lqg+ + Gf++     +l  l++
+  WP_217534216.1 275 FNLWAVFKDIFSQDAIIYVLGFgsFPVFADNIFWYLISGLGLSGWLIFIYLYRVSVRNE---LMSGIVIFVVLQGLLFPGFVMPYFIALLLFLIG 366
+                     **************9998876511568*****************999988877655555...33334445689**********999999999999 PP
+
+        0005_100 378 isysyk 383
+                     + y y+
+  WP_217534216.1 367 FLYHYE 372
+                     999885 PP
+
+>> 0066_12  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.6  12.0    0.0097      0.66      35     117 ..       9      91 ..       3     100 .. 0.66
+   2 ?   -1.9  44.2      0.23        16     172     354 ..     184     365 ..      93     373 .. 0.78
+
+  Alignments for each domain:
+  == domain 1  score: 2.6 bits;  conditional E-value: 0.0097
+         0066_12  35 fillilllfllllkkikisklillllifiiyliliqlflnseistvlnliisillliivvellkklskkkrkkilkkfilisi 117
+                      ++++ l+f + +  i+ + + +ll+i++i +il +l+++++i  +l +iisi +++i +  l++  +  ++ ++++ ++ ++
+  WP_217534216.1   9 TLFIFTLIFPVSVLGIRSNDIAILLVILLIPFILDKLVFKKSIDNLLLIIISISIVFIYLLSLYNDFNLANLDVYENRVNKAL 91 
+                     33333333344447888999998888889999999999999998888888898777666555554444555556655555555 PP
+
+  == domain 2  score: -1.9 bits;  conditional E-value: 0.23
+         0066_12 172 lllyl.kkekkkklklil..llllillllTfSRAAiialilfliilvlkkskvikilsllillilllvlil.......fllsilssDgSFnSKFy 256
+                     l+l+l +k++  k+k +l   l   llll+f  +A+ial+  +++ +++  k i++++ +++++++++ ++       + +s++   gS+  +F+
+  WP_217534216.1 184 LILMLfSKYQVEKYKRVLgyTLSSSLLLLSFTFSAFIALLGYFLFCNFRFFK-IRLVFPIVMFLSFIL-ASdisaivsSEISKYLYVGSLMNRFN 276
+                     22222245555444433222445566667777779***99999999998555.555554444333333.2334555555556777789******* PP
+
+         0066_12 257 iielaikylksasllnilfGvGlgnteeviGigAHNifvtlllEtGiiGlilfllllvylliklkkksliillpfliaglSlfsaaiPylfvlla 351
+                     +   + + +++  ++ +l   G+g     + ++A Nif  l+  +G+ G ++f++l+ +++   ++ +  i++ +++ gl + ++++Py++ ll+
+  WP_217534216.1 277 LWAVFKDIFSQDAIIYVL---GFGS----FPVFADNIFWYLISGLGLSGWLIFIYLYRVSVR--NELMSGIVIFVVLQGLLFPGFVMPYFIALLL 362
+                     ****99999998877765...5554....4689*******************9998877777..6677788888999**************9988 PP
+
+         0066_12 352 lii 354
+                     ++i
+  WP_217534216.1 363 FLI 365
+                     765 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (377 residues searched)
+Target model(s):                         205  (80902 nodes)
+Passed MSV filter:                       189  (0.921951); expected 4.1 (0.02)
+Passed bias filter:                        6  (0.0292683); expected 4.1 (0.02)
+Passed Vit filter:                         6  (0.0292683); expected 0.2 (0.001)
+Passed Fwd filter:                         3  (0.0146341); expected 0.0 (1e-05)
+Initial search space (Z):                205  [actual number of targets]
+Domain search space  (domZ):               3  [number of targets reported over threshold]
+# CPU time: 0.01u 0.01s 00:00:00.02 Elapsed: 00:00:00.01
+# Mc/sec: 1722.55
+//
+Query:       OCH61298.1  [L=377]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+   7.4e-144  473.0  65.8   8.2e-144  472.9  65.8    1.0  1  0012_124  
+    8.4e-10   31.9  70.0    1.1e-09   31.6  70.0    1.1  1  0005_100  
+
+
+Domain annotation for each model (and alignments):
+>> 0012_124  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  472.9  65.8    8e-146  8.2e-144       4     364 ..       7     376 ..       1     377 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 472.9 bits;  conditional E-value: 8e-146
+    0012_124   4 llpvfvenlifp....girtlsdvllllillli.....klkykkivisllglvliii.vllivllnlangfsnas.dsienelyeklkWlildrnisef 91 
+                 l++++v+++ifp    gir l+d l+++il+++     ++k+kk+++sl+ l+l+++ +l+i++++l+ngf+na+ +s+en++y++lkWli+drni++f
+  OCH61298.1   7 LILILVFTFIFPitifGIR-LNDALIFPILFILpfflnEIKIKKNSNSLF-LFLLFFsILFIFCFSLYNGFDNANlNSQENNIYNALKWLITDRNINNF 103
+                 48999**************.****************99************.8888888***************************************** PP
+
+    0012_124  92 vslGdyyrniliylrylliPlyfvlGylfaklvgkekalvtlfnillialllnl...iyglisdddrlsGlfentaelsvlallllllslytkskkkki 187
+                 +s+Gd+yrniliylryll+P+y+vlGylf++  +++k++++lfn++l+a++l+l   i+++is ++r++G+f+n+aels++all++++s+y++ +k+k+
+  OCH61298.1 104 FSAGDFYRNILIYLRYLLFPFYLVLGYLFIL--RQKKSFECLFNCFLFAGFLHLiicIFNFISLGGRQAGMFNNPAELSIVALLIFVFSFYDDFTKRKY 200
+                 *******************************..9********************9999***************************************** PP
+
+    0012_124 188 lgllisiillllsftasafialaalllllvlnikklhkklvyilvllsvvilsidlsssvseeiakylyvGsllnrlnlWsvlidifdsy.kviilglG 285
+                 +g+++si+ll++sft+s+fial+++l+++++n++k+  +l+yil+++++++ls+d+ss+vs e+akyly+Gsllnr+nlWsvl+dif++y  ++i++lG
+  OCH61298.1 201 IGICVSISLLVFSFTFSSFIALFSFLFFNFVNFYKI--RLFYILIIICSYLLSMDVSSVVSGELAKYLYIGSLLNRFNLWSVLNDIFSAYpLLYIFSLG 297
+                 ************************************..****************************************************99******* PP
+
+    0012_124 286 sfPvfadnifiylisGlGisgfllylyllkignknkkiallislvllqGllfPGfimPyllillfillGilsvkeevev 364
+                 sfPvf+dnif++l+sGlGi+g++l++y+l+i+++nk+i++l+++v++qG+lfPGfimPy++ llf+l+G++++k+ev++
+  OCH61298.1 298 SFPVFTDNIFWFLVSGLGIGGVFLLFYMLYICCRNKYISSLVLIVIAQGILFPGFIMPYFIGLLFFLFGFFYYKDEVCE 376
+                 ****************************************************************************986 PP
+
+>> 0005_100  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   31.6  70.0     1e-11   1.1e-09       6     380 ..       3     369 ..       1     376 [. 0.75
+
+  Alignments for each domain:
+  == domain 1  score: 31.6 bits;  conditional E-value: 1e-11
+    0005_100   6 kraslffifliisvfPnievelsgsllkiysviffllllllikkvdklrlissellfivlffaaylii.....sgrd.eslidiansli.PneW....y 93 
+                 ++ sl +i++++ +fP     +      i+ ++f+l ++l   k   ++ +s+ l + +lff + +i      +g d  +l+ + n++    +W     
+  OCH61298.1   3 VFNSLILILVFTFIFPITIFGIRLNDALIFPILFILPFFLNEIK---IKKNSNSLFLFLLFFSILFIFcfslyNGFDnANLNSQENNIYnALKWlitdR 98 
+                 56788899999999996666666666678999999887775444...6667777766666666666643455544441577776666441456733333 PP
+
+    0005_100  94 slygkqvvdsfyrselvslfqllnflilvlvfsffknvdrelflldslkyvlvislltqiiisiiqlvvldedrayGsldnaqslGlfvllviivikvf 192
+                 +++  +   +fyr+ l+ l  ll    lvl ++f  + +++      ++ +l+   ++ +ii i+  + l+  r  G ++n+  l ++ ll+ ++ + +
+  OCH61298.1  99 NINNFFSAGDFYRNILIYLRYLLFPFYLVLGYLFILRQKKSFE--CLFNCFLFAG-FLHLIICIFNFISLG-GRQAGMFNNPAELSIVALLIFVF-SFY 192
+                 56777778899*****999999888889999988888766654..4567888888.667999****99997.6899************9997776.544 PP
+
+    0005_100 193 lp.skkkllslvillllvivlsGtksalfvllvivfllmlnslklsvfilklilfllfisvvilaslfseedvidvilelislftdtsslyvryllWns 290
+                  + +k+k++ +++  + ++v+s t s+++ l++ +f+  +n++k+ +          f++ +i++s   + dv  v+   ++ +    sl  r+ lW  
+  OCH61298.1 193 DDfTKRKYIGICV-SISLLVFSFTFSSFIALFSFLFFNFVNFYKIRL----------FYILIIICSYLLSMDVSSVVSGELAKYLYIGSLLNRFNLWSV 280
+                 4425669****65.55566789**************88888887754..........4556677777779999999999999999************** PP
+
+    0005_100 291 fsevlsesplfG..akGitvefadnifWffilsyGivGlvliivfflsiirsanskfiflllvvfilqgvsyyGflies.vgvvltillaisy 380
+                 +++++s  pl+   + G    f+dnifWf++   Gi G++l+  f+++ i   ++k+i  l +++i qg+ + Gf++   +g+++++ +++ y
+  OCH61298.1 281 LNDIFSAYPLLYifSLGSFPVFTDNIFWFLVSGLGIGGVFLL--FYMLYI-CCRNKYISSLVLIVIAQGILFPGFIMPYfIGLLFFL-FGFFY 369
+                 ********987512579999****************998775..444433.56778999999999**********987614555544.44443 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (377 residues searched)
+Target model(s):                         205  (80902 nodes)
+Passed MSV filter:                       200  (0.97561); expected 4.1 (0.02)
+Passed bias filter:                       14  (0.0682927); expected 4.1 (0.02)
+Passed Vit filter:                        14  (0.0682927); expected 0.2 (0.001)
+Passed Fwd filter:                         2  (0.0097561); expected 0.0 (1e-05)
+Initial search space (Z):                205  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.01
+# Mc/sec: 2273.75
+//
+Query:       WP_199867674.1  [L=377]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+   1.4e-143  472.1  63.2   1.5e-143  472.0  63.2    1.0  1  0012_124  
+    4.3e-10   32.9  68.9    5.6e-10   32.5  68.9    1.1  1  0005_100  
+
+
+Domain annotation for each model (and alignments):
+>> 0012_124  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  472.0  63.2  1.5e-145  1.5e-143       4     364 ..       7     376 ..       1     377 [] 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 472.0 bits;  conditional E-value: 1.5e-145
+        0012_124   4 llpvfvenlifp....girtlsdvllllillli.....klkykkivisllglvliii.vllivllnlangfsnas.dsienelyeklkWlildrn 87 
+                     l++++v+++ifp    gir l+d++ll+i+lli     k+k+k++ +s++ l l++  +l++++++++ngf+na+ +s+en+ +++lkWli+drn
+  WP_199867674.1   7 LTLFLVFAFIFPvsifGIR-LHDFFLLPIFLLIpfflkKIKIKNNLNSVF-LSLLFSsFLFVFCFSMYNGFDNANlKSQENNAFNALKWLIIDRN 99 
+                     367889*************.*************9*9999*********99.8888877************************************* PP
+
+        0012_124  88 isefvslGdyyrniliylrylliPlyfvlGylfaklvgkekalvtlfnillialllnl...iyglisdddrlsGlfentaelsvlallllllsly 179
+                     i++f+s+Gdyyrn+liylry+l+P+yf+lGylf++  g +k+++ lf ++l++++l+l   i+++is ++r+sG+f+n+aels++all++++s+y
+  WP_199867674.1 100 INDFFSSGDYYRNTLIYLRYILFPFYFTLGYLFFL--GGKKSFELLFGCFLFSGTLHLiicIFDFISVGGRQSGMFNNPAELSIVALLIFIFSFY 192
+                     ***********************************..*********************9999********************************* PP
+
+        0012_124 180 tkskkkkilgllisiillllsftasafialaalllllvlnikklhkklvyilvllsvvilsidlsssvseeiakylyvGsllnrlnlWsvlidif 274
+                     +++ k+k++g++isi+ll++sft+s+fial+++++++++n++k+  +++yil+++++++ls+d+ss +s+++akylyvGsllnr+nlWsvl+dif
+  WP_199867674.1 193 DEMVKRKYIGIFISISLLIFSFTFSSFIALVSFFFINRINFYKV--RVLYILIIVTSYLLSLDISSLLSSALAKYLYVGSLLNRFNLWSVLNDIF 285
+                     ********************************************..************************************************* PP
+
+        0012_124 275 dsy.kviilglGsfPvfadnifiylisGlGisgfllylyllkignknkkiallislvllqGllfPGfimPyllillfillGilsvkeevev 364
+                     +++ ++++++lGsfPvf+dn+f+ylisGlGi+g+l+++y+++i+++nk+i++++++v++qG+lfPGfimPy++ llf+llG+++++ +v++
+  WP_199867674.1 286 SEDtSLYFFSLGSFPVFTDNVFWYLISGLGIGGVLFFMYIFYISHRNKYISSIVLVVMVQGMLFPGFIMPYFIGLLFFLLGFFYYRGDVCE 376
+                     ***9***********************************************************************************9986 PP
+
+>> 0005_100  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   32.5  68.9   5.4e-12   5.6e-10       8     380 ..       7     369 ..       1     374 [. 0.68
+
+  Alignments for each domain:
+  == domain 1  score: 32.5 bits;  conditional E-value: 5.4e-12
+        0005_100   8 aslffifliisvfPnievelsgsllk.iysviffllllllikkvd.klrlissellfiv..lff.aayliisgrd.eslidiansliPn.eWysl 95 
+                     ++lf++f +  +fP   v + g  l+  + +  fll+ +++kk++ k +l+s  l +++  ++f   + + +g d  +l  + n+     +W  +
+  WP_199867674.1   7 LTLFLVFAF--IFP---VSIFGIRLHdFFLLPIFLLIPFFLKKIKiKNNLNSVFLSLLFssFLFvFCFSMYNGFDnANLKSQENNAFNAlKWL-I 95 
+                     445655544..444...3344444430333345555667777766555666665555542233303333345554157777666665551564.4 PP
+
+        0005_100  96 ygkqvvdsfyrselvslfqllnflilvlvf......sffknvdrelflldslkyvlvislltqiiisiiqlvvldedrayGsldnaqslGlfvll 184
+                       ++ +++f+ s       l+ +  +++ f      +ff   +++  ll  +  +l+ s  + +ii i+  + ++  r +G ++n+  l ++ ll
+  WP_199867674.1  96 IDRN-INDFFSSGDYYRNTLIYLRYILFPFyftlgyLFFLGGKKSFELL--FGCFLF-SGTLHLIICIFDFISVG-GRQSGMFNNPAELSIVALL 185
+                     4454.66676665554444444444433331122225554444443332..233444.44678999999977776.79****************9 PP
+
+        0005_100 185 viivikvflp.skkkllslvillllvivlsGtksalfvllvivfllmlnslklsvfilklilfllfisvvilaslfseedvidvilelislftdt 278
+                     + i+ + + +  k+k++ + ++ + ++++s t s+++ l++  f+ ++n++k+ v+  +li+   ++ +          d+  ++ + ++ +  +
+  WP_199867674.1 186 IFIF-SFYDEmVKRKYIGI-FISISLLIFSFTFSSFIALVSFFFINRINFYKVRVLY-ILIIVTSYLLS---------LDISSLLSSALAKYLYV 268
+                     9888.44444145699999.999999999***********************99864.34444444443.........44555555667888888 PP
+
+        0005_100 279 sslyvryllWnsfsevlse..splfGakGitvefadnifWffilsyGivGlvliivfflsiirsanskfiflllvvfilqgvsyyGfliesvgvv 371
+                      sl  r+ lW  +++++se  s++f + G    f+dn+fW++i   Gi G+ +++  f+    s ++k+i  + +v+++qg+ + Gf++     +
+  WP_199867674.1 269 GSLLNRFNLWSVLNDIFSEdtSLYFFSLGSFPVFTDNVFWYLISGLGIGGVLFFMYIFYI---SHRNKYISSIVLVVMVQGMLFPGFIMPYFIGL 360
+                     99999*************955789*******************************99998...7899999999999***********99988778 PP
+
+        0005_100 372 ltillaisy 380
+                     l+ ll++ y
+  WP_199867674.1 361 LFFLLGFFY 369
+                     888888877 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (377 residues searched)
+Target model(s):                         205  (80902 nodes)
+Passed MSV filter:                       202  (0.985366); expected 4.1 (0.02)
+Passed bias filter:                       13  (0.0634146); expected 4.1 (0.02)
+Passed Vit filter:                        13  (0.0634146); expected 0.2 (0.001)
+Passed Fwd filter:                         3  (0.0146341); expected 0.0 (1e-05)
+Initial search space (Z):                205  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.01
+# Mc/sec: 1550.03
+//
+Query:       EHR0246941.1  [L=377]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+   2.5e-151  497.6  57.2   2.7e-151  497.5  57.2    1.0  1  0012_124  
+      2e-08   27.4  61.9    2.3e-08   27.2  61.9    1.1  1  0005_100  
+    2.6e-06   20.4  13.2    2.6e-06   20.4  13.2    4.0  4  0022_40   
+
+
+Domain annotation for each model (and alignments):
+>> 0012_124  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  497.5  57.2    4e-153  2.7e-151       4     364 ..       7     376 ..       1     377 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 497.5 bits;  conditional E-value: 4e-153
+      0012_124   4 llpvfvenlifp....girtlsdvllllillli.....klkykkivisllglvliii.vllivllnlangfsnas.dsienelyeklkWlildrnis 89 
+                   ++++fv++lifp    gir +sdv++l+++ll+     kl++kk+++++l lv i+i +++++l++l+n+f++a+ + +en+++++l Wli+dr+is
+  EHR0246941.1   7 IITLFVFTLIFPvsllGIR-ASDVSILMVILLVpfifnKLVFKKSIDNFL-LVAISIsTVFLYLFALYNNFNLANlNGYENKVSKALGWLISDREIS 101
+                   699****************.9*****************************.9999999*************************************** PP
+
+      0012_124  90 efvslGdyyrniliylrylliPlyfvlGylfaklvgkekalvtlfnillialllnl...iyglisdddrlsGlfentaelsvlallllllslytksk 183
+                   +f+s+G++yrn+liy+ry+liP+yf++G++f+k  ++ek++v++fni+++a++l+l   ++g+is+++r+sG+f+n+aelsv++lll+l+s+y++++
+  EHR0246941.1 102 SFFSSGNVYRNSLIYFRYILIPMYFFVGWWFFK--NNEKPIVHIFNIFFVASFLHLilsTFGFISNGGRQSGIFSNPAELSVIGLLLMLFSKYQAER 196
+                   *********************************..*********************8888************************************* PP
+
+      0012_124 184 kkkilgllisiillllsftasafialaalllllvlnikklhkklvyilvllsvvilsidlsssvseeiakylyvGsllnrlnlWsvlidifdsy.kv 279
+                   +k+++g+++s++lll+sft+safial++++++++++++kl  +l++++v++++++l++d+ss+vs+e++kyly+Gsl+nr+nlW+v++dif+++ ++
+  EHR0246941.1 197 YKRLIGYALSSSLLLFSFTFSAFIALFGYFVICKFRFFKL--RLIFPIVIFVSFLLASDISSIVSSEVSKYLYAGSLMNRFNLWAVFKDIFSQDvFL 291
+                   ****************************************..****************************************************9** PP
+
+      0012_124 280 iilglGsfPvfadnifiylisGlGisgfllylyllkignknkkiallislvllqGllfPGfimPyllillfillGilsvkeevev 364
+                   +++g+G+fPvfadnif+ylisGlGisg+l++lyl++++++n+ i+ +i++v+lqG+lfPGf+mPy+++ll++l+G+++++e+v+v
+  EHR0246941.1 292 YMFGFGAFPVFADNIFWYLISGLGISGWLIFLYLYRVSIRNELISGIIIFVILQGILFPGFVMPYFIALLLFLIGFFYYYEGVNV 376
+                   **********************************************************************************987 PP
+
+>> 0005_100  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   27.2  61.9   3.4e-10   2.3e-08       8     382 ..       7     371 ..       1     377 [] 0.69
+
+  Alignments for each domain:
+  == domain 1  score: 27.2 bits;  conditional E-value: 3.4e-10
+      0005_100   8 aslffifliisvfPnievelsgsllkiysvif...fllllllikkvd.klrlissellfivlffaayli.isgrdeslidiansliPneWyslygkq 99 
+                   +    +f+++ +fP   + +  s + i  vi+   f++ +l+ kk+   + l+   +  ++  ++++ +  +++  +l+ + n +   +   l +  
+  EHR0246941.1   7 I--ITLFVFTLIFPVSLLGIRASDVSILMVILlvpFIFNKLVFKKSIdNFLLVAISISTVF--LYLFALyNNFNLANLNGYENKVSKALG-WLISDR 98 
+                   3..3345555677765566666555555555411155666666664325555544444443..333333148888888888887655544.445555 PP
+
+      0005_100 100 vvdsfyrselvslfqllnflilvl..vf....sffknvdrelflldslkyvlvislltqiiisiiqlvvldedrayGsldnaqslGlfvllviivik 190
+                   ++ sf+ s  v    l+ f  +++  +f     ffkn   e  +++ ++ ++v s ++ +i+s +  ++ +  r +G ++n+  l ++ ll +++ k
+  EHR0246941.1  99 EISSFFSSGNVYRNSLIYFRYILIpmYFfvgwWFFKNN--EKPIVHIFNIFFVAS-FLHLILSTFG-FISNGGRQSGIFSNPAELSVIGLLLMLFSK 191
+                   58888888777766666665544411333444667664..455667777777777.77899**998.78999********************99988 PP
+
+      0005_100 191 vflpskkkllslvillllvivlsGtksalfvllvivfllmlnslklsvfilklilfllfisvvilaslfseedvidvilelislftdtsslyvryll 287
+                      +  k+l+    l   ++++s t sa++ l+   ++ ++ ++kl ++  ++i f+ f+    l      +d+  ++ + +s +  + sl  r+ l
+  EHR0246941.1 192 YQAERYKRLIGY-ALSSSLLLFSFTFSAFIALFGYFVICKFRFFKLRLIFPIVI-FVSFL----L-----ASDISSIVSSEVSKYLYAGSLMNRFNL 277
+                   778888888888.56666677899999999999888888888888876655433.33332....2.....4566667777789999999******** PP
+
+      0005_100 288 WnsfsevlsesplfGak..GitvefadnifWffilsyGivGlvliivfflsiirsanskfiflllvvfilqgvsyyGfliesvgvvltillaisysy 382
+                   W  f++++s++ ++ +   G    fadnifW++i   Gi G  +++ ++   ir   ++ i  + + +ilqg+ + Gf++     +l  l+++ y y
+  EHR0246941.1 278 WAVFKDIFSQDVFLYMFgfGAFPVFADNIFWYLISGLGISGWLIFLYLYRVSIR---NELISGIIIFVILQGILFPGFVMPYFIALLLFLIGFFYYY 371
+                   **********98755541156678*****************9998877766455...555555666789**********999999999999998876 PP
+
+>> 0022_40  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !    6.0   8.9    0.0009     0.061       1      76 [.       1      77 [.       1      90 [. 0.79
+   2 !    3.1   3.7    0.0066      0.45      27      74 ..     117     163 ..      99     166 .. 0.81
+   3 !   20.4  13.2   3.7e-08   2.6e-06     167     298 ..     163     301 ..     159     306 .. 0.82
+   4 ?   -4.6   9.5       1.5     1e+02     324     379 ..     306     361 ..     302     368 .. 0.67
+
+  Alignments for each domain:
+  == domain 1  score: 6.0 bits;  conditional E-value: 0.0009
+       0022_40  1 MisknklkkllLslliFilslenhgelryllvllllfili.laliskkkkikksllksfillillilllsllsslei 76
+                  M+++nk+ +l++++liF +sl  + +   ++++++l++ + +  + +kk i++ ll +++++++++ l++l+  +++
+  EHR0246941.1  1 MNASNKIITLFVFTLIFPVSLLGIRASDVSILMVILLVPFiFNKLVFKKSIDNFLLVAISISTVFLYLFALYNNFNL 77
+                  78889999999999**************9999999988775666666777777777777777777777777776654 PP
+
+  == domain 2  score: 3.1 bits;  conditional E-value: 0.0066
+       0022_40  27 lryllvllllfililaliskkkkikksllksfillillilllsllssl 74 
+                   +ry+l+ + +f+ +  ++++++k  ++++++f+++++l l+ls ++++
+  EHR0246941.1 117 FRYILIPMYFFVGW-WFFKNNEKPIVHIFNIFFVASFLHLILSTFGFI 163
+                   57877777777777.89999999***************9999998765 PP
+
+  == domain 3  score: 20.4 bits;  conditional E-value: 3.7e-08
+       0022_40 167 igavyRpTGlyeEPStYsafilvLlalklilnkkvdkldliallsiilslSvAaiiyallfllylllkskksylkylll..lllllllai.iielak 260
+                   i +  R  G++  P   s + l+L++   + +++ ++l+  al s +l +S+   ++ +lf ++++ k +  +l+ ++   +++++lla  i+++++
+  EHR0246941.1 163 ISNGGRQSGIFSNPAELSVIGLLLMLFSKYQAERYKRLIGYALSSSLLLFSFTFSAFIALFGYFVICKFRFFKLRLIFPivIFVSFLLASdISSIVS 259
+                   66667999********************************************999999988766666667777888776323444555436****** PP
+
+       0022_40 261 arltslggdassi.RlnLiev...vfsqdllellfGnGllgv 298
+                   + +++  + +s + R+nL +v   +fsqd+  ++fG G++ v
+  EHR0246941.1 260 SEVSKYLYAGSLMnRFNLWAVfkdIFSQDVFLYMFGFGAFPV 301
+                   *****8887776679**97655559*************9976 PP
+
+  == domain 4  score: -4.6 bits;  conditional E-value: 1.5
+       0022_40 324 LwlFliikfGvvgliilllllllklkskrnlilfliillTKisflsflFifyilli 379
+                   ++ +li  +G+ g +i+l+l  ++++++  + + ++++l  i f  f+  ++i l+
+  EHR0246941.1 306 IFWYLISGLGISGWLIFLYLYRVSIRNELISGIIIFVILQGILFPGFVMPYFIALL 361
+                   56799999*****9999999999998888555555555555544433333344333 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (377 residues searched)
+Target model(s):                         205  (80902 nodes)
+Passed MSV filter:                       195  (0.95122); expected 4.1 (0.02)
+Passed bias filter:                        9  (0.0439024); expected 4.1 (0.02)
+Passed Vit filter:                         9  (0.0439024); expected 0.2 (0.001)
+Passed Fwd filter:                         3  (0.0146341); expected 0.0 (1e-05)
+Initial search space (Z):                205  [actual number of targets]
+Domain search space  (domZ):               3  [number of targets reported over threshold]
+# CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.01
+# Mc/sec: 1811.39
+//
+Query:       HBC3918621.1  [L=377]
+Scores for complete sequence (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Model    Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+   1.1e-151  498.8  58.5   1.2e-151  498.7  58.5    1.0  1  0012_124  
+    1.5e-08   27.8  63.8    1.8e-08   27.6  63.8    1.1  1  0005_100  
+    2.7e-06   20.3  12.8    2.7e-06   20.3  12.8    4.0  4  0022_40   
+  ------ inclusion threshold ------
+        3.8    0.1  67.4     0.0044    9.8  35.2    3.0  3  0066_12   
+
+
+Domain annotation for each model (and alignments):
+>> 0012_124  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  498.7  58.5  2.3e-153  1.2e-151       4     364 ..       7     376 ..       1     377 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 498.7 bits;  conditional E-value: 2.3e-153
+      0012_124   4 llpvfvenlifp....girtlsdvllllillli.....klkykkivisllglvliii.vllivllnlangfsnas.dsienelyeklkWlildrnis 89 
+                   ++++fv++lifp    gir +sdv++l+++ll+     kl++kk+++++l lv+i+i +++++l++l+n+f++a+ + +en+++++l Wli+dr+is
+  HBC3918621.1   7 IITLFVFTLIFPvsvlGIR-ASDVSILMVILLVpfifnKLVFKKSIDNFL-LVVISIsTVFLYLFALYNNFNLANlNGYENKVSKALGWLISDREIS 101
+                   699****************.9*****************************.9999888*************************************** PP
+
+      0012_124  90 efvslGdyyrniliylrylliPlyfvlGylfaklvgkekalvtlfnillialllnl...iyglisdddrlsGlfentaelsvlallllllslytksk 183
+                   +f+s+G++yrn+liy+ry+liP+yf++G++f+k  ++ek++v++fni+++a++l+l   i+g+is+++r+sG+f+n+aelsv++lll+l+s+y++++
+  HBC3918621.1 102 SFFSSGNVYRNSLIYFRYILIPMYFFVGWWFFK--NNEKPMVHIFNIFFVASFLHLilsIFGFISNGGRQSGIFSNPAELSVIGLLLMLFSKYQAER 196
+                   *********************************..*********************9999************************************* PP
+
+      0012_124 184 kkkilgllisiillllsftasafialaalllllvlnikklhkklvyilvllsvvilsidlsssvseeiakylyvGsllnrlnlWsvlidifdsy.kv 279
+                   +k+++g+++s++lll+sft+safial++++++++++++k+  +l++++v++++++l++d+ss+vs+e++kyly+Gsl+nr+nlW+v++dif+++ ++
+  HBC3918621.1 197 YKRLIGYALSSSLLLFSFTFSAFIALFGYFVICKFRFFKF--RLIFPIVIFVSFLLASDISSIVSSEVSKYLYAGSLMNRFNLWAVFKDIFSQDvFL 291
+                   ****************************************..****************************************************9** PP
+
+      0012_124 280 iilglGsfPvfadnifiylisGlGisgfllylyllkignknkkiallislvllqGllfPGfimPyllillfillGilsvkeevev 364
+                   +++g+G+fPvfadnif+ylisGlGisg+l++lyl++++++n+ i+ +i++v+lqG+lfPGf+mPy+++ll++l+G+++++e+v+v
+  HBC3918621.1 292 YMFGFGAFPVFADNIFWYLISGLGISGWLIFLYLYRVSIRNELISGIIIFVILQGILFPGFVMPYFIALLLFLIGFFYYYEGVNV 376
+                   **********************************************************************************987 PP
+
+>> 0005_100  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   27.6  63.8   3.5e-10   1.8e-08       8     382 ..       7     371 ..       1     377 [] 0.69
+
+  Alignments for each domain:
+  == domain 1  score: 27.6 bits;  conditional E-value: 3.5e-10
+      0005_100   8 aslffifliisvfPnievelsgsllkiysvif...fllllllikkvdklrlissellfivlffaaylii.....sgrdeslidiansliPneWysly 96 
+                   +    +f+++ +fP   + +  s + i  vi+   f++ +l+ kk      i++ ll+++ + +++l +     +++  +l+ + n +   +   l 
+  HBC3918621.1   7 I--ITLFVFTLIFPVSVLGIRASDVSILMVILlvpFIFNKLVFKK-----SIDNFLLVVISISTVFLYLfalynNFNLANLNGYENKVSKAL-GWLI 95 
+                   3..334555667886666666666666655541114445555555.....445555555554444444323335788888888888765554.4455 PP
+
+      0005_100  97 gkqvvdsfyrselvslfqllnflilvl..vf....sffknvdrelflldslkyvlvislltqiiisiiqlvvldedrayGsldnaqslGlfvllvii 187
+                   +  ++ sf+ s  v    l+ f  +++  +f     ffkn ++   +++ ++ ++v s ++ +i+si+  ++ +  r +G ++n+  l ++ ll ++
+  HBC3918621.1  96 SDREISSFFSSGNVYRNSLIYFRYILIpmYFfvgwWFFKNNEKP--MVHIFNIFFVAS-FLHLILSIFG-FISNGGRQSGIFSNPAELSVIGLLLML 188
+                   55558888888877777777665554411333444677765544..446666666666.77899**998.78999********************99 PP
+
+      0005_100 188 vikvflpskkkllslvillllvivlsGtksalfvllvivfllmlnslklsvfilklilfllfisvvilaslfseedvidvilelislftdtsslyvr 284
+                   + k   +  k+l+    l   ++++s t sa++ l+   ++ ++ ++k  ++  +          vi++s+   +d+  ++ + +s +  + sl  r
+  HBC3918621.1 189 FSKYQAERYKRLIGY-ALSSSLLLFSFTFSAFIALFGYFVICKFRFFKFRLIFPI----------VIFVSFLLASDISSIVSSEVSKYLYAGSLMNR 274
+                   977777888888888.556666678999999888887777777777765554433..........33333333567777777889999999****** PP
+
+      0005_100 285 yllWnsfsevlsesplfGak..GitvefadnifWffilsyGivGlvliivfflsiirsanskfiflllvvfilqgvsyyGfliesvgvvltillais 379
+                   + lW  f++++s++ ++ +   G    fadnifW++i   Gi G  +++ ++   ir   ++ i  + + +ilqg+ + Gf++     +l  l+++ 
+  HBC3918621.1 275 FNLWAVFKDIFSQDVFLYMFgfGAFPVFADNIFWYLISGLGISGWLIFLYLYRVSIR---NELISGIIIFVILQGILFPGFVMPYFIALLLFLIGFF 368
+                   *************98755541156678*****************9998877766455...555555666789**********999999999999998 PP
+
+      0005_100 380 ysy 382
+                   y y
+  HBC3918621.1 369 YYY 371
+                   876 PP
+
+>> 0022_40  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !    4.1   9.6    0.0045      0.23       1      75 [.       1      76 [.       1      91 [. 0.75
+   2 !    5.4   4.2    0.0018     0.092      27      74 ..     117     163 ..      99     167 .. 0.83
+   3 !   20.3  12.8   5.2e-08   2.7e-06     169     298 ..     165     301 ..     161     306 .. 0.82
+   4 ?   -4.4   9.4       1.7        88     324     379 ..     306     361 ..     300     368 .. 0.67
+
+  Alignments for each domain:
+  == domain 1  score: 4.1 bits;  conditional E-value: 0.0045
+       0022_40  1 MisknklkkllLslliFilslenhgelryllvllllfili.laliskkkkikksllksfillillilllsllssle 75
+                  M+++nk+ +l++++liF +s+  + +   ++++++l++ + +  + +kk i++ ll +++++++++ l++l+  ++
+  HBC3918621.1  1 MNASNKIITLFVFTLIFPVSVLGIRASDVSILMVILLVPFiFNKLVFKKSIDNFLLVVISISTVFLYLFALYNNFN 76
+                  78889999999999************99999999998776455555566666666666666666666666666655 PP
+
+  == domain 2  score: 5.4 bits;  conditional E-value: 0.0018
+       0022_40  27 lryllvllllfililaliskkkkikksllksfillillilllsllssl 74 
+                   +ry+l+ + +f+ +  ++++++k +++++++f+++++l l+ls+++++
+  HBC3918621.1 117 FRYILIPMYFFVGW-WFFKNNEKPMVHIFNIFFVASFLHLILSIFGFI 163
+                   57877777777777.89************************9999875 PP
+
+  == domain 3  score: 20.3 bits;  conditional E-value: 5.2e-08
+       0022_40 169 avyRpTGlyeEPStYsafilvLlalklilnkkvdkldliallsiilslSvAaiiyallfllylllkskksylkylll..lllllllai.iielakar 262
+                   +  R  G++  P   s + l+L++   + +++ ++l+  al s +l +S+   ++ +lf ++++ k +  +++ ++   +++++lla  i++++++ 
+  HBC3918621.1 165 NGGRQSGIFSNPAELSVIGLLLMLFSKYQAERYKRLIGYALSSSLLLFSFTFSAFIALFGYFVICKFRFFKFRLIFPivIFVSFLLASdISSIVSSE 261
+                   556999********************************************998898988766666667777888776323444555436******** PP
+
+       0022_40 263 ltslggdassi.RlnLiev...vfsqdllellfGnGllgv 298
+                   +++  + +s + R+nL +v   +fsqd+  ++fG G++ v
+  HBC3918621.1 262 VSKYLYAGSLMnRFNLWAVfkdIFSQDVFLYMFGFGAFPV 301
+                   ***8887776679**97655559*************9976 PP
+
+  == domain 4  score: -4.4 bits;  conditional E-value: 1.7
+       0022_40 324 LwlFliikfGvvgliilllllllklkskrnlilfliillTKisflsflFifyilli 379
+                   ++ +li  +G+ g +i+l+l  ++++++  + + ++++l  i f  f+  ++i l+
+  HBC3918621.1 306 IFWYLISGLGISGWLIFLYLYRVSIRNELISGIIIFVILQGILFPGFVMPYFIALL 361
+                   56799999*****9999999999998888555555555555544433333344333 PP
+
+>> 0066_12  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.8  11.4     0.011      0.57      34     101 ..       8      76 ..       3      97 .. 0.69
+   2 ?   -0.1   4.8     0.087       4.5      77     124 ..     109     159 ..      86     169 .. 0.64
+   3 ?    9.8  35.2   8.6e-05    0.0044     169     354 ..     181     365 ..     173     371 .. 0.74
+
+  Alignments for each domain:
+  == domain 1  score: 2.8 bits;  conditional E-value: 0.011
+       0066_12  34 lfillilllfllllkkikisklillllifiiyliliqlflnseistvlnliisillliivve.llkkls 101
+                   + ++++ l+f + +  i+ s +++l++i+++ +i+ +l+++++i  +l ++isi ++++ +  l+++ +
+  HBC3918621.1   8 ITLFVFTLIFPVSVLGIRASDVSILMVILLVPFIFNKLVFKKSIDNFLLVVISISTVFLYLFaLYNNFN 76 
+                   334444444445558899999999999999999999999999997777777798877665440444444 PP
+
+  == domain 2  score: -0.1 bits;  conditional E-value: 0.087
+       0066_12  77 i...stvlnliisillliivvellkklskkkrkkilkkfilisiillilel 124
+                   +   s++++ +i i ++++v + + k ++k  ++i ++f+++s++ lil +
+  HBC3918621.1 109 VyrnSLIYFRYILIPMYFFVGWWFFKNNEKPMVHIFNIFFVASFLHLILSI 159
+                   233345555566666666666666666667777777777777777776654 PP
+
+  == domain 3  score: 9.8 bits;  conditional E-value: 8.6e-05
+       0066_12 169 llflllyl.kkekkkklk.lil.llllillllTfSRAAiialilfliilvlkkskvikilsllillilllvlil.......fllsilssDgSFnSKF 255
+                   ++ lll+l +k++  ++k li   l   lll++f  +A+ial+  ++i +++  k +++++ +++++++l+ ++       + +s++   gS+  +F
+  HBC3918621.1 181 VIGLLLMLfSKYQAERYKrLIGyALSSSLLLFSFTFSAFIALFGYFVICKFRFFK-FRLIFPIVIFVSFLL-ASdissivsSEVSKYLYAGSLMNRF 275
+                   3333333336666656553444255566778888888*************99555.454443333222222.224555555556778889******* PP
+
+       0066_12 256 yiielaikylksasllnilfGvGlgnteeviGigAHNifvtlllEtGiiGlilfllllvylliklkkksliillpfliaglSlfsaaiPylfvllal 352
+                   ++   + + + s++++ ++fG G       + ++A Nif  l+  +Gi G ++fl+l+ +++   ++ +  i++ +++ g+ + ++++Py++ ll++
+  HBC3918621.1 276 NLWAVFKDIF-SQDVFLYMFGFGA------FPVFADNIFWYLISGLGISGWLIFLYLYRVSIR--NELISGIIIFVILQGILFPGFVMPYFIALLLF 363
+                   **98877766.579999****996......679*********************999877777..66777888888999*************99887 PP
+
+       0066_12 353 ii 354
+                   +i
+  HBC3918621.1 364 LI 365
+                   75 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query sequence(s):                         1  (377 residues searched)
+Target model(s):                         205  (80902 nodes)
+Passed MSV filter:                       198  (0.965854); expected 4.1 (0.02)
+Passed bias filter:                        8  (0.0390244); expected 4.1 (0.02)
+Passed Vit filter:                         8  (0.0390244); expected 0.2 (0.001)
+Passed Fwd filter:                         4  (0.0195122); expected 0.0 (1e-05)
+Initial search space (Z):                205  [actual number of targets]
+Domain search space  (domZ):               4  [number of targets reported over threshold]
+# CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.02
+# Mc/sec: 1323.16
+//
+[ok]

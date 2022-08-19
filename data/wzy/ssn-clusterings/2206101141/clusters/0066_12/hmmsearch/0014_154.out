@@ -1,0 +1,51 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  data/wzy/ssn-clusterings/2206101141/clusters/0066_12/sequences.hmm
+# target sequence database:        data/wzy/ssn-clusterings/2206101141/clusters/0014_154/sequences.fa
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       sequences  [M=365]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence   Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    0.00011   11.2   0.1    0.00021   10.3   0.1    1.4  1  RPI15812.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> RPI15812.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   10.3   0.1   1.5e-05   0.00021     187     290 ..     202     317 ..     180     324 .. 0.72
+
+  Alignments for each domain:
+  == domain 1  score: 10.3 bits;  conditional E-value: 1.5e-05
+   sequences 187 illlllillllTfSRAAiialilfliilvlkkskvikilsllillilllvlil.............fllsilssDgSFnSKFyiielaikylksaslln 272
+                    l+ + l+l fSRA+++ + ++  ++ l+ s ++++l+ l+++++ l+l+              +    l +D S ++++  + +  + l +++  +
+  RPI15812.1 202 KAALCALGLVLAFSRAGVALVAVLGAFFLLTGSLRQQLLAGLLIAAVGLLLARhgellqlaeygarLQDALLGRDLSAQARIGHLGSLAELL-NRDAWS 299
+                 345677889*******8666555555555554454667766666555555554788898888888666678899999999998887776665.567799 PP
+
+   sequences 273 ilfGvGlgnteeviGigA 290
+                 +++G G g +++  G gA
+  RPI15812.1 300 LWLGHGAGTAFYSAGTGA 317
+                 999999999999999888 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (365 nodes)
+Target sequences:                         14  (5541 residues searched)
+Passed MSV filter:                        14  (1); expected 0.3 (0.02)
+Passed bias filter:                        2  (0.142857); expected 0.3 (0.02)
+Passed Vit filter:                         2  (0.142857); expected 0.0 (0.001)
+Passed Fwd filter:                         1  (0.0714286); expected 0.0 (1e-05)
+Initial search space (Z):                 14  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+# Mc/sec: 724.80
+//
+[ok]

@@ -1,0 +1,46 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  data/wzy/ssn-clusterings/2206101141/clusters/0136_29/sequences.hmm
+# target sequence database:        data/wzy/ssn-clusterings/2206101141/clusters/0037_84/sequences.fa
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       sequences  [M=391]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence   Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------   -----------
+    0.00018   11.8   8.3    0.00052   10.3   8.3    1.7  1  TXH59276.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> TXH59276.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   10.3   8.3   1.4e-05   0.00052     301     379 ..     352     433 ..     339     443 .. 0.80
+
+  Alignments for each domain:
+  == domain 1  score: 10.3 bits;  conditional E-value: 1.4e-05
+   sequences 301 nVsTayagaysdlgwlGviilfllllllvl.lyllllk..kskyfivalailstilllsiFdNmfvfsglsfqlilpllfsl 379
+                 n  T+y g ++d+g +G ++++ll  +l+  ++llll   + ++++ a+++++ +++ s+ + ++++ ++   l+ + l+  
+  TXH59276.1 352 NIYTIYRGLLMDFGLAGSLVFLLLASWLAHvVFLLLLGskRPRFAVAAYIVMTGVFVHSFLSSLLMYNSTYATLAALWLILA 433
+                 789*******************999999986777777664666777777777777888888889999888887776666544 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (391 nodes)
+Target sequences:                         37  (16538 residues searched)
+Passed MSV filter:                        37  (1); expected 0.7 (0.02)
+Passed bias filter:                       10  (0.27027); expected 0.7 (0.02)
+Passed Vit filter:                        10  (0.27027); expected 0.0 (0.001)
+Passed Fwd filter:                         1  (0.027027); expected 0.0 (1e-05)
+Initial search space (Z):                 37  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.00
+# Mc/sec: 1089.74
+//
+[ok]

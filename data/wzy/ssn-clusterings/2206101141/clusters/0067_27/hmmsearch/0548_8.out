@@ -1,0 +1,63 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  data/wzy/ssn-clusterings/2206101141/clusters/0067_27/sequences.hmm
+# target sequence database:        data/wzy/ssn-clusterings/2206101141/clusters/0548_8/sequences.fa
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       sequences  [M=396]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence     Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------     -----------
+      1e-07   26.1  28.8      1e-07   26.1  28.8    2.3  2  EGQ9715602.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> EGQ9715602.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   26.1  28.8   1.9e-10     1e-07       5     259 ..       5     262 ..       1     271 [. 0.68
+   2 ?   -0.3   3.1      0.02        11     185     237 ..     344     398 ..     297     426 .. 0.68
+
+  Alignments for each domain:
+  == domain 1  score: 26.1 bits;  conditional E-value: 1.9e-10
+     sequences   5 liillill.lllfavlkkkdlfsPlvlttlv.Wllilllglflgdsly......plseqfflslliWvlillisslltylllpkkkkikkeleeskk 93 
+                   ++++ i l ++l++++k++++ s +++ + + Wl++++ g++++ +ly      pl+ +++   l+  l+ l+++ l y+++   k   k ++ s k
+  EGQ9715602.1   5 AFLIAIALvVVLIGIYKNRSFASFYSIYSSCyWLVMFF-GVIVYINLYinyqfkPLEFTIINETLLLSLLGLLFFNLAYFFRLPIKFRVKGVKVS-K 99 
+                   44444444388888**********99977651666655.44444333322222288888887766666666666666666665555433557777.5 PP
+
+     sequences  94 ifniyllisiilvplllyeiykvvgeggpenff...lnLRlaaleeeeeleklgllkyvypliqalfliellryskkskwklllillln..llfaia 185
+                   +  +y+ ++++++  l++  + vv +gg   +    ++ Rl ++         g++++++pl ++++++ ll +++k++w +++   l+  +l+++a
+  EGQ9715602.1 100 LTVRYFSVLCLCFSGLAVLGF-VVKNGGLVLLKgngYEDRLTSN------LGAGMFTIFFPLFIPAYAMLLLIEPSKRQWIKYFASGLIfgFLTFLA 189
+                   566666666666655555555.4555554333300033333333......45689999999999999999999999999988876544311555566 PP
+
+     sequences 186 tm.gKlailtlilitlvilyekkkiklkkilillvvllilflllqllRsseseesstildflslYilsplvAfgt 259
+                   +  +++ + ++i ++l+i y+ k+iklk++++  +v++il+ +l + R+s++   ++ + f+ +Y++ +++ f++
+  EGQ9715602.1 190 IGgARMNLAIFICVFLIIGYVLKYIKLKTLILSPFVVMILMTVLVYFRESDN--GNQNSFFFWIYLMNSFSPFDS 262
+                   65169999999****************************************9..5677779******99999986 PP
+
+  == domain 2  score: -0.3 bits;  conditional E-value: 0.02
+     sequences 185 atmgKlailtlilitlvil..yekkkiklkkilillvvllilflllqllRssese 237
+                     +gKl+++   ++++  l   + + i+ k+ l++ +  + ++++++l+R+s + 
+  EGQ9715602.1 344 FFIGKLVFFLDSIFYYGGLkrIVMEDINPKSCLMAGGYSFYILYMFNLVRESLDI 398
+                   5566666665444443322114567899999999999999999999999998764 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (396 nodes)
+Target sequences:                        548  (245622 residues searched)
+Passed MSV filter:                       547  (0.998175); expected 11.0 (0.02)
+Passed bias filter:                        5  (0.00912409); expected 11.0 (0.02)
+Passed Vit filter:                         5  (0.00912409); expected 0.5 (0.001)
+Passed Fwd filter:                         1  (0.00182482); expected 0.0 (1e-05)
+Initial search space (Z):                548  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.01
+# Mc/sec: 5029.79
+//
+[ok]

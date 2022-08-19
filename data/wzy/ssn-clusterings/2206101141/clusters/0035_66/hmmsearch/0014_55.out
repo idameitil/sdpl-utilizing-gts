@@ -1,0 +1,69 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  data/wzy/ssn-clusterings/2206101141/clusters/0035_66/sequences.hmm
+# target sequence database:        data/wzy/ssn-clusterings/2206101141/clusters/0014_55/sequences.fa
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       sequences  [M=328]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+  ------ inclusion threshold ------
+        9.4   -4.9  82.9      0.035    3.1   7.9    2.8  2  WP_185665883.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_185665883.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -4.1  67.0      0.39       5.4       6     264 ..       2     281 ..       1     291 [. 0.67
+   2 ?    3.1   7.9    0.0025     0.035       6      72 ..     293     363 ..     288     371 .. 0.75
+
+  Alignments for each domain:
+  == domain 1  score: -4.1 bits;  conditional E-value: 0.39
+       sequences   6 llYlvLvllalllalvk....kksklkvvltfilllvysivvRlsgfdlDilvYaealksdllkslYylrEpvyWissrylYkllqsevlvflli 96 
+                     ++Y ++++l l++++++    +++kl ++++ +++l y++ +R++ + +D l Y e  + +   s     E+ y i s+ l+++l  + + f l+
+  WP_185665883.1   2 IIYYIILFLFLFFSFLDislkNRDKLFFIFLTLFFLSYFWGLRYK-IGVDWLFYIEEYNQE---SHKLSIEYGYKIFSN-LFNYLGFDYFLFQLF 91 
+                     445555555555666552221444888888888899999999986.89********98888...55555699**99997.678888888888766 PP
+
+       sequences  97 DiivlvlllkalkklklpqY.fillfllfFpsvmGlqNvYRQylstvllll.slllvkenlikkkfvlllalltH..NvaalFlpllfllkkkkk 187
+                      ++++++ +  ++k+  ++  f++l l +F +++ +    RQ ++ +l+++  ++++k+++ik++++++l+ + H   + ++ ++ lfllk++k 
+  WP_185665883.1  92 ITLFFLITISYFYKKYTKYRiFCILSLFLFNFIF-YIEALRQIIALTLVIIsYIYILKNKNIKSYIFVILSSFFHisSIVIIVSSSLFLLKSSKV 185
+                     6666555555555443333313333444455666.55678**********94455667778**************444556677899***99998 PP
+
+       sequences 188 islkf..illsllvlil...............lvllassKSesetGevsvllylavivvlliiflllnkl.klkkkekklly.ilvyliilllvs 263
+                     +++++  il++l++ il               +++    K    t + ++++ + +i+ l++i+++++k  ++k++++ +++ +++ +++l+ vs
+  WP_185665883.1 186 YKILKntILVFLILNILgvypidlflfllkkqITIPFIDKVYWYTQSKNSIITISFIIKLITILFFFKKTkNIKRSSIIIFIkYNLLFLLLINVS 280
+                     88766555555544444779999998888888777777899999999999999988888777777777662566655533331333334444444 PP
+
+       sequences 264 v 264
+                     +
+  WP_185665883.1 281 I 281
+                     4 PP
+
+  == domain 2  score: 3.1 bits;  conditional E-value: 0.0025
+       sequences   6 llYlvLvllalllalvkkks.klkvvltfilllvysi....vvRlsgfdlDilvYaealksdllkslYylrE 72 
+                     ++Y+ +++lal ++++ +++   k++l+fi+++++si    v+++  f+   + Y+++l ++  +++  lrE
+  WP_185665883.1 293 VYYIPIFILALSYIIILTENiLSKYILLFIFVSYFSIsfikVTKIDYFKEHYTPYNNYLMIE-ENDMSNLRE 363
+                     68999********9999999555666666666655544444677777777888899999998.888888887 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (328 nodes)
+Target sequences:                         14  (5372 residues searched)
+Passed MSV filter:                        14  (1); expected 0.3 (0.02)
+Passed bias filter:                        6  (0.428571); expected 0.3 (0.02)
+Passed Vit filter:                         6  (0.428571); expected 0.0 (0.001)
+Passed Fwd filter:                         1  (0.0714286); expected 0.0 (1e-05)
+Initial search space (Z):                 14  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.00
+# Mc/sec: 189.51
+//
+[ok]

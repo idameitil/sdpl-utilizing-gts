@@ -1,0 +1,51 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  data/wzy/ssn-clusterings/2206101141/clusters/0016_51/sequences.hmm
+# target sequence database:        data/wzy/ssn-clusterings/2206101141/clusters/0071_67/sequences.fa
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       sequences  [M=433]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    0.00089   10.2   6.2     0.0015    9.4   6.2    1.3  1  WP_154684216.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_154684216.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !    9.4   6.2   2.1e-05    0.0015     153     249 ..     171     269 ..     108     276 .. 0.76
+
+  Alignments for each domain:
+  == domain 1  score: 9.4 bits;  conditional E-value: 2.1e-05
+       sequences 153 aeiyssgnlllilvfvlslllillytlllvnklskkk..kielkliiitllilllitlvlGERdvifrlllitviilyvlkkikrkkllllvlig 245
+                       +ys g l ++l+++ sll+++ +++ l+  + +     i+  +i+++l++++ +++++G R +++ + l  ++++++  ++ r+   l+++i+
+  WP_154684216.1 171 GIVYSRGILQFSLTTLSSLLFLVPFLITLILTWPRGTpyPINRWVIYFSLISTIALVILSGRRALLLVFALSPILAVMLEPRLRRRIRRLIAPII 265
+                     44566666666777766666666555556666655550056777999************************************999999999999 PP
+
+       sequences 246 illi 249
+                     ++++
+  WP_154684216.1 266 VVAV 269
+                     8876 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (433 nodes)
+Target sequences:                         71  (29278 residues searched)
+Passed MSV filter:                        66  (0.929577); expected 1.4 (0.02)
+Passed bias filter:                        4  (0.056338); expected 1.4 (0.02)
+Passed Vit filter:                         3  (0.0422535); expected 0.1 (0.001)
+Passed Fwd filter:                         1  (0.0140845); expected 0.0 (1e-05)
+Initial search space (Z):                 71  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.00u 0.00s 00:00:00.00 Elapsed: 00:00:00.00
+# Mc/sec: 2790.58
+//
+[ok]

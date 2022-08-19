@@ -1,0 +1,61 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  data/wzy/ssn-clusterings/2206101141/clusters/0016_38/sequences.hmm
+# target sequence database:        data/wzy/ssn-clusterings/2206101141/clusters/0024_25/sequences.fa
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       sequences  [M=409]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence     Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------     -----------
+    0.00044    9.9  45.5     0.0068    5.9  45.5    2.3  1  MCD8003154.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> MCD8003154.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !    5.9  45.5   0.00028    0.0068      35     380 ..      30     376 ..       7     399 .. 0.67
+
+  Alignments for each domain:
+  == domain 1  score: 5.9 bits;  conditional E-value: 0.00028
+     sequences  35 fseislqiass....llavvlillfiksiyvtkyellilllvlifiliflstrlfyst.snlyqsvfnsflvrsvPailvgillaknnaikklikfl 126
+                    ++  lqi+      ++++ +i+++  ++   +++ l    ++i++++f +  l +++   + ++    +l   +  +l   ++++++ ik + +++
+  MCD8003154.1  30 VTNAGLQIIFEylgyGILLASIFIHYLKAPARRRKHLN-GYAFILLILFSIGILLQELvWTTKFTLLLTMLAIIFTYLLSEGIISSYKEIKTISYAV 125
+                   33444444433222255555555544444444444433.35789999999999999974666666777777777777777788899*********** PP
+
+     sequences 127 eplillytlalilaalsprisvaqt.fnisiityQslSYyamfaf.glnlylivy.kkkileetyfkksiykiilifLlllqlfvvlsgGGRGafvl 220
+                      ++  t+ ++++ +s + s ++  f  s+     + Y   fa  +l +y+ ++ ++k     y k+   k     +++l ++ ++ +G RGafvl
+  MCD8003154.1 126 FTGVITSTVLALISGISITGSASEGiFGSSFSINGGILYKNYFAAdMLAVYMGLFiCSKF---GY-KS---KTTDRLIMFLSVLCIILSGSRGAFVL 215
+                   *****************9999866558888888899999999976266777744403333...44.32...333344567788999*********** PP
+
+     sequences 221 livftlyllikiikf...kklisyillslliliailvk.....lllknelfkdgfeRllnFfsreea....istdnRllvydlaweliqe.sPllGy 304
+                    +vf +++   +ik+   k+ + +i++ ++++i i+++     + l+++ ++  ++ lln+++ ++     +   n  + yd+  +++ + + ++G+
+  MCD8003154.1 216 FVVFLIVIEYDKIKMikgKQRTAFIFILVIVCI-IVFAflyrnIALNSSTYMYRIRGLLNYLDYSNGdlfhMVFGNAEMAYDQETSYVLTiRSIVGW 311
+                   ********7777766666888888888888888.665530003444444445555567788766654455555667777777777765432667776 PP
+
+     sequences 305 GvgstflklnlysHnifldlLldgGliglliilvlllkfivilsklikidkkneliivlfleslvllsFSgsYlad 380
+                             ++     ld+L++ G++g++ ++++++ + +i   l + ++k++ i++ +  +    s   +Y+++
+  MCD8003154.1 312 D---------GSLEFAWLDILIKNGILGIVGFALIFIRSFKIA--LSTNNWKVKAILIAVTATCLCSSLVETYIQS 376
+                   3.........222224699999999999999999998888775..5677888888888777777777777777665 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (409 nodes)
+Target sequences:                         24  (9587 residues searched)
+Passed MSV filter:                        24  (1); expected 0.5 (0.02)
+Passed bias filter:                        1  (0.0416667); expected 0.5 (0.02)
+Passed Vit filter:                         1  (0.0416667); expected 0.0 (0.001)
+Passed Fwd filter:                         1  (0.0416667); expected 0.0 (1e-05)
+Initial search space (Z):                 24  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.00
+# Mc/sec: 445.42
+//
+[ok]

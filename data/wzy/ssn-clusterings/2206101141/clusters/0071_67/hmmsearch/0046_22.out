@@ -1,0 +1,93 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  data/wzy/ssn-clusterings/2206101141/clusters/0071_67/sequences.hmm
+# target sequence database:        data/wzy/ssn-clusterings/2206101141/clusters/0046_22/sequences.fa
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       sequences  [M=419]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence     Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------     -----------
+    3.3e-06   17.5  34.5    3.3e-06   17.5  34.5    2.0  2  EAA4448982.1  
+     0.0012    9.2  44.3    1.3e-05   15.6  33.0    2.1  2  EHD7611672.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> EAA4448982.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   17.5  34.5   1.4e-07   3.3e-06      28     264 ..       6     236 ..       2     259 .. 0.74
+   2 ?   -0.7   3.3     0.051       1.2      53      96 ..     351     393 ..     323     401 .. 0.43
+
+  Alignments for each domain:
+  == domain 1  score: 17.5 bits;  conditional E-value: 1.4e-07
+     sequences  28 eiKlvllllllllvllsivlkk..kirlsrevllviliyllvglfwslyGllngnpgalrvltvyvvwpilflllalliskekilkalekvlilaal 122
+                   +i l ll++++l ++   v +k  ++ + + ++ v  +y++ g+f++l G+ + n+++l  +t yv++ + f+l +l+ +  k+++++ k+  +  +
+  EAA4448982.1   6 YITLCLLFVVFLYAISVKVEGKivNVMVPYLIITVPTLYIFEGIFVYLSGVQEYNSEYLFFYTCYVLYIASFVLSYLYSQR-KEVDSVTKISNVPRY 101
+                   56777777777777666556662244556666777789******************************9998887777766.899999998888777 PP
+
+     sequences 123 lislisllfilsslgllpeflrleldqnavigvhegyleltlpnissLifllpfllsllllskkkskisrllllillllgllavllsGRRalllvil 219
+                   + s i ++ + + ++l+  + + e+  + +  +    + + ++   sL+f l   ++++++ +k+    +l+ + ++l+ +++++l G +  +++i+
+  EAA4448982.1 102 VFSSILFTLLAFFFYLPVLIEFREYILSPRRIYELTRTGYGIYFYPSLMFSLVASICAFFTYRKS----KLFCIAIVLINCVLIFLHGNKGPIFSIF 194
+                   7776666666555555555555566567777777788999999999****************996....68888889999**************999 PP
+
+     sequences 220 lspflalflallskkkkikiirkvlkillvfvvvvvllilllynl 264
+                   ++++l+l    ++++k+i++++ v  +++++++v  ++++ +++ 
+  EAA4448982.1 195 IAFILYL---SYIENKRIRFMFLVKSFAVIAFIVTAFFAYTFADG 236
+                   9655443...44455557777776677666665544455544443 PP
+
+  == domain 2  score: -0.7 bits;  conditional E-value: 0.051
+     sequences  53 lsrevllviliyllvglfwslyGllngnpgalrvltvyvvwpil 96 
+                    s ++++++l+ + ++++ + +G+l   ++++ ++ vy+  + +
+  EAA4448982.1 351 KSAHYFIMFLFCIGISIIPVSMGWLFP-EHLMVAFMVYIASSFV 393
+                   222333333333333333334444322.2233444444444444 PP
+
+>> EHD7611672.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   15.6  33.0   5.5e-07   1.3e-05      28     263 ..       6     235 ..       2     259 .. 0.68
+   2 ?   -0.8   3.4     0.052       1.2      53      97 ..     351     394 ..     323     401 .. 0.42
+
+  Alignments for each domain:
+  == domain 1  score: 15.6 bits;  conditional E-value: 5.5e-07
+     sequences  28 eiKlvllllllllvllsivlkk..kirlsrevllviliyllvglfwslyGllngnpgalrvltvyvvwpilflllalliskekilkalekvlilaal 122
+                   +i l ll++++l ++   v +k  ++ + + ++ v  +y++ g+f++l G+ + n+++l  +t yv++ + f+l +l+ +  k+++++ k+     +
+  EHD7611672.1   6 YITLCLLFVVFLYAISVKVEGKivNVMVPYLIITVPTLYIFEGIFVYLSGVQEYNSEYLFFYTCYVLYIASFVLSYLYSQR-KEVDSVTKISNDPRY 101
+                   56777777777777666556662244556666777789******************************9998887777766.788888887654333 PP
+
+     sequences 123 l..islisllfilsslgllpeflrleldqnavigvhegyleltlpnissLifllpfllsllllskkkskisrllllillllgllavllsGRRalllv 217
+                   +   +l++ll++++++ +l ef    l    +  +    + + ++   sL+f l   ++++++ kk+    +l+ + ++l+ +++++l G +  +++
+  EHD7611672.1 102 VfsSILFTLLAFFFYIPVLIEFREYIL--IPRRIYELTRTGYGIYFYPSLMFSLVASICAFFTHKKS----KLFCVAIVLINCVLIFLHGNKGPIFS 192
+                   300333444444444444444432222..22333444567788888889**************9996....688888899999*************9 PP
+
+     sequences 218 illspflalflallskkkkikiirkvlkillvfvvvvvllilllyn 263
+                   i+++++l+l    ++++k+i++++ v  +++++++v  ++++ +++
+  EHD7611672.1 193 IFIAFILYL---SYIENKRIRFMFLVKSFAVIAFIVTAFFAYTFTD 235
+                   999655443...4445555777777667766666554444444443 PP
+
+  == domain 2  score: -0.8 bits;  conditional E-value: 0.052
+     sequences  53 lsrevllviliyllvglfwslyGllngnpgalrvltvyvvwpilf 97 
+                    s ++++++l+ + ++++ + +G+l   ++++ ++ vy+  + +f
+  EHD7611672.1 351 KSAHYFIMFLFCIGISIIPVSMGWLFP-EHLMVAFMVYIASSFVF 394
+                   222333333333333333334444322.22334444444444444 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (419 nodes)
+Target sequences:                         46  (18788 residues searched)
+Passed MSV filter:                        44  (0.956522); expected 0.9 (0.02)
+Passed bias filter:                        2  (0.0434783); expected 0.9 (0.02)
+Passed Vit filter:                         2  (0.0434783); expected 0.0 (0.001)
+Passed Fwd filter:                         2  (0.0434783); expected 0.0 (1e-05)
+Initial search space (Z):                 46  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.00
+# Mc/sec: 1295.43
+//
+[ok]

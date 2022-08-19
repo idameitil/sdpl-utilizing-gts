@@ -1,0 +1,66 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  data/wzy/ssn-clusterings/2206101141/clusters/0042_79/sequences.hmm
+# target sequence database:        data/wzy/ssn-clusterings/2206101141/clusters/0003_90/sequences.fa
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       sequences  [M=431]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------       -----------
+    0.00037    6.8  58.0     0.0017    4.6  58.0    1.8  1  WP_016266983.1  
+
+
+Domain annotation for each sequence (and alignments):
+>> WP_016266983.1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !    4.6  58.0   0.00057    0.0017       3     420 ..       2     411 ..       1     416 [. 0.75
+
+  Alignments for each domain:
+  == domain 1  score: 4.6 bits;  conditional E-value: 0.00057
+       sequences   3 liiiillivlaivgivtekkilNPltiflilWaiiillsslqlyglnetseetysiiliGiisFviGyllakkikkkvkfkikkkssskkkkeye 97 
+                     +i i+l++ ++++ i   ++  NP+  f+++Wa+ il+  l + +  +       +il+  + +++G  + k i + v+   k+k+++  k++y 
+  WP_016266983.1   2 YIAITLILCFLVIYIAVHQSYKNPAKWFNLMWALQILIVYLLFRNEFKFVGLGLIYILVVCLIYSLGGDFGKYIMRNVCQ--KEKHHYIYKRKYA 94 
+                     4455566777777778889999**********997777776555555555556777888888999999999999986443..3333455555555 PP
+
+       sequences  98 irykllyilliiciifllydlitllklllsGgsleeIrqllqsseeslkssslenairllivqPlsyllpiivav.dfffgkrdkklliltivll 191
+                     i  +ll +ll  ++++++++++++   l+s +slee+  l+ +s+ + + ++ en+i + + + ++yl +i       +   + ++l i++i+  
+  WP_016266983.1  95 I--SLLCLLLSFSLFIVIKNIYSSDFGLSSVFSLEELLELNHQSSIDRYAGNNENSILSQMGRVIIYLTSIYGGYlYALESGKGRLLSIISIFPS 187
+                     5..799999999************99****************99999777888888888888888777777764404456678888888888777 PP
+
+       sequences 192 llrvlstggRsvlillviylii....aylikkkkeklklkkkkvkkikillililgivvlvlitlsrsesdvl..r....nlYlyfamqpimley 276
+                     ++ +l++  +s +i  v+  ii    a+ i+++ +k++++ k +kk +i+ + i+ +++++ + ++ +++d++  +    ++  y  + ++ +++
+  WP_016266983.1 188 MFISLTQSVKSGFITSVFLWIIgwyvAFTIMNN-RKINFNFKIIKK-IIVYFSIFYSILFFSMIMRTGKFDMYilNeisiKIVNYTFGHLPAFDI 280
+                     777777777777766555554422114555533.356667776666.67777777777788888888887764223111145667777999**** PP
+
+       sequences 277 wlekvdsenlygyGlaSlnGflfpifyilknllgisypelfqnvyeliqntdetwvnigsgitaNAYvslFwyfYlDgriiGiiigsflyGilvs 371
+                     w ++  s+     G++++ G++  + +  k+ +gi   ++++ + ++ +n  + +             ++F  +  D++i+  +i  f+ G++++
+  WP_016266983.1 281 WFSNNYSNIEPEGGITTFAGITNYLGL-SKREMGIYNEQIYYGISNYANNHTNVF-------------TAFRALAEDFGILFSLIIVFFTGTITG 361
+                     **9999887788899999999998877.566678899999999999998877666.............89999********************** PP
+
+       sequences 372 rvykkalkkknaknlslyll.ilqglifSfvrfefskvnyalafllilfl 420
+                      +++ ++k+  + n   +l+  l+ +  Sfv    + ++y++a++ + + 
+  WP_016266983.1 362 ISLNCIKKNIGILNAQWILMgTLFYISWSFVTSVWAYTSYIVALYAMYLC 411
+                     ***********99987766636778999****999999999999887765 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (431 nodes)
+Target sequences:                          3  (1251 residues searched)
+Passed MSV filter:                         3  (1); expected 0.1 (0.02)
+Passed bias filter:                        1  (0.333333); expected 0.1 (0.02)
+Passed Vit filter:                         1  (0.333333); expected 0.0 (0.001)
+Passed Fwd filter:                         1  (0.333333); expected 0.0 (1e-05)
+Initial search space (Z):                  3  [actual number of targets]
+Domain search space  (domZ):               1  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.00
+# Mc/sec: 61.89
+//
+[ok]
