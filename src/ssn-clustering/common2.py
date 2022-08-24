@@ -160,6 +160,9 @@ class SSNClusterData:
     def included_accessions_filename(self):
         return f"{self.results_dir_top()}/included_accessions.txt"
 
+    def hhr_filename(self ,cluster_id):
+        return f"{self.results_dir()}/{cluster_id}/{cluster_id}.hhr"
+
     def load_metadata(self):
         with open(self.metadata_filename(), 'r') as metadata_file:
             metadata = ''
@@ -395,6 +398,9 @@ class SSNClusterData:
 
         TM_count_string = self.get_TM_count_string(accessions)
 
+        hhr_filename = self.hhr_filename(cluster_id)
+
+
         return {
             'name': name,
             'size': size,
@@ -416,5 +422,6 @@ class SSNClusterData:
             'taxonomy_table': taxonomy_table,
             'accessions': accessions,
             'average_length': average_length,
-            'TM_count_string': TM_count_string
+            'TM_count_string': TM_count_string,
+            'hhr_filename': hhr_filename
         }
