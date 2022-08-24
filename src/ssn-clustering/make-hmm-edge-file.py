@@ -1,6 +1,6 @@
 import os
 import sys
-from common2 import SSNClusterData
+from common import SSNClusterData
 
 def parse_hhr(hhr_filename, query_cluster_name, threshold):
     hits = {}

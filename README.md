@@ -139,36 +139,6 @@ To build HMMs for each cluster, run `sh src/ssn-clustering/build-hmms.sh [timest
 -->
 
 ### HHblits
-<!---
-
-Put all MSAs in one folder with `python src/ssn-clustering/make-hhsearch_cb.py [timestamp]`
-
-Create database:
-`cd data/wzy/ssn-clusterings/2206101141`
-`ffindex_build -s ../hhsearchdb_msa.ff{data,index} .`
-`cd ..`
-
-`ffindex_apply hhsearchdb_msa.ff{data,index} -i hhsearchdb_a3m_wo_ss.ffindex -d hhsearchdb_a3m_wo_ss.ffdata -- hhconsensus -M 50 -maxres 65535 -i stdin -oa3m stdout -v 0`
-
-`mv hhsearchdb_a3m_wo_ss.ffdata hhsearchdb_a3m.ffdata`
-
-`mv hhsearchdb_a3m_wo_ss.ffindex hhsearchdb_a3m.ffindex`
-
-`ffindex_apply hhsearchdb_a3m.ff{data,index} -i hhsearchdb_hhm.ffindex -d hhsearchdb_hhm.ffdata -- hhmake -i stdin -o stdout -v 0`
-
-`cstranslate -f -x 0.3 -c 4 -I a3m -i hhsearchdb_a3m -o hhsearchdb_cs219`
-
-`sort -k3 -n -r hhsearchdb_cs219.ffindex | cut -f1 > sorting.dat`
-
-`ffindex_order sorting.dat hhsearchdb_hhm.ff{data,index} hhsearchdb_hhm_ordered.ff{data,index}`
-
-`mv hhsearchdb_hhm_ordered.ffindex hhsearchdb_hhm.ffindex`
-
-`mv hhsearchdb_hhm_ordered.ffdata hhsearchdb_hhm.ffdata`
-
-`python src/ssn-clustering/hhblits.py [timestamp]`
--->
-
 `sh src/ssn-clustering/hhblits.sh [timestamp]`
 
 ### Collapse clusters

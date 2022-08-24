@@ -1,5 +1,5 @@
 
-from common2 import SSNClusterData
+from common import SSNClusterData
 import sys
 
 timestamp = sys.argv[1]

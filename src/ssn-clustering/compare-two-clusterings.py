@@ -1,4 +1,4 @@
-from common2 import SSNClusterData
+from common import SSNClusterData
 
 clustering_data_110 = SSNClusterData('2206101141')
 clustering_data_150 = SSNClusterData('2206071430')

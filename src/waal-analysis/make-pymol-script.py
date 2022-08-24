@@ -1,11 +1,11 @@
 import sys
 sys.path.insert(0, 'src/ssn-clustering')
-import common2
+import common
 
-fasta_dict = common2.read_MSA_file("data/waal/MSA-logo/seeds-and-hits.afa")
-conserved_residues = common2.get_conserved_residues(fasta_dict, 0.95)
+fasta_dict = common.read_MSA_file("data/waal/MSA-logo/seeds-and-hits.afa")
+conserved_residues = common.get_conserved_residues(fasta_dict, 0.95)
 structure_name = 'WP_011517284.1'
-positions = common2.get_specific_positions_conserved_residues(structure_name, conserved_residues, fasta_dict)
+positions = common.get_specific_positions_conserved_residues(structure_name, conserved_residues, fasta_dict)
 
 load_model_string = f"""
 fetch 7TPG
