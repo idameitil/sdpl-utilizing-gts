@@ -6,7 +6,7 @@ timestamp = sys.argv[1]
 
 clusters = [dir for dir in os.listdir(f"data/wzy/ssn-clusterings/{timestamp}/clusters") if not dir.startswith('.')]
 
-db_path = f"data/wzy/ssn-clusterings/{timestamp}/hhsearchdb"
+db_path = f"data/wzy/ssn-clusterings/{timestamp}/msa"
 if not os.path.isdir(db_path):
     os.makedirs(db_path)
 

@@ -130,15 +130,18 @@ Push changes.
 
 To visualize alphafold models with conserved residues, run: `pymol data/wzy/ssn-clusterings/[timestamp]/pymol-visualization.pml`.
 
+<!---
 ### Build HMMs
 To build HMMs for each cluster, run `sh src/ssn-clustering/build-hmms.sh [timestamp]`.
 
 ### HMM search
 `python src/ssn-clustering/search-hmms.py [timestamp]`
+-->
 
 ### HHblits
+<!---
 
-Put all MSAs in one folder with `python src/ssn-clustering/make-hhsearch_cb.py`
+Put all MSAs in one folder with `python src/ssn-clustering/make-hhsearch_cb.py [timestamp]`
 
 Create database:
 `cd data/wzy/ssn-clusterings/2206101141`
@@ -163,7 +166,13 @@ Create database:
 
 `mv hhsearchdb_hhm_ordered.ffdata hhsearchdb_hhm.ffdata`
 
-`python src/ssn-clustering/hhblitz.py [timestamp]`
+`python src/ssn-clustering/hhblits.py [timestamp]`
+-->
+
+`sh src/ssn-clustering/hhblits.sh [timestamp]`
+
+### Collapse clusters
+`python src/ssn-clustering/make-hmm-edge-file.py [timestamp]`
 
 ## Phylogenetic trees
 
