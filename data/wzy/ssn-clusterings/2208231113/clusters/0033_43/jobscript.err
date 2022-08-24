@@ -1,0 +1,58 @@
+
+muscle 5.1.linux64 [12f0e2]  264Gb RAM, 24 cores
+Built Jan 13 2022 23:17:13
+(C) Copyright 2004-2021 Robert C. Edgar.
+https://drive5.com
+
+Input: 33 seqs, avg length 382, max 420
+
+00:00 3.9Mb  CPU has 24 cores, defaulting to 20 threads
+
+WARNING: Max OMP threads 1
+
+00:00 3.9Mb    0.19% Calc posteriors00:01 4.1Mb     2.1% Calc posteriors00:02 4.8Mb     8.5% Calc posteriors00:03 11Mb     15.0% Calc posteriors00:04 5.2Mb    21.2% Calc posteriors00:05 12Mb     27.5% Calc posteriors00:06 5.9Mb    33.5% Calc posteriors00:07 13Mb     40.0% Calc posteriors00:08 6.7Mb    46.0% Calc posteriors00:09 7.0Mb    51.9% Calc posteriors00:10 7.4Mb    58.5% Calc posteriors00:11 7.8Mb    64.2% Calc posteriors00:12 15Mb     70.1% Calc posteriors00:13 15Mb     76.3% Calc posteriors00:14 9.0Mb    82.2% Calc posteriors00:15 9.4Mb    88.3% Calc posteriors00:16 17Mb     93.8% Calc posteriors00:17 10Mb     99.2% Calc posteriors00:17 10Mb    100.0% Calc posteriors
+00:17 10Mb     0.19% Consistency (1/2)00:17 18Mb    100.0% Consistency (1/2)
+00:17 18Mb     0.19% Consistency (2/2)00:18 18Mb      8.1% Consistency (2/2)00:18 18Mb    100.0% Consistency (2/2)
+00:18 18Mb      3.1% UPGMA5           00:18 18Mb    100.0% UPGMA5
+00:18 18Mb      1.0% Refining00:18 19Mb    100.0% Refining
+INFO:Malign:No identity filter
+INFO:Malign:Star /work3/idamei/wzy/ssn-clusterings/2208231113/clusters/0033_43/seeds.txt
+INFO:Malign:Star highlights 4
+Read FASTA line_by_line from /work3/idamei/wzy/ssn-clusterings/2208231113/clusters/0033_43/sequences.afa 33 elements
+INFO:Malign:No identity filter
+INFO:Malign:Fasta contains 33 valid records
+INFO:Malign:Aligned already
+INFO:Malign:Align contains 33 valid records
+inputType: FASTA
+================================================================================
+WARNINGS
+
+One or more weights was less than -50 bits.
+To avoid such amino acid dominating the logo position, these was reduced to -50
+bits.
+To remove this warning you could try choosing the option of pseudo counts.
+================================================================================
+
+FastTree Version 2.1.11 SSE3
+Alignment: /work3/idamei/wzy/ssn-clusterings/2208231113/clusters/0033_43/sequences.afa
+Amino acid distances: BLOSUM45 Joins: balanced Support: SH-like 1000
+Search: Normal +NNI +SPR (2 rounds range 10) +ML-NNI opt-each=1
+TopHits: 1.00*sqrtN close=default refresh=0.80
+ML Model: Jones-Taylor-Thorton, CAT approximation with 20 rate categories
+Initial topology in 0.01 seconds
+Refining topology: 20 rounds ME-NNIs, 2 rounds ME-SPRs, 10 rounds ML-NNIs
+      0.14 seconds: ME NNI round 13 of 20, 1 of 28 splits
+Total branch-length 8.092 after 0.15 sec
+ML-NNI round 1: LogLk = -15267.738 NNIs 4 max delta 3.76 Time 0.36
+      0.36 seconds: Site likelihoods with rate category 1 of 20
+Switched to using 20 rate categories (CAT approximation)
+Rate categories were divided by 0.946 so that average rate = 1.0
+CAT-based log-likelihoods may not be comparable across runs
+Use -gamma for approximate but comparable Gamma(20) log-likelihoods
+ML-NNI round 2: LogLk = -14491.043 NNIs 3 max delta 0.04 Time 0.58
+Turning off heuristics for final round of ML NNIs (converged)
+      0.58 seconds: ML NNI round 3 of 10, 1 of 28 splits
+ML-NNI round 3: LogLk = -14486.684 NNIs 1 max delta 0.01 Time 0.80 (final)
+      0.79 seconds: ML Lengths 1 of 28 splits
+Optimize all lengths: LogLk = -14486.471 Time 0.86
+Total time: 1.05 seconds Unique: 30/33 Bad splits: 0/27

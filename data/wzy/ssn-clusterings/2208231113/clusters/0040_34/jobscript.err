@@ -1,0 +1,60 @@
+
+muscle 5.1.linux64 [12f0e2]  264Gb RAM, 24 cores
+Built Jan 13 2022 23:17:13
+(C) Copyright 2004-2021 Robert C. Edgar.
+https://drive5.com
+
+Input: 40 seqs, avg length 432, max 453
+
+00:00 4.1Mb  CPU has 24 cores, defaulting to 20 threads
+
+WARNING: Max OMP threads 1
+
+00:00 4.1Mb    0.13% Calc posteriors00:01 4.9Mb    0.77% Calc posteriors00:02 5.0Mb     4.0% Calc posteriors00:03 5.0Mb     7.2% Calc posteriors00:04 5.0Mb    10.4% Calc posteriors00:05 5.2Mb    13.6% Calc posteriors00:06 6.1Mb    17.2% Calc posteriors00:07 6.1Mb    20.6% Calc posteriors00:08 6.1Mb    24.0% Calc posteriors00:09 14Mb     27.4% Calc posteriors00:10 6.5Mb    30.8% Calc posteriors00:11 6.8Mb    34.2% Calc posteriors00:12 7.0Mb    37.7% Calc posteriors00:13 7.3Mb    40.9% Calc posteriors00:14 7.6Mb    44.4% Calc posteriors00:15 7.8Mb    47.4% Calc posteriors00:16 8.1Mb    50.6% Calc posteriors00:17 8.4Mb    54.0% Calc posteriors00:18 8.6Mb    57.4% Calc posteriors00:19 8.9Mb    60.6% Calc posteriors00:20 9.1Mb    63.8% Calc posteriors00:21 17Mb     67.2% Calc posteriors00:22 9.6Mb    70.5% Calc posteriors00:23 18Mb     73.8% Calc posteriors00:24 10Mb     77.3% Calc posteriors00:25 10Mb     80.5% Calc posteriors00:26 11Mb     83.8% Calc posteriors00:27 19Mb     87.8% Calc posteriors00:28 11Mb     91.3% Calc posteriors00:29 12Mb     94.9% Calc posteriors00:30 12Mb     98.5% Calc posteriors00:30 18Mb    100.0% Calc posteriors
+00:30 18Mb     0.13% Consistency (1/2)00:31 18Mb     56.9% Consistency (1/2)00:31 21Mb    100.0% Consistency (1/2)
+00:31 21Mb     0.13% Consistency (2/2)00:32 21Mb     90.4% Consistency (2/2)00:32 21Mb    100.0% Consistency (2/2)
+00:32 21Mb      2.6% UPGMA5           00:32 21Mb    100.0% UPGMA5
+00:32 21Mb      1.0% Refining00:32 23Mb    100.0% Refining
+INFO:Malign:No identity filter
+INFO:Malign:Star /work3/idamei/wzy/ssn-clusterings/2208231113/clusters/0040_34/seeds.txt
+INFO:Malign:Star highlights 10
+Read FASTA line_by_line from /work3/idamei/wzy/ssn-clusterings/2208231113/clusters/0040_34/sequences.afa 40 elements
+INFO:Malign:No identity filter
+INFO:Malign:Fasta contains 40 valid records
+INFO:Malign:Aligned already
+INFO:Malign:Align contains 40 valid records
+inputType: FASTA
+================================================================================
+WARNINGS
+
+One or more weights was less than -50 bits.
+To avoid such amino acid dominating the logo position, these was reduced to -50
+bits.
+To remove this warning you could try choosing the option of pseudo counts.
+================================================================================
+
+FastTree Version 2.1.11 SSE3
+Alignment: /work3/idamei/wzy/ssn-clusterings/2208231113/clusters/0040_34/sequences.afa
+Amino acid distances: BLOSUM45 Joins: balanced Support: SH-like 1000
+Search: Normal +NNI +SPR (2 rounds range 10) +ML-NNI opt-each=1
+TopHits: 1.00*sqrtN close=default refresh=0.80
+ML Model: Jones-Taylor-Thorton, CAT approximation with 20 rate categories
+Initial topology in 0.01 seconds
+Refining topology: 21 rounds ME-NNIs, 2 rounds ME-SPRs, 10 rounds ML-NNIs
+      0.16 seconds: ME NNI round 15 of 21, 1 of 34 splits
+Total branch-length 4.617 after 0.17 sec
+ML-NNI round 1: LogLk = -11318.410 NNIs 5 max delta 2.49 Time 0.43
+      0.43 seconds: Site likelihoods with rate category 1 of 20
+      0.53 seconds: Site likelihoods with rate category 20 of 20
+Switched to using 20 rate categories (CAT approximation)
+Rate categories were divided by 0.918 so that average rate = 1.0
+CAT-based log-likelihoods may not be comparable across runs
+Use -gamma for approximate but comparable Gamma(20) log-likelihoods
+ML-NNI round 2: LogLk = -10598.474 NNIs 4 max delta 12.40 Time 0.66
+      0.66 seconds: ML NNI round 3 of 10, 1 of 34 splits
+ML-NNI round 3: LogLk = -10598.269 NNIs 0 max delta 0.00 Time 0.73
+Turning off heuristics for final round of ML NNIs (converged)
+ML-NNI round 4: LogLk = -10594.241 NNIs 1 max delta 0.07 Time 1.00 (final)
+      0.99 seconds: ML Lengths 1 of 34 splits
+Optimize all lengths: LogLk = -10594.197 Time 1.08
+Total time: 1.31 seconds Unique: 36/40 Bad splits: 0/33

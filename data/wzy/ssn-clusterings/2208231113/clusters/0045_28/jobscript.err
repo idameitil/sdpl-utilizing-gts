@@ -1,0 +1,60 @@
+
+muscle 5.1.linux64 [12f0e2]  792Gb RAM, 24 cores
+Built Jan 13 2022 23:17:13
+(C) Copyright 2004-2021 Robert C. Edgar.
+https://drive5.com
+
+Input: 45 seqs, avg length 410, max 432
+
+00:00 4.1Mb  CPU has 24 cores, defaulting to 20 threads
+
+WARNING: Max OMP threads 1
+
+00:00 4.1Mb     0.1% Calc posteriors00:01 4.9Mb     2.2% Calc posteriors00:02 4.9Mb     4.6% Calc posteriors00:03 4.9Mb     7.0% Calc posteriors00:04 5.2Mb     9.6% Calc posteriors00:05 6.1Mb    12.1% Calc posteriors00:06 6.1Mb    14.7% Calc posteriors00:07 6.1Mb    17.2% Calc posteriors00:08 6.4Mb    19.8% Calc posteriors00:09 6.7Mb    22.4% Calc posteriors00:10 7.0Mb    24.8% Calc posteriors00:11 7.3Mb    27.4% Calc posteriors00:12 7.6Mb    30.0% Calc posteriors00:13 7.9Mb    32.3% Calc posteriors00:14 8.2Mb    34.8% Calc posteriors00:15 8.5Mb    37.4% Calc posteriors00:16 8.7Mb    39.7% Calc posteriors00:17 9.1Mb    42.2% Calc posteriors00:18 9.4Mb    44.6% Calc posteriors00:19 9.7Mb    47.0% Calc posteriors00:20 9.9Mb    49.5% Calc posteriors00:21 17Mb     51.8% Calc posteriors00:22 11Mb     54.2% Calc posteriors00:23 11Mb     56.7% Calc posteriors00:24 11Mb     59.1% Calc posteriors00:25 11Mb     61.5% Calc posteriors00:26 19Mb     63.9% Calc posteriors00:27 12Mb     66.4% Calc posteriors00:28 12Mb     68.8% Calc posteriors00:29 13Mb     71.2% Calc posteriors00:30 13Mb     73.6% Calc posteriors00:31 20Mb     76.1% Calc posteriors00:32 14Mb     78.5% Calc posteriors00:33 14Mb     80.8% Calc posteriors00:34 21Mb     83.3% Calc posteriors00:35 14Mb     85.8% Calc posteriors00:36 15Mb     88.3% Calc posteriors00:37 15Mb     90.8% Calc posteriors00:38 21Mb     93.6% Calc posteriors00:39 23Mb     96.6% Calc posteriors00:40 16Mb     99.2% Calc posteriors00:40 16Mb    100.0% Calc posteriors
+00:40 23Mb      0.1% Consistency (1/2)00:41 23Mb     33.8% Consistency (1/2)00:41 29Mb    100.0% Consistency (1/2)
+00:41 29Mb      0.1% Consistency (2/2)00:42 29Mb      9.6% Consistency (2/2)00:43 29Mb     76.0% Consistency (2/2)00:43 29Mb    100.0% Consistency (2/2)
+00:43 29Mb      2.3% UPGMA5           00:43 29Mb    100.0% UPGMA5
+00:43 29Mb      1.0% Refining00:43 31Mb    100.0% Refining
+INFO:Malign:No identity filter
+INFO:Malign:Star /work3/idamei/wzy/ssn-clusterings/2208231113/clusters/0045_28/seeds.txt
+INFO:Malign:Star highlights 1
+Read FASTA line_by_line from /work3/idamei/wzy/ssn-clusterings/2208231113/clusters/0045_28/sequences.afa 45 elements
+INFO:Malign:No identity filter
+INFO:Malign:Fasta contains 45 valid records
+INFO:Malign:Aligned already
+INFO:Malign:Align contains 45 valid records
+inputType: FASTA
+================================================================================
+WARNINGS
+
+One or more weights was less than -50 bits.
+To avoid such amino acid dominating the logo position, these was reduced to -50
+bits.
+To remove this warning you could try choosing the option of pseudo counts.
+================================================================================
+
+FastTree Version 2.1.11 SSE3
+Alignment: /work3/idamei/wzy/ssn-clusterings/2208231113/clusters/0045_28/sequences.afa
+Amino acid distances: BLOSUM45 Joins: balanced Support: SH-like 1000
+Search: Normal +NNI +SPR (2 rounds range 10) +ML-NNI opt-each=1
+TopHits: 1.00*sqrtN close=default refresh=0.80
+ML Model: Jones-Taylor-Thorton, CAT approximation with 20 rate categories
+Initial topology in 0.02 seconds
+Refining topology: 22 rounds ME-NNIs, 2 rounds ME-SPRs, 11 rounds ML-NNIs
+      0.14 seconds: ME NNI round 8 of 22, 1 of 42 splits
+      0.26 seconds: ME NNI round 15 of 22, 1 of 42 splits
+Total branch-length 9.954 after 0.27 sec
+ML-NNI round 1: LogLk = -20004.779 NNIs 5 max delta 6.44 Time 0.60
+      0.60 seconds: Site likelihoods with rate category 1 of 20
+      0.70 seconds: Site likelihoods with rate category 17 of 20
+Switched to using 20 rate categories (CAT approximation)
+Rate categories were divided by 0.968 so that average rate = 1.0
+CAT-based log-likelihoods may not be comparable across runs
+Use -gamma for approximate but comparable Gamma(20) log-likelihoods
+ML-NNI round 2: LogLk = -19090.057 NNIs 1 max delta 0.07 Time 0.94
+Turning off heuristics for final round of ML NNIs (converged)
+      0.94 seconds: ML NNI round 3 of 11, 1 of 42 splits
+ML-NNI round 3: LogLk = -19087.548 NNIs 0 max delta 0.00 Time 1.30 (final)
+      1.29 seconds: ML Lengths 1 of 42 splits
+Optimize all lengths: LogLk = -19087.523 Time 1.40
+Total time: 1.70 seconds Unique: 44/45 Bad splits: 0/41
