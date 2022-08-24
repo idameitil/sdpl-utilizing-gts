@@ -2,7 +2,6 @@ import os
 import sys
 import pandas as pd
 import networkx as nx
-sys.path.append("/Users/idamei/garryg/bioP/lib")
 
 timestamp = sys.argv[1]
 expansion_threshold = float(sys.argv[2])
@@ -12,12 +11,11 @@ min_length_filter = 320
 max_length_filter = 600
 
 def write_metadata():
-    outfile = open(f"{outdir}/metadata.txt", "w")
-    outfile.write(f"CD-HIT threshold: {cdhit_threshold}%\n")
-    outfile.write(f"Length filter: min {min_length_filter}, max {max_length_filter}\n")
-    outfile.write(f"Expansion threshold: e-value {expansion_threshold}\n")
-    outfile.write(f"SSN threshold: score {ssn_threshold}\n")
-    outfile.close()
+    with open(f"{outdir}/metadata.txt", "w") as outfile:
+        outfile.write(f"CD-HIT threshold: {cdhit_threshold}%\n")
+        outfile.write(f"Length filter: min {min_length_filter}, max {max_length_filter}\n")
+        outfile.write(f"Expansion threshold: e-value {expansion_threshold}\n")
+        outfile.write(f"SSN threshold: score {ssn_threshold}\n")
 
 def read_banned_list(banned_file):
     with open(banned_file, 'r') as fh:
@@ -44,13 +42,9 @@ def read_seed_fasta(seed_fasta):
                 seed_accessions.add(accession)
     return seed_accessions
 
-def read_unique_hits_tsv(unique_hits_tsv):
-    unique_hits_df = pd.read_csv(unique_hits_tsv, sep = '\t', names=['acc', 'evalue'])
-    return unique_hits_df
-
 def find_accessions_to_include(banned_accessions, filtered_reduced_accessions, seed_accessions, unique_hits_df, expansion_threshold):
     # Filter hits by expansion threshold
-    below_threshold_all = set(unique_hits_df.loc[unique_hits_df.evalue < expansion_threshold, 'acc'])
+    below_threshold_all = set(unique_hits_df.loc[unique_hits_df.evalue < expansion_threshold, 'protein_accession'])
     filtered_reduced_below_threshold = filtered_reduced_accessions.intersection(below_threshold_all)
     # Add seeds
     union = filtered_reduced_below_threshold.union(seed_accessions)
@@ -113,7 +107,8 @@ write_metadata()
 banned_accessions = read_banned_list(banned_file)
 filtered_reduced_accessions = read_filtered_reduced_fasta(filtered_reduced_fasta)
 seed_accessions = read_seed_fasta(seed_fasta)
-unique_hits_df = read_unique_hits_tsv(unique_hits_tsv)
+
+unique_hits_df = pd.read_csv(unique_hits_tsv, sep = '\t', names=['protein_accession', 'evalue'])
 
 accessions_include = find_accessions_to_include(banned_accessions, \
     filtered_reduced_accessions, seed_accessions, unique_hits_df, expansion_threshold)
@@ -128,38 +123,37 @@ write_info_file()
 # Read sequence files
 annotated_df = pd.read_csv("data/wzy/wzy.tsv", sep='\t')
 blast_hits_df = pd.read_csv("data/wzy/blast/unique-hits.csv", sep=' ,', \
-    names=['acc', 'org', 'taxid', 'name', 'seq'], engine='python')
+    names=['protein_accession', 'org', 'taxid', 'name', 'seq'], engine='python')
 
-# Write cluster fastas
+# Write cluster fastas etc
 clusterdir = f"{outdir}/clusters"
 if not os.path.isdir(clusterdir):
     os.makedirs(clusterdir)
-cluster_file = open(f"{outdir}/clusters.tsv", "w")
-count = 0
+name = 0
 for cluster in clusters:
-    count += 1
-    # Cluster name
+    name += 1
     cluster_size = len(cluster)
-    cluster_name = f"{str(cluster_size).zfill(4)}_{count}"
-    # Make cluster dir
-    dir = f"{clusterdir}/{cluster_name}"
+    cluster_id = f"{str(cluster_size).zfill(4)}_{name}"
+    dir = f"{clusterdir}/{cluster_id}"
     if not os.path.isdir(dir):
         os.makedirs(dir)
-    with open(f"{dir}/sequences.fa", "w") as fasta_outfile, open(f"{dir}/seeds.txt", "w") as seed_list_file:
+    with open(f"{dir}/sequences.fa", "w") as fasta_outfile, \
+        open(f"{dir}/seeds.txt", "w") as seed_list_file, \
+        open(f"{outdir}/clusters.tsv", "w") as cluster_file:
+
         accessions_done = list()
         # Write annotated
         annotated_in_cluster = annotated_df.loc[annotated_df['protein_accession'].isin(cluster), ['protein_accession', 'seq']]
         for index, row in annotated_in_cluster.iterrows():
             accessions_done.append(row.protein_accession)
             fasta_outfile.write(f">{row.protein_accession}\n{row.seq}\n")
-            cluster_file.write(f"{row.protein_accession}\t{count}\n")
+            cluster_file.write(f"{row.protein_accession}\t{name}\n")
             seed_list_file.write(f"{row.protein_accession}\n")
         # Write blast hits
-        blast_hits_in_cluster = blast_hits_df.loc[blast_hits_df['acc'].isin(cluster), ['acc', 'seq']]
+        blast_hits_in_cluster = blast_hits_df.loc[blast_hits_df['protein_accession'].isin(cluster), ['protein_accession', 'seq']]
         for index, row in blast_hits_in_cluster.iterrows():
-            if row.acc not in accessions_done:
-                fasta_outfile.write(f">{row.acc}\n{row.seq}\n")
-                cluster_file.write(f"{row.acc}\t{count}\n")
-    # Blast hits tsv file
-    blast_hits_in_cluster = blast_hits_df[blast_hits_df['acc'].isin(cluster)]
+            if row.protein_accession not in accessions_done:
+                fasta_outfile.write(f">{row.protein_accession}\n{row.seq}\n")
+                cluster_file.write(f"{row.protein_accession}\t{name}\n")
+    blast_hits_in_cluster = blast_hits_df[blast_hits_df['protein_accession'].isin(cluster)]
     blast_hits_in_cluster.to_csv(f"{dir}/hits.tsv", sep='\t')
