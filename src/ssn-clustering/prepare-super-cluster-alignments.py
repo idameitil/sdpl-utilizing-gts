@@ -4,9 +4,9 @@ import sys
 
 timestamp = sys.argv[1]
 
-hpc_directory = f'/work3/idamei/wzy/ssn-clusterings/{timestamp}/clusters'
+hpc_directory = f'/work3/idamei/wzy/ssn-clusterings/{timestamp}/super-clusters'
 
-clusterdir = f"data/wzy/ssn-clusterings/{timestamp}/clusters"
+clusterdir = f"data/wzy/ssn-clusterings/{timestamp}/super-clusters"
 submit_script = ""
 clusters = [f for f in os.listdir(clusterdir) if not f.startswith('.')]
 for cluster in clusters:
