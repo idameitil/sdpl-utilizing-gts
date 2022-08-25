@@ -144,6 +144,16 @@ To build HMMs for each cluster, run `sh src/ssn-clustering/build-hmms.sh [timest
 ### Collapse clusters
 `python src/ssn-clustering/make-hmm-edge-file.py [timestamp]`
 
+### Make MSAs for super-clusters
+`python src/ssn-clustering/prepare-super-cluster-alignments.py`
+
+`scp -r data/wzy/ssn-clusterings/[timestamp]/super-clusters idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/[timestamp]`
+
+At the HPC: `sh /work3/idamei/wzy/ssn-clusterings/[timestamp]/submit.sh`
+
+When all jobs are finished, run locally:
+`scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/[timestamp]/super-clusters/ data/wzy/ssn-clusterings/[timestamp]`
+
 ## Phylogenetic trees
 
 ### Make iTOL label files
@@ -260,6 +270,18 @@ Run hmmscan:
 ### Make tree with all hits below 1e-15 and seeds
 `python src/waal-analysis/prepare-tree-all.py`
 
+### hmmsearch against genbank
+`scp data/waal/clades/clade1/clade1.hmm data/waal/clades/clade2/clade2.hmm idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/hmm`
+
+`qrsh`
+
+`hmmsearch /work3/idamei/waal/hmm/clade1.hmm /work3/garryg/blast/db-/genbank.fa > /work3/idamei/waal/genbank-search/clade1-genbank.out`
+
+`hmmsearch /work3/idamei/waal/hmm/clade2.hmm /work3/garryg/blast/db-/genbank.fa > /work3/idamei/waal/genbank-search/clade2-genbank.out`
+
+`scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/genbank-search/clade1-genbank.out data/waal/genbank-search/`
+`scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/genbank-search/clade2-genbank.out data/waal/genbank-search/`
+
 ## ECA-Pol
 
 ### Enrich blast hits with taxonomy
@@ -282,5 +304,14 @@ On the HPC:
 
 `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/MSA/ data/eca-pol/`
 
-### Build HMMs
+### Build HMM
 `hmmbuild data/eca-pol/hmm/eca-pol.hmm data/eca-pol/MSA/eca-pol.afa`
+
+### hmmsearch against genbank
+`scp data/eca-pol/hmm/ idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/`
+
+`qrsh`
+
+`hmmsearch /work3/idamei/eca-pol/hmm/eca-pol.hmm /work3/garryg/blast/db-/genbank.fa > /work3/idamei/eca-pol/genbank-search/eca-pol-genbank.out`
+
+`scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/genbank-search/eca-pol-genbank.out data/eca-pol/genbank-search/`
