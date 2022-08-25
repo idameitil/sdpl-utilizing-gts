@@ -1,3 +1,9 @@
+# skylign
+
+skylign.org
+
+Make interactive logoplot from hmm
+
 # RodA
 Peptidoglycan polymerase
 
