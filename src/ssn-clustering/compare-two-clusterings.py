@@ -1,8 +1,8 @@
 from common import SSNClusterData
 
-clustering_data_110 = SSNClusterData('2206101141')
-clustering_data_150 = SSNClusterData('2206071430')
-clustering_data_200 = SSNClusterData('2206071111')
+clustering_data_110 = SSNClusterData('2206101141', calculate_conserved=False)
+clustering_data_150 = SSNClusterData('2206071430', calculate_conserved=False)
+clustering_data_200 = SSNClusterData('2206071111', calculate_conserved=False)
 
 print(f"Loading 2206101141")
 clusters_110 = list(clustering_data_110.clusters)

@@ -103,8 +103,10 @@ class SSNClusterData:
     seeds_and_hits_df = pd.read_csv(wzy_seeds_and_hits_filename, sep='\t', dtype=object)
     TM_counts = read_phobius(phobius_filename)
 
-    def __init__(self, ssn_clustering_id):
+    def __init__(self, ssn_clustering_id, calculate_conserved=True, get_sugars=True):
         self.ssn_clustering_id = ssn_clustering_id
+        self.calculate_conserved = calculate_conserved
+        self.get_sugars = get_sugars
 
         self.seed_accessions = self.load_seed_accessions()
         self.load_included_accessions()
@@ -363,8 +365,9 @@ class SSNClusterData:
         return ', '.join([f"{accession}: {self.TM_counts[accession]}" for accession in accessions if accession in self.TM_counts])
         
     def load_cluster_data(self, cluster_id):
-        [size, name] = cluster_id.split('_')
-        size = int(size)
+        cluster_info = {}
+        [size, cluster_info['name']] = cluster_id.split('_')
+        cluster_info['size'] = int(size)
 
         seed_accessions, hit_accessions = self.read_split_fasta_seeds_hits(self.fasta_filename(cluster_id))
         accessions = []
@@ -373,55 +376,31 @@ class SSNClusterData:
         accessions = list(set(accessions))
 
         alphafold_models = self.get_alphafold_models(accessions)
+        cluster_info['alphafold_models'] = alphafold_models
         fasta_dict = read_MSA_file(self.MSA_filename(cluster_id))
 
-        conserved_residues = get_conserved_residues(fasta_dict)
-        conserved_positions_af_models = get_conserved_positions_af_models(alphafold_models, conserved_residues, fasta_dict)
-        conserved_residues_string = get_conserved_residues_string(conserved_residues)
+        if self.calculate_conserved:
+            cluster_info['conserved_residues'] = get_conserved_residues(fasta_dict)
+            cluster_info['conserved_positions_af_models'] = get_conserved_positions_af_models(alphafold_models, cluster_info['conserved_residues'], fasta_dict)
+            cluster_info['conserved_residues_string'] = get_conserved_residues_string(cluster_info['conserved_residues'])
+        
+        if self.get_sugars:
+            sugars2accessions = self.get_sugars2accessions(accessions, seed_accessions)
+            cluster_info['sugars'] = self.enrich_sugars(seed_accessions, sugars2accessions)
+            cluster_info['sugar_images_seeds'] = self.sugar_images_seeds(cluster_info['sugars'])
+            cluster_info['sugar_images_blast'] = self.sugar_images_blast(cluster_info['sugars'])
 
-        seeds_table = self.get_seeds_table(seed_accessions)
-        github_cluster_url = self.get_github_cluster_url(name)
-        MSA_url = filename_to_url(self.MSA_filename(cluster_id))
-        malign_url = filename_to_url(self.malign_filename(cluster_id))
-        fasta_url = filename_to_url(self.fasta_filename(cluster_id))
-        logo_url = filename_to_url(self.logo_filename(cluster_id))
-        tree_url = filename_to_url(self.tree_filename(cluster_id))
-        hits_table_url = filename_to_url(self.hits_table_filename(cluster_id))
+        cluster_info['taxonomy_table'] = self.get_taxonomy_table(accessions)
+        cluster_info['average_length'] = self.get_average_length(accessions)
+        cluster_info['TM_count_string'] = self.get_TM_count_string(accessions)
+        cluster_info['hhr_filename'] = self.hhr_filename(cluster_id)
+        cluster_info['seeds_table'] = self.get_seeds_table(seed_accessions)
+        cluster_info['github_cluster_url'] = self.get_github_cluster_url(cluster_info['name'])
+        cluster_info['afa_url'] = filename_to_url(self.MSA_filename(cluster_id))
+        cluster_info['malign_url'] = filename_to_url(self.malign_filename(cluster_id))
+        cluster_info['fasta_url'] = filename_to_url(self.fasta_filename(cluster_id))
+        cluster_info['logo_url'] = filename_to_url(self.logo_filename(cluster_id))
+        cluster_info['tree_url'] = filename_to_url(self.tree_filename(cluster_id))
+        cluster_info['hits_table_url'] = filename_to_url(self.hits_table_filename(cluster_id))
 
-        sugars2accessions = self.get_sugars2accessions(accessions, seed_accessions)
-        enriched_sugars = self.enrich_sugars(seed_accessions, sugars2accessions)
-        sugar_images_seeds = self.sugar_images_seeds(enriched_sugars)
-        sugar_images_blast = self.sugar_images_blast(enriched_sugars)
-        taxonomy_table = self.get_taxonomy_table(accessions)
-
-        average_length = self.get_average_length(accessions)
-
-        TM_count_string = self.get_TM_count_string(accessions)
-
-        hhr_filename = self.hhr_filename(cluster_id)
-
-
-        return {
-            'name': name,
-            'size': size,
-            'conserved_residues_string': conserved_residues_string,
-            'conserved_residues': conserved_residues,
-            'conserved_positions_af_models': conserved_positions_af_models,
-            'seeds_table': seeds_table,
-            'github_cluster_url': github_cluster_url,
-            'afa_url': MSA_url,
-            'malign_url': malign_url,
-            'fasta_url': fasta_url,
-            'logo_url': logo_url,
-            'tree_url': tree_url,
-            'hits_table_url': hits_table_url,
-            'sugars': enriched_sugars,
-            'sugar_images_seeds': sugar_images_seeds,
-            'sugar_images_blast': sugar_images_blast,
-            'alphafold_models': alphafold_models,
-            'taxonomy_table': taxonomy_table,
-            'accessions': accessions,
-            'average_length': average_length,
-            'TM_count_string': TM_count_string,
-            'hhr_filename': hhr_filename
-        }
+        return cluster_info

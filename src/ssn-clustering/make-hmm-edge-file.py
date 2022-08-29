@@ -28,7 +28,7 @@ def parse_hhr(hhr_filename, query_cluster_name, threshold):
 timestamp = sys.argv[1]
 
 # Get clustering data
-clustering_data = SSNClusterData(timestamp)
+clustering_data = SSNClusterData(timestamp, calculate_conserved=False, get_sugars=False)
 clusters = list(clustering_data.clusters)
 
 threshold = 1e-15
