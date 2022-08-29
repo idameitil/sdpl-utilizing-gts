@@ -110,42 +110,41 @@ Unpack it and move to `data/wzy/all-vs-all-blast/`.
 This file is too big to store in GitHub, so is only stored locally.
 
 ### Make network file
-To make the network file run `python3 src/ssn-clustering/make-network-file.py`.
+To make the network file run `python3 src/all-vs-all-blast/make-network-file.py`.
 
 This will create the file `data/wzy/all-vs-all-blast/network`.
 
 ## SSN clustering
 
+### Cluster
 Fragment sequences are manually added to the file `data/wzy/blast/banned`.
 
-To get the clusters in the SSN, run `sh src/ssn-clustering/cluster1.sh [timestamp] [expansion-threshold] [ssn-threshold]`. (expansion-threshold is written as '1e-30')
+To get the clusters in the SSN, run `sh src/ssn-clustering/cluster/cluster.sh [timestamp] [expansion-threshold] [ssn-threshold]`. (expansion-threshold is written as '1e-30')
 
 This will create the folder `data/wzy/ssn-clusterings/[timestamp]` which contains a folder `clusters` with fasta files for all the clusters and jobscripts for making MSAs, a `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt`, `network`, and `submit.sh`. Then, it copies all this to the HPC.
 
 On the HPC, run `sh /work3/idamei/wzy/ssn-clusterings/[timestamp]/submit.sh`.
 
-When all jobs are finished (check with bstat), run locally: `sh src/ssn-clustering/cluster2.sh [timestamp]`
+### Analyse clustering
+When all jobs are finished (check with bstat), run locally: `sh src/ssn-clustering/analyse-clustering/analyse-clustering.sh [timestamp]`
 
 Push changes.
 
 To visualize alphafold models with conserved residues, run: `pymol data/wzy/ssn-clusterings/[timestamp]/pymol-visualization.pml`.
 
 <!---
-### Build HMMs
-To build HMMs for each cluster, run `sh src/ssn-clustering/build-hmms.sh [timestamp]`.
-
 ### HMM search
 `python src/ssn-clustering/search-hmms.py [timestamp]`
 -->
 
-### HHblits
-`sh src/ssn-clustering/hhblits.sh [timestamp]`
+### Super cluster analysis
+Run HHblits all clusters against all: `sh src/ssn-clustering/super-cluster-analysis/hhblits.sh [timestamp]`
 
-### Collapse clusters
-`python src/ssn-clustering/make-hmm-edge-file.py [timestamp]`
+Make HMM supercluster network edge file: `python src/ssn-clustering/super-cluster-analysis/make-hmm-edge-file.py [timestamp] 110`
 
-### Make MSAs for super-clusters
-`python src/ssn-clustering/prepare-super-cluster-alignments.py`
+Get super clusters: `python src/ssn-clustering/super-cluster-analysis/collapse-clusters.py [timestamp] 110`
+
+Prepare MSAs for super clusters: `python src/ssn-clustering/super-cluster-analysis/prepare-super-cluster-alignments.py`
 
 `scp -r data/wzy/ssn-clusterings/[timestamp]/super-clusters idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/[timestamp]`
 

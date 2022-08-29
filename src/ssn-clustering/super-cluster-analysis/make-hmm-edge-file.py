@@ -19,19 +19,18 @@ def parse_hhr(hhr_filename, query_cluster_name, threshold):
                 if no == '1':
                     continue
                 hit_cluster_name = clustering_data.cluster_dict[hit_accession]
-                if evalue < threshold:
-                    hits[(query_cluster_name, hit_cluster_name)] = evalue
+                if score < threshold:
+                    hits[(query_cluster_name, hit_cluster_name)] = score
             elif line.startswith(' No Hit'):
                 flag = True
     return hits
 
 timestamp = sys.argv[1]
+threshold = sys.argv[2]
 
 # Get clustering data
 clustering_data = SSNClusterData(timestamp, calculate_conserved=False, get_sugars=False)
 clusters = list(clustering_data.clusters)
-
-threshold = 1e-15
 
 hits_all = {}
 cluster_id = {}
@@ -44,9 +43,9 @@ for cluster in clusters:
         else:
             hits_all[(query_cluster_name, hit_cluster_name)] = hits[(query_cluster_name, hit_cluster_name)]
 
-outfilename = f"data/wzy/ssn-clusterings/{timestamp}/hmm_edges_evalue{threshold}"
+outfilename = f"data/wzy/ssn-clusterings/{timestamp}/hmm_edges{threshold}"
 with open(outfilename, 'w') as outfile:
-    outfile.write("# cluster1\t\cluster2\tevalue\n")
+    outfile.write("# cluster1\t\cluster2\score\n")
     for (cluster1, cluster2) in hits_all:
-        evalue = hits_all[(cluster1, cluster2)]
-        outfile.write(f"{cluster_id[cluster1]}\t{cluster_id[cluster2]}\t{evalue}\n")
+        score = hits_all[(cluster1, cluster2)]
+        outfile.write(f"{cluster_id[cluster1]}\t{cluster_id[cluster2]}\t{score}\n")

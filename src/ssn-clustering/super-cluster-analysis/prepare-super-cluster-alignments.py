@@ -1,6 +1,7 @@
-from write_jobscript import write_jobscript
 import os
 import sys
+sys.path.append("../..")
+from write_jobscript import write_jobscript
 
 timestamp = sys.argv[1]
 

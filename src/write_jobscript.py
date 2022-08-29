@@ -1,5 +1,3 @@
-
-
 def write_jobscript(script_path, jobname, no_gb, no_hours, output_file, error_file, commands, no_cores=1):
     jobscript = f"""#! /bin/sh 
 ### General options 
