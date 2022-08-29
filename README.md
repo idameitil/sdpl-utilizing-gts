@@ -118,7 +118,7 @@ This will create the file `data/wzy/all-vs-all-blast/network`.
 
 Fragment sequences are manually added to the file `data/wzy/blast/banned`.
 
-To get the clusters in the SSN, run `sh src/ssn-clustering/cluster.sh [timestamp] [expansion-threshold] [ssn-threshold]`. (expansion-threshold is written as '1e-30')
+To get the clusters in the SSN, run `sh src/ssn-clustering/cluster1.sh [timestamp] [expansion-threshold] [ssn-threshold]`. (expansion-threshold is written as '1e-30')
 
 This will create the folder `data/wzy/ssn-clusterings/[timestamp]` which contains a folder `clusters` with fasta files for all the clusters and jobscripts for making MSAs, a `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt`, `network`, and `submit.sh`. Then, it copies all this to the HPC.
 
@@ -281,6 +281,26 @@ Run hmmscan:
 
 `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/genbank-search/clade1-genbank.out data/waal/genbank-search/`
 `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/genbank-search/clade2-genbank.out data/waal/genbank-search/`
+
+To parse the genbank hmm search, run: `python src/genbank-search/parse-hmm-search.py`. This will create `data/waal/genbank-search/hits-evalue.tsv`
+
+To retrieve the sequences of the hits, run: `scp data/waal/genbank-search/hits-evalue.tsv idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/genbank-search/`
+
+Then run: `blastdbcmd -db genbank -entry_batch /work3/idamei/waal/genbank-search/hits-evalue.tsv -dbtype prot > /work3/idamei/waal/genbank-search/hits.fasta`
+
+`scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/genbank-search/hits.fasta data/waal/genbank-search/`
+
+### Make tree with all genbank hits
+CD-HIT: `cd-hit -i data/waal/genbank-search/hits.fasta -o data/waal/genbank-search/hits-cd-hit99.fasta -c 0.99`
+
+`scp data/waal/genbank-search/hits-cd-hit99.fasta idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/genbank-hits-tree`
+
+On the HPC: `cp /work3/idamei/bin/aclust_example/* /work3/idamei/waal/genbank-hits-tree/`
+
+Follow Aclust readme in /work3/idamei/waal/genbank-hits-tree/.
+
+### Make iTOL label files with e-values
+`python src/waal-analysis/make-iTOL-labels-evalue.py`
 
 ## ECA-Pol
 
