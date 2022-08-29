@@ -316,7 +316,7 @@ class SSNClusterData:
         'protein_accession': 'accession'}, inplace=True)
         return seeds_table
 
-    def get_sugars2accessions(self, accessions, seed_accessions):
+    def get_sugars2accessions(self, accessions):
         sugars2accessions = {}
         for accession in accessions:
             sugar_id = self.get_sugar_id(accession)
