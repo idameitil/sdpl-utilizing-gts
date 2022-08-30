@@ -1,8 +1,6 @@
 import os
 import multiprocessing as mp
 
-run_dir = f"data/wzy/all-vs-all-blast/run"
-
 def parse_blast_file(blast_filename):
     """Parses a blast file and appends protein pairs to network list"""
     
@@ -42,9 +40,13 @@ def parse_blast_file(blast_filename):
 
 if __name__ == '__main__':
 
+    enzyme_family = sys.argv[2]
+
+    run_dir = f"data/{enzyme_family}/all-vs-all-blast/run"
+
     chunks = [f for f in os.listdir(run_dir) if not f.startswith('.')]
 
-    outfilename = f"data/wzy/all-vs-all-blast/network2"
+    outfilename = f"data/{enzyme_family}/all-vs-all-blast/network"
     with open(outfilename, 'w') as outfile:
         outfile.write("source\ttarget\tscore\tevalue\n")
         count = 0

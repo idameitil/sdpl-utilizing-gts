@@ -1,94 +1,50 @@
+# To be run on the HPC
 import os
 import sys
-import shutil
+sys.path.append("/work3/idamei/modules")
+from write_jobscript import write_jobscript
+
+input_fasta = sys.argv[1]
+enzyme_family = sys.argv[2]
 
 chunk_number = 200
 
-work_dir = f"/work3/idamei/wzy/all-vs-all-blast"
-
-# Make fasta with unique hits and seeds
-
-unique_hits_file = open(f'{work_dir}/unique-hits-short-headers.fasta')
-accessions_hits = set()
-for line in unique_hits_file:
-    if line.startswith('>'):
-        accessions_hits.add(line.split(' ')[0][1:])
-        
-shutil.copy(f'{work_dir}/unique-hits-short-headers.fasta', f'{work_dir}/db/seeds-and-unique-hits.fasta')
-seeds_and_unique_hits_file = open(f'{work_dir}/db/seeds-and-unique-hits.fasta', 'a')
-seed_fasta = open(f'{work_dir}/wzy.fasta')
-for line in seed_fasta:
-    if line.startswith('>'):
-        accession = line.strip()[1:]
-        if accession not in accessions_hits:
-            new = True
-            seeds_and_unique_hits_file.write(line)
-        else:
-            new = False
-    else:
-        if new:
-            seeds_and_unique_hits_file.write(line)
-seeds_and_unique_hits_file.close()
+hpc_directory = f"/work3/idamei/{enzyme_family}/all-vs-all-blast"
+if not os.path.isdir(hpc_directory):
+    os.makedirs(hpc_directory)
 
 # Make blastdb
-command = f"$BLASTDB/../current/bin/makeblastdb -in {work_dir}/db/seeds-and-unique-hits.fasta -dbtype prot -parse_seqids"
+command = f"$BLASTDB/../current/bin/makeblastdb -in {input_fasta} -dbtype prot -parse_seqids"
 s = os.system(command)
 if s != 0:
     raise Exception(f'Failure in os.system {command}.')
 
 # Chunkfastas
-command = f"chunkfasta -c {chunk_number} -f {work_dir}/chunk%03d.fa {work_dir}/db/seeds-and-unique-hits.fasta > {work_dir}/chunkfasta.out"
+command = f"chunkfasta -c {chunk_number} -f {hpc_directory}/chunk%03d.fa {input_fasta} > {hpc_directory}/chunkfasta.out"
 s = os.system(command)
 if s != 0:
     raise Exception(f'Failure in os.system {command}.')
 
-# Make run folder with jobscripts
-if not os.path.isdir(f"{work_dir}/run"):
-    os.makedirs(f"{work_dir}/run/")
+if not os.path.isdir(f"{hpc_directory}/run"):
+    os.makedirs(f"{hpc_directory}/run/")
 
-jobscript = f"""#! /bin/sh 
-### General options 
-### -- specify queue -- 
-#BSUB -q hpc
-### -- set the job Name -- 
-#BSUB -J CHUNK
-### -- ask for number of cores (default: 1) -- 
-#BSUB -n 1 
-### -- specify that the cores must be on the same host -- 
-#BSUB -R "span[hosts=1]"
-### -- specify that we need 2GB of memory per core/slot -- 
-#BSUB -R "rusage[mem=20GB]"
-### -- specify that we want the job to get killed if it exceeds 3 GB per core/slot -- 
-#BSUB -M 20GB
-### -- set walltime limit: hh:mm -- 
-#BSUB -W 72:00 
-### -- set the email address -- 
-# please uncomment the following line and put in your e-mail address,
-# if you want to receive e-mail notifications on a non-default address
-#BSUB -u idamei@dtu.dk
-### -- send notification at start -- 
-#BSUB -B 
-### -- send notification at completion -- 
-#BSUB -N 
-### -- Specify the output and error file. %J is the job-id -- 
-### -- -o and -e mean append, -oo and -eo mean overwrite -- 
-#BSUB -o {work_dir}/run/CHUNK/jobscript.out
-#BSUB -e {work_dir}/run/CHUNK/jobscript.err
-# here follow the commands you want to execute 
-export BLASTDB=/work3/garryg/blast/db
-$BLASTDB/../current/bin/blastp -db {work_dir}/db/seeds-and-unique-hits.fasta -query {work_dir}/run/CHUNK/sequences.fa -max_target_seqs 100000 -out {work_dir}/run/CHUNK/blast.out"""
+# Write jobscript
+with open(f"{hpc_directory}/submit.sh", 'w') as submit_file:
+    for i in range(chunk_number):
+        chunk_name = f"chunk{str(i).zfill(3)}"
+        fasta_path = f"{hpc_directory}/{chunk_name}.fa"
+        outdir = f"{hpc_directory}/run/{chunk_name}/"
+        if not os.path.isdir(outdir):
+            os.makedirs(outdir)
+        os.system(f"mv {fasta_path} {outdir}sequences.fa")
 
-submit_file = open(f"{work_dir}/submit.sh", 'w')
-for i in range(chunk_number):
-    chunk_name = f"chunk{str(i).zfill(3)}"
-    fasta_path = f"{work_dir}/{chunk_name}.fa"
-    outdir = f"{work_dir}/run/{chunk_name}/"
-    if not os.path.isdir(outdir):
-        os.makedirs(outdir)
-    os.system(f"mv {fasta_path} {outdir}sequences.fa")
-    jobscript_path = f"{work_dir}/run/{chunk_name}/jobscript.sh"
-    outfile = open(jobscript_path, "w")
-    outfile.write(jobscript.replace("CHUNK", chunk_name))
-    outfile.close()
-    submit_file.write(f"bsub < {jobscript_path}\n")
-submit_file.close()
+        commands = f"""export BLASTDB=/work3/garryg/blast/db
+    $BLASTDB/../current/bin/blastp -db {input_fasta} -query {hpc_directory}/run/{chunk_name}/sequences.fa -max_target_seqs 100000 -out {hpc_directory}/run/{chunk_name}/blast.out"""
+
+        jobscript_name = f"{hpc_directory}/run/{chunk_name}/jobscript.sh"
+        write_jobscript(script_path=jobscript_name, jobname=chunk_name, no_gb=20, no_hours=72, 
+            output_file=f"{hpc_directory}/run/{chunk_name}/jobscript.out", 
+            error_file=f"{hpc_directory}/run/{chunk_name}/jobscript.err", 
+            commands=commands)
+
+        submit_file.write(f"bsub < {jobscript_name}\n")

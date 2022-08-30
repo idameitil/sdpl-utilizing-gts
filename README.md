@@ -93,9 +93,11 @@ Phobius is run at `https://phobius.sbc.su.se/`. The results are downloaded with 
 
 ## All-vs-all blast
 
-Locally run `sh src/all-vs-all-blast/all-vs-all.sh`
+Make the input fasta: `python src/all-vs-all-blast/make-all-vs-all-input.py`
 
-On the HPC run `python3 /work3/idamei/wzy/all-vs-all-blast/prepare-all-vs-all.py`
+Locally run `sh src/all-vs-all-blast/all-vs-all.sh data/wzy/all-vs-all/seeds-and-unique-hits.fasta wzy`
+
+On the HPC run `python3 /work3/idamei/wzy/all-vs-all-blast/prepare-all-vs-all.py /work3/idamei/wzy/all-vs-all-blast/seeds-and-unique-hits.fasta wzy`
 
 And `sh /work3/idamei/all-vs-all-blast/submit.sh`
 
@@ -110,7 +112,7 @@ Unpack it and move to `data/wzy/all-vs-all-blast/`.
 This file is too big to store in GitHub, so is only stored locally.
 
 ### Make network file
-To make the network file run `python3 src/all-vs-all-blast/make-network-file.py`.
+To make the network file run `python3 src/all-vs-all-blast/make-network-file.py wzy`.
 
 This will create the file `data/wzy/all-vs-all-blast/network`.
 
@@ -300,6 +302,28 @@ Follow Aclust readme in /work3/idamei/waal/genbank-hits-tree/.
 
 ### Make iTOL label files with e-values
 `python src/waal-analysis/make-iTOL-labels-evalue.py`
+
+## All-vs-all
+`sh src/all-vs-all-blast/all-vs-all.sh data/waal/genbank-search/hits-1e-5.fasta waal`
+
+On the HPC: `python3 /work3/idamei/waal/all-vs-all-blast/prepare-all-vs-all.py /work3/idamei/waal/all-vs-all-blast/db/hits-1e-5.fasta waal`
+
+`sh /work3/idamei/waal/all-vs-all-blast/submit.sh`
+
+When all jobs are finished, run: 
+`qrsh`
+
+`tar -czvf /work3/idamei/waal/all-vs-all-blast.tar.gz /work3/idamei/waal/all-vs-all-blast`
+
+Then locally delete the old run: `rm -r data/waal/all-vs-all-blast`
+And download the new one: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/all-vs-all-blast.tar.gz data/waal/all-vs-all-blast`
+Unpack it and move to `data/waal/all-vs-all-blast/`.
+This file is too big to store in GitHub, so is only stored locally.
+
+### Make network file
+To make the network file run `python3 src/all-vs-all-blast/make-network-file.py waal`.
+
+This will create the file `data/waal/all-vs-all-blast/network`.
 
 ## ECA-Pol
 
