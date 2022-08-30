@@ -1,5 +1,5 @@
 import os
-import multiprocessing as mp
+import sys
 
 def parse_blast_file(blast_filename):
     """Parses a blast file and appends protein pairs to network list"""
@@ -40,7 +40,7 @@ def parse_blast_file(blast_filename):
 
 if __name__ == '__main__':
 
-    enzyme_family = sys.argv[2]
+    enzyme_family = sys.argv[1]
 
     run_dir = f"data/{enzyme_family}/all-vs-all-blast/run"
 

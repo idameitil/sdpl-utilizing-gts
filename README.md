@@ -101,27 +101,21 @@ On the HPC run `python3 /work3/idamei/wzy/all-vs-all-blast/prepare-all-vs-all.py
 
 And `sh /work3/idamei/all-vs-all-blast/submit.sh`
 
-When all jobs are finished, run: 
+### Make network file
+
+To make the network file run on the HPC:
 `qrsh`
 
-`tar -czvf /work3/idamei/wzy/all-vs-all-blast.tar.gz /work3/idamei/wzy/all-vs-all-blast`
+`python3 src/make-network-file.py wzy`.
 
-Then locally delete the old run: `rm -r data/wzy/all-vs-all-blast`
-And download the new one: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/all-vs-all-blast.tar.gz data/wzy/all-vs-all-blast`
-Unpack it and move to `data/wzy/all-vs-all-blast/`.
-This file is too big to store in GitHub, so is only stored locally.
-
-### Make network file
-To make the network file run `python3 src/all-vs-all-blast/make-network-file.py wzy`.
-
-This will create the file `data/wzy/all-vs-all-blast/network`.
+Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/all-vs-all-blast/network data/wzy/all-vs-all-blast/`.
 
 ## SSN clustering
 
 ### Cluster
 Fragment sequences are manually added to the file `data/wzy/blast/banned`.
 
-To get the clusters in the SSN, run `sh src/ssn-clustering/cluster/cluster.sh [timestamp] [expansion-threshold] [ssn-threshold]`. (expansion-threshold is written as '1e-30')
+To get the clusters in the SSN, run `sh src/ssn-clustering/cluster/cluster.sh [timestamp] [expansion-threshold] [ssn-threshold] [enzyme-family]`. (expansion-threshold is written as '1e-30')
 
 This will create the folder `data/wzy/ssn-clusterings/[timestamp]` which contains a folder `clusters` with fasta files for all the clusters and jobscripts for making MSAs, a `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt`, `network`, and `submit.sh`. Then, it copies all this to the HPC.
 
@@ -310,20 +304,13 @@ On the HPC: `python3 /work3/idamei/waal/all-vs-all-blast/prepare-all-vs-all.py /
 
 `sh /work3/idamei/waal/all-vs-all-blast/submit.sh`
 
-When all jobs are finished, run: 
+### Make network file
+To make the network file run on the HPC:
 `qrsh`
 
-`tar -czvf /work3/idamei/waal/all-vs-all-blast.tar.gz /work3/idamei/waal/all-vs-all-blast`
+`python3 src/make-network-file.py waal`.
 
-Then locally delete the old run: `rm -r data/waal/all-vs-all-blast`
-And download the new one: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/all-vs-all-blast.tar.gz data/waal/all-vs-all-blast`
-Unpack it and move to `data/waal/all-vs-all-blast/`.
-This file is too big to store in GitHub, so is only stored locally.
-
-### Make network file
-To make the network file run `python3 src/all-vs-all-blast/make-network-file.py waal`.
-
-This will create the file `data/waal/all-vs-all-blast/network`.
+Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/all-vs-all-blast/network data/waal/all-vs-all-blast/`.
 
 ## ECA-Pol
 
