@@ -13,13 +13,18 @@ min_length_filter = 320
 max_length_filter = 600
 
 # Define file paths
-filtered_reduced_fasta = f"data/wzy/blast/unique-hits-min{min_length_filter}max{max_length_filter}-cdhit{cdhit_threshold}.fasta"
-banned_file = f"data/{enzyme_family}/banned"
-unique_hits_tsv = "data/wzy/blast/unique-hits.tsv"
-seed_fasta = f"data/{enzyme_family}/{enzyme_family}.fasta"
-network_filename = f"data/{enzyme_family}/all-vs-all-blast/network"
+if enzyme_family == 'wzy':
+    filtered_reduced_fasta = f"data/wzy/blast/unique-hits-min{min_length_filter}max{max_length_filter}-cdhit{cdhit_threshold}.fasta"
+    unique_hits_tsv = "data/wzy/blast/unique-hits.tsv"
+    banned_file = f"data/{enzyme_family}/banned"
+    seed_fasta = f"data/{enzyme_family}/{enzyme_family}.fasta"
+    unique_hits_df = pd.read_csv(unique_hits_tsv, sep = '\t', names=['protein_accession', 'evalue'])
+else:
+    reduced_fasta = f"data/{enzyme_family}/genbank-search/hits-cdhit99.fasta"
+    evalue_tsv = f"data/{enzyme_family}/genbank-search/hits-evalue.tsv"
+    evalue_df = pd.read_csv(evalue_tsv, sep='\t')
 
-unique_hits_df = pd.read_csv(unique_hits_tsv, sep = '\t', names=['protein_accession', 'evalue'])
+network_filename = f"data/{enzyme_family}/all-vs-all-blast/network"
 
 def write_metadata():
     with open(f"{outdir}/metadata.txt", "w") as outfile:
@@ -29,35 +34,21 @@ def write_metadata():
         outfile.write(f"SSN threshold: score {ssn_threshold}\n")
 
 def read_banned_list():
-    with open(banned_file, 'r') as fh:
-        banned_accessions = set()
-        for line in fh:
-            banned_accessions.add(line.strip())
+    with open(banned_file, 'r') as infile:
+        banned_accessions = {line.strip() for line in infile}
     return banned_accessions
 
-def read_filtered_reduced_fasta():
-    with open(filtered_reduced_fasta) as fh:
-        filtered_reduced_accessions = set()
-        for line in fh:
-            if line.startswith('>'):
-                accession = line.strip().split(' ')[0][1:]
-                filtered_reduced_accessions.add(accession)
-    return filtered_reduced_accessions
-
-def read_seed_fasta():
-    with open(seed_fasta) as fh:
-        seed_accessions = set()
-        for line in fh:
-            if line.startswith('>'):
-                accession = line.strip().split(' ')[0][1:]
-                seed_accessions.add(accession)
-    return seed_accessions
+def get_accessions_from_fasta(filename):
+    with open(filename) as infile:
+        fasta = SeqIO.parse(infile, format='fasta')
+        accessions = {entry.id for entry in fasta}
+    return accessions
 
 def find_accessions_to_include():
     if enzyme_family == 'wzy':
         banned_accessions = read_banned_list()
-        filtered_reduced_accessions = read_filtered_reduced_fasta()
-        seed_accessions = read_seed_fasta()
+        filtered_reduced_accessions = get_accessions_from_fasta(filtered_reduced_fasta)
+        seed_accessions = get_accessions_from_fasta(seed_fasta)
         # Filter hits by expansion threshold
         below_threshold_all = set(unique_hits_df.loc[unique_hits_df.evalue < expansion_threshold, 'protein_accession'])
         filtered_reduced_below_threshold = filtered_reduced_accessions.intersection(below_threshold_all)
@@ -66,16 +57,16 @@ def find_accessions_to_include():
         # Remove banned
         accessions_include = union - banned_accessions
         return accessions_include
-    elif enzyme_family == 'waal':
-        input_fasta_filename = "data/waal/genbank-search/hits-1e-5-cd-hit99.fasta"
-        fasta = SeqIO.parse(input_fasta_filename, format='fasta')
-        accessions_include = [entry.id for entry in fasta]
-        return accessions_include
     elif enzyme_family == 'eca-pol':
-        input_fasta_filename = "data/eca-pol/genbank-search/hits-cdhit99.fasta"
-        fasta = SeqIO.parse(input_fasta_filename, format='fasta')
-        accessions_include = [entry.id for entry in fasta]
-        return accessions_include
+        reduced = get_accessions_from_fasta(reduced_fasta)
+        below_threshold_all = set(evalue_df.loc[evalue_df.evalue < expansion_threshold, 'acc'])
+        reduced_below_threshold = reduced.intersection(below_threshold_all)
+        return reduced_below_threshold
+    elif enzyme_family == 'waal':
+        reduced = get_accessions_from_fasta(reduced_fasta)
+        below_threshold_all = set(evalue_df.loc[(evalue_df.evalue_clade1 < expansion_threshold) | (evalue_df.evalue_clade2 < expansion_threshold), 'acc'])
+        reduced_below_threshold = reduced.intersection(below_threshold_all)
+        return reduced_below_threshold
 
 def write_included_accession_file():
     accessions_include = find_accessions_to_include()

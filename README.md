@@ -106,7 +106,7 @@ And `sh /work3/idamei/all-vs-all-blast/submit.sh`
 To make the network file run on the HPC:
 `qrsh`
 
-`python3 src/make-network-file.py wzy`.
+`python3 /work3/idamei/src/make-network-file.py eca-pol wzy`.
 
 Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/all-vs-all-blast/network data/wzy/all-vs-all-blast/`.
 
@@ -299,7 +299,7 @@ On the HPC: `python3 /work3/idamei/waal/all-vs-all-blast/prepare-all-vs-all.py /
 To make the network file run on the HPC:
 `qrsh`
 
-`python3 src/make-network-file.py waal`.
+`python3 /work3/idamei/src/make-network-file.py eca-pol waal`.
 
 Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/all-vs-all-blast/network data/waal/all-vs-all-blast/`.
 
@@ -366,6 +366,11 @@ On the HPC: `python3 /work3/idamei/eca-pol/all-vs-all-blast/prepare-all-vs-all.p
 To make the network file run on the HPC:
 `qrsh`
 
-`python3 src/make-network-file.py waal`.
+`python3 /work3/idamei/src/make-network-file.py eca-pol`.
 
-Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/all-vs-all-blast/network data/waal/all-vs-all-blast/`.
+Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/all-vs-all-blast/network data/eca-pol/all-vs-all-blast/`.
+
+### SSN
+`cd-hit -i data/eca-pol/genbank-search/hits.fasta -o data/eca-pol/genbank-search/hits-cdhit99.fasta -c 0.99`
+
+`python src/ssn-clustering/cluster/get-clusters.py [timestamp] 1 [ssn-threshold] eca-pol`
