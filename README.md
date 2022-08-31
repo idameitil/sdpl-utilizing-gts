@@ -277,7 +277,7 @@ Run hmmscan:
 `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/genbank-search/clade1-genbank.out data/waal/genbank-search/`
 `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/genbank-search/clade2-genbank.out data/waal/genbank-search/`
 
-To parse the genbank hmm search, run: `python src/genbank-search/parse-hmm-search.py`. This will create `data/waal/genbank-search/hits-evalue.tsv`
+To parse the genbank hmm search, run: `python src/genbank-search/parse-hmm-search.py waal`. This will create `data/waal/genbank-search/hits-evalue.tsv`
 
 To retrieve the sequences of the hits, run: `scp data/waal/genbank-search/hits-evalue.tsv idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/genbank-search/`
 
@@ -285,19 +285,10 @@ Then run: `blastdbcmd -db genbank -entry_batch /work3/idamei/waal/genbank-search
 
 `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/genbank-search/hits.fasta data/waal/genbank-search/`
 
-### Make tree with all genbank hits
-CD-HIT: `cd-hit -i data/waal/genbank-search/hits.fasta -o data/waal/genbank-search/hits-cd-hit99.fasta -c 0.99`
-
-`scp data/waal/genbank-search/hits-cd-hit99.fasta idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/genbank-hits-tree`
-
-On the HPC: `cp /work3/idamei/bin/aclust_example/* /work3/idamei/waal/genbank-hits-tree/`
-
-Follow Aclust readme in /work3/idamei/waal/genbank-hits-tree/.
-
 ### Make iTOL label files with e-values
 `python src/waal-analysis/make-iTOL-labels-evalue.py`
 
-## All-vs-all
+### All-vs-all
 `sh src/all-vs-all-blast/all-vs-all.sh data/waal/genbank-search/hits-1e-5.fasta waal`
 
 On the HPC: `python3 /work3/idamei/waal/all-vs-all-blast/prepare-all-vs-all.py /work3/idamei/waal/all-vs-all-blast/db/hits-1e-5.fasta waal`
@@ -311,6 +302,9 @@ To make the network file run on the HPC:
 `python3 src/make-network-file.py waal`.
 
 Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/all-vs-all-blast/network data/waal/all-vs-all-blast/`.
+
+### SSN
+`python src/ssn-clustering/cluster/get-clusters.py [timestamp] 1 [ssn-threshold] waal`
 
 ## ECA-Pol
 
@@ -345,3 +339,33 @@ On the HPC:
 `hmmsearch /work3/idamei/eca-pol/hmm/eca-pol.hmm /work3/garryg/blast/db-/genbank.fa > /work3/idamei/eca-pol/genbank-search/eca-pol-genbank.out`
 
 `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/genbank-search/eca-pol-genbank.out data/eca-pol/genbank-search/`
+
+To parse the genbank hmm search, run: `python src/genbank-search/parse-hmm-search.py eca-pol`. This will create `data/eca-pol/genbank-search/hits-evalue.tsv`
+
+To retrieve the sequences of the hits, run: `scp data/eca-pol/genbank-search/hits-evalue.tsv idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/genbank-search/`
+
+Then run on the hpc: 
+`qrsh`
+`blastdbcmd -db genbank -entry_batch /work3/idamei/eca-pol/genbank-search/hits-evalue.tsv -dbtype prot > /work3/idamei/eca-pol/genbank-search/hits.fasta`
+
+`scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/genbank-search/hits.fasta data/eca-pol/genbank-search/`
+
+### Make iTOL label files with e-values
+`python src/waal-analysis/make-iTOL-labels-evalue.py`
+
+### All-vs-all
+Filter the hits: `python src/genbank-search/filter-hits.py eca-pol`.
+
+`sh src/all-vs-all-blast/all-vs-all.sh data/eca-pol/genbank-search/hits.fasta eca-pol`
+
+On the HPC: `python3 /work3/idamei/eca-pol/all-vs-all-blast/prepare-all-vs-all.py /work3/idamei/eca-pol/all-vs-all-blast/db/hits.fasta eca-pol`
+
+`sh /work3/idamei/eca-pol/all-vs-all-blast/submit.sh`
+
+### Make network file
+To make the network file run on the HPC:
+`qrsh`
+
+`python3 src/make-network-file.py waal`.
+
+Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/all-vs-all-blast/network data/waal/all-vs-all-blast/`.
