@@ -3,7 +3,6 @@ import sys
 import pandas as pd
 import networkx as nx
 from Bio import SeqIO
-import pickle
 
 timestamp = sys.argv[1]
 expansion_threshold = float(sys.argv[2])
@@ -141,9 +140,5 @@ write_edge_file()
 clusters = get_clusters()
 
 write_cluster_tsv()
-
-clusters_pickle_filename = f"{outdir}/clusters.pickle"
-with open(clusters_pickle_filename, 'wb') as outfile:
-    pickle.dump(clusters, outfile)
 
 write_info_file()

@@ -1,8 +1,8 @@
 # To be run on the HPC
 import os
 import sys
-sys.path.append("/work3/idamei/modules")
-from write_jobscript import write_jobscript
+sys.path.append("/work3/idamei")
+from modules.write_jobscript import write_jobscript
 
 input_fasta = sys.argv[1]
 enzyme_family = sys.argv[2]

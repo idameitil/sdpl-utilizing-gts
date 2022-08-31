@@ -1,7 +1,7 @@
 import os
 import sys
-sys.path.append("../..")
-from write_jobscript import write_jobscript
+sys.path.append("src")
+from modules.write_jobscript import write_jobscript
 
 timestamp = sys.argv[1]
 
