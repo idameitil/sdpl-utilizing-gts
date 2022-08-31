@@ -304,7 +304,9 @@ To make the network file run on the HPC:
 Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/all-vs-all-blast/network data/waal/all-vs-all-blast/`.
 
 ### SSN
-`python src/ssn-clustering/cluster/get-clusters.py [timestamp] 1 [ssn-threshold] waal`
+`cd-hit -i data/waal/genbank-search/hits.fasta -o data/waal/genbank-search/hits-cdhit99.fasta -c 0.99`
+
+`python src/ssn-clustering/cluster/get-clusters.py [timestamp] [expansion-threshold] [ssn-threshold] waal`
 
 ## ECA-Pol
 
@@ -373,4 +375,4 @@ Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-po
 ### SSN
 `cd-hit -i data/eca-pol/genbank-search/hits.fasta -o data/eca-pol/genbank-search/hits-cdhit99.fasta -c 0.99`
 
-`python src/ssn-clustering/cluster/get-clusters.py [timestamp] 1 [ssn-threshold] eca-pol`
+`python src/ssn-clustering/cluster/get-clusters.py [timestamp] [expansion-threshold] [ssn-threshold] eca-pol`
