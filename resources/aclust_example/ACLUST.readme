@@ -3,7 +3,7 @@
  grep ">" sequence.fasta | wc
 
 # chunk the input fasta file into 10 files
- chunkfasta -c 10 sequence.fasta > chunkfasta.out
+ sed 's/ .*$//' sequence.fasta | chunkfasta -c 10 -- > chunkfasta.out
 
 # Generate a matrix of alignfastas jobs to submit
  mkdir run
