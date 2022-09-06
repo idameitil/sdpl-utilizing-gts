@@ -157,6 +157,13 @@ To make iTOL label files, run `python src/phylogenetic-trees/make-itol-label-fil
 
 The MUSCLE tree is generated at: `https://www.ebi.ac.uk/Tools/msa/muscle/` by uploading `data/wzy/wzy.fasta`. This tree is saved as `data/wzy/phylogenetic-trees/trees/muscle-tree.nwk`.
 
+### Make small tree for poster
+The nodes that are wanted in the tree are added to `data/wzy/phylogenetic-trees/small-tree-poster/selected-nodes-small-tree.txt`.
+
+To make a fasta file with the selected nodes that have a sugar, run `python src/phylogenetic-trees/prepare-small-tree.py`.
+
+The fasta file (`data/wzy/phylogenetic-trees/small-tree-poster/selected-nodes-small-tree.fasta`) is uploaded to muscle website (https://www.ebi.ac.uk/Tools/msa/muscle/) and the tree is saved in `data/wzy/phylogenetic-trees/small-tree-poster/selected-nodes-small-tree.nwk`
+
 ## GT66 analysis
 
 ### Complete family analysis
