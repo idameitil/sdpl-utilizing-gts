@@ -119,6 +119,7 @@ To get the clusters in the SSN, run `sh src/ssn-clustering/cluster/cluster.sh [t
 
 This will create the folder `data/wzy/ssn-clusterings/[timestamp]` which contains a folder `clusters` with fasta files for all the clusters and jobscripts for making MSAs, a `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt`, `network`, and `submit.sh`. Then, it copies all this to the HPC.
 
+### Make alignments, trees for each cluster
 On the HPC, run `sh /work3/idamei/wzy/ssn-clusterings/[timestamp]/submit.sh`.
 
 ### Analyse clustering
