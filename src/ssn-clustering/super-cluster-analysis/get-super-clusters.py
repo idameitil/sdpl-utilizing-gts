@@ -18,6 +18,8 @@ if not os.path.isdir(super_cluster_dir):
 
 cluster_dir = f"data/wzy/ssn-clusterings/{timestamp}/clusters"
 
+super_cluster2protein_members = {}
+
 # Super clusters with several clusters
 name = 0
 clusters_in_super_clusters = set()
@@ -42,19 +44,39 @@ for super_cluster in connected_components:
     if not os.path.isdir(this_super_cluster_dir):
         os.makedirs(this_super_cluster_dir)
 
-    # Make fasta
+    # Save in dict
+    super_cluster2protein_members[id] = []
+
+    # Make fasta and add members to dict
     super_fasta_filename = f"{this_super_cluster_dir}/sequences.fa"
     with open(super_fasta_filename, 'w') as outfile:
         for fasta in fastas:
             for entry in fasta:
                 outfile.write(f">{entry.id}\n{entry.seq}\n")
+                super_cluster2protein_members[id].append(entry.id)
 
 # Super clusters of one cluster
 for cluster in [entry for entry in os.listdir(cluster_dir) if not entry.startswith('.')]:
+    name += 1
     cluster_size = int(cluster.split('_')[0])
-    name = cluster.split('_')[1]
-    if name not in clusters_in_super_clusters:
-        id = f"{str(cluster_size).zfill(4)}_1_{name}"
-        this_super_cluster_dir = f"{super_cluster_dir}/{id}"
-        if not os.path.isdir(this_super_cluster_dir):
-            os.makedirs(this_super_cluster_dir)
+    cluster_name = cluster.split('_')[1]
+
+    id = f"{str(cluster_size).zfill(4)}_1_{name}"
+
+    this_super_cluster_dir = f"{super_cluster_dir}/{id}"
+    if not os.path.isdir(this_super_cluster_dir):
+        os.makedirs(this_super_cluster_dir)
+
+    super_cluster2protein_members[id] = []
+
+    # Read and write fasta
+    fasta_filename = f"{cluster_dir}/{str(cluster_size).zfill(4)}_{cluster_name}/sequences.fa"
+    fasta = SeqIO.parse(fasta_filename, format='fasta')
+    for entry in fasta:
+        super_cluster2protein_members[id].append(entry.id)
+
+supercluster_tsv_filename = f"data/wzy/ssn-clusterings/{timestamp}/superclusters.tsv"
+with open(supercluster_tsv_filename, 'w') as outfile:
+    for super_cluster in super_cluster2protein_members:
+        for member in super_cluster2protein_members[super_cluster]:
+            outfile.write(f"{member}\t{super_cluster}\n")
