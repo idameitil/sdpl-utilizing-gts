@@ -1,56 +1,0 @@
-
-muscle 5.1.linux64 [12f0e2]  264Gb RAM, 24 cores
-Built Jan 13 2022 23:17:13
-(C) Copyright 2004-2021 Robert C. Edgar.
-https://drive5.com
-
-Input: 19 seqs, avg length 393, max 396
-
-00:00 3.9Mb  CPU has 24 cores, defaulting to 20 threads
-
-WARNING: Max OMP threads 1
-
-00:00 3.9Mb    0.58% Calc posteriors00:01 4.1Mb     3.5% Calc posteriors00:02 4.9Mb    22.2% Calc posteriors00:03 4.9Mb    41.5% Calc posteriors00:04 4.9Mb    59.6% Calc posteriors00:05 5.1Mb    78.4% Calc posteriors00:06 5.4Mb    96.5% Calc posteriors00:06 5.5Mb   100.0% Calc posteriors
-00:06 5.5Mb    0.58% Consistency (1/2)00:06 8.1Mb   100.0% Consistency (1/2)
-00:06 8.1Mb    0.58% Consistency (2/2)00:06 8.1Mb   100.0% Consistency (2/2)
-00:06 8.1Mb     5.6% UPGMA5           00:06 8.1Mb   100.0% UPGMA5
-00:06 8.1Mb     1.0% Refining00:06 8.8Mb   100.0% Refining
-INFO:Malign:No identity filter
-INFO:Malign:Star /work3/idamei/wzy/ssn-clusterings/2208231113/clusters/0019_63/seeds.txt
-INFO:Malign:Star highlights 1
-Read FASTA line_by_line from /work3/idamei/wzy/ssn-clusterings/2208231113/clusters/0019_63/sequences.afa 19 elements
-INFO:Malign:No identity filter
-INFO:Malign:Fasta contains 19 valid records
-INFO:Malign:Aligned already
-INFO:Malign:Align contains 19 valid records
-inputType: FASTA
-================================================================================
-WARNINGS
-
-One or more weights was less than -50 bits.
-To avoid such amino acid dominating the logo position, these was reduced to -50
-bits.
-To remove this warning you could try choosing the option of pseudo counts.
-================================================================================
-
-FastTree Version 2.1.11 SSE3
-Alignment: /work3/idamei/wzy/ssn-clusterings/2208231113/clusters/0019_63/sequences.afa
-Amino acid distances: BLOSUM45 Joins: balanced Support: SH-like 1000
-Search: Normal +NNI +SPR (2 rounds range 10) +ML-NNI opt-each=1
-TopHits: 1.00*sqrtN close=default refresh=0.80
-ML Model: Jones-Taylor-Thorton, CAT approximation with 20 rate categories
-Initial topology in 0.00 seconds
-Refining topology: 17 rounds ME-NNIs, 2 rounds ME-SPRs, 8 rounds ML-NNIs
-Total branch-length 3.644 after 0.07 sec
-ML-NNI round 1: LogLk = -7498.451 NNIs 1 max delta 4.49 Time 0.17
-      0.16 seconds: Site likelihoods with rate category 1 of 20
-Switched to using 20 rate categories (CAT approximation)
-Rate categories were divided by 0.885 so that average rate = 1.0
-CAT-based log-likelihoods may not be comparable across runs
-Use -gamma for approximate but comparable Gamma(20) log-likelihoods
-ML-NNI round 2: LogLk = -7105.274 NNIs 0 max delta 0.00 Time 0.26
-Turning off heuristics for final round of ML NNIs (converged)
-ML-NNI round 3: LogLk = -7100.134 NNIs 0 max delta 0.00 Time 0.37 (final)
-      0.36 seconds: ML Lengths 1 of 17 splits
-Optimize all lengths: LogLk = -7099.753 Time 0.40
-Total time: 0.50 seconds Unique: 19/19 Bad splits: 0/16
