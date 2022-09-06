@@ -1,6 +1,6 @@
 echo "\n*** RUNNING get-clusters.py ***\n"
 python src/ssn-clustering/cluster/get-clusters.py $1 $2 $3 $4
-echo "\n*** RUNNING get-clusters.py ***\n"
+echo "\n*** WRITING CLUSTER FILES ***\n"
 python src/ssn-clustering/cluster/write-cluster-files.py $1
 echo "\n*** RUNNING prepare-cluster-alignments.py ***\n"
 python src/ssn-clustering/cluster/prepare-cluster-alignments.py $1
