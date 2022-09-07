@@ -33,20 +33,23 @@ def write_metadata():
         outfile.write(f"Expansion threshold: e-value {expansion_threshold}\n")
         outfile.write(f"SSN threshold: score {ssn_threshold}\n")
 
-def read_banned_list():
-    with open(banned_file, 'r') as infile:
-        banned_accessions = {line.strip() for line in infile}
-    return banned_accessions
+def get_accessions_from_list_file(filename):
+    with open(filename, 'r') as infile:
+        accessions = {line.strip() for line in infile}
+    return accessions
 
 def get_accessions_from_fasta(filename):
-    with open(filename) as infile:
+    with open(filename, 'r') as infile:
         fasta = SeqIO.parse(infile, format='fasta')
         accessions = {entry.id for entry in fasta}
     return accessions
 
 def find_accessions_to_include():
+    # for small ssn for poster
+    # if enzyme_family == 'wzy':
+    #     return get_accessions_from_list_file("data/wzy/phylogenetic-trees/small-tree-poster/selected-nodes-small-tree.txt")
     if enzyme_family == 'wzy':
-        banned_accessions = read_banned_list()
+        banned_accessions = get_accessions_from_list_file(banned_file)
         filtered_reduced_accessions = get_accessions_from_fasta(filtered_reduced_fasta)
         seed_accessions = get_accessions_from_fasta(seed_fasta)
         # Filter hits by expansion threshold
