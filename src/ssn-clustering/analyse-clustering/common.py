@@ -98,6 +98,68 @@ def read_phobius(phobius_filename):
                     TM_count += 1
     return TM_counts
 
+def get_taxonomy_table(accessions, seeds_and_hits_df):
+    # Get counts and make heirarchy dict
+    hierarchy = dict()
+    ranks = ['order', 'family', 'genus']
+    counts = {rank: {} for rank in ranks}
+    for index, row in seeds_and_hits_df.loc[seeds_and_hits_df.protein_accession.isin(accessions)].iterrows():
+        # Save hierarchy
+        if row.order not in hierarchy:
+            hierarchy[row.order] = {row.family: [row.genus]}
+        else:
+            if row.family not in hierarchy[row.order]:
+                hierarchy[row.order][row.family] = [row.genus]
+            elif row.genus not in counts['genus']:
+                hierarchy[row.order][row.family].append(row.genus)
+        # Count
+        for rank in ranks:
+            if row[rank] not in counts[rank]:
+                counts[rank][row[rank]] = 1
+            else:
+                counts[rank][row[rank]] += 1
+
+    # Make pandas dataframe with hierarchy and count
+    data = {'order (count)': [], 'family (count)': [], 'genus (count)': []}
+    # Order
+    orders_sorted = sorted(counts['order'].items(),
+                        key=lambda x: x[1], reverse=True)
+    for order, count in orders_sorted:
+        first_in_order = True
+        order_string = f"{order} ({count})"
+        # Family
+        families_in_order = {key: counts['family'][key]
+                            for key in hierarchy[order]}
+        families_sorted = sorted(
+            families_in_order.items(), key=lambda x: x[1], reverse=True)
+        for family, count in families_sorted:
+            first_in_family = True
+            family_string = f"{family} ({count})"
+            # Genus
+            genera_in_order = {key: counts['genus'][key]
+                            for key in hierarchy[order][family]}
+            genera_sorted = sorted(
+                genera_in_order.items(), key=lambda x: x[1], reverse=True)
+            for genus, count in genera_sorted:
+                genus_string = f"{genus} ({count})"
+                if first_in_order:
+                    data['order (count)'].append(order_string)
+                    data['family (count)'].append(family_string)
+                    data['genus (count)'].append(genus_string)
+                    first_in_order = False
+                    first_in_family = False
+                else:
+                    if first_in_family:
+                        data['order (count)'].append("")
+                        data['family (count)'].append(family_string)
+                        data['genus (count)'].append(genus_string)
+                        first_in_family = False
+                    else:
+                        data['order (count)'].append("")
+                        data['family (count)'].append("")
+                        data['genus (count)'].append(genus_string)
+    return pd.DataFrame(data)
+
 class SSNClusterData:
 
     seeds_and_hits_df = pd.read_csv(wzy_seeds_and_hits_filename, sep='\t', dtype=object)
@@ -244,70 +306,6 @@ class SSNClusterData:
             alphafold_models[acc] = {'filepath': row.alphafold_path, 'url': af_model_url}
         return alphafold_models
 
-    def get_taxonomy_table(self, accessions):
-        # Get counts and make heirarchy dict
-        hierarchy = dict()
-        ranks = ['order', 'family', 'genus']
-        counts = {rank: {} for rank in ranks}
-        for index, row in self.seeds_and_hits_df.loc[self.seeds_and_hits_df.protein_accession.isin(
-                accessions)].iterrows():
-            # Save hierarchy
-            if row.order not in hierarchy:
-                hierarchy[row.order] = {row.family: [row.genus]}
-            else:
-                if row.family not in hierarchy[row.order]:
-                    hierarchy[row.order][row.family] = [row.genus]
-                elif row.genus not in counts['genus']:
-                    hierarchy[row.order][row.family].append(row.genus)
-            # Count
-            for rank in ranks:
-                if row[rank] not in counts[rank]:
-                    counts[rank][row[rank]] = 1
-                else:
-                    counts[rank][row[rank]] += 1
-
-        data = {'order (count)': [], 'family (count)': [], 'genus (count)': []}
-
-        # Make pandas dataframe with hierarchy and count
-        # Order
-        orders_sorted = sorted(counts['order'].items(),
-                            key=lambda x: x[1], reverse=True)
-        for order, count in orders_sorted:
-            first_in_order = True
-            order_string = f"{order} ({count})"
-            # Family
-            families_in_order = {key: counts['family'][key]
-                                for key in hierarchy[order]}
-            families_sorted = sorted(
-                families_in_order.items(), key=lambda x: x[1], reverse=True)
-            for family, count in families_sorted:
-                first_in_family = True
-                family_string = f"{family} ({count})"
-                # Genus
-                genera_in_order = {key: counts['genus'][key]
-                                for key in hierarchy[order][family]}
-                genera_sorted = sorted(
-                    genera_in_order.items(), key=lambda x: x[1], reverse=True)
-                for genus, count in genera_sorted:
-                    genus_string = f"{genus} ({count})"
-                    if first_in_order:
-                        data['order (count)'].append(order_string)
-                        data['family (count)'].append(family_string)
-                        data['genus (count)'].append(genus_string)
-                        first_in_order = False
-                        first_in_family = False
-                    else:
-                        if first_in_family:
-                            data['order (count)'].append("")
-                            data['family (count)'].append(family_string)
-                            data['genus (count)'].append(genus_string)
-                            first_in_family = False
-                        else:
-                            data['order (count)'].append("")
-                            data['family (count)'].append("")
-                            data['genus (count)'].append(genus_string)
-        return pd.DataFrame(data)
-
     def get_seeds_table(self, seed_accessions):
         seeds_table = self.seeds_and_hits_df.loc[self.seeds_and_hits_df.protein_accession.isin(seed_accessions),
                                         ['protein_accession', 'order', 'family', 'genus', 'species', 
@@ -385,12 +383,12 @@ class SSNClusterData:
             cluster_info['conserved_residues_string'] = get_conserved_residues_string(cluster_info['conserved_residues'])
         
         if self.get_sugars:
-            sugars2accessions = self.get_sugars2accessions(accessions, seed_accessions)
+            sugars2accessions = self.get_sugars2accessions(accessions)
             cluster_info['sugars'] = self.enrich_sugars(seed_accessions, sugars2accessions)
             cluster_info['sugar_images_seeds'] = self.sugar_images_seeds(cluster_info['sugars'])
             cluster_info['sugar_images_blast'] = self.sugar_images_blast(cluster_info['sugars'])
 
-        cluster_info['taxonomy_table'] = self.get_taxonomy_table(accessions)
+        cluster_info['taxonomy_table'] = get_taxonomy_table(accessions, self.seeds_and_hits_df)
         cluster_info['average_length'] = self.get_average_length(accessions)
         cluster_info['TM_count_string'] = self.get_TM_count_string(accessions)
         cluster_info['hhr_filename'] = self.hhr_filename(cluster_id)
