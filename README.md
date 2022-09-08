@@ -115,15 +115,15 @@ Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/al
 ### Cluster
 Fragment sequences are manually added to the file `data/wzy/blast/banned`.
 
-To get the clusters in the SSN, run `sh src/ssn-clustering/cluster/cluster.sh [timestamp] [expansion-threshold] [ssn-threshold] [enzyme-family]`. (expansion-threshold is written as '1e-30')
+To get the clusters in the SSN, run `sh src/ssn-clustering/cluster/cluster.sh [timestamp] [expansion-threshold] [ssn-threshold] wzy`. (expansion-threshold is written as '1e-30')
 
 This will create the folder `data/wzy/ssn-clusterings/[timestamp]` which contains a folder `clusters` with fasta files for all the clusters and jobscripts for making MSAs, a `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt`, `network`, and `submit.sh`. Then, it copies all this to the HPC.
 
-### Make alignments, trees for each cluster
+### Make alignments etc. for each cluster
 On the HPC, run `sh /work3/idamei/wzy/ssn-clusterings/[timestamp]/submit.sh`.
 
 ### Analyse clustering
-When all jobs are finished (check with bstat), run locally: `sh src/ssn-clustering/analyse-clustering/analyse-clustering.sh [timestamp]`
+When all jobs are finished, run locally: `sh src/ssn-clustering/analyse-clustering/analyse-clustering.sh [timestamp]`
 
 Push changes.
 
@@ -135,13 +135,13 @@ To visualize alphafold models with conserved residues, run: `pymol data/wzy/ssn-
 -->
 
 ### Super cluster analysis
-Run HHblits all clusters against all: `sh src/ssn-clustering/super-cluster-analysis/hhblits.sh [timestamp]`
+Run HHblits all clusters against all: `sh src/ssn-clustering/super-cluster-analysis/hhblits.sh [timestamp]`. This will create a .hhr file for each cluster (in `data/wzy/ssn-clusterings/[timestamp]/clusters/[cluster]/[cluster.hhr]`).
 
-Make HMM supercluster network edge file: `python src/ssn-clustering/super-cluster-analysis/make-hmm-edge-file.py [timestamp] 110`
+Make HMM supercluster network edge file: `python src/ssn-clustering/super-cluster-analysis/make-hmm-edge-file.py [timestamp] 110`. This will create the file `data/wzy/ssn-clusterings/[timestamp]/hmm_edges110`.
 
-Get super clusters: `python src/ssn-clustering/super-cluster-analysis/collapse-clusters.py [timestamp] 110`
+Get super clusters: `python src/ssn-clustering/super-cluster-analysis/get-super-clusters.py [timestamp] 110`. This will create the file `data/wzy/ssn-clusterings/{timestamp}/superclusters.tsv` and a folder for each supercluster with a fasta file in `data/wzy/ssn-clusterings/{timestamp}/super-clusters`.
 
-Prepare MSAs for super clusters: `python src/ssn-clustering/super-cluster-analysis/prepare-super-cluster-alignments.py`
+Prepare MSAs for super clusters: `python src/ssn-clustering/super-cluster-analysis/prepare-super-cluster-alignments.py [timestamp]`
 
 `scp -r data/wzy/ssn-clusterings/[timestamp]/super-clusters idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/[timestamp]`
 

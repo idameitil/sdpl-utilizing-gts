@@ -1,5 +1,6 @@
 import os
 import sys
+sys.path.append('src/ssn-clustering/analyse-clustering')
 from common import SSNClusterData
 
 def parse_hhr(hhr_filename, query_cluster_name, threshold):
@@ -19,14 +20,14 @@ def parse_hhr(hhr_filename, query_cluster_name, threshold):
                 if no == '1':
                     continue
                 hit_cluster_name = clustering_data.cluster_dict[hit_accession]
-                if score < threshold:
+                if score > threshold:
                     hits[(query_cluster_name, hit_cluster_name)] = score
             elif line.startswith(' No Hit'):
                 flag = True
     return hits
 
 timestamp = sys.argv[1]
-threshold = sys.argv[2]
+threshold = int(sys.argv[2])
 
 # Get clustering data
 clustering_data = SSNClusterData(timestamp, calculate_conserved=False, get_sugars=False)

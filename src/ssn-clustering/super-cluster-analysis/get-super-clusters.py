@@ -2,11 +2,12 @@ import networkx as nx
 import sys
 import os
 from Bio import SeqIO
+import shutil
 
 timestamp = sys.argv[1]
 threshold = sys.argv[2]
 
-edge_filename = f"data/wzy/ssn-clusterings/{timestamp}/hmm_edges_score110"
+edge_filename = f"data/wzy/ssn-clusterings/{timestamp}/hmm_edges110"
 with open(edge_filename, 'r') as infile:
     G = nx.read_weighted_edgelist(infile, delimiter='\t')
 
@@ -74,6 +75,10 @@ for cluster in [entry for entry in os.listdir(cluster_dir) if not entry.startswi
     fasta = SeqIO.parse(fasta_filename, format='fasta')
     for entry in fasta:
         super_cluster2protein_members[id].append(entry.id)
+    # Copy fasta
+    dest = f"{this_super_cluster_dir}/sequences.fa"
+    shutil.copy(fasta_filename, dest)
+
 
 supercluster_tsv_filename = f"data/wzy/ssn-clusterings/{timestamp}/superclusters.tsv"
 with open(supercluster_tsv_filename, 'w') as outfile:
