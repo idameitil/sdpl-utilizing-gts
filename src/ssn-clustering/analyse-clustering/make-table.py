@@ -11,7 +11,7 @@ def make_table(ssn_clustering_id):
     clusters = list(clustering_data.clusters)
     cluster_groups = np.array_split(clusters, math.floor(len(clusters)/10))
     jinja_env = Environment(
-        loader=FileSystemLoader("src/ssn-clustering/make-table"),
+        loader=FileSystemLoader("src/ssn-clustering/analyse-clustering/make-table"),
         autoescape=select_autoescape())
 
     html_jinja_template = jinja_env.get_template("table-template.html")
