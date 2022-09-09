@@ -316,6 +316,9 @@ Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/a
 
 `python src/ssn-clustering/cluster/get-clusters.py [timestamp] [expansion-threshold] [ssn-threshold] waal`
 
+### Prepare list of accessions for CAZy
+`python src/genbank-search/filter-hits.py waal 6e-23`. This will create the file `data/waal/genbank-search/hits-6e-23.txt`.
+
 ## ECA-Pol
 
 ### Enrich blast hits with taxonomy
