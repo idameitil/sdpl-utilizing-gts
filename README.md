@@ -145,7 +145,7 @@ Prepare MSAs for super clusters: `python src/ssn-clustering/super-cluster-analys
 
 `scp -r data/wzy/ssn-clusterings/[timestamp]/super-clusters idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/[timestamp]`
 
-At the HPC: `sh /work3/idamei/wzy/ssn-clusterings/[timestamp]/submit.sh`
+At the HPC: `sh /work3/idamei/wzy/ssn-clusterings/[timestamp]/submit-superclusters.sh`
 
 When all jobs are finished, run locally:
 `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/[timestamp]/super-clusters/ data/wzy/ssn-clusterings/[timestamp]`
@@ -384,3 +384,6 @@ Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-po
 `cd-hit -i data/eca-pol/genbank-search/hits.fasta -o data/eca-pol/genbank-search/hits-cdhit99.fasta -c 0.99`
 
 `python src/ssn-clustering/cluster/get-clusters.py [timestamp] [expansion-threshold] [ssn-threshold] eca-pol`
+
+### Prepare list of accessions for CAZy
+`python src/genbank-search/filter-hits.py eca-pol 1e-40`. This creates the file `data/eca-pol/genbank-search/hits-1e-40.txt` with accessions to include in the CAZy family.

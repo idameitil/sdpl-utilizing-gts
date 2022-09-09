@@ -2,7 +2,7 @@ import pandas as pd
 import sys
 
 enzyme_family = sys.argv[1]
-threshold = 1e-15
+threshold = float(sys.argv[2])
 
 input_filename = f"data/{enzyme_family}/genbank-search/hits-evalue.tsv"
 
@@ -15,6 +15,8 @@ elif enzyme_family == 'eca-pol':
 else:
     raise Exception('No setup for this family')
 
-outfilename = f"data/{enzyme_family}/genbank-search/hits-evalue-1e-15.tsv"
-
+outfilename = f"data/{enzyme_family}/genbank-search/hits-evalue-{threshold}.tsv"
 df_filtered.to_csv(outfilename, index=False, sep='\t')
+
+outfilename = f"data/{enzyme_family}/genbank-search/hits-{threshold}.txt"
+df_filtered['acc'].to_csv(outfilename, index=False, header=False)
