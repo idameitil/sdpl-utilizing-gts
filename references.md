@@ -1,3 +1,7 @@
+# 
+This one is denoted O-antigen polymerase and WzyE in Genbank: AAC45844.
+I've removed it from Wzy as it clusters with ECA-Pol.
+
 # skylign
 
 skylign.org

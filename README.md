@@ -69,13 +69,14 @@ Then locally run:
 
 To generate fasta with short headers, run: `sed 's/ >.*$//' data/wzy/blast/unique-hits.fasta > data/wzy/blast/unique-hits-short-headers.fasta`
 
-### Enriching blast hit data
+### Retrieve blast hit serotypes
 The list of accessions for 1e-15 is split into files of 1000 lines each by running `split data/wzy/ssn-clusterings/2206101141/included_accessions.txt data/wzy/blast-full-genbank/1e-15/hits`
 
 Each file is uploaded to NCBI batch entry and the gp files are downloaded and saved in `data/wzy/blast-full-genbank/1e-15`. 
 
 To retrieve serotypes for the blast hits (the ones where available), run `python src/data-collection-and-preprocessing/get-serotypes.py`. This will create the file `data/wzy/blast-full-genbank/1e-15/hits-serotypes.tsv`.
 
+### Enriching blast hit data
 Then, to enrich with sugar data and taxonomy, run `python src/data-collection-and-preprocessing/enrich-blast-hits.py`. This will create the file `data/wzy/blast/hits-enriched.tsv`.
 
 ### Make nodes file
@@ -93,11 +94,11 @@ Phobius is run at `https://phobius.sbc.su.se/`. The results are downloaded with 
 
 ## All-vs-all blast
 
-Make the input fasta: `python src/all-vs-all-blast/make-all-vs-all-input.py`
+Make the input fasta: `python src/all-vs-all-blast/make-all-vs-all-input-fasta.py`. This will create the file `data/wzy/all-vs-all-blast/seeds-and-unique-hits.fasta`.
 
-Locally run `sh src/all-vs-all-blast/all-vs-all.sh data/wzy/all-vs-all/seeds-and-unique-hits.fasta wzy`
+Locally run `sh src/all-vs-all-blast/prepare-all-vs-all.sh data/wzy/all-vs-all-blast/seeds-and-unique-hits.fasta wzy`
 
-On the HPC run `python3 /work3/idamei/wzy/all-vs-all-blast/prepare-all-vs-all.py /work3/idamei/wzy/all-vs-all-blast/seeds-and-unique-hits.fasta wzy`
+On the HPC run `python3 /work3/idamei/wzy/all-vs-all-blast/prepare-all-vs-all.py /work3/idamei/wzy/all-vs-all-blast/db/seeds-and-unique-hits.fasta wzy`
 
 And `sh /work3/idamei/all-vs-all-blast/submit.sh`
 
