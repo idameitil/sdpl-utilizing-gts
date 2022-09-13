@@ -3,6 +3,7 @@ import sys
 import os
 from Bio import SeqIO
 import shutil
+import pickle
 
 timestamp = sys.argv[1]
 threshold = sys.argv[2]
@@ -24,17 +25,22 @@ super_cluster2protein_members = {}
 # Super clusters with several clusters
 name = 0
 clusters_in_super_clusters = set()
+supercluster2clustermembers = {}
 for super_cluster in connected_components:
     name += 1
     protein_members = 0
     cluster_members = 0
     fastas = []
+
+    supercluster2clustermembers[str(name)] = []
+    
     for cluster in super_cluster:
         cluster_size = int(cluster.split('_')[0])
         cluster_name = cluster.split('_')[1]
         cluster_members += 1
         protein_members += cluster_size
         clusters_in_super_clusters.add(cluster_name)
+        supercluster2clustermembers[str(name)].append(f"{str(cluster_size).zfill(4)}_{cluster_name}")
         # Read fasta
         fasta_filename = f"{cluster_dir}/{str(cluster_size).zfill(4)}_{cluster_name}/sequences.fa"
         fasta = SeqIO.parse(fasta_filename, format='fasta')
@@ -62,6 +68,8 @@ for cluster in [entry for entry in os.listdir(cluster_dir) if not entry.startswi
     cluster_size = int(cluster.split('_')[0])
     cluster_name = cluster.split('_')[1]
 
+    supercluster2clustermembers[str(name)] = [cluster]
+
     id = f"{str(cluster_size).zfill(4)}_1_{name}"
 
     this_super_cluster_dir = f"{super_cluster_dir}/{id}"
@@ -79,9 +87,13 @@ for cluster in [entry for entry in os.listdir(cluster_dir) if not entry.startswi
     dest = f"{this_super_cluster_dir}/sequences.fa"
     shutil.copy(fasta_filename, dest)
 
-
 supercluster_tsv_filename = f"data/wzy/ssn-clusterings/{timestamp}/superclusters.tsv"
 with open(supercluster_tsv_filename, 'w') as outfile:
     for super_cluster in super_cluster2protein_members:
         for member in super_cluster2protein_members[super_cluster]:
             outfile.write(f"{member}\t{super_cluster}\n")
+
+# Write file with names of clusters in supercluster
+filename = f"data/wzy/ssn-clusterings/{timestamp}/clusters_in_superclusters.pickle"
+with open(filename, 'wb') as outfile:
+    pickle.dump(supercluster2clustermembers, outfile)

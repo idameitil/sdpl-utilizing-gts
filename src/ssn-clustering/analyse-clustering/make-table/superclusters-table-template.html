@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>{{ssn_clustering_id}} - WZY SSN Clusters</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <style>
+.table{
+    display: flex;
+    flex-direction: column;
+}
+.row{
+    display: flex;
+    border-bottom: solid 1px black;
+    margin-top: 15px;
+}
+.column{
+    display: flex;
+    flex-direction: column;
+    width: 330px;
+    padding: 0 15px;
+}
+.column>img{
+    width: 100%;
+    max-width: fit-content;
+}
+    </style>
+</head>
+<body>
+    <div class="table">
+        {% for supercluster_chunks in supercluster_groups %}
+        <div class="row">
+            {% for supercluster in supercluster_chunks %}
+            {% set supercluster_name = supercluster.name %}
+            {% set proteins_in_supercluster = supercluster.size %}
+            {% set clusters_in_supercluster = supercluster.count_clusters %}
+            {% set conserved_residues = supercluster.conserved_residues_string %}
+            {% set sugars_seeds = supercluster.sugar_images_seeds %}
+            {% set sugars_blast = supercluster.sugar_images_blast %}
+            {% set cluster_members = supercluster.clustermembers %}
+            <div class="column">
+                <b>Supercluster {{supercluster_name}}</b>
+                <p>Number of proteins: {{proteins_in_supercluster}}</p>
+                <p>Number of clusters: {{clusters_in_supercluster}}</p>
+                <p>Conserved residues: {{conserved_residues}} </p>
+                {% for cluster_member in cluster_members %}
+                    <p>Cluster {{cluster_member.name}}:</p>
+                    {% for sugar in cluster_member.sugar_images_seeds %}
+                        <img src="{{sugar}}" alt="">
+                    {% endfor %}
+                    {% for sugar in cluster_member.sugar_images_blast %}
+                    <p>Blast hit sugar: </p>
+                    <img src="{{sugar}}" alt="">
+                    {% endfor %}
+                {% endfor %}
+            </div>
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </div>
+</body>
+</html>

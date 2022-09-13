@@ -140,12 +140,15 @@ Get super clusters: `python src/ssn-clustering/super-cluster-analysis/get-super-
 Prepare MSAs for super clusters: `python src/ssn-clustering/super-cluster-analysis/prepare-super-cluster-alignments.py [timestamp]`
 
 `scp -r data/wzy/ssn-clusterings/[timestamp]/super-clusters idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/[timestamp]`
-`scp -r data/wzy/ssn-clusterings/[timestamp]/submit-superclusters idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/[timestamp]`
+`scp -r data/wzy/ssn-clusterings/[timestamp]/submit-superclusters.sh idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/[timestamp]`
 
 At the HPC: `sh /work3/idamei/wzy/ssn-clusterings/[timestamp]/submit-superclusters.sh`
 
 When all jobs are finished, run locally:
 `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/[timestamp]/super-clusters/ data/wzy/ssn-clusterings/[timestamp]`
+
+### Make supercluster table
+To make a table with the superclusters, run: `src/ssn-clustering/analyse-clustering/make-table-superclusters.py [timestamp]`. This will generate the file `data/wzy/ssn-clusterings/2209121518/superclusters_table.html`.
 
 ## Phylogenetic trees
 

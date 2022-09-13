@@ -3,6 +3,7 @@ import pandas as pd
 from Bio import SeqIO
 import numpy as np
 from scipy import stats
+import pickle
 
 wzy_seeds_and_hits_filename = 'data/wzy/seeds-and-hits.tsv'
 phobius_filename = 'data/wzy/phobius/2112081041/Phobius prediction.txt'
@@ -165,7 +166,7 @@ class SSNClusterData:
     seeds_and_hits_df = pd.read_csv(wzy_seeds_and_hits_filename, sep='\t', dtype=object)
     TM_counts = read_phobius(phobius_filename)
 
-    def __init__(self, ssn_clustering_id, calculate_conserved=True, get_sugars=True):
+    def __init__(self, ssn_clustering_id, calculate_conserved=True, get_sugars=True, load_clusters=True, load_superclusters=True):
         self.ssn_clustering_id = ssn_clustering_id
         self.calculate_conserved = calculate_conserved
         self.get_sugars = get_sugars
@@ -180,7 +181,11 @@ class SSNClusterData:
         self.load_info()
         self.load_cluster_dict()
         self.load_taxons_before_after_table()
-        self.load_clusters()
+        if load_clusters:
+            self.load_clusters()
+        if load_superclusters:
+            self.load_supercluster_dict()
+            self.load_superclusters()
 
     def load_seed_accessions(self):
         return list(self.seeds_and_hits_df[self.seeds_and_hits_df.seed == '1']['protein_accession'])
@@ -188,29 +193,17 @@ class SSNClusterData:
     def results_dir_top(self):
         return f"data/wzy/ssn-clusterings/{self.ssn_clustering_id}"
 
-    def results_dir(self):
+    def clusters_dir(self):
         return f"data/wzy/ssn-clusterings/{self.ssn_clustering_id}/clusters"
+
+    def superclusters_dir(self):
+        return f"data/wzy/ssn-clusterings/{self.ssn_clustering_id}/super-clusters"
+
+    def superclusters_dict_filename(self):
+        return f"data/wzy/ssn-clusterings/{self.ssn_clustering_id}/clusters_in_superclusters.pickle"
 
     def cluster_table_filename(self):
         return f"{self.results_dir_top()}/clusters.tsv"
-
-    def MSA_filename(self, cluster_id):
-        return f"{self.results_dir()}/{cluster_id}/sequences.afa"
-
-    def fasta_filename(self ,cluster_id):
-        return f"{self.results_dir()}/{cluster_id}/sequences.fa"
-
-    def malign_filename(self ,cluster_id):
-        return f"{self.results_dir()}/{cluster_id}/sequences.malign"
-
-    def logo_filename(self, cluster_id):
-        return f"{self.results_dir()}/{cluster_id}/sequences.logo.pdf"
-
-    def tree_filename(self, cluster_id):
-        return f"{self.results_dir()}/{cluster_id}/sequences.nwk"
-
-    def hits_table_filename(self, cluster_id):
-        return f"{self.results_dir()}/{cluster_id}/hits.tsv"
 
     def info_filename(self):
         return f"{self.results_dir_top()}/info.txt"
@@ -224,8 +217,32 @@ class SSNClusterData:
     def included_accessions_filename(self):
         return f"{self.results_dir_top()}/included_accessions.txt"
 
-    def hhr_filename(self ,cluster_id):
-        return f"{self.results_dir()}/{cluster_id}/{cluster_id}.hhr"
+    def MSA_filename(self, cluster_id):
+        return f"{self.clusters_dir()}/{cluster_id}/sequences.afa"
+
+    def fasta_filename(self, cluster_id):
+        return f"{self.clusters_dir()}/{cluster_id}/sequences.fa"
+
+    def malign_filename(self, cluster_id):
+        return f"{self.clusters_dir()}/{cluster_id}/sequences.malign"
+
+    def logo_filename(self, cluster_id):
+        return f"{self.clusters_dir()}/{cluster_id}/sequences.logo.pdf"
+
+    def tree_filename(self, cluster_id):
+        return f"{self.clusters_dir()}/{cluster_id}/sequences.nwk"
+
+    def hits_table_filename(self, cluster_id):
+        return f"{self.clusters_dir()}/{cluster_id}/hits.tsv"
+
+    def hhr_filename(self, cluster_id):
+        return f"{self.clusters_dir()}/{cluster_id}/{cluster_id}.hhr"
+
+    def supercluster_MSA_filename(self, supercluster_id):
+        return f"{self.superclusters_dir()}/{supercluster_id}/sequences.afa"
+
+    def supercluster_fasta_filename(self, supercluster_id):
+        return f"{self.superclusters_dir()}/{supercluster_id}/sequences.fa"
 
     def load_metadata(self):
         with open(self.metadata_filename(), 'r') as metadata_file:
@@ -286,9 +303,15 @@ class SSNClusterData:
 
     def load_clusters(self):
         cluster_filenames = [file for file in os.listdir(
-            self.results_dir()) if not file.startswith('.')]
+            self.clusters_dir()) if not file.startswith('.')]
         cluster_filenames.sort(reverse=True)
         self.clusters = map(lambda cluster_id: self.load_cluster_data(cluster_id), cluster_filenames)
+
+    def load_superclusters(self):
+        supercluster_filenames = [file for file in os.listdir(
+            self.superclusters_dir()) if not file.startswith('.')]
+        supercluster_filenames.sort(reverse=True)
+        self.superclusters = map(lambda cluster_id: self.load_supercluster_data(cluster_id), supercluster_filenames)
 
     def get_sugar_id(self, accession):
         search_results = self.seeds_and_hits_df.loc[self.seeds_and_hits_df.protein_accession == accession, 'CSDB_record_ID']
@@ -360,6 +383,10 @@ class SSNClusterData:
 
     def get_TM_count_string(self, accessions):
         return ', '.join([f"{accession}: {self.TM_counts[accession]}" for accession in accessions if accession in self.TM_counts])
+
+    def load_supercluster_dict(self):
+        with open(self.superclusters_dict_filename(), 'rb') as infile:
+            self.supercluster2clustermembers = pickle.load(infile)
         
     def load_cluster_data(self, cluster_id):
         cluster_info = {}
@@ -401,3 +428,29 @@ class SSNClusterData:
         cluster_info['hits_table_url'] = filename_to_url(self.hits_table_filename(cluster_id))
 
         return cluster_info
+
+    def load_supercluster_data(self, supercluster_id):
+        supercluster_info = {}
+        [size, supercluster_info['count_clusters'], supercluster_info['name']] = supercluster_id.split('_')
+        supercluster_info['size'] = int(size)
+
+        seed_accessions, hit_accessions = self.read_split_fasta_seeds_hits(self.supercluster_fasta_filename(supercluster_id))
+        accessions = []
+        accessions.extend(seed_accessions)
+        accessions.extend(hit_accessions)
+        accessions = list(set(accessions))
+
+        fasta_dict = read_MSA_file(self.supercluster_MSA_filename(supercluster_id))
+        
+        supercluster_info['conserved_residues'] = get_conserved_residues(fasta_dict)
+        supercluster_info['conserved_residues_string'] = get_conserved_residues_string(supercluster_info['conserved_residues'])
+        
+        if self.get_sugars:
+            sugars2accessions = self.get_sugars2accessions(accessions)
+            supercluster_info['sugars'] = self.enrich_sugars(seed_accessions, sugars2accessions)
+            supercluster_info['sugar_images_seeds'] = self.sugar_images_seeds(supercluster_info['sugars'])
+            supercluster_info['sugar_images_blast'] = self.sugar_images_blast(supercluster_info['sugars'])
+
+        supercluster_info['clustermembers'] = [self.load_cluster_data(cluster_id) for cluster_id in self.supercluster2clustermembers[supercluster_info['name']]]
+
+        return supercluster_info
