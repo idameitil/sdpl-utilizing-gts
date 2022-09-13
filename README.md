@@ -100,14 +100,14 @@ Locally run `sh src/all-vs-all-blast/prepare-all-vs-all.sh data/wzy/all-vs-all-b
 
 On the HPC run `python3 /work3/idamei/wzy/all-vs-all-blast/prepare-all-vs-all.py /work3/idamei/wzy/all-vs-all-blast/db/seeds-and-unique-hits.fasta wzy`
 
-And `sh /work3/idamei/all-vs-all-blast/submit.sh`
+And `sh /work3/idamei/wzy/all-vs-all-blast/submit.sh`
 
 ### Make network file
 
 To make the network file run on the HPC:
 `qrsh`
 
-`python3 /work3/idamei/src/make-network-file.py eca-pol wzy`.
+`python3 /work3/idamei/src/make-network-file.py wzy`.
 
 Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/all-vs-all-blast/network data/wzy/all-vs-all-blast/`.
 
@@ -130,21 +130,17 @@ Push changes.
 
 To visualize alphafold models with conserved residues, run: `pymol data/wzy/ssn-clusterings/[timestamp]/pymol-visualization.pml`.
 
-<!---
-### HMM search
-`python src/ssn-clustering/search-hmms.py [timestamp]`
--->
-
 ### Super cluster analysis
 Run HHblits all clusters against all: `sh src/ssn-clustering/super-cluster-analysis/hhblits.sh [timestamp]`. This will create a .hhr file for each cluster (in `data/wzy/ssn-clusterings/[timestamp]/clusters/[cluster]/[cluster.hhr]`).
 
-Make HMM supercluster network edge file: `python src/ssn-clustering/super-cluster-analysis/make-hmm-edge-file.py [timestamp] 110`. This will create the file `data/wzy/ssn-clusterings/[timestamp]/hmm_edges110`.
+Make HMM supercluster network edge file: `python src/ssn-clustering/super-cluster-analysis/make-hmm-edge-file.py [timestamp] 110`. This will create the file `data/wzy/ssn-clusterings/[timestamp]/hmm_edges110` that can be visualized in Cytoscape.
 
 Get super clusters: `python src/ssn-clustering/super-cluster-analysis/get-super-clusters.py [timestamp] 110`. This will create the file `data/wzy/ssn-clusterings/{timestamp}/superclusters.tsv` and a folder for each supercluster with a fasta file in `data/wzy/ssn-clusterings/{timestamp}/super-clusters`.
 
 Prepare MSAs for super clusters: `python src/ssn-clustering/super-cluster-analysis/prepare-super-cluster-alignments.py [timestamp]`
 
 `scp -r data/wzy/ssn-clusterings/[timestamp]/super-clusters idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/[timestamp]`
+`scp -r data/wzy/ssn-clusterings/[timestamp]/submit-superclusters idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/[timestamp]`
 
 At the HPC: `sh /work3/idamei/wzy/ssn-clusterings/[timestamp]/submit-superclusters.sh`
 

@@ -63,9 +63,7 @@ waal_df = pd.DataFrame(waal_data, columns = ['protein_accession', 'organism', 'd
 
 # Read wzy_df
 wzy_df = pd.read_csv("data/wzy/wzy.tsv", sep = '\t', dtype=object)
-wzy_columns = wzy_df.columns.drop(['WzyE', 'comment']).tolist()
-# Remove ECA rows
-wzy_df = wzy_df[wzy_df.WzyE == '0']
+wzy_columns = wzy_df.columns.drop(['comment']).tolist()
 # Remove columns
 wzy_df.drop(['protein_accession', 'seq'], axis=1, inplace=True)
 # Merge

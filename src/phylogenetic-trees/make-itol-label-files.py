@@ -23,12 +23,10 @@ def make_polysaccharide_type_label_file(df, enzyme_family_name):
         file.write(header)
         for index, row in df.iterrows():
             colors = {'ECA Wzy':'green', 'CPS Wzy':'red', 'O-antigen Wzy':'blue'}
-            if row.WzyE == 1:
-                type = 'ECA Wzy'
-            elif row.CPS == 1:
+            if row.CPS == 1:
                 type = 'CPS Wzy'
             else:
-                type = 'O-antigen Wzy'
+                type = 'LPS Wzy'
             file.write(f"{row['protein_accession']},{colors[type]},{type}\n")
 
 def make_image_label_file(df, enzyme_family_name):

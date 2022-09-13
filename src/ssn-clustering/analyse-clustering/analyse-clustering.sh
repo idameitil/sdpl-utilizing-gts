@@ -1,8 +1,8 @@
 echo "\n*** DOWNLOADING ALIGNMENTS AND LOGOS FROM HPC ***\n"
 scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/$1/clusters/ data/wzy/ssn-clusterings/$1
 
-echo "\n*** CONVERTING LOGOS TO PDF ***\n"
-python3 src/ssn-clustering/analyse-clustering/convert-logos-to-pdf.py $1
+# echo "\n*** CONVERTING LOGOS TO PDF ***\n"
+# python3 src/ssn-clustering/analyse-clustering/convert-logos-to-pdf.py $1
 
 echo "\n*** GENERATING MARKDOWN REPORT ***\n"
 python src/ssn-clustering/analyse-clustering/make-report.py $1
