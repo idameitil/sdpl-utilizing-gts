@@ -17,4 +17,4 @@ echo "\n*** GENERATING PYMOL SCRIPT ***\n"
 python src/ssn-clustering/analyse-clustering/make-pymol-script.py $1
 
 echo "\n*** BUILDING HMMS ***\n"
-python src/ssn-clustering/analyse-clustering/build-hmms.py $1
+python src/ssn-clustering/analyse-clustering/build-hmms.py $1 cluster

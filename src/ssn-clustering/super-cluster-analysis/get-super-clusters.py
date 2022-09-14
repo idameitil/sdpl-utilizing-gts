@@ -8,7 +8,7 @@ import pickle
 timestamp = sys.argv[1]
 threshold = sys.argv[2]
 
-edge_filename = f"data/wzy/ssn-clusterings/{timestamp}/hmm_edges110"
+edge_filename = f"data/wzy/ssn-clusterings/{timestamp}/hmm_edges{threshold}"
 with open(edge_filename, 'r') as infile:
     G = nx.read_weighted_edgelist(infile, delimiter='\t')
 

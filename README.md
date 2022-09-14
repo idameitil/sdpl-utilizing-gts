@@ -150,6 +150,9 @@ When all jobs are finished, run locally:
 ### Make supercluster table
 To make a table with the superclusters, run: `src/ssn-clustering/analyse-clustering/make-table-superclusters.py [timestamp]`. This will generate the file `data/wzy/ssn-clusterings/2209121518/superclusters_table.html`.
 
+### Make supercluster hmms
+To make HMMs for each supercluster run: `python src/ssn-clustering/analyse-clustering/build-hmms.py [timestamp] supercluster`
+
 ## Phylogenetic trees
 
 ### Make iTOL label files
