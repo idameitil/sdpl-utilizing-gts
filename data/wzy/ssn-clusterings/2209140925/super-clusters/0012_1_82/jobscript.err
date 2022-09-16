@@ -1,0 +1,46 @@
+
+muscle 5.1.linux64 [12f0e2]  396Gb RAM, 24 cores
+Built Jan 13 2022 23:17:13
+(C) Copyright 2004-2021 Robert C. Edgar.
+https://drive5.com
+
+Input: 12 seqs, avg length 413, max 456
+
+00:00 3.9Mb  CPU has 24 cores, defaulting to 20 threads
+
+WARNING: Max OMP threads 1
+
+00:00 3.9Mb     1.5% Calc posteriors00:01 4.8Mb    27.3% Calc posteriors00:02 12Mb     62.1% Calc posteriors00:03 11Mb     98.5% Calc posteriors00:03 5.0Mb   100.0% Calc posteriors
+00:03 12Mb      1.5% Consistency (1/2)00:03 12Mb    100.0% Consistency (1/2)
+00:03 12Mb      1.5% Consistency (2/2)00:03 12Mb    100.0% Consistency (2/2)
+00:03 12Mb      9.1% UPGMA5           00:03 12Mb    100.0% UPGMA5
+00:03 12Mb      1.0% Refining00:03 12Mb    100.0% Refining
+INFO:Malign:No identity filter
+INFO:Malign:Star /work3/idamei/wzy/ssn-clusterings/2209140925/super-clusters/0012_1_82/seeds.txt
+INFO:Malign:Star highlights 1 from comma-separated list
+Read FASTA line_by_line from /work3/idamei/wzy/ssn-clusterings/2209140925/super-clusters/0012_1_82/sequences.afa 12 elements
+INFO:Malign:No identity filter
+INFO:Malign:Fasta contains 12 valid records
+INFO:Malign:Aligned already
+INFO:Malign:Align contains 12 valid records
+FastTree Version 2.1.11 SSE3
+Alignment: /work3/idamei/wzy/ssn-clusterings/2209140925/super-clusters/0012_1_82/sequences.afa
+Amino acid distances: BLOSUM45 Joins: balanced Support: SH-like 1000
+Search: Normal +NNI +SPR (2 rounds range 10) +ML-NNI opt-each=1
+TopHits: 1.00*sqrtN close=default refresh=0.80
+ML Model: Jones-Taylor-Thorton, CAT approximation with 20 rate categories
+Initial topology in 0.00 seconds
+Refining topology: 14 rounds ME-NNIs, 2 rounds ME-SPRs, 7 rounds ML-NNIs
+Total branch-length 5.894 after 0.04 sec
+ML-NNI round 1: LogLk = -9942.314 NNIs 3 max delta 8.38 Time 0.12
+      0.12 seconds: Site likelihoods with rate category 1 of 20
+Switched to using 20 rate categories (CAT approximation)
+Rate categories were divided by 0.879 so that average rate = 1.0
+CAT-based log-likelihoods may not be comparable across runs
+Use -gamma for approximate but comparable Gamma(20) log-likelihoods
+ML-NNI round 2: LogLk = -9526.711 NNIs 1 max delta 0.09 Time 0.23
+Turning off heuristics for final round of ML NNIs (converged)
+      0.23 seconds: ML NNI round 3 of 7, 1 of 9 splits
+ML-NNI round 3: LogLk = -9525.718 NNIs 0 max delta 0.00 Time 0.31 (final)
+Optimize all lengths: LogLk = -9525.718 Time 0.34
+Total time: 0.40 seconds Unique: 11/12 Bad splits: 0/8
