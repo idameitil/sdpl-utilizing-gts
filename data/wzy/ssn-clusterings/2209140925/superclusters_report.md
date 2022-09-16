@@ -15,335 +15,277 @@ Total number of members in cluster: 1247
 
 D 701, Y 706, R 1078, H 1148, R 1825
 
-#### Number of TMs:
-
-AFV46136.1: 11, ACA24811.1: 10, ACA24776.1: 10, ABK27355.1: 10, AFW04883.1: 8, BAQ00634.1: 10, ABI55342.1: 11, AAO37701.1: 9, AQU71739.1: 10, CAI33718.1: 10, ACA24852.1: 10, ABK27351.1: 10, ADN43894.1: 10, ACA24803.1: 10, AFW04860.1: 10, AHB32215.1: 11, ACA24821.1: 10, AHB32334.1: 11, ACD75809.1: 10, AAK64372.1: 11, BAQ00858.1: 10, ABK27321.1: 11, ABK27354.1: 10, AHB32774.1: 10, ADQ37335.1: 10, AHB32462.1: 9, AAT85653.1: 10, BAQ01584.1: 9, AHB32311.1: 11, BAQ00622.1: 10, AAV41072.1: 9, AHB32283.1: 10, ACA24829.1: 9, WP_000456161.1: 9, ACD37105.1: 10, AAS98031.1: 10, AFW04867.1: 10, BAQ01012.1: 10, ACV67289.1: 10, ADQ37322.1: 10, BAQ01563.1: 10, WP_046788607.1: 9, ACD37146.1: 10, ACV67297.1: 11, BAL03056.1: 10, AFW04785.1: 10, ACH97162.1: 11, BAQ00812.1: 9, ACA24901.1: 9, AAN60459.1: 8, AAL27339.1: 10, WP_024244058.1: 9, AQU71717.1: 10, BAQ02116.1: 10, AFW04684.1: 11, ABI98966.1: 9, AHB32666.1: 9, BAQ01293.1: 10, ABI98976.1: 10, AHB32861.1: 9, AQU71752.1: 10, BAI31288.1: 10, AHB32715.1: 8, ADC54967.1: 10, ADC54957.1: 10, AHB32687.1: 10, ABB29916.1: 10, ABK27350.1: 10, BAQ01169.1: 12, BAQ00746.1: 9, BAQ01641.1: 10, AFW04888.1: 10, AHB32438.2: 9, ACD37138.1: 10, BAQ01024.1: 9, ACA24792.1: 10, ABX51892.1: 10, AFW04812.1: 9, BAQ01743.1: 11, ABB29906.1: 10, CAI34008.1: 9, ACA24840.1: 10, AHB32637.1: 8, AHB32832.1: 10, AFW04820.1: 10, AHB32799.1: 10, AHB32888.2: 9, BAQ01860.1: 10, ABK27352.1: 11, ADC54929.1: 10
-
 #### Sugars in supercluster:
 
-ACA24811.1 (Shigella dysenteriae 12), ACA24821.1 (Escherichia coli O152)
-
-![](../../../csdb/images/1893.gif)1893
-
-ACA24776.1 (Shigella dysenteriae 8)
-
-![](../../../csdb/images/11557.gif)11557
-
-ABK27355.1 (Escherichia coli O103), ABK27351.1 (Escherichia coli O103), ABK27321.1 (Escherichia coli O103), ABK27354.1 (Escherichia coli O103), BAI31288.1 (Escherichia coli O103), ABK27350.1 (Escherichia coli O103), ABK27352.1 (Escherichia coli O103)
-
-![](../../../csdb/images/1842.gif)1842
-
-AFW04883.1 (Salmonella enterica O57)
-
-![](../../../csdb/images/701.gif)701
-
-BAQ00634.1 (Escherichia coli O12)
-
-![](../../../csdb/images/1514.gif)1514
-
-ABI55342.1 (Shigella boydii 17)
-
-![](../../../csdb/images/714.gif)714
-
-AAO37701.1 (Escherichia coli O128ab), WP_024244058.1 (Escherichia coli O128ac)
-
-![](../../../csdb/images/1867.gif)1867
-
-AQU71739.1 (Escherichia coli O1), AQU71717.1 (Escherichia coli O1), AQU71752.1 (Escherichia coli O1), ADC54929.1 (Escherichia coli O1)
+AQU71739.1 (Escherichia coli O1), ADC54929.1 (Escherichia coli O1), AQU71717.1 (Escherichia coli O1), AQU71752.1 (Escherichia coli O1)
 
 ![](../../../csdb/images/7222.gif)7222
-
-CAI33718.1 (Streptococcus pneumoniae 20)
-
-![](../../../csdb/images/1928.gif)1928
-
-ACA24852.1 (Escherichia coli O29)
-
-![](../../../csdb/images/1538.gif)1538
-
-ADN43894.1 (Escherichia coli O173)
-
-![](../../../csdb/images/3159.gif)3159
-
-ACA24803.1 (Escherichia coli O150)
-
-![](../../../csdb/images/715.gif)715
-
-AFW04860.1 (Salmonella enterica O60)
-
-![](../../../csdb/images/3360.gif)3360
-
-AHB32215.1 (Acinetobacter baumannii O1)
-
-![](../../../csdb/images/2091.gif)2091
-
-AHB32334.1 (Acinetobacter baumannii O18)
-
-![](../../../csdb/images/483.gif)483
-
-ACD75809.1 (Escherichia coli O2)
-
-![](../../../csdb/images/108685.gif)108685
-
-AAK64372.1 (Escherichia coli O104), EGR73751.1 (Escherichia coli O104)
-
-![](../../../csdb/images/1843.gif)1843
-
-BAQ00858.1 (Escherichia coli O38)
-
-![](../../../csdb/images/1545.gif)1545
-
-AHB32774.1 (Acinetobacter baumannii O12)
-
-![](../../../csdb/images/493.gif)493
-
-ADQ37335.1 (Escherichia coli O118)
-
-![](../../../csdb/images/1858.gif)1858
-
-AAT85653.1 (Escherichia coli O4)
-
-![](../../../csdb/images/10216.gif)10216
-
-BAQ01584.1 (Escherichia coli O120)
-
-![](../../../csdb/images/1860.gif)1860
-
-BAQ00622.1 (Escherichia coli O10)
-
-![](../../../csdb/images/1512.gif)1512
-
-AIG62720.1 (Escherichia coli O169), BAQ01860.1 (Escherichia coli O169)
-
-![](../../../csdb/images/1911.gif)1911
-
-ACA24829.1 (Escherichia coli O105), AAS98031.1 (Shigella boydii 11)
-
-![](../../../csdb/images/1844.gif)1844
-
-ACD37105.1 (Shigella dysenteriae 3)
-
-![](../../../csdb/images/718.gif)718
-
-BAQ01012.1 (Escherichia coli O50)
-
-![](../../../csdb/images/1557.gif)1557
-
-ACV67289.1 (Escherichia coli O35)
-
-![](../../../csdb/images/1542.gif)1542
-
-ADQ37322.1 (Escherichia coli O151)
-
-![](../../../csdb/images/1892.gif)1892
-
-BAQ01563.1 (Escherichia coli O116)
-
-![](../../../csdb/images/1856.gif)1856
-
-ACD37146.1 (Escherichia coli O164)
-
-![](../../../csdb/images/1906.gif)1906
-
-ACV67297.1 (Escherichia coli O78)
-
-![](../../../csdb/images/1584.gif)1584
-
-BAL03056.1 (Escherichia coli O183)
-
-![](../../../csdb/images/1925.gif)1925
-
-AFW04785.1 (Salmonella enterica O62)
-
-![](../../../csdb/images/3359.gif)3359
-
-AAM27879.1 (Pseudomonas aeruginosa O9)
-
-![](../../../csdb/images/24037.gif)24037
-
-ACH97162.1 (Escherichia coli O21)
-
-![](../../../csdb/images/1529.gif)1529
-
-ACA24901.1 (Escherichia coli O87)
-
-![](../../../csdb/images/1594.gif)1594
-
-AAN60459.1 (Escherichia coli O26)
-
-![](../../../csdb/images/1534.gif)1534
-
-AAL27339.1 (Shigella boydii 6)
-
-![](../../../csdb/images/712.gif)712
-
-BAQ02116.1 (Escherichia coli O54)
-
-![](../../../csdb/images/1561.gif)1561
-
-AFW04684.1 (Salmonella enterica O65)
-
-![](../../../csdb/images/30392.gif)30392
-
-ABI98966.1 (Escherichia coli O149)
-
-![](../../../csdb/images/1890.gif)1890
-
-BAQ01293.1 (Escherichia coli O84)
-
-![](../../../csdb/images/1590.gif)1590
-
-ABI98976.1 (Escherichia coli O141)
-
-![](../../../csdb/images/1883.gif)1883
-
-AHB32715.1 (Acinetobacter baumannii O23), AHB32637.1 (Acinetobacter baumannii O23)
-
-![](../../../csdb/images/563.gif)563
-
-ADC54967.1 (Escherichia coli O75)
-
-![](../../../csdb/images/619.gif)619
-
-WP_016238111.1 (Escherichia coli O81)
-
-![](../../../csdb/images/1587.gif)1587
-
-ADC54957.1 (Escherichia coli O166)
-
-![](../../../csdb/images/1908.gif)1908
-
-ABB29916.1 (Escherichia coli O56)
-
-![](../../../csdb/images/8382.gif)8382
-
-BAQ01169.1 (Escherichia coli O69)
-
-![](../../../csdb/images/1575.gif)1575
-
-BAQ00746.1 (Escherichia coli O23)
-
-![](../../../csdb/images/20006.gif)20006
-
-BAQ01641.1 (Escherichia coli O131)
-
-![](../../../csdb/images/1873.gif)1873
-
-AFW04888.1 (Salmonella enterica O51)
-
-![](../../../csdb/images/3366.gif)3366
-
-AHB32438.2 (Acinetobacter baumannii O22)
-
-![](../../../csdb/images/2196.gif)2196
-
-ACD37138.1 (Escherichia coli O124)
-
-![](../../../csdb/images/1863.gif)1863
-
-BAQ01024.1 (Escherichia coli O51)
-
-![](../../../csdb/images/1558.gif)1558
-
-ACA24792.1 (Shigella dysenteriae 13)
-
-![](../../../csdb/images/1891.gif)1891
-
-ABX51892.1 (Cronobacter sakazakii O2)
-
-![](../../../csdb/images/27572.gif)27572
-
-AFW04812.1 (Salmonella enterica O42)
-
-![](../../../csdb/images/703.gif)703
-
-ABB29906.1 (Escherichia coli O24)
-
-![](../../../csdb/images/8411.gif)8411
 
 CAI34008.1 (Streptococcus pneumoniae 27)
 
 ![](../../../csdb/images/7085.gif)7085
 
-ACA24840.1 (Shigella dysenteriae 11)
+WP_024244058.1 (Escherichia coli O128ac), AAO37701.1 (Escherichia coli O128ab)
 
-![](../../../csdb/images/1932.gif)1932
+![](../../../csdb/images/1867.gif)1867
+
+ACD37138.1 (Escherichia coli O124)
+
+![](../../../csdb/images/1863.gif)1863
+
+ACA24792.1 (Shigella dysenteriae 13)
+
+![](../../../csdb/images/1891.gif)1891
+
+AHB32715.1 (Acinetobacter baumannii O23), AHB32637.1 (Acinetobacter baumannii O23)
+
+![](../../../csdb/images/563.gif)563
+
+ACA24829.1 (Escherichia coli O105), AAS98031.1 (Shigella boydii 11)
+
+![](../../../csdb/images/1844.gif)1844
+
+ACA24811.1 (Shigella dysenteriae 12), ACA24821.1 (Escherichia coli O152)
+
+![](../../../csdb/images/1893.gif)1893
+
+BAQ01584.1 (Escherichia coli O120)
+
+![](../../../csdb/images/1860.gif)1860
+
+ABI55342.1 (Shigella boydii 17)
+
+![](../../../csdb/images/714.gif)714
+
+AAL27339.1 (Shigella boydii 6)
+
+![](../../../csdb/images/712.gif)712
+
+BAQ00622.1 (Escherichia coli O10)
+
+![](../../../csdb/images/1512.gif)1512
+
+ACA24776.1 (Shigella dysenteriae 8)
+
+![](../../../csdb/images/11557.gif)11557
+
+BAQ01012.1 (Escherichia coli O50)
+
+![](../../../csdb/images/1557.gif)1557
+
+AAK64372.1 (Escherichia coli O104), EGR73751.1 (Escherichia coli O104)
+
+![](../../../csdb/images/1843.gif)1843
+
+ACD75809.1 (Escherichia coli O2)
+
+![](../../../csdb/images/108685.gif)108685
+
+AFW04888.1 (Salmonella enterica O51)
+
+![](../../../csdb/images/3366.gif)3366
+
+BAQ02116.1 (Escherichia coli O54)
+
+![](../../../csdb/images/1561.gif)1561
+
+BAQ01169.1 (Escherichia coli O69)
+
+![](../../../csdb/images/1575.gif)1575
+
+BAQ01293.1 (Escherichia coli O84)
+
+![](../../../csdb/images/1590.gif)1590
+
+ADC54957.1 (Escherichia coli O166)
+
+![](../../../csdb/images/1908.gif)1908
+
+ABI98966.1 (Escherichia coli O149)
+
+![](../../../csdb/images/1890.gif)1890
+
+BAQ00634.1 (Escherichia coli O12)
+
+![](../../../csdb/images/1514.gif)1514
+
+AFW04860.1 (Salmonella enterica O60)
+
+![](../../../csdb/images/3360.gif)3360
+
+AHB32334.1 (Acinetobacter baumannii O18)
+
+![](../../../csdb/images/483.gif)483
+
+BAQ00858.1 (Escherichia coli O38)
+
+![](../../../csdb/images/1545.gif)1545
+
+AAN60459.1 (Escherichia coli O26)
+
+![](../../../csdb/images/1534.gif)1534
+
+CAI33718.1 (Streptococcus pneumoniae 20)
+
+![](../../../csdb/images/1928.gif)1928
+
+ACD37146.1 (Escherichia coli O164)
+
+![](../../../csdb/images/1906.gif)1906
+
+ACA24852.1 (Escherichia coli O29)
+
+![](../../../csdb/images/1538.gif)1538
+
+ACA24901.1 (Escherichia coli O87)
+
+![](../../../csdb/images/1594.gif)1594
+
+BAI31288.1 (Escherichia coli O103), ABK27321.1 (Escherichia coli O103), ABK27355.1 (Escherichia coli O103), ABK27351.1 (Escherichia coli O103), ABK27352.1 (Escherichia coli O103), ABK27350.1 (Escherichia coli O103), ABK27354.1 (Escherichia coli O103)
+
+![](../../../csdb/images/1842.gif)1842
+
+ACV67289.1 (Escherichia coli O35)
+
+![](../../../csdb/images/1542.gif)1542
+
+AHB32438.2 (Acinetobacter baumannii O22)
+
+![](../../../csdb/images/2196.gif)2196
 
 AFW04820.1 (Salmonella enterica O11)
 
 ![](../../../csdb/images/2600.gif)2600
 
+BAQ01860.1 (Escherichia coli O169), AIG62720.1 (Escherichia coli O169)
+
+![](../../../csdb/images/1911.gif)1911
+
+ABI98976.1 (Escherichia coli O141)
+
+![](../../../csdb/images/1883.gif)1883
+
+AFW04812.1 (Salmonella enterica O42)
+
+![](../../../csdb/images/703.gif)703
+
+ABB29916.1 (Escherichia coli O56)
+
+![](../../../csdb/images/8382.gif)8382
+
+AHB32774.1 (Acinetobacter baumannii O12)
+
+![](../../../csdb/images/493.gif)493
+
+AFW04684.1 (Salmonella enterica O65)
+
+![](../../../csdb/images/30392.gif)30392
+
+BAL03056.1 (Escherichia coli O183)
+
+![](../../../csdb/images/1925.gif)1925
+
+ADQ37322.1 (Escherichia coli O151)
+
+![](../../../csdb/images/1892.gif)1892
+
+ABB29906.1 (Escherichia coli O24)
+
+![](../../../csdb/images/8411.gif)8411
+
+ADN43894.1 (Escherichia coli O173)
+
+![](../../../csdb/images/3159.gif)3159
+
+BAQ00746.1 (Escherichia coli O23)
+
+![](../../../csdb/images/20006.gif)20006
+
+ACA24840.1 (Shigella dysenteriae 11)
+
+![](../../../csdb/images/1932.gif)1932
+
+WP_016238111.1 (Escherichia coli O81)
+
+![](../../../csdb/images/1587.gif)1587
+
+AAT85653.1 (Escherichia coli O4)
+
+![](../../../csdb/images/10216.gif)10216
+
+BAQ01641.1 (Escherichia coli O131)
+
+![](../../../csdb/images/1873.gif)1873
+
+ACV67297.1 (Escherichia coli O78)
+
+![](../../../csdb/images/1584.gif)1584
+
+AHB32215.1 (Acinetobacter baumannii O1)
+
+![](../../../csdb/images/2091.gif)2091
+
+AAM27879.1 (Pseudomonas aeruginosa O9)
+
+![](../../../csdb/images/24037.gif)24037
+
+BAQ01563.1 (Escherichia coli O116)
+
+![](../../../csdb/images/1856.gif)1856
+
+ABX51892.1 (Cronobacter sakazakii O2)
+
+![](../../../csdb/images/27572.gif)27572
+
+ADC54967.1 (Escherichia coli O75)
+
+![](../../../csdb/images/619.gif)619
+
+ACD37105.1 (Shigella dysenteriae 3)
+
+![](../../../csdb/images/718.gif)718
+
+AFW04785.1 (Salmonella enterica O62)
+
+![](../../../csdb/images/3359.gif)3359
+
+ACA24803.1 (Escherichia coli O150)
+
+![](../../../csdb/images/715.gif)715
+
+ADQ37335.1 (Escherichia coli O118)
+
+![](../../../csdb/images/1858.gif)1858
+
 AHB32888.2 (Acinetobacter baumannii O7)
 
 ![](../../../csdb/images/495.gif)495
 
+AFW04883.1 (Salmonella enterica O57)
+
+![](../../../csdb/images/701.gif)701
+
+ACH97162.1 (Escherichia coli O21)
+
+![](../../../csdb/images/1529.gif)1529
+
+BAQ01024.1 (Escherichia coli O51)
+
+![](../../../csdb/images/1558.gif)1558
+
 #### Additional sugars from blast hits:
-
-VLD07009.1 (Streptococcus pneumoniae 20A)
-
-![](../../../csdb/images/7079.gif)7079
 
 AXL96526.1 (Providencia alcalifaciens O38)
 
 ![](../../../csdb/images/27606.gif)27606
 
+VLD07009.1 (Streptococcus pneumoniae 20A)
+
+![](../../../csdb/images/7079.gif)7079
+
 AXY99336.1 (Proteus vulgaris O2)
 
 ![](../../../csdb/images/3058.gif)3058
-
-#### Alphafold models:
-
-[AHB32215.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AHB32215.1/ranked_0.pdb)
-
-[AHB32666.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AHB32666.1/ranked_0.pdb)
-
-[AHB32888.2](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AHB32888.2/ranked_0.pdb)
-
-[AHB32687.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AHB32687.1/ranked_0.pdb)
-
-[AHB32334.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AHB32334.1/ranked_0.pdb)
-
-[AHB32438.2](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AHB32438.2/ranked_0.pdb)
-
-[AHB32861.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AHB32861.1/ranked_0.pdb)
-
-[CAI34008.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI34008.1/ranked_0.pdb)
-
-[ACH97162.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ACH97162.1/ranked_0.pdb)
-
-[BAQ00746.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ00746.1/ranked_0.pdb)
-
-[ABB29906.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ABB29906.1/ranked_0.pdb)
-
-[ACA24852.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ACA24852.1/ranked_0.pdb)
-
-[ADC54967.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ADC54967.1/ranked_0.pdb)
-
-[ACV67297.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ACV67297.1/ranked_0.pdb)
-
-[WP_016238111.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/WP_016238111.1/ranked_0.pdb)
-
-[AAK64372.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AAK64372.1/ranked_0.pdb)
-
-[BAQ01641.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ01641.1/ranked_0.pdb)
-
-[ABI98976.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ABI98976.1/ranked_0.pdb)
-
-[BAQ01743.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ01743.1/ranked_0.pdb)
-
-[ABI98966.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ABI98966.1/ranked_0.pdb)
-
-[ACA24821.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ACA24821.1/ranked_0.pdb)
-
-[BAQ01860.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ01860.1/ranked_0.pdb)
-
-[ABK27355.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ABK27355.1/ranked_0.pdb)
-
-[WP_024244058.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/WP_024244058.1/ranked_0.pdb)
-
-[AAS98031.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AAS98031.1/ranked_0.pdb)
-
-[ABI55342.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ABI55342.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -593,43 +535,55 @@ Total number of members in cluster: 540
 
 R 1184, D 1273
 
-#### Number of TMs:
-
-BAQ00957.1: 12, CAI33441.1: 10, AIG62747.1: 11, CAI34328.1: 11, BAQ01812.1: 11, CAI34080.1: 12, BAQ01266.1: 9, CAI34657.1: 12, CAI34348.1: 12, CAI34544.1: 10, CAI34641.1: 10, CAI34286.1: 11, CAI33309.1: 10, CAI32957.1: 13, CAI34519.1: 11, CAI34369.1: 11, BAQ01687.1: 12, CAI34310.1: 11
-
 #### Sugars in supercluster:
+
+CAI34286.1 (Streptococcus pneumoniae 35A)
+
+![](../../../csdb/images/1611.gif)1611
 
 BAQ00957.1 (Escherichia coli O46)
 
 ![](../../../csdb/images/1554.gif)1554
 
-CAI33441.1 (Streptococcus pneumoniae 16A)
+CAI34080.1 (Streptococcus pneumoniae 29)
 
-![](../../../csdb/images/1490.gif)1490
+![](../../../csdb/images/1227.gif)1227
 
-AIG62747.1 (Escherichia coli O178)
+CAI32957.1 (Streptococcus pneumoniae 8)
 
-![](../../../csdb/images/1920.gif)1920
+![](../../../csdb/images/938.gif)938
 
-CAI34328.1 (Streptococcus pneumoniae 35C)
+CAI34657.1 (Streptococcus pneumoniae 47F)
 
-![](../../../csdb/images/7097.gif)7097
+![](../../../csdb/images/25005.gif)25005
+
+CAI34519.1 (Streptococcus pneumoniae 42)
+
+![](../../../csdb/images/25003.gif)25003
 
 BAQ01812.1 (Escherichia coli O160)
 
 ![](../../../csdb/images/1901.gif)1901
 
-CAI34080.1 (Streptococcus pneumoniae 29)
+CAI33309.1 (Streptococcus pneumoniae 13)
 
-![](../../../csdb/images/1227.gif)1227
+![](../../../csdb/images/7061.gif)7061
+
+CAI34328.1 (Streptococcus pneumoniae 35C)
+
+![](../../../csdb/images/7097.gif)7097
 
 BAQ01266.1 (Escherichia coli O82)
 
 ![](../../../csdb/images/1588.gif)1588
 
-CAI34657.1 (Streptococcus pneumoniae 47F)
+BAQ01687.1 (Escherichia coli O134)
 
-![](../../../csdb/images/25005.gif)25005
+![](../../../csdb/images/1876.gif)1876
+
+AIG62747.1 (Escherichia coli O178)
+
+![](../../../csdb/images/1920.gif)1920
 
 CAI34348.1 (Streptococcus pneumoniae 35F)
 
@@ -639,25 +593,9 @@ CAI34641.1 (Streptococcus pneumoniae 47A)
 
 ![](../../../csdb/images/25006.gif)25006
 
-CAI34286.1 (Streptococcus pneumoniae 35A)
+CAI33441.1 (Streptococcus pneumoniae 16A)
 
-![](../../../csdb/images/1611.gif)1611
-
-CAI33309.1 (Streptococcus pneumoniae 13)
-
-![](../../../csdb/images/7061.gif)7061
-
-CAI32957.1 (Streptococcus pneumoniae 8)
-
-![](../../../csdb/images/938.gif)938
-
-CAI34519.1 (Streptococcus pneumoniae 42)
-
-![](../../../csdb/images/25003.gif)25003
-
-BAQ01687.1 (Escherichia coli O134)
-
-![](../../../csdb/images/1876.gif)1876
+![](../../../csdb/images/1490.gif)1490
 
 CAI34310.1 (Streptococcus pneumoniae 35B)
 
@@ -666,16 +604,6 @@ CAI34310.1 (Streptococcus pneumoniae 35B)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[CAI33309.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI33309.1/ranked_0.pdb)
-
-[CAI34369.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI34369.1/ranked_0.pdb)
-
-[BAQ00957.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ00957.1/ranked_0.pdb)
-
-[AIG62747.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AIG62747.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -771,35 +699,31 @@ Total number of members in cluster: 473
 
 
 
-#### Number of TMs:
-
-AHB32411.1: 10, CAI32843.1: 11, AAL27351.1: 10, BAQ00669.1: 10, AFC91458.1: 10, CAI32823.1: 11, BAQ01675.1: 10, CAI33798.1: 12, AFC91419.1: 10, CAI34269.1: 11, AHB32586.1: 12, CAI33700.1: 9, BAQ01732.1: 11, CAI33631.1: 9, BAQ00705.1: 11, ACD37126.1: 11, ADC54950.1: 9, BAQ01780.1: 11, BAQ00687.1: 10, AAX07747.1: 10, CAI33774.1: 12, AAZ85718.1: 11, BAQ01516.1: 11, BAQ00653.1: 12
-
 #### Sugars in supercluster:
 
-AAM27711.1 (Pseudomonas aeruginosa O19)
+BAQ01516.1 (Escherichia coli O108)
 
-![](../../../csdb/images/11026.gif)11026
+![](../../../csdb/images/25389.gif)25389
 
-AHB32411.1 (Acinetobacter baumannii O10)
+AHB32586.1 (Acinetobacter baumannii O24)
 
-![](../../../csdb/images/27746.gif)27746
+![](../../../csdb/images/491.gif)491
 
-CAI32843.1 (Streptococcus pneumoniae 6B)
+BAQ00653.1 (Escherichia coli O16)
 
-![](../../../csdb/images/937.gif)937
+![](../../../csdb/images/1517.gif)1517
 
-AAL27351.1 (Shigella boydii 9)
+VSB76654.1 (Streptococcus pneumoniae 19F), VNC99741.1 (Streptococcus pneumoniae 19F), CMX58981.1 (Streptococcus pneumoniae 19F), CAI33700.1 (Streptococcus pneumoniae 19F)
 
-![](../../../csdb/images/3986.gif)3986
-
-BAQ00669.1 (Escherichia coli O18ab)
-
-![](../../../csdb/images/1524.gif)1524
+![](../../../csdb/images/739.gif)739
 
 AFC91458.1 (Escherichia coli O45), AFC91419.1 (Escherichia coli O45), AAX07747.1 (Escherichia coli O45)
 
 ![](../../../csdb/images/1552.gif)1552
+
+ACD37126.1 (Shigella boydii 2)
+
+![](../../../csdb/images/3982.gif)3982
 
 CAI32823.1 (Streptococcus pneumoniae 6A), AAL82786.1 (Streptococcus pneumoniae 6A)
 
@@ -809,87 +733,71 @@ BAQ01675.1 (Escherichia coli O133)
 
 ![](../../../csdb/images/1875.gif)1875
 
-VMG48693.1 (Streptococcus pneumoniae 34), CAI34269.1 (Streptococcus pneumoniae 34)
+CAI32843.1 (Streptococcus pneumoniae 6B)
 
-![](../../../csdb/images/7043.gif)7043
+![](../../../csdb/images/937.gif)937
 
-VNC99741.1 (Streptococcus pneumoniae 19F), CAI33700.1 (Streptococcus pneumoniae 19F), VSB76654.1 (Streptococcus pneumoniae 19F), CMX58981.1 (Streptococcus pneumoniae 19F)
+BAQ00669.1 (Escherichia coli O18ab)
 
-![](../../../csdb/images/739.gif)739
-
-AAM27560.1 (Pseudomonas aeruginosa O10)
-
-![](../../../csdb/images/11180.gif)11180
-
-CAI33798.1 (Streptococcus pneumoniae 22F)
-
-![](../../../csdb/images/625.gif)625
-
-AHB32586.1 (Acinetobacter baumannii O24)
-
-![](../../../csdb/images/491.gif)491
-
-BAQ01732.1 (Escherichia coli O142)
-
-![](../../../csdb/images/1884.gif)1884
-
-CAI33631.1 (Streptococcus pneumoniae 19A), VOS41126.1 (Streptococcus pneumoniae 19A)
-
-![](../../../csdb/images/740.gif)740
-
-ACD37126.1 (Shigella boydii 2)
-
-![](../../../csdb/images/3982.gif)3982
-
-ADC54950.1 (Escherichia coli O18)
-
-![](../../../csdb/images/20645.gif)20645
+![](../../../csdb/images/1524.gif)1524
 
 BAQ01780.1 (Escherichia coli O154)
 
 ![](../../../csdb/images/696.gif)696
 
+BAQ01732.1 (Escherichia coli O142)
+
+![](../../../csdb/images/1884.gif)1884
+
+AAM27560.1 (Pseudomonas aeruginosa O10)
+
+![](../../../csdb/images/11180.gif)11180
+
+AAM27711.1 (Pseudomonas aeruginosa O19)
+
+![](../../../csdb/images/11026.gif)11026
+
+AHB32411.1 (Acinetobacter baumannii O10)
+
+![](../../../csdb/images/27746.gif)27746
+
+AAL27351.1 (Shigella boydii 9)
+
+![](../../../csdb/images/3986.gif)3986
+
+ADC54950.1 (Escherichia coli O18)
+
+![](../../../csdb/images/20645.gif)20645
+
+VOS41126.1 (Streptococcus pneumoniae 19A), CAI33631.1 (Streptococcus pneumoniae 19A)
+
+![](../../../csdb/images/740.gif)740
+
+CAI33798.1 (Streptococcus pneumoniae 22F)
+
+![](../../../csdb/images/625.gif)625
+
 BAQ00687.1 (Escherichia coli O18ac)
 
 ![](../../../csdb/images/1521.gif)1521
+
+VMG48693.1 (Streptococcus pneumoniae 34), CAI34269.1 (Streptococcus pneumoniae 34)
+
+![](../../../csdb/images/7043.gif)7043
 
 AAZ85718.1 (Escherichia coli O139)
 
 ![](../../../csdb/images/1881.gif)1881
 
-BAQ01516.1 (Escherichia coli O108)
-
-![](../../../csdb/images/25389.gif)25389
-
-BAQ00653.1 (Escherichia coli O16)
-
-![](../../../csdb/images/1517.gif)1517
-
 #### Additional sugars from blast hits:
-
-VJK41440.1 (Streptococcus pneumoniae 6C)
-
-![](../../../csdb/images/3661.gif)3661
 
 ARD51912.1 (Escherichia coli O68)
 
 ![](../../../csdb/images/1574.gif)1574
 
-#### Alphafold models:
+VJK41440.1 (Streptococcus pneumoniae 6C)
 
-[AHB32411.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AHB32411.1/ranked_0.pdb)
-
-[CAI33798.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI33798.1/ranked_0.pdb)
-
-[BAQ00653.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ00653.1/ranked_0.pdb)
-
-[ADC54950.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ADC54950.1/ranked_0.pdb)
-
-[BAQ01516.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ01516.1/ranked_0.pdb)
-
-[AAZ85718.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AAZ85718.1/ranked_0.pdb)
-
-[BAQ01780.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ01780.1/ranked_0.pdb)
+![](../../../csdb/images/3661.gif)3661
 
 #### Taxonomy:
 
@@ -1040,19 +948,11 @@ Total number of members in cluster: 469
 
 R 850, R 1170, D 1245
 
-#### Number of TMs:
-
-CAI33441.1: 10, CAI34328.1: 11, CAI34080.1: 12, CAI34657.1: 12, CAI34348.1: 12, CAI34286.1: 11, CAI33309.1: 10, CAI34519.1: 11, CAI34369.1: 11, CAI34310.1: 11
-
 #### Sugars in supercluster:
 
-CAI33441.1 (Streptococcus pneumoniae 16A)
+CAI34286.1 (Streptococcus pneumoniae 35A)
 
-![](../../../csdb/images/1490.gif)1490
-
-CAI34328.1 (Streptococcus pneumoniae 35C)
-
-![](../../../csdb/images/7097.gif)7097
+![](../../../csdb/images/1611.gif)1611
 
 CAI34080.1 (Streptococcus pneumoniae 29)
 
@@ -1062,21 +962,25 @@ CAI34657.1 (Streptococcus pneumoniae 47F)
 
 ![](../../../csdb/images/25005.gif)25005
 
-CAI34348.1 (Streptococcus pneumoniae 35F)
+CAI34519.1 (Streptococcus pneumoniae 42)
 
-![](../../../csdb/images/7095.gif)7095
-
-CAI34286.1 (Streptococcus pneumoniae 35A)
-
-![](../../../csdb/images/1611.gif)1611
+![](../../../csdb/images/25003.gif)25003
 
 CAI33309.1 (Streptococcus pneumoniae 13)
 
 ![](../../../csdb/images/7061.gif)7061
 
-CAI34519.1 (Streptococcus pneumoniae 42)
+CAI34328.1 (Streptococcus pneumoniae 35C)
 
-![](../../../csdb/images/25003.gif)25003
+![](../../../csdb/images/7097.gif)7097
+
+CAI34348.1 (Streptococcus pneumoniae 35F)
+
+![](../../../csdb/images/7095.gif)7095
+
+CAI33441.1 (Streptococcus pneumoniae 16A)
+
+![](../../../csdb/images/1490.gif)1490
 
 CAI34310.1 (Streptococcus pneumoniae 35B)
 
@@ -1085,12 +989,6 @@ CAI34310.1 (Streptococcus pneumoniae 35B)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[CAI33309.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI33309.1/ranked_0.pdb)
-
-[CAI34369.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI34369.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -1171,87 +1069,43 @@ Total number of members in cluster: 308
 
 
 
-#### Number of TMs:
-
-ADR74237.1: 11, ABU80601.1: 10, WP_000936591.1: 10, CAA43912.1: 10, AAZ85713.1: 12, ABI98986.1: 11, WP_000936592.1: 10, ABE98437.1: 10, ACD36996.1: 11, ADI43263.1: 10, AAY28257.1: 12, BAQ01456.1: 10, BAQ02259.1: 12, ACD37181.1: 12, CAI33817.1: 13, ACD37173.1: 12, WP_001529369.1: 10, ACD37165.1: 12, ACD36984.1: 11, CAI33466.1: 12
-
 #### Sugars in supercluster:
-
-ADR74237.1 (Escherichia coli O109)
-
-![](../../../csdb/images/1848.gif)1848
-
-ABU80601.1 (Shigella flexneri 6)
-
-![](../../../csdb/images/188.gif)188
-
-ACF64132.1 (Salmonella enterica ssp. enterica sv. Newport), WP_000936592.1 (Salmonella enterica ssp. enterica sv. Newport)
-
-![](../../../csdb/images/28331.gif)28331
-
-AAM27766.1 (Pseudomonas aeruginosa O3)
-
-![](../../../csdb/images/24032.gif)24032
-
-AAZ85713.1 (Escherichia coli O138)
-
-![](../../../csdb/images/1880.gif)1880
-
-WP_000936589.1 (nan ssp. enterica sv. Kentucky O8 98/39), WP_001529369.1 (Salmonella enterica ssp. enterica sv. Kentucky O8 98/39)
-
-![](../../../csdb/images/27410.gif)27410
-
-ABI98986.1 (Escherichia coli O147)
-
-![](../../../csdb/images/1624.gif)1624
-
-ABE98437.1 (Escherichia coli O146)
-
-![](../../../csdb/images/1887.gif)1887
 
 ACD36996.1 (Escherichia coli O168)
 
 ![](../../../csdb/images/1910.gif)1910
 
-ADI43263.1 (Escherichia coli O25), ADC84238.1 (Escherichia coli O25)
+ACD37165.1 (Escherichia coli O13)
 
-![](../../../csdb/images/12694.gif)12694
+![](../../../csdb/images/1515.gif)1515
 
-AAY28257.1 (Escherichia coli O177)
+ACF64132.1 (Salmonella enterica ssp. enterica sv. Newport), WP_000936592.1 (Salmonella enterica ssp. enterica sv. Newport)
 
-![](../../../csdb/images/1919.gif)1919
+![](../../../csdb/images/28331.gif)28331
 
-BAQ01456.1 (Escherichia coli O100)
+AAZ85713.1 (Escherichia coli O138)
 
-![](../../../csdb/images/1838.gif)1838
+![](../../../csdb/images/1880.gif)1880
+
+ABU80601.1 (Shigella flexneri 6)
+
+![](../../../csdb/images/188.gif)188
+
+WP_000936589.1 (nan ssp. enterica sv. Kentucky O8 98/39), WP_001529369.1 (Salmonella enterica ssp. enterica sv. Kentucky O8 98/39)
+
+![](../../../csdb/images/27410.gif)27410
 
 ACD37181.1 (Escherichia coli O129)
 
 ![](../../../csdb/images/1870.gif)1870
 
-CAI33817.1 (Streptococcus pneumoniae 23A)
-
-![](../../../csdb/images/7084.gif)7084
-
-ACD37173.1 (Escherichia coli O135)
-
-![](../../../csdb/images/1877.gif)1877
-
-AAM27645.1 (Pseudomonas aeruginosa O15)
-
-![](../../../csdb/images/3929.gif)3929
-
 AAM27615.1 (Pseudomonas aeruginosa O13)
 
 ![](../../../csdb/images/24042.gif)24042
 
-ACD37165.1 (Escherichia coli O13)
+ACD37173.1 (Escherichia coli O135)
 
-![](../../../csdb/images/1515.gif)1515
-
-ACD36984.1 (Shigella dysenteriae 4)
-
-![](../../../csdb/images/1937.gif)1937
+![](../../../csdb/images/1877.gif)1877
 
 CAI33466.1 (Streptococcus pneumoniae 16F)
 
@@ -1261,23 +1115,49 @@ AAM27782.1 (Pseudomonas aeruginosa O4)
 
 ![](../../../csdb/images/24033.gif)24033
 
+ACD36984.1 (Shigella dysenteriae 4)
+
+![](../../../csdb/images/1937.gif)1937
+
+ABI98986.1 (Escherichia coli O147)
+
+![](../../../csdb/images/1624.gif)1624
+
+ADR74237.1 (Escherichia coli O109)
+
+![](../../../csdb/images/1848.gif)1848
+
+AAM27766.1 (Pseudomonas aeruginosa O3)
+
+![](../../../csdb/images/24032.gif)24032
+
+ADC84238.1 (Escherichia coli O25), ADI43263.1 (Escherichia coli O25)
+
+![](../../../csdb/images/12694.gif)12694
+
+AAM27645.1 (Pseudomonas aeruginosa O15)
+
+![](../../../csdb/images/3929.gif)3929
+
+CAI33817.1 (Streptococcus pneumoniae 23A)
+
+![](../../../csdb/images/7084.gif)7084
+
+AAY28257.1 (Escherichia coli O177)
+
+![](../../../csdb/images/1919.gif)1919
+
+ABE98437.1 (Escherichia coli O146)
+
+![](../../../csdb/images/1887.gif)1887
+
+BAQ01456.1 (Escherichia coli O100)
+
+![](../../../csdb/images/1838.gif)1838
+
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[CAI33817.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI33817.1/ranked_0.pdb)
-
-[ACD37165.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ACD37165.1/ranked_0.pdb)
-
-[ADI43263.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ADI43263.1/ranked_0.pdb)
-
-[ADR74237.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ADR74237.1/ranked_0.pdb)
-
-[ABI98986.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ABI98986.1/ranked_0.pdb)
-
-[AAM27615.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AAM27615.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -1400,19 +1280,23 @@ Total number of members in cluster: 284
 
 Y 540, R 543, Y 567, K 617, R 753, N 858
 
-#### Number of TMs:
-
-AAA97573.1: 12, BAQ00780.1: 10, AAC45857.1: 12, CDF66396.1: 11
-
 #### Sugars in supercluster:
-
-AAA97573.1 (Pseudomonas aeruginosa O5), AAM27801.1 (Pseudomonas aeruginosa O5), AAC45857.1 (Pseudomonas aeruginosa O5)
-
-![](../../../csdb/images/1672.gif)1672
 
 AAM27693.1 (Pseudomonas aeruginosa O18)
 
 ![](../../../csdb/images/7836.gif)7836
+
+AAA97573.1 (Pseudomonas aeruginosa O5), AAC45857.1 (Pseudomonas aeruginosa O5), AAM27801.1 (Pseudomonas aeruginosa O5)
+
+![](../../../csdb/images/1672.gif)1672
+
+CDF66396.1 (Yersinia similis O:9)
+
+![](../../../csdb/images/12130.gif)12130
+
+AAM27662.1 (Pseudomonas aeruginosa O16)
+
+![](../../../csdb/images/6654.gif)6654
 
 BAQ00780.1 (Escherichia coli O30)
 
@@ -1422,29 +1306,13 @@ AAM27728.1 (Pseudomonas aeruginosa O2)
 
 ![](../../../csdb/images/6565.gif)6565
 
-AAM27662.1 (Pseudomonas aeruginosa O16)
-
-![](../../../csdb/images/6654.gif)6654
-
 AAM27748.1 (Pseudomonas aeruginosa O20)
 
 ![](../../../csdb/images/6655.gif)6655
 
-CDF66396.1 (Yersinia similis O:9)
-
-![](../../../csdb/images/12130.gif)12130
-
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[CDF66396.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CDF66396.1/ranked_0.pdb)
-
-[AAA97573.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AAA97573.1/ranked_0.pdb)
-
-[AAC45857.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AAC45857.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -1567,31 +1435,27 @@ Total number of members in cluster: 260
 
 R 463, S 659, D 719, R 724, K 820
 
-#### Number of TMs:
-
-ACA24754.1: 8, ACD37046.1: 10, AFW04847.1: 9, BAQ00795.1: 10, BAQ01659.1: 12, AHB32563.2: 10, ACA24764.1: 8, BAQ02088.1: 11, ACD37037.1: 10
-
 #### Sugars in supercluster:
-
-ACA24754.1 (Shigella boydii 8), ACA24764.1 (Escherichia coli O143)
-
-![](../../../csdb/images/1885.gif)1885
-
-ACD37046.1 (Escherichia coli O167), ACD37037.1 (Shigella boydii 3)
-
-![](../../../csdb/images/1909.gif)1909
-
-AFW04847.1 (Salmonella enterica O59)
-
-![](../../../csdb/images/3362.gif)3362
 
 BAQ00795.1 (Escherichia coli O33)
 
 ![](../../../csdb/images/1401.gif)1401
 
+ACD37037.1 (Shigella boydii 3), ACD37046.1 (Escherichia coli O167)
+
+![](../../../csdb/images/1909.gif)1909
+
 BAQ01659.1 (Escherichia coli O132)
 
 ![](../../../csdb/images/1874.gif)1874
+
+ACA24754.1 (Shigella boydii 8), ACA24764.1 (Escherichia coli O143)
+
+![](../../../csdb/images/1885.gif)1885
+
+AFW04847.1 (Salmonella enterica O59)
+
+![](../../../csdb/images/3362.gif)3362
 
 BAQ02088.1 (Escherichia coli O187)
 
@@ -1600,16 +1464,6 @@ BAQ02088.1 (Escherichia coli O187)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[BAQ00795.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ00795.1/ranked_0.pdb)
-
-[BAQ01659.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ01659.1/ranked_0.pdb)
-
-[BAQ02088.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ02088.1/ranked_0.pdb)
-
-[ACA24754.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ACA24754.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -1691,27 +1545,19 @@ Total number of members in cluster: 252
 
 Y 485, R 488, Y 510, K 559, R 690, N 800
 
-#### Number of TMs:
-
-BAQ00780.1: 10, CDF66396.1: 11
-
 #### Sugars in supercluster:
-
-BAQ00780.1 (Escherichia coli O30)
-
-![](../../../csdb/images/1539.gif)1539
 
 CDF66396.1 (Yersinia similis O:9)
 
 ![](../../../csdb/images/12130.gif)12130
 
+BAQ00780.1 (Escherichia coli O30)
+
+![](../../../csdb/images/1539.gif)1539
+
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[CDF66396.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CDF66396.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -1830,35 +1676,31 @@ Total number of members in cluster: 250
 
 D 226, Y 231, R 358, H 395, Y 522, R 660
 
-#### Number of TMs:
-
-BAQ00622.1: 10, AQU71752.1: 10, AFV46136.1: 11, ABX51892.1: 10, ADC54967.1: 10, AFW04820.1: 10, AFW04883.1: 8, BAQ01024.1: 9
-
 #### Sugars in supercluster:
-
-BAQ00622.1 (Escherichia coli O10)
-
-![](../../../csdb/images/1512.gif)1512
-
-AQU71752.1 (Escherichia coli O1)
-
-![](../../../csdb/images/7222.gif)7222
 
 ABX51892.1 (Cronobacter sakazakii O2)
 
 ![](../../../csdb/images/27572.gif)27572
 
-ADC54967.1 (Escherichia coli O75)
+AQU71752.1 (Escherichia coli O1)
 
-![](../../../csdb/images/619.gif)619
-
-AFW04820.1 (Salmonella enterica O11)
-
-![](../../../csdb/images/2600.gif)2600
+![](../../../csdb/images/7222.gif)7222
 
 AFW04883.1 (Salmonella enterica O57)
 
 ![](../../../csdb/images/701.gif)701
+
+ADC54967.1 (Escherichia coli O75)
+
+![](../../../csdb/images/619.gif)619
+
+BAQ00622.1 (Escherichia coli O10)
+
+![](../../../csdb/images/1512.gif)1512
+
+AFW04820.1 (Salmonella enterica O11)
+
+![](../../../csdb/images/2600.gif)2600
 
 BAQ01024.1 (Escherichia coli O51)
 
@@ -1867,10 +1709,6 @@ BAQ01024.1 (Escherichia coli O51)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[ADC54967.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ADC54967.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -1956,10 +1794,6 @@ Total number of members in cluster: 221
 
 R 213, D 219, Y 223, R 396, Q 397, H 438, Y 563, R 604, D 681, R 682
 
-#### Number of TMs:
-
-AHB32799.1: 10, AHB32215.1: 11, AHB32861.1: 9
-
 #### Sugars in supercluster:
 
 AHB32215.1 (Acinetobacter baumannii O1)
@@ -1969,12 +1803,6 @@ AHB32215.1 (Acinetobacter baumannii O1)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[AHB32215.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AHB32215.1/ranked_0.pdb)
-
-[AHB32861.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AHB32861.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -2078,11 +1906,31 @@ Total number of members in cluster: 157
 
 R 499, R 813
 
-#### Number of TMs:
-
-ABF01010.1: 11, CAI32705.1: 12, CAD19991.1: 12, ACH97132.1: 11, CAI32772.1: 12, AHB32510.1: 14, ABE98413.1: 11, CAI33983.1: 14, CAI34407.1: 14, BAQ02048.1: 11, CAI33966.2: 14, AFW04706.1: 14, ADT75640.1: 12, AHB32490.1: 14, ACK44379.1: 11, ACH97143.1: 11
-
 #### Sugars in supercluster:
+
+CAD19991.1 (Escherichia coli O6), WP_000864940.1 (Escherichia coli O6), ADT75640.1 (Escherichia coli O6)
+
+![](../../../csdb/images/114261.gif)114261
+
+CAI32772.1 (Streptococcus pneumoniae 4)
+
+![](../../../csdb/images/805.gif)805
+
+AAM27546.1 (Pseudomonas aeruginosa O1)
+
+![](../../../csdb/images/6636.gif)6636
+
+ACH97143.1 (Escherichia coli O117), ABE98413.1 (Escherichia coli O117)
+
+![](../../../csdb/images/1857.gif)1857
+
+ACH97132.1 (Escherichia coli O107)
+
+![](../../../csdb/images/1846.gif)1846
+
+BAQ02048.1 (Escherichia coli O185)
+
+![](../../../csdb/images/1929.gif)1929
 
 ABF01010.1 (Escherichia coli O28ac)
 
@@ -2092,45 +1940,13 @@ CAI32705.1 (Streptococcus pneumoniae 1)
 
 ![](../../../csdb/images/31499.gif)31499
 
-CAD19991.1 (Escherichia coli O6), WP_000864940.1 (Escherichia coli O6), ADT75640.1 (Escherichia coli O6)
-
-![](../../../csdb/images/114261.gif)114261
-
-ACH97132.1 (Escherichia coli O107)
-
-![](../../../csdb/images/1846.gif)1846
-
-CAI32772.1 (Streptococcus pneumoniae 4)
-
-![](../../../csdb/images/805.gif)805
-
-ABE98413.1 (Escherichia coli O117), ACH97143.1 (Escherichia coli O117)
-
-![](../../../csdb/images/1857.gif)1857
-
-BAQ02048.1 (Escherichia coli O185)
-
-![](../../../csdb/images/1929.gif)1929
-
 ACK44379.1 (Escherichia coli O42)
 
 ![](../../../csdb/images/1549.gif)1549
 
-AAM27546.1 (Pseudomonas aeruginosa O1)
-
-![](../../../csdb/images/6636.gif)6636
-
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[AHB32490.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AHB32490.1/ranked_0.pdb)
-
-[CAI32705.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI32705.1/ranked_0.pdb)
-
-[CAI32772.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI32772.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -2203,27 +2019,23 @@ Total number of members in cluster: 144
 
 K 347, R 428
 
-#### Number of TMs:
-
-BAQ00569.1: 11, CBN82200.1: 13, ADI77033.1: 11, AFN02899.1: 9, AAT77177.1: 11
-
 #### Sugars in supercluster:
 
-BAQ00569.1 (Escherichia coli O5)
+AFN02899.1 (Escherichia coli O180)
 
-![](../../../csdb/images/3191.gif)3191
+![](../../../csdb/images/704.gif)704
 
 CBN82200.1 (Escherichia coli O70)
 
 ![](../../../csdb/images/1576.gif)1576
 
+BAQ00569.1 (Escherichia coli O5)
+
+![](../../../csdb/images/3191.gif)3191
+
 ADI77033.1 (Escherichia coli O71)
 
 ![](../../../csdb/images/1577.gif)1577
-
-AFN02899.1 (Escherichia coli O180)
-
-![](../../../csdb/images/704.gif)704
 
 AAT77177.1 (Escherichia coli O114)
 
@@ -2232,12 +2044,6 @@ AAT77177.1 (Escherichia coli O114)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[CBN82200.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CBN82200.1/ranked_0.pdb)
-
-[AAT77177.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AAT77177.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -2312,27 +2118,19 @@ Total number of members in cluster: 141
 
 R 583, Y 623, D 654
 
-#### Number of TMs:
-
-CAI34124.1: 12, CAI34150.1: 12, CAI34680.1: 11
-
 #### Sugars in supercluster:
-
-CAI34124.1 (Streptococcus pneumoniae 32A)
-
-![](../../../csdb/images/918.gif)918
 
 CAI34150.1 (Streptococcus pneumoniae 32F)
 
 ![](../../../csdb/images/848.gif)848
 
+CAI34124.1 (Streptococcus pneumoniae 32A)
+
+![](../../../csdb/images/918.gif)918
+
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[CAI34124.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI34124.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -2402,41 +2200,33 @@ Total number of members in cluster: 132
 
 R 377, Y 486, N 584, D 595
 
-#### Number of TMs:
-
-CAI33700.1: 9, CAI33631.1: 9, CAI32843.1: 11, CAI32823.1: 11, CAI34269.1: 11
-
 #### Sugars in supercluster:
 
-CAI33700.1 (Streptococcus pneumoniae 19F), VSB76654.1 (Streptococcus pneumoniae 19F), CMX58981.1 (Streptococcus pneumoniae 19F), VNC99741.1 (Streptococcus pneumoniae 19F)
+VMG48693.1 (Streptococcus pneumoniae 34), CAI34269.1 (Streptococcus pneumoniae 34)
+
+![](../../../csdb/images/7043.gif)7043
+
+CAI33700.1 (Streptococcus pneumoniae 19F), CMX58981.1 (Streptococcus pneumoniae 19F), VSB76654.1 (Streptococcus pneumoniae 19F), VNC99741.1 (Streptococcus pneumoniae 19F)
 
 ![](../../../csdb/images/739.gif)739
-
-CAI33631.1 (Streptococcus pneumoniae 19A), VOS41126.1 (Streptococcus pneumoniae 19A)
-
-![](../../../csdb/images/740.gif)740
 
 CAI32843.1 (Streptococcus pneumoniae 6B)
 
 ![](../../../csdb/images/937.gif)937
 
-CAI32823.1 (Streptococcus pneumoniae 6A), AAL82786.1 (Streptococcus pneumoniae 6A)
+CAI33631.1 (Streptococcus pneumoniae 19A), VOS41126.1 (Streptococcus pneumoniae 19A)
+
+![](../../../csdb/images/740.gif)740
+
+AAL82786.1 (Streptococcus pneumoniae 6A), CAI32823.1 (Streptococcus pneumoniae 6A)
 
 ![](../../../csdb/images/1087.gif)1087
-
-CAI34269.1 (Streptococcus pneumoniae 34), VMG48693.1 (Streptococcus pneumoniae 34)
-
-![](../../../csdb/images/7043.gif)7043
 
 #### Additional sugars from blast hits:
 
 VJK41440.1 (Streptococcus pneumoniae 6C)
 
 ![](../../../csdb/images/3661.gif)3661
-
-#### Alphafold models:
-
-None
 
 #### Taxonomy:
 
@@ -2503,29 +2293,21 @@ Total number of members in cluster: 129
 
 R 165, D 172, Y 177, R 300, H 338, R 549
 
-#### Number of TMs:
-
-AHB32637.1: 8, CAI33718.1: 10, AHB32715.1: 8
-
 #### Sugars in supercluster:
-
-AHB32637.1 (Acinetobacter baumannii O23), AHB32715.1 (Acinetobacter baumannii O23)
-
-![](../../../csdb/images/563.gif)563
 
 CAI33718.1 (Streptococcus pneumoniae 20)
 
 ![](../../../csdb/images/1928.gif)1928
+
+AHB32715.1 (Acinetobacter baumannii O23), AHB32637.1 (Acinetobacter baumannii O23)
+
+![](../../../csdb/images/563.gif)563
 
 #### Additional sugars from blast hits:
 
 VLD07009.1 (Streptococcus pneumoniae 20A)
 
 ![](../../../csdb/images/7079.gif)7079
-
-#### Alphafold models:
-
-None
 
 #### Taxonomy:
 
@@ -2591,13 +2373,9 @@ Total number of members in cluster: 128
 
 R 295, R 362, Y 422, Y 424, N 431
 
-#### Number of TMs:
-
-AFC91419.1: 10, AHB32411.1: 10, AAX07747.1: 10, AFC91458.1: 10
-
 #### Sugars in supercluster:
 
-AFC91419.1 (Escherichia coli O45), AAX07747.1 (Escherichia coli O45), AFC91458.1 (Escherichia coli O45)
+AFC91419.1 (Escherichia coli O45), AFC91458.1 (Escherichia coli O45), AAX07747.1 (Escherichia coli O45)
 
 ![](../../../csdb/images/1552.gif)1552
 
@@ -2608,10 +2386,6 @@ AHB32411.1 (Acinetobacter baumannii O10)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[AHB32411.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AHB32411.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -2680,10 +2454,6 @@ Total number of members in cluster: 126
 
 D 33, R 42, Y 118, K 120, Q 159, S 199, E 200, Q 204, Y 206, R 207, T 212, S 220, R 261, S 270, Y 274, Y 283, H 310, E 313, N 317, S 345, Q 361, D 366, Y 369, Y 380, Y 381, D 385, S 386, R 390, Q 391, Y 394, Y 399, S 430, K 441, D 443
 
-#### Number of TMs:
-
-BAQ00795.1: 10
-
 #### Sugars in supercluster:
 
 BAQ00795.1 (Escherichia coli O33)
@@ -2693,10 +2463,6 @@ BAQ00795.1 (Escherichia coli O33)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[BAQ00795.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ00795.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -2734,19 +2500,15 @@ Total number of members in cluster: 123
 
 R 246, K 320, R 398, K 514
 
-#### Number of TMs:
-
-BAQ00569.1: 11, AFN02899.1: 9, AAT77177.1: 11
-
 #### Sugars in supercluster:
-
-BAQ00569.1 (Escherichia coli O5)
-
-![](../../../csdb/images/3191.gif)3191
 
 AFN02899.1 (Escherichia coli O180)
 
 ![](../../../csdb/images/704.gif)704
+
+BAQ00569.1 (Escherichia coli O5)
+
+![](../../../csdb/images/3191.gif)3191
 
 AAT77177.1 (Escherichia coli O114)
 
@@ -2755,10 +2517,6 @@ AAT77177.1 (Escherichia coli O114)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[AAT77177.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AAT77177.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -2825,83 +2583,67 @@ Total number of members in cluster: 120
 
 R 417, R 490
 
-#### Number of TMs:
-
-ADB02825.1: 8, AJR19430.1: 7, BAH24292.1: 8, AAT28922.1: 10, BAQ01843.1: 9, AKA20948.1: 7, ABG81806.1: 10, AAO39700.1: 9, AFC91570.1: 9, BAQ02224.1: 10, AAD44158.1: 8, BAQ00879.1: 9, ACV52983.1: 9, AFC91514.1: 9, AAZ20761.1: 13, CAB63298.1: 9, BAQ00758.1: 8, AAR97964.1: 9, AFC91472.1: 9, AAR24270.1: 10, BAQ02068.1: 10, ACV53000.1: 9
-
 #### Sugars in supercluster:
 
 ADB02825.1 (Escherichia coli O119)
 
 ![](../../../csdb/images/1859.gif)1859
 
-AJR19430.1 (Escherichia coli O186), BAQ02068.1 (Escherichia coli O186)
-
-![](../../../csdb/images/1933.gif)1933
-
 BAH24292.1 (Escherichia coli O7), AAD44158.1 (Escherichia coli O7)
 
 ![](../../../csdb/images/1385.gif)1385
-
-AAT28922.1 (Escherichia coli O172)
-
-![](../../../csdb/images/1914.gif)1914
-
-BAQ01843.1 (Escherichia coli O163)
-
-![](../../../csdb/images/1905.gif)1905
-
-AKA20948.1 (Yersinia pseudotuberculosis O:3)
-
-![](../../../csdb/images/12133.gif)12133
-
-ABG81806.1 (Escherichia coli O123), BAQ02224.1 (Escherichia coli O123)
-
-![](../../../csdb/images/697.gif)697
-
-AAO39700.1 (Escherichia coli O121), AFC91570.1 (Escherichia coli O121), AFC91514.1 (Escherichia coli O121), AFC91472.1 (Escherichia coli O121)
-
-![](../../../csdb/images/1861.gif)1861
 
 BAQ00879.1 (Escherichia coli O39)
 
 ![](../../../csdb/images/1383.gif)1383
 
-ACV52983.1 (Yersinia pseudotuberculosis O:11)
+AAR24270.1 (Shigella boydii 13)
 
-![](../../../csdb/images/12124.gif)12124
+![](../../../csdb/images/1405.gif)1405
 
 AAZ20761.1 (Escherichia coli O66)
 
 ![](../../../csdb/images/1573.gif)1573
 
+BAQ01843.1 (Escherichia coli O163)
+
+![](../../../csdb/images/1905.gif)1905
+
+AFC91472.1 (Escherichia coli O121), AFC91570.1 (Escherichia coli O121), AFC91514.1 (Escherichia coli O121), AAO39700.1 (Escherichia coli O121)
+
+![](../../../csdb/images/1861.gif)1861
+
 BAQ00758.1 (Escherichia coli O28ab)
 
 ![](../../../csdb/images/736.gif)736
+
+BAQ02224.1 (Escherichia coli O123), ABG81806.1 (Escherichia coli O123)
+
+![](../../../csdb/images/697.gif)697
+
+BAQ02068.1 (Escherichia coli O186), AJR19430.1 (Escherichia coli O186)
+
+![](../../../csdb/images/1933.gif)1933
 
 AAR97964.1 (Shigella dysenteriae 7)
 
 ![](../../../csdb/images/108660.gif)108660
 
-AAR24270.1 (Shigella boydii 13)
+ACV52983.1 (Yersinia pseudotuberculosis O:11)
 
-![](../../../csdb/images/1405.gif)1405
+![](../../../csdb/images/12124.gif)12124
+
+AKA20948.1 (Yersinia pseudotuberculosis O:3)
+
+![](../../../csdb/images/12133.gif)12133
+
+AAT28922.1 (Escherichia coli O172)
+
+![](../../../csdb/images/1914.gif)1914
 
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[CAB63298.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAB63298.1/ranked_0.pdb)
-
-[ABG81806.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ABG81806.1/ranked_0.pdb)
-
-[BAQ01843.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ01843.1/ranked_0.pdb)
-
-[AFC91472.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AFC91472.1/ranked_0.pdb)
-
-[BAQ02224.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ02224.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -2953,15 +2695,19 @@ Total number of members in cluster: 118
 
 R 501, N 502, E 508, S 680
 
-#### Number of TMs:
-
-CAI34236.1: 11, CAI34177.1: 10, CAI34198.1: 11, CAI34217.1: 12, CAI34254.1: 10
-
 #### Sugars in supercluster:
 
-CAI34236.1 (Streptococcus pneumoniae 33D), VIU37569.1 (Streptococcus pneumoniae 33D)
+VQJ42306.1 (Streptococcus pneumoniae 33F), CAI34254.1 (Streptococcus pneumoniae 33F)
+
+![](../../../csdb/images/1965.gif)1965
+
+VIU37569.1 (Streptococcus pneumoniae 33D), CAI34236.1 (Streptococcus pneumoniae 33D)
 
 ![](../../../csdb/images/7094.gif)7094
+
+CAI34217.1 (Streptococcus pneumoniae 33C)
+
+![](../../../csdb/images/7093.gif)7093
 
 CAI34177.1 (Streptococcus pneumoniae 33A)
 
@@ -2971,25 +2717,9 @@ CAI34198.1 (Streptococcus pneumoniae 33B)
 
 ![](../../../csdb/images/7092.gif)7092
 
-CAI34217.1 (Streptococcus pneumoniae 33C)
-
-![](../../../csdb/images/7093.gif)7093
-
-CAI34254.1 (Streptococcus pneumoniae 33F), VQJ42306.1 (Streptococcus pneumoniae 33F)
-
-![](../../../csdb/images/1965.gif)1965
-
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[CAI34254.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI34254.1/ranked_0.pdb)
-
-[CAI34198.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI34198.1/ranked_0.pdb)
-
-[CAI34217.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI34217.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -3037,10 +2767,6 @@ Total number of members in cluster: 104
 
 Q 248, R 296, R 364, S 481, D 531, R 536
 
-#### Number of TMs:
-
-ACA24754.1: 8, AFW04847.1: 9, AHB32563.2: 10, ACA24764.1: 8, BAQ02088.1: 11
-
 #### Sugars in supercluster:
 
 ACA24754.1 (Shigella boydii 8), ACA24764.1 (Escherichia coli O143)
@@ -3058,12 +2784,6 @@ BAQ02088.1 (Escherichia coli O187)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[BAQ02088.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ02088.1/ranked_0.pdb)
-
-[ACA24754.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ACA24754.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -3122,23 +2842,19 @@ Total number of members in cluster: 101
 
 D 399, E 463, R 601
 
-#### Number of TMs:
-
-CAI33343.1: 12, CAI32867.1: 12, CAI33412.1: 12, CAI32935.1: 12
-
 #### Sugars in supercluster:
 
-VSN79485.1 (Streptococcus pneumoniae 15A), CAI33343.1 (Streptococcus pneumoniae 15A)
+CAI33343.1 (Streptococcus pneumoniae 15A), VSN79485.1 (Streptococcus pneumoniae 15A)
 
 ![](../../../csdb/images/2973.gif)2973
-
-VQD68897.1 (Streptococcus pneumoniae 15F), CAI33412.1 (Streptococcus pneumoniae 15F)
-
-![](../../../csdb/images/2972.gif)2972
 
 CAI32867.1 (Streptococcus pneumoniae 7A)
 
 ![](../../../csdb/images/2624.gif)2624
+
+VQD68897.1 (Streptococcus pneumoniae 15F), CAI33412.1 (Streptococcus pneumoniae 15F)
+
+![](../../../csdb/images/2972.gif)2972
 
 CAI32935.1 (Streptococcus pneumoniae 7F)
 
@@ -3147,10 +2863,6 @@ CAI32935.1 (Streptococcus pneumoniae 7F)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[CAI33412.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI33412.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -3203,10 +2915,6 @@ Total number of members in cluster: 92
 
 D 392, E 456, R 587
 
-#### Number of TMs:
-
-CAI32867.1: 12, CAI32935.1: 12
-
 #### Sugars in supercluster:
 
 CAI32867.1 (Streptococcus pneumoniae 7A)
@@ -3218,10 +2926,6 @@ CAI32935.1 (Streptococcus pneumoniae 7F)
 ![](../../../csdb/images/1949.gif)1949
 
 #### Additional sugars from blast hits:
-
-None
-
-#### Alphafold models:
 
 None
 
@@ -3273,49 +2977,37 @@ Total number of members in cluster: 81
 
 D 140, R 260, H 303, Y 404, R 501
 
-#### Number of TMs:
-
-AAD50486.1: 11, ADI43271.1: 11, BAQ01999.1: 12, ACD37086.1: 9, ACD37078.1: 9, ADV17650.1: 11
-
 #### Sugars in supercluster:
-
-AAD50486.1 (Escherichia coli O113)
-
-![](../../../csdb/images/1853.gif)1853
-
-ADI43271.1 (Escherichia coli O27)
-
-![](../../../csdb/images/1535.gif)1535
-
-BAQ01999.1 (Escherichia coli O181)
-
-![](../../../csdb/images/1923.gif)1923
 
 ACD37086.1 (Escherichia coli O112ab)
 
 ![](../../../csdb/images/705.gif)705
 
-ACD37078.1 (Shigella boydii 15)
+AAD50486.1 (Escherichia coli O113)
 
-![](../../../csdb/images/1851.gif)1851
+![](../../../csdb/images/1853.gif)1853
+
+BAQ01999.1 (Escherichia coli O181)
+
+![](../../../csdb/images/1923.gif)1923
 
 ADV17650.1 (Escherichia coli O11)
 
 ![](../../../csdb/images/1513.gif)1513
+
+ACD37078.1 (Shigella boydii 15)
+
+![](../../../csdb/images/1851.gif)1851
+
+ADI43271.1 (Escherichia coli O27)
+
+![](../../../csdb/images/1535.gif)1535
 
 #### Additional sugars from blast hits:
 
 AXY99682.1 (Proteus vulgaris O34)
 
 ![](../../../csdb/images/20104.gif)20104
-
-#### Alphafold models:
-
-[ADI43271.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ADI43271.1/ranked_0.pdb)
-
-[AAD50486.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AAD50486.1/ranked_0.pdb)
-
-[ACD37078.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ACD37078.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -3350,35 +3042,27 @@ Total number of members in cluster: 80
 
 Y 261, R 340, R 401
 
-#### Number of TMs:
-
-ABF01010.1: 11, AHB32510.1: 14, BAQ02048.1: 11, AHB32490.1: 14, ACK44379.1: 11
-
 #### Sugars in supercluster:
-
-ABF01010.1 (Escherichia coli O28ac)
-
-![](../../../csdb/images/1537.gif)1537
-
-BAQ02048.1 (Escherichia coli O185)
-
-![](../../../csdb/images/1929.gif)1929
-
-ACK44379.1 (Escherichia coli O42)
-
-![](../../../csdb/images/1549.gif)1549
 
 AAM27546.1 (Pseudomonas aeruginosa O1)
 
 ![](../../../csdb/images/6636.gif)6636
 
+BAQ02048.1 (Escherichia coli O185)
+
+![](../../../csdb/images/1929.gif)1929
+
+ABF01010.1 (Escherichia coli O28ac)
+
+![](../../../csdb/images/1537.gif)1537
+
+ACK44379.1 (Escherichia coli O42)
+
+![](../../../csdb/images/1549.gif)1549
+
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[AHB32490.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AHB32490.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -3422,51 +3106,39 @@ Total number of members in cluster: 79
 
 Q 217, D 232, R 245, R 261, E 268, S 313, D 451, K 500
 
-#### Number of TMs:
-
-BAQ00994.1: 9, AFW04837.1: 10, BAQ01917.1: 9, BAQ01533.1: 8, ADC54974.1: 8, CAN87666.1: 10, AFW04828.1: 10
-
 #### Sugars in supercluster:
-
-BAQ00994.1 (Escherichia coli O49)
-
-![](../../../csdb/images/1556.gif)1556
-
-AFW04837.1 (Salmonella enterica O53)
-
-![](../../../csdb/images/26312.gif)26312
 
 BAQ01917.1 (Escherichia coli O175)
 
 ![](../../../csdb/images/1917.gif)1917
 
-BAQ01533.1 (Escherichia coli O110)
+AFW04828.1 (Salmonella enterica O44)
 
-![](../../../csdb/images/1849.gif)1849
+![](../../../csdb/images/3367.gif)3367
 
 ADC54974.1 (Escherichia coli O85)
 
 ![](../../../csdb/images/1591.gif)1591
 
+AFW04837.1 (Salmonella enterica O53)
+
+![](../../../csdb/images/26312.gif)26312
+
 CAN87666.1 (Escherichia coli O45)
 
 ![](../../../csdb/images/1552.gif)1552
 
-AFW04828.1 (Salmonella enterica O44)
+BAQ01533.1 (Escherichia coli O110)
 
-![](../../../csdb/images/3367.gif)3367
+![](../../../csdb/images/1849.gif)1849
+
+BAQ00994.1 (Escherichia coli O49)
+
+![](../../../csdb/images/1556.gif)1556
 
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[BAQ00994.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ00994.1/ranked_0.pdb)
-
-[BAQ01533.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ01533.1/ranked_0.pdb)
-
-[BAQ01917.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ01917.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -3502,10 +3174,6 @@ Total number of members in cluster: 79
 
 Q 80, R 247, R 293, E 369, Q 404, K 411, T 458, H 514
 
-#### Number of TMs:
-
-
-
 #### Sugars in supercluster:
 
 WP_097449287.1 (Escherichia coli O57)
@@ -3515,10 +3183,6 @@ WP_097449287.1 (Escherichia coli O57)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[WP_097449287.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/WP_097449287.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -3568,10 +3232,6 @@ Total number of members in cluster: 78
 
 R 213, K 295, R 390, D 396
 
-#### Number of TMs:
-
-AIG62684.1: 11, ACD75796.1: 11
-
 #### Sugars in supercluster:
 
 ACD75796.1 (Escherichia coli O63)
@@ -3583,10 +3243,6 @@ ACD75796.1 (Escherichia coli O63)
 AXY99492.1 (Proteus vulgaris O17)
 
 ![](../../../csdb/images/5227.gif)5227
-
-#### Alphafold models:
-
-[ACD75796.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ACD75796.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -3634,10 +3290,6 @@ Total number of members in cluster: 75
 
 E 267, S 269, Y 372, R 376, N 388, N 452, D 455, K 462, E 466
 
-#### Number of TMs:
-
-ADR74237.1: 11, ADI43263.1: 10
-
 #### Sugars in supercluster:
 
 ADR74237.1 (Escherichia coli O109)
@@ -3651,12 +3303,6 @@ ADC84238.1 (Escherichia coli O25), ADI43263.1 (Escherichia coli O25)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[ADI43263.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ADI43263.1/ranked_0.pdb)
-
-[ADR74237.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ADR74237.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -3701,19 +3347,7 @@ Total number of members in cluster: 73
 
 R 360, E 367, S 418, R 520, R 536
 
-#### Number of TMs:
-
-AAK60458.1: 12, BAQ01793.1: 10, BAQ01878.1: 12, BAQ01238.1: 11
-
 #### Sugars in supercluster:
-
-AAK60458.1 (Escherichia coli O91)
-
-![](../../../csdb/images/895.gif)895
-
-BAQ01793.1 (Escherichia coli O156)
-
-![](../../../csdb/images/1897.gif)1897
 
 BAQ01878.1 (Escherichia coli O170)
 
@@ -3723,15 +3357,17 @@ BAQ01238.1 (Escherichia coli O80)
 
 ![](../../../csdb/images/11285.gif)11285
 
+AAK60458.1 (Escherichia coli O91)
+
+![](../../../csdb/images/895.gif)895
+
+BAQ01793.1 (Escherichia coli O156)
+
+![](../../../csdb/images/1897.gif)1897
+
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[AAK60458.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AAK60458.1/ranked_0.pdb)
-
-[BAQ01793.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ01793.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -3774,35 +3410,27 @@ Total number of members in cluster: 70
 
 R 308, R 309, R 453, Q 456, R 491, E 500, Y 503
 
-#### Number of TMs:
-
-AAZ85713.1: 12
-
 #### Sugars in supercluster:
-
-AAM27766.1 (Pseudomonas aeruginosa O3)
-
-![](../../../csdb/images/24032.gif)24032
 
 AAM27645.1 (Pseudomonas aeruginosa O15)
 
 ![](../../../csdb/images/3929.gif)3929
 
-AAZ85713.1 (Escherichia coli O138)
-
-![](../../../csdb/images/1880.gif)1880
-
 AAM27615.1 (Pseudomonas aeruginosa O13)
 
 ![](../../../csdb/images/24042.gif)24042
 
+AAZ85713.1 (Escherichia coli O138)
+
+![](../../../csdb/images/1880.gif)1880
+
+AAM27766.1 (Pseudomonas aeruginosa O3)
+
+![](../../../csdb/images/24032.gif)24032
+
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[AAM27615.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AAM27615.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -3853,37 +3481,29 @@ Total number of members in cluster: 68
 
 R 237, K 305, R 351, Y 376, N 444, D 455, Y 492
 
-#### Number of TMs:
-
-BAQ01732.1: 11, ADC54950.1: 9, BAQ00669.1: 10, BAQ00687.1: 10
-
 #### Sugars in supercluster:
-
-BAQ01732.1 (Escherichia coli O142)
-
-![](../../../csdb/images/1884.gif)1884
 
 ADC54950.1 (Escherichia coli O18)
 
 ![](../../../csdb/images/20645.gif)20645
 
-BAQ00669.1 (Escherichia coli O18ab)
+BAQ01732.1 (Escherichia coli O142)
 
-![](../../../csdb/images/1524.gif)1524
+![](../../../csdb/images/1884.gif)1884
 
 BAQ00687.1 (Escherichia coli O18ac)
 
 ![](../../../csdb/images/1521.gif)1521
+
+BAQ00669.1 (Escherichia coli O18ab)
+
+![](../../../csdb/images/1524.gif)1524
 
 #### Additional sugars from blast hits:
 
 ARD51912.1 (Escherichia coli O68)
 
 ![](../../../csdb/images/1574.gif)1574
-
-#### Alphafold models:
-
-[ADC54950.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ADC54950.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -3921,15 +3541,11 @@ Total number of members in cluster: 67
 
 R 393, H 453
 
-#### Number of TMs:
-
-CAI33169.1: 11, CAI33207.1: 12, CAI33491.1: 9, CAI33011.1: 9, CAI33515.1: 12, CAI33128.1: 12, CAI32993.1: 9, CAI33188.1: 12, CAI32973.1: 9, CAI33149.1: 11, CAI33029.1: 9
-
 #### Sugars in supercluster:
 
-CAI33169.1 (Streptococcus pneumoniae 11C)
+CAI32973.1 (Streptococcus pneumoniae 9A)
 
-![](../../../csdb/images/31003.gif)31003
+![](../../../csdb/images/112112.gif)112112
 
 CAI33207.1 (Streptococcus pneumoniae 11F)
 
@@ -3939,29 +3555,25 @@ CAI33491.1 (Streptococcus pneumoniae 17A)
 
 ![](../../../csdb/images/7070.gif)7070
 
-VIQ20135.1 (Streptococcus pneumoniae 17F), CAI33515.1 (Streptococcus pneumoniae 17F)
+CAI33188.1 (Streptococcus pneumoniae 11D)
+
+![](../../../csdb/images/7056.gif)7056
+
+CAI33169.1 (Streptococcus pneumoniae 11C)
+
+![](../../../csdb/images/31003.gif)31003
+
+CAI33515.1 (Streptococcus pneumoniae 17F), VIQ20135.1 (Streptococcus pneumoniae 17F)
 
 ![](../../../csdb/images/815.gif)815
-
-CAI33011.1 (Streptococcus pneumoniae 9N)
-
-![](../../../csdb/images/7415.gif)7415
-
-CAI33128.1 (Streptococcus pneumoniae 11A)
-
-![](../../../csdb/images/1493.gif)1493
 
 CAI32993.1 (Streptococcus pneumoniae 9L)
 
 ![](../../../csdb/images/7046.gif)7046
 
-CAI33188.1 (Streptococcus pneumoniae 11D)
+CAI33011.1 (Streptococcus pneumoniae 9N)
 
-![](../../../csdb/images/7056.gif)7056
-
-CAI32973.1 (Streptococcus pneumoniae 9A)
-
-![](../../../csdb/images/112112.gif)112112
+![](../../../csdb/images/7415.gif)7415
 
 CAI33149.1 (Streptococcus pneumoniae 11B)
 
@@ -3971,19 +3583,15 @@ CAI33029.1 (Streptococcus pneumoniae 9V)
 
 ![](../../../csdb/images/320.gif)320
 
+CAI33128.1 (Streptococcus pneumoniae 11A)
+
+![](../../../csdb/images/1493.gif)1493
+
 #### Additional sugars from blast hits:
 
 CZE39046.1 (Streptococcus pneumoniae 5)
 
 ![](../../../csdb/images/1947.gif)1947
-
-#### Alphafold models:
-
-[CAI33029.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI33029.1/ranked_0.pdb)
-
-[CAI33149.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI33149.1/ranked_0.pdb)
-
-[CAI33491.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI33491.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -4019,51 +3627,39 @@ Total number of members in cluster: 65
 
 R 189, K 219, D 227, S 228, N 229, S 283, R 284, D 368, S 370, K 374, H 416, E 425
 
-#### Number of TMs:
-
-BAQ01494.1: 10, ACD37014.1: 10, AFS33314.1: 10, BAQ00975.1: 10, ACD37157.1: 10, BAQ00846.1: 11, AHB32538.1: 10, ACD37006.1: 10, AFW04741.1: 11
-
 #### Sugars in supercluster:
-
-BAQ01494.1 (Escherichia coli O102), AFS33314.1 (Escherichia coli O102)
-
-![](../../../csdb/images/1841.gif)1841
-
-ACD37014.1 (Escherichia coli O112ac)
-
-![](../../../csdb/images/1852.gif)1852
 
 BAQ00975.1 (Escherichia coli O48)
 
 ![](../../../csdb/images/1555.gif)1555
 
-ACD37157.1 (Escherichia coli O130)
-
-![](../../../csdb/images/1871.gif)1871
-
 BAQ00846.1 (Escherichia coli O37)
 
 ![](../../../csdb/images/1544.gif)1544
-
-ACD37006.1 (Shigella dysenteriae 2)
-
-![](../../../csdb/images/1869.gif)1869
 
 AFW04741.1 (Salmonella enterica O21)
 
 ![](../../../csdb/images/30351.gif)30351
 
+BAQ01494.1 (Escherichia coli O102), AFS33314.1 (Escherichia coli O102)
+
+![](../../../csdb/images/1841.gif)1841
+
+ACD37006.1 (Shigella dysenteriae 2)
+
+![](../../../csdb/images/1869.gif)1869
+
+ACD37157.1 (Escherichia coli O130)
+
+![](../../../csdb/images/1871.gif)1871
+
+ACD37014.1 (Escherichia coli O112ac)
+
+![](../../../csdb/images/1852.gif)1852
+
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[AHB32538.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AHB32538.1/ranked_0.pdb)
-
-[ACD37014.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ACD37014.1/ranked_0.pdb)
-
-[ACD37157.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ACD37157.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -4102,19 +3698,15 @@ Total number of members in cluster: 64
 
 R 228, Y 231, R 235, K 290, Y 388, D 390, R 426, K 432, D 469
 
-#### Number of TMs:
-
-AAL20257.1: 11, CAR37642.1: 11, BAQ00830.1: 9, AAO68867.1: 11, CAR59582.1: 11, AAV77445.1: 11, WP_000905563.1: 11
-
 #### Sugars in supercluster:
-
-AAL20257.1 (Salmonella enterica O4 (B) Typhimurium)
-
-![](../../../csdb/images/30397.gif)30397
 
 CAR37642.1 (Salmonella enterica Gallinarum bv. Pullorum 11)
 
 ![](../../../csdb/images/30403.gif)30403
+
+AAL20257.1 (Salmonella enterica O4 (B) Typhimurium)
+
+![](../../../csdb/images/30397.gif)30397
 
 BAQ00830.1 (Escherichia coli O36)
 
@@ -4124,19 +3716,13 @@ AAO68867.1 (Salmonella enterica Typhi), WP_000905563.1 (nan Typhi)
 
 ![](../../../csdb/images/21859.gif)21859
 
-CAR59582.1 (Salmonella enterica Paratyphi A), AAV77445.1 (Salmonella enterica Paratyphi A)
+AAV77445.1 (Salmonella enterica Paratyphi A), CAR59582.1 (Salmonella enterica Paratyphi A)
 
 ![](../../../csdb/images/7418.gif)7418
 
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[BAQ00830.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ00830.1/ranked_0.pdb)
-
-[WP_000905563.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/WP_000905563.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -4178,51 +3764,39 @@ Total number of members in cluster: 63
 
 R 185, K 215, D 223, S 224, N 225, S 279, R 280, D 366, S 368, K 372, H 413, E 422
 
-#### Number of TMs:
-
-BAQ01494.1: 10, ACD37014.1: 10, AFS33314.1: 10, BAQ00975.1: 10, ACD37157.1: 10, BAQ00846.1: 11, AHB32538.1: 10, ACD37006.1: 10, AFW04741.1: 11
-
 #### Sugars in supercluster:
-
-BAQ01494.1 (Escherichia coli O102), AFS33314.1 (Escherichia coli O102)
-
-![](../../../csdb/images/1841.gif)1841
-
-ACD37014.1 (Escherichia coli O112ac)
-
-![](../../../csdb/images/1852.gif)1852
 
 BAQ00975.1 (Escherichia coli O48)
 
 ![](../../../csdb/images/1555.gif)1555
 
-ACD37157.1 (Escherichia coli O130)
-
-![](../../../csdb/images/1871.gif)1871
-
 BAQ00846.1 (Escherichia coli O37)
 
 ![](../../../csdb/images/1544.gif)1544
-
-ACD37006.1 (Shigella dysenteriae 2)
-
-![](../../../csdb/images/1869.gif)1869
 
 AFW04741.1 (Salmonella enterica O21)
 
 ![](../../../csdb/images/30351.gif)30351
 
+BAQ01494.1 (Escherichia coli O102), AFS33314.1 (Escherichia coli O102)
+
+![](../../../csdb/images/1841.gif)1841
+
+ACD37006.1 (Shigella dysenteriae 2)
+
+![](../../../csdb/images/1869.gif)1869
+
+ACD37157.1 (Escherichia coli O130)
+
+![](../../../csdb/images/1871.gif)1871
+
+ACD37014.1 (Escherichia coli O112ac)
+
+![](../../../csdb/images/1852.gif)1852
+
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[AHB32538.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AHB32538.1/ranked_0.pdb)
-
-[ACD37014.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ACD37014.1/ranked_0.pdb)
-
-[ACD37157.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ACD37157.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -4261,17 +3835,9 @@ Total number of members in cluster: 63
 
 D 214, S 245, R 249, K 308, R 312, R 382, Q 384
 
-#### Number of TMs:
-
-BAQ00758.1: 8, AAD44158.1: 8, BAQ00879.1: 9, AFC91514.1: 9, ABG81806.1: 10, AJR19430.1: 7, BAH24292.1: 8, AAR97964.1: 9, AAO39700.1: 9, AFC91472.1: 9, BAQ02068.1: 10, AFC91570.1: 9, BAQ02224.1: 10
-
 #### Sugars in supercluster:
 
-BAQ00758.1 (Escherichia coli O28ab)
-
-![](../../../csdb/images/736.gif)736
-
-AAD44158.1 (Escherichia coli O7), BAH24292.1 (Escherichia coli O7)
+BAH24292.1 (Escherichia coli O7), AAD44158.1 (Escherichia coli O7)
 
 ![](../../../csdb/images/1385.gif)1385
 
@@ -4279,17 +3845,21 @@ BAQ00879.1 (Escherichia coli O39)
 
 ![](../../../csdb/images/1383.gif)1383
 
-AFC91514.1 (Escherichia coli O121), AAO39700.1 (Escherichia coli O121), AFC91472.1 (Escherichia coli O121), AFC91570.1 (Escherichia coli O121)
-
-![](../../../csdb/images/1861.gif)1861
-
-ABG81806.1 (Escherichia coli O123), BAQ02224.1 (Escherichia coli O123)
-
-![](../../../csdb/images/697.gif)697
-
 AJR19430.1 (Escherichia coli O186), BAQ02068.1 (Escherichia coli O186)
 
 ![](../../../csdb/images/1933.gif)1933
+
+AFC91472.1 (Escherichia coli O121), AFC91514.1 (Escherichia coli O121), AFC91570.1 (Escherichia coli O121), AAO39700.1 (Escherichia coli O121)
+
+![](../../../csdb/images/1861.gif)1861
+
+BAQ00758.1 (Escherichia coli O28ab)
+
+![](../../../csdb/images/736.gif)736
+
+BAQ02224.1 (Escherichia coli O123), ABG81806.1 (Escherichia coli O123)
+
+![](../../../csdb/images/697.gif)697
 
 AAR97964.1 (Shigella dysenteriae 7)
 
@@ -4298,14 +3868,6 @@ AAR97964.1 (Shigella dysenteriae 7)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[ABG81806.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ABG81806.1/ranked_0.pdb)
-
-[AFC91472.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AFC91472.1/ranked_0.pdb)
-
-[BAQ02224.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ02224.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -4346,11 +3908,11 @@ Total number of members in cluster: 58
 
 Q 170, D 185, R 198, R 212, E 219, S 262, R 313, D 322, S 324, K 328, D 366, K 413
 
-#### Number of TMs:
-
-BAQ01917.1: 9, AFW04837.1: 10, AFW04828.1: 10, ADC54974.1: 8, CAN87666.1: 10, BAQ00994.1: 9
-
 #### Sugars in supercluster:
+
+ADC54974.1 (Escherichia coli O85)
+
+![](../../../csdb/images/1591.gif)1591
 
 BAQ01917.1 (Escherichia coli O175)
 
@@ -4364,10 +3926,6 @@ AFW04828.1 (Salmonella enterica O44)
 
 ![](../../../csdb/images/3367.gif)3367
 
-ADC54974.1 (Escherichia coli O85)
-
-![](../../../csdb/images/1591.gif)1591
-
 CAN87666.1 (Escherichia coli O45)
 
 ![](../../../csdb/images/1552.gif)1552
@@ -4379,12 +3937,6 @@ BAQ00994.1 (Escherichia coli O49)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[BAQ00994.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ00994.1/ranked_0.pdb)
-
-[BAQ01917.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ01917.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -4415,23 +3967,19 @@ Total number of members in cluster: 55
 
 R 58, D 64, Y 68, E 89, R 156, H 202, Y 269, R 352, Y 425
 
-#### Number of TMs:
-
-ADQ37322.1: 10, ADN43894.1: 10, ADQ37335.1: 10, ACA24821.1: 10, ACA24811.1: 10, AFW04867.1: 10
-
 #### Sugars in supercluster:
 
 ADQ37322.1 (Escherichia coli O151)
 
 ![](../../../csdb/images/1892.gif)1892
 
-ADN43894.1 (Escherichia coli O173)
-
-![](../../../csdb/images/3159.gif)3159
-
 ADQ37335.1 (Escherichia coli O118)
 
 ![](../../../csdb/images/1858.gif)1858
+
+ADN43894.1 (Escherichia coli O173)
+
+![](../../../csdb/images/3159.gif)3159
 
 ACA24821.1 (Escherichia coli O152), ACA24811.1 (Shigella dysenteriae 12)
 
@@ -4440,10 +3988,6 @@ ACA24821.1 (Escherichia coli O152), ACA24811.1 (Shigella dysenteriae 12)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[ACA24821.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ACA24821.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -4482,10 +4026,6 @@ Total number of members in cluster: 51
 
 S 57, R 84, S 101, D 114, E 146, R 221, Q 222, H 255, K 320, R 399
 
-#### Number of TMs:
-
-ABI55342.1: 11, AHB32687.1: 10, BAQ01743.1: 11
-
 #### Sugars in supercluster:
 
 ABI55342.1 (Shigella boydii 17)
@@ -4495,14 +4035,6 @@ ABI55342.1 (Shigella boydii 17)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[AHB32687.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AHB32687.1/ranked_0.pdb)
-
-[BAQ01743.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ01743.1/ranked_0.pdb)
-
-[ABI55342.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ABI55342.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -4530,23 +4062,19 @@ Total number of members in cluster: 48
 
 R 287, R 344, R 438, D 496
 
-#### Number of TMs:
-
-CAI33890.1: 12, CAI32889.1: 12, CAI33745.1: 11, CAI33915.1: 12, CAI33675.1: 12, CAI32910.1: 12, CAI33652.1: 12, CAI33941.1: 12, CAI34454.1: 11
-
 #### Sugars in supercluster:
 
-CAI32889.1 (Streptococcus pneumoniae 7B)
+CAI32910.1 (Streptococcus pneumoniae 7C)
 
-![](../../../csdb/images/7041.gif)7041
+![](../../../csdb/images/7042.gif)7042
 
 CAI33675.1 (Streptococcus pneumoniae 19C)
 
 ![](../../../csdb/images/2255.gif)2255
 
-CAI32910.1 (Streptococcus pneumoniae 7C)
+CAI32889.1 (Streptococcus pneumoniae 7B)
 
-![](../../../csdb/images/7042.gif)7042
+![](../../../csdb/images/7041.gif)7041
 
 CAI33652.1 (Streptococcus pneumoniae 19B)
 
@@ -4555,10 +4083,6 @@ CAI33652.1 (Streptococcus pneumoniae 19B)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[CAI34454.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI34454.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -4586,10 +4110,6 @@ Total number of members in cluster: 47
 
 D 80, Y 84, E 190, R 331, E 367, N 434, R 440
 
-#### Number of TMs:
-
-AAN23057.1: 8, AAN23041.1: 8, AAN23078.1: 8
-
 #### Sugars in supercluster:
 
 AAN23057.1 (Yersinia pseudotuberculosis O:4b)
@@ -4603,10 +4123,6 @@ AAN23078.1 (Yersinia pseudotuberculosis O:2a)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[AAN23041.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AAN23041.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -4645,10 +4161,6 @@ Total number of members in cluster: 47
 
 Q 67, D 73, Y 74, Y 77, E 99, N 171, R 174, H 209, Y 286, K 306, R 370
 
-#### Number of TMs:
-
-AHB32283.1: 10, ACH97162.1: 11
-
 #### Sugars in supercluster:
 
 ACH97162.1 (Escherichia coli O21)
@@ -4658,10 +4170,6 @@ ACH97162.1 (Escherichia coli O21)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[ACH97162.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ACH97162.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -4697,35 +4205,27 @@ Total number of members in cluster: 46
 
 R 160, Y 163, T 166, R 167, S 177, K 216, Y 304, D 306, R 309, N 310, E 331, R 340, K 346, D 381, E 440
 
-#### Number of TMs:
-
-AAL20257.1: 11, CAR37642.1: 11, AAO68867.1: 11, CAR59582.1: 11, AAV77445.1: 11, WP_000905563.1: 11
-
 #### Sugars in supercluster:
-
-AAL20257.1 (Salmonella enterica O4 (B) Typhimurium)
-
-![](../../../csdb/images/30397.gif)30397
 
 CAR37642.1 (Salmonella enterica Gallinarum bv. Pullorum 11)
 
 ![](../../../csdb/images/30403.gif)30403
 
+AAL20257.1 (Salmonella enterica O4 (B) Typhimurium)
+
+![](../../../csdb/images/30397.gif)30397
+
 AAO68867.1 (Salmonella enterica Typhi), WP_000905563.1 (nan Typhi)
 
 ![](../../../csdb/images/21859.gif)21859
 
-CAR59582.1 (Salmonella enterica Paratyphi A), AAV77445.1 (Salmonella enterica Paratyphi A)
+AAV77445.1 (Salmonella enterica Paratyphi A), CAR59582.1 (Salmonella enterica Paratyphi A)
 
 ![](../../../csdb/images/7418.gif)7418
 
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[WP_000905563.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/WP_000905563.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -4757,10 +4257,6 @@ Total number of members in cluster: 45
 
 D 117, D 144, R 226, H 263, S 265, Y 322, R 405, R 468
 
-#### Number of TMs:
-
-ADI43271.1: 11
-
 #### Sugars in supercluster:
 
 ADI43271.1 (Escherichia coli O27)
@@ -4772,10 +4268,6 @@ ADI43271.1 (Escherichia coli O27)
 AXY99682.1 (Proteus vulgaris O34)
 
 ![](../../../csdb/images/20104.gif)20104
-
-#### Alphafold models:
-
-[ADI43271.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ADI43271.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -4803,10 +4295,6 @@ Total number of members in cluster: 43
 
 Y 31, R 85, D 92, Y 96, N 203, Q 207, H 249, R 485
 
-#### Number of TMs:
-
-CAI34008.1: 9
-
 #### Sugars in supercluster:
 
 CAI34008.1 (Streptococcus pneumoniae 27)
@@ -4816,10 +4304,6 @@ CAI34008.1 (Streptococcus pneumoniae 27)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[CAI34008.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI34008.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -4860,10 +4344,6 @@ Total number of members in cluster: 41
 
 Y 279, R 310, E 317, T 323, S 357, S 359, R 460, N 473, R 474
 
-#### Number of TMs:
-
-AAK60458.1: 12
-
 #### Sugars in supercluster:
 
 AAK60458.1 (Escherichia coli O91)
@@ -4873,10 +4353,6 @@ AAK60458.1 (Escherichia coli O91)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[AAK60458.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AAK60458.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -4909,10 +4385,6 @@ Total number of members in cluster: 41
 
 Y 104, R 194, R 207, K 263, R 346, H 425, D 427
 
-#### Number of TMs:
-
-ACD75796.1: 11
-
 #### Sugars in supercluster:
 
 ACD75796.1 (Escherichia coli O63)
@@ -4924,10 +4396,6 @@ ACD75796.1 (Escherichia coli O63)
 AXY99492.1 (Proteus vulgaris O17)
 
 ![](../../../csdb/images/5227.gif)5227
-
-#### Alphafold models:
-
-[ACD75796.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ACD75796.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -4961,10 +4429,6 @@ Total number of members in cluster: 40
 
 R 258, N 437, D 449
 
-#### Number of TMs:
-
-CAI33774.1: 12, CAI33798.1: 12
-
 #### Sugars in supercluster:
 
 CAI33798.1 (Streptococcus pneumoniae 22F)
@@ -4974,10 +4438,6 @@ CAI33798.1 (Streptococcus pneumoniae 22F)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[CAI33798.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI33798.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -5014,11 +4474,11 @@ Total number of members in cluster: 40
 
 D 161, R 163, R 167, T 169, N 176, S 230, R 231, T 232, Q 285, R 309, Y 334, D 338, Y 346, E 388
 
-#### Number of TMs:
-
-BAQ01687.1: 12, BAQ00957.1: 12, BAQ01812.1: 11
-
 #### Sugars in supercluster:
+
+BAQ01812.1 (Escherichia coli O160)
+
+![](../../../csdb/images/1901.gif)1901
 
 BAQ01687.1 (Escherichia coli O134)
 
@@ -5028,17 +4488,9 @@ BAQ00957.1 (Escherichia coli O46)
 
 ![](../../../csdb/images/1554.gif)1554
 
-BAQ01812.1 (Escherichia coli O160)
-
-![](../../../csdb/images/1901.gif)1901
-
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[BAQ00957.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ00957.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -5064,27 +4516,19 @@ Total number of members in cluster: 38
 
 N 154, S 241, R 337, H 393, E 449
 
-#### Number of TMs:
-
-CAI33491.1: 9, CAI33515.1: 12
-
 #### Sugars in supercluster:
 
 CAI33491.1 (Streptococcus pneumoniae 17A)
 
 ![](../../../csdb/images/7070.gif)7070
 
-VIQ20135.1 (Streptococcus pneumoniae 17F), CAI33515.1 (Streptococcus pneumoniae 17F)
+CAI33515.1 (Streptococcus pneumoniae 17F), VIQ20135.1 (Streptococcus pneumoniae 17F)
 
 ![](../../../csdb/images/815.gif)815
 
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[CAI33491.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI33491.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -5115,10 +4559,6 @@ Total number of members in cluster: 38
 
 K 348, R 391, Y 409, K 438, D 454, T 460, T 474, Q 476, Y 484, R 538
 
-#### Number of TMs:
-
-AFW04757.1: 12
-
 #### Sugars in supercluster:
 
 AAM27595.1 (Pseudomonas aeruginosa O12)
@@ -5126,10 +4566,6 @@ AAM27595.1 (Pseudomonas aeruginosa O12)
 ![](../../../csdb/images/31934.gif)31934
 
 #### Additional sugars from blast hits:
-
-None
-
-#### Alphafold models:
 
 None
 
@@ -5164,11 +4600,15 @@ Total number of members in cluster: 37
 
 Y 79, R 82, Q 179, K 182, Y 186, S 193, H 197, R 216, S 219, S 249, R 256, K 258, S 300, S 303, R 306, E 307, Y 316, D 322, S 323, Q 361, S 395, S 396, S 397, E 401, Y 418, R 454, E 456, K 466
 
-#### Number of TMs:
-
-AKL88154.1: 12, BAQ02177.1: 14, AAY23739.1: 14, BAQ01935.1: 14, AAY23745.1: 14, AKA20966.1: 13, AAY23733.1: 14, AKA20935.1: 13
-
 #### Sugars in supercluster:
+
+BAQ02105.1 (Escherichia coli O17)
+
+![](../../../csdb/images/1520.gif)1520
+
+BAQ00945.1 (Escherichia coli O44)
+
+![](../../../csdb/images/1551.gif)1551
 
 BAQ02177.1 (Escherichia coli O77), AAY23739.1 (Escherichia coli O77)
 
@@ -5178,37 +4618,25 @@ BAQ01935.1 (Escherichia coli O176)
 
 ![](../../../csdb/images/1918.gif)1918
 
-BAQ00945.1 (Escherichia coli O44)
+AKA20935.1 (Yersinia pseudotuberculosis O:2c)
 
-![](../../../csdb/images/1551.gif)1551
-
-AAY23745.1 (Escherichia coli O106)
-
-![](../../../csdb/images/1845.gif)1845
-
-AKA20966.1 (Yersinia pseudotuberculosis O:4a)
-
-![](../../../csdb/images/12129.gif)12129
+![](../../../csdb/images/12128.gif)12128
 
 AAY23733.1 (Escherichia coli O73)
 
 ![](../../../csdb/images/1578.gif)1578
 
-BAQ02105.1 (Escherichia coli O17)
+AKA20966.1 (Yersinia pseudotuberculosis O:4a)
 
-![](../../../csdb/images/1520.gif)1520
+![](../../../csdb/images/12129.gif)12129
 
-AKA20935.1 (Yersinia pseudotuberculosis O:2c)
+AAY23745.1 (Escherichia coli O106)
 
-![](../../../csdb/images/12128.gif)12128
+![](../../../csdb/images/1845.gif)1845
 
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[AKA20935.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AKA20935.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -5234,19 +4662,11 @@ Total number of members in cluster: 37
 
 D 52, K 242, R 325, D 331, N 407, R 409, D 469
 
-#### Number of TMs:
-
-AIG62684.1: 11
-
 #### Sugars in supercluster:
 
 None
 
 #### Additional sugars from blast hits:
-
-None
-
-#### Alphafold models:
 
 None
 
@@ -5285,31 +4705,23 @@ Total number of members in cluster: 36
 
 R 190, D 201, Y 203, N 218, N 257, R 350, Q 353, Y 392, E 394, Q 396, Y 399, Q 403, Y 437, N 444, Y 446, D 449
 
-#### Number of TMs:
-
-ABE98437.1: 10, ABU80601.1: 10, ABI98986.1: 11
-
 #### Sugars in supercluster:
 
 ABE98437.1 (Escherichia coli O146)
 
 ![](../../../csdb/images/1887.gif)1887
 
-ABU80601.1 (Shigella flexneri 6)
-
-![](../../../csdb/images/188.gif)188
-
 ABI98986.1 (Escherichia coli O147)
 
 ![](../../../csdb/images/1624.gif)1624
 
+ABU80601.1 (Shigella flexneri 6)
+
+![](../../../csdb/images/188.gif)188
+
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[ABI98986.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ABI98986.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -5346,10 +4758,6 @@ Total number of members in cluster: 34
 
 R 63, D 70, Y 74, Y 94, E 98, D 124, Y 147, N 166, R 169, Q 170, H 214, N 215, K 270, S 271, R 335
 
-#### Number of TMs:
-
-AHB32438.2: 9, AHB32774.1: 10
-
 #### Sugars in supercluster:
 
 AHB32438.2 (Acinetobacter baumannii O22)
@@ -5363,10 +4771,6 @@ AHB32774.1 (Acinetobacter baumannii O12)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[AHB32438.2](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AHB32438.2/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -5399,10 +4803,6 @@ Total number of members in cluster: 34
 
 R 201, E 241, Y 279, K 286, R 290, R 313, E 346, Y 394
 
-#### Number of TMs:
-
-BAQ01843.1: 9, AKA20948.1: 7, ACV52983.1: 9, CAB63298.1: 9, ACV53000.1: 9
-
 #### Sugars in supercluster:
 
 BAQ01843.1 (Escherichia coli O163)
@@ -5420,12 +4820,6 @@ ACV52983.1 (Yersinia pseudotuberculosis O:11)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[CAB63298.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAB63298.1/ranked_0.pdb)
-
-[BAQ01843.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ01843.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -5453,10 +4847,6 @@ Total number of members in cluster: 33
 
 Y 78, Y 134, Q 144, Q 147, R 149, Q 150, H 189, Y 258, R 327, E 336, Y 384
 
-#### Number of TMs:
-
-AHB32888.2: 9, AHB32666.1: 9, AHB32334.1: 11
-
 #### Sugars in supercluster:
 
 AHB32888.2 (Acinetobacter baumannii O7)
@@ -5470,14 +4860,6 @@ AHB32334.1 (Acinetobacter baumannii O18)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[AHB32666.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AHB32666.1/ranked_0.pdb)
-
-[AHB32888.2](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AHB32888.2/ranked_0.pdb)
-
-[AHB32334.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AHB32334.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -5502,10 +4884,6 @@ Total number of members in cluster: 33
 
 K 255, R 309, Y 369, N 464, R 470, D 475
 
-#### Number of TMs:
-
-
-
 #### Sugars in supercluster:
 
 AAM27560.1 (Pseudomonas aeruginosa O10)
@@ -5517,10 +4895,6 @@ AAM27711.1 (Pseudomonas aeruginosa O19)
 ![](../../../csdb/images/11026.gif)11026
 
 #### Additional sugars from blast hits:
-
-None
-
-#### Alphafold models:
 
 None
 
@@ -5554,19 +4928,15 @@ Total number of members in cluster: 32
 
 R 61, D 118, R 197, K 206, R 245, R 328, K 372
 
-#### Number of TMs:
-
-ACD37173.1: 12, ACD37181.1: 12, BAQ02259.1: 12, ACD37165.1: 12
-
 #### Sugars in supercluster:
-
-ACD37173.1 (Escherichia coli O135)
-
-![](../../../csdb/images/1877.gif)1877
 
 ACD37181.1 (Escherichia coli O129)
 
 ![](../../../csdb/images/1870.gif)1870
+
+ACD37173.1 (Escherichia coli O135)
+
+![](../../../csdb/images/1877.gif)1877
 
 ACD37165.1 (Escherichia coli O13)
 
@@ -5575,10 +4945,6 @@ ACD37165.1 (Escherichia coli O13)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[ACD37165.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ACD37165.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -5609,27 +4975,19 @@ Total number of members in cluster: 31
 
 R 56, D 62, Y 63, R 177, Q 178, H 213, R 343
 
-#### Number of TMs:
-
-BAQ02116.1: 10, AAK64372.1: 11
-
 #### Sugars in supercluster:
-
-BAQ02116.1 (Escherichia coli O54)
-
-![](../../../csdb/images/1561.gif)1561
 
 AAK64372.1 (Escherichia coli O104), EGR73751.1 (Escherichia coli O104)
 
 ![](../../../csdb/images/1843.gif)1843
 
+BAQ02116.1 (Escherichia coli O54)
+
+![](../../../csdb/images/1561.gif)1561
+
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[AAK64372.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AAK64372.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -5663,10 +5021,6 @@ Total number of members in cluster: 28
 
 E 258, K 312, R 313, R 390, H 439
 
-#### Number of TMs:
-
-CAI33561.1: 11, CAI33585.1: 11, CAI33610.1: 11, CAI33537.1: 12
-
 #### Sugars in supercluster:
 
 CAI33561.1 (Streptococcus pneumoniae 18B)
@@ -5677,7 +5031,7 @@ CAI33585.1 (Streptococcus pneumoniae 18C)
 
 ![](../../../csdb/images/939.gif)939
 
-VOG14504.1 (Streptococcus pneumoniae 18F), CAI33610.1 (Streptococcus pneumoniae 18F)
+CAI33610.1 (Streptococcus pneumoniae 18F), VOG14504.1 (Streptococcus pneumoniae 18F)
 
 ![](../../../csdb/images/7071.gif)7071
 
@@ -5686,10 +5040,6 @@ VQM63531.1 (Streptococcus pneumoniae 18A), CAI33537.1 (Streptococcus pneumoniae 
 ![](../../../csdb/images/7074.gif)7074
 
 #### Additional sugars from blast hits:
-
-None
-
-#### Alphafold models:
 
 None
 
@@ -5719,27 +5069,23 @@ Total number of members in cluster: 28
 
 R 188, R 189, Y 204, S 207, D 301, R 305, R 306, Y 330, D 332
 
-#### Number of TMs:
-
-AAC45857.1: 12, AAA97573.1: 12
-
 #### Sugars in supercluster:
 
-AAC45857.1 (Pseudomonas aeruginosa O5), AAA97573.1 (Pseudomonas aeruginosa O5), AAM27801.1 (Pseudomonas aeruginosa O5)
+AAM27662.1 (Pseudomonas aeruginosa O16)
 
-![](../../../csdb/images/1672.gif)1672
+![](../../../csdb/images/6654.gif)6654
 
 AAM27693.1 (Pseudomonas aeruginosa O18)
 
 ![](../../../csdb/images/7836.gif)7836
 
+AAA97573.1 (Pseudomonas aeruginosa O5), AAC45857.1 (Pseudomonas aeruginosa O5), AAM27801.1 (Pseudomonas aeruginosa O5)
+
+![](../../../csdb/images/1672.gif)1672
+
 AAM27728.1 (Pseudomonas aeruginosa O2)
 
 ![](../../../csdb/images/6565.gif)6565
-
-AAM27662.1 (Pseudomonas aeruginosa O16)
-
-![](../../../csdb/images/6654.gif)6654
 
 AAM27748.1 (Pseudomonas aeruginosa O20)
 
@@ -5748,12 +5094,6 @@ AAM27748.1 (Pseudomonas aeruginosa O20)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[AAA97573.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AAA97573.1/ranked_0.pdb)
-
-[AAC45857.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AAC45857.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -5774,21 +5114,13 @@ Total number of members in cluster: 27
 
 Y 168, R 212, Y 269, R 271, S 372, T 417, D 418, R 423, E 482, K 484
 
-#### Number of TMs:
-
-ACD37046.1: 10, ACD37037.1: 10
-
 #### Sugars in supercluster:
 
-ACD37046.1 (Escherichia coli O167), ACD37037.1 (Shigella boydii 3)
+ACD37037.1 (Shigella boydii 3), ACD37046.1 (Escherichia coli O167)
 
 ![](../../../csdb/images/1909.gif)1909
 
 #### Additional sugars from blast hits:
-
-None
-
-#### Alphafold models:
 
 None
 
@@ -5821,10 +5153,6 @@ Total number of members in cluster: 27
 
 Y 196, S 210, R 271, S 347, R 349, H 381, N 382, D 386
 
-#### Number of TMs:
-
-ACD37026.1: 9, AFW04716.1: 10
-
 #### Sugars in supercluster:
 
 ACD37026.1 (Shigella boydii 12)
@@ -5832,10 +5160,6 @@ ACD37026.1 (Shigella boydii 12)
 ![](../../../csdb/images/1931.gif)1931
 
 #### Additional sugars from blast hits:
-
-None
-
-#### Alphafold models:
 
 None
 
@@ -5865,27 +5189,19 @@ Total number of members in cluster: 24
 
 D 159, Y 163, Y 164, N 166, E 188, N 195, K 256, R 265, Q 266, S 270, H 296, K 354, R 433, Y 504, R 520
 
-#### Number of TMs:
-
-BAQ01641.1: 10, BAQ01584.1: 9
-
 #### Sugars in supercluster:
-
-BAQ01641.1 (Escherichia coli O131)
-
-![](../../../csdb/images/1873.gif)1873
 
 BAQ01584.1 (Escherichia coli O120)
 
 ![](../../../csdb/images/1860.gif)1860
 
+BAQ01641.1 (Escherichia coli O131)
+
+![](../../../csdb/images/1873.gif)1873
+
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[BAQ01641.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ01641.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -5910,23 +5226,15 @@ Total number of members in cluster: 24
 
 Y 43, N 45, D 48, Y 52, E 69, N 113, E 132, Q 133, R 135, Q 136, H 171, K 226, Y 230, R 276, R 296, S 350
 
-#### Number of TMs:
-
-ABK27352.1: 11, ABK27321.1: 11, BAI31288.1: 10, ABK27354.1: 10, ABK27351.1: 10, ABK27350.1: 10, ABK27355.1: 10
-
 #### Sugars in supercluster:
 
-ABK27352.1 (Escherichia coli O103), ABK27321.1 (Escherichia coli O103), BAI31288.1 (Escherichia coli O103), ABK27354.1 (Escherichia coli O103), ABK27351.1 (Escherichia coli O103), ABK27350.1 (Escherichia coli O103), ABK27355.1 (Escherichia coli O103)
+ABK27352.1 (Escherichia coli O103), ABK27351.1 (Escherichia coli O103), ABK27350.1 (Escherichia coli O103), ABK27354.1 (Escherichia coli O103), BAI31288.1 (Escherichia coli O103), ABK27355.1 (Escherichia coli O103), ABK27321.1 (Escherichia coli O103)
 
 ![](../../../csdb/images/1842.gif)1842
 
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[ABK27355.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ABK27355.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -5953,10 +5261,6 @@ Total number of members in cluster: 24
 
 Y 56, D 57, Y 61, E 80, Y 113, E 140, R 143, Q 144, H 177, K 242, R 312
 
-#### Number of TMs:
-
-WP_046788607.1: 9, WP_000456161.1: 9, ABI98976.1: 10
-
 #### Sugars in supercluster:
 
 ABI98976.1 (Escherichia coli O141)
@@ -5966,10 +5270,6 @@ ABI98976.1 (Escherichia coli O141)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[ABI98976.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/ABI98976.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -5992,19 +5292,15 @@ Total number of members in cluster: 23
 
 R 299, R 386, H 420
 
-#### Number of TMs:
-
-CAI34753.1: 11, CAI33252.1: 11, AAY28249.1: 12, CAI34613.1: 11, CAI33278.1: 11, CAI33226.1: 11
-
 #### Sugars in supercluster:
-
-VPT20589.1 (Streptococcus pneumoniae 12F), CAI33278.1 (Streptococcus pneumoniae 12F)
-
-![](../../../csdb/images/1955.gif)1955
 
 AAY28249.1 (Escherichia coli O174)
 
 ![](../../../csdb/images/30040.gif)30040
+
+VPT20589.1 (Streptococcus pneumoniae 12F), CAI33278.1 (Streptococcus pneumoniae 12F)
+
+![](../../../csdb/images/1955.gif)1955
 
 CAI33226.1 (Streptococcus pneumoniae 12A)
 
@@ -6013,10 +5309,6 @@ CAI33226.1 (Streptococcus pneumoniae 12A)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[AAY28249.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/AAY28249.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -6044,27 +5336,19 @@ Total number of members in cluster: 23
 
 N 192, R 300, N 306, Y 334, R 339, K 358
 
-#### Number of TMs:
-
-CAI33862.1: 9, CAI33840.1: 11
-
 #### Sugars in supercluster:
 
-CAI33862.1 (Streptococcus pneumoniae 23F), VOC17485.1 (Streptococcus pneumoniae 23F)
+VOC17485.1 (Streptococcus pneumoniae 23F), CAI33862.1 (Streptococcus pneumoniae 23F)
 
 ![](../../../csdb/images/1964.gif)1964
 
-CAI33840.1 (Streptococcus pneumoniae 23B), VMO60215.1 (Streptococcus pneumoniae 23B)
+VMO60215.1 (Streptococcus pneumoniae 23B), CAI33840.1 (Streptococcus pneumoniae 23B)
 
 ![](../../../csdb/images/7083.gif)7083
 
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[CAI33862.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI33862.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -6092,27 +5376,19 @@ Total number of members in cluster: 22
 
 R 212, R 235, D 241, E 242, T 278, S 280, R 347, R 362, Q 460, R 461
 
-#### Number of TMs:
-
-BAQ01793.1: 10, BAQ01878.1: 12
-
 #### Sugars in supercluster:
-
-BAQ01793.1 (Escherichia coli O156)
-
-![](../../../csdb/images/1897.gif)1897
 
 BAQ01878.1 (Escherichia coli O170)
 
 ![](../../../csdb/images/1407.gif)1407
 
+BAQ01793.1 (Escherichia coli O156)
+
+![](../../../csdb/images/1897.gif)1897
+
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[BAQ01793.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ01793.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -6140,27 +5416,19 @@ Total number of members in cluster: 21
 
 Q 242, K 243, R 308, Q 313, N 371
 
-#### Number of TMs:
-
-CBN82200.1: 13, ADI77033.1: 11
-
 #### Sugars in supercluster:
-
-CBN82200.1 (Escherichia coli O70)
-
-![](../../../csdb/images/1576.gif)1576
 
 ADI77033.1 (Escherichia coli O71)
 
 ![](../../../csdb/images/1577.gif)1577
 
+CBN82200.1 (Escherichia coli O70)
+
+![](../../../csdb/images/1576.gif)1576
+
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[CBN82200.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CBN82200.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -6189,10 +5457,6 @@ Total number of members in cluster: 21
 
 Q 160, Y 170, D 172, R 183, R 199, T 201, E 206, S 208, R 324, N 381, D 382, T 426, K 427
 
-#### Number of TMs:
-
-BAQ01533.1: 8
-
 #### Sugars in supercluster:
 
 BAQ01533.1 (Escherichia coli O110)
@@ -6202,10 +5466,6 @@ BAQ01533.1 (Escherichia coli O110)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[BAQ01533.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/BAQ01533.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -6231,10 +5491,6 @@ Total number of members in cluster: 21
 
 R 277, R 330, E 361, R 488, R 496
 
-#### Number of TMs:
-
-CAI32772.1: 12
-
 #### Sugars in supercluster:
 
 CAI32772.1 (Streptococcus pneumoniae 4)
@@ -6244,10 +5500,6 @@ CAI32772.1 (Streptococcus pneumoniae 4)
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[CAI32772.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI32772.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -6277,23 +5529,11 @@ Total number of members in cluster: 20
 
 R 52, D 59, D 60, H 64, Y 95, Y 97, Y 108, S 117, S 120, Y 128, N 162, R 164, S 168, R 171, Y 203, H 210, R 220, K 267, Y 271, Y 290, Y 326, R 343, N 397, D 409, N 419
 
-#### Number of TMs:
-
-CAI34733.1: 10, CAI34436.1: 12, CAI33105.1: 10, CAI33084.1: 12, CAI33048.1: 10
-
 #### Sugars in supercluster:
-
-CAI34733.1 (Streptococcus pneumoniae 10B), CIV98579.1 (Streptococcus pneumoniae 10B)
-
-![](../../../csdb/images/7051.gif)7051
 
 CAI34436.1 (Streptococcus pneumoniae 39)
 
 ![](../../../csdb/images/3663.gif)3663
-
-CAI33105.1 (Streptococcus pneumoniae 10F)
-
-![](../../../csdb/images/7049.gif)7049
 
 CAI33084.1 (Streptococcus pneumoniae 10C)
 
@@ -6303,15 +5543,17 @@ CAI33048.1 (Streptococcus pneumoniae 10A)
 
 ![](../../../csdb/images/1953.gif)1953
 
+CIV98579.1 (Streptococcus pneumoniae 10B), CAI34733.1 (Streptococcus pneumoniae 10B)
+
+![](../../../csdb/images/7051.gif)7051
+
+CAI33105.1 (Streptococcus pneumoniae 10F)
+
+![](../../../csdb/images/7049.gif)7049
+
 #### Additional sugars from blast hits:
 
 None
-
-#### Alphafold models:
-
-[CAI33105.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI33105.1/ranked_0.pdb)
-
-[CAI33084.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI33084.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -6331,10 +5573,6 @@ Total number of members in cluster: 20
 
 Y 31, N 58, Y 65, N 86, Y 94, N 118, Y 154, Q 157, N 160, K 161, T 165, R 199, Q 201, Y 229, N 269, Y 272, N 281, Q 287, D 307, N 360
 
-#### Number of TMs:
-
-ABB04486.1: 11
-
 #### Sugars in supercluster:
 
 ABB04486.1 (Escherichia coli O98)
@@ -6342,10 +5580,6 @@ ABB04486.1 (Escherichia coli O98)
 ![](../../../csdb/images/1836.gif)1836
 
 #### Additional sugars from blast hits:
-
-None
-
-#### Alphafold models:
 
 None
 
@@ -6373,19 +5607,15 @@ Total number of members in cluster: 20
 
 R 232, R 287, R 360, S 363, R 367, S 402, H 403, Y 411, D 462
 
-#### Number of TMs:
-
-CAI33389.1: 11, CAI33324.1: 11, CAI33366.1: 11
-
 #### Sugars in supercluster:
-
-CAI33389.1 (Streptococcus pneumoniae 15C)
-
-![](../../../csdb/images/2251.gif)2251
 
 CAI33324.1 (Streptococcus pneumoniae 14)
 
 ![](../../../csdb/images/5348.gif)5348
+
+CAI33389.1 (Streptococcus pneumoniae 15C)
+
+![](../../../csdb/images/2251.gif)2251
 
 CAI33366.1 (Streptococcus pneumoniae 15B)
 
@@ -6396,12 +5626,6 @@ CAI33366.1 (Streptococcus pneumoniae 15B)
 AAL57082.1 (Streptococcus agalactiae III)
 
 ![](../../../csdb/images/6001.gif)6001
-
-#### Alphafold models:
-
-[CAI33324.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI33324.1/ranked_0.pdb)
-
-[CAI33366.1](https://github.com/idameitil/phd/tree/master/data/wzy/alphafold/CAI33366.1/ranked_0.pdb)
 
 #### Taxonomy:
 
@@ -6425,29 +5649,21 @@ Total number of members in cluster: 20
 
 Y 73, Y 115, Y 118, T 124, Y 126, N 136, D 140, S 144, S 182, Q 186, R 188, R 189, E 190, S 201, Y 233, R 235, S 237, T 240, S 241, E 256, T 257, H 258, N 266, E 267, H 271, K 304, E 314, Y 318, D 320, K 321, T 328, H 332, Y 354, R 378, K 379, D 380, Y 383, K 386, Y 387, S 389, Y 402, K 408
 
-#### Number of TMs:
-
-AGS07363.1: 12, CAA43077.1: 12, AAB48190.1: 12, WP_000231472.1: 12, AGS07327.1: 12, AGS07316.1: 12
-
 #### Sugars in supercluster:
-
-AGS07363.1 (Salmonella enterica ssp. enterica sv. Strasbourg), AAB48190.1 (Salmonella enterica ssp. enterica sv. Strasbourg)
-
-![](../../../csdb/images/30404.gif)30404
-
-CAA43077.1 (Salmonella enterica O3,10 (E1) Anatum), AGS07327.1 (Salmonella enterica O3,10 (E1) Anatum)
-
-![](../../../csdb/images/30407.gif)30407
 
 AGS07316.1 (Salmonella enterica O1,3,19 (E4) Senftenberg)
 
 ![](../../../csdb/images/30411.gif)30411
 
+CAA43077.1 (Salmonella enterica O3,10 (E1) Anatum), AGS07327.1 (Salmonella enterica O3,10 (E1) Anatum)
+
+![](../../../csdb/images/30407.gif)30407
+
+AAB48190.1 (Salmonella enterica ssp. enterica sv. Strasbourg), AGS07363.1 (Salmonella enterica ssp. enterica sv. Strasbourg)
+
+![](../../../csdb/images/30404.gif)30404
+
 #### Additional sugars from blast hits:
-
-None
-
-#### Alphafold models:
 
 None
 
