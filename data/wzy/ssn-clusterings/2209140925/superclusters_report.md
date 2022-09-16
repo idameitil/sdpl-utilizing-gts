@@ -5,9 +5,9 @@
 ## Navigation by cluster name
 [1(1247)](#supercluster-1)  [2(473)](#supercluster-2)  [3(308)](#supercluster-3)  [4(540)](#supercluster-4)  [5(157)](#supercluster-5)  [6(120)](#supercluster-6)  [7(260)](#supercluster-7)  [8(81)](#supercluster-8)  [9(48)](#supercluster-9)  [10(284)](#supercluster-10)  [11(73)](#supercluster-11)  [12(67)](#supercluster-12)  [13(144)](#supercluster-13)  [14(101)](#supercluster-14)  [15(65)](#supercluster-15)  [16(79)](#supercluster-16)  [17(64)](#supercluster-17)  [18(78)](#supercluster-18)  [19(28)](#supercluster-19)  [23(23)](#supercluster-23)  [26(41)](#supercluster-26)  [27(75)](#supercluster-27)  [30(79)](#supercluster-30)  [31(37)](#supercluster-31)  [36(45)](#supercluster-36)  [43(252)](#supercluster-43)  [55(36)](#supercluster-55)  [61(70)](#supercluster-61)  [62(31)](#supercluster-62)  [73(132)](#supercluster-73)  [83(47)](#supercluster-83)  [98(80)](#supercluster-98)  [100(40)](#supercluster-100)  [101(47)](#supercluster-101)  [104(27)](#supercluster-104)  [106(20)](#supercluster-106)  [109(20)](#supercluster-109)  [111(33)](#supercluster-111)  [117(20)](#supercluster-117)  [118(128)](#supercluster-118)  [119(141)](#supercluster-119)  [122(126)](#supercluster-122)  [124(33)](#supercluster-124)  [127(37)](#supercluster-127)  [131(55)](#supercluster-131)  [133(24)](#supercluster-133)  [134(92)](#supercluster-134)  [136(250)](#supercluster-136)  [137(51)](#supercluster-137)  [138(24)](#supercluster-138)  [143(469)](#supercluster-143)  [145(24)](#supercluster-145)  [146(23)](#supercluster-146)  [148(28)](#supercluster-148)  [149(129)](#supercluster-149)  [158(118)](#supercluster-158)  [160(104)](#supercluster-160)  [162(221)](#supercluster-162)  [165(22)](#supercluster-165)  [175(68)](#supercluster-175)  [177(58)](#supercluster-177)  [180(43)](#supercluster-180)  [185(32)](#supercluster-185)  [189(63)](#supercluster-189)  [192(21)](#supercluster-192)  [193(21)](#supercluster-193)  [201(40)](#supercluster-201)  [208(63)](#supercluster-208)  [210(21)](#supercluster-210)  [213(123)](#supercluster-213)  [217(46)](#supercluster-217)  [218(20)](#supercluster-218)  [219(27)](#supercluster-219)  [222(34)](#supercluster-222)  [223(38)](#supercluster-223)  [224(38)](#supercluster-224)  [225(41)](#supercluster-225)  [229(34)](#supercluster-229)  
 
-## Clusters
+## Superclusters
 
-### Cluster 1
+### Supercluster 1
 
 Total number of members in cluster: 1247
 
@@ -17,69 +17,29 @@ D 701, Y 706, R 1078, H 1148, R 1825
 
 #### Sugars in supercluster:
 
-AQU71739.1 (Escherichia coli O1), ADC54929.1 (Escherichia coli O1), AQU71717.1 (Escherichia coli O1), AQU71752.1 (Escherichia coli O1)
-
-![](../../../csdb/images/7222.gif)7222
-
-CAI34008.1 (Streptococcus pneumoniae 27)
-
-![](../../../csdb/images/7085.gif)7085
-
-WP_024244058.1 (Escherichia coli O128ac), AAO37701.1 (Escherichia coli O128ab)
-
-![](../../../csdb/images/1867.gif)1867
-
-ACD37138.1 (Escherichia coli O124)
-
-![](../../../csdb/images/1863.gif)1863
-
-ACA24792.1 (Shigella dysenteriae 13)
-
-![](../../../csdb/images/1891.gif)1891
-
-AHB32715.1 (Acinetobacter baumannii O23), AHB32637.1 (Acinetobacter baumannii O23)
-
-![](../../../csdb/images/563.gif)563
-
 ACA24829.1 (Escherichia coli O105), AAS98031.1 (Shigella boydii 11)
 
 ![](../../../csdb/images/1844.gif)1844
 
-ACA24811.1 (Shigella dysenteriae 12), ACA24821.1 (Escherichia coli O152)
+ADQ37322.1 (Escherichia coli O151)
 
-![](../../../csdb/images/1893.gif)1893
+![](../../../csdb/images/1892.gif)1892
 
-BAQ01584.1 (Escherichia coli O120)
+ADC54967.1 (Escherichia coli O75)
 
-![](../../../csdb/images/1860.gif)1860
+![](../../../csdb/images/619.gif)619
 
-ABI55342.1 (Shigella boydii 17)
+ACD37146.1 (Escherichia coli O164)
 
-![](../../../csdb/images/714.gif)714
+![](../../../csdb/images/1906.gif)1906
 
-AAL27339.1 (Shigella boydii 6)
+AFW04820.1 (Salmonella enterica O11)
 
-![](../../../csdb/images/712.gif)712
+![](../../../csdb/images/2600.gif)2600
 
-BAQ00622.1 (Escherichia coli O10)
+BAQ01641.1 (Escherichia coli O131)
 
-![](../../../csdb/images/1512.gif)1512
-
-ACA24776.1 (Shigella dysenteriae 8)
-
-![](../../../csdb/images/11557.gif)11557
-
-BAQ01012.1 (Escherichia coli O50)
-
-![](../../../csdb/images/1557.gif)1557
-
-AAK64372.1 (Escherichia coli O104), EGR73751.1 (Escherichia coli O104)
-
-![](../../../csdb/images/1843.gif)1843
-
-ACD75809.1 (Escherichia coli O2)
-
-![](../../../csdb/images/108685.gif)108685
+![](../../../csdb/images/1873.gif)1873
 
 AFW04888.1 (Salmonella enterica O51)
 
@@ -89,77 +49,85 @@ BAQ02116.1 (Escherichia coli O54)
 
 ![](../../../csdb/images/1561.gif)1561
 
-BAQ01169.1 (Escherichia coli O69)
+ABK27352.1 (Escherichia coli O103), BAI31288.1 (Escherichia coli O103), ABK27321.1 (Escherichia coli O103), ABK27354.1 (Escherichia coli O103), ABK27350.1 (Escherichia coli O103), ABK27351.1 (Escherichia coli O103), ABK27355.1 (Escherichia coli O103)
 
-![](../../../csdb/images/1575.gif)1575
-
-BAQ01293.1 (Escherichia coli O84)
-
-![](../../../csdb/images/1590.gif)1590
-
-ADC54957.1 (Escherichia coli O166)
-
-![](../../../csdb/images/1908.gif)1908
-
-ABI98966.1 (Escherichia coli O149)
-
-![](../../../csdb/images/1890.gif)1890
-
-BAQ00634.1 (Escherichia coli O12)
-
-![](../../../csdb/images/1514.gif)1514
-
-AFW04860.1 (Salmonella enterica O60)
-
-![](../../../csdb/images/3360.gif)3360
-
-AHB32334.1 (Acinetobacter baumannii O18)
-
-![](../../../csdb/images/483.gif)483
-
-BAQ00858.1 (Escherichia coli O38)
-
-![](../../../csdb/images/1545.gif)1545
-
-AAN60459.1 (Escherichia coli O26)
-
-![](../../../csdb/images/1534.gif)1534
+![](../../../csdb/images/1842.gif)1842
 
 CAI33718.1 (Streptococcus pneumoniae 20)
 
 ![](../../../csdb/images/1928.gif)1928
 
-ACD37146.1 (Escherichia coli O164)
-
-![](../../../csdb/images/1906.gif)1906
-
-ACA24852.1 (Escherichia coli O29)
-
-![](../../../csdb/images/1538.gif)1538
-
 ACA24901.1 (Escherichia coli O87)
 
 ![](../../../csdb/images/1594.gif)1594
 
-BAI31288.1 (Escherichia coli O103), ABK27321.1 (Escherichia coli O103), ABK27355.1 (Escherichia coli O103), ABK27351.1 (Escherichia coli O103), ABK27352.1 (Escherichia coli O103), ABK27350.1 (Escherichia coli O103), ABK27354.1 (Escherichia coli O103)
+ACD37105.1 (Shigella dysenteriae 3)
 
-![](../../../csdb/images/1842.gif)1842
+![](../../../csdb/images/718.gif)718
 
-ACV67289.1 (Escherichia coli O35)
+BAQ01024.1 (Escherichia coli O51)
 
-![](../../../csdb/images/1542.gif)1542
+![](../../../csdb/images/1558.gif)1558
 
-AHB32438.2 (Acinetobacter baumannii O22)
+ACA24792.1 (Shigella dysenteriae 13)
 
-![](../../../csdb/images/2196.gif)2196
+![](../../../csdb/images/1891.gif)1891
 
-AFW04820.1 (Salmonella enterica O11)
+BAQ00858.1 (Escherichia coli O38)
 
-![](../../../csdb/images/2600.gif)2600
+![](../../../csdb/images/1545.gif)1545
 
-BAQ01860.1 (Escherichia coli O169), AIG62720.1 (Escherichia coli O169)
+ADC54957.1 (Escherichia coli O166)
+
+![](../../../csdb/images/1908.gif)1908
+
+AAM27879.1 (Pseudomonas aeruginosa O9)
+
+![](../../../csdb/images/24037.gif)24037
+
+AHB32774.1 (Acinetobacter baumannii O12)
+
+![](../../../csdb/images/493.gif)493
+
+AFW04883.1 (Salmonella enterica O57)
+
+![](../../../csdb/images/701.gif)701
+
+BAL03056.1 (Escherichia coli O183)
+
+![](../../../csdb/images/1925.gif)1925
+
+AFW04785.1 (Salmonella enterica O62)
+
+![](../../../csdb/images/3359.gif)3359
+
+AIG62720.1 (Escherichia coli O169), BAQ01860.1 (Escherichia coli O169)
 
 ![](../../../csdb/images/1911.gif)1911
+
+AAT85653.1 (Escherichia coli O4)
+
+![](../../../csdb/images/10216.gif)10216
+
+ACD75809.1 (Escherichia coli O2)
+
+![](../../../csdb/images/108685.gif)108685
+
+AAK64372.1 (Escherichia coli O104), EGR73751.1 (Escherichia coli O104)
+
+![](../../../csdb/images/1843.gif)1843
+
+AQU71739.1 (Escherichia coli O1), AQU71717.1 (Escherichia coli O1), ADC54929.1 (Escherichia coli O1), AQU71752.1 (Escherichia coli O1)
+
+![](../../../csdb/images/7222.gif)7222
+
+ADQ37335.1 (Escherichia coli O118)
+
+![](../../../csdb/images/1858.gif)1858
+
+BAQ00746.1 (Escherichia coli O23)
+
+![](../../../csdb/images/20006.gif)20006
 
 ABI98976.1 (Escherichia coli O141)
 
@@ -169,109 +137,141 @@ AFW04812.1 (Salmonella enterica O42)
 
 ![](../../../csdb/images/703.gif)703
 
-ABB29916.1 (Escherichia coli O56)
+BAQ01584.1 (Escherichia coli O120)
 
-![](../../../csdb/images/8382.gif)8382
+![](../../../csdb/images/1860.gif)1860
 
-AHB32774.1 (Acinetobacter baumannii O12)
+ACA24776.1 (Shigella dysenteriae 8)
 
-![](../../../csdb/images/493.gif)493
-
-AFW04684.1 (Salmonella enterica O65)
-
-![](../../../csdb/images/30392.gif)30392
-
-BAL03056.1 (Escherichia coli O183)
-
-![](../../../csdb/images/1925.gif)1925
-
-ADQ37322.1 (Escherichia coli O151)
-
-![](../../../csdb/images/1892.gif)1892
-
-ABB29906.1 (Escherichia coli O24)
-
-![](../../../csdb/images/8411.gif)8411
+![](../../../csdb/images/11557.gif)11557
 
 ADN43894.1 (Escherichia coli O173)
 
 ![](../../../csdb/images/3159.gif)3159
 
-BAQ00746.1 (Escherichia coli O23)
+AAL27339.1 (Shigella boydii 6)
 
-![](../../../csdb/images/20006.gif)20006
+![](../../../csdb/images/712.gif)712
 
-ACA24840.1 (Shigella dysenteriae 11)
+BAQ00634.1 (Escherichia coli O12)
 
-![](../../../csdb/images/1932.gif)1932
-
-WP_016238111.1 (Escherichia coli O81)
-
-![](../../../csdb/images/1587.gif)1587
-
-AAT85653.1 (Escherichia coli O4)
-
-![](../../../csdb/images/10216.gif)10216
-
-BAQ01641.1 (Escherichia coli O131)
-
-![](../../../csdb/images/1873.gif)1873
-
-ACV67297.1 (Escherichia coli O78)
-
-![](../../../csdb/images/1584.gif)1584
-
-AHB32215.1 (Acinetobacter baumannii O1)
-
-![](../../../csdb/images/2091.gif)2091
-
-AAM27879.1 (Pseudomonas aeruginosa O9)
-
-![](../../../csdb/images/24037.gif)24037
+![](../../../csdb/images/1514.gif)1514
 
 BAQ01563.1 (Escherichia coli O116)
 
 ![](../../../csdb/images/1856.gif)1856
 
-ABX51892.1 (Cronobacter sakazakii O2)
+ABI55342.1 (Shigella boydii 17)
 
-![](../../../csdb/images/27572.gif)27572
+![](../../../csdb/images/714.gif)714
 
-ADC54967.1 (Escherichia coli O75)
+AAN60459.1 (Escherichia coli O26)
 
-![](../../../csdb/images/619.gif)619
+![](../../../csdb/images/1534.gif)1534
 
-ACD37105.1 (Shigella dysenteriae 3)
+AHB32715.1 (Acinetobacter baumannii O23), AHB32637.1 (Acinetobacter baumannii O23)
 
-![](../../../csdb/images/718.gif)718
+![](../../../csdb/images/563.gif)563
 
-AFW04785.1 (Salmonella enterica O62)
+ACV67297.1 (Escherichia coli O78)
 
-![](../../../csdb/images/3359.gif)3359
+![](../../../csdb/images/1584.gif)1584
 
-ACA24803.1 (Escherichia coli O150)
+BAQ00622.1 (Escherichia coli O10)
 
-![](../../../csdb/images/715.gif)715
+![](../../../csdb/images/1512.gif)1512
 
-ADQ37335.1 (Escherichia coli O118)
+ABB29906.1 (Escherichia coli O24)
 
-![](../../../csdb/images/1858.gif)1858
+![](../../../csdb/images/8411.gif)8411
 
-AHB32888.2 (Acinetobacter baumannii O7)
+WP_016238111.1 (Escherichia coli O81)
 
-![](../../../csdb/images/495.gif)495
+![](../../../csdb/images/1587.gif)1587
 
-AFW04883.1 (Salmonella enterica O57)
+AHB32438.2 (Acinetobacter baumannii O22)
 
-![](../../../csdb/images/701.gif)701
+![](../../../csdb/images/2196.gif)2196
 
 ACH97162.1 (Escherichia coli O21)
 
 ![](../../../csdb/images/1529.gif)1529
 
-BAQ01024.1 (Escherichia coli O51)
+ACV67289.1 (Escherichia coli O35)
 
-![](../../../csdb/images/1558.gif)1558
+![](../../../csdb/images/1542.gif)1542
+
+AFW04684.1 (Salmonella enterica O65)
+
+![](../../../csdb/images/30392.gif)30392
+
+AFW04860.1 (Salmonella enterica O60)
+
+![](../../../csdb/images/3360.gif)3360
+
+ACA24840.1 (Shigella dysenteriae 11)
+
+![](../../../csdb/images/1932.gif)1932
+
+ACA24811.1 (Shigella dysenteriae 12), ACA24821.1 (Escherichia coli O152)
+
+![](../../../csdb/images/1893.gif)1893
+
+ABB29916.1 (Escherichia coli O56)
+
+![](../../../csdb/images/8382.gif)8382
+
+CAI34008.1 (Streptococcus pneumoniae 27)
+
+![](../../../csdb/images/7085.gif)7085
+
+AAO37701.1 (Escherichia coli O128ab), WP_024244058.1 (Escherichia coli O128ac)
+
+![](../../../csdb/images/1867.gif)1867
+
+ACA24852.1 (Escherichia coli O29)
+
+![](../../../csdb/images/1538.gif)1538
+
+AHB32215.1 (Acinetobacter baumannii O1)
+
+![](../../../csdb/images/2091.gif)2091
+
+BAQ01012.1 (Escherichia coli O50)
+
+![](../../../csdb/images/1557.gif)1557
+
+ABX51892.1 (Cronobacter sakazakii O2)
+
+![](../../../csdb/images/27572.gif)27572
+
+AHB32334.1 (Acinetobacter baumannii O18)
+
+![](../../../csdb/images/483.gif)483
+
+BAQ01169.1 (Escherichia coli O69)
+
+![](../../../csdb/images/1575.gif)1575
+
+BAQ01293.1 (Escherichia coli O84)
+
+![](../../../csdb/images/1590.gif)1590
+
+ACA24803.1 (Escherichia coli O150)
+
+![](../../../csdb/images/715.gif)715
+
+ACD37138.1 (Escherichia coli O124)
+
+![](../../../csdb/images/1863.gif)1863
+
+AHB32888.2 (Acinetobacter baumannii O7)
+
+![](../../../csdb/images/495.gif)495
+
+ABI98966.1 (Escherichia coli O149)
+
+![](../../../csdb/images/1890.gif)1890
 
 #### Additional sugars from blast hits:
 
@@ -279,13 +279,13 @@ AXL96526.1 (Providencia alcalifaciens O38)
 
 ![](../../../csdb/images/27606.gif)27606
 
-VLD07009.1 (Streptococcus pneumoniae 20A)
-
-![](../../../csdb/images/7079.gif)7079
-
 AXY99336.1 (Proteus vulgaris O2)
 
 ![](../../../csdb/images/3058.gif)3058
+
+VLD07009.1 (Streptococcus pneumoniae 20A)
+
+![](../../../csdb/images/7079.gif)7079
 
 #### Taxonomy:
 
@@ -527,7 +527,7 @@ AXY99336.1 (Proteus vulgaris O2)
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 4
+### Supercluster 4
 
 Total number of members in cluster: 540
 
@@ -537,33 +537,9 @@ R 1184, D 1273
 
 #### Sugars in supercluster:
 
-CAI34286.1 (Streptococcus pneumoniae 35A)
+BAQ01266.1 (Escherichia coli O82)
 
-![](../../../csdb/images/1611.gif)1611
-
-BAQ00957.1 (Escherichia coli O46)
-
-![](../../../csdb/images/1554.gif)1554
-
-CAI34080.1 (Streptococcus pneumoniae 29)
-
-![](../../../csdb/images/1227.gif)1227
-
-CAI32957.1 (Streptococcus pneumoniae 8)
-
-![](../../../csdb/images/938.gif)938
-
-CAI34657.1 (Streptococcus pneumoniae 47F)
-
-![](../../../csdb/images/25005.gif)25005
-
-CAI34519.1 (Streptococcus pneumoniae 42)
-
-![](../../../csdb/images/25003.gif)25003
-
-BAQ01812.1 (Escherichia coli O160)
-
-![](../../../csdb/images/1901.gif)1901
+![](../../../csdb/images/1588.gif)1588
 
 CAI33309.1 (Streptococcus pneumoniae 13)
 
@@ -573,21 +549,45 @@ CAI34328.1 (Streptococcus pneumoniae 35C)
 
 ![](../../../csdb/images/7097.gif)7097
 
-BAQ01266.1 (Escherichia coli O82)
+BAQ00957.1 (Escherichia coli O46)
 
-![](../../../csdb/images/1588.gif)1588
+![](../../../csdb/images/1554.gif)1554
+
+CAI34348.1 (Streptococcus pneumoniae 35F)
+
+![](../../../csdb/images/7095.gif)7095
 
 BAQ01687.1 (Escherichia coli O134)
 
 ![](../../../csdb/images/1876.gif)1876
 
-AIG62747.1 (Escherichia coli O178)
+CAI34519.1 (Streptococcus pneumoniae 42)
 
-![](../../../csdb/images/1920.gif)1920
+![](../../../csdb/images/25003.gif)25003
 
-CAI34348.1 (Streptococcus pneumoniae 35F)
+CAI34080.1 (Streptococcus pneumoniae 29)
 
-![](../../../csdb/images/7095.gif)7095
+![](../../../csdb/images/1227.gif)1227
+
+CAI34310.1 (Streptococcus pneumoniae 35B)
+
+![](../../../csdb/images/1609.gif)1609
+
+BAQ01812.1 (Escherichia coli O160)
+
+![](../../../csdb/images/1901.gif)1901
+
+CAI32957.1 (Streptococcus pneumoniae 8)
+
+![](../../../csdb/images/938.gif)938
+
+CAI34286.1 (Streptococcus pneumoniae 35A)
+
+![](../../../csdb/images/1611.gif)1611
+
+CAI34657.1 (Streptococcus pneumoniae 47F)
+
+![](../../../csdb/images/25005.gif)25005
 
 CAI34641.1 (Streptococcus pneumoniae 47A)
 
@@ -597,9 +597,9 @@ CAI33441.1 (Streptococcus pneumoniae 16A)
 
 ![](../../../csdb/images/1490.gif)1490
 
-CAI34310.1 (Streptococcus pneumoniae 35B)
+AIG62747.1 (Escherichia coli O178)
 
-![](../../../csdb/images/1609.gif)1609
+![](../../../csdb/images/1920.gif)1920
 
 #### Additional sugars from blast hits:
 
@@ -691,7 +691,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 2
+### Supercluster 2
 
 Total number of members in cluster: 473
 
@@ -701,23 +701,59 @@ Total number of members in cluster: 473
 
 #### Sugars in supercluster:
 
+CAI32823.1 (Streptococcus pneumoniae 6A), AAL82786.1 (Streptococcus pneumoniae 6A)
+
+![](../../../csdb/images/1087.gif)1087
+
+BAQ01780.1 (Escherichia coli O154)
+
+![](../../../csdb/images/696.gif)696
+
 BAQ01516.1 (Escherichia coli O108)
 
 ![](../../../csdb/images/25389.gif)25389
 
-AHB32586.1 (Acinetobacter baumannii O24)
+BAQ00669.1 (Escherichia coli O18ab)
 
-![](../../../csdb/images/491.gif)491
+![](../../../csdb/images/1524.gif)1524
+
+BAQ00687.1 (Escherichia coli O18ac)
+
+![](../../../csdb/images/1521.gif)1521
+
+CAI32843.1 (Streptococcus pneumoniae 6B)
+
+![](../../../csdb/images/937.gif)937
+
+CMX58981.1 (Streptococcus pneumoniae 19F), VNC99741.1 (Streptococcus pneumoniae 19F), VSB76654.1 (Streptococcus pneumoniae 19F), CAI33700.1 (Streptococcus pneumoniae 19F)
+
+![](../../../csdb/images/739.gif)739
 
 BAQ00653.1 (Escherichia coli O16)
 
 ![](../../../csdb/images/1517.gif)1517
 
-VSB76654.1 (Streptococcus pneumoniae 19F), VNC99741.1 (Streptococcus pneumoniae 19F), CMX58981.1 (Streptococcus pneumoniae 19F), CAI33700.1 (Streptococcus pneumoniae 19F)
+BAQ01675.1 (Escherichia coli O133)
 
-![](../../../csdb/images/739.gif)739
+![](../../../csdb/images/1875.gif)1875
 
-AFC91458.1 (Escherichia coli O45), AFC91419.1 (Escherichia coli O45), AAX07747.1 (Escherichia coli O45)
+CAI34269.1 (Streptococcus pneumoniae 34), VMG48693.1 (Streptococcus pneumoniae 34)
+
+![](../../../csdb/images/7043.gif)7043
+
+AAL27351.1 (Shigella boydii 9)
+
+![](../../../csdb/images/3986.gif)3986
+
+CAI33798.1 (Streptococcus pneumoniae 22F)
+
+![](../../../csdb/images/625.gif)625
+
+AHB32586.1 (Acinetobacter baumannii O24)
+
+![](../../../csdb/images/491.gif)491
+
+AFC91419.1 (Escherichia coli O45), AAX07747.1 (Escherichia coli O45), AFC91458.1 (Escherichia coli O45)
 
 ![](../../../csdb/images/1552.gif)1552
 
@@ -725,69 +761,33 @@ ACD37126.1 (Shigella boydii 2)
 
 ![](../../../csdb/images/3982.gif)3982
 
-CAI32823.1 (Streptococcus pneumoniae 6A), AAL82786.1 (Streptococcus pneumoniae 6A)
+AAZ85718.1 (Escherichia coli O139)
 
-![](../../../csdb/images/1087.gif)1087
-
-BAQ01675.1 (Escherichia coli O133)
-
-![](../../../csdb/images/1875.gif)1875
-
-CAI32843.1 (Streptococcus pneumoniae 6B)
-
-![](../../../csdb/images/937.gif)937
-
-BAQ00669.1 (Escherichia coli O18ab)
-
-![](../../../csdb/images/1524.gif)1524
-
-BAQ01780.1 (Escherichia coli O154)
-
-![](../../../csdb/images/696.gif)696
-
-BAQ01732.1 (Escherichia coli O142)
-
-![](../../../csdb/images/1884.gif)1884
-
-AAM27560.1 (Pseudomonas aeruginosa O10)
-
-![](../../../csdb/images/11180.gif)11180
-
-AAM27711.1 (Pseudomonas aeruginosa O19)
-
-![](../../../csdb/images/11026.gif)11026
-
-AHB32411.1 (Acinetobacter baumannii O10)
-
-![](../../../csdb/images/27746.gif)27746
-
-AAL27351.1 (Shigella boydii 9)
-
-![](../../../csdb/images/3986.gif)3986
-
-ADC54950.1 (Escherichia coli O18)
-
-![](../../../csdb/images/20645.gif)20645
+![](../../../csdb/images/1881.gif)1881
 
 VOS41126.1 (Streptococcus pneumoniae 19A), CAI33631.1 (Streptococcus pneumoniae 19A)
 
 ![](../../../csdb/images/740.gif)740
 
-CAI33798.1 (Streptococcus pneumoniae 22F)
+BAQ01732.1 (Escherichia coli O142)
 
-![](../../../csdb/images/625.gif)625
+![](../../../csdb/images/1884.gif)1884
 
-BAQ00687.1 (Escherichia coli O18ac)
+AHB32411.1 (Acinetobacter baumannii O10)
 
-![](../../../csdb/images/1521.gif)1521
+![](../../../csdb/images/27746.gif)27746
 
-VMG48693.1 (Streptococcus pneumoniae 34), CAI34269.1 (Streptococcus pneumoniae 34)
+AAM27711.1 (Pseudomonas aeruginosa O19)
 
-![](../../../csdb/images/7043.gif)7043
+![](../../../csdb/images/11026.gif)11026
 
-AAZ85718.1 (Escherichia coli O139)
+AAM27560.1 (Pseudomonas aeruginosa O10)
 
-![](../../../csdb/images/1881.gif)1881
+![](../../../csdb/images/11180.gif)11180
+
+ADC54950.1 (Escherichia coli O18)
+
+![](../../../csdb/images/20645.gif)20645
 
 #### Additional sugars from blast hits:
 
@@ -940,7 +940,7 @@ VJK41440.1 (Streptococcus pneumoniae 6C)
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 143
+### Supercluster 143
 
 Total number of members in cluster: 469
 
@@ -949,22 +949,6 @@ Total number of members in cluster: 469
 R 850, R 1170, D 1245
 
 #### Sugars in supercluster:
-
-CAI34286.1 (Streptococcus pneumoniae 35A)
-
-![](../../../csdb/images/1611.gif)1611
-
-CAI34080.1 (Streptococcus pneumoniae 29)
-
-![](../../../csdb/images/1227.gif)1227
-
-CAI34657.1 (Streptococcus pneumoniae 47F)
-
-![](../../../csdb/images/25005.gif)25005
-
-CAI34519.1 (Streptococcus pneumoniae 42)
-
-![](../../../csdb/images/25003.gif)25003
 
 CAI33309.1 (Streptococcus pneumoniae 13)
 
@@ -978,13 +962,29 @@ CAI34348.1 (Streptococcus pneumoniae 35F)
 
 ![](../../../csdb/images/7095.gif)7095
 
-CAI33441.1 (Streptococcus pneumoniae 16A)
+CAI34519.1 (Streptococcus pneumoniae 42)
 
-![](../../../csdb/images/1490.gif)1490
+![](../../../csdb/images/25003.gif)25003
+
+CAI34080.1 (Streptococcus pneumoniae 29)
+
+![](../../../csdb/images/1227.gif)1227
 
 CAI34310.1 (Streptococcus pneumoniae 35B)
 
 ![](../../../csdb/images/1609.gif)1609
+
+CAI34286.1 (Streptococcus pneumoniae 35A)
+
+![](../../../csdb/images/1611.gif)1611
+
+CAI34657.1 (Streptococcus pneumoniae 47F)
+
+![](../../../csdb/images/25005.gif)25005
+
+CAI33441.1 (Streptococcus pneumoniae 16A)
+
+![](../../../csdb/images/1490.gif)1490
 
 #### Additional sugars from blast hits:
 
@@ -1061,7 +1061,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 3
+### Supercluster 3
 
 Total number of members in cluster: 308
 
@@ -1071,69 +1071,57 @@ Total number of members in cluster: 308
 
 #### Sugars in supercluster:
 
-ACD36996.1 (Escherichia coli O168)
-
-![](../../../csdb/images/1910.gif)1910
-
-ACD37165.1 (Escherichia coli O13)
-
-![](../../../csdb/images/1515.gif)1515
-
 ACF64132.1 (Salmonella enterica ssp. enterica sv. Newport), WP_000936592.1 (Salmonella enterica ssp. enterica sv. Newport)
 
 ![](../../../csdb/images/28331.gif)28331
-
-AAZ85713.1 (Escherichia coli O138)
-
-![](../../../csdb/images/1880.gif)1880
-
-ABU80601.1 (Shigella flexneri 6)
-
-![](../../../csdb/images/188.gif)188
-
-WP_000936589.1 (nan ssp. enterica sv. Kentucky O8 98/39), WP_001529369.1 (Salmonella enterica ssp. enterica sv. Kentucky O8 98/39)
-
-![](../../../csdb/images/27410.gif)27410
-
-ACD37181.1 (Escherichia coli O129)
-
-![](../../../csdb/images/1870.gif)1870
-
-AAM27615.1 (Pseudomonas aeruginosa O13)
-
-![](../../../csdb/images/24042.gif)24042
-
-ACD37173.1 (Escherichia coli O135)
-
-![](../../../csdb/images/1877.gif)1877
-
-CAI33466.1 (Streptococcus pneumoniae 16F)
-
-![](../../../csdb/images/1062.gif)1062
 
 AAM27782.1 (Pseudomonas aeruginosa O4)
 
 ![](../../../csdb/images/24033.gif)24033
 
+ACD36996.1 (Escherichia coli O168)
+
+![](../../../csdb/images/1910.gif)1910
+
+AAZ85713.1 (Escherichia coli O138)
+
+![](../../../csdb/images/1880.gif)1880
+
+ACD37181.1 (Escherichia coli O129)
+
+![](../../../csdb/images/1870.gif)1870
+
+WP_001529369.1 (Salmonella enterica ssp. enterica sv. Kentucky O8 98/39), WP_000936589.1 (nan ssp. enterica sv. Kentucky O8 98/39)
+
+![](../../../csdb/images/27410.gif)27410
+
+ABU80601.1 (Shigella flexneri 6)
+
+![](../../../csdb/images/188.gif)188
+
+ACD37173.1 (Escherichia coli O135)
+
+![](../../../csdb/images/1877.gif)1877
+
+AAM27615.1 (Pseudomonas aeruginosa O13)
+
+![](../../../csdb/images/24042.gif)24042
+
+AAY28257.1 (Escherichia coli O177)
+
+![](../../../csdb/images/1919.gif)1919
+
 ACD36984.1 (Shigella dysenteriae 4)
 
 ![](../../../csdb/images/1937.gif)1937
-
-ABI98986.1 (Escherichia coli O147)
-
-![](../../../csdb/images/1624.gif)1624
 
 ADR74237.1 (Escherichia coli O109)
 
 ![](../../../csdb/images/1848.gif)1848
 
-AAM27766.1 (Pseudomonas aeruginosa O3)
+ACD37165.1 (Escherichia coli O13)
 
-![](../../../csdb/images/24032.gif)24032
-
-ADC84238.1 (Escherichia coli O25), ADI43263.1 (Escherichia coli O25)
-
-![](../../../csdb/images/12694.gif)12694
+![](../../../csdb/images/1515.gif)1515
 
 AAM27645.1 (Pseudomonas aeruginosa O15)
 
@@ -1143,17 +1131,29 @@ CAI33817.1 (Streptococcus pneumoniae 23A)
 
 ![](../../../csdb/images/7084.gif)7084
 
-AAY28257.1 (Escherichia coli O177)
+BAQ01456.1 (Escherichia coli O100)
 
-![](../../../csdb/images/1919.gif)1919
+![](../../../csdb/images/1838.gif)1838
+
+AAM27766.1 (Pseudomonas aeruginosa O3)
+
+![](../../../csdb/images/24032.gif)24032
 
 ABE98437.1 (Escherichia coli O146)
 
 ![](../../../csdb/images/1887.gif)1887
 
-BAQ01456.1 (Escherichia coli O100)
+CAI33466.1 (Streptococcus pneumoniae 16F)
 
-![](../../../csdb/images/1838.gif)1838
+![](../../../csdb/images/1062.gif)1062
+
+ADI43263.1 (Escherichia coli O25), ADC84238.1 (Escherichia coli O25)
+
+![](../../../csdb/images/12694.gif)12694
+
+ABI98986.1 (Escherichia coli O147)
+
+![](../../../csdb/images/1624.gif)1624
 
 #### Additional sugars from blast hits:
 
@@ -1272,7 +1272,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 10
+### Supercluster 10
 
 Total number of members in cluster: 284
 
@@ -1282,33 +1282,33 @@ Y 540, R 543, Y 567, K 617, R 753, N 858
 
 #### Sugars in supercluster:
 
+AAM27728.1 (Pseudomonas aeruginosa O2)
+
+![](../../../csdb/images/6565.gif)6565
+
 AAM27693.1 (Pseudomonas aeruginosa O18)
 
 ![](../../../csdb/images/7836.gif)7836
-
-AAA97573.1 (Pseudomonas aeruginosa O5), AAC45857.1 (Pseudomonas aeruginosa O5), AAM27801.1 (Pseudomonas aeruginosa O5)
-
-![](../../../csdb/images/1672.gif)1672
-
-CDF66396.1 (Yersinia similis O:9)
-
-![](../../../csdb/images/12130.gif)12130
-
-AAM27662.1 (Pseudomonas aeruginosa O16)
-
-![](../../../csdb/images/6654.gif)6654
 
 BAQ00780.1 (Escherichia coli O30)
 
 ![](../../../csdb/images/1539.gif)1539
 
-AAM27728.1 (Pseudomonas aeruginosa O2)
+AAC45857.1 (Pseudomonas aeruginosa O5), AAA97573.1 (Pseudomonas aeruginosa O5), AAM27801.1 (Pseudomonas aeruginosa O5)
 
-![](../../../csdb/images/6565.gif)6565
+![](../../../csdb/images/1672.gif)1672
 
 AAM27748.1 (Pseudomonas aeruginosa O20)
 
 ![](../../../csdb/images/6655.gif)6655
+
+AAM27662.1 (Pseudomonas aeruginosa O16)
+
+![](../../../csdb/images/6654.gif)6654
+
+CDF66396.1 (Yersinia similis O:9)
+
+![](../../../csdb/images/12130.gif)12130
 
 #### Additional sugars from blast hits:
 
@@ -1427,7 +1427,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 7
+### Supercluster 7
 
 Total number of members in cluster: 260
 
@@ -1437,17 +1437,9 @@ R 463, S 659, D 719, R 724, K 820
 
 #### Sugars in supercluster:
 
-BAQ00795.1 (Escherichia coli O33)
-
-![](../../../csdb/images/1401.gif)1401
-
 ACD37037.1 (Shigella boydii 3), ACD37046.1 (Escherichia coli O167)
 
 ![](../../../csdb/images/1909.gif)1909
-
-BAQ01659.1 (Escherichia coli O132)
-
-![](../../../csdb/images/1874.gif)1874
 
 ACA24754.1 (Shigella boydii 8), ACA24764.1 (Escherichia coli O143)
 
@@ -1457,9 +1449,17 @@ AFW04847.1 (Salmonella enterica O59)
 
 ![](../../../csdb/images/3362.gif)3362
 
+BAQ00795.1 (Escherichia coli O33)
+
+![](../../../csdb/images/1401.gif)1401
+
 BAQ02088.1 (Escherichia coli O187)
 
 ![](../../../csdb/images/1934.gif)1934
+
+BAQ01659.1 (Escherichia coli O132)
+
+![](../../../csdb/images/1874.gif)1874
 
 #### Additional sugars from blast hits:
 
@@ -1537,7 +1537,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 43
+### Supercluster 43
 
 Total number of members in cluster: 252
 
@@ -1547,13 +1547,13 @@ Y 485, R 488, Y 510, K 559, R 690, N 800
 
 #### Sugars in supercluster:
 
-CDF66396.1 (Yersinia similis O:9)
-
-![](../../../csdb/images/12130.gif)12130
-
 BAQ00780.1 (Escherichia coli O30)
 
 ![](../../../csdb/images/1539.gif)1539
+
+CDF66396.1 (Yersinia similis O:9)
+
+![](../../../csdb/images/12130.gif)12130
 
 #### Additional sugars from blast hits:
 
@@ -1668,7 +1668,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 136
+### Supercluster 136
 
 Total number of members in cluster: 250
 
@@ -1678,21 +1678,25 @@ D 226, Y 231, R 358, H 395, Y 522, R 660
 
 #### Sugars in supercluster:
 
-ABX51892.1 (Cronobacter sakazakii O2)
-
-![](../../../csdb/images/27572.gif)27572
-
-AQU71752.1 (Escherichia coli O1)
-
-![](../../../csdb/images/7222.gif)7222
-
 AFW04883.1 (Salmonella enterica O57)
 
 ![](../../../csdb/images/701.gif)701
 
+BAQ01024.1 (Escherichia coli O51)
+
+![](../../../csdb/images/1558.gif)1558
+
+ABX51892.1 (Cronobacter sakazakii O2)
+
+![](../../../csdb/images/27572.gif)27572
+
 ADC54967.1 (Escherichia coli O75)
 
 ![](../../../csdb/images/619.gif)619
+
+AQU71752.1 (Escherichia coli O1)
+
+![](../../../csdb/images/7222.gif)7222
 
 BAQ00622.1 (Escherichia coli O10)
 
@@ -1701,10 +1705,6 @@ BAQ00622.1 (Escherichia coli O10)
 AFW04820.1 (Salmonella enterica O11)
 
 ![](../../../csdb/images/2600.gif)2600
-
-BAQ01024.1 (Escherichia coli O51)
-
-![](../../../csdb/images/1558.gif)1558
 
 #### Additional sugars from blast hits:
 
@@ -1786,7 +1786,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 162
+### Supercluster 162
 
 Total number of members in cluster: 221
 
@@ -1898,7 +1898,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 5
+### Supercluster 5
 
 Total number of members in cluster: 157
 
@@ -1908,37 +1908,37 @@ R 499, R 813
 
 #### Sugars in supercluster:
 
-CAD19991.1 (Escherichia coli O6), WP_000864940.1 (Escherichia coli O6), ADT75640.1 (Escherichia coli O6)
+ADT75640.1 (Escherichia coli O6), WP_000864940.1 (Escherichia coli O6), CAD19991.1 (Escherichia coli O6)
 
 ![](../../../csdb/images/114261.gif)114261
-
-CAI32772.1 (Streptococcus pneumoniae 4)
-
-![](../../../csdb/images/805.gif)805
-
-AAM27546.1 (Pseudomonas aeruginosa O1)
-
-![](../../../csdb/images/6636.gif)6636
 
 ACH97143.1 (Escherichia coli O117), ABE98413.1 (Escherichia coli O117)
 
 ![](../../../csdb/images/1857.gif)1857
 
+BAQ02048.1 (Escherichia coli O185)
+
+![](../../../csdb/images/1929.gif)1929
+
+CAI32705.1 (Streptococcus pneumoniae 1)
+
+![](../../../csdb/images/31499.gif)31499
+
 ACH97132.1 (Escherichia coli O107)
 
 ![](../../../csdb/images/1846.gif)1846
 
-BAQ02048.1 (Escherichia coli O185)
+CAI32772.1 (Streptococcus pneumoniae 4)
 
-![](../../../csdb/images/1929.gif)1929
+![](../../../csdb/images/805.gif)805
 
 ABF01010.1 (Escherichia coli O28ac)
 
 ![](../../../csdb/images/1537.gif)1537
 
-CAI32705.1 (Streptococcus pneumoniae 1)
+AAM27546.1 (Pseudomonas aeruginosa O1)
 
-![](../../../csdb/images/31499.gif)31499
+![](../../../csdb/images/6636.gif)6636
 
 ACK44379.1 (Escherichia coli O42)
 
@@ -2011,7 +2011,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 13
+### Supercluster 13
 
 Total number of members in cluster: 144
 
@@ -2021,14 +2021,6 @@ K 347, R 428
 
 #### Sugars in supercluster:
 
-AFN02899.1 (Escherichia coli O180)
-
-![](../../../csdb/images/704.gif)704
-
-CBN82200.1 (Escherichia coli O70)
-
-![](../../../csdb/images/1576.gif)1576
-
 BAQ00569.1 (Escherichia coli O5)
 
 ![](../../../csdb/images/3191.gif)3191
@@ -2037,9 +2029,17 @@ ADI77033.1 (Escherichia coli O71)
 
 ![](../../../csdb/images/1577.gif)1577
 
+CBN82200.1 (Escherichia coli O70)
+
+![](../../../csdb/images/1576.gif)1576
+
 AAT77177.1 (Escherichia coli O114)
 
 ![](../../../csdb/images/1854.gif)1854
+
+AFN02899.1 (Escherichia coli O180)
+
+![](../../../csdb/images/704.gif)704
 
 #### Additional sugars from blast hits:
 
@@ -2110,7 +2110,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 119
+### Supercluster 119
 
 Total number of members in cluster: 141
 
@@ -2120,13 +2120,13 @@ R 583, Y 623, D 654
 
 #### Sugars in supercluster:
 
-CAI34150.1 (Streptococcus pneumoniae 32F)
-
-![](../../../csdb/images/848.gif)848
-
 CAI34124.1 (Streptococcus pneumoniae 32A)
 
 ![](../../../csdb/images/918.gif)918
+
+CAI34150.1 (Streptococcus pneumoniae 32F)
+
+![](../../../csdb/images/848.gif)848
 
 #### Additional sugars from blast hits:
 
@@ -2192,7 +2192,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 73
+### Supercluster 73
 
 Total number of members in cluster: 132
 
@@ -2202,25 +2202,25 @@ R 377, Y 486, N 584, D 595
 
 #### Sugars in supercluster:
 
-VMG48693.1 (Streptococcus pneumoniae 34), CAI34269.1 (Streptococcus pneumoniae 34)
-
-![](../../../csdb/images/7043.gif)7043
-
-CAI33700.1 (Streptococcus pneumoniae 19F), CMX58981.1 (Streptococcus pneumoniae 19F), VSB76654.1 (Streptococcus pneumoniae 19F), VNC99741.1 (Streptococcus pneumoniae 19F)
-
-![](../../../csdb/images/739.gif)739
-
 CAI32843.1 (Streptococcus pneumoniae 6B)
 
 ![](../../../csdb/images/937.gif)937
+
+CMX58981.1 (Streptococcus pneumoniae 19F), VNC99741.1 (Streptococcus pneumoniae 19F), VSB76654.1 (Streptococcus pneumoniae 19F), CAI33700.1 (Streptococcus pneumoniae 19F)
+
+![](../../../csdb/images/739.gif)739
+
+AAL82786.1 (Streptococcus pneumoniae 6A), CAI32823.1 (Streptococcus pneumoniae 6A)
+
+![](../../../csdb/images/1087.gif)1087
 
 CAI33631.1 (Streptococcus pneumoniae 19A), VOS41126.1 (Streptococcus pneumoniae 19A)
 
 ![](../../../csdb/images/740.gif)740
 
-AAL82786.1 (Streptococcus pneumoniae 6A), CAI32823.1 (Streptococcus pneumoniae 6A)
+CAI34269.1 (Streptococcus pneumoniae 34), VMG48693.1 (Streptococcus pneumoniae 34)
 
-![](../../../csdb/images/1087.gif)1087
+![](../../../csdb/images/7043.gif)7043
 
 #### Additional sugars from blast hits:
 
@@ -2285,7 +2285,7 @@ VJK41440.1 (Streptococcus pneumoniae 6C)
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 149
+### Supercluster 149
 
 Total number of members in cluster: 129
 
@@ -2295,13 +2295,13 @@ R 165, D 172, Y 177, R 300, H 338, R 549
 
 #### Sugars in supercluster:
 
+AHB32637.1 (Acinetobacter baumannii O23), AHB32715.1 (Acinetobacter baumannii O23)
+
+![](../../../csdb/images/563.gif)563
+
 CAI33718.1 (Streptococcus pneumoniae 20)
 
 ![](../../../csdb/images/1928.gif)1928
-
-AHB32715.1 (Acinetobacter baumannii O23), AHB32637.1 (Acinetobacter baumannii O23)
-
-![](../../../csdb/images/563.gif)563
 
 #### Additional sugars from blast hits:
 
@@ -2365,7 +2365,7 @@ VLD07009.1 (Streptococcus pneumoniae 20A)
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 118
+### Supercluster 118
 
 Total number of members in cluster: 128
 
@@ -2375,13 +2375,13 @@ R 295, R 362, Y 422, Y 424, N 431
 
 #### Sugars in supercluster:
 
-AFC91419.1 (Escherichia coli O45), AFC91458.1 (Escherichia coli O45), AAX07747.1 (Escherichia coli O45)
-
-![](../../../csdb/images/1552.gif)1552
-
 AHB32411.1 (Acinetobacter baumannii O10)
 
 ![](../../../csdb/images/27746.gif)27746
+
+AFC91458.1 (Escherichia coli O45), AFC91419.1 (Escherichia coli O45), AAX07747.1 (Escherichia coli O45)
+
+![](../../../csdb/images/1552.gif)1552
 
 #### Additional sugars from blast hits:
 
@@ -2446,7 +2446,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 122
+### Supercluster 122
 
 Total number of members in cluster: 126
 
@@ -2492,7 +2492,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 213
+### Supercluster 213
 
 Total number of members in cluster: 123
 
@@ -2502,10 +2502,6 @@ R 246, K 320, R 398, K 514
 
 #### Sugars in supercluster:
 
-AFN02899.1 (Escherichia coli O180)
-
-![](../../../csdb/images/704.gif)704
-
 BAQ00569.1 (Escherichia coli O5)
 
 ![](../../../csdb/images/3191.gif)3191
@@ -2513,6 +2509,10 @@ BAQ00569.1 (Escherichia coli O5)
 AAT77177.1 (Escherichia coli O114)
 
 ![](../../../csdb/images/1854.gif)1854
+
+AFN02899.1 (Escherichia coli O180)
+
+![](../../../csdb/images/704.gif)704
 
 #### Additional sugars from blast hits:
 
@@ -2575,7 +2575,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 6
+### Supercluster 6
 
 Total number of members in cluster: 120
 
@@ -2585,13 +2585,49 @@ R 417, R 490
 
 #### Sugars in supercluster:
 
+AJR19430.1 (Escherichia coli O186), BAQ02068.1 (Escherichia coli O186)
+
+![](../../../csdb/images/1933.gif)1933
+
+AAO39700.1 (Escherichia coli O121), AFC91570.1 (Escherichia coli O121), AFC91514.1 (Escherichia coli O121), AFC91472.1 (Escherichia coli O121)
+
+![](../../../csdb/images/1861.gif)1861
+
+AAT28922.1 (Escherichia coli O172)
+
+![](../../../csdb/images/1914.gif)1914
+
+ABG81806.1 (Escherichia coli O123), BAQ02224.1 (Escherichia coli O123)
+
+![](../../../csdb/images/697.gif)697
+
+ACV52983.1 (Yersinia pseudotuberculosis O:11)
+
+![](../../../csdb/images/12124.gif)12124
+
+BAQ00758.1 (Escherichia coli O28ab)
+
+![](../../../csdb/images/736.gif)736
+
 ADB02825.1 (Escherichia coli O119)
 
 ![](../../../csdb/images/1859.gif)1859
 
-BAH24292.1 (Escherichia coli O7), AAD44158.1 (Escherichia coli O7)
+AAR97964.1 (Shigella dysenteriae 7)
+
+![](../../../csdb/images/108660.gif)108660
+
+AAD44158.1 (Escherichia coli O7), BAH24292.1 (Escherichia coli O7)
 
 ![](../../../csdb/images/1385.gif)1385
+
+BAQ01843.1 (Escherichia coli O163)
+
+![](../../../csdb/images/1905.gif)1905
+
+AKA20948.1 (Yersinia pseudotuberculosis O:3)
+
+![](../../../csdb/images/12133.gif)12133
 
 BAQ00879.1 (Escherichia coli O39)
 
@@ -2604,42 +2640,6 @@ AAR24270.1 (Shigella boydii 13)
 AAZ20761.1 (Escherichia coli O66)
 
 ![](../../../csdb/images/1573.gif)1573
-
-BAQ01843.1 (Escherichia coli O163)
-
-![](../../../csdb/images/1905.gif)1905
-
-AFC91472.1 (Escherichia coli O121), AFC91570.1 (Escherichia coli O121), AFC91514.1 (Escherichia coli O121), AAO39700.1 (Escherichia coli O121)
-
-![](../../../csdb/images/1861.gif)1861
-
-BAQ00758.1 (Escherichia coli O28ab)
-
-![](../../../csdb/images/736.gif)736
-
-BAQ02224.1 (Escherichia coli O123), ABG81806.1 (Escherichia coli O123)
-
-![](../../../csdb/images/697.gif)697
-
-BAQ02068.1 (Escherichia coli O186), AJR19430.1 (Escherichia coli O186)
-
-![](../../../csdb/images/1933.gif)1933
-
-AAR97964.1 (Shigella dysenteriae 7)
-
-![](../../../csdb/images/108660.gif)108660
-
-ACV52983.1 (Yersinia pseudotuberculosis O:11)
-
-![](../../../csdb/images/12124.gif)12124
-
-AKA20948.1 (Yersinia pseudotuberculosis O:3)
-
-![](../../../csdb/images/12133.gif)12133
-
-AAT28922.1 (Escherichia coli O172)
-
-![](../../../csdb/images/1914.gif)1914
 
 #### Additional sugars from blast hits:
 
@@ -2687,7 +2687,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 158
+### Supercluster 158
 
 Total number of members in cluster: 118
 
@@ -2697,25 +2697,25 @@ R 501, N 502, E 508, S 680
 
 #### Sugars in supercluster:
 
-VQJ42306.1 (Streptococcus pneumoniae 33F), CAI34254.1 (Streptococcus pneumoniae 33F)
+CAI34177.1 (Streptococcus pneumoniae 33A)
 
-![](../../../csdb/images/1965.gif)1965
-
-VIU37569.1 (Streptococcus pneumoniae 33D), CAI34236.1 (Streptococcus pneumoniae 33D)
-
-![](../../../csdb/images/7094.gif)7094
+![](../../../csdb/images/7091.gif)7091
 
 CAI34217.1 (Streptococcus pneumoniae 33C)
 
 ![](../../../csdb/images/7093.gif)7093
 
-CAI34177.1 (Streptococcus pneumoniae 33A)
+VQJ42306.1 (Streptococcus pneumoniae 33F), CAI34254.1 (Streptococcus pneumoniae 33F)
 
-![](../../../csdb/images/7091.gif)7091
+![](../../../csdb/images/1965.gif)1965
 
 CAI34198.1 (Streptococcus pneumoniae 33B)
 
 ![](../../../csdb/images/7092.gif)7092
+
+VIU37569.1 (Streptococcus pneumoniae 33D), CAI34236.1 (Streptococcus pneumoniae 33D)
+
+![](../../../csdb/images/7094.gif)7094
 
 #### Additional sugars from blast hits:
 
@@ -2759,7 +2759,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 160
+### Supercluster 160
 
 Total number of members in cluster: 104
 
@@ -2834,7 +2834,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 14
+### Supercluster 14
 
 Total number of members in cluster: 101
 
@@ -2844,21 +2844,21 @@ D 399, E 463, R 601
 
 #### Sugars in supercluster:
 
-CAI33343.1 (Streptococcus pneumoniae 15A), VSN79485.1 (Streptococcus pneumoniae 15A)
-
-![](../../../csdb/images/2973.gif)2973
-
 CAI32867.1 (Streptococcus pneumoniae 7A)
 
 ![](../../../csdb/images/2624.gif)2624
 
-VQD68897.1 (Streptococcus pneumoniae 15F), CAI33412.1 (Streptococcus pneumoniae 15F)
+CAI33412.1 (Streptococcus pneumoniae 15F), VQD68897.1 (Streptococcus pneumoniae 15F)
 
 ![](../../../csdb/images/2972.gif)2972
 
 CAI32935.1 (Streptococcus pneumoniae 7F)
 
 ![](../../../csdb/images/1949.gif)1949
+
+VSN79485.1 (Streptococcus pneumoniae 15A), CAI33343.1 (Streptococcus pneumoniae 15A)
+
+![](../../../csdb/images/2973.gif)2973
 
 #### Additional sugars from blast hits:
 
@@ -2907,7 +2907,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 134
+### Supercluster 134
 
 Total number of members in cluster: 92
 
@@ -2969,7 +2969,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 8
+### Supercluster 8
 
 Total number of members in cluster: 81
 
@@ -2979,29 +2979,29 @@ D 140, R 260, H 303, Y 404, R 501
 
 #### Sugars in supercluster:
 
-ACD37086.1 (Escherichia coli O112ab)
+ADI43271.1 (Escherichia coli O27)
 
-![](../../../csdb/images/705.gif)705
-
-AAD50486.1 (Escherichia coli O113)
-
-![](../../../csdb/images/1853.gif)1853
-
-BAQ01999.1 (Escherichia coli O181)
-
-![](../../../csdb/images/1923.gif)1923
+![](../../../csdb/images/1535.gif)1535
 
 ADV17650.1 (Escherichia coli O11)
 
 ![](../../../csdb/images/1513.gif)1513
 
+BAQ01999.1 (Escherichia coli O181)
+
+![](../../../csdb/images/1923.gif)1923
+
 ACD37078.1 (Shigella boydii 15)
 
 ![](../../../csdb/images/1851.gif)1851
 
-ADI43271.1 (Escherichia coli O27)
+AAD50486.1 (Escherichia coli O113)
 
-![](../../../csdb/images/1535.gif)1535
+![](../../../csdb/images/1853.gif)1853
+
+ACD37086.1 (Escherichia coli O112ab)
+
+![](../../../csdb/images/705.gif)705
 
 #### Additional sugars from blast hits:
 
@@ -3034,7 +3034,7 @@ AXY99682.1 (Proteus vulgaris O34)
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 98
+### Supercluster 98
 
 Total number of members in cluster: 80
 
@@ -3044,10 +3044,6 @@ Y 261, R 340, R 401
 
 #### Sugars in supercluster:
 
-AAM27546.1 (Pseudomonas aeruginosa O1)
-
-![](../../../csdb/images/6636.gif)6636
-
 BAQ02048.1 (Escherichia coli O185)
 
 ![](../../../csdb/images/1929.gif)1929
@@ -3055,6 +3051,10 @@ BAQ02048.1 (Escherichia coli O185)
 ABF01010.1 (Escherichia coli O28ac)
 
 ![](../../../csdb/images/1537.gif)1537
+
+AAM27546.1 (Pseudomonas aeruginosa O1)
+
+![](../../../csdb/images/6636.gif)6636
 
 ACK44379.1 (Escherichia coli O42)
 
@@ -3098,7 +3098,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 16
+### Supercluster 16
 
 Total number of members in cluster: 79
 
@@ -3108,29 +3108,29 @@ Q 217, D 232, R 245, R 261, E 268, S 313, D 451, K 500
 
 #### Sugars in supercluster:
 
-BAQ01917.1 (Escherichia coli O175)
+BAQ01533.1 (Escherichia coli O110)
 
-![](../../../csdb/images/1917.gif)1917
+![](../../../csdb/images/1849.gif)1849
 
 AFW04828.1 (Salmonella enterica O44)
 
 ![](../../../csdb/images/3367.gif)3367
 
-ADC54974.1 (Escherichia coli O85)
+BAQ01917.1 (Escherichia coli O175)
 
-![](../../../csdb/images/1591.gif)1591
+![](../../../csdb/images/1917.gif)1917
 
 AFW04837.1 (Salmonella enterica O53)
 
 ![](../../../csdb/images/26312.gif)26312
 
+ADC54974.1 (Escherichia coli O85)
+
+![](../../../csdb/images/1591.gif)1591
+
 CAN87666.1 (Escherichia coli O45)
 
 ![](../../../csdb/images/1552.gif)1552
-
-BAQ01533.1 (Escherichia coli O110)
-
-![](../../../csdb/images/1849.gif)1849
 
 BAQ00994.1 (Escherichia coli O49)
 
@@ -3166,7 +3166,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 30
+### Supercluster 30
 
 Total number of members in cluster: 79
 
@@ -3224,7 +3224,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 18
+### Supercluster 18
 
 Total number of members in cluster: 78
 
@@ -3282,7 +3282,7 @@ AXY99492.1 (Proteus vulgaris O17)
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 27
+### Supercluster 27
 
 Total number of members in cluster: 75
 
@@ -3339,7 +3339,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 11
+### Supercluster 11
 
 Total number of members in cluster: 73
 
@@ -3349,21 +3349,21 @@ R 360, E 367, S 418, R 520, R 536
 
 #### Sugars in supercluster:
 
-BAQ01878.1 (Escherichia coli O170)
+AAK60458.1 (Escherichia coli O91)
 
-![](../../../csdb/images/1407.gif)1407
+![](../../../csdb/images/895.gif)895
 
 BAQ01238.1 (Escherichia coli O80)
 
 ![](../../../csdb/images/11285.gif)11285
 
-AAK60458.1 (Escherichia coli O91)
-
-![](../../../csdb/images/895.gif)895
-
 BAQ01793.1 (Escherichia coli O156)
 
 ![](../../../csdb/images/1897.gif)1897
+
+BAQ01878.1 (Escherichia coli O170)
+
+![](../../../csdb/images/1407.gif)1407
 
 #### Additional sugars from blast hits:
 
@@ -3402,7 +3402,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 61
+### Supercluster 61
 
 Total number of members in cluster: 70
 
@@ -3412,17 +3412,17 @@ R 308, R 309, R 453, Q 456, R 491, E 500, Y 503
 
 #### Sugars in supercluster:
 
-AAM27645.1 (Pseudomonas aeruginosa O15)
+AAZ85713.1 (Escherichia coli O138)
 
-![](../../../csdb/images/3929.gif)3929
+![](../../../csdb/images/1880.gif)1880
 
 AAM27615.1 (Pseudomonas aeruginosa O13)
 
 ![](../../../csdb/images/24042.gif)24042
 
-AAZ85713.1 (Escherichia coli O138)
+AAM27645.1 (Pseudomonas aeruginosa O15)
 
-![](../../../csdb/images/1880.gif)1880
+![](../../../csdb/images/3929.gif)3929
 
 AAM27766.1 (Pseudomonas aeruginosa O3)
 
@@ -3473,7 +3473,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 175
+### Supercluster 175
 
 Total number of members in cluster: 68
 
@@ -3483,21 +3483,21 @@ R 237, K 305, R 351, Y 376, N 444, D 455, Y 492
 
 #### Sugars in supercluster:
 
-ADC54950.1 (Escherichia coli O18)
-
-![](../../../csdb/images/20645.gif)20645
-
-BAQ01732.1 (Escherichia coli O142)
-
-![](../../../csdb/images/1884.gif)1884
-
 BAQ00687.1 (Escherichia coli O18ac)
 
 ![](../../../csdb/images/1521.gif)1521
 
+ADC54950.1 (Escherichia coli O18)
+
+![](../../../csdb/images/20645.gif)20645
+
 BAQ00669.1 (Escherichia coli O18ab)
 
 ![](../../../csdb/images/1524.gif)1524
+
+BAQ01732.1 (Escherichia coli O142)
+
+![](../../../csdb/images/1884.gif)1884
 
 #### Additional sugars from blast hits:
 
@@ -3533,7 +3533,7 @@ ARD51912.1 (Escherichia coli O68)
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 12
+### Supercluster 12
 
 Total number of members in cluster: 67
 
@@ -3543,27 +3543,31 @@ R 393, H 453
 
 #### Sugars in supercluster:
 
-CAI32973.1 (Streptococcus pneumoniae 9A)
+CAI33029.1 (Streptococcus pneumoniae 9V)
 
-![](../../../csdb/images/112112.gif)112112
-
-CAI33207.1 (Streptococcus pneumoniae 11F)
-
-![](../../../csdb/images/7053.gif)7053
-
-CAI33491.1 (Streptococcus pneumoniae 17A)
-
-![](../../../csdb/images/7070.gif)7070
-
-CAI33188.1 (Streptococcus pneumoniae 11D)
-
-![](../../../csdb/images/7056.gif)7056
+![](../../../csdb/images/320.gif)320
 
 CAI33169.1 (Streptococcus pneumoniae 11C)
 
 ![](../../../csdb/images/31003.gif)31003
 
-CAI33515.1 (Streptococcus pneumoniae 17F), VIQ20135.1 (Streptococcus pneumoniae 17F)
+CAI33149.1 (Streptococcus pneumoniae 11B)
+
+![](../../../csdb/images/7054.gif)7054
+
+CAI33207.1 (Streptococcus pneumoniae 11F)
+
+![](../../../csdb/images/7053.gif)7053
+
+CAI33128.1 (Streptococcus pneumoniae 11A)
+
+![](../../../csdb/images/1493.gif)1493
+
+CAI33491.1 (Streptococcus pneumoniae 17A)
+
+![](../../../csdb/images/7070.gif)7070
+
+VIQ20135.1 (Streptococcus pneumoniae 17F), CAI33515.1 (Streptococcus pneumoniae 17F)
 
 ![](../../../csdb/images/815.gif)815
 
@@ -3571,21 +3575,17 @@ CAI32993.1 (Streptococcus pneumoniae 9L)
 
 ![](../../../csdb/images/7046.gif)7046
 
+CAI32973.1 (Streptococcus pneumoniae 9A)
+
+![](../../../csdb/images/112112.gif)112112
+
+CAI33188.1 (Streptococcus pneumoniae 11D)
+
+![](../../../csdb/images/7056.gif)7056
+
 CAI33011.1 (Streptococcus pneumoniae 9N)
 
 ![](../../../csdb/images/7415.gif)7415
-
-CAI33149.1 (Streptococcus pneumoniae 11B)
-
-![](../../../csdb/images/7054.gif)7054
-
-CAI33029.1 (Streptococcus pneumoniae 9V)
-
-![](../../../csdb/images/320.gif)320
-
-CAI33128.1 (Streptococcus pneumoniae 11A)
-
-![](../../../csdb/images/1493.gif)1493
 
 #### Additional sugars from blast hits:
 
@@ -3619,7 +3619,7 @@ CZE39046.1 (Streptococcus pneumoniae 5)
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 15
+### Supercluster 15
 
 Total number of members in cluster: 65
 
@@ -3629,33 +3629,33 @@ R 189, K 219, D 227, S 228, N 229, S 283, R 284, D 368, S 370, K 374, H 416, E 4
 
 #### Sugars in supercluster:
 
-BAQ00975.1 (Escherichia coli O48)
+ACD37006.1 (Shigella dysenteriae 2)
 
-![](../../../csdb/images/1555.gif)1555
+![](../../../csdb/images/1869.gif)1869
 
-BAQ00846.1 (Escherichia coli O37)
+AFS33314.1 (Escherichia coli O102), BAQ01494.1 (Escherichia coli O102)
 
-![](../../../csdb/images/1544.gif)1544
+![](../../../csdb/images/1841.gif)1841
 
 AFW04741.1 (Salmonella enterica O21)
 
 ![](../../../csdb/images/30351.gif)30351
 
-BAQ01494.1 (Escherichia coli O102), AFS33314.1 (Escherichia coli O102)
+ACD37014.1 (Escherichia coli O112ac)
 
-![](../../../csdb/images/1841.gif)1841
-
-ACD37006.1 (Shigella dysenteriae 2)
-
-![](../../../csdb/images/1869.gif)1869
+![](../../../csdb/images/1852.gif)1852
 
 ACD37157.1 (Escherichia coli O130)
 
 ![](../../../csdb/images/1871.gif)1871
 
-ACD37014.1 (Escherichia coli O112ac)
+BAQ00846.1 (Escherichia coli O37)
 
-![](../../../csdb/images/1852.gif)1852
+![](../../../csdb/images/1544.gif)1544
+
+BAQ00975.1 (Escherichia coli O48)
+
+![](../../../csdb/images/1555.gif)1555
 
 #### Additional sugars from blast hits:
 
@@ -3690,7 +3690,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 17
+### Supercluster 17
 
 Total number of members in cluster: 64
 
@@ -3700,13 +3700,13 @@ R 228, Y 231, R 235, K 290, Y 388, D 390, R 426, K 432, D 469
 
 #### Sugars in supercluster:
 
-CAR37642.1 (Salmonella enterica Gallinarum bv. Pullorum 11)
-
-![](../../../csdb/images/30403.gif)30403
-
 AAL20257.1 (Salmonella enterica O4 (B) Typhimurium)
 
 ![](../../../csdb/images/30397.gif)30397
+
+AAV77445.1 (Salmonella enterica Paratyphi A), CAR59582.1 (Salmonella enterica Paratyphi A)
+
+![](../../../csdb/images/7418.gif)7418
 
 BAQ00830.1 (Escherichia coli O36)
 
@@ -3716,9 +3716,9 @@ AAO68867.1 (Salmonella enterica Typhi), WP_000905563.1 (nan Typhi)
 
 ![](../../../csdb/images/21859.gif)21859
 
-AAV77445.1 (Salmonella enterica Paratyphi A), CAR59582.1 (Salmonella enterica Paratyphi A)
+CAR37642.1 (Salmonella enterica Gallinarum bv. Pullorum 11)
 
-![](../../../csdb/images/7418.gif)7418
+![](../../../csdb/images/30403.gif)30403
 
 #### Additional sugars from blast hits:
 
@@ -3756,7 +3756,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 208
+### Supercluster 208
 
 Total number of members in cluster: 63
 
@@ -3766,33 +3766,33 @@ R 185, K 215, D 223, S 224, N 225, S 279, R 280, D 366, S 368, K 372, H 413, E 4
 
 #### Sugars in supercluster:
 
-BAQ00975.1 (Escherichia coli O48)
+ACD37006.1 (Shigella dysenteriae 2)
 
-![](../../../csdb/images/1555.gif)1555
+![](../../../csdb/images/1869.gif)1869
 
-BAQ00846.1 (Escherichia coli O37)
+AFS33314.1 (Escherichia coli O102), BAQ01494.1 (Escherichia coli O102)
 
-![](../../../csdb/images/1544.gif)1544
+![](../../../csdb/images/1841.gif)1841
 
 AFW04741.1 (Salmonella enterica O21)
 
 ![](../../../csdb/images/30351.gif)30351
 
-BAQ01494.1 (Escherichia coli O102), AFS33314.1 (Escherichia coli O102)
+ACD37014.1 (Escherichia coli O112ac)
 
-![](../../../csdb/images/1841.gif)1841
-
-ACD37006.1 (Shigella dysenteriae 2)
-
-![](../../../csdb/images/1869.gif)1869
+![](../../../csdb/images/1852.gif)1852
 
 ACD37157.1 (Escherichia coli O130)
 
 ![](../../../csdb/images/1871.gif)1871
 
-ACD37014.1 (Escherichia coli O112ac)
+BAQ00846.1 (Escherichia coli O37)
 
-![](../../../csdb/images/1852.gif)1852
+![](../../../csdb/images/1544.gif)1544
+
+BAQ00975.1 (Escherichia coli O48)
+
+![](../../../csdb/images/1555.gif)1555
 
 #### Additional sugars from blast hits:
 
@@ -3827,7 +3827,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 189
+### Supercluster 189
 
 Total number of members in cluster: 63
 
@@ -3841,29 +3841,29 @@ BAH24292.1 (Escherichia coli O7), AAD44158.1 (Escherichia coli O7)
 
 ![](../../../csdb/images/1385.gif)1385
 
-BAQ00879.1 (Escherichia coli O39)
-
-![](../../../csdb/images/1383.gif)1383
-
-AJR19430.1 (Escherichia coli O186), BAQ02068.1 (Escherichia coli O186)
+BAQ02068.1 (Escherichia coli O186), AJR19430.1 (Escherichia coli O186)
 
 ![](../../../csdb/images/1933.gif)1933
-
-AFC91472.1 (Escherichia coli O121), AFC91514.1 (Escherichia coli O121), AFC91570.1 (Escherichia coli O121), AAO39700.1 (Escherichia coli O121)
-
-![](../../../csdb/images/1861.gif)1861
 
 BAQ00758.1 (Escherichia coli O28ab)
 
 ![](../../../csdb/images/736.gif)736
 
-BAQ02224.1 (Escherichia coli O123), ABG81806.1 (Escherichia coli O123)
+BAQ00879.1 (Escherichia coli O39)
 
-![](../../../csdb/images/697.gif)697
+![](../../../csdb/images/1383.gif)1383
+
+AAO39700.1 (Escherichia coli O121), AFC91514.1 (Escherichia coli O121), AFC91570.1 (Escherichia coli O121), AFC91472.1 (Escherichia coli O121)
+
+![](../../../csdb/images/1861.gif)1861
 
 AAR97964.1 (Shigella dysenteriae 7)
 
 ![](../../../csdb/images/108660.gif)108660
+
+ABG81806.1 (Escherichia coli O123), BAQ02224.1 (Escherichia coli O123)
+
+![](../../../csdb/images/697.gif)697
 
 #### Additional sugars from blast hits:
 
@@ -3900,7 +3900,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 177
+### Supercluster 177
 
 Total number of members in cluster: 58
 
@@ -3910,25 +3910,25 @@ Q 170, D 185, R 198, R 212, E 219, S 262, R 313, D 322, S 324, K 328, D 366, K 4
 
 #### Sugars in supercluster:
 
+AFW04837.1 (Salmonella enterica O53)
+
+![](../../../csdb/images/26312.gif)26312
+
 ADC54974.1 (Escherichia coli O85)
 
 ![](../../../csdb/images/1591.gif)1591
 
-BAQ01917.1 (Escherichia coli O175)
+CAN87666.1 (Escherichia coli O45)
 
-![](../../../csdb/images/1917.gif)1917
-
-AFW04837.1 (Salmonella enterica O53)
-
-![](../../../csdb/images/26312.gif)26312
+![](../../../csdb/images/1552.gif)1552
 
 AFW04828.1 (Salmonella enterica O44)
 
 ![](../../../csdb/images/3367.gif)3367
 
-CAN87666.1 (Escherichia coli O45)
+BAQ01917.1 (Escherichia coli O175)
 
-![](../../../csdb/images/1552.gif)1552
+![](../../../csdb/images/1917.gif)1917
 
 BAQ00994.1 (Escherichia coli O49)
 
@@ -3959,7 +3959,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 131
+### Supercluster 131
 
 Total number of members in cluster: 55
 
@@ -3968,6 +3968,10 @@ Total number of members in cluster: 55
 R 58, D 64, Y 68, E 89, R 156, H 202, Y 269, R 352, Y 425
 
 #### Sugars in supercluster:
+
+ACA24821.1 (Escherichia coli O152), ACA24811.1 (Shigella dysenteriae 12)
+
+![](../../../csdb/images/1893.gif)1893
 
 ADQ37322.1 (Escherichia coli O151)
 
@@ -3980,10 +3984,6 @@ ADQ37335.1 (Escherichia coli O118)
 ADN43894.1 (Escherichia coli O173)
 
 ![](../../../csdb/images/3159.gif)3159
-
-ACA24821.1 (Escherichia coli O152), ACA24811.1 (Shigella dysenteriae 12)
-
-![](../../../csdb/images/1893.gif)1893
 
 #### Additional sugars from blast hits:
 
@@ -4018,7 +4018,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 137
+### Supercluster 137
 
 Total number of members in cluster: 51
 
@@ -4054,7 +4054,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 9
+### Supercluster 9
 
 Total number of members in cluster: 48
 
@@ -4072,13 +4072,13 @@ CAI33675.1 (Streptococcus pneumoniae 19C)
 
 ![](../../../csdb/images/2255.gif)2255
 
-CAI32889.1 (Streptococcus pneumoniae 7B)
-
-![](../../../csdb/images/7041.gif)7041
-
 CAI33652.1 (Streptococcus pneumoniae 19B)
 
 ![](../../../csdb/images/2254.gif)2254
+
+CAI32889.1 (Streptococcus pneumoniae 7B)
+
+![](../../../csdb/images/7041.gif)7041
 
 #### Additional sugars from blast hits:
 
@@ -4102,7 +4102,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 83
+### Supercluster 83
 
 Total number of members in cluster: 47
 
@@ -4112,13 +4112,13 @@ D 80, Y 84, E 190, R 331, E 367, N 434, R 440
 
 #### Sugars in supercluster:
 
-AAN23057.1 (Yersinia pseudotuberculosis O:4b)
-
-![](../../../csdb/images/12136.gif)12136
-
 AAN23078.1 (Yersinia pseudotuberculosis O:2a)
 
 ![](../../../csdb/images/12135.gif)12135
+
+AAN23057.1 (Yersinia pseudotuberculosis O:4b)
+
+![](../../../csdb/images/12136.gif)12136
 
 #### Additional sugars from blast hits:
 
@@ -4153,7 +4153,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 101
+### Supercluster 101
 
 Total number of members in cluster: 47
 
@@ -4197,7 +4197,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 217
+### Supercluster 217
 
 Total number of members in cluster: 46
 
@@ -4207,21 +4207,21 @@ R 160, Y 163, T 166, R 167, S 177, K 216, Y 304, D 306, R 309, N 310, E 331, R 3
 
 #### Sugars in supercluster:
 
-CAR37642.1 (Salmonella enterica Gallinarum bv. Pullorum 11)
-
-![](../../../csdb/images/30403.gif)30403
-
 AAL20257.1 (Salmonella enterica O4 (B) Typhimurium)
 
 ![](../../../csdb/images/30397.gif)30397
+
+AAV77445.1 (Salmonella enterica Paratyphi A), CAR59582.1 (Salmonella enterica Paratyphi A)
+
+![](../../../csdb/images/7418.gif)7418
 
 AAO68867.1 (Salmonella enterica Typhi), WP_000905563.1 (nan Typhi)
 
 ![](../../../csdb/images/21859.gif)21859
 
-AAV77445.1 (Salmonella enterica Paratyphi A), CAR59582.1 (Salmonella enterica Paratyphi A)
+CAR37642.1 (Salmonella enterica Gallinarum bv. Pullorum 11)
 
-![](../../../csdb/images/7418.gif)7418
+![](../../../csdb/images/30403.gif)30403
 
 #### Additional sugars from blast hits:
 
@@ -4249,7 +4249,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 36
+### Supercluster 36
 
 Total number of members in cluster: 45
 
@@ -4287,7 +4287,7 @@ AXY99682.1 (Proteus vulgaris O34)
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 180
+### Supercluster 180
 
 Total number of members in cluster: 43
 
@@ -4336,7 +4336,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 26
+### Supercluster 26
 
 Total number of members in cluster: 41
 
@@ -4377,7 +4377,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 225
+### Supercluster 225
 
 Total number of members in cluster: 41
 
@@ -4421,7 +4421,7 @@ AXY99492.1 (Proteus vulgaris O17)
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 201
+### Supercluster 201
 
 Total number of members in cluster: 40
 
@@ -4466,7 +4466,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 100
+### Supercluster 100
 
 Total number of members in cluster: 40
 
@@ -4476,10 +4476,6 @@ D 161, R 163, R 167, T 169, N 176, S 230, R 231, T 232, Q 285, R 309, Y 334, D 3
 
 #### Sugars in supercluster:
 
-BAQ01812.1 (Escherichia coli O160)
-
-![](../../../csdb/images/1901.gif)1901
-
 BAQ01687.1 (Escherichia coli O134)
 
 ![](../../../csdb/images/1876.gif)1876
@@ -4487,6 +4483,10 @@ BAQ01687.1 (Escherichia coli O134)
 BAQ00957.1 (Escherichia coli O46)
 
 ![](../../../csdb/images/1554.gif)1554
+
+BAQ01812.1 (Escherichia coli O160)
+
+![](../../../csdb/images/1901.gif)1901
 
 #### Additional sugars from blast hits:
 
@@ -4508,7 +4508,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 224
+### Supercluster 224
 
 Total number of members in cluster: 38
 
@@ -4522,7 +4522,7 @@ CAI33491.1 (Streptococcus pneumoniae 17A)
 
 ![](../../../csdb/images/7070.gif)7070
 
-CAI33515.1 (Streptococcus pneumoniae 17F), VIQ20135.1 (Streptococcus pneumoniae 17F)
+VIQ20135.1 (Streptococcus pneumoniae 17F), CAI33515.1 (Streptococcus pneumoniae 17F)
 
 ![](../../../csdb/images/815.gif)815
 
@@ -4551,7 +4551,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 223
+### Supercluster 223
 
 Total number of members in cluster: 38
 
@@ -4592,7 +4592,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 31
+### Supercluster 31
 
 Total number of members in cluster: 37
 
@@ -4602,37 +4602,37 @@ Y 79, R 82, Q 179, K 182, Y 186, S 193, H 197, R 216, S 219, S 249, R 256, K 258
 
 #### Sugars in supercluster:
 
-BAQ02105.1 (Escherichia coli O17)
+AKA20935.1 (Yersinia pseudotuberculosis O:2c)
 
-![](../../../csdb/images/1520.gif)1520
+![](../../../csdb/images/12128.gif)12128
 
-BAQ00945.1 (Escherichia coli O44)
+AAY23745.1 (Escherichia coli O106)
 
-![](../../../csdb/images/1551.gif)1551
-
-BAQ02177.1 (Escherichia coli O77), AAY23739.1 (Escherichia coli O77)
-
-![](../../../csdb/images/1583.gif)1583
+![](../../../csdb/images/1845.gif)1845
 
 BAQ01935.1 (Escherichia coli O176)
 
 ![](../../../csdb/images/1918.gif)1918
 
-AKA20935.1 (Yersinia pseudotuberculosis O:2c)
+BAQ02105.1 (Escherichia coli O17)
 
-![](../../../csdb/images/12128.gif)12128
-
-AAY23733.1 (Escherichia coli O73)
-
-![](../../../csdb/images/1578.gif)1578
+![](../../../csdb/images/1520.gif)1520
 
 AKA20966.1 (Yersinia pseudotuberculosis O:4a)
 
 ![](../../../csdb/images/12129.gif)12129
 
-AAY23745.1 (Escherichia coli O106)
+AAY23739.1 (Escherichia coli O77), BAQ02177.1 (Escherichia coli O77)
 
-![](../../../csdb/images/1845.gif)1845
+![](../../../csdb/images/1583.gif)1583
+
+BAQ00945.1 (Escherichia coli O44)
+
+![](../../../csdb/images/1551.gif)1551
+
+AAY23733.1 (Escherichia coli O73)
+
+![](../../../csdb/images/1578.gif)1578
 
 #### Additional sugars from blast hits:
 
@@ -4654,7 +4654,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 127
+### Supercluster 127
 
 Total number of members in cluster: 37
 
@@ -4697,7 +4697,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 55
+### Supercluster 55
 
 Total number of members in cluster: 36
 
@@ -4707,17 +4707,17 @@ R 190, D 201, Y 203, N 218, N 257, R 350, Q 353, Y 392, E 394, Q 396, Y 399, Q 4
 
 #### Sugars in supercluster:
 
-ABE98437.1 (Escherichia coli O146)
+ABU80601.1 (Shigella flexneri 6)
 
-![](../../../csdb/images/1887.gif)1887
+![](../../../csdb/images/188.gif)188
 
 ABI98986.1 (Escherichia coli O147)
 
 ![](../../../csdb/images/1624.gif)1624
 
-ABU80601.1 (Shigella flexneri 6)
+ABE98437.1 (Escherichia coli O146)
 
-![](../../../csdb/images/188.gif)188
+![](../../../csdb/images/1887.gif)1887
 
 #### Additional sugars from blast hits:
 
@@ -4750,7 +4750,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 229
+### Supercluster 229
 
 Total number of members in cluster: 34
 
@@ -4795,7 +4795,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 222
+### Supercluster 222
 
 Total number of members in cluster: 34
 
@@ -4805,6 +4805,10 @@ R 201, E 241, Y 279, K 286, R 290, R 313, E 346, Y 394
 
 #### Sugars in supercluster:
 
+ACV52983.1 (Yersinia pseudotuberculosis O:11)
+
+![](../../../csdb/images/12124.gif)12124
+
 BAQ01843.1 (Escherichia coli O163)
 
 ![](../../../csdb/images/1905.gif)1905
@@ -4812,10 +4816,6 @@ BAQ01843.1 (Escherichia coli O163)
 AKA20948.1 (Yersinia pseudotuberculosis O:3)
 
 ![](../../../csdb/images/12133.gif)12133
-
-ACV52983.1 (Yersinia pseudotuberculosis O:11)
-
-![](../../../csdb/images/12124.gif)12124
 
 #### Additional sugars from blast hits:
 
@@ -4839,7 +4839,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 124
+### Supercluster 124
 
 Total number of members in cluster: 33
 
@@ -4849,13 +4849,13 @@ Y 78, Y 134, Q 144, Q 147, R 149, Q 150, H 189, Y 258, R 327, E 336, Y 384
 
 #### Sugars in supercluster:
 
-AHB32888.2 (Acinetobacter baumannii O7)
-
-![](../../../csdb/images/495.gif)495
-
 AHB32334.1 (Acinetobacter baumannii O18)
 
 ![](../../../csdb/images/483.gif)483
+
+AHB32888.2 (Acinetobacter baumannii O7)
+
+![](../../../csdb/images/495.gif)495
 
 #### Additional sugars from blast hits:
 
@@ -4876,7 +4876,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 111
+### Supercluster 111
 
 Total number of members in cluster: 33
 
@@ -4886,13 +4886,13 @@ K 255, R 309, Y 369, N 464, R 470, D 475
 
 #### Sugars in supercluster:
 
-AAM27560.1 (Pseudomonas aeruginosa O10)
-
-![](../../../csdb/images/11180.gif)11180
-
 AAM27711.1 (Pseudomonas aeruginosa O19)
 
 ![](../../../csdb/images/11026.gif)11026
+
+AAM27560.1 (Pseudomonas aeruginosa O10)
+
+![](../../../csdb/images/11180.gif)11180
 
 #### Additional sugars from blast hits:
 
@@ -4920,7 +4920,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 185
+### Supercluster 185
 
 Total number of members in cluster: 32
 
@@ -4930,10 +4930,6 @@ R 61, D 118, R 197, K 206, R 245, R 328, K 372
 
 #### Sugars in supercluster:
 
-ACD37181.1 (Escherichia coli O129)
-
-![](../../../csdb/images/1870.gif)1870
-
 ACD37173.1 (Escherichia coli O135)
 
 ![](../../../csdb/images/1877.gif)1877
@@ -4941,6 +4937,10 @@ ACD37173.1 (Escherichia coli O135)
 ACD37165.1 (Escherichia coli O13)
 
 ![](../../../csdb/images/1515.gif)1515
+
+ACD37181.1 (Escherichia coli O129)
+
+![](../../../csdb/images/1870.gif)1870
 
 #### Additional sugars from blast hits:
 
@@ -4967,7 +4967,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 62
+### Supercluster 62
 
 Total number of members in cluster: 31
 
@@ -5013,7 +5013,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 19
+### Supercluster 19
 
 Total number of members in cluster: 28
 
@@ -5023,21 +5023,21 @@ E 258, K 312, R 313, R 390, H 439
 
 #### Sugars in supercluster:
 
+CAI33537.1 (Streptococcus pneumoniae 18A), VQM63531.1 (Streptococcus pneumoniae 18A)
+
+![](../../../csdb/images/7074.gif)7074
+
 CAI33561.1 (Streptococcus pneumoniae 18B)
 
 ![](../../../csdb/images/846.gif)846
 
-CAI33585.1 (Streptococcus pneumoniae 18C)
-
-![](../../../csdb/images/939.gif)939
-
-CAI33610.1 (Streptococcus pneumoniae 18F), VOG14504.1 (Streptococcus pneumoniae 18F)
+VOG14504.1 (Streptococcus pneumoniae 18F), CAI33610.1 (Streptococcus pneumoniae 18F)
 
 ![](../../../csdb/images/7071.gif)7071
 
-VQM63531.1 (Streptococcus pneumoniae 18A), CAI33537.1 (Streptococcus pneumoniae 18A)
+CAI33585.1 (Streptococcus pneumoniae 18C)
 
-![](../../../csdb/images/7074.gif)7074
+![](../../../csdb/images/939.gif)939
 
 #### Additional sugars from blast hits:
 
@@ -5061,7 +5061,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 148
+### Supercluster 148
 
 Total number of members in cluster: 28
 
@@ -5071,15 +5071,7 @@ R 188, R 189, Y 204, S 207, D 301, R 305, R 306, Y 330, D 332
 
 #### Sugars in supercluster:
 
-AAM27662.1 (Pseudomonas aeruginosa O16)
-
-![](../../../csdb/images/6654.gif)6654
-
-AAM27693.1 (Pseudomonas aeruginosa O18)
-
-![](../../../csdb/images/7836.gif)7836
-
-AAA97573.1 (Pseudomonas aeruginosa O5), AAC45857.1 (Pseudomonas aeruginosa O5), AAM27801.1 (Pseudomonas aeruginosa O5)
+AAC45857.1 (Pseudomonas aeruginosa O5), AAA97573.1 (Pseudomonas aeruginosa O5), AAM27801.1 (Pseudomonas aeruginosa O5)
 
 ![](../../../csdb/images/1672.gif)1672
 
@@ -5087,9 +5079,17 @@ AAM27728.1 (Pseudomonas aeruginosa O2)
 
 ![](../../../csdb/images/6565.gif)6565
 
+AAM27693.1 (Pseudomonas aeruginosa O18)
+
+![](../../../csdb/images/7836.gif)7836
+
 AAM27748.1 (Pseudomonas aeruginosa O20)
 
 ![](../../../csdb/images/6655.gif)6655
+
+AAM27662.1 (Pseudomonas aeruginosa O16)
+
+![](../../../csdb/images/6654.gif)6654
 
 #### Additional sugars from blast hits:
 
@@ -5106,7 +5106,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 219
+### Supercluster 219
 
 Total number of members in cluster: 27
 
@@ -5145,7 +5145,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 104
+### Supercluster 104
 
 Total number of members in cluster: 27
 
@@ -5181,7 +5181,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 145
+### Supercluster 145
 
 Total number of members in cluster: 24
 
@@ -5191,13 +5191,13 @@ D 159, Y 163, Y 164, N 166, E 188, N 195, K 256, R 265, Q 266, S 270, H 296, K 3
 
 #### Sugars in supercluster:
 
-BAQ01584.1 (Escherichia coli O120)
-
-![](../../../csdb/images/1860.gif)1860
-
 BAQ01641.1 (Escherichia coli O131)
 
 ![](../../../csdb/images/1873.gif)1873
+
+BAQ01584.1 (Escherichia coli O120)
+
+![](../../../csdb/images/1860.gif)1860
 
 #### Additional sugars from blast hits:
 
@@ -5218,7 +5218,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 138
+### Supercluster 138
 
 Total number of members in cluster: 24
 
@@ -5228,7 +5228,7 @@ Y 43, N 45, D 48, Y 52, E 69, N 113, E 132, Q 133, R 135, Q 136, H 171, K 226, Y
 
 #### Sugars in supercluster:
 
-ABK27352.1 (Escherichia coli O103), ABK27351.1 (Escherichia coli O103), ABK27350.1 (Escherichia coli O103), ABK27354.1 (Escherichia coli O103), BAI31288.1 (Escherichia coli O103), ABK27355.1 (Escherichia coli O103), ABK27321.1 (Escherichia coli O103)
+BAI31288.1 (Escherichia coli O103), ABK27350.1 (Escherichia coli O103), ABK27351.1 (Escherichia coli O103), ABK27352.1 (Escherichia coli O103), ABK27354.1 (Escherichia coli O103), ABK27321.1 (Escherichia coli O103), ABK27355.1 (Escherichia coli O103)
 
 ![](../../../csdb/images/1842.gif)1842
 
@@ -5253,7 +5253,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 133
+### Supercluster 133
 
 Total number of members in cluster: 24
 
@@ -5284,7 +5284,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 23
+### Supercluster 23
 
 Total number of members in cluster: 23
 
@@ -5294,13 +5294,13 @@ R 299, R 386, H 420
 
 #### Sugars in supercluster:
 
-AAY28249.1 (Escherichia coli O174)
-
-![](../../../csdb/images/30040.gif)30040
-
 VPT20589.1 (Streptococcus pneumoniae 12F), CAI33278.1 (Streptococcus pneumoniae 12F)
 
 ![](../../../csdb/images/1955.gif)1955
+
+AAY28249.1 (Escherichia coli O174)
+
+![](../../../csdb/images/30040.gif)30040
 
 CAI33226.1 (Streptococcus pneumoniae 12A)
 
@@ -5328,7 +5328,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 146
+### Supercluster 146
 
 Total number of members in cluster: 23
 
@@ -5338,7 +5338,7 @@ N 192, R 300, N 306, Y 334, R 339, K 358
 
 #### Sugars in supercluster:
 
-VOC17485.1 (Streptococcus pneumoniae 23F), CAI33862.1 (Streptococcus pneumoniae 23F)
+CAI33862.1 (Streptococcus pneumoniae 23F), VOC17485.1 (Streptococcus pneumoniae 23F)
 
 ![](../../../csdb/images/1964.gif)1964
 
@@ -5368,7 +5368,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 165
+### Supercluster 165
 
 Total number of members in cluster: 22
 
@@ -5378,13 +5378,13 @@ R 212, R 235, D 241, E 242, T 278, S 280, R 347, R 362, Q 460, R 461
 
 #### Sugars in supercluster:
 
-BAQ01878.1 (Escherichia coli O170)
-
-![](../../../csdb/images/1407.gif)1407
-
 BAQ01793.1 (Escherichia coli O156)
 
 ![](../../../csdb/images/1897.gif)1897
+
+BAQ01878.1 (Escherichia coli O170)
+
+![](../../../csdb/images/1407.gif)1407
 
 #### Additional sugars from blast hits:
 
@@ -5408,7 +5408,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 210
+### Supercluster 210
 
 Total number of members in cluster: 21
 
@@ -5449,7 +5449,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 193
+### Supercluster 193
 
 Total number of members in cluster: 21
 
@@ -5483,7 +5483,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 192
+### Supercluster 192
 
 Total number of members in cluster: 21
 
@@ -5521,7 +5521,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 218
+### Supercluster 218
 
 Total number of members in cluster: 20
 
@@ -5531,25 +5531,25 @@ R 52, D 59, D 60, H 64, Y 95, Y 97, Y 108, S 117, S 120, Y 128, N 162, R 164, S 
 
 #### Sugars in supercluster:
 
+CAI33105.1 (Streptococcus pneumoniae 10F)
+
+![](../../../csdb/images/7049.gif)7049
+
 CAI34436.1 (Streptococcus pneumoniae 39)
 
 ![](../../../csdb/images/3663.gif)3663
-
-CAI33084.1 (Streptococcus pneumoniae 10C)
-
-![](../../../csdb/images/7052.gif)7052
-
-CAI33048.1 (Streptococcus pneumoniae 10A)
-
-![](../../../csdb/images/1953.gif)1953
 
 CIV98579.1 (Streptococcus pneumoniae 10B), CAI34733.1 (Streptococcus pneumoniae 10B)
 
 ![](../../../csdb/images/7051.gif)7051
 
-CAI33105.1 (Streptococcus pneumoniae 10F)
+CAI33048.1 (Streptococcus pneumoniae 10A)
 
-![](../../../csdb/images/7049.gif)7049
+![](../../../csdb/images/1953.gif)1953
+
+CAI33084.1 (Streptococcus pneumoniae 10C)
+
+![](../../../csdb/images/7052.gif)7052
 
 #### Additional sugars from blast hits:
 
@@ -5565,7 +5565,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 117
+### Supercluster 117
 
 Total number of members in cluster: 20
 
@@ -5599,7 +5599,7 @@ None
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 109
+### Supercluster 109
 
 Total number of members in cluster: 20
 
@@ -5609,10 +5609,6 @@ R 232, R 287, R 360, S 363, R 367, S 402, H 403, Y 411, D 462
 
 #### Sugars in supercluster:
 
-CAI33324.1 (Streptococcus pneumoniae 14)
-
-![](../../../csdb/images/5348.gif)5348
-
 CAI33389.1 (Streptococcus pneumoniae 15C)
 
 ![](../../../csdb/images/2251.gif)2251
@@ -5620,6 +5616,10 @@ CAI33389.1 (Streptococcus pneumoniae 15C)
 CAI33366.1 (Streptococcus pneumoniae 15B)
 
 ![](../../../csdb/images/1957.gif)1957
+
+CAI33324.1 (Streptococcus pneumoniae 14)
+
+![](../../../csdb/images/5348.gif)5348
 
 #### Additional sugars from blast hits:
 
@@ -5641,7 +5641,7 @@ AAL57082.1 (Streptococcus agalactiae III)
 
 [top](#report-of-ssn-clustering-run-2209140925)
 
-### Cluster 106
+### Supercluster 106
 
 Total number of members in cluster: 20
 
@@ -5651,17 +5651,17 @@ Y 73, Y 115, Y 118, T 124, Y 126, N 136, D 140, S 144, S 182, Q 186, R 188, R 18
 
 #### Sugars in supercluster:
 
-AGS07316.1 (Salmonella enterica O1,3,19 (E4) Senftenberg)
-
-![](../../../csdb/images/30411.gif)30411
-
 CAA43077.1 (Salmonella enterica O3,10 (E1) Anatum), AGS07327.1 (Salmonella enterica O3,10 (E1) Anatum)
 
 ![](../../../csdb/images/30407.gif)30407
 
-AAB48190.1 (Salmonella enterica ssp. enterica sv. Strasbourg), AGS07363.1 (Salmonella enterica ssp. enterica sv. Strasbourg)
+AGS07363.1 (Salmonella enterica ssp. enterica sv. Strasbourg), AAB48190.1 (Salmonella enterica ssp. enterica sv. Strasbourg)
 
 ![](../../../csdb/images/30404.gif)30404
+
+AGS07316.1 (Salmonella enterica O1,3,19 (E4) Senftenberg)
+
+![](../../../csdb/images/30411.gif)30411
 
 #### Additional sugars from blast hits:
 
