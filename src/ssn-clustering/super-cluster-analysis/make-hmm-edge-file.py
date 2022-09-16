@@ -30,7 +30,7 @@ timestamp = sys.argv[1]
 threshold = int(sys.argv[2])
 
 # Get clustering data
-clustering_data = SSNClusterData(timestamp, calculate_conserved=False, get_sugars=False)
+clustering_data = SSNClusterData(timestamp, calculate_conserved=False, get_sugars=False, load_superclusters=False)
 clusters = list(clustering_data.clusters)
 
 hits_all = {}

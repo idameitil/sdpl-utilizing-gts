@@ -440,6 +440,8 @@ class SSNClusterData:
         accessions.extend(hit_accessions)
         accessions = list(set(accessions))
 
+        alphafold_models = self.get_alphafold_models(accessions)
+        supercluster_info['alphafold_models'] = alphafold_models
         fasta_dict = read_MSA_file(self.supercluster_MSA_filename(supercluster_id))
         
         supercluster_info['conserved_residues'] = get_conserved_residues(fasta_dict)
@@ -451,6 +453,19 @@ class SSNClusterData:
             supercluster_info['sugar_images_seeds'] = self.sugar_images_seeds(supercluster_info['sugars'])
             supercluster_info['sugar_images_blast'] = self.sugar_images_blast(supercluster_info['sugars'])
 
-        supercluster_info['clustermembers'] = [self.load_cluster_data(cluster_id) for cluster_id in self.supercluster2clustermembers[supercluster_info['name']]]
+        # supercluster_info['clustermembers'] = [self.load_cluster_data(supercluster_id) for supercluster_id in self.supercluster2clustermembers[supercluster_info['name']]]
+
+        supercluster_info['taxonomy_table'] = get_taxonomy_table(accessions, self.seeds_and_hits_df)
+        supercluster_info['average_length'] = self.get_average_length(accessions)
+        supercluster_info['TM_count_string'] = self.get_TM_count_string(accessions)
+        # supercluster_info['hhr_filename'] = self.hhr_filename(supercluster_id)
+        supercluster_info['seeds_table'] = self.get_seeds_table(seed_accessions)
+        # supercluster_info['github_cluster_url'] = self.get_github_cluster_url(cluster_info['name'])
+        # supercluster_info['afa_url'] = filename_to_url(self.MSA_filename(supercluster_id))
+        # supercluster_info['malign_url'] = filename_to_url(self.malign_filename(supercluster_id))
+        # supercluster_info['fasta_url'] = filename_to_url(self.fasta_filename(supercluster_id))
+        # supercluster_info['logo_url'] = filename_to_url(self.logo_filename(supercluster_id))
+        # supercluster_info['tree_url'] = filename_to_url(self.tree_filename(supercluster_id))
+        # supercluster_info['hits_table_url'] = filename_to_url(self.hits_table_filename(supercluster_id))
 
         return supercluster_info
