@@ -133,9 +133,9 @@ To visualize alphafold models with conserved residues, run: `pymol data/wzy/ssn-
 ### Super cluster analysis
 Run HHblits all clusters against all: `sh src/ssn-clustering/super-cluster-analysis/hhblits.sh [timestamp]`. This will create a .hhr file for each cluster (in `data/wzy/ssn-clusterings/[timestamp]/clusters/[cluster]/[cluster.hhr]`).
 
-Make HMM supercluster network edge file: `python src/ssn-clustering/super-cluster-analysis/make-hmm-edge-file.py [timestamp] 110`. This will create the file `data/wzy/ssn-clusterings/[timestamp]/hmm_edges110` that can be visualized in Cytoscape.
+Make HMM supercluster network edge file: `python src/ssn-clustering/super-cluster-analysis/make-hmm-edge-file.py [timestamp] [supercluster_threshold]`. This will create the file `data/wzy/ssn-clusterings/[timestamp]/hmm_edges110` that can be visualized in Cytoscape.
 
-Get super clusters: `python src/ssn-clustering/super-cluster-analysis/get-super-clusters.py [timestamp] 110`. This will create the file `data/wzy/ssn-clusterings/{timestamp}/superclusters.tsv` and a folder for each supercluster with a fasta file in `data/wzy/ssn-clusterings/{timestamp}/super-clusters`.
+Get super clusters: `python src/ssn-clustering/super-cluster-analysis/get-super-clusters.py [timestamp] [supercluster_threshold]`. This will create the file `data/wzy/ssn-clusterings/{timestamp}/superclusters.tsv` and a folder for each supercluster with a fasta file in `data/wzy/ssn-clusterings/{timestamp}/super-clusters`.
 
 Prepare MSAs for super clusters: `python src/ssn-clustering/super-cluster-analysis/prepare-super-cluster-alignments.py [timestamp]`
 
@@ -148,7 +148,10 @@ When all jobs are finished, run locally:
 `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/[timestamp]/super-clusters/ data/wzy/ssn-clusterings/[timestamp]`
 
 ### Make supercluster table
-To make a table with the superclusters, run: `src/ssn-clustering/analyse-clustering/make-table-superclusters.py [timestamp]`. This will generate the file `data/wzy/ssn-clusterings/2209121518/superclusters_table.html`.
+To make a table with the superclusters, run: `python src/ssn-clustering/analyse-clustering/make-table-superclusters.py [timestamp]`. This will generate the file `data/wzy/ssn-clusterings/2209121518/superclusters_table.html`.
+
+### Make supercluster report
+To make the supercluster report, run: `python src/ssn-clustering/analyse-clustering/make-report-superclusters.py [timestamp]`. This will generate the file `data/wzy/ssn-clusterings/2209121518/superclusters_report.md`.
 
 ### Make supercluster hmms
 To make HMMs for each supercluster run: `python src/ssn-clustering/analyse-clustering/build-hmms.py [timestamp] supercluster`
@@ -322,6 +325,29 @@ Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/a
 ### Prepare list of accessions for CAZy
 `python src/genbank-search/filter-hits.py waal 6e-23`. This will create the file `data/waal/genbank-search/hits-6e-23.txt`.
 
+### Make MSA for CAZy family
+`mkdir data/waal/MSA_CAZy_family`
+
+`cp data/waal/genbank-search/hits-6e-23.txt data/waal/MSA_CAZy_family`
+
+`python src/genbank-search/prepare-msa-all.py waal`
+
+`scp -r data/waal/MSA_CAZy_family idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/`
+
+On the HPC:
+`qrsh`
+
+(change BLASTDB to this in `~/.bashrc`: `export BLASTDB=/work3/garryg/blast/db-`)
+
+`blastdbcmd -db genbank -entry_batch /work3/idamei/waal/MSA_CAZy_family/hits-6e-23.txt > /work3/idamei/waal/MSA_CAZy_family/hits-6e-23.fa`
+
+`cd-hit -i /work3/idamei/waal/MSA_CAZy_family/hits-6e-23.fa -o /work3/idamei/waal/MSA_CAZy_family/hits-6e-23-cdhit99.fa -c 0.99`
+
+`bsub < /work3/idamei/waal/MSA_CAZy_family/jobscript.sh`
+
+Then locally, run:
+`scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/MSA_CAZy_family data/waal/`
+
 ## ECA-Pol
 
 ### Enrich blast hits with taxonomy
@@ -393,3 +419,26 @@ Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-po
 
 ### Prepare list of accessions for CAZy
 `python src/genbank-search/filter-hits.py eca-pol 1e-40`. This creates the file `data/eca-pol/genbank-search/hits-1e-40.txt` with accessions to include in the CAZy family.
+
+### Make MSA for CAZy family
+`mkdir data/eca-pol/MSA_CAZy_family`
+
+`cp data/eca-pol/genbank-search/hits-1e-40.txt data/eca-pol/MSA_CAZy_family`
+
+`python src/genbank-search/prepare-msa-all.py eca-pol`
+
+`scp -r data/eca-pol/MSA_CAZy_family idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/`
+
+On the HPC:
+`qrsh`
+
+(change BLASTDB to this in `~/.bashrc`: `export BLASTDB=/work3/garryg/blast/db-`)
+
+`blastdbcmd -db genbank -entry_batch /work3/idamei/eca-pol/MSA_CAZy_family/hits-1e-40.txt > /work3/idamei/eca-pol/MSA_CAZy_family/hits-1e-40.fa`
+
+`cd-hit -i /work3/idamei/eca-pol/MSA_CAZy_family/hits-1e-40.fa -o /work3/idamei/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit99.fa -c 0.99`
+
+`bsub < /work3/idamei/eca-pol/MSA_CAZy_family/jobscript.sh`
+
+Then locally, run:
+`scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/MSA_CAZy_family data/eca-pol/`
