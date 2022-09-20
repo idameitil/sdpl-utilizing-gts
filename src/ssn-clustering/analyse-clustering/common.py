@@ -343,10 +343,11 @@ class SSNClusterData:
             if not_pd_null(sugar_id):
                 serotype = self.seeds_and_hits_df.loc[self.seeds_and_hits_df['protein_accession'] == accession]['serotype'].item()
                 species = self.seeds_and_hits_df.loc[self.seeds_and_hits_df['protein_accession'] == accession]['species'].item()
+                is_reeves = self.seeds_and_hits_df.loc[self.seeds_and_hits_df['protein_accession'] == accession]['Reeves'].item()
                 if sugar_id in sugars2accessions:
-                    sugars2accessions[sugar_id].append({'accession': accession, 'species': species, 'serotype': serotype})
+                    sugars2accessions[sugar_id].append({'accession': accession, 'species': species, 'serotype': serotype, 'reeves': is_reeves})
                 else:
-                    sugars2accessions[sugar_id] = [{'accession': accession, 'species': species, 'serotype': serotype}]
+                    sugars2accessions[sugar_id] = [{'accession': accession, 'species': species, 'serotype': serotype, 'reeves': is_reeves}]
         return sugars2accessions
 
     def is_sugar_only_blast(self, sugar_id, sugars2accessions, seed_accessions):
@@ -355,20 +356,28 @@ class SSNClusterData:
             if protein['accession'] in seed_accessions:
                 is_only_blast = False
         return is_only_blast
+
+    def is_sugar_from_reeves(self, sugar_id, sugars2accessions):
+        is_reeves = False
+        for protein in sugars2accessions[sugar_id]:
+            if protein['reeves'] == '1':
+                is_reeves = True
+        return is_reeves
     
     def enrich_sugars(self, seed_accessions, sugars2accessions):
         enriched_sugars = {
             sugar_id: {
             'proteins': sugars2accessions[sugar_id],
             'image': get_sugar_image(sugar_id),
-            'is_only_blast': self.is_sugar_only_blast(sugar_id, sugars2accessions, seed_accessions)
+            'is_only_blast': self.is_sugar_only_blast(sugar_id, sugars2accessions, seed_accessions),
+            'is_reeves': self.is_sugar_from_reeves(sugar_id, sugars2accessions)
              }
              for sugar_id in sugars2accessions}
         return enriched_sugars
 
     def sugar_images_seeds(self, enriched_sugars):
-        return [enriched_sugars[sugar_id]['image'] for sugar_id in enriched_sugars 
-        if not enriched_sugars[sugar_id]['is_only_blast']]
+        return [{'image': enriched_sugars[sugar_id]['image'], 'is_reeves': enriched_sugars[sugar_id]['is_reeves']} 
+        for sugar_id in enriched_sugars if not enriched_sugars[sugar_id]['is_only_blast']]
 
     def sugar_images_blast(self, enriched_sugars):
         return [enriched_sugars[sugar_id]['image'] for sugar_id in enriched_sugars 
@@ -447,25 +456,17 @@ class SSNClusterData:
         supercluster_info['conserved_residues'] = get_conserved_residues(fasta_dict)
         supercluster_info['conserved_residues_string'] = get_conserved_residues_string(supercluster_info['conserved_residues'])
         
-        if self.get_sugars:
-            sugars2accessions = self.get_sugars2accessions(accessions)
-            supercluster_info['sugars'] = self.enrich_sugars(seed_accessions, sugars2accessions)
-            supercluster_info['sugar_images_seeds'] = self.sugar_images_seeds(supercluster_info['sugars'])
-            supercluster_info['sugar_images_blast'] = self.sugar_images_blast(supercluster_info['sugars'])
+        # if self.get_sugars:
+        #     sugars2accessions = self.get_sugars2accessions(accessions)
+        #     supercluster_info['sugars'] = self.enrich_sugars(seed_accessions, sugars2accessions)
+        #     supercluster_info['sugar_images_seeds'] = self.sugar_images_seeds(supercluster_info['sugars'])
+        #     supercluster_info['sugar_images_blast'] = self.sugar_images_blast(supercluster_info['sugars'])
 
-        # supercluster_info['clustermembers'] = [self.load_cluster_data(supercluster_id) for supercluster_id in self.supercluster2clustermembers[supercluster_info['name']]]
+        supercluster_info['clustermembers'] = [self.load_cluster_data(cluster_id) for cluster_id in self.supercluster2clustermembers[supercluster_info['name']]]
 
         supercluster_info['taxonomy_table'] = get_taxonomy_table(accessions, self.seeds_and_hits_df)
         supercluster_info['average_length'] = self.get_average_length(accessions)
         supercluster_info['TM_count_string'] = self.get_TM_count_string(accessions)
-        # supercluster_info['hhr_filename'] = self.hhr_filename(supercluster_id)
         supercluster_info['seeds_table'] = self.get_seeds_table(seed_accessions)
-        # supercluster_info['github_cluster_url'] = self.get_github_cluster_url(cluster_info['name'])
-        # supercluster_info['afa_url'] = filename_to_url(self.MSA_filename(supercluster_id))
-        # supercluster_info['malign_url'] = filename_to_url(self.malign_filename(supercluster_id))
-        # supercluster_info['fasta_url'] = filename_to_url(self.fasta_filename(supercluster_id))
-        # supercluster_info['logo_url'] = filename_to_url(self.logo_filename(supercluster_id))
-        # supercluster_info['tree_url'] = filename_to_url(self.tree_filename(supercluster_id))
-        # supercluster_info['hits_table_url'] = filename_to_url(self.hits_table_filename(supercluster_id))
 
         return supercluster_info

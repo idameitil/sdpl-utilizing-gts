@@ -38,18 +38,22 @@
             {% set conserved_residues = supercluster.conserved_residues_string %}
             {% set sugars_seeds = supercluster.sugar_images_seeds %}
             {% set sugars_blast = supercluster.sugar_images_blast %}
-            {% set cluster_members = supercluster.clustermembers %}
+            {% set clustermembers = supercluster.clustermembers %}
             <div class="column">
                 <b>Supercluster {{supercluster_name}}</b>
                 <p>Number of proteins: {{proteins_in_supercluster}}</p>
                 <p>Number of clusters: {{clusters_in_supercluster}}</p>
                 <p>Conserved residues: {{conserved_residues}} </p>
-                {% for cluster_member in cluster_members %}
-                    <p>Cluster {{cluster_member.name}}:</p>
-                    {% for sugar in cluster_member.sugar_images_seeds %}
-                        <img src="{{sugar}}" alt="">
+                {% for clustermember in clustermembers %}
+                    <p>Cluster {{clustermember.name}}:</p>
+                    {% for sugar in clustermember.sugar_images_seeds %}
+                        <img src="{{sugar.image}}" alt="">
+                        <!-- <p>{{sugar.is_reeves}}</p> -->
+                        {% if sugar.is_reeves %}
+                            <p>*</p>
+                        {% endif %}
                     {% endfor %}
-                    {% for sugar in cluster_member.sugar_images_blast %}
+                    {% for sugar in clustermember.sugar_images_blast %}
                     <p>Blast hit sugar: </p>
                     <img src="{{sugar}}" alt="">
                     {% endfor %}

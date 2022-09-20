@@ -9,7 +9,6 @@ table_output_path = lambda clustering_id: f"data/wzy/ssn-clusterings/{clustering
 def make_table(ssn_clustering_id):
     clustering_data = SSNClusterData(ssn_clustering_id, load_clusters=False, calculate_conserved=False)
     superclusters = list(clustering_data.superclusters)
-
     supercluster_groups = np.array_split(superclusters, math.floor(len(superclusters)/10))
     clusters = list(clustering_data.clusters)
     jinja_env = Environment(
