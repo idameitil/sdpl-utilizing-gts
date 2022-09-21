@@ -3,7 +3,7 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>{{ssn_clustering_id}} - WZY SSN Clusters</title>
+    <title>{{ssn_clustering_id}} - WZY Superclusters</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <style>
 .table{
@@ -48,8 +48,7 @@
                     <p>Cluster {{clustermember.name}}:</p>
                     {% for sugar in clustermember.sugar_images_seeds %}
                         <img src="{{sugar.image}}" alt="">
-                        <!-- <p>{{sugar.is_reeves}}</p> -->
-                        {% if sugar.is_reeves %}
+                        {% if sugar.is_bond_correct %}
                             <p>*</p>
                         {% endif %}
                     {% endfor %}

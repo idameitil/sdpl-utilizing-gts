@@ -16,19 +16,6 @@ def make_taxonomy_label_file(df, enzyme_family_name):
                     tax2color[tax] = color
                 file.write(f"{acc},{tax2color[tax]},{tax}\n")
 
-def make_polysaccharide_type_label_file(df, enzyme_family_name):
-    outfilename = f"data/{enzyme_family_name}/phylogenetic-trees/itol-label-files/polysaccharide-type.txt"
-    with open(outfilename, "w") as file:
-        header = f"DATASET_COLORSTRIP\nSEPARATOR COMMA\nDATASET_LABEL,Polysaccharide type\nCOLOR\t#ff0000\nDATA\n"
-        file.write(header)
-        for index, row in df.iterrows():
-            colors = {'ECA Wzy':'green', 'CPS Wzy':'red', 'O-antigen Wzy':'blue'}
-            if row.CPS == 1:
-                type = 'CPS Wzy'
-            else:
-                type = 'LPS Wzy'
-            file.write(f"{row['protein_accession']},{colors[type]},{type}\n")
-
 def make_image_label_file(df, enzyme_family_name):
     outfilename = f"data/{enzyme_family_name}/phylogenetic-trees/itol-label-files/sugar-images.txt"
     with open(outfilename, "w") as file:
@@ -44,7 +31,6 @@ eca_pol_df = pd.read_csv("data/eca-pol/seeds-and-hits.tsv", sep='\t', dtype='obj
 
 print('wzy')
 make_taxonomy_label_file(wzy_df, 'wzy')
-make_polysaccharide_type_label_file(wzy_df, 'wzy')
 make_image_label_file(wzy_df, 'wzy')
 
 print('waal')

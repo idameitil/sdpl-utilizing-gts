@@ -13,7 +13,7 @@ seed_df = seed_df.rename(columns = {'genbank_taxon':'taxid', 'annotated':'seed',
 
 # Take subset of columns
 columns_include = ['protein_accession', 'taxid', 'kingdom', 'phylum', 'class', \
-    'order', 'family', 'genus', 'species', 'seq', 'serotype', 'pubmed', 'CPS', 'CSDB_record_ID', 'csdb_image_path', 'Reeves']
+    'order', 'family', 'genus', 'species', 'seq', 'serotype', 'pubmed', 'CPS', 'CSDB_record_ID', 'csdb_image_path', 'is_bond_correct']
 seed_df_small = seed_df[columns_include]
 
 # Get alphafold models

@@ -2,10 +2,6 @@
 ''' Download png images for csdb sugars
 '''
 
-#WZY = "/Users/idamei/phd"
-#DB = WZY + "data/csdb/CSDB_slice_for_Ida.txt"
-DB = "data/csdb/CSDB_slice_for_Ida.txt"
-
 import os
 import re
 import sys
@@ -13,9 +9,14 @@ import csv
 import wget
 import pandas as pd
 
+DB = "data/csdb/CSDB_slice_for_Ida.txt"
+
 os.system("ls -l {}".format(DB))
 
 images = "data/csdb/images"
+
+def not_pd_null(value):
+    return not pd.isnull(value)
 
 def doit(cmd, forgive=False):
 	s = os.system(cmd)
@@ -44,7 +45,7 @@ def fetch_snfg_image(record_id, csdb_linear, scale=3, overwrite=False):
 	'''
 
 	print("record_id: {} linear: {}\n".format(record_id, csdb_linear))
-	image_url = "http://csdb.glycoscience.ru/database/core/graphic.php?to_draw={}&scale={}&on_white=0&backdrop=checkers&no_reducing=0".format(csdb_linear, scale)
+	image_url = f"http://csdb.glycoscience.ru/database/core/graphic.php?to_draw={csdb_linear}&scale={scale}&on_white=0&backdrop=checkers&no_reducing=0"
 	print("IMAGE_URL:".format(image_url))
 	try:
 		# Use wget download method to download specified image url.
@@ -63,31 +64,21 @@ def fetch_snfg_image(record_id, csdb_linear, scale=3, overwrite=False):
 	print("DONE {} {}\n".format(record_id, csdb_linear))
 
 polymerase_df = pd.read_csv("data/wzy/wzy.tsv", sep='\t', dtype={'CSDB_record_ID':'string'})
-wanted = list(polymerase_df.CSDB_record_ID.dropna())
+# wanted = list(polymerase_df.CSDB_record_ID.dropna())
 # hits_df = pd.read_csv("data/wzy/blast-full-genbank/1e-15/hits-enriched.tsv", sep='\t', dtype={'CSDB_record_ID_y':'string'})
 # wanted = list(hits_df.CSDB_record_ID_y.dropna())
 
 # Open DB file, iterate over rows, avoiding record_ids we have already seen
 seen = []
-columns = []
-count = 0
-with open(DB, 'r') as fp:
-	table = csv.reader(fp, delimiter="\t")
 
-	for row in table:
-		''' First row contains column names, not column data.'''
-		if row[0] == 'CSDB_record_ID':
-			columns = row
-			print("COLUMNS", columns)
-			continue
-		# a specific data model, just to make life simpler
-		CSDB_record_ID, CSDB_Linear, glycoct, CSDB_nonpersistent_article_ID, doi, pmid, Taxonomic_name, Strain_or_Serogroup, NCBI_TaxID = row
-		# Avoid repeating an id
-		if CSDB_record_ID in seen:
-			continue
-		seen.append(CSDB_record_ID)
+for index, row in polymerase_df.iterrows():
 
-		if len(wanted) > 0 and CSDB_record_ID not in wanted:
-			continue
+	if not not_pd_null(row.CSDB_record_ID):
+		continue
 
-		fetch_snfg_image(CSDB_record_ID, CSDB_Linear)
+	# Avoid repeating an id
+	if row.CSDB_record_ID in seen:
+		continue
+	seen.append(row.CSDB_record_ID)
+
+	fetch_snfg_image(row.CSDB_record_ID, row.CSDB_Linear_corrected)
