@@ -7,7 +7,7 @@ import pickle
 
 wzy_seeds_and_hits_filename = 'data/wzy/seeds-and-hits.tsv'
 phobius_filename = 'data/wzy/phobius/2112081041/Phobius prediction.txt'
-csdb_images_folder = '../../../csdb/images/'
+csdb_images_folder = '../../../csdb/images'
 github_url = 'https://github.com/idameitil/phd/tree/master'
 
 def not_pd_null(value):
@@ -76,8 +76,8 @@ def is_accession_in_sugar_db(accessions_df, accession):
     CSDB_record_id = accessions_df.loc[accessions_df.protein_accession == accession, 'CSDB_record_ID'].item()
     return not pd.isnull(CSDB_record_id)
 
-def get_sugar_image(sugar_id):
-    return f"{csdb_images_folder}{sugar_id}.gif"
+def get_sugar_image(sugar_id, csdb_images_folder=csdb_images_folder):
+    return f"{csdb_images_folder}/{sugar_id}.gif"
 
 def filename_to_url(filename):
     return f"{github_url}/{filename}"
@@ -343,11 +343,11 @@ class SSNClusterData:
             if not_pd_null(sugar_id):
                 serotype = self.seeds_and_hits_df.loc[self.seeds_and_hits_df['protein_accession'] == accession]['serotype'].item()
                 species = self.seeds_and_hits_df.loc[self.seeds_and_hits_df['protein_accession'] == accession]['species'].item()
-                is_reeves = self.seeds_and_hits_df.loc[self.seeds_and_hits_df['protein_accession'] == accession]['Reeves'].item()
+                is_bond_correct = self.seeds_and_hits_df.loc[self.seeds_and_hits_df['protein_accession'] == accession]['is_bond_correct'].item()
                 if sugar_id in sugars2accessions:
-                    sugars2accessions[sugar_id].append({'accession': accession, 'species': species, 'serotype': serotype, 'reeves': is_reeves})
+                    sugars2accessions[sugar_id].append({'accession': accession, 'species': species, 'serotype': serotype, 'is_bond_correct': is_bond_correct})
                 else:
-                    sugars2accessions[sugar_id] = [{'accession': accession, 'species': species, 'serotype': serotype, 'reeves': is_reeves}]
+                    sugars2accessions[sugar_id] = [{'accession': accession, 'species': species, 'serotype': serotype, 'is_bond_correct': is_bond_correct}]
         return sugars2accessions
 
     def is_sugar_only_blast(self, sugar_id, sugars2accessions, seed_accessions):
@@ -357,12 +357,12 @@ class SSNClusterData:
                 is_only_blast = False
         return is_only_blast
 
-    def is_sugar_from_reeves(self, sugar_id, sugars2accessions):
-        is_reeves = False
+    def is_bond_correct(self, sugar_id, sugars2accessions):
+        is_bond_correct = False
         for protein in sugars2accessions[sugar_id]:
-            if protein['reeves'] == '1':
-                is_reeves = True
-        return is_reeves
+            if protein['is_bond_correct'] == '1':
+                is_bond_correct = True
+        return is_bond_correct
     
     def enrich_sugars(self, seed_accessions, sugars2accessions):
         enriched_sugars = {
@@ -370,13 +370,13 @@ class SSNClusterData:
             'proteins': sugars2accessions[sugar_id],
             'image': get_sugar_image(sugar_id),
             'is_only_blast': self.is_sugar_only_blast(sugar_id, sugars2accessions, seed_accessions),
-            'is_reeves': self.is_sugar_from_reeves(sugar_id, sugars2accessions)
+            'is_bond_correct': self.is_bond_correct(sugar_id, sugars2accessions)
              }
              for sugar_id in sugars2accessions}
         return enriched_sugars
 
     def sugar_images_seeds(self, enriched_sugars):
-        return [{'image': enriched_sugars[sugar_id]['image'], 'is_reeves': enriched_sugars[sugar_id]['is_reeves']} 
+        return [{'image': enriched_sugars[sugar_id]['image'], 'is_bond_correct': enriched_sugars[sugar_id]['is_bond_correct']} 
         for sugar_id in enriched_sugars if not enriched_sugars[sugar_id]['is_only_blast']]
 
     def sugar_images_blast(self, enriched_sugars):
