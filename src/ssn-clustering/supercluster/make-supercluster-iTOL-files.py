@@ -1,10 +1,13 @@
 import sys
 import random
 
-timestamp = sys.argv[1]
+ssn_timestamp = sys.argv[1]
+superclusters_timestamp = sys.argv[2]
+
+results_dir = f"data/wzy/ssn-clusterings/{ssn_timestamp}/superclusterings/{superclusters_timestamp}"
 
 def make_cluster_color_file(acc2cluster, cluster2color):
-    outfilename = f"data/wzy/ssn-clusterings/{timestamp}/supercluster_iTOL_color.txt"
+    outfilename = f"{results_dir}/supercluster_iTOL_color.txt"
     with open(outfilename, "w") as file:
         header = f"DATASET_COLORSTRIP\nSEPARATOR COMMA\nDATASET_LABEL,supercluster_colors\nCOLOR,#ff0000\nDATA\n"
         file.write(header)
@@ -13,7 +16,7 @@ def make_cluster_color_file(acc2cluster, cluster2color):
             file.write(f"{acc},{cluster2color[cluster]},{cluster}\n")
 
 def make_arrow_file(acc2cluster, cluster2color, cluster2firstacc):
-    outfilename = f"data/wzy/ssn-clusterings/{timestamp}/supercluster_iTOL_arrow.txt"
+    outfilename = f"{results_dir}/supercluster_iTOL_arrow.txt"
     with open(outfilename, "w") as file:
         header = f"DATASET_CONNECTION\nSEPARATOR COMMA\nDATASET_LABEL,supercluster_arrows\nCOLOR,#ff0ff0\nALIGN_TO_LABELS,1\nCENTER_CURVES,1\nCENTER_CURVES,1\nDATA\n"
         file.write(header)
@@ -24,7 +27,7 @@ def make_arrow_file(acc2cluster, cluster2color, cluster2firstacc):
             else:
                 file.write(f"{cluster2firstacc[cluster]},{acc},2,{cluster2color[cluster]},dashed,{cluster}\n")               
 
-input_filename = f"data/wzy/ssn-clusterings/{timestamp}/superclusters.tsv"
+input_filename = f"{results_dir}/superclusters.tsv"
 acc2cluster = {}
 cluster2color = {}
 cluster2firstacc = {}

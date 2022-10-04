@@ -5,20 +5,23 @@ from Bio import SeqIO
 import shutil
 import pickle
 
-timestamp = sys.argv[1]
-threshold = sys.argv[2]
+ssn_timestamp = sys.argv[1]
+supercluster_timestamp = sys.argv[2]
+threshold = sys.argv[3]
 
-edge_filename = f"data/wzy/ssn-clusterings/{timestamp}/hmm_edges{threshold}"
+results_dir = f"data/wzy/ssn-clusterings/{ssn_timestamp}/superclusterings/{supercluster_timestamp}"
+
+edge_filename = f"{results_dir}/hmm_edges"
 with open(edge_filename, 'r') as infile:
     G = nx.read_weighted_edgelist(infile, delimiter='\t')
 
 connected_components = sorted(nx.connected_components(G), key = len, reverse=True)
 
-super_cluster_dir = f"data/wzy/ssn-clusterings/{timestamp}/super-clusters"
+super_cluster_dir = f"{results_dir}/superclusters"
 if not os.path.isdir(super_cluster_dir):
     os.makedirs(super_cluster_dir)
 
-cluster_dir = f"data/wzy/ssn-clusterings/{timestamp}/clusters"
+cluster_dir = f"data/wzy/ssn-clusterings/{ssn_timestamp}/clusters"
 
 super_cluster2protein_members = {}
 
@@ -87,13 +90,13 @@ for cluster in [entry for entry in os.listdir(cluster_dir) if not entry.startswi
     dest = f"{this_super_cluster_dir}/sequences.fa"
     shutil.copy(fasta_filename, dest)
 
-supercluster_tsv_filename = f"data/wzy/ssn-clusterings/{timestamp}/superclusters.tsv"
+supercluster_tsv_filename = f"{results_dir}/superclusters.tsv"
 with open(supercluster_tsv_filename, 'w') as outfile:
     for super_cluster in super_cluster2protein_members:
         for member in super_cluster2protein_members[super_cluster]:
             outfile.write(f"{member}\t{super_cluster}\n")
 
 # Write file with names of clusters in supercluster
-filename = f"data/wzy/ssn-clusterings/{timestamp}/clusters_in_superclusters.pickle"
+filename = f"{results_dir}/clusters_in_superclusters.pickle"
 with open(filename, 'wb') as outfile:
     pickle.dump(supercluster2clustermembers, outfile)

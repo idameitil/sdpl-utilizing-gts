@@ -7,7 +7,6 @@ import pickle
 
 wzy_seeds_and_hits_filename = 'data/wzy/seeds-and-hits.tsv'
 phobius_filename = 'data/wzy/phobius/2112081041/Phobius prediction.txt'
-csdb_images_folder = '../../../csdb/images'
 github_url = 'https://github.com/idameitil/phd/tree/master'
 
 def not_pd_null(value):
@@ -76,7 +75,7 @@ def is_accession_in_sugar_db(accessions_df, accession):
     CSDB_record_id = accessions_df.loc[accessions_df.protein_accession == accession, 'CSDB_record_ID'].item()
     return not pd.isnull(CSDB_record_id)
 
-def get_sugar_image(sugar_id, csdb_images_folder=csdb_images_folder):
+def get_sugar_image(sugar_id, csdb_images_folder):
     return f"{csdb_images_folder}/{sugar_id}.gif"
 
 def filename_to_url(filename):
@@ -166,10 +165,17 @@ class SSNClusterData:
     seeds_and_hits_df = pd.read_csv(wzy_seeds_and_hits_filename, sep='\t', dtype=object)
     TM_counts = read_phobius(phobius_filename)
 
-    def __init__(self, ssn_clustering_id, calculate_conserved=True, get_sugars=True, load_clusters=True, load_superclusters=True):
+    def __init__(self, ssn_clustering_id, superclustering_id='', calculate_conserved=True, get_sugars=True, get_sugars_superclusters=False, load_clusters=True, load_superclusters=True):
         self.ssn_clustering_id = ssn_clustering_id
+        self.superclustering_id = superclustering_id
         self.calculate_conserved = calculate_conserved
         self.get_sugars = get_sugars
+        self.get_sugars_superclusters = get_sugars_superclusters
+
+        if load_superclusters:
+            self.csdb_images_path = '../../../../../csdb/images'
+        else:
+            self.csdb_images_path = '../../../csdb/images'
 
         self.seed_accessions = self.load_seed_accessions()
         self.load_included_accessions()
@@ -197,10 +203,10 @@ class SSNClusterData:
         return f"data/wzy/ssn-clusterings/{self.ssn_clustering_id}/clusters"
 
     def superclusters_dir(self):
-        return f"data/wzy/ssn-clusterings/{self.ssn_clustering_id}/super-clusters"
+        return f"data/wzy/ssn-clusterings/{self.ssn_clustering_id}/superclusterings/{self.superclustering_id}/superclusters"
 
     def superclusters_dict_filename(self):
-        return f"data/wzy/ssn-clusterings/{self.ssn_clustering_id}/clusters_in_superclusters.pickle"
+        return f"data/wzy/ssn-clusterings/{self.ssn_clustering_id}/superclusterings/{self.superclustering_id}/clusters_in_superclusters.pickle"
 
     def cluster_table_filename(self):
         return f"{self.results_dir_top()}/clusters.tsv"
@@ -368,7 +374,7 @@ class SSNClusterData:
         enriched_sugars = {
             sugar_id: {
             'proteins': sugars2accessions[sugar_id],
-            'image': get_sugar_image(sugar_id),
+            'image': get_sugar_image(sugar_id, csdb_images_folder=self.csdb_images_path),
             'is_only_blast': self.is_sugar_only_blast(sugar_id, sugars2accessions, seed_accessions),
             'is_bond_correct': self.is_bond_correct(sugar_id, sugars2accessions)
              }
@@ -376,7 +382,7 @@ class SSNClusterData:
         return enriched_sugars
 
     def sugar_images_seeds(self, enriched_sugars):
-        return [{'image': enriched_sugars[sugar_id]['image'], 'is_bond_correct': enriched_sugars[sugar_id]['is_bond_correct']} 
+        return [{'image': enriched_sugars[sugar_id]['image'], 'is_bond_correct': enriched_sugars[sugar_id]['is_bond_correct'], 'CSDB_ID': sugar_id} 
         for sugar_id in enriched_sugars if not enriched_sugars[sugar_id]['is_only_blast']]
 
     def sugar_images_blast(self, enriched_sugars):
@@ -456,11 +462,11 @@ class SSNClusterData:
         supercluster_info['conserved_residues'] = get_conserved_residues(fasta_dict)
         supercluster_info['conserved_residues_string'] = get_conserved_residues_string(supercluster_info['conserved_residues'])
         
-        # if self.get_sugars:
-        #     sugars2accessions = self.get_sugars2accessions(accessions)
-        #     supercluster_info['sugars'] = self.enrich_sugars(seed_accessions, sugars2accessions)
-        #     supercluster_info['sugar_images_seeds'] = self.sugar_images_seeds(supercluster_info['sugars'])
-        #     supercluster_info['sugar_images_blast'] = self.sugar_images_blast(supercluster_info['sugars'])
+        if self.get_sugars_superclusters:
+            sugars2accessions = self.get_sugars2accessions(accessions)
+            supercluster_info['sugars'] = self.enrich_sugars(seed_accessions, sugars2accessions)
+            supercluster_info['sugar_images_seeds'] = self.sugar_images_seeds(supercluster_info['sugars'])
+            supercluster_info['sugar_images_blast'] = self.sugar_images_blast(supercluster_info['sugars'])
 
         supercluster_info['clustermembers'] = [self.load_cluster_data(cluster_id) for cluster_id in self.supercluster2clustermembers[supercluster_info['name']]]
 

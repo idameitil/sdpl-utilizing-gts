@@ -1,9 +1,10 @@
 import os
 import sys
 
-timestamp = sys.argv[1]
+ssn_timestamp = sys.argv[1]
+superclustering_timestamp = sys.argv[2]
 
-cluster_dir = f"data/wzy/ssn-clusterings/{timestamp}/clusters"
+cluster_dir = f"data/wzy/ssn-clusterings/{ssn_timestamp}/superclusterings/{superclustering_timestamp}/superclusters"
 
 clusters = [dir for dir in os.listdir(cluster_dir) if not dir.startswith('.')]
 

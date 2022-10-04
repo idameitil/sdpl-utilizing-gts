@@ -26,11 +26,12 @@ def parse_hhr(hhr_filename, query_cluster_name, threshold):
                 flag = True
     return hits
 
-timestamp = sys.argv[1]
-threshold = int(sys.argv[2])
+ssn_timestamp = sys.argv[1]
+supercluster_timestamp = sys.argv[2]
+threshold = int(sys.argv[3])
 
 # Get clustering data
-clustering_data = SSNClusterData(timestamp, calculate_conserved=False, get_sugars=False, load_superclusters=False)
+clustering_data = SSNClusterData(ssn_timestamp, supercluster_timestamp, calculate_conserved=False, get_sugars=False, load_superclusters=False)
 clusters = list(clustering_data.clusters)
 
 hits_all = {}
@@ -44,9 +45,9 @@ for cluster in clusters:
         else:
             hits_all[(query_cluster_name, hit_cluster_name)] = hits[(query_cluster_name, hit_cluster_name)]
 
-outfilename = f"data/wzy/ssn-clusterings/{timestamp}/hmm_edges{threshold}"
+outfilename = f"data/wzy/ssn-clusterings/{ssn_timestamp}/superclusterings/{supercluster_timestamp}/hmm_edges"
 with open(outfilename, 'w') as outfile:
-    outfile.write("# cluster1\t\cluster2\score\n")
+    outfile.write("#cluster1\tcluster2\tscore\n")
     for (cluster1, cluster2) in hits_all:
         score = hits_all[(cluster1, cluster2)]
         outfile.write(f"{cluster_id[cluster1]}\t{cluster_id[cluster2]}\t{score}\n")

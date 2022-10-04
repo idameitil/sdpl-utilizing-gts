@@ -48,6 +48,7 @@
                     <p>Cluster {{clustermember.name}}:</p>
                     {% for sugar in clustermember.sugar_images_seeds %}
                         <img src="{{sugar.image}}" alt="">
+                        <p>{{sugar.CSDB_ID}}</p>
                         {% if sugar.is_bond_correct %}
                             <p>*</p>
                         {% endif %}

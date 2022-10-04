@@ -1,17 +1,18 @@
-
-from common import SSNClusterData
 import sys
+sys.path.append('src/ssn-clustering/analyse-clustering')
+from common import SSNClusterData
 
-timestamp = sys.argv[1]
+ssn_timestamp = sys.argv[1]
+superclustering_timestamp = sys.argv[2]
 
 # Get clustering data
-clustering_data = SSNClusterData(timestamp, load_clusters=False)
+clustering_data = SSNClusterData(ssn_timestamp, superclustering_timestamp, load_clusters=False, get_sugars_superclusters=True)
 superclusters = list(clustering_data.superclusters)
 
 # Write report
-resultsdir = f"data/wzy/ssn-clusterings/{timestamp}"
-with open(f"{resultsdir}/superclusters_report.md", "w") as outfile:
-    outfile.write(f"# Report of superclusters of ssn-clustering run {timestamp}\n")
+output_filename = f"data/wzy/ssn-clusterings/{ssn_timestamp}/superclusterings/{superclustering_timestamp}/superclusters_report.md"
+with open(output_filename, "w") as outfile:
+    outfile.write(f"# Report of superclusters of ssn-clustering run {ssn_timestamp}\n")
     # outfile.write(f"## Metadata\n{clustering_data.metadata}\n")
     # outfile.write(f"## Info\n{clustering_data.info}\n")
     # outfile.write(f"[File with accessions in each cluster]({clustering_data.cluster_table_url})\n\n")
@@ -74,4 +75,4 @@ with open(f"{resultsdir}/superclusters_report.md", "w") as outfile:
         # if len(supercluster['alphafold_models']) == 0:
         #     outfile.write("None\n\n")
         outfile.write(f"#### Taxonomy:\n\n{supercluster['taxonomy_table'].to_markdown(index=False)}\n\n")
-        outfile.write(f"[top](#report-of-ssn-clustering-run-{timestamp})\n\n")
+        outfile.write(f"[top](#report-of-ssn-clustering-run-{ssn_timestamp})\n\n")

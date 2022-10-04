@@ -3,11 +3,12 @@ import sys
 sys.path.append("src")
 from modules.write_jobscript import write_jobscript
 
-timestamp = sys.argv[1]
+ssn_timestamp = sys.argv[1]
+superclusters_timestamp = sys.argv[2]
 
-hpc_directory = f'/work3/idamei/wzy/ssn-clusterings/{timestamp}/super-clusters'
+hpc_directory = f'/work3/idamei/wzy/ssn-clusterings/{ssn_timestamp}/superclusterings/{superclusters_timestamp}/superclusters'
 
-clusterdir = f"data/wzy/ssn-clusterings/{timestamp}/super-clusters"
+clusterdir = f"data/wzy/ssn-clusterings/{ssn_timestamp}/superclusterings/{superclusters_timestamp}/superclusters"
 submit_script = ""
 clusters = [f for f in os.listdir(clusterdir) if not f.startswith('.')]
 for cluster in clusters:
@@ -33,5 +34,5 @@ for cluster in clusters:
     jobscript_path_hpc = f"{hpc_directory}/{cluster}/jobscript.sh"
     submit_script += f"bsub < {jobscript_path_hpc}\n"
 
-with open(f"data/wzy/ssn-clusterings/{timestamp}/submit-superclusters.sh", "w") as submit_file:
+with open(f"data/wzy/ssn-clusterings/{ssn_timestamp}/superclusterings/{superclusters_timestamp}/submit-superclusters.sh", "w") as submit_file:
     submit_file.write(submit_script)

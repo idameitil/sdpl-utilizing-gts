@@ -4,7 +4,7 @@ scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/$1/clusters
 # echo "\n*** CONVERTING LOGOS TO PDF ***\n"
 # python3 src/ssn-clustering/analyse-clustering/convert-logos-to-pdf.py $1
 
-echo "\n*** GENERATING MARKDOWN REPORT ***\n"
+echo "\n*** GENERATING REPORT ***\n"
 python src/ssn-clustering/analyse-clustering/make-report.py $1
 
 echo "\n*** GENERATING SUMMARY TABLE ***\n"
@@ -17,4 +17,4 @@ echo "\n*** GENERATING PYMOL SCRIPT ***\n"
 python src/ssn-clustering/analyse-clustering/make-pymol-script.py $1
 
 echo "\n*** BUILDING HMMS ***\n"
-python src/ssn-clustering/analyse-clustering/build-hmms.py $1 cluster
+python src/ssn-clustering/analyse-clustering/build-hmms.py $1
