@@ -1,59 +1,0 @@
-
-muscle 5.1.linux64 [12f0e2]  396Gb RAM, 24 cores
-Built Jan 13 2022 23:17:13
-(C) Copyright 2004-2021 Robert C. Edgar.
-https://drive5.com
-
-Input: 40 seqs, avg length 432, max 453
-
-00:00 4.1Mb  CPU has 24 cores, defaulting to 20 threads
-
-WARNING: Max OMP threads 1
-
-00:00 4.1Mb    0.13% Calc posteriors00:01 5.0Mb     2.4% Calc posteriors00:02 5.0Mb     6.2% Calc posteriors00:03 5.0Mb     9.9% Calc posteriors00:04 5.2Mb    13.7% Calc posteriors00:05 14Mb     17.9% Calc posteriors00:06 14Mb     21.9% Calc posteriors00:07 6.1Mb    26.0% Calc posteriors00:08 6.4Mb    29.7% Calc posteriors00:09 6.7Mb    33.8% Calc posteriors00:10 7.0Mb    37.8% Calc posteriors00:11 7.3Mb    41.7% Calc posteriors00:12 7.7Mb    45.5% Calc posteriors00:13 8.0Mb    49.2% Calc posteriors00:14 8.3Mb    53.1% Calc posteriors00:15 8.6Mb    56.9% Calc posteriors00:16 8.9Mb    60.8% Calc posteriors00:17 9.2Mb    64.6% Calc posteriors00:18 9.5Mb    68.5% Calc posteriors00:19 17Mb     72.4% Calc posteriors00:20 18Mb     76.3% Calc posteriors00:21 10Mb     80.1% Calc posteriors00:22 18Mb     84.0% Calc posteriors00:23 11Mb     88.6% Calc posteriors00:24 19Mb     92.8% Calc posteriors00:25 12Mb     96.5% Calc posteriors00:25 18Mb    100.0% Calc posteriors
-00:25 18Mb     0.13% Consistency (1/2)00:26 18Mb     19.2% Consistency (1/2)00:26 21Mb    100.0% Consistency (1/2)
-00:26 21Mb     0.13% Consistency (2/2)00:27 21Mb     94.5% Consistency (2/2)00:27 21Mb    100.0% Consistency (2/2)
-00:27 21Mb      2.6% UPGMA5           00:27 21Mb    100.0% UPGMA5
-00:27 21Mb      1.0% Refining00:27 23Mb    100.0% Refining
-INFO:Malign:No identity filter
-INFO:Malign:Star /work3/idamei/wzy/ssn-clusterings/2209081049/clusters/0040_34/seeds.txt
-INFO:Malign:Star highlights 10
-Read FASTA line_by_line from /work3/idamei/wzy/ssn-clusterings/2209081049/clusters/0040_34/sequences.afa 40 elements
-INFO:Malign:No identity filter
-INFO:Malign:Fasta contains 40 valid records
-INFO:Malign:Aligned already
-INFO:Malign:Align contains 40 valid records
-inputType: FASTA
-================================================================================
-WARNINGS
-
-One or more weights was less than -50 bits.
-To avoid such amino acid dominating the logo position, these was reduced to -50
-bits.
-To remove this warning you could try choosing the option of pseudo counts.
-================================================================================
-
-FastTree Version 2.1.11 SSE3
-Alignment: /work3/idamei/wzy/ssn-clusterings/2209081049/clusters/0040_34/sequences.afa
-Amino acid distances: BLOSUM45 Joins: balanced Support: SH-like 1000
-Search: Normal +NNI +SPR (2 rounds range 10) +ML-NNI opt-each=1
-TopHits: 1.00*sqrtN close=default refresh=0.80
-ML Model: Jones-Taylor-Thorton, CAT approximation with 20 rate categories
-Initial topology in 0.01 seconds
-Refining topology: 21 rounds ME-NNIs, 2 rounds ME-SPRs, 10 rounds ML-NNIs
-      0.13 seconds: ME NNI round 15 of 21, 1 of 34 splits
-Total branch-length 4.617 after 0.14 sec
-ML-NNI round 1: LogLk = -11318.410 NNIs 5 max delta 2.49 Time 0.34
-      0.34 seconds: Site likelihoods with rate category 1 of 20
-Switched to using 20 rate categories (CAT approximation)
-Rate categories were divided by 0.918 so that average rate = 1.0
-CAT-based log-likelihoods may not be comparable across runs
-Use -gamma for approximate but comparable Gamma(20) log-likelihoods
-ML-NNI round 2: LogLk = -10598.474 NNIs 4 max delta 12.40 Time 0.53
-      0.53 seconds: ML NNI round 3 of 10, 1 of 34 splits
-ML-NNI round 3: LogLk = -10598.269 NNIs 0 max delta 0.00 Time 0.59
-Turning off heuristics for final round of ML NNIs (converged)
-ML-NNI round 4: LogLk = -10594.241 NNIs 1 max delta 0.07 Time 0.81 (final)
-      0.80 seconds: ML Lengths 1 of 34 splits
-Optimize all lengths: LogLk = -10594.197 Time 0.87
-Total time: 1.06 seconds Unique: 36/40 Bad splits: 0/33

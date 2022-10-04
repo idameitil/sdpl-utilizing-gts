@@ -131,30 +131,17 @@ Push changes.
 To visualize alphafold models with conserved residues, run: `pymol data/wzy/ssn-clusterings/[timestamp]/pymol-visualization.pml`.
 
 ### Super cluster analysis
-Run HHblits all clusters against all: `sh src/ssn-clustering/super-cluster-analysis/hhblits.sh [timestamp]`. This will create a .hhr file for each cluster (in `data/wzy/ssn-clusterings/[timestamp]/clusters/[cluster]/[cluster.hhr]`).
+Run HHblits all clusters against all: `sh src/ssn-clustering/supercluster/hhblits.sh [ssn-timestamp]`. This will create a .hhr file for each cluster (in `data/wzy/ssn-clusterings/[timestamp]/clusters/[cluster]/[cluster.hhr]`).
 
-Make HMM supercluster network edge file: `python src/ssn-clustering/super-cluster-analysis/make-hmm-edge-file.py [timestamp] [supercluster_threshold]`. This will create the file `data/wzy/ssn-clusterings/[timestamp]/hmm_edges110` that can be visualized in Cytoscape.
+To run superclustering pipeline, run: `sh src/ssn-clustering/supercluster/supercluster.sh [ssn_timestamp] [superclustering_timestamp] [superclustering_threshold]`. This will create the folder `data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[superclustering_timestamp]`.
 
-Get super clusters: `python src/ssn-clustering/super-cluster-analysis/get-super-clusters.py [timestamp] [supercluster_threshold]`. This will create the file `data/wzy/ssn-clusterings/{timestamp}/superclusters.tsv` and a folder for each supercluster with a fasta file in `data/wzy/ssn-clusterings/{timestamp}/super-clusters`.
+Then to generate MSAs, run:
+`scp -r data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/ idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/[ssn-timestamp]/`
 
-Prepare MSAs for super clusters: `python src/ssn-clustering/super-cluster-analysis/prepare-super-cluster-alignments.py [timestamp]`
+And at the HPC: `sh /work3/idamei/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[supercluster-timestamp]/submit-superclusters.sh`
 
-`scp -r data/wzy/ssn-clusterings/[timestamp]/super-clusters idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/[timestamp]`
-`scp -r data/wzy/ssn-clusterings/[timestamp]/submit-superclusters.sh idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/[timestamp]`
-
-At the HPC: `sh /work3/idamei/wzy/ssn-clusterings/[timestamp]/submit-superclusters.sh`
-
-When all jobs are finished, run locally:
-`scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/[timestamp]/super-clusters/ data/wzy/ssn-clusterings/[timestamp]`
-
-### Make supercluster table
-To make a table with the superclusters, run: `python src/ssn-clustering/analyse-clustering/make-table-superclusters.py [timestamp]`. This will generate the file `data/wzy/ssn-clusterings/2209121518/superclusters_table.html`.
-
-### Make supercluster report
-To make the supercluster report, run: `python src/ssn-clustering/analyse-clustering/make-report-superclusters.py [timestamp]`. This will generate the file `data/wzy/ssn-clusterings/2209121518/superclusters_report.md`.
-
-### Make supercluster hmms
-To make HMMs for each supercluster run: `python src/ssn-clustering/analyse-clustering/build-hmms.py [timestamp] supercluster`
+### Analyse superclustering
+When all jobs are finished, run locally: `sh src/ssn-clustering/analyse-superclustering/analyse-superclustering.sh [ssn-timestamp] [superclustering-timestamp]`. This will generate the superclustering report, table and HMMs.
 
 ## Phylogenetic trees
 

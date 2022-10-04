@@ -24,10 +24,10 @@
 #BSUB -N 
 ### -- Specify the output and error file. %J is the job-id -- 
 ### -- -o and -e mean append, -oo and -eo mean overwrite -- 
-#BSUB -o /work3/idamei/wzy/ssn-clusterings/2206101141/super-clusters/0684_25_2/jobscript.out
-#BSUB -e /work3/idamei/wzy/ssn-clusterings/2206101141/super-clusters/0684_25_2/jobscript.err
+#BSUB -o /work3/idamei/wzy/ssn-clusterings/2206101141/superclusters/0684_25_2/jobscript.out
+#BSUB -e /work3/idamei/wzy/ssn-clusterings/2206101141/superclusters/0684_25_2/jobscript.err
 # here follow the commands you want to execute 
-/work3/idamei/bin/muscle5.1.linux_intel64 -super5 /work3/idamei/wzy/ssn-clusterings/2206101141/super-clusters/0684_25_2/sequences.fa -output /work3/idamei/wzy/ssn-clusterings/2206101141/super-clusters/0684_25_2/sequences.afa
-/work3/garryg/bioP/bin/malign.py -a /work3/idamei/wzy/ssn-clusterings/2206101141/super-clusters/0684_25_2/sequences.afa -s /work3/idamei/wzy/ssn-clusterings/2206101141/super-clusters/0684_25_2/seeds.txt -l 1000 > /work3/idamei/wzy/ssn-clusterings/2206101141/super-clusters/0684_25_2/sequences.malign
-python2 /work3/idamei/bin/seq2logo-2.1/Seq2Logo.py -f /work3/idamei/wzy/ssn-clusterings/2206101141/super-clusters/0684_25_2/sequences.afa -m 0.0001 -b 0 -o /work3/idamei/wzy/ssn-clusterings/2206101141/super-clusters/0684_25_2/sequences.logo  -p 640x1000 -l 30  -I 1
-/work3/idamei/bin/FastTree /work3/idamei/wzy/ssn-clusterings/2206101141/super-clusters/0684_25_2/sequences.afa > /work3/idamei/wzy/ssn-clusterings/2206101141/super-clusters/0684_25_2/sequences.nwk
+/work3/idamei/bin/muscle5.1.linux_intel64 -super5 /work3/idamei/wzy/ssn-clusterings/2206101141/superclusters/0684_25_2/sequences.fa -output /work3/idamei/wzy/ssn-clusterings/2206101141/superclusters/0684_25_2/sequences.afa
+/work3/garryg/bioP/bin/malign.py -a /work3/idamei/wzy/ssn-clusterings/2206101141/superclusters/0684_25_2/sequences.afa -s /work3/idamei/wzy/ssn-clusterings/2206101141/superclusters/0684_25_2/seeds.txt -l 1000 > /work3/idamei/wzy/ssn-clusterings/2206101141/superclusters/0684_25_2/sequences.malign
+python2 /work3/idamei/bin/seq2logo-2.1/Seq2Logo.py -f /work3/idamei/wzy/ssn-clusterings/2206101141/superclusters/0684_25_2/sequences.afa -m 0.0001 -b 0 -o /work3/idamei/wzy/ssn-clusterings/2206101141/superclusters/0684_25_2/sequences.logo  -p 640x1000 -l 30  -I 1
+/work3/idamei/bin/FastTree /work3/idamei/wzy/ssn-clusterings/2206101141/superclusters/0684_25_2/sequences.afa > /work3/idamei/wzy/ssn-clusterings/2206101141/superclusters/0684_25_2/sequences.nwk

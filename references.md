@@ -1,3 +1,13 @@
+# Pymol
+Flytte labels: Mouse -> 2 button editing
+Command + click på label (vær forsigtig med at ramme label og ikke proteinet)
+
+# Cluster 1
+7061 and 1601 - we have evidence for the bond in both of them, but they are not the same phase
+
+# E. coli database
+https://nevyn.organ.su.se/ECODAB/index.php
+
 # 
 This one is denoted O-antigen polymerase and WzyE in Genbank: AAC45844.
 I've removed it from Wzy as it clusters with ECA-Pol.
