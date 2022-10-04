@@ -20,7 +20,7 @@ Add to wzy_polymerases repo.
 (OBS: new entry was added to waal.tsv, so don't run this)
 To retrieve the Wzx, Wzz and Waal entries run `python src/data-collection-and-preprocessing/retrieve-wzx-wzz-and-waal.py`
 
-This will create the files `data/wzx/wzx.tsv`, `data/wzz/wzz.tsv` and `data/waal/waal.tsv` (add 7tpg to waal.tsv and waal.fasta)
+This will create the files `data/wzx/wzx.tsv`, `data/wzz/wzz.tsv` and `data/waal/waal.tsv`.
 
 ### Making fasta files
 To generate fasta files run `python3 src/data-collection-and-preprocessing/make-fastas.py`
@@ -43,7 +43,7 @@ When all jobs have finished, download the data: `scp -r idamei@transfer.gbar.dtu
 For Wzx, Wzz and WaaL, it is the same procedure, just `/work3/idamei/waal/blast/`
 
 ### Parsing Blast results
-To parse the blast expansion output files run `python3 src/data-collection-and-preprocessing/parse-blast-results.py [protein-family]`. Where `protein-family` is `wzy`, `wzx`, `wzz`, `waal` or `eca-pol`.
+To parse the blast expansion output files, run `python3 src/data-collection-and-preprocessing/parse-blast-results.py [protein-family]`. Where `protein-family` is `wzy`, `wzx`, `wzz`, `waal` or `eca-pol`.
 
 This will create the file `data/[protein-family]/blast/unique-hits.tsv` which contains a list of the hit accessions and their best e-values.
 
@@ -116,7 +116,7 @@ Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/al
 ### Cluster
 Fragment sequences are manually added to the file `data/wzy/blast/banned`.
 
-To get the clusters in the SSN, run `sh src/ssn-clustering/cluster/cluster.sh [timestamp] [expansion-threshold] [ssn-threshold] wzy`. (expansion-threshold is written as '1e-30')
+To get the clusters in the SSN, run `sh src/ssn-clustering/cluster/cluster.sh [timestamp] [expansion-threshold] [ssn-threshold] wzy`. (expansion-threshold is written as '1e-15')
 
 This will create the folder `data/wzy/ssn-clusterings/[timestamp]` which contains a folder `clusters` with fasta files for all the clusters and jobscripts for making MSAs, a `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt`, `network`, and `submit.sh`. Then, it copies all this to the HPC.
 
@@ -124,9 +124,7 @@ This will create the folder `data/wzy/ssn-clusterings/[timestamp]` which contain
 On the HPC, run `sh /work3/idamei/wzy/ssn-clusterings/[timestamp]/submit.sh`.
 
 ### Analyse clustering
-When all jobs are finished, run locally: `sh src/ssn-clustering/analyse-clustering/analyse-clustering.sh [timestamp]`
-
-Push changes.
+When all jobs are finished, run locally: `sh src/ssn-clustering/analyse-clustering/analyse-clustering.sh [timestamp]`. This will create the ssn report, table, pymol script and HMMs in `data/wzy/ssn-clusterings/[timestamp]`.
 
 To visualize alphafold models with conserved residues, run: `pymol data/wzy/ssn-clusterings/[timestamp]/pymol-visualization.pml`.
 
