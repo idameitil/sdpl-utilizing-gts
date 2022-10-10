@@ -67,9 +67,13 @@ for super_cluster in connected_components:
 
 # Super clusters of one cluster
 for cluster in [entry for entry in os.listdir(cluster_dir) if not entry.startswith('.')]:
-    name += 1
     cluster_size = int(cluster.split('_')[0])
     cluster_name = cluster.split('_')[1]
+
+    if cluster_name in clusters_in_super_clusters:
+        continue
+
+    name += 1
 
     supercluster2clustermembers[str(name)] = [cluster]
 
