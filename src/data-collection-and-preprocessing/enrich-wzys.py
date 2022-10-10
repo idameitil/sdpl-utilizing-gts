@@ -1,6 +1,7 @@
 import pandas as pd
 from common import get_taxon, get_desired_sugars_df
 import sys
+import re
 
 def not_pd_null(value):
     return not pd.isnull(value)
@@ -34,6 +35,39 @@ for index, row in merged_df.iterrows():
     else:
         data.append(row.CSDB_Linear)
 merged_df['CSDB_Linear_corrected'] = data
+
+def is_axial_equatorial(alpha_beta, D_L):
+    if alpha_beta == 'a' and D_L == 'D' or alpha_beta == 'b' and D_L == 'L':
+        return 'axial'
+    if alpha_beta == 'a' and D_L == 'L' or alpha_beta == 'b' and D_L == 'D':
+        return 'equatorial'
+
+# Add bond and sugar stereochemistry
+alpha_beta = []
+D_L = []
+axial_equatorial = []
+for index, row in merged_df.iterrows():
+    if not_pd_null(row.CSDB_Linear_corrected):
+        splitted_string = row.CSDB_Linear_corrected.split(' ')[0].split(']')[-1]
+        print(splitted_string)
+        regex = r"([ab])([DL])"
+        # sugar_string = row.CSDB_Linear_corrected.split(' ')[0]
+        result = re.findall(regex, splitted_string)
+        print(row.CSDB_Linear_corrected)
+        print(result)
+        if len(result) > 0:
+            alpha_beta.append(result[-1][0])
+            D_L.append(result[-1][1])
+            axial_equatorial.append(is_axial_equatorial(result[-1][0], result[-1][1]))
+        else:
+            print('Error: Could not read sugar')
+    else:
+        alpha_beta.append('')
+        D_L.append('')
+        axial_equatorial.append('')
+merged_df['alpha_beta'] = alpha_beta
+merged_df['D_L'] = D_L
+merged_df['axial_equatorial'] = axial_equatorial
 
 # Remove sugar data from 'no_sugar' rows
 merged_df.loc[merged_df.CSDB_record_ID_forced == 'no_sugar', ['CSDB_record_ID', 'CSDB_Linear', 'glycoct', 'CSDB_nonpersistent_article_ID', 'doi', 'pmid', 'NCBI_TaxID']] = None

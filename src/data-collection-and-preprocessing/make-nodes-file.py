@@ -13,7 +13,8 @@ seed_df = seed_df.rename(columns = {'genbank_taxon':'taxid', 'annotated':'seed',
 
 # Take subset of columns
 columns_include = ['protein_accession', 'taxid', 'kingdom', 'phylum', 'class', \
-    'order', 'family', 'genus', 'species', 'seq', 'serotype', 'pubmed', 'CPS', 'CSDB_record_ID', 'csdb_image_path', 'is_bond_correct']
+    'order', 'family', 'genus', 'species', 'seq', 'serotype', 'pubmed', 'CPS', \
+    'CSDB_record_ID', 'csdb_image_path', 'is_bond_correct', 'alpha_beta', 'D_L', 'axial_equatorial']
 seed_df_small = seed_df[columns_include]
 
 # Get alphafold models
@@ -49,7 +50,7 @@ hits_df_small = hits_df_small[~hits_df_small.protein_accession.isin(seed_df.prot
 hits_df_small['alphafold_bool'] = '0'
 
 # Add empty columns for data that we have for the seeds
-empty_columns = ['alphafold_path', 'pubmed', 'CPS']
+empty_columns = ['alphafold_path', 'pubmed', 'CPS', 'alpha_beta', 'D_L', 'axial_equatorial']
 for column_name in empty_columns:
     hits_df_small[column_name] = ''
 
