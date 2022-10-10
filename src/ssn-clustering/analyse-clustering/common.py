@@ -206,7 +206,7 @@ class SSNClusterData:
         return f"data/wzy/ssn-clusterings/{self.ssn_clustering_id}/superclusterings/{self.superclustering_id}/superclusters"
 
     def superclusters_dict_filename(self):
-        return f"data/wzy/ssn-clusterings/{self.ssn_clustering_id}/superclusterings/{self.superclustering_id}/clusters_in_superclusters.pickle"
+        return f"data/wzy/ssn-clusterings/{self.ssn_clustering_id}/superclusterings/{self.superclustering_id}/clusters-in-superclusters.tsv"
 
     def cluster_table_filename(self):
         return f"{self.results_dir_top()}/clusters.tsv"
@@ -369,6 +369,9 @@ class SSNClusterData:
             if protein['is_bond_correct'] == '1':
                 is_bond_correct = True
         return is_bond_correct
+
+    def equatorial_axial(self, sugar_id):
+        return self.seeds_and_hits_df.loc[self.seeds_and_hits_df.CSDB_record_ID == sugar_id, 'axial_equatorial'].values[0]
     
     def enrich_sugars(self, seed_accessions, sugars2accessions):
         enriched_sugars = {
@@ -376,18 +379,21 @@ class SSNClusterData:
             'proteins': sugars2accessions[sugar_id],
             'image': get_sugar_image(sugar_id, csdb_images_folder=self.csdb_images_path),
             'is_only_blast': self.is_sugar_only_blast(sugar_id, sugars2accessions, seed_accessions),
-            'is_bond_correct': self.is_bond_correct(sugar_id, sugars2accessions)
+            'is_bond_correct': self.is_bond_correct(sugar_id, sugars2accessions),
+            'equatorial_axial': self.equatorial_axial(sugar_id)
              }
              for sugar_id in sugars2accessions}
         return enriched_sugars
 
     def sugar_images_seeds(self, enriched_sugars):
-        return [{'image': enriched_sugars[sugar_id]['image'], 'is_bond_correct': enriched_sugars[sugar_id]['is_bond_correct'], 'CSDB_ID': sugar_id} 
+        return [{'image': enriched_sugars[sugar_id]['image'], 'is_bond_correct': enriched_sugars[sugar_id]['is_bond_correct'], 
+        'CSDB_ID': sugar_id, 'equatorial_axial': enriched_sugars[sugar_id]['equatorial_axial']} 
         for sugar_id in enriched_sugars if not enriched_sugars[sugar_id]['is_only_blast']]
 
     def sugar_images_blast(self, enriched_sugars):
-        return [enriched_sugars[sugar_id]['image'] for sugar_id in enriched_sugars 
-        if enriched_sugars[sugar_id]['is_only_blast']]
+        return [{'image': enriched_sugars[sugar_id]['image'], 'is_bond_correct': enriched_sugars[sugar_id]['is_bond_correct'], 
+        'CSDB_ID': sugar_id, 'equatorial_axial': enriched_sugars[sugar_id]['equatorial_axial']}
+        for sugar_id in enriched_sugars if enriched_sugars[sugar_id]['is_only_blast']]
     
     def get_average_length(self, accessions):
         average_length = self.seeds_and_hits_df.loc[self.seeds_and_hits_df.protein_accession.isin(accessions), 'seq'].apply(lambda x: len(x)).mean()
@@ -400,8 +406,42 @@ class SSNClusterData:
         return ', '.join([f"{accession}: {self.TM_counts[accession]}" for accession in accessions if accession in self.TM_counts])
 
     def load_supercluster_dict(self):
-        with open(self.superclusters_dict_filename(), 'rb') as infile:
-            self.supercluster2clustermembers = pickle.load(infile)
+        with open(self.superclusters_dict_filename()) as infile:
+            supercluster_dict = {}
+            for line in infile:
+                cluster, supercluster = line.split()
+                if supercluster not in supercluster_dict:
+                    supercluster_dict[supercluster] = [cluster]
+                else:
+                    supercluster_dict[supercluster].append(cluster)
+            self.supercluster2clustermembers = supercluster_dict
+
+    def count_bonds(self, accessions):
+        alpha_count = 0
+        beta_count = 0
+        axial_count = 0
+        equatorial_count = 0
+        sugars_done = []
+        for accession in accessions:
+            sugar_id = self.get_sugar_id(accession)
+            if sugar_id in sugars_done:
+                continue
+            else:
+                sugars_done.append(sugar_id)
+            alpha_beta = self.seeds_and_hits_df.loc[self.seeds_and_hits_df.protein_accession == accession, 'alpha_beta'].values[0]
+            is_bond_correct = self.seeds_and_hits_df.loc[self.seeds_and_hits_df.protein_accession == accession, 'is_bond_correct'].values[0]
+            if alpha_beta == 'a':
+                alpha_count += 1
+            elif alpha_beta == 'b':
+                beta_count += 1
+            else:
+                pass
+            axial_equatorial = self.seeds_and_hits_df.loc[self.seeds_and_hits_df.protein_accession == accession, 'axial_equatorial'].values[0]
+            if axial_equatorial == 'axial':
+                axial_count += 1
+            elif axial_equatorial == 'equatorial':
+                equatorial_count += 1
+        return {'alpha_count': alpha_count, 'beta_count': beta_count, 'axial_count': axial_count, 'equatorial_count': equatorial_count}
         
     def load_cluster_data(self, cluster_id):
         cluster_info = {}
@@ -474,5 +514,7 @@ class SSNClusterData:
         supercluster_info['average_length'] = self.get_average_length(accessions)
         supercluster_info['TM_count_string'] = self.get_TM_count_string(accessions)
         supercluster_info['seeds_table'] = self.get_seeds_table(seed_accessions)
+
+        supercluster_info['bond_counts'] = self.count_bonds(seed_accessions)
 
         return supercluster_info
