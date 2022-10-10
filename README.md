@@ -118,7 +118,7 @@ Fragment sequences are manually added to the file `data/wzy/blast/banned`.
 
 To get the clusters in the SSN, run `sh src/ssn-clustering/cluster/cluster.sh [timestamp] [expansion-threshold] [ssn-threshold] wzy`. (expansion-threshold is written as '1e-15')
 
-This will create the folder `data/wzy/ssn-clusterings/[timestamp]` which contains a folder `clusters` with fasta files for all the clusters and jobscripts for making MSAs, a `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt`, `network`, and `submit.sh`. Then, it copies all this to the HPC.
+This will create the folder `data/wzy/ssn-clusterings/[timestamp]` which contains `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt`, `network`, `submit.sh` and a folder `clusters`. Then, it copies all this to the HPC.
 
 ### Make alignments etc. for each cluster
 On the HPC, run `sh /work3/idamei/wzy/ssn-clusterings/[timestamp]/submit.sh`.
@@ -129,7 +129,7 @@ When all jobs are finished, run locally: `sh src/ssn-clustering/analyse-clusteri
 To visualize alphafold models with conserved residues, run: `pymol data/wzy/ssn-clusterings/[timestamp]/pymol-visualization.pml`.
 
 ### Super cluster analysis
-Run HHblits all clusters against all: `sh src/ssn-clustering/supercluster/hhblits.sh [ssn-timestamp]`. This will create a .hhr file for each cluster (in `data/wzy/ssn-clusterings/[timestamp]/clusters/[cluster]/[cluster.hhr]`).
+Run HHblits all against all: `sh src/ssn-clustering/supercluster/hhblits.sh [ssn-timestamp]`. This will create a .hhr file for each cluster (in `data/wzy/ssn-clusterings/[timestamp]/clusters/[cluster]/[cluster.hhr]`).
 
 To run superclustering pipeline, run: `sh src/ssn-clustering/supercluster/supercluster.sh [ssn_timestamp] [superclustering_timestamp] [superclustering_threshold]`. This will create the folder `data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[superclustering_timestamp]`.
 
@@ -139,7 +139,7 @@ Then to generate MSAs, run:
 And at the HPC: `sh /work3/idamei/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[supercluster-timestamp]/submit-superclusters.sh`
 
 ### Analyse superclustering
-When all jobs are finished, run locally: `sh src/ssn-clustering/analyse-superclustering/analyse-superclustering.sh [ssn-timestamp] [superclustering-timestamp]`. This will generate the superclustering report, table and HMMs.
+When all jobs are finished, run locally: `sh src/ssn-clustering/analyse-superclustering/analyse-superclustering.sh [ssn-timestamp] [superclustering-timestamp]`. This will generate the superclustering report, table and HMMs in `data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[superclustering_timestamp]`.
 
 ## Phylogenetic trees
 
