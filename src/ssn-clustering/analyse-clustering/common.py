@@ -3,7 +3,6 @@ import pandas as pd
 from Bio import SeqIO
 import numpy as np
 from scipy import stats
-import pickle
 
 wzy_seeds_and_hits_filename = 'data/wzy/seeds-and-hits.tsv'
 phobius_filename = 'data/wzy/phobius/2112081041/Phobius prediction.txt'

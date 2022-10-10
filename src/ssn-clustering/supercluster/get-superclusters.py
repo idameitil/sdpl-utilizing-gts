@@ -3,7 +3,6 @@ import sys
 import os
 from Bio import SeqIO
 import shutil
-import pickle
 
 ssn_timestamp = sys.argv[1]
 supercluster_timestamp = sys.argv[2]
@@ -99,11 +98,6 @@ with open(supercluster_tsv_filename, 'w') as outfile:
     for supercluster in supercluster2protein_members:
         for member in supercluster2protein_members[supercluster]:
             outfile.write(f"{member}\t{supercluster}\n")
-
-# Write file with names of clusters in supercluster
-filename = f"{results_dir}/clusters_in_superclusters.pickle"
-with open(filename, 'wb') as outfile:
-    pickle.dump(supercluster2clustermembers, outfile)
 
 # Write file with names of clusters in supercluster
 filename = f"{results_dir}/clusters-in-superclusters.tsv"
