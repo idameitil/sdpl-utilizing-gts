@@ -1,3 +1,12 @@
+# Relevante legater
+https://ida.dk/om-ida/organisation/fonde-og-legater/stoette-til-studierejser
+
+https://www.legatbogen.dk/christian-og-ottilia-brorsons-rejselegat/stoetteomraade/1731
+
+https://augustinusfonden.dk/ansoegning/
+
+https://ddsa.dk/funding/travelgrants/
+
 # Pymol
 Flytte labels: Mouse -> 2 button editing
 Command + click på label (vær forsigtig med at ramme label og ikke proteinet)
