@@ -17,8 +17,6 @@ def parse_hhr(hhr_filename, query_cluster_name, threshold):
                 evalue = float(splitted_line[3])
                 score = float(splitted_line[5])
                 hit_accession = splitted_line[1]
-                if no == '1':
-                    continue
                 hit_cluster_name = clustering_data.cluster_dict[hit_accession]
                 if score > threshold:
                     hits[(query_cluster_name, hit_cluster_name)] = score
