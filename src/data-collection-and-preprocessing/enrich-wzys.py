@@ -49,12 +49,9 @@ axial_equatorial = []
 for index, row in merged_df.iterrows():
     if not_pd_null(row.CSDB_Linear_corrected):
         splitted_string = row.CSDB_Linear_corrected.split(' ')[0].split(']')[-1]
-        print(splitted_string)
         regex = r"([ab])([DL])"
         # sugar_string = row.CSDB_Linear_corrected.split(' ')[0]
         result = re.findall(regex, splitted_string)
-        print(row.CSDB_Linear_corrected)
-        print(result)
         if len(result) > 0:
             alpha_beta.append(result[-1][0])
             D_L.append(result[-1][1])
