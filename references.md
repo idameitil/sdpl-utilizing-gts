@@ -1,3 +1,8 @@
+# Undervisning timer
+11 oct: 2 timer
+
+# Graph tool: grace
+
 # Relevante legater
 https://ida.dk/om-ida/organisation/fonde-og-legater/stoette-til-studierejser
 
