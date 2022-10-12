@@ -7,5 +7,8 @@ python src/ssn-clustering/analyse-superclustering/make-report-superclusters.py $
 echo "\n*** GENERATING SUMMARY TABLE ***\n"
 python src/ssn-clustering/analyse-superclustering/make-table-superclusters.py $1 $2
 
+echo "\n*** MAKING STEREOCHEMISTRY PLOT ***\n"
+python src/ssn-clustering/analyse-superclustering/plot-stereochemistry.py $1 $2
+
 echo "\n*** BUILDING HMMS ***\n"
 python src/ssn-clustering/analyse-superclustering/build-hmms-superclusters.py $1 $2
