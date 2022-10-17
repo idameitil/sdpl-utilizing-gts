@@ -1,3 +1,6 @@
+# RodA family
+x571
+
 # Deleted Wzys
 Two Wzys from E. coli O45 were removed 12 oct 2022:
 EHX11459.1 - it was very different from the other O45's and in Genbank it doesn't have a denoted serotype, whereas all the others do. However, it did end up in a cluster with similar sugars as an alternative in CSDB (CSDB ID 2593).
@@ -5,6 +8,7 @@ CAN87666.1 - fragment and otherwise identical to the others.
 
 # Undervisning timer
 11 oct: 2 timer
+13 Oct: 1,5 time
 
 # Graph tool: grace
 
@@ -175,7 +179,6 @@ Next things to do:
 
 Dead polymerases in the original cluster, a functional one somewhere else
 
-
 Structure -> turns out the strain is a different one from the one that was sequenced
 
 Old structures
@@ -207,6 +210,8 @@ peptidoglycan flippase
 oligosaccharyl transferase
 
 Peter Reeves results on Wzx
+
+They are currently refining a structure, where Wzy is in the middle of the Wzz complex
 
 # Journals
 
