@@ -133,7 +133,7 @@ Run HHblits all against all: `sh src/ssn-clustering/supercluster/hhblits.sh [ssn
 
 To run superclustering pipeline, run: `sh src/ssn-clustering/supercluster/supercluster.sh [ssn_timestamp] [superclustering_timestamp] [superclustering_threshold]`. This will create the folder `data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[superclustering_timestamp]`.
 
-Then to generate MSAs, run:
+Then to generate MSAs for each supercluster, run:
 `scp -r data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/ idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/[ssn-timestamp]/`
 
 And at the HPC: `sh /work3/idamei/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[supercluster-timestamp]/submit-superclusters.sh`
