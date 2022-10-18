@@ -15,7 +15,7 @@ def run_mafft(supercluster):
     print('End:', supercluster)
 
 if __name__ == '__main__':
-    pool = mp.Pool(mp.cpu_count()-1)
+    pool = mp.Pool(2)
     superclusters = [f for f in os.listdir(superclusterdir) if not f.startswith('.')]
     pool.map(run_mafft, [supercluster for supercluster in sorted(superclusters, reverse=True)], chunksize=1)
     pool.close()

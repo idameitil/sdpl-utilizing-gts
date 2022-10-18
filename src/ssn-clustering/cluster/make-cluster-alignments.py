@@ -14,7 +14,7 @@ def run_mafft(cluster):
     print('End:', cluster)
 
 if __name__ == '__main__':
-    pool = mp.Pool(mp.cpu_count()-1)
+    pool = mp.Pool(2)
     clusters = [f for f in os.listdir(clusterdir) if not f.startswith('.')]
     pool.map(run_mafft, [cluster for cluster in sorted(clusters, reverse=True)], chunksize=1)
     pool.close()
