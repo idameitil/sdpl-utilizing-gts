@@ -118,10 +118,7 @@ Fragment sequences are manually added to the file `data/wzy/blast/banned`.
 
 To run the SSN, run `sh src/ssn-clustering/cluster/cluster.sh [timestamp] [expansion-threshold] [ssn-threshold] wzy`. (expansion-threshold is written as '1e-15')
 
-This will create the folder `data/wzy/ssn-clusterings/[timestamp]` which contains `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt`, `network`, `submit.sh` and a folder `clusters`. Then, it copies all this to the HPC.
-
-### Make alignments etc. for each cluster
-On the HPC, run `sh /work3/idamei/wzy/ssn-clusterings/[timestamp]/submit.sh`.
+This will create the folder `data/wzy/ssn-clusterings/[timestamp]` which contains `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt`, `network` and a folder `clusters`.
 
 ### Analyse clustering
 When all jobs are finished, run locally: `sh src/ssn-clustering/analyse-clustering/analyse-clustering.sh [timestamp]`. This will create the ssn report, table, pymol script and HMMs in `data/wzy/ssn-clusterings/[timestamp]`.
@@ -133,13 +130,8 @@ Run HHblits all against all: `sh src/ssn-clustering/supercluster/hhblits.sh [ssn
 
 To run superclustering pipeline, run: `sh src/ssn-clustering/supercluster/supercluster.sh [ssn_timestamp] [superclustering_timestamp] [superclustering_threshold]`. This will create the folder `data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[superclustering_timestamp]`.
 
-Then to generate MSAs for each supercluster, run:
-`scp -r data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[supercluster-timestamp] idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/`
-
-And at the HPC: `sh /work3/idamei/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[supercluster-timestamp]/submit-superclusters.sh`
-
 ### Analyse superclustering
-When all jobs are finished, run locally: `sh src/ssn-clustering/analyse-superclustering/analyse-superclustering.sh [ssn-timestamp] [superclustering-timestamp]`. This will generate the superclustering report, table and HMMs in `data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[superclustering_timestamp]`.
+Then, to analyse the superclustering, run: `sh src/ssn-clustering/analyse-superclustering/analyse-superclustering.sh [ssn-timestamp] [superclustering-timestamp]`. This will generate the superclustering report, table and HMMs in `data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[superclustering_timestamp]`.
 
 ## Phylogenetic trees
 
