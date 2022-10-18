@@ -1,6 +1,6 @@
 import os
 import sys
-sys.path.append('src/ssn-clustering/analyse-clustering')
+sys.path.append('src/ssn-clustering')
 from common import SSNClusterData
 
 def parse_hhr(hhr_filename, query_cluster_name, threshold):
