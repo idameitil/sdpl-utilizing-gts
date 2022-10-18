@@ -1,5 +1,5 @@
 # Put msas in folder
-python src/ssn-clustering/supercluster-analysis/make-msa-folder.py $1
+python src/ssn-clustering/supercluster/make-msa-folder.py $1
 
 # Make database
 cd data/wzy/ssn-clusterings/$1/hhsearchdb/msa
@@ -27,4 +27,4 @@ mv hhsearchdb_hhm_ordered.ffdata hhsearchdb_hhm.ffdata
 cd ../../../../..
 
 # Run hhblits
-python src/ssn-clustering/supercluster-analysis/run-hhblits.py $1
+python src/ssn-clustering/supercluster/run-hhblits.py $1
