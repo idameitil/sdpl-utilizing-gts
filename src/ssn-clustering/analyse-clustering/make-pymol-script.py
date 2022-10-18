@@ -4,7 +4,7 @@ from common import SSNClusterData
 timestamp = sys.argv[1]
 
 # Get clustering data
-clustering_data = SSNClusterData(timestamp, get_sugars=False)
+clustering_data = SSNClusterData(timestamp, get_sugars=False, load_superclusters=False)
 clusters = list(clustering_data.clusters)
 
 load_ligase_string = f"""set cartoon_side_chain_helper, on

@@ -116,7 +116,7 @@ Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/al
 ### Cluster
 Fragment sequences are manually added to the file `data/wzy/blast/banned`.
 
-To get the clusters in the SSN, run `sh src/ssn-clustering/cluster/cluster.sh [timestamp] [expansion-threshold] [ssn-threshold] wzy`. (expansion-threshold is written as '1e-15')
+To run the SSN, run `sh src/ssn-clustering/cluster/cluster.sh [timestamp] [expansion-threshold] [ssn-threshold] wzy`. (expansion-threshold is written as '1e-15')
 
 This will create the folder `data/wzy/ssn-clusterings/[timestamp]` which contains `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt`, `network`, `submit.sh` and a folder `clusters`. Then, it copies all this to the HPC.
 
@@ -128,13 +128,13 @@ When all jobs are finished, run locally: `sh src/ssn-clustering/analyse-clusteri
 
 To visualize alphafold models with conserved residues, run: `pymol data/wzy/ssn-clusterings/[timestamp]/pymol-visualization.pml`.
 
-### Super cluster analysis
+### Supercluster analysis
 Run HHblits all against all: `sh src/ssn-clustering/supercluster/hhblits.sh [ssn-timestamp]`. This will create a .hhr file for each cluster (in `data/wzy/ssn-clusterings/[timestamp]/clusters/[cluster]/[cluster.hhr]`).
 
 To run superclustering pipeline, run: `sh src/ssn-clustering/supercluster/supercluster.sh [ssn_timestamp] [superclustering_timestamp] [superclustering_threshold]`. This will create the folder `data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[superclustering_timestamp]`.
 
 Then to generate MSAs for each supercluster, run:
-`scp -r data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/ idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/[ssn-timestamp]/`
+`scp -r data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[supercluster-timestamp] idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/`
 
 And at the HPC: `sh /work3/idamei/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[supercluster-timestamp]/submit-superclusters.sh`
 

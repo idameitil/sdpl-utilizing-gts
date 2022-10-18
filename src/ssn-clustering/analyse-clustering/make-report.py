@@ -5,7 +5,7 @@ import sys
 timestamp = sys.argv[1]
 
 # Get clustering data
-clustering_data = SSNClusterData(timestamp)
+clustering_data = SSNClusterData(timestamp, load_superclusters=False)
 clusters = list(clustering_data.clusters)
 
 # Write report
