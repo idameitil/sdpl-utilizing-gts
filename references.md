@@ -9,6 +9,8 @@ CAN87666.1 - fragment and otherwise identical to the others.
 # Undervisning timer
 11 oct: 2 timer
 13 Oct: 1,5 time
+14 Oct: 9 timer
+17 Oct: 1 time
 
 # Graph tool: grace
 
