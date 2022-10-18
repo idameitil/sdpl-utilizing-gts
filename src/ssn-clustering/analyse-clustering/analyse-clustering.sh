@@ -1,5 +1,5 @@
-echo "\n*** DOWNLOADING ALIGNMENTS AND LOGOS FROM HPC ***\n"
-scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/$1/clusters/ data/wzy/ssn-clusterings/$1
+# echo "\n*** DOWNLOADING ALIGNMENTS AND LOGOS FROM HPC ***\n"
+# scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/$1/clusters/ data/wzy/ssn-clusterings/$1
 
 # echo "\n*** CONVERTING LOGOS TO PDF ***\n"
 # python3 src/ssn-clustering/analyse-clustering/convert-logos-to-pdf.py $1
