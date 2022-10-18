@@ -2,7 +2,7 @@ import sys
 import numpy as np
 import math
 from jinja2 import Environment, FileSystemLoader, select_autoescape
-sys.path.append('src/ssn-clustering/analyse-clustering')
+sys.path.append('src/ssn-clustering')
 from common import SSNClusterData
 
 table_output_path = lambda clustering_id, superclustering_id: f"data/wzy/ssn-clusterings/{clustering_id}/superclusterings/{superclustering_id}/superclusters_table.html"

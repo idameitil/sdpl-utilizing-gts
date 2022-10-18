@@ -1,3 +1,5 @@
+import sys
+sys.path.append('src/ssn-clustering/')
 from common import SSNClusterData
 
 clustering_data_110 = SSNClusterData('2206101141', calculate_conserved=False)

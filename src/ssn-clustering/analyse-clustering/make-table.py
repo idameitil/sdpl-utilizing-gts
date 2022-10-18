@@ -1,4 +1,5 @@
 import sys
+sys.path.append('src/ssn-clustering/')
 import numpy as np
 import math
 from jinja2 import Environment, FileSystemLoader, select_autoescape

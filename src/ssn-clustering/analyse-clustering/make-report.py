@@ -1,6 +1,6 @@
-
-from common import SSNClusterData
 import sys
+sys.path.append('src/ssn-clustering/')
+from common import SSNClusterData
 
 timestamp = sys.argv[1]
 

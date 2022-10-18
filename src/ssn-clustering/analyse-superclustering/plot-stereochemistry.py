@@ -1,5 +1,5 @@
 import sys
-sys.path.append('src/ssn-clustering/analyse-clustering')
+sys.path.append('src/ssn-clustering/')
 from common import SSNClusterData
 import numpy as np
 import matplotlib.pyplot as plt
@@ -10,7 +10,8 @@ superclustering_timestamp = sys.argv[2]
 # Get clustering data
 clustering_data = SSNClusterData(ssn_timestamp, superclustering_timestamp, 
                                 load_clusters=False, calculate_conserved=False, 
-                                get_sugars=False,  get_sugars_superclusters=False)
+                                get_sugars=False,  get_sugars_superclusters=False,
+                                calculate_conserved_superclusters=False)
 superclusters = list(clustering_data.superclusters)
 
 # Prepare plot data

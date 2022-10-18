@@ -164,12 +164,14 @@ class SSNClusterData:
     seeds_and_hits_df = pd.read_csv(wzy_seeds_and_hits_filename, sep='\t', dtype=object)
     TM_counts = read_phobius(phobius_filename)
 
-    def __init__(self, ssn_clustering_id, superclustering_id='', calculate_conserved=True, get_sugars=True, get_sugars_superclusters=False, load_clusters=True, load_superclusters=True):
+    def __init__(self, ssn_clustering_id, superclustering_id='', calculate_conserved=True, 
+                get_sugars=True, get_sugars_superclusters=False, load_clusters=True, load_superclusters=True, calculate_conserved_superclusters=True):
         self.ssn_clustering_id = ssn_clustering_id
         self.superclustering_id = superclustering_id
         self.calculate_conserved = calculate_conserved
         self.get_sugars = get_sugars
         self.get_sugars_superclusters = get_sugars_superclusters
+        self.calculate_conserved_superclusters = calculate_conserved_superclusters
 
         if load_superclusters:
             self.csdb_images_path = '../../../../../csdb/images'
@@ -498,8 +500,9 @@ class SSNClusterData:
         supercluster_info['alphafold_models'] = alphafold_models
         fasta_dict = read_MSA_file(self.supercluster_MSA_filename(supercluster_id))
         
-        supercluster_info['conserved_residues'] = get_conserved_residues(fasta_dict)
-        supercluster_info['conserved_residues_string'] = get_conserved_residues_string(supercluster_info['conserved_residues'])
+        if self.calculate_conserved_superclusters:
+            supercluster_info['conserved_residues'] = get_conserved_residues(fasta_dict)
+            supercluster_info['conserved_residues_string'] = get_conserved_residues_string(supercluster_info['conserved_residues'])
         
         if self.get_sugars_superclusters:
             sugars2accessions = self.get_sugars2accessions(accessions)
