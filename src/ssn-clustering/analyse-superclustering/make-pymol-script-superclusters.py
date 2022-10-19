@@ -1,14 +1,23 @@
 import sys
 sys.path.append('src/ssn-clustering/')
 from common import SSNClusterData
+import random
 
-timestamp = sys.argv[1]
+ssn_timestamp = sys.argv[1]
+superclustering_timestamp = sys.argv[2]
 
 # Get clustering data
-clustering_data = SSNClusterData(timestamp, get_sugars=False, load_superclusters=False)
-clusters = list(clustering_data.clusters)
+clustering_data = SSNClusterData(ssn_clustering_id=ssn_timestamp, 
+    superclustering_id=superclustering_timestamp, calculate_conserved = False,
+    get_sugars=False, get_sugars_superclusters=False, load_clusters=False, 
+    load_superclusters=True, calculate_conserved_superclusters=True)
+superclusters = list(clustering_data.superclusters)
 
 load_ligase_string = f"""set cartoon_side_chain_helper, on
+set float_labels, on
+set label_size, 20
+set label_font_id, 7
+
 fetch 7tpg
 select chain_H, chain H
 select chain_L, chain L
@@ -39,31 +48,32 @@ show_conserved_residues_string = f"""show licorice, cons_ACC
 color atomic, cons_ACC\n
 """
 
-colors = ['teal', 'orange', 'green', 'br6']
+colors = ['teal', 'orange', 'green', 'br6', 'red']
 
 script_string = load_ligase_string
-for cluster in clusters:
-    if cluster['size'] < 50:
+
+for supercluster in superclusters:
+    if supercluster['size'] < 80:
         continue
     number = 0
-    for acc in cluster['alphafold_models']:
-        model_path = cluster['alphafold_models'][acc]['filepath']
+    for acc in random.sample(list(supercluster['alphafold_models'].keys()), min(5, len(list(supercluster['alphafold_models'].keys())))):
+        model_path = supercluster['alphafold_models'][acc]['filepath']
         if number == 0:
-            first_model_name = f"{cluster['name']}_{acc}"
+            first_model_name = f"{supercluster['name']}_{acc}"
             first_model = False
-            script_string += load_model_string.replace("ACC", acc).replace("PDB", model_path).replace("CLUSTER", cluster['name'])\
+            script_string += load_model_string.replace("ACC", acc).replace("PDB", model_path).replace("CLUSTER", supercluster['name'])\
                 .replace("ALIGN", "7tpg").replace('COLOR', colors[number])
         else:
-            script_string += load_model_string.replace("ACC", acc).replace("PDB", model_path).replace("CLUSTER", cluster['name'])\
+            script_string += load_model_string.replace("ACC", acc).replace("PDB", model_path).replace("CLUSTER", supercluster['name'])\
                 .replace("ALIGN", first_model_name).replace('COLOR', colors[number])
-        positions = cluster['conserved_positions_af_models'][acc]
+        positions = supercluster['conserved_positions_af_models'][acc]
         for position in positions:
-            script_string += f'label n. CA and resi {position} and {cluster["name"]}_{acc}, "%s-%s" % (resn, resi)\n'
+            script_string += f'label n. CA and resi {position} and {supercluster["name"]}_{acc}, "%s-%s" % (resn, resi)\n'
         temp_string = f"select cons_{acc}, "
         for position in positions:
-            temp_string += f"resi {position} and {cluster['name']}_{acc} or "
+            temp_string += f"resi {position} and {supercluster['name']}_{acc} or "
         script_string += temp_string[:-4] + '\n'
-        script_string += show_conserved_residues_string.replace("ACC", acc).replace("CLUSTER", cluster['name']) + '\n'
+        script_string += show_conserved_residues_string.replace("ACC", acc).replace("CLUSTER", supercluster['name']) + '\n'
         number += 1
 script_string += "set label_position,(1,1,1)\n"
 script_string += "set label_color,black\n"
@@ -71,6 +81,6 @@ script_string += "center \n"
 script_string += "disable \n"
 script_string += "bg_color white \n"
 
-pymol_script_path = f"data/wzy/ssn-clusterings/{timestamp}/pymol-visualization.pml"
+pymol_script_path = f"data/wzy/ssn-clusterings/{ssn_timestamp}/superclusterings/{superclustering_timestamp}/pymol-visualization.pml"
 with open (pymol_script_path, 'w') as outfile:
     outfile.write(script_string)

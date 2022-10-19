@@ -502,6 +502,7 @@ class SSNClusterData:
         
         if self.calculate_conserved_superclusters:
             supercluster_info['conserved_residues'] = get_conserved_residues(fasta_dict)
+            supercluster_info['conserved_positions_af_models'] = get_conserved_positions_af_models(alphafold_models, supercluster_info['conserved_residues'], fasta_dict)
             supercluster_info['conserved_residues_string'] = get_conserved_residues_string(supercluster_info['conserved_residues'])
         
         if self.get_sugars_superclusters:
