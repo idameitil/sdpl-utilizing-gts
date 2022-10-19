@@ -1,9 +1,37 @@
+# Notes Wzy review by Islam
+mutations in Wzy affected Wzz-regulation of length (proves Wzy-Wzz interaction)
+(check those residues - if they are conserved in the clsuters)
+
+“The genotypic differences in wzx and wzy across diverse bacteria are such that this trait has been exploited to develop PCR-based sero- typing assays for numerous bacteria”
+
+“independent evolution of fold and function, also referred to as nonhomologous isofunctional enzymes”
+
+# Talk with Preben
+Department work:
+- Stå for server
+- Undervise på hans kursus (50 timer, 2 timers forberedelse, 2 timers undervisning, Coot, AlphaFold),  27062 Protein science: Structure, interactions and molecular properties
+- Undervise special course eller bachelor eller master project
+- Grant applications (25 timer per grant)
+
+Dissemination:
+- Reach and Discover
+
+# Department work
+I PhD plan står der: max 420 timer department work. Ikke noget min/max på dissemination.
+
+I mail fra Malene 7. september 2021 står der:
+420 timer department work:
+- min 100 timer TA
+- lecturing max 50 timer
+- LSU, PhD committee or POB board
+- Project (co)-supervision, other tasks
+
 # RodA family
 x571
 
 # Deleted Wzys
 Two Wzys from E. coli O45 were removed 12 oct 2022:
-EHX11459.1 - it was very different from the other O45's and in Genbank it doesn't have a denoted serotype, whereas all the others do. However, it did end up in a cluster with similar sugars as an alternative in CSDB (CSDB ID 2593).
+EHX11459.1 - it was very different from the other O45's and in Genbank it doesn't have a denoted serotype, whereas all the others do. However, it did end up in a cluster, and the sugars in that cluster look similar to CSDB sugar 2593, which is an alternative sugar of E. coli O45.
 CAN87666.1 - fragment and otherwise identical to the others.
 
 # Undervisning timer
