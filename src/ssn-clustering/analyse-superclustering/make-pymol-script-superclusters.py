@@ -15,7 +15,7 @@ superclusters = list(clustering_data.superclusters)
 
 load_ligase_string = f"""set cartoon_side_chain_helper, on
 set float_labels, on
-set label_size, 20
+set label_size, 15
 set label_font_id, 7
 
 fetch 7tpg
