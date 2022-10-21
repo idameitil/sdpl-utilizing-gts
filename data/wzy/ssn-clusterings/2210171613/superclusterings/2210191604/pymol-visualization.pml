@@ -1,6 +1,6 @@
 set cartoon_side_chain_helper, on
 set float_labels, on
-set label_size, 20
+set label_size, 15
 set label_font_id, 7
 
 fetch 7tpg
@@ -17,50 +17,37 @@ center
 set_view (     0.129056588,   -0.914879322,   -0.382540226,    -0.931019366,    0.021019539,   -0.364364743,     0.341392726,    0.403177291,   -0.849059284,     0.000000000,    0.000000000, -203.904266357,   134.720489502,  144.012847900,  140.640121460,   160.759674072,  247.048858643,  -20.000000000 )
 
 
-load data/wzy/alphafold/CAI33309.1/ranked_0.pdb, 8_CAI33309.1
-color teal, 8_CAI33309.1
-cealign 7tpg, 8_CAI33309.1
-
-label n. CA and resi 150 and 8_CAI33309.1, "%s-%s" % (resn, resi)
-label n. CA and resi 266 and 8_CAI33309.1, "%s-%s" % (resn, resi)
-label n. CA and resi 304 and 8_CAI33309.1, "%s-%s" % (resn, resi)
-select cons_CAI33309.1, resi 150 and 8_CAI33309.1 or resi 266 and 8_CAI33309.1 or resi 304 and 8_CAI33309.1
-show licorice, cons_CAI33309.1
-color atomic, cons_CAI33309.1
-
-
-
 load data/wzy/alphafold/CAI34369.1/ranked_0.pdb, 8_CAI34369.1
-color orange, 8_CAI34369.1
-cealign 8_CAI33309.1, 8_CAI34369.1
+color teal, 8_CAI34369.1
+cealign 7tpg, 8_CAI34369.1
 
 label n. CA and resi 151 and 8_CAI34369.1, "%s-%s" % (resn, resi)
 label n. CA and resi 268 and 8_CAI34369.1, "%s-%s" % (resn, resi)
+label n. CA and resi 304 and 8_CAI34369.1, "%s-%s" % (resn, resi)
 label n. CA and resi 308 and 8_CAI34369.1, "%s-%s" % (resn, resi)
-select cons_CAI34369.1, resi 151 and 8_CAI34369.1 or resi 268 and 8_CAI34369.1 or resi 308 and 8_CAI34369.1
+select cons_CAI34369.1, resi 151 and 8_CAI34369.1 or resi 268 and 8_CAI34369.1 or resi 304 and 8_CAI34369.1 or resi 308 and 8_CAI34369.1
 show licorice, cons_CAI34369.1
 color atomic, cons_CAI34369.1
 
 
 
-load data/wzy/alphafold/CDF66396.1/ranked_0.pdb, 2_CDF66396.1
-color teal, 2_CDF66396.1
-cealign 7tpg, 2_CDF66396.1
+load data/wzy/alphafold/CAI33309.1/ranked_0.pdb, 8_CAI33309.1
+color orange, 8_CAI33309.1
+cealign 8_CAI34369.1, 8_CAI33309.1
 
-label n. CA and resi 168 and 2_CDF66396.1, "%s-%s" % (resn, resi)
-label n. CA and resi 171 and 2_CDF66396.1, "%s-%s" % (resn, resi)
-label n. CA and resi 228 and 2_CDF66396.1, "%s-%s" % (resn, resi)
-label n. CA and resi 284 and 2_CDF66396.1, "%s-%s" % (resn, resi)
-label n. CA and resi 345 and 2_CDF66396.1, "%s-%s" % (resn, resi)
-select cons_CDF66396.1, resi 168 and 2_CDF66396.1 or resi 171 and 2_CDF66396.1 or resi 228 and 2_CDF66396.1 or resi 284 and 2_CDF66396.1 or resi 345 and 2_CDF66396.1
-show licorice, cons_CDF66396.1
-color atomic, cons_CDF66396.1
+label n. CA and resi 150 and 8_CAI33309.1, "%s-%s" % (resn, resi)
+label n. CA and resi 266 and 8_CAI33309.1, "%s-%s" % (resn, resi)
+label n. CA and resi 300 and 8_CAI33309.1, "%s-%s" % (resn, resi)
+label n. CA and resi 304 and 8_CAI33309.1, "%s-%s" % (resn, resi)
+select cons_CAI33309.1, resi 150 and 8_CAI33309.1 or resi 266 and 8_CAI33309.1 or resi 300 and 8_CAI33309.1 or resi 304 and 8_CAI33309.1
+show licorice, cons_CAI33309.1
+color atomic, cons_CAI33309.1
 
 
 
 load data/wzy/alphafold/AAA97573.1/ranked_0.pdb, 2_AAA97573.1
-color orange, 2_AAA97573.1
-cealign 2_CDF66396.1, 2_AAA97573.1
+color teal, 2_AAA97573.1
+cealign 7tpg, 2_AAA97573.1
 
 label n. CA and resi 173 and 2_AAA97573.1, "%s-%s" % (resn, resi)
 label n. CA and resi 176 and 2_AAA97573.1, "%s-%s" % (resn, resi)
@@ -74,8 +61,8 @@ color atomic, cons_AAA97573.1
 
 
 load data/wzy/alphafold/AAC45857.1/ranked_0.pdb, 2_AAC45857.1
-color green, 2_AAC45857.1
-cealign 2_CDF66396.1, 2_AAC45857.1
+color orange, 2_AAC45857.1
+cealign 2_AAA97573.1, 2_AAC45857.1
 
 label n. CA and resi 173 and 2_AAC45857.1, "%s-%s" % (resn, resi)
 label n. CA and resi 176 and 2_AAC45857.1, "%s-%s" % (resn, resi)
@@ -85,6 +72,21 @@ label n. CA and resi 349 and 2_AAC45857.1, "%s-%s" % (resn, resi)
 select cons_AAC45857.1, resi 173 and 2_AAC45857.1 or resi 176 and 2_AAC45857.1 or resi 234 and 2_AAC45857.1 or resi 291 and 2_AAC45857.1 or resi 349 and 2_AAC45857.1
 show licorice, cons_AAC45857.1
 color atomic, cons_AAC45857.1
+
+
+
+load data/wzy/alphafold/CDF66396.1/ranked_0.pdb, 2_CDF66396.1
+color green, 2_CDF66396.1
+cealign 2_AAA97573.1, 2_CDF66396.1
+
+label n. CA and resi 168 and 2_CDF66396.1, "%s-%s" % (resn, resi)
+label n. CA and resi 171 and 2_CDF66396.1, "%s-%s" % (resn, resi)
+label n. CA and resi 228 and 2_CDF66396.1, "%s-%s" % (resn, resi)
+label n. CA and resi 284 and 2_CDF66396.1, "%s-%s" % (resn, resi)
+label n. CA and resi 345 and 2_CDF66396.1, "%s-%s" % (resn, resi)
+select cons_CDF66396.1, resi 168 and 2_CDF66396.1 or resi 171 and 2_CDF66396.1 or resi 228 and 2_CDF66396.1 or resi 284 and 2_CDF66396.1 or resi 345 and 2_CDF66396.1
+show licorice, cons_CDF66396.1
+color atomic, cons_CDF66396.1
 
 
 
@@ -104,29 +106,9 @@ color atomic, cons_ADC54967.1
 
 
 
-load data/wzy/alphafold/AHB32215.1/ranked_0.pdb, 9_AHB32215.1
-color teal, 9_AHB32215.1
-cealign 7tpg, 9_AHB32215.1
-
-label n. CA and resi 43 and 9_AHB32215.1, "%s-%s" % (resn, resi)
-label n. CA and resi 49 and 9_AHB32215.1, "%s-%s" % (resn, resi)
-label n. CA and resi 53 and 9_AHB32215.1, "%s-%s" % (resn, resi)
-label n. CA and resi 137 and 9_AHB32215.1, "%s-%s" % (resn, resi)
-label n. CA and resi 138 and 9_AHB32215.1, "%s-%s" % (resn, resi)
-label n. CA and resi 171 and 9_AHB32215.1, "%s-%s" % (resn, resi)
-label n. CA and resi 219 and 9_AHB32215.1, "%s-%s" % (resn, resi)
-label n. CA and resi 232 and 9_AHB32215.1, "%s-%s" % (resn, resi)
-label n. CA and resi 282 and 9_AHB32215.1, "%s-%s" % (resn, resi)
-label n. CA and resi 283 and 9_AHB32215.1, "%s-%s" % (resn, resi)
-select cons_AHB32215.1, resi 43 and 9_AHB32215.1 or resi 49 and 9_AHB32215.1 or resi 53 and 9_AHB32215.1 or resi 137 and 9_AHB32215.1 or resi 138 and 9_AHB32215.1 or resi 171 and 9_AHB32215.1 or resi 219 and 9_AHB32215.1 or resi 232 and 9_AHB32215.1 or resi 282 and 9_AHB32215.1 or resi 283 and 9_AHB32215.1
-show licorice, cons_AHB32215.1
-color atomic, cons_AHB32215.1
-
-
-
 load data/wzy/alphafold/AHB32861.1/ranked_0.pdb, 9_AHB32861.1
-color orange, 9_AHB32861.1
-cealign 9_AHB32215.1, 9_AHB32861.1
+color teal, 9_AHB32861.1
+cealign 7tpg, 9_AHB32861.1
 
 label n. CA and resi 42 and 9_AHB32861.1, "%s-%s" % (resn, resi)
 label n. CA and resi 48 and 9_AHB32861.1, "%s-%s" % (resn, resi)
@@ -138,41 +120,67 @@ label n. CA and resi 221 and 9_AHB32861.1, "%s-%s" % (resn, resi)
 label n. CA and resi 236 and 9_AHB32861.1, "%s-%s" % (resn, resi)
 label n. CA and resi 286 and 9_AHB32861.1, "%s-%s" % (resn, resi)
 label n. CA and resi 287 and 9_AHB32861.1, "%s-%s" % (resn, resi)
-select cons_AHB32861.1, resi 42 and 9_AHB32861.1 or resi 48 and 9_AHB32861.1 or resi 52 and 9_AHB32861.1 or resi 136 and 9_AHB32861.1 or resi 137 and 9_AHB32861.1 or resi 170 and 9_AHB32861.1 or resi 221 and 9_AHB32861.1 or resi 236 and 9_AHB32861.1 or resi 286 and 9_AHB32861.1 or resi 287 and 9_AHB32861.1
+label n. CA and resi 343 and 9_AHB32861.1, "%s-%s" % (resn, resi)
+select cons_AHB32861.1, resi 42 and 9_AHB32861.1 or resi 48 and 9_AHB32861.1 or resi 52 and 9_AHB32861.1 or resi 136 and 9_AHB32861.1 or resi 137 and 9_AHB32861.1 or resi 170 and 9_AHB32861.1 or resi 221 and 9_AHB32861.1 or resi 236 and 9_AHB32861.1 or resi 286 and 9_AHB32861.1 or resi 287 and 9_AHB32861.1 or resi 343 and 9_AHB32861.1
 show licorice, cons_AHB32861.1
 color atomic, cons_AHB32861.1
 
 
 
-load data/wzy/alphafold/ACA24821.1/ranked_0.pdb, 1_ACA24821.1
-color teal, 1_ACA24821.1
-cealign 7tpg, 1_ACA24821.1
+load data/wzy/alphafold/AHB32215.1/ranked_0.pdb, 9_AHB32215.1
+color orange, 9_AHB32215.1
+cealign 9_AHB32861.1, 9_AHB32215.1
 
-label n. CA and resi 48 and 1_ACA24821.1, "%s-%s" % (resn, resi)
-label n. CA and resi 54 and 1_ACA24821.1, "%s-%s" % (resn, resi)
-label n. CA and resi 58 and 1_ACA24821.1, "%s-%s" % (resn, resi)
-label n. CA and resi 134 and 1_ACA24821.1, "%s-%s" % (resn, resi)
-label n. CA and resi 168 and 1_ACA24821.1, "%s-%s" % (resn, resi)
-label n. CA and resi 290 and 1_ACA24821.1, "%s-%s" % (resn, resi)
-select cons_ACA24821.1, resi 48 and 1_ACA24821.1 or resi 54 and 1_ACA24821.1 or resi 58 and 1_ACA24821.1 or resi 134 and 1_ACA24821.1 or resi 168 and 1_ACA24821.1 or resi 290 and 1_ACA24821.1
-show licorice, cons_ACA24821.1
-color atomic, cons_ACA24821.1
+label n. CA and resi 43 and 9_AHB32215.1, "%s-%s" % (resn, resi)
+label n. CA and resi 49 and 9_AHB32215.1, "%s-%s" % (resn, resi)
+label n. CA and resi 53 and 9_AHB32215.1, "%s-%s" % (resn, resi)
+label n. CA and resi 137 and 9_AHB32215.1, "%s-%s" % (resn, resi)
+label n. CA and resi 138 and 9_AHB32215.1, "%s-%s" % (resn, resi)
+label n. CA and resi 171 and 9_AHB32215.1, "%s-%s" % (resn, resi)
+label n. CA and resi 219 and 9_AHB32215.1, "%s-%s" % (resn, resi)
+label n. CA and resi 232 and 9_AHB32215.1, "%s-%s" % (resn, resi)
+label n. CA and resi 282 and 9_AHB32215.1, "%s-%s" % (resn, resi)
+label n. CA and resi 283 and 9_AHB32215.1, "%s-%s" % (resn, resi)
+label n. CA and resi 340 and 9_AHB32215.1, "%s-%s" % (resn, resi)
+select cons_AHB32215.1, resi 43 and 9_AHB32215.1 or resi 49 and 9_AHB32215.1 or resi 53 and 9_AHB32215.1 or resi 137 and 9_AHB32215.1 or resi 138 and 9_AHB32215.1 or resi 171 and 9_AHB32215.1 or resi 219 and 9_AHB32215.1 or resi 232 and 9_AHB32215.1 or resi 282 and 9_AHB32215.1 or resi 283 and 9_AHB32215.1 or resi 340 and 9_AHB32215.1
+show licorice, cons_AHB32215.1
+color atomic, cons_AHB32215.1
 
 
 
 load data/wzy/alphafold/AAK64372.1/ranked_0.pdb, 1_AAK64372.1
-color orange, 1_AAK64372.1
-cealign 1_ACA24821.1, 1_AAK64372.1
+color teal, 1_AAK64372.1
+cealign 7tpg, 1_AAK64372.1
 
 label n. CA and resi 51 and 1_AAK64372.1, "%s-%s" % (resn, resi)
 label n. CA and resi 57 and 1_AAK64372.1, "%s-%s" % (resn, resi)
 label n. CA and resi 61 and 1_AAK64372.1, "%s-%s" % (resn, resi)
 label n. CA and resi 142 and 1_AAK64372.1, "%s-%s" % (resn, resi)
 label n. CA and resi 176 and 1_AAK64372.1, "%s-%s" % (resn, resi)
+label n. CA and resi 228 and 1_AAK64372.1, "%s-%s" % (resn, resi)
+label n. CA and resi 232 and 1_AAK64372.1, "%s-%s" % (resn, resi)
 label n. CA and resi 292 and 1_AAK64372.1, "%s-%s" % (resn, resi)
-select cons_AAK64372.1, resi 51 and 1_AAK64372.1 or resi 57 and 1_AAK64372.1 or resi 61 and 1_AAK64372.1 or resi 142 and 1_AAK64372.1 or resi 176 and 1_AAK64372.1 or resi 292 and 1_AAK64372.1
+select cons_AAK64372.1, resi 51 and 1_AAK64372.1 or resi 57 and 1_AAK64372.1 or resi 61 and 1_AAK64372.1 or resi 142 and 1_AAK64372.1 or resi 176 and 1_AAK64372.1 or resi 228 and 1_AAK64372.1 or resi 232 and 1_AAK64372.1 or resi 292 and 1_AAK64372.1
 show licorice, cons_AAK64372.1
 color atomic, cons_AAK64372.1
+
+
+
+load data/wzy/alphafold/ACA24821.1/ranked_0.pdb, 1_ACA24821.1
+color orange, 1_ACA24821.1
+cealign 1_AAK64372.1, 1_ACA24821.1
+
+label n. CA and resi 48 and 1_ACA24821.1, "%s-%s" % (resn, resi)
+label n. CA and resi 54 and 1_ACA24821.1, "%s-%s" % (resn, resi)
+label n. CA and resi 58 and 1_ACA24821.1, "%s-%s" % (resn, resi)
+label n. CA and resi 134 and 1_ACA24821.1, "%s-%s" % (resn, resi)
+label n. CA and resi 168 and 1_ACA24821.1, "%s-%s" % (resn, resi)
+label n. CA and resi 221 and 1_ACA24821.1, "%s-%s" % (resn, resi)
+label n. CA and resi 224 and 1_ACA24821.1, "%s-%s" % (resn, resi)
+label n. CA and resi 290 and 1_ACA24821.1, "%s-%s" % (resn, resi)
+select cons_ACA24821.1, resi 48 and 1_ACA24821.1 or resi 54 and 1_ACA24821.1 or resi 58 and 1_ACA24821.1 or resi 134 and 1_ACA24821.1 or resi 168 and 1_ACA24821.1 or resi 221 and 1_ACA24821.1 or resi 224 and 1_ACA24821.1 or resi 290 and 1_ACA24821.1
+show licorice, cons_ACA24821.1
+color atomic, cons_ACA24821.1
 
 
 
@@ -181,37 +189,39 @@ color teal, 10_CAI34124.1
 cealign 7tpg, 10_CAI34124.1
 
 label n. CA and resi 267 and 10_CAI34124.1, "%s-%s" % (resn, resi)
+label n. CA and resi 301 and 10_CAI34124.1, "%s-%s" % (resn, resi)
 label n. CA and resi 304 and 10_CAI34124.1, "%s-%s" % (resn, resi)
 label n. CA and resi 325 and 10_CAI34124.1, "%s-%s" % (resn, resi)
-select cons_CAI34124.1, resi 267 and 10_CAI34124.1 or resi 304 and 10_CAI34124.1 or resi 325 and 10_CAI34124.1
+select cons_CAI34124.1, resi 267 and 10_CAI34124.1 or resi 301 and 10_CAI34124.1 or resi 304 and 10_CAI34124.1 or resi 325 and 10_CAI34124.1
 show licorice, cons_CAI34124.1
 color atomic, cons_CAI34124.1
 
 
 
-load data/wzy/alphafold/BAQ02088.1/ranked_0.pdb, 4_BAQ02088.1
-color teal, 4_BAQ02088.1
-cealign 7tpg, 4_BAQ02088.1
-
-label n. CA and resi 228 and 4_BAQ02088.1, "%s-%s" % (resn, resi)
-label n. CA and resi 307 and 4_BAQ02088.1, "%s-%s" % (resn, resi)
-label n. CA and resi 343 and 4_BAQ02088.1, "%s-%s" % (resn, resi)
-label n. CA and resi 348 and 4_BAQ02088.1, "%s-%s" % (resn, resi)
-select cons_BAQ02088.1, resi 228 and 4_BAQ02088.1 or resi 307 and 4_BAQ02088.1 or resi 343 and 4_BAQ02088.1 or resi 348 and 4_BAQ02088.1
-show licorice, cons_BAQ02088.1
-color atomic, cons_BAQ02088.1
-
-
-
 load data/wzy/alphafold/ACA24754.1/ranked_0.pdb, 4_ACA24754.1
-color orange, 4_ACA24754.1
-cealign 4_BAQ02088.1, 4_ACA24754.1
+color teal, 4_ACA24754.1
+cealign 7tpg, 4_ACA24754.1
 
 label n. CA and resi 217 and 4_ACA24754.1, "%s-%s" % (resn, resi)
 label n. CA and resi 294 and 4_ACA24754.1, "%s-%s" % (resn, resi)
 select cons_ACA24754.1, resi 217 and 4_ACA24754.1 or resi 294 and 4_ACA24754.1
 show licorice, cons_ACA24754.1
 color atomic, cons_ACA24754.1
+
+
+
+load data/wzy/alphafold/BAQ02088.1/ranked_0.pdb, 4_BAQ02088.1
+color orange, 4_BAQ02088.1
+cealign 4_ACA24754.1, 4_BAQ02088.1
+
+label n. CA and resi 228 and 4_BAQ02088.1, "%s-%s" % (resn, resi)
+label n. CA and resi 307 and 4_BAQ02088.1, "%s-%s" % (resn, resi)
+label n. CA and resi 343 and 4_BAQ02088.1, "%s-%s" % (resn, resi)
+label n. CA and resi 348 and 4_BAQ02088.1, "%s-%s" % (resn, resi)
+label n. CA and resi 395 and 4_BAQ02088.1, "%s-%s" % (resn, resi)
+select cons_BAQ02088.1, resi 228 and 4_BAQ02088.1 or resi 307 and 4_BAQ02088.1 or resi 343 and 4_BAQ02088.1 or resi 348 and 4_BAQ02088.1 or resi 395 and 4_BAQ02088.1
+show licorice, cons_BAQ02088.1
+color atomic, cons_BAQ02088.1
 
 
 
@@ -234,8 +244,11 @@ load data/wzy/alphafold/BAQ00795.1/ranked_0.pdb, 13_BAQ00795.1
 color teal, 13_BAQ00795.1
 cealign 7tpg, 13_BAQ00795.1
 
+label n. CA and resi 29 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 30 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 38 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
+label n. CA and resi 77 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
+label n. CA and resi 86 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 95 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 97 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 129 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
@@ -244,6 +257,7 @@ label n. CA and resi 160 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 161 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 163 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 164 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
+label n. CA and resi 166 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 177 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 191 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 213 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
@@ -264,10 +278,11 @@ label n. CA and resi 317 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 318 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 321 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 326 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
+label n. CA and resi 336 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 355 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 366 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 368 and 13_BAQ00795.1, "%s-%s" % (resn, resi)
-select cons_BAQ00795.1, resi 30 and 13_BAQ00795.1 or resi 38 and 13_BAQ00795.1 or resi 95 and 13_BAQ00795.1 or resi 97 and 13_BAQ00795.1 or resi 129 and 13_BAQ00795.1 or resi 159 and 13_BAQ00795.1 or resi 160 and 13_BAQ00795.1 or resi 161 and 13_BAQ00795.1 or resi 163 and 13_BAQ00795.1 or resi 164 and 13_BAQ00795.1 or resi 177 and 13_BAQ00795.1 or resi 191 and 13_BAQ00795.1 or resi 213 and 13_BAQ00795.1 or resi 222 and 13_BAQ00795.1 or resi 226 and 13_BAQ00795.1 or resi 232 and 13_BAQ00795.1 or resi 258 and 13_BAQ00795.1 or resi 261 and 13_BAQ00795.1 or resi 265 and 13_BAQ00795.1 or resi 276 and 13_BAQ00795.1 or resi 297 and 13_BAQ00795.1 or resi 300 and 13_BAQ00795.1 or resi 307 and 13_BAQ00795.1 or resi 308 and 13_BAQ00795.1 or resi 312 and 13_BAQ00795.1 or resi 313 and 13_BAQ00795.1 or resi 317 and 13_BAQ00795.1 or resi 318 and 13_BAQ00795.1 or resi 321 and 13_BAQ00795.1 or resi 326 and 13_BAQ00795.1 or resi 355 and 13_BAQ00795.1 or resi 366 and 13_BAQ00795.1 or resi 368 and 13_BAQ00795.1
+select cons_BAQ00795.1, resi 29 and 13_BAQ00795.1 or resi 30 and 13_BAQ00795.1 or resi 38 and 13_BAQ00795.1 or resi 77 and 13_BAQ00795.1 or resi 86 and 13_BAQ00795.1 or resi 95 and 13_BAQ00795.1 or resi 97 and 13_BAQ00795.1 or resi 129 and 13_BAQ00795.1 or resi 159 and 13_BAQ00795.1 or resi 160 and 13_BAQ00795.1 or resi 161 and 13_BAQ00795.1 or resi 163 and 13_BAQ00795.1 or resi 164 and 13_BAQ00795.1 or resi 166 and 13_BAQ00795.1 or resi 177 and 13_BAQ00795.1 or resi 191 and 13_BAQ00795.1 or resi 213 and 13_BAQ00795.1 or resi 222 and 13_BAQ00795.1 or resi 226 and 13_BAQ00795.1 or resi 232 and 13_BAQ00795.1 or resi 258 and 13_BAQ00795.1 or resi 261 and 13_BAQ00795.1 or resi 265 and 13_BAQ00795.1 or resi 276 and 13_BAQ00795.1 or resi 297 and 13_BAQ00795.1 or resi 300 and 13_BAQ00795.1 or resi 307 and 13_BAQ00795.1 or resi 308 and 13_BAQ00795.1 or resi 312 and 13_BAQ00795.1 or resi 313 and 13_BAQ00795.1 or resi 317 and 13_BAQ00795.1 or resi 318 and 13_BAQ00795.1 or resi 321 and 13_BAQ00795.1 or resi 326 and 13_BAQ00795.1 or resi 336 and 13_BAQ00795.1 or resi 355 and 13_BAQ00795.1 or resi 366 and 13_BAQ00795.1 or resi 368 and 13_BAQ00795.1
 show licorice, cons_BAQ00795.1
 color atomic, cons_BAQ00795.1
 
@@ -280,8 +295,9 @@ cealign 7tpg, 14_AAT77177.1
 label n. CA and resi 165 and 14_AAT77177.1, "%s-%s" % (resn, resi)
 label n. CA and resi 226 and 14_AAT77177.1, "%s-%s" % (resn, resi)
 label n. CA and resi 284 and 14_AAT77177.1, "%s-%s" % (resn, resi)
+label n. CA and resi 354 and 14_AAT77177.1, "%s-%s" % (resn, resi)
 label n. CA and resi 387 and 14_AAT77177.1, "%s-%s" % (resn, resi)
-select cons_AAT77177.1, resi 165 and 14_AAT77177.1 or resi 226 and 14_AAT77177.1 or resi 284 and 14_AAT77177.1 or resi 387 and 14_AAT77177.1
+select cons_AAT77177.1, resi 165 and 14_AAT77177.1 or resi 226 and 14_AAT77177.1 or resi 284 and 14_AAT77177.1 or resi 354 and 14_AAT77177.1 or resi 387 and 14_AAT77177.1
 show licorice, cons_AAT77177.1
 color atomic, cons_AAT77177.1
 
@@ -301,22 +317,8 @@ color atomic, cons_CAI34198.1
 
 
 
-load data/wzy/alphafold/CAI34254.1/ranked_0.pdb, 15_CAI34254.1
-color orange, 15_CAI34254.1
-cealign 15_CAI34198.1, 15_CAI34254.1
-
-label n. CA and resi 182 and 15_CAI34254.1, "%s-%s" % (resn, resi)
-label n. CA and resi 183 and 15_CAI34254.1, "%s-%s" % (resn, resi)
-label n. CA and resi 189 and 15_CAI34254.1, "%s-%s" % (resn, resi)
-label n. CA and resi 277 and 15_CAI34254.1, "%s-%s" % (resn, resi)
-select cons_CAI34254.1, resi 182 and 15_CAI34254.1 or resi 183 and 15_CAI34254.1 or resi 189 and 15_CAI34254.1 or resi 277 and 15_CAI34254.1
-show licorice, cons_CAI34254.1
-color atomic, cons_CAI34254.1
-
-
-
 load data/wzy/alphafold/CAI34217.1/ranked_0.pdb, 15_CAI34217.1
-color green, 15_CAI34217.1
+color orange, 15_CAI34217.1
 cealign 15_CAI34198.1, 15_CAI34217.1
 
 label n. CA and resi 186 and 15_CAI34217.1, "%s-%s" % (resn, resi)
@@ -329,6 +331,20 @@ color atomic, cons_CAI34217.1
 
 
 
+load data/wzy/alphafold/CAI34254.1/ranked_0.pdb, 15_CAI34254.1
+color green, 15_CAI34254.1
+cealign 15_CAI34198.1, 15_CAI34254.1
+
+label n. CA and resi 182 and 15_CAI34254.1, "%s-%s" % (resn, resi)
+label n. CA and resi 183 and 15_CAI34254.1, "%s-%s" % (resn, resi)
+label n. CA and resi 189 and 15_CAI34254.1, "%s-%s" % (resn, resi)
+label n. CA and resi 277 and 15_CAI34254.1, "%s-%s" % (resn, resi)
+select cons_CAI34254.1, resi 182 and 15_CAI34254.1 or resi 183 and 15_CAI34254.1 or resi 189 and 15_CAI34254.1 or resi 277 and 15_CAI34254.1
+show licorice, cons_CAI34254.1
+color atomic, cons_CAI34254.1
+
+
+
 load data/wzy/alphafold/AHB32490.1/ranked_0.pdb, 17_AHB32490.1
 color teal, 17_AHB32490.1
 cealign 7tpg, 17_AHB32490.1
@@ -336,7 +352,8 @@ cealign 7tpg, 17_AHB32490.1
 label n. CA and resi 175 and 17_AHB32490.1, "%s-%s" % (resn, resi)
 label n. CA and resi 238 and 17_AHB32490.1, "%s-%s" % (resn, resi)
 label n. CA and resi 287 and 17_AHB32490.1, "%s-%s" % (resn, resi)
-select cons_AHB32490.1, resi 175 and 17_AHB32490.1 or resi 238 and 17_AHB32490.1 or resi 287 and 17_AHB32490.1
+label n. CA and resi 429 and 17_AHB32490.1, "%s-%s" % (resn, resi)
+select cons_AHB32490.1, resi 175 and 17_AHB32490.1 or resi 238 and 17_AHB32490.1 or resi 287 and 17_AHB32490.1 or resi 429 and 17_AHB32490.1
 show licorice, cons_AHB32490.1
 color atomic, cons_AHB32490.1
 
