@@ -62,10 +62,10 @@ for supercluster in superclusters:
             first_model_name = f"{supercluster['name']}_{acc}"
             first_model = False
             script_string += load_model_string.replace("ACC", acc).replace("PDB", model_path).replace("CLUSTER", supercluster['name'])\
-                .replace("ALIGN", "7tpg").replace('COLOR', colors[number])
+                .replace("ALIGN", "7tpg").replace('COLOR', '0xeeeeee')
         else:
             script_string += load_model_string.replace("ACC", acc).replace("PDB", model_path).replace("CLUSTER", supercluster['name'])\
-                .replace("ALIGN", first_model_name).replace('COLOR', colors[number])
+                .replace("ALIGN", first_model_name).replace('COLOR', '0xeeeeee')
         positions = supercluster['conserved_positions_af_models'][acc]
         for position in positions:
             script_string += f'label n. CA and resi {position} and {supercluster["name"]}_{acc}, "%s-%s" % (resn, resi)\n'

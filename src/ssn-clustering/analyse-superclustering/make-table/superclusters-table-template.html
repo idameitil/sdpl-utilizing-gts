@@ -46,16 +46,20 @@
                 <p>Conserved residues: {{conserved_residues}} </p>
                 {% for clustermember in clustermembers %}
                     <p>Cluster {{clustermember.name}}:</p>
+                    <p>Average length: {{clustermember.average_length}}</p>
                     {% for sugar in clustermember.sugar_images_seeds %}
                         <img src="{{sugar.image}}" alt="">
-                        <p>{{sugar.CSDB_ID}}</p>
+                        <!-- <p>{{sugar.CSDB_ID}}</p> -->
                         {% if sugar.is_bond_correct %}
                             <p>*</p>
                         {% endif %}
+                        <!-- <p>{{sugar.equatorial_axial}}</p> -->
                     {% endfor %}
                     {% for sugar in clustermember.sugar_images_blast %}
-                    <p>Blast hit sugar: </p>
-                    <img src="{{sugar}}" alt="">
+                        <p>Blast hit sugar: </p>
+                        <img src="{{sugar.image}}" alt="">
+                        <!-- <p>{{sugar.CSDB_ID}}</p> -->
+                        <!-- <p>{{sugar.equatorial_axial}}</p> -->
                     {% endfor %}
                 {% endfor %}
             </div>

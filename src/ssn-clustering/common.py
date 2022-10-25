@@ -29,7 +29,7 @@ def read_MSA_file(MSA_filename):
         fasta_dict = {protein.id: protein.seq for protein in proteins}
     return fasta_dict
 
-def get_conserved_residues(fasta_dict, threshold = 0.97):
+def get_conserved_residues(fasta_dict, threshold = 0.95):
     AAs_ignore = ['-', 'G', 'A', 'V', 'C', 'P', 'L', 'I', 'M', 'W', 'F']
     sequences = np.array([np.array(list(fasta_dict[acc])) for acc in fasta_dict])
     no_sequences = sequences.shape[0]
