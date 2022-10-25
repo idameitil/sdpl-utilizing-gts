@@ -55,6 +55,8 @@ https://ddsa.dk/funding/travelgrants/
 Flytte labels: Mouse -> 2 button editing
 Command + click på label (vær forsigtig med at ramme label og ikke proteinet)
 
+set ray_trace_mode, 0
+
 # Cluster 1
 7061 and 1601 - we have evidence for the bond in both of them, but they are not the same phase
 
