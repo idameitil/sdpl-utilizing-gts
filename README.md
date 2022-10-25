@@ -109,7 +109,11 @@ To make the network file run on the HPC:
 
 `python3 /work3/idamei/src/make-network-file.py wzy`.
 
-Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/all-vs-all-blast/network data/wzy/all-vs-all-blast/`.
+Then gzip the network file: `gzip /work3/idamei/wzy/all-vs-all-blast/network`
+
+Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/all-vs-all-blast/network.gz data/wzy/all-vs-all-blast/`.
+
+And unzip it: `gzip -d data/wzy/all-vs-all-blast/network.gz`
 
 ## SSN clustering
 
@@ -303,27 +307,18 @@ Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/a
 `python src/genbank-search/filter-hits.py waal 6e-23`. This will create the file `data/waal/genbank-search/hits-6e-23.txt`.
 
 ### Make MSA for CAZy family
-`mkdir data/waal/MSA_CAZy_family`
+Copy accession list to HPC: `scp -r data/waal/genbank-search/hits-6e-23.txt idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/MSA_CAZy_family`
 
-`cp data/waal/genbank-search/hits-6e-23.txt data/waal/MSA_CAZy_family`
-
-`python src/genbank-search/prepare-msa-all.py waal`
-
-`scp -r data/waal/MSA_CAZy_family idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/`
-
-On the HPC:
+To get the fasta file, run on the HPC:
 `qrsh`
-
 (change BLASTDB to this in `~/.bashrc`: `export BLASTDB=/work3/garryg/blast/db-`)
-
 `blastdbcmd -db genbank -entry_batch /work3/idamei/waal/MSA_CAZy_family/hits-6e-23.txt > /work3/idamei/waal/MSA_CAZy_family/hits-6e-23.fa`
 
-`cd-hit -i /work3/idamei/waal/MSA_CAZy_family/hits-6e-23.fa -o /work3/idamei/waal/MSA_CAZy_family/hits-6e-23-cdhit99.fa -c 0.99`
+Download fasta file: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/MSA_CAZy_family/hits-6e-23.fa data/waal/MSA_CAZy_family`
 
-`bsub < /work3/idamei/waal/MSA_CAZy_family/jobscript.sh`
+Redundancy reduce: `cd-hit -i data/waal/MSA_CAZy_family/hits-6e-23.fa -o data/waal/MSA_CAZy_family/hits-6e-23-cdhit95.fa -c 0.95`
 
-Then locally, run:
-`scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/MSA_CAZy_family data/waal/`
+Run mafft: `mafft  --maxiterate 1000 --localpair --leavegappyregion data/waal/MSA_CAZy_family/hits-6e-23-cdhit95.fa > data/waal/MSA_CAZy_family/hits-6e-23-cdhit99_mafft.fa`
 
 ## ECA-Pol
 
@@ -398,24 +393,15 @@ Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-po
 `python src/genbank-search/filter-hits.py eca-pol 1e-40`. This creates the file `data/eca-pol/genbank-search/hits-1e-40.txt` with accessions to include in the CAZy family.
 
 ### Make MSA for CAZy family
-`mkdir data/eca-pol/MSA_CAZy_family`
+Copy accession list to HPC: `scp -r data/eca-pol/genbank-search/hits-1e-40.txt idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/MSA_CAZy_family`
 
-`cp data/eca-pol/genbank-search/hits-1e-40.txt data/eca-pol/MSA_CAZy_family`
-
-`python src/genbank-search/prepare-msa-all.py eca-pol`
-
-`scp -r data/eca-pol/MSA_CAZy_family idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/`
-
-On the HPC:
+To get the fasta file, run on the HPC:
 `qrsh`
-
 (change BLASTDB to this in `~/.bashrc`: `export BLASTDB=/work3/garryg/blast/db-`)
-
 `blastdbcmd -db genbank -entry_batch /work3/idamei/eca-pol/MSA_CAZy_family/hits-1e-40.txt > /work3/idamei/eca-pol/MSA_CAZy_family/hits-1e-40.fa`
 
-`cd-hit -i /work3/idamei/eca-pol/MSA_CAZy_family/hits-1e-40.fa -o /work3/idamei/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit99.fa -c 0.99`
+Download fasta file: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/MSA_CAZy_family/hits-1e-40.fa data/eca-pol/MSA_CAZy_family`
 
-`bsub < /work3/idamei/eca-pol/MSA_CAZy_family/jobscript.sh`
+Redundancy reduce: `cd-hit -i data/eca-pol/MSA_CAZy_family/hits-1e-40.fa -o data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit95.fa -c 0.95`
 
-Then locally, run:
-`scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/MSA_CAZy_family data/eca-pol/`
+Run mafft: `mafft  --maxiterate 1000 --localpair --leavegappyregion data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit95.fa > data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit99_mafft.fa`
