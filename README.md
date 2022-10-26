@@ -320,6 +320,11 @@ Redundancy reduce: `cd-hit -i data/waal/MSA_CAZy_family/hits-6e-23.fa -o data/wa
 
 Run mafft: `mafft  --maxiterate 1000 --localpair --leavegappyregion data/waal/MSA_CAZy_family/hits-6e-23-cdhit95.fa > data/waal/MSA_CAZy_family/hits-6e-23-cdhit99_mafft.fa`
 
+### Make Pymol visualization
+To make the pymol visualization, run: `src/waal-analysis/make-pymol-visualization.py`.
+
+To open in pymol, run: `data/waal/MSA_CAZy_family/pymol-visualization.pml`.
+
 ## ECA-Pol
 
 ### Enrich blast hits with taxonomy
@@ -405,3 +410,8 @@ Download fasta file: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/M
 Redundancy reduce: `cd-hit -i data/eca-pol/MSA_CAZy_family/hits-1e-40.fa -o data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit95.fa -c 0.95`
 
 Run mafft: `mafft  --maxiterate 1000 --localpair --leavegappyregion data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit95.fa > data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit99_mafft.fa`
+
+### Make Pymol visualization
+To make the pymol visualization, run: `src/eca-pol-analysis/make-pymol-visualization.py`
+
+To open in pymol, run: `data/eca-pol/MSA_CAZy_family/pymol-visualization.pml`.
