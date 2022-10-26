@@ -1,3 +1,6 @@
+# Role of LPS
+Structural support
+
 # Notes Wzy review by Islam
 mutations in Wzy affected Wzz-regulation of length (proves Wzy-Wzz interaction)
 (check those residues - if they are conserved in the clsuters)
