@@ -6,7 +6,7 @@ from common import read_MSA_file, get_conserved_residues, get_specific_positions
 # Get conserved residues
 alignment_filename = "data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit99_mafft.fa"
 fasta_dict = read_MSA_file(alignment_filename)
-conserved_residues = get_conserved_residues(fasta_dict, threshold=0.965)
+conserved_residues = get_conserved_residues(fasta_dict, threshold=0.97)
 positions = get_specific_positions_conserved_residues('ACH50550.1', conserved_residues, fasta_dict)
 
 # Write pymol script
@@ -34,6 +34,7 @@ set label_size, 20
 set label_font_id, 7
 remove hydrogens
 set cartoon_side_chain_helper, on
+set ray_trace_mode, 0
 """
 
 pymol_script_path = f"data/eca-pol/MSA_CAZy_family/pymol-visualization.pml"
