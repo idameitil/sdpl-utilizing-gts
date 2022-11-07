@@ -323,7 +323,7 @@ Run mafft: `mafft  --maxiterate 1000 --localpair --leavegappyregion data/waal/MS
 ### Make Pymol visualization
 To make the pymol visualization, run: `src/waal-analysis/make-pymol-visualization.py`.
 
-To open in pymol, run: `data/waal/MSA_CAZy_family/pymol-visualization.pml`.
+To open in pymol, run: `pymol data/waal/MSA_CAZy_family/pymol-visualization.pml`.
 
 ## ECA-Pol
 
@@ -414,4 +414,4 @@ Run mafft: `mafft  --maxiterate 1000 --localpair --leavegappyregion data/eca-pol
 ### Make Pymol visualization
 To make the pymol visualization, run: `src/eca-pol-analysis/make-pymol-visualization.py`
 
-To open in pymol, run: `data/eca-pol/MSA_CAZy_family/pymol-visualization.pml`.
+To open in pymol, run: `pymol data/eca-pol/MSA_CAZy_family/pymol-visualization.pml`.

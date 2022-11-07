@@ -7,12 +7,9 @@ hide cartoon, chain_H
 hide cartoon, chain_L
 color 0xeeeeee, 7tpg
 label n. CA and resi 191 and 7tpg, "%s-%s" % (resn, resi)
-label n. CA and resi 242 and 7tpg, "%s-%s" % (resn, resi)
-label n. CA and resi 261 and 7tpg, "%s-%s" % (resn, resi)
 label n. CA and resi 265 and 7tpg, "%s-%s" % (resn, resi)
 label n. CA and resi 313 and 7tpg, "%s-%s" % (resn, resi)
-label n. CA and resi 314 and 7tpg, "%s-%s" % (resn, resi)
-select cons, resi 191 and 7tpg or resi 242 and 7tpg or resi 261 and 7tpg or resi 265 and 7tpg or resi 313 and 7tpg or resi 314 and 7tpg
+select cons, resi 191 and 7tpg or resi 265 and 7tpg or resi 313 and 7tpg
 show licorice, cons
 color atomic, cons
 
@@ -23,8 +20,7 @@ color wheat, P26471.1
 label n. CA and resi 208 and P26471.1, "%s-%s" % (resn, resi)
 label n. CA and resi 270 and P26471.1, "%s-%s" % (resn, resi)
 label n. CA and resi 321 and P26471.1, "%s-%s" % (resn, resi)
-label n. CA and resi 322 and P26471.1, "%s-%s" % (resn, resi)
-select cons, resi 208 and P26471.1 or resi 270 and P26471.1 or resi 321 and P26471.1 or resi 322 and P26471.1
+select cons, resi 208 and P26471.1 or resi 270 and P26471.1 or resi 321 and P26471.1
 show licorice, cons
 color atomic, cons
 

@@ -1,3 +1,6 @@
+# Undecaprenylphosphate
+Consists of 11 (undeca) prenyl groups (built from isoprene)
+
 # Role of LPS
 Structural support
 

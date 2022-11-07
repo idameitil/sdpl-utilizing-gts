@@ -5,9 +5,9 @@ from common import read_MSA_file, get_conserved_residues, get_specific_positions
 
 ### CLADE 2 ###
 # Get conserved residues
-alignment_filename = "data/waal/MSA_CAZy_family/hits-6e-23-cdhit95_mafft_maxit10.fa"
+alignment_filename = "data/waal/MSA_CAZy_family/hits-6e-23-cdhit95_mafft.fa"
 fasta_dict = read_MSA_file(alignment_filename)
-conserved_residues = get_conserved_residues(fasta_dict, threshold=0.80)
+conserved_residues = get_conserved_residues(fasta_dict, threshold=0.95)
 positions = get_specific_positions_conserved_residues('WP_011517284.1', conserved_residues, fasta_dict)
 print(conserved_residues)
 
@@ -35,9 +35,9 @@ script_string += show_conserved_residues_string + '\n'
 
 ### CLADE 1 ###
 # Get conserved residues
-alignment_filename = "data/waal/MSA_CAZy_family/hits-6e-23-cdhit95_mafft_maxit10.fa"
+alignment_filename = "data/waal/MSA_CAZy_family/hits-6e-23-cdhit95_mafft.fa"
 fasta_dict = read_MSA_file(alignment_filename)
-conserved_residues = get_conserved_residues(fasta_dict, threshold=0.80)
+conserved_residues = get_conserved_residues(fasta_dict, threshold=0.95)
 positions = get_specific_positions_conserved_residues('P26471.1', conserved_residues, fasta_dict)
 print(conserved_residues)
 
@@ -68,6 +68,7 @@ set label_size, 20
 set label_font_id, 7
 remove hydrogens
 set cartoon_side_chain_helper, on
+set ray_trace_mode, 0
 """
 
 pymol_script_path = f"data/waal/MSA_CAZy_family/pymol-visualization.pml"
