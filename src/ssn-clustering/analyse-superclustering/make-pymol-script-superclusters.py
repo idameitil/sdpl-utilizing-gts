@@ -25,9 +25,9 @@ select chain_B, chain B
 hide cartoon, chain_H
 hide cartoon, chain_L
 color grey, chain_B
-select "arg_7tpg", resi 242 and chain_B or resi 265 and chain_B or resi 191 and chain_B or resi 139 and chain_B
-show licorice, arg_7tpg
-color atomic, arg_7tpg
+select "cons_7tpg", resi 265 and chain_B or resi 191 and chain_B or resi 313 and chain_B
+show licorice, cons_7tpg
+color atomic, cons_7tpg
 center
 set_view (\
      0.129056588,   -0.914879322,   -0.382540226,\
