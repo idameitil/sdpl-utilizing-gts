@@ -15,8 +15,9 @@ superclusters = list(clustering_data.superclusters)
 
 load_ligase_string = f"""set cartoon_side_chain_helper, on
 set float_labels, on
-set label_size, 15
+set label_size, 30
 set label_font_id, 7
+set ray_trace_mode, 0
 
 fetch 7tpg
 select chain_H, chain H
@@ -67,11 +68,14 @@ for supercluster in superclusters:
             script_string += load_model_string.replace("ACC", acc).replace("PDB", model_path).replace("CLUSTER", supercluster['name'])\
                 .replace("ALIGN", first_model_name).replace('COLOR', '0xeeeeee')
         positions = supercluster['conserved_positions_af_models'][acc]
-        for position in positions:
-            script_string += f'label n. CA and resi {position} and {supercluster["name"]}_{acc}, "%s-%s" % (resn, resi)\n'
+        for conserved_residue in positions:
+            pos = conserved_residue['pos']
+            freq = round(conserved_residue['freq']*100)
+            script_string += f'label n. CA and resi {pos} and {supercluster["name"]}_{acc}, "%s-%s ({freq}%%)" % (resn, resi)\n'
         temp_string = f"select cons_{acc}, "
-        for position in positions:
-            temp_string += f"resi {position} and {supercluster['name']}_{acc} or "
+        for conserved_residue in positions:
+            pos = conserved_residue['pos']
+            temp_string += f"resi {pos} and {supercluster['name']}_{acc} or "
         script_string += temp_string[:-4] + '\n'
         script_string += show_conserved_residues_string.replace("ACC", acc).replace("CLUSTER", supercluster['name']) + '\n'
         number += 1
@@ -80,6 +84,8 @@ script_string += "set label_color,black\n"
 script_string += "center \n"
 script_string += "disable \n"
 script_string += "bg_color white \n"
+script_string += "remove hydrogens \n"
+script_string += "set label_position, (0, 0, 20) \n"
 
 pymol_script_path = f"data/wzy/ssn-clusterings/{ssn_timestamp}/superclusterings/{superclustering_timestamp}/pymol-visualization.pml"
 with open (pymol_script_path, 'w') as outfile:

@@ -40,7 +40,7 @@ def get_conserved_residues(fasta_dict, threshold = 0.95):
     condition = (frequencies > threshold) & (np.isin(mode_AAs, AAs_ignore, invert=True))
     conserved_AAs = mode_AAs[condition]
     conserved_positions = list(np.where(condition)[0])
-    return {pos: AA for pos, AA in zip(conserved_positions, conserved_AAs)}
+    return {pos: {'AA': AA, 'freq': freq} for pos, AA, freq in zip(conserved_positions, conserved_AAs, frequencies)}
 
 def get_specific_positions_conserved_residues(accession, conserved_residues, fasta_dict):
     """Gets positions of conserved residues in a specific protein"""
@@ -52,8 +52,8 @@ def get_specific_positions_conserved_residues(accession, conserved_residues, fas
         if AA != '-':
             protein_position += 1
         if alignment_position in conserved_residues:
-            if AA == conserved_residues[alignment_position][0]:
-                positions.append(protein_position)
+            if AA == conserved_residues[alignment_position]['AA']:
+                positions.append({'pos':protein_position, 'AA': AA, 'freq': conserved_residues[alignment_position]['freq']})
             else:
                 pass
                 # print(f"Warning: {accession} doesn't have the conserved residue {alignment_position} {conserved_residues[alignment_position][0]}")
@@ -67,7 +67,7 @@ def get_conserved_positions_af_models(alphafold_models, conserved_residues, fast
     return conserved_positions_alphafold_models
 
 def get_conserved_residues_string(conserved_residues):
-    residue_string = ', '.join([f"{conserved_residues[position]} {position}" for position in conserved_residues])
+    residue_string = ', '.join([f"{conserved_residues[position]['AA']} {position} ({round(conserved_residues[position]['freq']*100)}%)" for position in conserved_residues])
     return residue_string
 
 def is_accession_in_sugar_db(accessions_df, accession):
