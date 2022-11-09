@@ -1,3 +1,11 @@
+# Nature communications
+https://www.nature.com/ncomms/submit/article
+https://www.nature.com/documents/ncomms-submission-guide.pdf
+
+# Common antigen polymerase ECA-Pol
+Retaining. The formed bond is alpha-GlcNAc 
+https://journals.asm.org/doi/epub/10.1128/mBio.01914-20
+
 # Undecaprenylphosphate
 Consists of 11 (undeca) prenyl groups (built from isoprene)
 
@@ -45,6 +53,8 @@ CAN87666.1 - fragment and otherwise identical to the others.
 13 Oct: 1,5 time
 14 Oct: 9 timer
 17 Oct: 1 time
+28 Oct: 7 timer
+4 Nov: 7 timer
 
 # Graph tool: grace
 
