@@ -69,6 +69,8 @@ Then locally run:
 
 To generate fasta with short headers, run: `sed 's/ >.*$//' data/wzy/blast/unique-hits.fasta > data/wzy/blast/unique-hits-short-headers.fasta`
 
+Same procedure for waal and eca-pol
+
 ### Retrieve blast hit serotypes
 The list of accessions for 1e-15 is split into files of 1000 lines each by running `split data/wzy/ssn-clusterings/2206101141/included_accessions.txt data/wzy/blast-full-genbank/1e-15/hits`
 
@@ -79,15 +81,31 @@ To retrieve serotypes for the blast hits (the ones where available), run `python
 ### Enriching blast hit data
 Then, to enrich with sugar data and taxonomy, run `python src/data-collection-and-preprocessing/enrich-blast-hits.py`. This will create the file `data/wzy/blast/hits-enriched.tsv`.
 
+FOR WAAL: `python src/data-collection-and-preprocessing/enrich-blast-hits-waal-eca-pol.py waal`
+
+FOR ECA-POL: `python src/data-collection-and-preprocessing/enrich-blast-hits-waal-eca-pol.py eca-pol`
+
 ### Make nodes file
 Run `python src/data-collection-and-preprocessing/make-nodes-file.py`. 
 
 This will generate the file `data/wzy/seeds-and-hits.tsv`.
 
+FOR WAAL: `python src/data-collection-and-preprocessing/make-nodes-file-waal-eca-pol.py waal`
+
+FOR ECA-POL: `python src/data-collection-and-preprocessing/make-nodes-file-waal-eca-pol.py eca-pol`
+
 ### Filtering and redundancy reducing Blast hits
 To filter blast hits by length and perform redundancy reduction with cd-hit run: `python3 src/data-collection-and-preprocessing/filter-blast-hits.py`.
 
 This will create the files `data/wzy/blast/unique-hits-min320max600.fasta` and `data/wzy/blast/unique-hits-min320max600-cdhit99.fasta`.
+
+FOR WAAL: `python src/data-collection-and-preprocessing/filter-waal-eca-pol-blast-hits.py waal 280 500`
+
+`cd-hit -i data/waal/blast/unique-hits-short-headers-1e-15-filtered.fasta -o data/waal/blast/unique-hits-short-headers-1e-15-filtered-cdhit99.fasta -c 0.99`
+
+FOR ECA-POL: `python src/data-collection-and-preprocessing/filter-waal-eca-pol-blast-hits.py eca-pol 400 600`
+
+`cd-hit -i data/eca-pol/blast/unique-hits-short-headers-1e-15-filtered.fasta -o data/eca-pol/blast/unique-hits-short-headers-1e-15-filtered-cdhit99.fasta -c 0.99`
 
 ## Phobius
 Phobius is run at `https://phobius.sbc.su.se/`. The results are downloaded with "Save page as", "Web Page, complete" and saved in `data/wzy/phobius`.
@@ -151,71 +169,9 @@ To make a fasta file with the selected nodes that have a sugar, run `python src/
 
 The fasta file (`data/wzy/phylogenetic-trees/small-tree-poster/selected-nodes-small-tree.fasta`) is uploaded to muscle website (https://www.ebi.ac.uk/Tools/msa/muscle/) and the tree is saved in `data/wzy/phylogenetic-trees/small-tree-poster/selected-nodes-small-tree.nwk`
 
-## GT66 analysis
-
-### Complete family analysis
-`data/gt66/GT66.fasta` was received from Bernard.
-
-To filter based on length and allowed characters, run `python src/data-collection-and-preprocessing/filter-gt66.py`.
-
-To run CD-HIT: `cd-hit -i data/gt66/GT66-filtered.fasta -o data/gt66/GT66-filtered-cdhit99.fasta -c 0.99`.
-
-Then transfer to the HPC: `scp data/gt66/GT66-filtered-cdhit99.fasta idamei@transfer.gbar.dtu.dk:/work3/idamei/gt66/`.
-
-To make the MSA, run on the HPC `qrsh` and `muscle -super5 /work3/idamei/gt66/GT66-filtered-cdhit99.fasta -output /work3/idamei/gt66/GT66-filtered-cdhit99.afa`
-
-To make the logoplot, run on the HPC (still with qrsh) `python2 /work3/idamei/bin/seq2logo-2.1/Seq2Logo.py -f /work3/idamei/gt66/GT66-filtered-cdhit99.afa -m 0.0001 -b 0 -o /work3/idamei/gt66/logo/GT66-filtered-cdhit99.logo  -p 640x1000 -l 30  -I 1`
-
-`scp idamei@transfer.gbar.dtu.dk:/work3/idamei/gt66/GT66-filtered-cdhit99.afa data/gt66/`
-
-`scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/gt66/logo data/gt66/`
-
-Convert logos to pdf: `ps2pdf -dEPSCrop data/gt66/logo/GT66-filtered-cdhit99.logo.eps data/gt66/GT66.logo.pdf`
-
-### Subfamily analysis
-To prepare for alignments and logoplots, run: `python src/gt66-analysis/prepare-alignments.py`
-
-Then copy to the HPC: `scp -r data/gt66/subfamilies idamei@transfer.gbar.dtu.dk:/work3/idamei/gt66/`
-
-On the HPC, run `sh /work3/idamei/gt66/subfamilies/submit.sh`
-
-When all jobs are finished, download the results: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/gt66/subfamilies data/gt66/`
-
-Then convert the logos to pdf: `python src/gt66-analysis/convert-logos-to-pdf.py`
-
 ## WaaL
 
-### Parse blast results
-To parse the blast results, run: `python src/data-collection-and-preprocessing/parse-blast-results.py waal`
-
-### Get blast hit data
-Then transfer the file to the HPC: `scp data/waal/blast/unique-hits.tsv idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/blast/`
-
-To get the blast data, run on the HPC: `qrsh`
-
-`blastdbcmd -db nr -entry_batch /work3/idamei/waal/blast/unique-hits.tsv > /work3/idamei/waal/blast/unique-hits.fasta`
-
-`blastdbcmd -db nr -entry_batch /work3/idamei/waal/blast/unique-hits.tsv -outfmt "%a ,%L ,%T ,%t ,%s" > /work3/idamei/waal/blast/unique-hits.csv` 
-
-Then locally run:
-`scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/blast/unique-hits.fasta data/waal/blast/`
-
-`scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/blast/unique-hits.csv data/waal/blast/`
-
-To generate fasta with short headers, run: `sed 's/ >.*$//' data/waal/blast/unique-hits.fasta > data/waal/blast/unique-hits-short-headers.fasta`
-
-### Enrich blast hits with taxonomy
-`python src/data-collection-and-preprocessing/enrich-blast-hits-waal-eca-pol.py waal`
-
-### Make nodes file
-`python src/data-collection-and-preprocessing/make-nodes-file-waal-eca-pol.py waal`
-
-### Filter and redundancy reduce
-`python src/data-collection-and-preprocessing/filter-waal-eca-pol-blast-hits.py waal 280 500`
-
-`cd-hit -i data/waal/blast/unique-hits-short-headers-1e-15-filtered.fasta -o data/waal/blast/unique-hits-short-headers-1e-15-filtered-cdhit99.fasta -c 0.99`
-
-### Make MSA and logo
+### Make initial MSA and logo
 `python src/waal-analysis/prepare-MSA-and-logo.py`
 
 `scp -r data/waal/MSA-logo idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/`
@@ -224,30 +180,29 @@ On the HPC, run `bsub < /work3/idamei/waal/MSA-logo/MSA-logo.sh`
 
 To download the results, run `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/MSA-logo data/waal`.
 
-To convert the logo to pdf, run: `ps2pdf -dEPSCrop data/waal/MSA-logo/seeds-and-hits.logo.eps data/waal/MSA-logo/seeds-and-hits.logo.pdf`.
- 
-### Pymol visualization
-`python src/waal-analysis/make-pymol-script.py`
-
-`pymol src/waal-analysis/pymol-visualization.pml`
+### Make tree with all hits below 1e-15 and seeds
+`python src/waal-analysis/prepare-tree-all.py`
 
 ### Make clade fastas
-script not updates: `python src/waal-analysis/make-clade-fastas.py`
+(Lists of accessions are prepared from the tree in iTOL)
+script not updated: `python src/waal-analysis/make-clade-fastas.py`
+
+### Make clade MSAs
+`mafft  --maxiterate 1000 --localpair --leavegappyregion data/waal/clades/clade1/clade1.fasta > data/waal/clades/clade1/clade1_mafft.fa`
+
+`mafft  --maxiterate 1000 --localpair --leavegappyregion data/waal/clades/clade2/clade2.fasta > data/waal/clades/clade2/clade2_mafft.fa`
+
+### Pymol visualization
+To make the pymol visualization, run: `pymol src/waal-analysis/make-pymol-visualization.py`
+
+To open in pymol, run `pymol data/waal/MSA_CAZy_family/pymol-visualization.pml`.
 
 ### Build HMMs
-`hmmbuild data/waal/clades/clade1/clade1.hmm data/waal/clades/clade1/clade1.afa`
+`hmmbuild data/waal/clades/clade1/clade1.hmm data/waal/clades/clade1/clade1_mafft.fa`
 
-`hmmbuild data/waal/clades/clade2/clade2.hmm data/waal/clades/clade2/clade2.afa`
+`hmmbuild data/waal/clades/clade2/clade2.hmm data/waal/clades/clade2/clade2_mafft.fa`
 
-`hmmbuild data/waal/clades/clade2-1/clade2-1.hmm data/waal/clades/clade2-1/clade2-1.afa`
-
-`hmmbuild data/waal/clades/clade2-2/clade2-2.hmm data/waal/clades/clade2-2/clade2-2.afa`
-
-### HMM search
-Search for hits in all clades with the three HMMs:
-`python src/waal-analysis/hmmsearch.py`
-
-### HMM scan
+### HMM scan (check how the different HMMs overlap)
 Make the database:
 `cat data/waal/clades/clade1/clade1.hmm data/waal/clades/clade2-1/clade2-1.hmm data/waal/clades/clade2-2/clade2-2.hmm > data/waal/hmmscan/db/hmmdb`
 
@@ -257,18 +212,17 @@ Compress the database:
 Run hmmscan:
 `python src/waal-analysis/hmmscan.py`
 
-### Make tree with all hits below 1e-15 and seeds
-`python src/waal-analysis/prepare-tree-all.py`
-
 ### hmmsearch against genbank
-`scp data/waal/clades/clade1/clade1.hmm data/waal/clades/clade2/clade2.hmm idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/hmm`
+Copy HMMs to HPC: `scp data/waal/clades/clade1/clade1.hmm data/waal/clades/clade2/clade2.hmm idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/hmm`
 
+On the HPC:
 `qrsh`
 
 `hmmsearch /work3/idamei/waal/hmm/clade1.hmm /work3/garryg/blast/db-/genbank.fa > /work3/idamei/waal/genbank-search/clade1-genbank.out`
 
 `hmmsearch /work3/idamei/waal/hmm/clade2.hmm /work3/garryg/blast/db-/genbank.fa > /work3/idamei/waal/genbank-search/clade2-genbank.out`
 
+Download the results:
 `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/genbank-search/clade1-genbank.out data/waal/genbank-search/`
 `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/genbank-search/clade2-genbank.out data/waal/genbank-search/`
 
@@ -320,44 +274,27 @@ Redundancy reduce: `cd-hit -i data/waal/MSA_CAZy_family/hits-6e-23.fa -o data/wa
 
 Run mafft: `mafft  --maxiterate 1000 --localpair --leavegappyregion data/waal/MSA_CAZy_family/hits-6e-23-cdhit95.fa > data/waal/MSA_CAZy_family/hits-6e-23-cdhit99_mafft.fa`
 
-### Make Pymol visualization
-To make the pymol visualization, run: `src/waal-analysis/make-pymol-visualization.py`.
-
-To open in pymol, run: `pymol data/waal/MSA_CAZy_family/pymol-visualization.pml`.
-
 ## ECA-Pol
 
-### Enrich blast hits with taxonomy
-`python src/data-collection-and-preprocessing/enrich-blast-hits-waal-eca-pol.py eca-pol`
-
-### Make nodes file
-`python src/data-collection-and-preprocessing/make-nodes-file-waal-eca-pol.py eca-pol`
-
-### Filter and redundancy reduce
-`python src/data-collection-and-preprocessing/filter-waal-eca-pol-blast-hits.py eca-pol 400 600`
-
-`cd-hit -i data/eca-pol/blast/unique-hits-short-headers-1e-15-filtered.fasta -o data/eca-pol/blast/unique-hits-short-headers-1e-15-filtered-cdhit99.fasta -c 0.99`
-
 ### Make MSA
-`scp data/eca-pol/blast/unique-hits-short-headers-1e-15-filtered-cdhit99.fasta idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/MSA/`
+`mafft  --maxiterate 1000 --localpair --leavegappyregion data/eca-pol/MSA/unique-hits-short-headers-1e-15-filtered-cdhit99.fasta > data/eca-pol/MSA/unique-hits-short-headers-1e-15-filtered-cdhit99_mafft.fa`
+
+### Make Pymol visualization
+To make the pymol visualization, run: `src/eca-pol-analysis/make-pymol-visualization.py`
+
+To open in pymol, run: `pymol data/eca-pol/MSA_CAZy_family/pymol-visualization.pml`.
+
+### Build HMM
+`hmmbuild data/eca-pol/hmm/eca-pol-mafft.hmm data/eca-pol/MSA/unique-hits-short-headers-1e-15-filtered-cdhit99_mafft.fa`
+
+### hmmsearch against genbank
+Copy HMM to HPC: `scp -r data/eca-pol/hmm/ idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/`
 
 On the HPC:
 `qrsh`
-`/work3/idamei/bin/muscle5.1.linux_intel64 -super5 /work3/idamei/eca-pol/MSA/unique-hits-short-headers-1e-15-filtered-cdhit99.fasta -output /work3/idamei/eca-pol/MSA/unique-hits-short-headers-1e-15-filtered-cdhit99.afa`
+`hmmsearch /work3/idamei/eca-pol/hmm/eca-pol-mafft.hmm /work3/garryg/blast/db-/genbank.fa > /work3/idamei/eca-pol/genbank-search/eca-pol-genbank-mafft.out`
 
-`scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/MSA/ data/eca-pol/`
-
-### Build HMM
-`hmmbuild data/eca-pol/hmm/eca-pol.hmm data/eca-pol/MSA/eca-pol.afa`
-
-### hmmsearch against genbank
-`scp data/eca-pol/hmm/ idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/`
-
-`qrsh`
-
-`hmmsearch /work3/idamei/eca-pol/hmm/eca-pol.hmm /work3/garryg/blast/db-/genbank.fa > /work3/idamei/eca-pol/genbank-search/eca-pol-genbank.out`
-
-`scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/genbank-search/eca-pol-genbank.out data/eca-pol/genbank-search/`
+Download the results: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/genbank-search/eca-pol-genbank-mafft.out data/eca-pol/genbank-search/`
 
 To parse the genbank hmm search, run: `python src/genbank-search/parse-hmm-search.py eca-pol`. This will create `data/eca-pol/genbank-search/hits-evalue.tsv`
 
@@ -410,8 +347,3 @@ Download fasta file: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/M
 Redundancy reduce: `cd-hit -i data/eca-pol/MSA_CAZy_family/hits-1e-40.fa -o data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit95.fa -c 0.95`
 
 Run mafft: `mafft  --maxiterate 1000 --localpair --leavegappyregion data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit95.fa > data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit99_mafft.fa`
-
-### Make Pymol visualization
-To make the pymol visualization, run: `src/eca-pol-analysis/make-pymol-visualization.py`
-
-To open in pymol, run: `pymol data/eca-pol/MSA_CAZy_family/pymol-visualization.pml`.

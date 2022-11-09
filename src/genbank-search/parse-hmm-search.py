@@ -25,6 +25,6 @@ if enzyme_family == 'waal':
     outer_merge.to_csv("data/waal/genbank-search/hits-evalue.tsv", sep='\t', index=False)
 
 if enzyme_family == 'eca-pol':
-    search_results_filename = "data/eca-pol/genbank-search/eca-pol-genbank.out"
+    search_results_filename = "data/eca-pol/genbank-search/eca-pol-genbank-mafft.out"
     results_df = get_hits(search_results_filename)
     results_df.to_csv("data/eca-pol/genbank-search/hits-evalue.tsv", sep='\t', index=False)
