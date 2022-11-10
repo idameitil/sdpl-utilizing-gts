@@ -22,7 +22,7 @@ To retrieve the Wzx, Wzz and Waal entries run `python src/data-collection-and-pr
 
 This will create the files `data/wzx/wzx.tsv`, `data/wzz/wzz.tsv` and `data/waal/waal.tsv`.
 
-### Making fasta files
+### Making seed fasta files
 To generate fasta files run `python3 src/data-collection-and-preprocessing/make-fastas.py`
 
 This will create the files `data/wzx.fasta`, `data/wzy.fasta`, `data/wzz.fasta` and `data/waal.fasta`.
@@ -71,7 +71,7 @@ To generate fasta with short headers, run: `sed 's/ >.*$//' data/wzy/blast/uniqu
 
 Same procedure for waal and eca-pol
 
-### Retrieve blast hit serotypes
+### Retrieve blast hit serotypes for wzys
 The list of accessions for 1e-15 is split into files of 1000 lines each by running `split data/wzy/ssn-clusterings/2206101141/included_accessions.txt data/wzy/blast-full-genbank/1e-15/hits`
 
 Each file is uploaded to NCBI batch entry and the gp files are downloaded and saved in `data/wzy/blast-full-genbank/1e-15`. 
@@ -192,17 +192,12 @@ script not updated: `python src/waal-analysis/make-clade-fastas.py`
 
 `mafft  --maxiterate 1000 --localpair --leavegappyregion data/waal/clades/clade2/clade2.fasta > data/waal/clades/clade2/clade2_mafft.fa`
 
-### Pymol visualization
-To make the pymol visualization, run: `pymol src/waal-analysis/make-pymol-visualization.py`
-
-To open in pymol, run `pymol data/waal/MSA_CAZy_family/pymol-visualization.pml`.
-
 ### Build HMMs
 `hmmbuild data/waal/clades/clade1/clade1.hmm data/waal/clades/clade1/clade1_mafft.fa`
 
 `hmmbuild data/waal/clades/clade2/clade2.hmm data/waal/clades/clade2/clade2_mafft.fa`
 
-### HMM scan (check how the different HMMs overlap)
+### HMM scan (check if the different HMMs overlap)
 Make the database:
 `cat data/waal/clades/clade1/clade1.hmm data/waal/clades/clade2-1/clade2-1.hmm data/waal/clades/clade2-2/clade2-2.hmm > data/waal/hmmscan/db/hmmdb`
 
@@ -272,17 +267,17 @@ Download fasta file: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/MSA_
 
 Redundancy reduce: `cd-hit -i data/waal/MSA_CAZy_family/hits-6e-23.fa -o data/waal/MSA_CAZy_family/hits-6e-23-cdhit95.fa -c 0.95`
 
-Run mafft: `mafft  --maxiterate 1000 --localpair --leavegappyregion data/waal/MSA_CAZy_family/hits-6e-23-cdhit95.fa > data/waal/MSA_CAZy_family/hits-6e-23-cdhit99_mafft.fa`
+Run mafft: `mafft  --maxiterate 1000 --localpair --leavegappyregion --thread -1 data/waal/MSA_CAZy_family/hits-6e-23-cdhit95.fa > data/waal/MSA_CAZy_family/hits-6e-23-cdhit99_mafft.fa`
+
+### Pymol visualization
+To make the pymol visualization, run: `pymol src/waal-analysis/make-pymol-visualization.py`
+
+To open in pymol, run `pymol data/waal/MSA_CAZy_family/pymol-visualization.pml`.
 
 ## ECA-Pol
 
 ### Make MSA
 `mafft  --maxiterate 1000 --localpair --leavegappyregion data/eca-pol/MSA/unique-hits-short-headers-1e-15-filtered-cdhit99.fasta > data/eca-pol/MSA/unique-hits-short-headers-1e-15-filtered-cdhit99_mafft.fa`
-
-### Make Pymol visualization
-To make the pymol visualization, run: `src/eca-pol-analysis/make-pymol-visualization.py`
-
-To open in pymol, run: `pymol data/eca-pol/MSA_CAZy_family/pymol-visualization.pml`.
 
 ### Build HMM
 `hmmbuild data/eca-pol/hmm/eca-pol-mafft.hmm data/eca-pol/MSA/unique-hits-short-headers-1e-15-filtered-cdhit99_mafft.fa`
@@ -347,3 +342,8 @@ Download fasta file: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/M
 Redundancy reduce: `cd-hit -i data/eca-pol/MSA_CAZy_family/hits-1e-40.fa -o data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit95.fa -c 0.95`
 
 Run mafft: `mafft  --maxiterate 1000 --localpair --leavegappyregion data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit95.fa > data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit99_mafft.fa`
+
+### Make Pymol visualization
+To make the pymol visualization, run: `src/eca-pol-analysis/make-pymol-visualization.py`
+
+To open in pymol, run: `pymol data/eca-pol/MSA_CAZy_family/pymol-visualization.pml`.
