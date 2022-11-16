@@ -2,30 +2,31 @@
 
 ## Collecting data and preprocessing
 
-Manually curated Wzys from papers are added to `data/selected-wzys.tsv`.
+Manually curated Wzys from literature are added to `data/selected-wzys.tsv`.
 
 The DNA records for the Wzys were downloaded manually using NCBI batch entry (https://www.ncbi.nlm.nih.gov/sites/batchentrez) (Click “Send to:”, "Complete Record", "GenBank (full)"). They are stored in `data/selected_OAGCs.gb` (Some are O-antigen gene clusters, some are whole genome sequences). This file is too big to store in GitHub, and is just stored locally.
 
-### Enriching Wzy table with sugars and taxonomy
-To enrich the selected wzys with csdb sugars and taxonomy run `python src/data-collection-and-preprocessing/enrich-wzys.py`
+Manually curated Waals and ECA-Pol from literature are added to `data/waal/selected-waals.tsv` and `data/eca-pol/eca-pol.tsv` respectively.
 
-This will create the file `data/wzy/wzy.tsv`
+### Enriching Wzy and Waal table with sugars and taxonomy
+To enrich the selected wzys or waals with csdb sugars and taxonomy run `python src/data-collection-and-preprocessing/enrich-wzys.py [enzyme-family]`
+
+This will create the file `data/wzy/wzy.tsv` or `data/waal/waal.tsv`
 
 ### Downloading CSDB images
 In order to download new CSDB images, run `python src/data-collection-and-preprocessing/download-csdb-images.py`
 
 Add to wzy_polymerases repo.
 
-### Retrieving Wzxs, Wzzs and WaaLs
-(OBS: new entry was added to waal.tsv, so don't run this)
-To retrieve the Wzx, Wzz and Waal entries run `python src/data-collection-and-preprocessing/retrieve-wzx-wzz-and-waal.py`
+### Retrieving Wzxs and Wzzs
+To retrieve the Wzx and Wzz entries, run `python src/data-collection-and-preprocessing/retrieve-wzx-wzz.py`
 
-This will create the files `data/wzx/wzx.tsv`, `data/wzz/wzz.tsv` and `data/waal/waal.tsv`.
+This will create the files `data/wzx/wzx.tsv` and `data/wzz/wzz.tsv`.
 
 ### Making seed fasta files
 To generate fasta files run `python3 src/data-collection-and-preprocessing/make-fastas.py`
 
-This will create the files `data/wzx.fasta`, `data/wzy.fasta`, `data/wzz.fasta` and `data/waal.fasta`.
+This will create the files `data/wzx/wzx.fasta`, `data/wzy/wzy.fasta`, `data/wzz/wzz.fasta`, `data/waal/waal.fasta` and `data/eca-pol/eca-pol.fasta`.
 
 ### Expanding with Blast
 Copy fasta file with entries that need to be blasted to `/work3/idamei/wzy/blast/` on the HPC.
@@ -344,6 +345,6 @@ Redundancy reduce: `cd-hit -i data/eca-pol/MSA_CAZy_family/hits-1e-40.fa -o data
 Run mafft: `mafft  --maxiterate 1000 --localpair --leavegappyregion data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit95.fa > data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit99_mafft.fa`
 
 ### Make Pymol visualization
-To make the pymol visualization, run: `src/eca-pol-analysis/make-pymol-visualization.py`
+To make the pymol visualization, run: `python src/eca-pol-analysis/make-pymol-visualization.py`
 
 To open in pymol, run: `pymol data/eca-pol/MSA_CAZy_family/pymol-visualization.pml`.

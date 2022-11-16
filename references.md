@@ -1,3 +1,38 @@
+# Meeting 10 Nov 2022
+- We are happy with the superclustering (might finetune later, but for now we focus on writing)
+- RodA:
+    - Family x571, tens of thousands of members
+    - Put in the beginning of the paper
+    - Ida sends list of biochemically characterized accessions + pdb
+- Check O-Pol from Francisella paper (and other mutagenesis studies)
+- Make tool for quickly figuring out which family an O-Pol belongs to
+- Bernard is going to focus on RodA and discussion
+- Ida is going to focus on results and methods
+
+Characterization of the O-antigen Polymerase (Wzy) of Francisella tularensis
+
+Method to find out which cluster a protein belongs to
+
+We are the first at combining sequence space -> machine learning
+
+# Figure program
+draw.io
+
+# RodA
+* Sjodt, 2018 https://www.nature.com/articles/nature25985 
+    - Wildtype (PDB: 6BAR, Uniprot: Q5SIX3, Genbank: BAD71064.1)
+    - D255A mustant (PDB: 6BAS)
+* Emami, 2017 https://www.nature.com/articles/nmicrobiol2016253
+    WP_015384988.1 (based on table in supplementary)
+    sequence read from supplementary: msrykkqqspfyqgdlififgvffiisvvsiyaagqfgqygntdwiqqivfyllgavaitvllyfdleqleklslyifiiGILSLIilkispesiapvikgakswfrigritiqpsefmkvglimmlasvigkanpkqvrtlrddihlllkiagvavipvglilmqdagtagicmfivlvmvfmsginwkliaiiagsgillislillvminfpdvaksvgiqdyqikrvtswvsasnetqedsndswqvdqaimaigsggilgngisnlkvyvpesttdfifsiigesfgfigcaivvimfffliyrlvvlidkihpfnrfasffcvgytalivihtfqnigmnigimpvtgipllfvsyggsstlstligfgivynasvqltkyrsylfns
+* Cho, 2016 https://www.nature.com/articles/nmicrobiol2016172
+    Haven't found accession number
+* Meeske, 2016 https://www.nature.com/articles/nature19331
+    Haven't found accession number
+
+# Uniprot mapping
+https://www.uniprot.org/id-mapping
+
 # Nature communications
 https://www.nature.com/ncomms/submit/article
 https://www.nature.com/documents/ncomms-submission-guide.pdf
@@ -55,6 +90,7 @@ CAN87666.1 - fragment and otherwise identical to the others.
 17 Oct: 1 time
 28 Oct: 7 timer
 4 Nov: 7 timer
+11 Nov: 8,5 timer
 
 # Graph tool: grace
 
