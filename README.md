@@ -24,24 +24,18 @@ To retrieve the Wzx and Wzz entries, run `python src/data-collection-and-preproc
 This will create the files `data/wzx/wzx.tsv` and `data/wzz/wzz.tsv`.
 
 ### Making seed fasta files
-To generate fasta files run `python3 src/data-collection-and-preprocessing/make-fastas.py`
+To generate fasta files run `python src/data-collection-and-preprocessing/make-fastas.py`
 
 This will create the files `data/wzx/wzx.fasta`, `data/wzy/wzy.fasta`, `data/wzz/wzz.fasta`, `data/waal/waal.fasta` and `data/eca-pol/eca-pol.fasta`.
 
 ### Expanding with Blast
-Copy fasta file with entries that need to be blasted to `/work3/idamei/wzy/blast/` on the HPC.
+Copy fasta file to HPC: `scp data/[enzyme_family]/[enzyme_family].fasta idamei@transfer.gbar.dtu.dk:/work3/idamei/[enzyme_family]/blast`
 
-On the HPC: `cd /work3/idamei/wzy/blast`
+On the HPC, run: `/work3/idamei/src/blast.py [enzyme_family]`
 
-Change inputfile to the name of the fasta in: `genscript.py`
+And then: `/work3/idamei/[enzyme_family]/blast/submit.sh`
 
-Then run `genscript.py > submit.sh`
-
-Check the generated folders in `run`and then run `sh submit.sh`
-
-When all jobs have finished, download the data: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/blast data/wzy/`
-
-For Wzx, Wzz and WaaL, it is the same procedure, just `/work3/idamei/waal/blast/`
+When all jobs have finished, download the data: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/[enzyme_family]/blast data/[enzyme_family]/`
 
 ### Parsing Blast results
 To parse the blast expansion output files, run `python3 src/data-collection-and-preprocessing/parse-blast-results.py [protein-family]`. Where `protein-family` is `wzy`, `wzx`, `wzz`, `waal` or `eca-pol`.
@@ -156,10 +150,20 @@ To run superclustering pipeline, run: `sh src/ssn-clustering/supercluster/superc
 ### Analyse superclustering
 Then, to analyse the superclustering, run: `sh src/ssn-clustering/analyse-superclustering/analyse-superclustering.sh [ssn-timestamp] [superclustering-timestamp]`. This will generate the superclustering report, table and HMMs in `data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[superclustering_timestamp]`.
 
+### HMM scan (check if the different HMMs overlap)
+Make the database:
+`cat data/waal/clades/clade1/clade1.hmm data/waal/clades/clade2-1/clade2-1.hmm data/waal/clades/clade2-2/clade2-2.hmm > data/waal/hmmscan/db/hmmdb`
+
+Compress the database:
+`hmmpress data/waal/hmmscan/db/hmmdb`
+
+Run hmmscan:
+`python src/waal-analysis/hmmscan.py`
+
 ## Phylogenetic trees
 
 ### Make iTOL label files
-To make iTOL label files, run `python src/phylogenetic-trees/make-itol-label-files.py`. This will create label files in the folder `data/wzy/phylogenetic-trees/itol-label-files`.
+To make iTOL label files, run `python src/phylogenetic-trees/make-itol-label-files.py`. This will create label files in the folder `data/[enzyme_family]/phylogenetic-trees/itol-label-files`.
 
 The MUSCLE tree is generated at: `https://www.ebi.ac.uk/Tools/msa/muscle/` by uploading `data/wzy/wzy.fasta`. This tree is saved as `data/wzy/phylogenetic-trees/trees/muscle-tree.nwk`.
 
