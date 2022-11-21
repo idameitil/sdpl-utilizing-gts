@@ -1,3 +1,23 @@
+# Meeting 21 Nov 2022 (with Nicolas and Vincent)
+spg (jgi, roscof etc.), ncbi
+x586
+muscle and mafft if it’s too big
+
+qle80438.1
+
+Put threshold on coverage
+
+Send all members of supercluster and which cluster they are part of
+
+# Rfc
+Old name for O-antigen polymerase
+
+# RfaL
+Old name for O-antigen ligase
+
+# Current preferred superclustering:
+data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051 (140)
+
 # Meeting 10 Nov 2022
 - We are happy with the superclustering (might finetune later, but for now we focus on writing)
 - RodA:
