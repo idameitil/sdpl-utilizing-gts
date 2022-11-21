@@ -17,7 +17,7 @@ def enrich_hits(protein_family):
     # Add taxonomy
     print('getting taxonomy')
 
-    desired_ranks = ['kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species']
+    desired_ranks = ['phylum', 'class', 'order', 'family', 'genus', 'species']
     for rank in desired_ranks:
         unique_hits_df[rank] = unique_hits_df.taxid.apply(lambda x: get_taxon(x, rank))
 

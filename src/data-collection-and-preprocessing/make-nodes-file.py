@@ -12,7 +12,7 @@ seed_df.drop('serotype', axis=1, inplace=True)
 seed_df = seed_df.rename(columns = {'genbank_taxon':'taxid', 'annotated':'seed', 'serotype_edited':'serotype'})
 
 # Take subset of columns
-columns_include = ['protein_accession', 'taxid', 'kingdom', 'phylum', 'class', \
+columns_include = ['protein_accession', 'taxid', 'phylum', 'class', \
     'order', 'family', 'genus', 'species', 'seq', 'serotype', 'pubmed', 'CPS', \
     'CSDB_record_ID', 'csdb_image_path', 'is_bond_correct', 'alpha_beta', 'D_L', 'axial_equatorial']
 seed_df_small = seed_df[columns_include]
@@ -39,7 +39,7 @@ seed_df_small['seed'] = '1'
 hits_df = pd.read_csv("data/wzy/blast/unique-hits-enriched.tsv", sep='\t', dtype=object)
 
 # Take subset of columns
-columns_include = ['protein_accession', 'taxid', 'kingdom', 'phylum', 'class', \
+columns_include = ['protein_accession', 'taxid', 'phylum', 'class', \
     'order', 'family', 'genus', 'species', 'seq', 'serotype', 'CSDB_record_ID', 'csdb_image_path']
 hits_df_small = hits_df[columns_include]
 

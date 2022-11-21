@@ -20,7 +20,7 @@ hits_with_serotype_df = pd.merge(unique_hits_df, serotype_df, on='protein_access
 # Add taxonomy
 print('getting taxonomy')
 
-desired_ranks = ['kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species']
+desired_ranks = ['phylum', 'class', 'order', 'family', 'genus', 'species']
 # desired_ranks = ['species']
 for rank in desired_ranks:
     hits_with_serotype_df[rank] = hits_with_serotype_df.taxid.apply(lambda x: get_taxon(x, rank))
