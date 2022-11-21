@@ -3,7 +3,7 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>{{ssn_clustering_id}} - WZY Superclusters</title>
+    <title>{{ssn_clustering_id}} {{superclustering_id}} - WZY Superclusters</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <style>
 .table{
@@ -39,9 +39,11 @@
             {% set sugars_seeds = supercluster.sugar_images_seeds %}
             {% set sugars_blast = supercluster.sugar_images_blast %}
             {% set clustermembers = supercluster.clustermembers %}
+            {% set number_of_seeds = supercluster.number_of_seeds %}
             <div class="column">
                 <b>Supercluster {{supercluster_name}}</b>
                 <p>Number of proteins: {{proteins_in_supercluster}}</p>
+                <p>Number of seeds: {{number_of_seeds}}</p>
                 <p>Number of clusters: {{clusters_in_supercluster}}</p>
                 <p>Conserved residues: {{conserved_residues}} </p>
                 {% for clustermember in clustermembers %}

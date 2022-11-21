@@ -30,7 +30,8 @@ def read_MSA_file(MSA_filename):
     return fasta_dict
 
 def get_conserved_residues(fasta_dict, threshold = 0.95):
-    AAs_ignore = ['-', 'G', 'A', 'V', 'C', 'P', 'L', 'I', 'M', 'W', 'F']
+    # AAs_ignore = ['-', 'G', 'A', 'V', 'C', 'P', 'L', 'I', 'M', 'W', 'F']
+    AAs_ignore = ['-']
     sequences = np.array([np.array(list(fasta_dict[acc])) for acc in fasta_dict])
     no_sequences = sequences.shape[0]
     sequences_numerical = AA_to_number_vectorized(sequences)
@@ -289,7 +290,7 @@ class SSNClusterData:
 
     def load_taxons_before_after_table(self):
         data = {}
-        ranks = ['kingdom', 'phylum', 'class', 'order', 'family', 'genus', 'species']
+        ranks = ['phylum', 'class', 'order', 'family', 'genus', 'species']
         for rank in ranks:
             data[rank] = {'before': self.get_count_taxons_before(rank), 'after': self.get_count_taxons_after(rank)}
         before_after_df = pd.DataFrame(data)
@@ -495,6 +496,7 @@ class SSNClusterData:
         accessions.extend(seed_accessions)
         accessions.extend(hit_accessions)
         accessions = list(set(accessions))
+        supercluster_info['number_of_seeds'] = len(seed_accessions)
 
         alphafold_models = self.get_alphafold_models(accessions)
         supercluster_info['alphafold_models'] = alphafold_models

@@ -18,7 +18,7 @@ def make_table(ssn_clustering_id, superclustering_id):
 
     html_jinja_template = jinja_env.get_template("superclusters-table-template.html")
 
-    output_content = html_jinja_template.render(ssn_clustering_id=ssn_clustering_id, supercluster_groups=supercluster_groups, clusters=clusters)
+    output_content = html_jinja_template.render(ssn_clustering_id=ssn_clustering_id, superclustering_id=superclustering_id, supercluster_groups=supercluster_groups, clusters=clusters)
 
     with open(table_output_path(ssn_clustering_id, superclustering_id), 'w') as output_file:
         output_file.write(output_content)
