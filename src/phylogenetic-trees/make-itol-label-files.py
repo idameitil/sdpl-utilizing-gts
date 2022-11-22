@@ -25,6 +25,15 @@ def make_image_label_file(df, enzyme_family_name):
         for index, row in df.iterrows():
             file.write(f"{row.protein_accession}\t-1\t1\t0\t0\t0\t{row.csdb_image_path}\n")
 
+def make_seeds_label_file(df, enzyme_family_name):
+    outfilename = f"data/{enzyme_family_name}/phylogenetic-trees/itol-label-files/seeds.txt"
+    with open(outfilename, "w") as file:
+        header = f"DATASET_COLORSTRIP\nSEPARATOR COMMA\nDATASET_LABEL,seed\nCOLOR,#ff0000\nDATA\n"
+        file.write(header)
+        for index, row in df.iterrows():
+            if row.seed == '1':
+                file.write(f"{row.protein_accession},#000000,\n")
+
 wzy_df = pd.read_csv("data/wzy/seeds-and-hits.tsv", sep='\t', dtype='object')
 waal_df = pd.read_csv("data/waal/seeds-and-hits.tsv", sep='\t', dtype='object')
 eca_pol_df = pd.read_csv("data/eca-pol/seeds-and-hits.tsv", sep='\t', dtype='object')
@@ -32,10 +41,13 @@ eca_pol_df = pd.read_csv("data/eca-pol/seeds-and-hits.tsv", sep='\t', dtype='obj
 print('wzy')
 make_taxonomy_label_file(wzy_df, 'wzy')
 make_image_label_file(wzy_df, 'wzy')
+make_seeds_label_file(wzy_df, 'wzy')
 
 print('waal')
 make_taxonomy_label_file(waal_df, 'waal')
 make_image_label_file(waal_df, 'waal')
+make_seeds_label_file(waal_df, 'waal')
 
 print('eca-pol')
 make_taxonomy_label_file(eca_pol_df, 'eca-pol')
+make_seeds_label_file(eca_pol_df, 'eca-pol')
