@@ -1,1 +1,1 @@
-bsub < run/WP_011517284.1/blast.sh
+bsub < /work3/idamei/waal/blast/run/test/blast.sh
