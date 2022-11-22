@@ -35,36 +35,32 @@ On the HPC, run: `/work3/idamei/src/blast.py [enzyme_family]`
 
 And then: `/work3/idamei/[enzyme_family]/blast/submit.sh`
 
-When all jobs have finished, download the data: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/[enzyme_family]/blast data/[enzyme_family]/`
+(OBS: maybe only download the new runs) When all jobs have finished, download the data: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/[enzyme_family]/blast data/[enzyme_family]/`
 
 ### Parsing Blast results
-To parse the blast expansion output files, run `python3 src/data-collection-and-preprocessing/parse-blast-results.py [protein-family]`. Where `protein-family` is `wzy`, `wzx`, `wzz`, `waal` or `eca-pol`.
+To parse the blast expansion output files, run `python src/data-collection-and-preprocessing/parse-blast-results.py [protein-family]`. Where `protein-family` is `wzy`, `wzx`, `wzz`, `waal` or `eca-pol`.
 
 This will create the file `data/[protein-family]/blast/unique-hits.tsv` which contains a list of the hit accessions and their best e-values.
 
 ### Retrieving Blast hit data
 To retrieve the sequence and taxid for the blast hits, run:
-`scp data/wzy/blast/unique-hits.tsv idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/blast/`
+`scp data/[enzyme_family]/blast/unique-hits.tsv idamei@transfer.gbar.dtu.dk:/work3/idamei/[enzyme_family]/blast/`
 
 Then, on the HPC run:
 `qrsh`
 
-`blastdbcmd -db nr -entry_batch /work3/idamei/wzy/blast/unique-hits.tsv > /work3/idamei/wzy/blast/unique-hits.fasta`
+`blastdbcmd -db nr -entry_batch /work3/idamei/[enzyme_family]/blast/unique-hits.tsv > /work3/idamei/[enzyme_family]/blast/unique-hits.fasta`
 
-`blastdbcmd -db nr -entry_batch /work3/idamei/wzy/blast/unique-hits.tsv -outfmt "%a ,%L ,%T ,%t ,%s" > /work3/idamei/wzy/blast/unique-hits.csv` 
+`blastdbcmd -db nr -entry_batch /work3/idamei/[enzyme_family]/blast/unique-hits.tsv -outfmt "%a ,%L ,%T ,%t ,%s" > /work3/idamei/[enzyme_family]/blast/unique-hits.csv` 
 
 Then locally run:
-`scp idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/blast/unique-hits.fasta data/wzy/blast/`
+`scp idamei@transfer.gbar.dtu.dk:/work3/idamei/[enzyme_family]/blast/unique-hits.fasta data/[enzyme_family]/blast/`
 
-`scp idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/blast/unique-hits.csv data/wzy/blast/`
+`scp idamei@transfer.gbar.dtu.dk:/work3/idamei/[enzyme_family]/blast/unique-hits.csv data/[enzyme_family]/blast/`
 
-`data/wzy/blast/unique-hits.fasta` is a fasta file with exactly the entries in `data/wzy/blast/unique-hits.tsv`.
+`data/[enzyme_family]/blast/unique-hits.fasta` is a fasta file with exactly the entries in `data/[enzyme_family]/blast/unique-hits.tsv`. `data/[enzyme_family]/blast/unique-hits.csv` is a csv file containing taxids along with other info. It also includes identical sequences and therefore has more lines than `data/[enzyme_family]/blast/unique-hits.tsv`.
 
-`data/wzy/blast/unique-hits.csv` is a csv file containing taxids along with other info. It also includes identical sequences and therefore has more lines than `data/wzy/blast/unique-hits.tsv`.
-
-To generate fasta with short headers, run: `sed 's/ >.*$//' data/wzy/blast/unique-hits.fasta > data/wzy/blast/unique-hits-short-headers.fasta`
-
-Same procedure for waal and eca-pol
+To generate fasta with short headers, run: `sed 's/ >.*$//' data/[enzyme_family]/blast/unique-hits.fasta > data/[enzyme_family]/blast/unique-hits-short-headers.fasta`
 
 ### Retrieve blast hit serotypes for wzys
 The list of accessions for 1e-15 is split into files of 1000 lines each by running `split data/wzy/ssn-clusterings/2206101141/included_accessions.txt data/wzy/blast-full-genbank/1e-15/hits`
@@ -176,14 +172,13 @@ The fasta file (`data/wzy/phylogenetic-trees/small-tree-poster/selected-nodes-sm
 
 ## WaaL
 
-### Make initial MSA and logo
-`python src/waal-analysis/prepare-MSA-and-logo.py`
+### Make seeds and reduced hits fasta
+To make fasta with seeds and redundancy reduced blast hits, run: `python src/waal-analysis/make-seeds-and-hits-fasta.py`
 
-`scp -r data/waal/MSA-logo idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/`
+### Make initial MSA and tree
+MSA: `mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 7 data/waal/seeds-and-reduced-hits.fasta > data/waal/seeds-and-reduced-hits_mafft.fa`
 
-On the HPC, run `bsub < /work3/idamei/waal/MSA-logo/MSA-logo.sh`
-
-To download the results, run `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/MSA-logo data/waal`.
+Tree: `fasttree data/waal/seeds-and-reduced-hits_mafft.fa > data/waal/seeds-and-reduced-hits_mafft.nwk`
 
 ### Make tree with all hits below 1e-15 and seeds
 `python src/waal-analysis/prepare-tree-all.py`
