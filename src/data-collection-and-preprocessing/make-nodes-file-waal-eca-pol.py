@@ -36,5 +36,7 @@ def make_nodes_file(protein_family):
     output_filename = f"data/{protein_family}/seeds-and-hits.tsv"
     combined_df.to_csv(output_filename, index=False, sep='\t')
 
+    
+
 protein_family = sys.argv[1]
 make_nodes_file(protein_family)
