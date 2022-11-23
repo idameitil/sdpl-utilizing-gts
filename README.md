@@ -173,15 +173,23 @@ The fasta file (`data/wzy/phylogenetic-trees/small-tree-poster/selected-nodes-sm
 ## WaaL
 
 ### Make seeds and reduced hits fasta
-To make fasta with seeds and redundancy reduced blast hits, run: `python src/waal-analysis/make-seeds-and-hits-fasta.py`
+To make fasta with seeds and redundancy reduced blast hits, run: `python src/waal-analysis/make-seeds-and-hits-fasta.py`.
+
+This will generate the file `data/waal/seeds-and-reduced-hits.fasta`.
 
 ### Make initial MSA and tree
 MSA: `mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 7 data/waal/seeds-and-reduced-hits.fasta > data/waal/seeds-and-reduced-hits_mafft.fa`
 
-Tree: `fasttree data/waal/seeds-and-reduced-hits_mafft.fa > data/waal/seeds-and-reduced-hits_mafft.nwk`
+FastTree: `fasttree data/waal/seeds-and-reduced-hits_mafft.fa > data/waal/seeds-and-reduced-hits_mafft.nwk`
 
-### Make tree with all hits below 1e-15 and seeds
-`python src/waal-analysis/prepare-tree-all.py`
+Aclust tree:
+`scp data/waal/seeds-and-reduced-hits.fasta idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/tree-seeds-and-hits/`
+
+On the HPC, run: `sh /work3/idamei/bin/aclust_example/aclust1.sh /work3/idamei/waal/tree-seeds-and-hits/ seeds-and-reduced-hits.fasta`
+
+When all jobs are finished, run: `sh /work3/idamei/bin/aclust_example/aclust2.sh /work3/idamei/waal/tree-seeds-and-hits/ seeds-and-reduced-hits.fasta`
+
+When the job is finished, download the tree folder: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/tree-seeds-and-hits/ data/waal/`. The tree file is `my.tree`.
 
 ### Make clade fastas
 (Lists of accessions are prepared from the tree in iTOL)
