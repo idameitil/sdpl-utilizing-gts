@@ -1,3 +1,22 @@
+# Meeting 24 Nov 2022 (Bernie, Garry, Kristian, Ida)
+Minutes from yesterday
+
+New CAZy families can be made with bulk upload
+
+We need the following files per family:
+tabular file: accession, modularity (incomplete c-terminal, n-terminal or both ends) we leave fragments as 0,0
+fasta of aligned sequences
+list of characterised members (accession)
+create the first from the second file
+If there are subfamilies, we need each file for each subfamily
+We’ll maybe also send the HMMs to CAZy
+
+We build the HMMs based on the NR hits (more data)
+
+Kristian will run CUPP of O-Pols (and we’ll compare with the superclusters)
+
+Garry will work on sugar comparison
+
 # O-Lig structure
 7TPG
 WP_011517284.1
@@ -5,7 +24,6 @@ WP_011517284.1
 # Meeting 21 Nov 2022 (with Nicolas and Vincent)
 spg (jgi, roscof etc.), ncbi
 x586
-muscle and mafft if it’s too big
 
 qle80438.1
 

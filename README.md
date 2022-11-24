@@ -146,15 +146,12 @@ To run superclustering pipeline, run: `sh src/ssn-clustering/supercluster/superc
 ### Analyse superclustering
 Then, to analyse the superclustering, run: `sh src/ssn-clustering/analyse-superclustering/analyse-superclustering.sh [ssn-timestamp] [superclustering-timestamp]`. This will generate the superclustering report, table and HMMs in `data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[superclustering_timestamp]`.
 
-### HMM scan (check if the different HMMs overlap)
-Make the database:
-`cat data/waal/clades/clade1/clade1.hmm data/waal/clades/clade2-1/clade2-1.hmm data/waal/clades/clade2-2/clade2-2.hmm > data/waal/hmmscan/db/hmmdb`
+### Make hmmscan db
+(OBS: Don't run this twice) Cat all HMMs to one file `sh src/ssn-clustering/analyse-superclustering/make-hmmscan-supercluster-db.sh [ssn_timestamp] [superclustering_timestamp]`
 
-Compress the database:
-`hmmpress data/waal/hmmscan/db/hmmdb`
+Compress db: `hmmpress data/wzy/ssn-clusterings/$1/superclusterings/$2/hmmscan_db/hmmscan_db`
 
-Run hmmscan:
-`python src/waal-analysis/hmmscan.py`
+Test your query sequence like this: `hmmscan data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/hmmscan_db/hmmscan_db [query_fasta] > hmmscan.out`
 
 ## Phylogenetic trees
 
@@ -189,7 +186,7 @@ On the HPC, run: `sh /work3/idamei/bin/aclust_example/aclust1.sh /work3/idamei/w
 
 When all jobs are finished, run: `sh /work3/idamei/bin/aclust_example/aclust2.sh /work3/idamei/waal/tree-seeds-and-hits/ seeds-and-reduced-hits.fasta`
 
-When the job is finished, download the tree folder: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/tree-seeds-and-hits/ data/waal/`. The tree file is `my.tree`.
+When the job is finished, download the tree folder: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/tree-seeds-and-hits/my.tree data/waal/seeds-and-reduced-hits-aclust.nwk`.
 
 ### Make clade fastas
 (Lists of accessions are prepared from the tree in iTOL: `data/waal/clades/clade1/clade1` and `data/waal/clades/clade2/clade2`)
