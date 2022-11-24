@@ -23,7 +23,7 @@ for clade in clades:
     clade_accessions = read_clade(accession_list_filename)
 
     acc2seq = {}
-    for entry in SeqIO.parse("data/waal/MSA-logo/seeds-and-hits.fasta", format='fasta'):
+    for entry in SeqIO.parse("data/waal/seeds-and-reduced-hits.fasta", format='fasta'):
         if entry.id in clade_accessions:
             acc2seq[entry.id] = entry.seq
 
