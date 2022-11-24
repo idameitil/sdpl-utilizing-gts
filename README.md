@@ -192,13 +192,13 @@ When all jobs are finished, run: `sh /work3/idamei/bin/aclust_example/aclust2.sh
 When the job is finished, download the tree folder: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/tree-seeds-and-hits/ data/waal/`. The tree file is `my.tree`.
 
 ### Make clade fastas
-(Lists of accessions are prepared from the tree in iTOL)
+(Lists of accessions are prepared from the tree in iTOL: `data/waal/clades/clade1/clade1` and `data/waal/clades/clade2/clade2`)
 script not updated: `python src/waal-analysis/make-clade-fastas.py`
 
 ### Make clade MSAs
-`mafft  --maxiterate 1000 --localpair --leavegappyregion data/waal/clades/clade1/clade1.fasta > data/waal/clades/clade1/clade1_mafft.fa`
+`mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 4 data/waal/clades/clade1/clade1.fasta > data/waal/clades/clade1/clade1_mafft.fa`
 
-`mafft  --maxiterate 1000 --localpair --leavegappyregion data/waal/clades/clade2/clade2.fasta > data/waal/clades/clade2/clade2_mafft.fa`
+`mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 4 data/waal/clades/clade2/clade2.fasta > data/waal/clades/clade2/clade2_mafft.fa`
 
 ### Build HMMs
 `hmmbuild data/waal/clades/clade1/clade1.hmm data/waal/clades/clade1/clade1_mafft.fa`

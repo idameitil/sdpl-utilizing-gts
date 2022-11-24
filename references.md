@@ -1,3 +1,7 @@
+# O-Lig structure
+7TPG
+WP_011517284.1
+
 # Meeting 21 Nov 2022 (with Nicolas and Vincent)
 spg (jgi, roscof etc.), ncbi
 x586
