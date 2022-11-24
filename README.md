@@ -186,7 +186,7 @@ On the HPC, run: `sh /work3/idamei/bin/aclust_example/aclust1.sh /work3/idamei/w
 
 When all jobs are finished, run: `sh /work3/idamei/bin/aclust_example/aclust2.sh /work3/idamei/waal/tree-seeds-and-hits/ seeds-and-reduced-hits.fasta`
 
-When the job is finished, download the tree folder: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/tree-seeds-and-hits/my.tree data/waal/seeds-and-reduced-hits-aclust.nwk`.
+When the job is finished, download the tree file: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/tree-seeds-and-hits/my.tree data/waal/seeds-and-reduced-hits-aclust.nwk`.
 
 ### Make clade fastas
 (Lists of accessions are prepared from the tree in iTOL: `data/waal/clades/clade1/clade1` and `data/waal/clades/clade2/clade2`)

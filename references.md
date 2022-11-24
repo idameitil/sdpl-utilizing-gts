@@ -17,7 +17,7 @@ Kristian will run CUPP of O-Pols (and we’ll compare with the superclusters)
 
 Garry will work on sugar comparison
 
-# O-Lig structure
+# O-Lig ligase structure
 7TPG
 WP_011517284.1
 
