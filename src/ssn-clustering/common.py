@@ -15,7 +15,10 @@ aminoacids = ['A', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L',
         'M', 'N', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'Y', '-', 'X', 'J']
 
 def AA_to_number(AA):
-    return aminoacids.index(AA)
+    try:
+        return aminoacids.index(AA)
+    except:
+        return aminoacids.index('X')
 
 def number_to_AA(number):
     return aminoacids[number]
