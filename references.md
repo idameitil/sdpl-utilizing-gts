@@ -1,3 +1,9 @@
+# O-Pol sequence read from paper
+
+"Conserved-residue mutations in Wzy affect O-antigen polymerization and Wzz-mediated chain-length regulation in Pseudomonas aeruginosa PAO1"
+
+myilarvdrsillntvllfaffsatvwvnnnyiyhlydymgsakktvdfglypylmvlalicallcggairrpgdllvtllvvilvphslvlnganqyspdaqpwagvplaiafgiliigivnkirfhplgalqrenqgrrmlvllsvlnivvlvfiffksagyfsfdfagqyarralarevfaagsangylssigtqaffpvlfawgvyrrqwfylvlgivnalvlwgafgqkypfvvlfliyglmvyfrrfgqvrvswvvcallmllllgalehevfgysflndyflrrafivpstllgavdqfvsqfgsnyyrdtllgallgqgrteplsfrlgteifnnpdmnanvnffaiaymglgyvgvmaesmlvggsvvlmnflfsrygafmaipvallfttkileqslltvmlgsgvflmllflalisfplkmslgktl
+
 # Meeting 24 Nov 2022 (Bernie, Garry, Kristian, Ida)
 Minutes from yesterday
 
