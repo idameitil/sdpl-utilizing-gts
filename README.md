@@ -90,9 +90,9 @@ To filter blast hits by length and perform redundancy reduction with cd-hit run:
 
 This will create the files `data/wzy/blast/unique-hits-min320max600.fasta` and `data/wzy/blast/unique-hits-min320max600-cdhit99.fasta`.
 
-FOR WAAL: `python src/data-collection-and-preprocessing/filter-waal-eca-pol-blast-hits.py waal 280 500`
+FOR WAAL: `python src/data-collection-and-preprocessing/filter-waal-eca-pol-blast-hits.py waal 280 500 [blast_threshold]`
 
-`cd-hit -i data/waal/blast/unique-hits-short-headers-1e-15-filtered.fasta -o data/waal/blast/unique-hits-short-headers-1e-15-filtered-cdhit99.fasta -c 0.99`
+`cd-hit -i data/waal/blast/unique-hits-short-headers-[blast_threshold]-filtered.fasta -o data/waal/blast/unique-hits-short-headers-[blast_threshold]-filtered-cdhit[cd-hit-threshold].fasta -c 0.[cd-hit-threshold]`
 
 FOR ECA-POL: `python src/data-collection-and-preprocessing/filter-waal-eca-pol-blast-hits.py eca-pol 400 600`
 
@@ -131,7 +131,7 @@ Fragment sequences are manually added to the file `data/wzy/blast/banned`.
 
 To run the SSN, run `sh src/ssn-clustering/cluster/cluster.sh [timestamp] [expansion-threshold] [ssn-threshold] wzy`. (expansion-threshold is written as '1e-15')
 
-This will create the folder `data/wzy/ssn-clusterings/[timestamp]` which contains `metadata.txt`, `info.txt`, `clusters.tsv`, `included.txt`, `network` and a folder `clusters`.
+This will create the folder `data/wzy/ssn-clusterings/[timestamp]` which contains `metadata.txt`, `info.txt`, `clusters.tsv`, `included_accessions.txt`, `network` and a folder `clusters`.
 
 ### Analyse clustering
 When all jobs are finished, run locally: `sh src/ssn-clustering/analyse-clustering/analyse-clustering.sh [timestamp]`. This will create the ssn report, table, pymol script and HMMs in `data/wzy/ssn-clusterings/[timestamp]`.
@@ -170,9 +170,9 @@ The fasta file (`data/wzy/phylogenetic-trees/small-tree-poster/selected-nodes-sm
 ## WaaL
 
 ### Make seeds and reduced hits fasta
-To make fasta with seeds and redundancy reduced blast hits, run: `python src/waal-analysis/make-seeds-and-hits-fasta.py`.
+To make fasta with seeds and redundancy reduced blast hits, run: `python src/waal-analysis/make-seeds-and-hits-fasta.py [blast_threshold] [cdhit-threshold]`.
 
-This will generate the file `data/waal/seeds-and-reduced-hits.fasta`.
+This will generate the file `data/waal/seeds-and-reduced-hits.fasta` (`data/waal/seeds-and-reduced95-hits.fasta`).
 
 ### Make initial MSA and tree
 MSA: `mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 7 data/waal/seeds-and-reduced-hits.fasta > data/waal/seeds-and-reduced-hits_mafft.fa`
@@ -188,18 +188,20 @@ When all jobs are finished, run: `sh /work3/idamei/bin/aclust_example/aclust2.sh
 
 When the job is finished, download the tree file: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/tree-seeds-and-hits/my.tree data/waal/seeds-and-reduced-hits-aclust.nwk`.
 
-### Make clade fastas
+### Make clade fastas (Old)
 (Lists of accessions are prepared from the tree in iTOL: `data/waal/clades/clade1/clade1` and `data/waal/clades/clade2/clade2`)
 script not updated: `python src/waal-analysis/make-clade-fastas.py`
 
-### Make clade MSAs
+### Make clade MSAs (Old)
 `mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 4 data/waal/clades/clade1/clade1.fasta > data/waal/clades/clade1/clade1_mafft.fa`
 
 `mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 4 data/waal/clades/clade2/clade2.fasta > data/waal/clades/clade2/clade2_mafft.fa`
 
-### Build HMMs
-`hmmbuild data/waal/clades/clade1/clade1.hmm data/waal/clades/clade1/clade1_mafft.fa`
+### Build HMM
+`hmmbuild data/waal/seeds-and-reduced90-hits_mafft.hmm data/waal/seeds-and-reduced90-hits_mafft.fa`
 
+Old:
+`hmmbuild data/waal/clades/clade1/clade1.hmm data/waal/clades/clade1/clade1_mafft.fa`
 `hmmbuild data/waal/clades/clade2/clade2.hmm data/waal/clades/clade2/clade2_mafft.fa`
 
 ### HMM scan (check if the different HMMs overlap)

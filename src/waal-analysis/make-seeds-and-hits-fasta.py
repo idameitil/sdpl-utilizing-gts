@@ -1,9 +1,13 @@
 from Bio import SeqIO
+import sys
 
 seed_fasta = "data/waal/waal.fasta"
 seed_sequences = SeqIO.parse(open(seed_fasta), 'fasta')
 
-hits_include_fasta = "data/waal/blast/unique-hits-short-headers-1e-15-filtered-cdhit99.fasta"
+blast_threshold = sys.argv[1]
+cdhit_threshold = sys.argv[2]
+
+hits_include_fasta = f"data/waal/blast/unique-hits-short-headers-{blast_threshold}-filtered-cdhit{cdhit_threshold}.fasta"
 hit_sequences = SeqIO.parse(open(hits_include_fasta), 'fasta')
 
 banned_filename = "data/waal/banned"
@@ -14,7 +18,7 @@ with open(banned_filename, 'r') as banned_file:
 
 outdir = "data/waal"
 
-out_fasta_filename = f"{outdir}/seeds-and-reduced-hits.fasta"
+out_fasta_filename = f"{outdir}/seeds-and-hits{blast_threshold}-cdhit{cdhit_threshold}.fasta"
 with open(out_fasta_filename, 'w') as outfile:
     accessions_done = set()
     lengths = []
