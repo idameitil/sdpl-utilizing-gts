@@ -1,3 +1,5 @@
+#
+
 # O-Pol sequence read from paper
 
 "Conserved-residue mutations in Wzy affect O-antigen polymerization and Wzz-mediated chain-length regulation in Pseudomonas aeruginosa PAO1"
@@ -52,14 +54,10 @@ data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051 (140)
     - Family x571, tens of thousands of members
     - Put in the beginning of the paper
     - Ida sends list of biochemically characterized accessions + pdb
-- Check O-Pol from Francisella paper (and other mutagenesis studies)
+- Check O-Pol from Francisella tularensis paper (and other mutagenesis studies)
 - Make tool for quickly figuring out which family an O-Pol belongs to
 - Bernard is going to focus on RodA and discussion
 - Ida is going to focus on results and methods
-
-Characterization of the O-antigen Polymerase (Wzy) of Francisella tularensis
-
-Method to find out which cluster a protein belongs to
 
 We are the first at combining sequence space -> machine learning
 
@@ -150,12 +148,6 @@ https://www.legatbogen.dk/christian-og-ottilia-brorsons-rejselegat/stoetteomraad
 https://augustinusfonden.dk/ansoegning/
 
 https://ddsa.dk/funding/travelgrants/
-
-# Pymol
-Flytte labels: Mouse -> 2 button editing
-Command + click på label (vær forsigtig med at ramme label og ikke proteinet)
-
-set ray_trace_mode, 0
 
 # Cluster 1
 7061 and 1601 - we have evidence for the bond in both of them, but they are not the same phase
@@ -278,6 +270,13 @@ Get information content by multiplying each line in PSFM with each line in PSSM 
 # Pymol
 Don't make cartoon dotted when showing sidechains:
 `set cartoon_side_chain_helper, on`
+
+Flytte labels: Mouse -> 2 button editing
+Command + click på label (vær forsigtig med at ramme label og ikke proteinet)
+
+set ray_trace_mode, 0
+
+remove hydrogens
 
 # Catalytic residues
 

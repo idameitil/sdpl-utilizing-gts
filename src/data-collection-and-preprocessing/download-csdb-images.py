@@ -64,21 +64,22 @@ def fetch_snfg_image(record_id, csdb_linear, scale=3, overwrite=False):
 	print("DONE {} {}\n".format(record_id, csdb_linear))
 
 polymerase_df = pd.read_csv("data/wzy/wzy.tsv", sep='\t', dtype={'CSDB_record_ID':'string'})
+waal_df = pd.read_csv("data/waal/waal.tsv", sep='\t', dtype={'CSDB_record_ID':'string'})
 # wanted = list(polymerase_df.CSDB_record_ID.dropna())
 # hits_df = pd.read_csv("data/wzy/blast-full-genbank/1e-15/hits-enriched.tsv", sep='\t', dtype={'CSDB_record_ID_y':'string'})
 # wanted = list(hits_df.CSDB_record_ID_y.dropna())
 
 # Open DB file, iterate over rows, avoiding record_ids we have already seen
-seen = []
-
 for index, row in polymerase_df.iterrows():
 
 	if not not_pd_null(row.CSDB_record_ID):
 		continue
 
-	# Avoid repeating an id
-	if row.CSDB_record_ID in seen:
+	fetch_snfg_image(row.CSDB_record_ID, row.CSDB_Linear_corrected)
+
+for index, row in waal_df.iterrows():
+
+	if not not_pd_null(row.CSDB_record_ID):
 		continue
-	seen.append(row.CSDB_record_ID)
 
 	fetch_snfg_image(row.CSDB_record_ID, row.CSDB_Linear_corrected)
