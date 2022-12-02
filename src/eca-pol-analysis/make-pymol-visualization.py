@@ -3,10 +3,12 @@ import sys
 sys.path.append("src/ssn-clustering")
 from common import read_MSA_file, get_conserved_residues, get_specific_positions_conserved_residues
 
+threshold = sys.argv[1]
+
 # Get conserved residues
 alignment_filename = "data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit99_mafft.fa"
 fasta_dict = read_MSA_file(alignment_filename)
-conserved_residues = get_conserved_residues(fasta_dict, threshold=0.97)
+conserved_residues = get_conserved_residues(fasta_dict, threshold=threshold)
 positions = get_specific_positions_conserved_residues('ACH50550.1', conserved_residues, fasta_dict)
 
 # Write pymol script
@@ -18,11 +20,13 @@ show_conserved_residues_string = f"""show licorice, cons
 color atomic, cons\n
 """
 script_string = load_model_string
-for position in positions:
-    script_string += f'label n. CA and resi {position} and ACH50550.1, "%s-%s" % (resn, resi)\n'
+for conserved_residue in positions:
+    pos = conserved_residue['pos']
+    script_string += f'label n. CA and resi {pos} and ACH50550.1, "%s-%s" % (resn, resi)\n'
 temp_string = f"select cons, "
-for position in positions:
-    temp_string += f"resi {position} and ACH50550.1 or "
+for conserved_residue in positions:
+    pos = conserved_residue['pos']
+    temp_string += f"resi {pos} and ACH50550.1 or "
 script_string += temp_string[:-4] + '\n'
 script_string += show_conserved_residues_string + '\n'
 script_string += f"""set label_position,(1,1,1)
@@ -37,6 +41,6 @@ set cartoon_side_chain_helper, on
 set ray_trace_mode, 0
 """
 
-pymol_script_path = f"data/eca-pol/MSA_CAZy_family/pymol-visualization.pml"
+pymol_script_path = f"data/eca-pol/MSA_CAZy_family/pymol-visualization-{threshold}.pml"
 with open (pymol_script_path, 'w') as outfile:
     outfile.write(script_string)

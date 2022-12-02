@@ -16,7 +16,7 @@ This will create the file `data/wzy/wzy.tsv` or `data/waal/waal.tsv`
 ### Downloading CSDB images
 In order to download new CSDB images, run `python src/data-collection-and-preprocessing/download-csdb-images.py`
 
-Add to wzy_polymerases repo.
+Add to wzy_polymerases repo (`wzy_polymerases/csdb/snfg/3/`) and push.
 
 ### Retrieving Wzxs and Wzzs
 To retrieve the Wzx and Wzz entries, run `python src/data-collection-and-preprocessing/retrieve-wzx-wzz.py`
@@ -351,6 +351,6 @@ Redundancy reduce: `cd-hit -i data/eca-pol/MSA_CAZy_family/hits-1e-40.fa -o data
 Run mafft: `mafft  --maxiterate 1000 --localpair --leavegappyregion data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit95.fa > data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit99_mafft.fa`
 
 ### Make Pymol visualization
-To make the pymol visualization, run: `python src/eca-pol-analysis/make-pymol-visualization.py`
+To make the pymol visualization, run: `python src/eca-pol-analysis/make-pymol-visualization.py [conservation_threshold]`
 
-To open in pymol, run: `pymol data/eca-pol/MSA_CAZy_family/pymol-visualization.pml`.
+To open in pymol, run: `pymol data/eca-pol/MSA_CAZy_family/pymol-visualization-[conservation_threshold].pml`.
