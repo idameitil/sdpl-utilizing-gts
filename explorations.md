@@ -29,3 +29,27 @@ On the HPC, run `sh /work3/idamei/gt66/subfamilies/submit.sh`
 When all jobs are finished, download the results: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/gt66/subfamilies data/gt66/`
 
 Then convert the logos to pdf: `python src/gt66-analysis/convert-logos-to-pdf.py`
+
+## Waal
+### Make clade fastas (Old)
+(Lists of accessions are prepared from the tree in iTOL: `data/waal/clades/clade1/clade1` and `data/waal/clades/clade2/clade2`)
+script not updated: `python src/waal-analysis/make-clade-fastas.py`
+
+### Make clade MSAs (Old)
+`mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 4 data/waal/clades/clade1/clade1.fasta > data/waal/clades/clade1/clade1_mafft.fa`
+
+`mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 4 data/waal/clades/clade2/clade2.fasta > data/waal/clades/clade2/clade2_mafft.fa`
+
+### Build HMMs
+`hmmbuild data/waal/clades/clade1/clade1.hmm data/waal/clades/clade1/clade1_mafft.fa`
+`hmmbuild data/waal/clades/clade2/clade2.hmm data/waal/clades/clade2/clade2_mafft.fa`
+
+### HMM scan (check if the different HMMs overlap, Old)
+Make the database:
+`cat data/waal/clades/clade1/clade1.hmm data/waal/clades/clade2-1/clade2-1.hmm data/waal/clades/clade2-2/clade2-2.hmm > data/waal/hmmscan/db/hmmdb`
+
+Compress the database:
+`hmmpress data/waal/hmmscan/db/hmmdb`
+
+Run hmmscan:
+`python src/waal-analysis/hmmscan.py`

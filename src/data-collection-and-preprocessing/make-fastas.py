@@ -17,7 +17,7 @@ def write_fasta(infilename, outfilename):
             outfile.write(f">{accession}\n{sequence}\n")
             accessions_done.append(accession)
 
-if __name__ == 'main':
+if __name__ == '__main__':
     files = [('data/wzx/wzx.tsv', 'data/wzx/wzx.fasta'), ('data/wzy/wzy.tsv', 'data/wzy/wzy.fasta'), \
     ('data/wzz/wzz.tsv', 'data/wzz/wzz.fasta'), ('data/waal/waal.tsv', 'data/waal/waal.fasta'), \
         ('data/eca-pol/eca-pol.tsv', 'data/eca-pol/eca-pol.fasta')]
