@@ -172,12 +172,10 @@ The fasta file (`data/wzy/phylogenetic-trees/small-tree-poster/selected-nodes-sm
 ### Make seeds and reduced hits fasta
 To make fasta with seeds and redundancy reduced blast hits, run: `python src/waal-analysis/make-seeds-and-hits-fasta.py [blast_threshold] [cdhit-threshold]`.
 
-This will generate the file `data/waal/seeds-and-reduced-hits.fasta` (`data/waal/seeds-and-reduced95-hits.fasta`).
+This will generate the file `data/waal/seeds-and-hits[blast_threshold]-cdhit[cdhit_threshold].fasta`.
 
 ### Make initial MSA and tree
-MSA: `mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 7 data/waal/seeds-and-reduced-hits.fasta > data/waal/seeds-and-reduced-hits_mafft.fa`
-
-FastTree: `fasttree data/waal/seeds-and-reduced-hits_mafft.fa > data/waal/seeds-and-reduced-hits_mafft.nwk`
+`mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 7 data/waal/seeds-and-hits1e-60-cdhit95.fasta > data/waal/seeds-and-hits1e-60-cdhit95_mafft_maxit1000.fa`
 
 Aclust tree:
 `scp data/waal/seeds-and-reduced-hits.fasta idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/tree-seeds-and-hits/`
@@ -188,31 +186,8 @@ When all jobs are finished, run: `sh /work3/idamei/bin/aclust_example/aclust2.sh
 
 When the job is finished, download the tree file: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/tree-seeds-and-hits/my.tree data/waal/seeds-and-reduced-hits-aclust.nwk`.
 
-### Make clade fastas (Old)
-(Lists of accessions are prepared from the tree in iTOL: `data/waal/clades/clade1/clade1` and `data/waal/clades/clade2/clade2`)
-script not updated: `python src/waal-analysis/make-clade-fastas.py`
-
-### Make clade MSAs (Old)
-`mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 4 data/waal/clades/clade1/clade1.fasta > data/waal/clades/clade1/clade1_mafft.fa`
-
-`mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 4 data/waal/clades/clade2/clade2.fasta > data/waal/clades/clade2/clade2_mafft.fa`
-
 ### Build HMM
-`hmmbuild data/waal/seeds-and-reduced90-hits_mafft.hmm data/waal/seeds-and-reduced90-hits_mafft.fa`
-
-Old:
-`hmmbuild data/waal/clades/clade1/clade1.hmm data/waal/clades/clade1/clade1_mafft.fa`
-`hmmbuild data/waal/clades/clade2/clade2.hmm data/waal/clades/clade2/clade2_mafft.fa`
-
-### HMM scan (check if the different HMMs overlap)
-Make the database:
-`cat data/waal/clades/clade1/clade1.hmm data/waal/clades/clade2-1/clade2-1.hmm data/waal/clades/clade2-2/clade2-2.hmm > data/waal/hmmscan/db/hmmdb`
-
-Compress the database:
-`hmmpress data/waal/hmmscan/db/hmmdb`
-
-Run hmmscan:
-`python src/waal-analysis/hmmscan.py`
+`hmmbuild data/waal/seeds-and-hits1e-60-cdhit95_mafft_maxit1000.hmm data/waal/seeds-and-hits1e-60-cdhit95_mafft_maxit1000.fa`
 
 ### hmmsearch against genbank
 Copy HMMs to HPC: `scp data/waal/clades/clade1/clade1.hmm data/waal/clades/clade2/clade2.hmm idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/hmm`
@@ -282,6 +257,9 @@ To make the pymol visualization, run: `pymol src/waal-analysis/make-pymol-visual
 To open in pymol, run `pymol data/waal/MSA_CAZy_family/pymol-visualization.pml`.
 
 ## ECA-Pol
+
+### Seed MSA
+
 
 ### Make MSA
 `mafft  --maxiterate 1000 --localpair --leavegappyregion data/eca-pol/MSA/unique-hits-short-headers-1e-15-filtered-cdhit99.fasta > data/eca-pol/MSA/unique-hits-short-headers-1e-15-filtered-cdhit99_mafft.fa`

@@ -1,4 +1,11 @@
-#
+# blastdbcmd
+"Error: [blastdbcmd] Skipped"
+happens because the nr db was updated since blast was run. Ie. some of them are missing now.
+
+# Deleted ECA-Pol seed
+AAC45844
+It's called WzyE in Genbank, but it also says O-antigen polymerase.
+In the tree of Wzys including ECA-Pols, they don't cluster with the other ECA-Pols.
 
 # O-Pol sequence read from paper
 
@@ -277,6 +284,8 @@ Command + click på label (vær forsigtig med at ramme label og ikke proteinet)
 set ray_trace_mode, 0
 
 remove hydrogens
+
+clipping planes, slab (scroll)
 
 # Catalytic residues
 
