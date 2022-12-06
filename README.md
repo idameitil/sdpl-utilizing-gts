@@ -94,9 +94,17 @@ FOR WAAL: `python src/data-collection-and-preprocessing/filter-waal-eca-pol-blas
 
 `cd-hit -i data/waal/blast/unique-hits-short-headers-[blast_threshold]-filtered.fasta -o data/waal/blast/unique-hits-short-headers-[blast_threshold]-filtered-cdhit[cd-hit-threshold].fasta -c 0.[cd-hit-threshold]`
 
-FOR ECA-POL: `python src/data-collection-and-preprocessing/filter-waal-eca-pol-blast-hits.py eca-pol 400 600`
+FOR ECA-POL: `python src/data-collection-and-preprocessing/filter-waal-eca-pol-blast-hits.py eca-pol 400 600 [blast_threshold]`
 
-`cd-hit -i data/eca-pol/blast/unique-hits-short-headers-1e-15-filtered.fasta -o data/eca-pol/blast/unique-hits-short-headers-1e-15-filtered-cdhit99.fasta -c 0.99`
+`cd-hit -i data/eca-pol/blast/unique-hits-short-headers-[blast_threshold]-filtered.fasta -o data/eca-pol/blast/unique-hits-short-headers-[blast_threshold]-filtered-cdhit[cd-hit-threshold].fasta -c 0.[cd-hit-threshold]`
+
+(1e-60)
+
+## Make seeds and hits file for Waal and ECA-Pol
+
+To make fasta with seeds and redundancy reduced blast hits, run: `python src/data-collection-and-preprocessing/make-seeds-and-hits-fasta-waal-eca-pol.py [enzyme-family] [blast_threshold] [cdhit-threshold]`.
+
+This will generate the file `data/[enzyme-family]/seeds-and-hits[blast_threshold]-cdhit[cdhit_threshold].fasta`.
 
 ## Phobius
 Phobius is run at `https://phobius.sbc.su.se/`. The results are downloaded with "Save page as", "Web Page, complete" and saved in `data/wzy/phobius`.
@@ -169,10 +177,8 @@ The fasta file (`data/wzy/phylogenetic-trees/small-tree-poster/selected-nodes-sm
 
 ## WaaL
 
-### Make seeds and reduced hits fasta
-To make fasta with seeds and redundancy reduced blast hits, run: `python src/waal-analysis/make-seeds-and-hits-fasta.py [blast_threshold] [cdhit-threshold]`.
-
-This will generate the file `data/waal/seeds-and-hits[blast_threshold]-cdhit[cdhit_threshold].fasta`.
+### Make seed MSA
+`mafft data/waal/waal.fasta > data/waal/waal_mafft.fa`
 
 ### Make initial MSA and tree
 `mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 7 data/waal/seeds-and-hits1e-60-cdhit95.fasta > data/waal/seeds-and-hits1e-60-cdhit95_mafft_maxit1000.fa`
@@ -258,11 +264,11 @@ To open in pymol, run `pymol data/waal/MSA_CAZy_family/pymol-visualization.pml`.
 
 ## ECA-Pol
 
-### Seed MSA
-
+### Make seed MSA
+`mafft data/eca-pol/eca-pol.fasta > data/eca-pol/eca-pol_mafft.fa`
 
 ### Make MSA
-`mafft  --maxiterate 1000 --localpair --leavegappyregion data/eca-pol/MSA/unique-hits-short-headers-1e-15-filtered-cdhit99.fasta > data/eca-pol/MSA/unique-hits-short-headers-1e-15-filtered-cdhit99_mafft.fa`
+`mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 7 data/eca-pol/seeds-and-hits1e-60-cdhit99.fasta > data/eca-pol/seeds-and-hits1e-60-cdhit99_mafft_maxit1000.fa`
 
 ### Build HMM
 `hmmbuild data/eca-pol/hmm/eca-pol-mafft.hmm data/eca-pol/MSA/unique-hits-short-headers-1e-15-filtered-cdhit99_mafft.fa`
