@@ -38,9 +38,15 @@ And then: `/work3/idamei/[enzyme_family]/blast/submit.sh`
 (OBS: maybe only download the new runs) When all jobs have finished, download the data: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/[enzyme_family]/blast data/[enzyme_family]/`
 
 ### Parsing Blast results
-To parse the blast expansion output files, run `python src/data-collection-and-preprocessing/parse-blast-results.py [protein-family]`. Where `protein-family` is `wzy`, `wzx`, `wzz`, `waal` or `eca-pol`.
+To parse the blast expansion output files, run `python src/data-collection-and-preprocessing/parse-blast-results.py [enzyme-family]`. Where `enzyme-family` is `wzy`, `wzx`, `wzz`, `waal` or `eca-pol`.
 
-This will create the file `data/[protein-family]/blast/unique-hits.tsv` which contains a list of the hit accessions and their best e-values.
+This will create the file `data/[enzyme-family]/blast/unique-hits.tsv` which contains a list of the hit accessions and their best e-values.
+
+### NEW
+To parse the blast expansion output files into json format, run `python src/data-collection-and-preprocessing/run-blastfilter.py [enzyme-family]`. Where `enzyme-family` is `wzy`, `wzx`, `wzz`, `waal` or `eca-pol`.
+
+### NEW
+To create `unique-hits.tsv`, run `python src/data-collection-and-preprocessing/make-unique-hits-file.py [enzyme-family]`.
 
 ### Retrieving Blast hit data
 To retrieve the sequence and taxid for the blast hits, run:
@@ -90,15 +96,13 @@ To filter blast hits by length and perform redundancy reduction with cd-hit run:
 
 This will create the files `data/wzy/blast/unique-hits-min320max600.fasta` and `data/wzy/blast/unique-hits-min320max600-cdhit99.fasta`.
 
-FOR WAAL: `python src/data-collection-and-preprocessing/filter-waal-eca-pol-blast-hits.py waal 280 500 [blast_threshold]`
+FOR WAAL: `python src/data-collection-and-preprocessing/filter-waal-eca-pol-blast-hits.py waal 280 500 [pct_threshold]`
 
-`cd-hit -i data/waal/blast/unique-hits-short-headers-[blast_threshold]-filtered.fasta -o data/waal/blast/unique-hits-short-headers-[blast_threshold]-filtered-cdhit[cd-hit-threshold].fasta -c 0.[cd-hit-threshold]`
+`cd-hit -i data/waal/blast/unique-hits-short-headers-[pct_threshold]-filtered.fasta -o data/waal/blast/unique-hits-short-headers-[pct_threshold]-filtered-cdhit[cd-hit-threshold].fasta -c [cd-hit-threshold]`
 
-FOR ECA-POL: `python src/data-collection-and-preprocessing/filter-waal-eca-pol-blast-hits.py eca-pol 400 600 [blast_threshold]`
+FOR ECA-POL: `python src/data-collection-and-preprocessing/filter-waal-eca-pol-blast-hits.py eca-pol 425 475 40`
 
-`cd-hit -i data/eca-pol/blast/unique-hits-short-headers-[blast_threshold]-filtered.fasta -o data/eca-pol/blast/unique-hits-short-headers-[blast_threshold]-filtered-cdhit[cd-hit-threshold].fasta -c 0.[cd-hit-threshold]`
-
-(1e-60)
+`cd-hit -i data/eca-pol/blast/unique-hits-short-headers-40-filtered.fasta -o data/eca-pol/blast/unique-hits-short-headers-40-filtered-cdhit[cd-hit-threshold].fasta -c [cd-hit-threshold]`
 
 ## Make seeds and hits file for Waal and ECA-Pol
 
@@ -268,7 +272,7 @@ To open in pymol, run `pymol data/waal/MSA_CAZy_family/pymol-visualization.pml`.
 `mafft data/eca-pol/eca-pol.fasta > data/eca-pol/eca-pol_mafft.fa`
 
 ### Make MSA
-`mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 7 data/eca-pol/seeds-and-hits1e-60-cdhit99.fasta > data/eca-pol/seeds-and-hits1e-60-cdhit99_mafft_maxit1000.fa`
+`mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 7 data/eca-pol/seeds-and-hits40-cdhit0.999.fasta > data/eca-pol/data/eca-pol/seeds-and-hits40-cdhit0.999_mafft_maxit1000.fa`
 
 ### Build HMM
 `hmmbuild data/eca-pol/hmm/eca-pol-mafft.hmm data/eca-pol/MSA/unique-hits-short-headers-1e-15-filtered-cdhit99_mafft.fa`
