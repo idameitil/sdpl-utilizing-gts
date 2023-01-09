@@ -1,3 +1,13 @@
+# ECA-Pol vs O-Pol
+hmmsearch data/eca-pol/seeds-and-hits57-cdhit0.99_mafft_maxit1000.hmm data/wzy/wzy.fasta
+gave no hits => there are no ECA-Pols left in the 
+
+# Unique sugars
+We have 327 unique sugars (21 Dec 2022).
+
+# b-band LPS
+Pseudomonas aeruginosa produces two glycoforms of O-antigen, A and B band. B band is the immunodominant cell surface antigen
+
 # blastdbcmd
 "Error: [blastdbcmd] Skipped"
 happens because the nr db was updated since blast was run. Ie. some of them are missing now.
@@ -8,7 +18,6 @@ It's called WzyE in Genbank, but it also says O-antigen polymerase.
 In the tree of Wzys including ECA-Pols, they don't cluster with the other ECA-Pols.
 
 # O-Pol sequence read from paper
-
 "Conserved-residue mutations in Wzy affect O-antigen polymerization and Wzz-mediated chain-length regulation in Pseudomonas aeruginosa PAO1"
 
 myilarvdrsillntvllfaffsatvwvnnnyiyhlydymgsakktvdfglypylmvlalicallcggairrpgdllvtllvvilvphslvlnganqyspdaqpwagvplaiafgiliigivnkirfhplgalqrenqgrrmlvllsvlnivvlvfiffksagyfsfdfagqyarralarevfaagsangylssigtqaffpvlfawgvyrrqwfylvlgivnalvlwgafgqkypfvvlfliyglmvyfrrfgqvrvswvvcallmllllgalehevfgysflndyflrrafivpstllgavdqfvsqfgsnyyrdtllgallgqgrteplsfrlgteifnnpdmnanvnffaiaymglgyvgvmaesmlvggsvvlmnflfsrygafmaipvallfttkileqslltvmlgsgvflmllflalisfplkmslgktl

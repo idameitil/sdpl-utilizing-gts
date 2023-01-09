@@ -38,14 +38,11 @@ And then: `/work3/idamei/[enzyme_family]/blast/submit.sh`
 (OBS: maybe only download the new runs) When all jobs have finished, download the data: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/[enzyme_family]/blast data/[enzyme_family]/`
 
 ### Parsing Blast results
-To parse the blast expansion output files, run `python src/data-collection-and-preprocessing/parse-blast-results.py [enzyme-family]`. Where `enzyme-family` is `wzy`, `wzx`, `wzz`, `waal` or `eca-pol`.
-
-This will create the file `data/[enzyme-family]/blast/unique-hits.tsv` which contains a list of the hit accessions and their best e-values.
-
-### NEW
 To parse the blast expansion output files into json format, run `python src/data-collection-and-preprocessing/run-blastfilter.py [enzyme-family]`. Where `enzyme-family` is `wzy`, `wzx`, `wzz`, `waal` or `eca-pol`.
 
-### NEW
+This will create the files `data/eca-pol/blast/run/*/blast.js`.
+
+### Make unique-hits file
 To create `unique-hits.tsv`, run `python src/data-collection-and-preprocessing/make-unique-hits-file.py [enzyme-family]`.
 
 ### Retrieving Blast hit data
@@ -100,15 +97,29 @@ FOR WAAL: `python src/data-collection-and-preprocessing/filter-waal-eca-pol-blas
 
 `cd-hit -i data/waal/blast/unique-hits-short-headers-[pct_threshold]-filtered.fasta -o data/waal/blast/unique-hits-short-headers-[pct_threshold]-filtered-cdhit[cd-hit-threshold].fasta -c [cd-hit-threshold]`
 
-FOR ECA-POL: `python src/data-collection-and-preprocessing/filter-waal-eca-pol-blast-hits.py eca-pol 425 475 40`
+FOR ECA-POL: `python src/data-collection-and-preprocessing/filter-waal-eca-pol-blast-hits.py eca-pol 400 500 57`
 
-`cd-hit -i data/eca-pol/blast/unique-hits-short-headers-40-filtered.fasta -o data/eca-pol/blast/unique-hits-short-headers-40-filtered-cdhit[cd-hit-threshold].fasta -c [cd-hit-threshold]`
+`cd-hit -i data/eca-pol/blast/unique-hits-short-headers-57-filtered.fasta -o data/eca-pol/blast/unique-hits-short-headers-57-filtered-cdhit[cd-hit-threshold].fasta -c [cd-hit-threshold]`
 
-## Make seeds and hits file for Waal and ECA-Pol
+## Make seeds and hits fasta for Waal and ECA-Pol
 
 To make fasta with seeds and redundancy reduced blast hits, run: `python src/data-collection-and-preprocessing/make-seeds-and-hits-fasta-waal-eca-pol.py [enzyme-family] [blast_threshold] [cdhit-threshold]`.
 
 This will generate the file `data/[enzyme-family]/seeds-and-hits[blast_threshold]-cdhit[cdhit_threshold].fasta`.
+
+## Phylogenetic trees
+
+### Make iTOL label files
+To make iTOL label files, run `python src/phylogenetic-trees/make-itol-label-files.py`. This will create label files in the folder `data/[enzyme_family]/phylogenetic-trees/itol-label-files`.
+
+The MUSCLE tree is generated at: `https://www.ebi.ac.uk/Tools/msa/muscle/` by uploading `data/wzy/wzy.fasta`. This tree is saved as `data/wzy/phylogenetic-trees/trees/muscle-tree.nwk`.
+
+### Make small tree for poster
+The nodes that are wanted in the tree are added to `data/wzy/phylogenetic-trees/small-tree-poster/selected-nodes-small-tree.txt`.
+
+To make a fasta file with the selected nodes that have a sugar, run `python src/phylogenetic-trees/prepare-small-tree.py`.
+
+The fasta file (`data/wzy/phylogenetic-trees/small-tree-poster/selected-nodes-small-tree.fasta`) is uploaded to muscle website (https://www.ebi.ac.uk/Tools/msa/muscle/) and the tree is saved in `data/wzy/phylogenetic-trees/small-tree-poster/selected-nodes-small-tree.nwk`
 
 ## Phobius
 Phobius is run at `https://phobius.sbc.su.se/`. The results are downloaded with "Save page as", "Web Page, complete" and saved in `data/wzy/phobius`.
@@ -165,20 +176,6 @@ Compress db: `hmmpress data/wzy/ssn-clusterings/$1/superclusterings/$2/hmmscan_d
 
 Test your query sequence like this: `hmmscan data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/hmmscan_db/hmmscan_db [query_fasta] > hmmscan.out`
 
-## Phylogenetic trees
-
-### Make iTOL label files
-To make iTOL label files, run `python src/phylogenetic-trees/make-itol-label-files.py`. This will create label files in the folder `data/[enzyme_family]/phylogenetic-trees/itol-label-files`.
-
-The MUSCLE tree is generated at: `https://www.ebi.ac.uk/Tools/msa/muscle/` by uploading `data/wzy/wzy.fasta`. This tree is saved as `data/wzy/phylogenetic-trees/trees/muscle-tree.nwk`.
-
-### Make small tree for poster
-The nodes that are wanted in the tree are added to `data/wzy/phylogenetic-trees/small-tree-poster/selected-nodes-small-tree.txt`.
-
-To make a fasta file with the selected nodes that have a sugar, run `python src/phylogenetic-trees/prepare-small-tree.py`.
-
-The fasta file (`data/wzy/phylogenetic-trees/small-tree-poster/selected-nodes-small-tree.fasta`) is uploaded to muscle website (https://www.ebi.ac.uk/Tools/msa/muscle/) and the tree is saved in `data/wzy/phylogenetic-trees/small-tree-poster/selected-nodes-small-tree.nwk`
-
 ## WaaL
 
 ### Make seed MSA
@@ -194,7 +191,7 @@ On the HPC, run: `sh /work3/idamei/bin/aclust_example/aclust1.sh /work3/idamei/w
 
 When all jobs are finished, run: `sh /work3/idamei/bin/aclust_example/aclust2.sh /work3/idamei/waal/tree-seeds-and-hits/ seeds-and-reduced-hits.fasta`
 
-When the job is finished, download the tree file: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/tree-seeds-and-hits/my.tree data/waal/seeds-and-reduced-hits-aclust.nwk`.
+When the job is finished, download the tree file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/tree-seeds-and-hits/my.tree data/waal/seeds-and-reduced-hits-aclust.nwk`.
 
 ### Build HMM
 `hmmbuild data/waal/seeds-and-hits1e-60-cdhit95_mafft_maxit1000.hmm data/waal/seeds-and-hits1e-60-cdhit95_mafft_maxit1000.fa`
@@ -271,30 +268,49 @@ To open in pymol, run `pymol data/waal/MSA_CAZy_family/pymol-visualization.pml`.
 ### Make seed MSA
 `mafft data/eca-pol/eca-pol.fasta > data/eca-pol/eca-pol_mafft.fa`
 
+### Get list of accessions
+From Garry's tree of reblasted ECA-Pols (https://itol.embl.de/tree/1923890169486281673015321), the biggest clade was selected and "Copy leaf labels", the labels were pasted into `data/eca-pol/MSA_CAZy_family/accessions_clade1`.
+
+Make fasta with accessions from clade1: `python src/eca-pol-analysis/make-fasta-accessions-include.py`
+
 ### Make MSA
-`mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 7 data/eca-pol/seeds-and-hits40-cdhit0.999.fasta > data/eca-pol/data/eca-pol/seeds-and-hits40-cdhit0.999_mafft_maxit1000.fa`
+`mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 7 data/eca-pol/MSA_CAZy_family/clade1.fasta > data/eca-pol/MSA_CAZy_family/clade1.fasta_mafft.fa`
 
 ### Build HMM
-`hmmbuild data/eca-pol/hmm/eca-pol-mafft.hmm data/eca-pol/MSA/unique-hits-short-headers-1e-15-filtered-cdhit99_mafft.fa`
+`hmmbuild data/eca-pol/MSA_CAZy_family/clade1.fasta_mafft.hmm data/eca-pol/MSA_CAZy_family/clade1.fasta_mafft.fa`
+
+### Make MSA OLD
+`mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 7 data/eca-pol/seeds-and-hits57-cdhit0.99.fasta > data/eca-pol/seeds-and-hits57-cdhit0.99_mafft_maxit1000.fa`
+
+### Build HMM OLD
+`hmmbuild data/eca-pol/seeds-and-hits57-cdhit0.99_mafft_maxit1000.hmm data/eca-pol/seeds-and-hits57-cdhit0.99_mafft_maxit1000.fa`
 
 ### hmmsearch against genbank
-Copy HMM to HPC: `scp -r data/eca-pol/hmm/ idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/`
+Copy HMM to HPC: `scp -r data/eca-pol/seeds-and-hits57-cdhit0.99_mafft_maxit1000.hmm idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/`
 
 On the HPC:
 `qrsh`
-`hmmsearch /work3/idamei/eca-pol/hmm/eca-pol-mafft.hmm /work3/garryg/blast/db-/genbank.fa > /work3/idamei/eca-pol/genbank-search/eca-pol-genbank-mafft.out`
+`hmmsearch /work3/idamei/eca-pol/seeds-and-hits57-cdhit0.99_mafft_maxit1000.hmm /work3/garryg/blast/db-/genbank.fa > /work3/idamei/eca-pol/genbank-search/eca-pol-genbank-mafft.out`
 
 Download the results: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/genbank-search/eca-pol-genbank-mafft.out data/eca-pol/genbank-search/`
 
+### Parse genbank search
 To parse the genbank hmm search, run: `python src/genbank-search/parse-hmm-search.py eca-pol`. This will create `data/eca-pol/genbank-search/hits-evalue.tsv`
 
+### Retrieve genbank sequences
 To retrieve the sequences of the hits, run: `scp data/eca-pol/genbank-search/hits-evalue.tsv idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/genbank-search/`
 
 Then run on the hpc: 
 `qrsh`
 `blastdbcmd -db genbank -entry_batch /work3/idamei/eca-pol/genbank-search/hits-evalue.tsv -dbtype prot > /work3/idamei/eca-pol/genbank-search/hits.fasta`
+And: `blastdbcmd -db genbank -entry_batch /work3/idamei/eca-pol/genbank-search/hits-evalue.tsv -outfmt "%a ,%L ,%T ,%t ,%s" > /work3/idamei/eca-pol/genbank-search/hits.csv`
+(Change `db` in `~/.bashrc` to `db-` and `source ~/.bashrc`)
 
 `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/genbank-search/hits.fasta data/eca-pol/genbank-search/`
+`scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/genbank-search/hits.csv data/eca-pol/genbank-search/`
+
+### Enrich genbank hits
+
 
 ### Make iTOL label files with e-values
 `python src/waal-analysis/make-iTOL-labels-evalue.py`

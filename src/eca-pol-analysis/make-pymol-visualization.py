@@ -3,10 +3,10 @@ import sys
 sys.path.append("src/ssn-clustering")
 from common import read_MSA_file, get_conserved_residues, get_specific_positions_conserved_residues
 
-threshold = sys.argv[1]
+threshold = float(sys.argv[1])
 
 # Get conserved residues
-alignment_filename = "data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit99_mafft.fa"
+alignment_filename = "data/eca-pol/seeds-and-hits1e-60-cdhit99_mafft_maxit1000.fa"
 fasta_dict = read_MSA_file(alignment_filename)
 conserved_residues = get_conserved_residues(fasta_dict, threshold=threshold)
 positions = get_specific_positions_conserved_residues('ACH50550.1', conserved_residues, fasta_dict)
