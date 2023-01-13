@@ -1,0 +1,9 @@
+bsub < /work3/idamei/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0118_1_30/jobscript-genbank-search.sh
+bsub < /work3/idamei/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0128_1_29/jobscript-genbank-search.sh
+bsub < /work3/idamei/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0134_4_6/jobscript-genbank-search.sh
+bsub < /work3/idamei/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0141_1_28/jobscript-genbank-search.sh
+bsub < /work3/idamei/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0144_2_14/jobscript-genbank-search.sh
+bsub < /work3/idamei/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0260_4_5/jobscript-genbank-search.sh
+bsub < /work3/idamei/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0284_3_9/jobscript-genbank-search.sh
+bsub < /work3/idamei/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0342_13_2/jobscript-genbank-search.sh
+bsub < /work3/idamei/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0540_8_3/jobscript-genbank-search.sh
