@@ -1,3 +1,10 @@
+# CAZy families
+0260_4_5, X605, inverting
+
+# Project number and task number
+Project number: 27 - ...
+Task number: X-2 (for courses and stuff)
+
 # ECA-Pol vs O-Pol
 hmmsearch data/eca-pol/seeds-and-hits57-cdhit0.99_mafft_maxit1000.hmm data/wzy/wzy.fasta
 gave no hits => there are no ECA-Pols left in the 
