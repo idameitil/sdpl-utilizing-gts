@@ -1,5 +1,14 @@
 # CAZy families
-0260_4_5, X605, inverting
+X605, 0260_4_5, inverting
+X606, 0144_2_14, retaining
+X607, 0141_1_28, inverting
+X608, 0134_4_6, retaining
+X609, 0118_1_30, inverting
+X610, 0128_1_29, retaining
+X611, 0282_3_9, retaining
+X612, 0342_13_2, retaining
+X613, 0540_8_3, inverting
+X614, 0171_6_4, mixed
 
 # Project number and task number
 Project number: 27 - ...
