@@ -9,6 +9,9 @@ X611, 0282_3_9, retaining
 X612, 0342_13_2, retaining
 X613, 0540_8_3, inverting
 X614, 0171_6_4, mixed
+X615, O-antigen ligases, inverting
+X616, SSN cluster 0221_4, inverting
+X617, 1085 (SSN clusters 0250_3 and 0129_7), inverting
 
 # Project number and task number
 Project number: 27 - ...
