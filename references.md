@@ -1,17 +1,41 @@
 # CAZy families
-X605, 0260_4_5, inverting
-X606, 0144_2_14, retaining
-X607, 0141_1_28, inverting
-X608, 0134_4_6, retaining
-X609, 0118_1_30, inverting
-X610, 0128_1_29, retaining
-X611, 0282_3_9, retaining
-X612, 0342_13_2, retaining
-X613, 0540_8_3, inverting
-X614, 0171_6_4, mixed
-X615, O-antigen ligases, inverting
-X616, SSN cluster 0221_4, inverting
-X617, 1085 (SSN clusters 0250_3 and 0129_7), inverting
+- X571, RodA (was made within the CAZy system by Bernie)
+- X586, ECA-Pol (data/eca-pol/MSA_CAZy_family/clade1-pruned-mafft.fa)
+- X605, 0260_4_5, inverting (data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0260_4_5/0260_4_5.accs_pruned-mafft.fa)
+    - data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0260_4_5/ssn_clusters/0027_45-mafft.fa
+    - data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0260_4_5/ssn_clusters/0104_12-mafft.fa
+    - data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0260_4_5/ssn_clusters/0126_9-mafft.fa
+- X606, 0144_2_14, retaining (data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0144_2_14/0144_2_14.accs_pruned-mafft.fa)
+    - data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0144_2_14/ssn_clusters/0021_52-mafft.fa
+    - data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0144_2_14/ssn_clusters/0123_10-mafft.fa
+- X607, 0141_1_28, inverting (data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0141_1_28/0141_1_28.accs_pruned-mafft.fa)
+- X608, 0134_4_6, retaining (data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0134_4_6/0134_4_6.accs_pruned-mafft.fa)
+    - data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0134_4_6/ssn_clusters/0016_79-mafft.fa
+    - data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0134_4_6/ssn_clusters/0017_68-mafft.fa
+    - data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0134_4_6/ssn_clusters/0021_53-mafft.fa
+    - data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0134_4_6/ssn_clusters/0080_14-mafft.fa
+- X609, 0118_1_30, inverting (data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0118_1_30/0118_1_30.accs_pruned-mafft.fa)
+- X610, 0128_1_29, retaining (data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0128_1_29/0128_1_29.accs_pruned-mafft.fa)
+- X611, 0282_3_9, retaining (data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0284_3_9/0284_3_9.accs_pruned-mafft.fa)
+    - data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0284_3_9/ssn_clusters/0028_44-mafft.fa
+    - data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0284_3_9/ssn_clusters/0252_2-mafft.fa
+- X612, 0342_13_2, retaining (data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0342_13_2/0342_13_2-new-mafft.fa)
+    - data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0342_13_2/ssn_clusters/0132_6-mafft.fa
+    - data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0342_13_2/ssn_clusters/0068_18-mafft.fa
+- X613, 0540_8_3, inverting (data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0540_8_3/0540_8_3-new-mafft.fa)
+- X614, 0171_6_4, mixed (data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0171_6_4/0171_6_4-new-pruned-mafft.fa)
+    - data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0171_6_4/ssn_clusters/0017_65-mafft.fa
+    - data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0171_6_4/ssn_clusters/0032_42-mafft.fa
+    - data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0171_6_4/ssn_clusters/0070_17-mafft.fa
+- X615, O-antigen ligases, inverting (data/waal/final_family/ligase-mafft.fa)
+    - data/waal/final_subfamilies/subfamily1/ligase_subfamily1-mafft.fa
+    - data/waal/final_subfamilies/subfamily2/ligase_subfamily2-mafft.fa
+    - data/waal/final_subfamilies/subfamily3/ligase_subfamily3-mafft.fa
+    - data/waal/final_subfamilies/subfamily4/ligase_subfamily4-mafft.fa
+- X616, 1085_39_1 (SSN cluster 0221_4), inverting (data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/0221_4/0221_4.accs_pruned-mafft.fa)
+- X617, 1085_39_1 (SSN clusters 0250_3 and 0129_7), inverting (data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/1085_39_1-final-mafft.fa)
+    - data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/0250_3/0250_3.accs_pruned-mafft.fa
+    - data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/0129_7/0129_7.accs_pruned-mafft.fa
 
 # Project number and task number
 Project number: 27 - ...
