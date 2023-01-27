@@ -176,13 +176,38 @@ Compress db: `hmmpress data/wzy/ssn-clusterings/$1/superclusterings/$2/hmmscan_d
 
 Test your query sequence like this: `hmmscan data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/hmmscan_db/hmmscan_db [query_fasta] > hmmscan.out`
 
+### Search genbank
+For each supercluster: 
+- get `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0284_3_9/0284_3_9.accs_pruned` from Garry
+- run  `efetch -db protein -format fasta -input data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0284_3_9/0284_3_9.accs_pruned > data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0284_3_9/0284_3_9.accs_pruned.fasta`
+- run `mafft  --maxiterate 1000 --localpair --leavegappyregion --reorder --thread 7 data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0284_3_9/0284_3_9.accs_pruned.fasta > data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0284_3_9/0284_3_9.accs_pruned-mafft.fa`
+- run `hmmbuild data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0284_3_9/0284_3_9.accs_pruned-mafft.hmm data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0284_3_9/0284_3_9.accs_pruned-mafft.fa`
+
+`python src/ssn-clustering/genbank-search-superclusters.py`
+
+`scp -r data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051 idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/2210171613/superclusterings`
+
+On the HPC: `sh /work3/idamei/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/submit-genbank-search.sh`
+
+OBS: 0221_4 is an ssn cluster from 1085, which was too big. The hmmsearch for this one has not been run yet. 
+
+Download the results:
+`scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/ssn-clusterings/2210171613/superclusterings/2210191051 data/wzy/ssn-clusterings/2210171613/superclusterings`
+
+This will create `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/[supercluster_name]/[supercluster_name].accs_pruned-mafft-genbank-search.out`
+
+To parse the genbank hmm search, run: `python src/genbank-search/parse-hmm-search.py wzy`. This will create `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/[supercluster_name]/hits-evalue.tsv`
+
+### Search members to find threshold
+
+
 ## WaaL
 
 ### Make seed MSA
 `mafft data/waal/waal.fasta > data/waal/waal_mafft.fa`
 
 ### Make initial MSA and tree
-`mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 7 data/waal/seeds-and-hits1e-60-cdhit95.fasta > data/waal/seeds-and-hits1e-60-cdhit95_mafft_maxit1000.fa`
+`mafft  --maxiterate 1000 --localpair --leavegappyregion --reorder --thread 7 data/waal/seeds-and-hits1e-60-cdhit95.fasta > data/waal/seeds-and-hits1e-60-cdhit95_mafft_maxit1000.fa`
 
 Aclust tree:
 `scp data/waal/seeds-and-reduced-hits.fasta idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/tree-seeds-and-hits/`
@@ -269,28 +294,29 @@ To open in pymol, run `pymol data/waal/MSA_CAZy_family/pymol-visualization.pml`.
 `mafft data/eca-pol/eca-pol.fasta > data/eca-pol/eca-pol_mafft.fa`
 
 ### Get list of accessions
-From Garry's tree of reblasted ECA-Pols (https://itol.embl.de/tree/1923890169486281673015321), the biggest clade was selected and "Copy leaf labels", the labels were pasted into `data/eca-pol/MSA_CAZy_family/accessions_clade1`.
+From Garry's hr1 tree of reblasted ECA-Pols (https://itol.embl.de/tree/1923890169486281673015321), the biggest clade was selected and "Copy leaf labels", the labels were pasted into `data/eca-pol/MSA_CAZy_family/accessions_clade1`.
+
+A fasta file with all the reblasting hits was obtained from Garry (length-filtered 400-520):
+`data/eca-pol/MSA_CAZy_family/reblast_hits.fasta`
 
 Make fasta with accessions from clade1: `python src/eca-pol-analysis/make-fasta-accessions-include.py`
 
-### Make MSA
-`mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 7 data/eca-pol/MSA_CAZy_family/clade1.fasta > data/eca-pol/MSA_CAZy_family/clade1.fasta_mafft.fa`
+This will generate the file `data/eca-pol/MSA_CAZy_family/clade1.fasta`
+
+# Pruning
+This set of sequences was pruned manually into `data/eca-pol/MSA_CAZy_family/clade1-pruned.fa`.
+
+A new alignment for the pruned set was made by: `mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 7 --reorder data/eca-pol/MSA_CAZy_family/clade1-pruned.fa > data/eca-pol/MSA_CAZy_family/clade1-pruned-mafft.fa`.
 
 ### Build HMM
-`hmmbuild data/eca-pol/MSA_CAZy_family/clade1.fasta_mafft.hmm data/eca-pol/MSA_CAZy_family/clade1.fasta_mafft.fa`
-
-### Make MSA OLD
-`mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 7 data/eca-pol/seeds-and-hits57-cdhit0.99.fasta > data/eca-pol/seeds-and-hits57-cdhit0.99_mafft_maxit1000.fa`
-
-### Build HMM OLD
-`hmmbuild data/eca-pol/seeds-and-hits57-cdhit0.99_mafft_maxit1000.hmm data/eca-pol/seeds-and-hits57-cdhit0.99_mafft_maxit1000.fa`
+`hmmbuild data/eca-pol/MSA_CAZy_family/clade1-pruned-mafft.hmm data/eca-pol/MSA_CAZy_family/clade1-pruned-mafft.fa`
 
 ### hmmsearch against genbank
-Copy HMM to HPC: `scp -r data/eca-pol/seeds-and-hits57-cdhit0.99_mafft_maxit1000.hmm idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/`
+Copy HMM to HPC: `scp -r data/eca-pol/MSA_CAZy_family/clade1-pruned-mafft.hmm idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/`
 
 On the HPC:
 `qrsh`
-`hmmsearch /work3/idamei/eca-pol/seeds-and-hits57-cdhit0.99_mafft_maxit1000.hmm /work3/garryg/blast/db-/genbank.fa > /work3/idamei/eca-pol/genbank-search/eca-pol-genbank-mafft.out`
+`hmmsearch /work3/idamei/eca-pol/clade1-pruned-mafft.hmm /work3/garryg/blast/db-/genbank.fa > /work3/idamei/eca-pol/genbank-search/eca-pol-genbank-mafft.out`
 
 Download the results: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/genbank-search/eca-pol-genbank-mafft.out data/eca-pol/genbank-search/`
 
@@ -309,11 +335,8 @@ And: `blastdbcmd -db genbank -entry_batch /work3/idamei/eca-pol/genbank-search/h
 `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/genbank-search/hits.fasta data/eca-pol/genbank-search/`
 `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/genbank-search/hits.csv data/eca-pol/genbank-search/`
 
-### Enrich genbank hits
-
-
 ### Make iTOL label files with e-values
-`python src/waal-analysis/make-iTOL-labels-evalue.py`
+`python src/phylogenetic-trees/make-itol-label-files.py`
 
 ### All-vs-all
 Filter the hits: `python src/genbank-search/filter-hits.py eca-pol`.
@@ -338,7 +361,7 @@ Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-po
 `python src/ssn-clustering/cluster/get-clusters.py [timestamp] [expansion-threshold] [ssn-threshold] eca-pol`
 
 ### Prepare list of accessions for CAZy
-`python src/genbank-search/filter-hits.py eca-pol 1e-40`. This creates the file `data/eca-pol/genbank-search/hits-1e-40.txt` with accessions to include in the CAZy family.
+`python src/genbank-search/filter-hits.py eca-pol 1e-60`. This creates the file `data/eca-pol/genbank-search/hits-1e-40.txt` with accessions to include in the CAZy family.
 
 ### Make MSA for CAZy family
 Copy accession list to HPC: `scp -r data/eca-pol/genbank-search/hits-1e-40.txt idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/MSA_CAZy_family`

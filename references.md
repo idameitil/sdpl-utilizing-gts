@@ -1,3 +1,7 @@
+# Undervisning Prebens kursus
+Installation etc: 1-2 timer
+Wed 25: 2 timer
+
 # CAZy families
 - X571, RodA (was made within the CAZy system by Bernie)
 - X586, ECA-Pol (data/eca-pol/MSA_CAZy_family/clade1-pruned-mafft.fa)
