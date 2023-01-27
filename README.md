@@ -198,8 +198,8 @@ This will create `data/wzy/ssn-clusterings/2210171613/superclusterings/221019105
 
 To parse the genbank hmm search, run: `python src/genbank-search/parse-hmm-search.py wzy`. This will create `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/[supercluster_name]/hits-evalue.tsv`
 
-### Search members to find threshold
-
+### Generation of CAZy families
+The superclustering run `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051` was used for generating the families. However, along the way of pruning the sueprclusters, we decided that 160 was a better threshold. Instead of redoing the pruning with a new superclustering, we kept going with this one and just removed SSN clusters connected only by edges <106. A list of the alignments for each family including which SSN clusters were removed, is found in `references.md` under "# CAZy families".
 
 ## WaaL
 
@@ -218,10 +218,22 @@ When all jobs are finished, run: `sh /work3/idamei/bin/aclust_example/aclust2.sh
 
 When the job is finished, download the tree file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/tree-seeds-and-hits/my.tree data/waal/seeds-and-reduced-hits-aclust.nwk`.
 
+### CAZy family
+Garry pruned the ligase accessions based on `data/waal/seeds-and-hits1e-60-cdhit95-pruned.fasta`. His pruned list is in `data/waal/seeds-and-hits1e-60-cdhit95-pruned2.accs`. He then generated a tree with these, "https://itol.embl.de/tree/1923890169346361673971155#". It was decided to make four subfamilies. 
+
+For each subfamily:
+- A folder was created `data/waal/final_subfamilies/subfamily1` etc.
+- The list of accessions from the tree was saved in `data/waal/final_subfamilies/subfamily1/accessions`
+- A fasta with these was generated `data/waal/final_subfamilies/subfamily1/accessions.fa`
+- It was pruned: `data/waal/final_subfamilies/subfamily1/accessions-pruned.fa`
+- An alignment was generated: `data/waal/final_subfamilies/subfamily1/accessions-pruned-mafft.fa`
+
+All the pruned fastas of the subfamilies were combined into `data/waal/final_family/ligase.fa` and an alignment was made.
+
 ### Build HMM
 `hmmbuild data/waal/seeds-and-hits1e-60-cdhit95_mafft_maxit1000.hmm data/waal/seeds-and-hits1e-60-cdhit95_mafft_maxit1000.fa`
 
-### hmmsearch against genbank
+### hmmsearch against genbank (this was not used)
 Copy HMMs to HPC: `scp data/waal/clades/clade1/clade1.hmm data/waal/clades/clade2/clade2.hmm idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/hmm`
 
 On the HPC:
@@ -266,10 +278,10 @@ Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/a
 
 `python src/ssn-clustering/cluster/get-clusters.py [timestamp] [expansion-threshold] [ssn-threshold] waal`
 
-### Prepare list of accessions for CAZy
+### Prepare list of accessions for CAZy (this was not used)
 `python src/genbank-search/filter-hits.py waal 6e-23`. This will create the file `data/waal/genbank-search/hits-6e-23.txt`.
 
-### Make MSA for CAZy family
+### Make MSA for CAZy family (this was not used)
 Copy accession list to HPC: `scp -r data/waal/genbank-search/hits-6e-23.txt idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/MSA_CAZy_family`
 
 To get the fasta file, run on the HPC:
@@ -281,9 +293,9 @@ Download fasta file: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/MSA_
 
 Redundancy reduce: `cd-hit -i data/waal/MSA_CAZy_family/hits-6e-23.fa -o data/waal/MSA_CAZy_family/hits-6e-23-cdhit95.fa -c 0.95`
 
-Run mafft: `mafft  --maxiterate 1000 --localpair --leavegappyregion --thread -1 data/waal/MSA_CAZy_family/hits-6e-23-cdhit95.fa > data/waal/MSA_CAZy_family/hits-6e-23-cdhit99_mafft.fa`
+Run mafft: `mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 7 --reorder data/waal/MSA_CAZy_family/hits-6e-23-cdhit95.fa > data/waal/MSA_CAZy_family/hits-6e-23-cdhit99_mafft.fa`
 
-### Pymol visualization
+### Pymol visualization (update with new MSA)
 To make the pymol visualization, run: `pymol src/waal-analysis/make-pymol-visualization.py`
 
 To open in pymol, run `pymol data/waal/MSA_CAZy_family/pymol-visualization.pml`.
@@ -294,19 +306,22 @@ To open in pymol, run `pymol data/waal/MSA_CAZy_family/pymol-visualization.pml`.
 `mafft data/eca-pol/eca-pol.fasta > data/eca-pol/eca-pol_mafft.fa`
 
 ### Get list of accessions
-From Garry's hr1 tree of reblasted ECA-Pols (https://itol.embl.de/tree/1923890169486281673015321), the biggest clade was selected and "Copy leaf labels", the labels were pasted into `data/eca-pol/MSA_CAZy_family/accessions_clade1`.
+From Garry's hr1 tree of reblasted ECA-Pols (https://itol.embl.de/tree/1923890169486281673015321), the biggest clade was selected and the labels were copied ("Copy leaf labels") and pasted into `data/eca-pol/MSA_CAZy_family/accessions_clade1`.
 
 A fasta file with all the reblasting hits was obtained from Garry (length-filtered 400-520):
 `data/eca-pol/MSA_CAZy_family/reblast_hits.fasta`
 
-Make fasta with accessions from clade1: `python src/eca-pol-analysis/make-fasta-accessions-include.py`
+A fasta file with only the sequences from clade1 was generated by running: `python src/eca-pol-analysis/make-fasta-accessions-include.py`
 
-This will generate the file `data/eca-pol/MSA_CAZy_family/clade1.fasta`
+This generates the file `data/eca-pol/MSA_CAZy_family/clade1.fasta`
 
-# Pruning
+### Pruning
 This set of sequences was pruned manually into `data/eca-pol/MSA_CAZy_family/clade1-pruned.fa`.
 
 A new alignment for the pruned set was made by: `mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 7 --reorder data/eca-pol/MSA_CAZy_family/clade1-pruned.fa > data/eca-pol/MSA_CAZy_family/clade1-pruned-mafft.fa`.
+
+### Generation of CAZy family
+The file `data/eca-pol/MSA_CAZy_family/clade1-pruned-mafft.fa` was sent to Vincent and he created a new HMM for family X586 (called Ida, I think).
 
 ### Build HMM
 `hmmbuild data/eca-pol/MSA_CAZy_family/clade1-pruned-mafft.hmm data/eca-pol/MSA_CAZy_family/clade1-pruned-mafft.fa`
@@ -360,10 +375,10 @@ Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-po
 
 `python src/ssn-clustering/cluster/get-clusters.py [timestamp] [expansion-threshold] [ssn-threshold] eca-pol`
 
-### Prepare list of accessions for CAZy
+### Prepare list of accessions for CAZy (this was not used)
 `python src/genbank-search/filter-hits.py eca-pol 1e-60`. This creates the file `data/eca-pol/genbank-search/hits-1e-40.txt` with accessions to include in the CAZy family.
 
-### Make MSA for CAZy family
+### Make MSA for CAZy family (this was not used)
 Copy accession list to HPC: `scp -r data/eca-pol/genbank-search/hits-1e-40.txt idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/MSA_CAZy_family`
 
 To get the fasta file, run on the HPC:
@@ -377,7 +392,7 @@ Redundancy reduce: `cd-hit -i data/eca-pol/MSA_CAZy_family/hits-1e-40.fa -o data
 
 Run mafft: `mafft  --maxiterate 1000 --localpair --leavegappyregion data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit95.fa > data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit99_mafft.fa`
 
-### Make Pymol visualization
+### Make Pymol visualization (update with new MSA)
 To make the pymol visualization, run: `python src/eca-pol-analysis/make-pymol-visualization.py [conservation_threshold]`
 
 To open in pymol, run: `pymol data/eca-pol/MSA_CAZy_family/pymol-visualization-[conservation_threshold].pml`.
