@@ -201,6 +201,9 @@ To parse the genbank hmm search, run: `python src/genbank-search/parse-hmm-searc
 ### Generation of CAZy families
 The superclustering run `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051` was used for generating the families. However, along the way of pruning the sueprclusters, we decided that 160 was a better threshold. Instead of redoing the pruning with a new superclustering, we kept going with this one and just removed SSN clusters connected only by edges <106. A list of the alignments for each family including which SSN clusters were removed, is found in `references.md` under "# CAZy families".
 
+### Seed CAZy search
+The list of Wzy seeds (`data/wzy/wzy.fasta`) was scanned against the CAZy families by Bernard. The output file is saved in `data/wzy/seed-cazy-search/seeds_newhmm.txt`.
+
 ## WaaL
 
 ### Make seed MSA
@@ -281,24 +284,10 @@ Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/a
 ### Prepare list of accessions for CAZy (this was not used)
 `python src/genbank-search/filter-hits.py waal 6e-23`. This will create the file `data/waal/genbank-search/hits-6e-23.txt`.
 
-### Make MSA for CAZy family (this was not used)
-Copy accession list to HPC: `scp -r data/waal/genbank-search/hits-6e-23.txt idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/MSA_CAZy_family`
+### Pymol visualization
+To make the pymol visualization, run: `pymol src/waal-analysis/make-pymol-visualization.py [threshold]`
 
-To get the fasta file, run on the HPC:
-`qrsh`
-(change BLASTDB to this in `~/.bashrc`: `export BLASTDB=/work3/garryg/blast/db-`)
-`blastdbcmd -db genbank -entry_batch /work3/idamei/waal/MSA_CAZy_family/hits-6e-23.txt > /work3/idamei/waal/MSA_CAZy_family/hits-6e-23.fa`
-
-Download fasta file: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/MSA_CAZy_family/hits-6e-23.fa data/waal/MSA_CAZy_family`
-
-Redundancy reduce: `cd-hit -i data/waal/MSA_CAZy_family/hits-6e-23.fa -o data/waal/MSA_CAZy_family/hits-6e-23-cdhit95.fa -c 0.95`
-
-Run mafft: `mafft  --maxiterate 1000 --localpair --leavegappyregion --thread 7 --reorder data/waal/MSA_CAZy_family/hits-6e-23-cdhit95.fa > data/waal/MSA_CAZy_family/hits-6e-23-cdhit99_mafft.fa`
-
-### Pymol visualization (update with new MSA)
-To make the pymol visualization, run: `pymol src/waal-analysis/make-pymol-visualization.py`
-
-To open in pymol, run `pymol data/waal/MSA_CAZy_family/pymol-visualization.pml`.
+To open in pymol, run `data/waal/final_family/pymol-visualization-[threshold].pml`.
 
 ## ECA-Pol
 
@@ -375,24 +364,23 @@ Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-po
 
 `python src/ssn-clustering/cluster/get-clusters.py [timestamp] [expansion-threshold] [ssn-threshold] eca-pol`
 
-### Prepare list of accessions for CAZy (this was not used)
-`python src/genbank-search/filter-hits.py eca-pol 1e-60`. This creates the file `data/eca-pol/genbank-search/hits-1e-40.txt` with accessions to include in the CAZy family.
-
-### Make MSA for CAZy family (this was not used)
-Copy accession list to HPC: `scp -r data/eca-pol/genbank-search/hits-1e-40.txt idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/MSA_CAZy_family`
-
-To get the fasta file, run on the HPC:
-`qrsh`
-(change BLASTDB to this in `~/.bashrc`: `export BLASTDB=/work3/garryg/blast/db-`)
-`blastdbcmd -db genbank -entry_batch /work3/idamei/eca-pol/MSA_CAZy_family/hits-1e-40.txt > /work3/idamei/eca-pol/MSA_CAZy_family/hits-1e-40.fa`
-
-Download fasta file: `scp -r idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-pol/MSA_CAZy_family/hits-1e-40.fa data/eca-pol/MSA_CAZy_family`
-
-Redundancy reduce: `cd-hit -i data/eca-pol/MSA_CAZy_family/hits-1e-40.fa -o data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit95.fa -c 0.95`
-
-Run mafft: `mafft  --maxiterate 1000 --localpair --leavegappyregion data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit95.fa > data/eca-pol/MSA_CAZy_family/hits-1e-40-cdhit99_mafft.fa`
-
 ### Make Pymol visualization (update with new MSA)
 To make the pymol visualization, run: `python src/eca-pol-analysis/make-pymol-visualization.py [conservation_threshold]`
 
 To open in pymol, run: `pymol data/eca-pol/MSA_CAZy_family/pymol-visualization-[conservation_threshold].pml`.
+
+## RodA
+A fasta file of family X571 (RodA) was downloaded with "Fetch fasta" (Fields ticked: "Public Sequences", "Add Frags,Splicing" and "Add (0-0) Sequences"). It is located in `data/roda/cazyX571.fa`.
+
+It was redundancy reduced: `cd-hit -i data/roda/cazyX571.fa -o data/roda/cazyX571-cdhit0.8.fa -c 0.8`.
+
+And an alignments was made `mafft  --maxiterate 1000 --localpair --leavegappyregion --reorder --thread 7 data/roda/cazyX571-cdhit0.8.fa > data/roda/cazyX571-cdhit0.8-mafft.fa`.
+
+## Comparison of families
+All fastas of the families were copied to `data/hhblits_cazy_families/fastas`.
+
+All MSAs were copied to `data/hhblits_cazy_families/msa`.
+
+To run the hhblits comparisons, run: `sh src/compare-cazy-families/make-hhblits-db.sh`.
+
+The output files are in `data/hhblits_cazy_families/output`.
