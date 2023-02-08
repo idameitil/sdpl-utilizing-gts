@@ -1,0 +1,164 @@
+Query         AHB32715.1
+Match_columns 968
+No_of_seqs    780 out of 780
+Neff          3.77718
+Searched_HMMs 14
+Date          Tue Feb  7 09:10:22 2023
+Command       hhblits -cpu 4 -i data/hhblits_cazy_families/msa/sequences-cdhit0.90-pruned-mafft.fa -d data/hhblits_cazy_families/hhblits_cazy_families -o data/hhblits_cazy_families/output/sequences-cdhit0.90-pruned-mafft.fa.hhr -n 1 
+
+ No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
+  1 AHB32715.1                      99.9 1.1E-35 9.3E-38  304.8   0.0  111  246-418    81-191 (383)
+  2 AAA92024.1 rffT, partial [Salm   2.5     1.8   0.019   29.8   0.0   62  282-368   172-233 (479)
+  3 AAX07747.1 O antigen polymeras   0.8     7.5   0.072   24.5   0.0   24  276-299   134-157 (445)
+  4 AAT77177.1 Wzy [Escherichia co   0.7       9   0.086   24.1   0.0   18  282-299   131-148 (479)
+  5 AAL82786.1 putative polysaccha   0.2      30    0.26   19.2   0.0   31  100-136   245-275 (463)
+  6 AAA92024.1 rffT, partial [Salm   0.2      28    0.29   19.7   0.0    6  396-401   201-206 (479)
+  7 AAA24524.1 rfaL [Escherichia c   0.2      35     0.3   18.7   0.0    6  773-778   420-425 (482)
+  8 AAM27546.1 ORF_12 [Pseudomonas   0.2      34    0.31   19.0   0.0   27  339-368   241-267 (516)
+  9 ACA24754.1 Wzy [Shigella boydi   0.2      38    0.34   18.2   0.0   22  389-412   224-245 (451)
+ 10 AAA97573.1 O-antigen polymeras   0.2      42    0.37   18.0   0.0   15  396-412   241-255 (482)
+
+No 1
+>AHB32715.1
+Probab=99.95  E-value=1.1e-35  Score=304.81  Aligned_cols=111  Identities=43%  Similarity=0.774  Sum_probs=103.1  Template_Neff=8.200
+
+Q AHB32715.1       72 EYGYQLLDSIILN-F----SH-----N---YF----WLFFITSFFIVTFYLTTI------K-----KLSE-N--------  114 (346)
+Q Consensus       246 EPGF~lL~~I~~~~L~~~~g~~~~~~~~~~~~~~~~~VFfI~AfI~v~~l~~~i~~~~~~k~~~~~K~~~~~~~~~~~~~  325 (968)
+                      ||||.+++++++. +    +.     |   ++    ++++++|++++.++++++      +     |.++ +        
+T Consensus        81 Epgf~~l~~i~~~-l----~~-----~---~~----~~~~~~a~i~~~~~~~~~------~-----k~~~-~--------  123 (383)
+T AHB32715.1_con   81 EPGFYLLNYIFSF-L----GL-----G---YQ----FVFFIYAFIFVFFLFKFI------K-----KYSP-S--------  123 (383)
+Confidence            9999999999999 8    77     7   99    999999999999999999      7     6655 4        
+
+
+Q AHB32715.1      115 -YIF-SIFIYIT-FGFYTFAFNGLRQGI--AMAICFFAL-PFM-L--E-R--K---F-FKY----LLFI-LFSSLF-HVA  172 (346)
+Q Consensus       326 ~p~L~slllyf~~~~fy~~smnqIRQgI~~AIAI~LlAl~~yL~~~~e~k~~K~~~~~~Kf~~~~iI~I~LLAsLF~H~S  405 (968)
+                       +++ +++++++ .+++.+++||+|||+  |+|++++|+ .++ .  | |  |   + +|+    ++++ ++|++| |.|
+T Consensus       124 -~~l-~~~i~~~-~~~~~~~~~qIRQ~i--Aiai~l~a~-~~l-~--~-~--k---~-~k~----~~~i-llA~lF-H~S  181 (383)
+T AHB32715.1_con  124 -PWL-SLLIYFS-YFFYVHSMNQIRQGI--AIAIFLLAL-KYL-I--E-K--K---K-KKF----IIFI-LLASLF-HKS  181 (383)
+Confidence             888 9999999 999999999999999  999999999 999 6  5 5  5   6 899    9999 999999 999
+
+
+Q AHB32715.1      173 SLI-MLF--FYFL  182 (346)
+Q Consensus       406 ALI~~Lp~~fyfL  418 (968)
+                      |++ ++|  ++++
+T Consensus       182 Ali-~l~--~~~l  191 (383)
+T AHB32715.1_con  182 ALI-FLP--FYFL  191 (383)
+Confidence            999 999  8888
+
+
+No 2
+>AAA92024.1 rffT, partial [Salmonella enterica subsp. enterica serovar Typhimurium]
+Probab=2.47  E-value=1.8  Score=29.77  Aligned_cols=62  Identities=13%  Similarity=0.146  Sum_probs=40.0  Template_Neff=4.900
+
+Q AHB32715.1       91 WLFFITSFFIVTFYLTTI------K-----KLSE-N---------YIF-SIFIYIT-FGFYTFAFNGLRQGI--AMAICF  145 (346)
+Q Consensus       282 ~VFfI~AfI~v~~l~~~i~~~~~~k~~~~~K~~~~~~~~~~~~~~p~L~slllyf~~~~fy~~smnqIRQgI~~AIAI~L  361 (968)
+                      ...+.++++-...+.++.      +     +.++ .         .+. ++.+-+..........+..||-+  |+|+++
+T Consensus       172 lkrffYfFIPA~lv~~f~------~-----~sk~-~---------w~~-~l~~tv~fG~ltY~vvGGtRanl--~~A~~l  227 (479)
+T AAA92024.1_con  172 LKRFFYFFIPAMLVVYFL------K-----PTKR-A---------WLL-FLVSTVAFGLLTYVIVGGTRANI--IIAFAL  227 (479)
+Confidence            455666777666666666      3     2211 1         333 33333332567788899999999  999998
+
+
+Q AHB32715.1      146 FAL-PFM  151 (346)
+Q Consensus       362 lAl~~yL  368 (968)
+                      +.+ .-+
+T Consensus       228 fl~-Ig~  233 (479)
+T AAA92024.1_con  228 FLF-IGI  233 (479)
+Confidence            888 666
+
+
+No 3
+>AAX07747.1 O antigen polymerase [Escherichia coli]
+Probab=0.78  E-value=7.5  Score=24.51  Aligned_cols=24  Identities=13%  Similarity=0.200  Sum_probs=17.3  Template_Neff=5.900
+
+Q AHB32715.1       89 YF----WLFFITSFFIVTFYLTTI  108 (346)
+Q Consensus       276 ~~~~~~~VFfI~AfI~v~~l~~~i  299 (968)
+                      ..+.|.++....+++++...+.++
+T Consensus       134 IPt~Hv~l~t~~sf~si~~f~~yl  157 (445)
+T AAX07747.1_con  134 IPTFHVILNTFNSFYSIYLFYLYL  157 (445)
+Confidence            555666777777777777777777
+
+
+No 4
+>AAT77177.1 Wzy [Escherichia coli]
+Probab=0.66  E-value=9  Score=24.08  Aligned_cols=18  Identities=17%  Similarity=0.228  Sum_probs=8.1  Template_Neff=5.900
+
+Q AHB32715.1       91 WLFFITSFFIVTFYLTTI  108 (346)
+Q Consensus       282 ~VFfI~AfI~v~~l~~~i  299 (968)
+                      ..+.+.+++++..+.+.+
+T Consensus       131 ~~l~~ls~is~~~v~Y~~  148 (479)
+T AAT77177.1_con  131 LILLLLSIISLLSVLYTF  148 (479)
+Confidence            334444444444444444
+
+
+No 5
+>AAL82786.1 putative polysaccharide polymerase Cps6aI [Streptococcus pneumoniae]
+Probab=0.23  E-value=30  Score=19.22  Aligned_cols=31  Identities=35%  Similarity=0.432  Sum_probs=21.1  Template_Neff=7.500
+
+Q AHB32715.1       29 IPSFFLILLSSLRSNIV-G------TDSR-TY-TLAY   56 (346)
+Q Consensus       100 i~~LiL~L~AGLRy~~V~G~~~~~~tDy~~nY~l~if  136 (968)
+                      .++++++++..+|.. + | |..+. |-. .| ...|
+T Consensus       245 ~~~i~~~~F~~~~~l-~-G-r~~~~-~~~-~y-is~Y  275 (463)
+T AAL82786.1_con  245 IIIIFFILFYLLRSL-V-G-RSSSS-SFF-DY-ISIY  275 (463)
+Confidence            567778888889998 7 8 33222 556 66 6666
+
+
+No 6
+>AAA92024.1 rffT, partial [Salmonella enterica subsp. enterica serovar Typhimurium]
+Probab=0.21  E-value=28  Score=19.71  Aligned_cols=6  Identities=17%  Similarity=0.296  Sum_probs=2.6  Template_Neff=4.900
+
+Q AHB32715.1      164 LFSSLF  169 (346)
+Q Consensus       396 LLAsLF  401 (968)
+                      +++..|
+T Consensus       201 ~~tv~f  206 (479)
+T AAA92024.1_con  201 VSTVAF  206 (479)
+Confidence            444444
+
+
+No 7
+>AAA24524.1 rfaL [Escherichia coli]
+Probab=0.20  E-value=35  Score=18.68  Aligned_cols=6  Identities=17%  Similarity=0.003  Sum_probs=2.9  Template_Neff=7.500
+
+Q AHB32715.1      284 GPQRIF  289 (346)
+Q Consensus       773 ia~RIs  778 (968)
+                      ...+..
+T Consensus       420 ~~~~~~  425 (482)
+T AAA24524.1_con  420 EHNNIN  425 (482)
+Confidence            444555
+
+
+No 8
+>AAM27546.1 ORF_12 [Pseudomonas aeruginosa]
+Probab=0.20  E-value=34  Score=19.02  Aligned_cols=27  Identities=11%  Similarity=0.204  Sum_probs=20.5  Template_Neff=6.900
+
+Q AHB32715.1      125 FGFYTFAFNGLRQGI--AMAICFFAL-PFM  151 (346)
+Q Consensus       339 ~~fy~~smnqIRQgI~~AIAI~LlAl~~yL  368 (968)
+                      .......+.+-|.+.  ..+++++-. .+.
+T Consensus       241 ~~~~~~il~G~R~~~--it~lL~liw-~y~  267 (516)
+T AAM27546.1_con  241 INSLLSILTGSRGPF--ITSLLFLIW-IYF  267 (516)
+Confidence            345677888999999  777777777 665
+
+
+No 9
+>ACA24754.1 Wzy [Shigella boydii]
+Probab=0.18  E-value=38  Score=18.15  Aligned_cols=22  Identities=23%  Similarity=0.395  Sum_probs=13.5  Template_Neff=7.100
+
+Q AHB32715.1      160 --LLFI-LFSSLF-HVASLI-MLF  178 (346)
+Q Consensus       389 ~~iI~I~LLAsLF~H~SALI~~Lp  412 (968)
+                      ++.+++ ++|.++.=.|+++ ..+
+T Consensus       224 ~~~~li-~i~~~~~GRT~~v-g~~  245 (451)
+T ACA24754.1_con  224 ILFFLI-LIGGLFSGRTGLV-GSV  245 (451)
+Confidence            334555 5555555788888 555
+
+
+No 10
+>AAA97573.1 O-antigen polymerase [Pseudomonas aeruginosa]
+Probab=0.16  E-value=42  Score=17.96  Aligned_cols=15  Identities=27%  Similarity=0.268  Sum_probs=9.8  Template_Neff=7.000
+
+Q AHB32715.1      164 LFSSLF-HVASLI-MLF  178 (346)
+Q Consensus       396 LLAsLF~H~SALI~~Lp  412 (968)
+                      +.++.= |+|+++ ..+
+T Consensus       241 lf~~~g-~Ks~lf-~~~  255 (482)
+T AAA97573.1_con  241 LFMITG-HKSVFF-SPF  255 (482)
+Confidence            344455 999998 444
+
+
