@@ -32,7 +32,7 @@ def read_MSA_file(MSA_filename):
         fasta_dict = {protein.id: protein.seq for protein in proteins}
     return fasta_dict
 
-def get_conserved_residues(fasta_dict, threshold=0.95, include_aliphatic=True):
+def get_conserved_residues(fasta_dict, threshold=0.95, include_aliphatic=False, do_print=False):
     if include_aliphatic:
         AAs_ignore = ['-']
     else:
@@ -45,8 +45,9 @@ def get_conserved_residues(fasta_dict, threshold=0.95, include_aliphatic=True):
     frequencies = mode[1][0] / no_sequences
     condition = (frequencies > threshold) & (np.isin(mode_AAs, AAs_ignore, invert=True))
     conserved_AAs = mode_AAs[condition]
+    frequencies_conserved = frequencies[condition]
     conserved_positions = list(np.where(condition)[0])
-    return {pos: {'AA': AA, 'freq': freq} for pos, AA, freq in zip(conserved_positions, conserved_AAs, frequencies)}
+    return {pos: {'AA': AA, 'freq': freq} for pos, AA, freq in zip(conserved_positions, conserved_AAs, frequencies_conserved)}
 
 def get_specific_positions_conserved_residues(accession, conserved_residues, fasta_dict):
     """Gets positions of conserved residues in a specific protein"""
@@ -69,7 +70,8 @@ def get_specific_positions_conserved_residues(accession, conserved_residues, fas
 def get_conserved_positions_af_models(alphafold_models, conserved_residues, fasta_dict):
     conserved_positions_alphafold_models = {}
     for accession in alphafold_models:
-        conserved_positions_alphafold_models[accession] = get_specific_positions_conserved_residues(accession, conserved_residues, fasta_dict)
+        if accession in fasta_dict: #seeds may have been removed
+            conserved_positions_alphafold_models[accession] = get_specific_positions_conserved_residues(accession, conserved_residues, fasta_dict)
     return conserved_positions_alphafold_models
 
 def get_conserved_residues_string(conserved_residues):
@@ -252,7 +254,11 @@ class SSNClusterData:
         return f"{self.clusters_dir()}/{cluster_id}/{cluster_id}.hhr"
 
     def supercluster_MSA_filename(self, supercluster_id):
-        return f"{self.superclusters_dir()}/{supercluster_id}/sequences.afa"
+        CAZy_families = ['0260_4_5', '0144_2_14', '0141_1_28', '0134_4_6', '0118_1_30', '0128_1_29', '0284_3_9', '0342_13_2', '0540_8_3', '0171_6_4', '1085_39_1']
+        if supercluster_id in CAZy_families:
+            return f"{self.superclusters_dir()}/{supercluster_id}/final-mafft.fa"
+        else:
+            return f"{self.superclusters_dir()}/{supercluster_id}/sequences.afa"
 
     def supercluster_fasta_filename(self, supercluster_id):
         return f"{self.superclusters_dir()}/{supercluster_id}/sequences.fa"
@@ -493,6 +499,7 @@ class SSNClusterData:
 
     def load_supercluster_data(self, supercluster_id):
         supercluster_info = {}
+        supercluster_info['supercluster_id'] = supercluster_id
         [size, supercluster_info['count_clusters'], supercluster_info['name']] = supercluster_id.split('_')
         supercluster_info['size'] = int(size)
 
@@ -509,6 +516,8 @@ class SSNClusterData:
         
         if self.calculate_conserved_superclusters:
             supercluster_info['conserved_residues'] = get_conserved_residues(fasta_dict)
+            if supercluster_id == '0342_13_2':
+                supercluster_info['conserved_residues'] = get_conserved_residues(fasta_dict, do_print=True)
             supercluster_info['conserved_positions_af_models'] = get_conserved_positions_af_models(alphafold_models, supercluster_info['conserved_residues'], fasta_dict)
             supercluster_info['conserved_residues_string'] = get_conserved_residues_string(supercluster_info['conserved_residues'])
         
