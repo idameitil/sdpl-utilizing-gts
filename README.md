@@ -199,10 +199,19 @@ This will create `data/wzy/ssn-clusterings/2210171613/superclusterings/221019105
 To parse the genbank hmm search, run: `python src/genbank-search/parse-hmm-search.py wzy`. This will create `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/[supercluster_name]/hits-evalue.tsv`
 
 ### Generation of CAZy families
-The superclustering run `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051` was used for generating the families. However, along the way of pruning the sueprclusters, we decided that 160 was a better threshold. Instead of redoing the pruning with a new superclustering, we kept going with this one and just removed SSN clusters connected only by edges <106. A list of the alignments for each family including which SSN clusters were removed, is found in `references.md` under "# CAZy families".
+The superclustering run `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051` was used for generating the families. However, along the way of pruning the sueprclusters, we decided that 160 was a better threshold. Instead of redoing the pruning with a new superclustering, we kept going with this one and just removed SSN clusters connected only by edges <160. A list of the alignments for each family including which SSN clusters were removed, is found in `references.md` under "# CAZy families".
 
 ### Seed CAZy search
 The list of Wzy seeds (`data/wzy/wzy.fasta`) was scanned against the CAZy families by Bernard. The output file is saved in `data/wzy/seed-cazy-search/seeds_newhmm.txt`.
+
+The html stuff was removed from the file ('top <#top>    '): `data/wzy/seed-cazy-search/seeds_newhmm-cleaned.txt`.
+
+The HMM file was parsed with `pyhton src/wzy-seed-search/parse-hmm.py`, which created the file `data/wzy/seed-cazy-search/best_hmm_hits.tsv`.
+(before this the file `data/wzy/seed-cazy-search/hmm_hits.tsv` was generated).
+
+The fasta files were generated with efetch: `src/wzy-seed-search/efetch.sh`.
+
+Each fasta file was uploaded to muscle and the trees were saved in `data/wzy/seed-cazy-search/seeds-in-families`.
 
 ## WaaL
 
