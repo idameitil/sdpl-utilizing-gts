@@ -3,15 +3,15 @@ import sys
 sys.path.append("src/ssn-clustering")
 from common import read_MSA_file, get_conserved_residues, get_specific_positions_conserved_residues
 
-threshold = float(sys.argv[1])
+threshold = 0.999
 
 # Get conserved residues
-alignment_filename = "data/eca-pol/seeds-and-hits1e-60-cdhit99_mafft_maxit1000.fa"
+alignment_filename = "data/eca-pol/MSA_CAZy_family/clade1-pruned-including-AF-mafft.fa"
 fasta_dict = read_MSA_file(alignment_filename)
 conserved_residues = get_conserved_residues(fasta_dict, threshold=threshold)
 positions = get_specific_positions_conserved_residues('ACH50550.1', conserved_residues, fasta_dict)
 
-# Write pymol script
+# Make pymol string
 load_model_string = f"""
 load data/eca-pol/alphafold/ACH50550.1/ranked_0.pdb, ACH50550.1
 color 0xeeeeee, ACH50550.1
@@ -41,6 +41,7 @@ set cartoon_side_chain_helper, on
 set ray_trace_mode, 0
 """
 
+# Write to file
 pymol_script_path = f"data/eca-pol/MSA_CAZy_family/pymol-visualization-{threshold}.pml"
 with open (pymol_script_path, 'w') as outfile:
     outfile.write(script_string)
