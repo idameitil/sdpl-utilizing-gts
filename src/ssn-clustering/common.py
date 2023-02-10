@@ -32,7 +32,7 @@ def read_MSA_file(MSA_filename):
         fasta_dict = {protein.id: protein.seq for protein in proteins}
     return fasta_dict
 
-def get_conserved_residues(fasta_dict, threshold=0.95, include_aliphatic=False, do_print=False):
+def get_conserved_residues(fasta_dict, threshold=0.90, include_aliphatic=False):
     if include_aliphatic:
         AAs_ignore = ['-']
     else:
@@ -472,7 +472,7 @@ class SSNClusterData:
         fasta_dict = read_MSA_file(self.MSA_filename(cluster_id))
 
         if self.calculate_conserved:
-            cluster_info['conserved_residues'] = get_conserved_residues(fasta_dict)
+            cluster_info['conserved_residues'] = get_conserved_residues(fasta_dict, include_aliphatic=True)
             cluster_info['conserved_positions_af_models'] = get_conserved_positions_af_models(alphafold_models, cluster_info['conserved_residues'], fasta_dict)
             cluster_info['conserved_residues_string'] = get_conserved_residues_string(cluster_info['conserved_residues'])
         
@@ -515,9 +515,9 @@ class SSNClusterData:
         fasta_dict = read_MSA_file(self.supercluster_MSA_filename(supercluster_id))
         
         if self.calculate_conserved_superclusters:
-            supercluster_info['conserved_residues'] = get_conserved_residues(fasta_dict)
+            supercluster_info['conserved_residues'] = get_conserved_residues(fasta_dict, include_aliphatic=True)
             if supercluster_id == '0342_13_2':
-                supercluster_info['conserved_residues'] = get_conserved_residues(fasta_dict, do_print=True)
+                supercluster_info['conserved_residues'] = get_conserved_residues(fasta_dict, include_aliphatic=True)
             supercluster_info['conserved_positions_af_models'] = get_conserved_positions_af_models(alphafold_models, supercluster_info['conserved_residues'], fasta_dict)
             supercluster_info['conserved_residues_string'] = get_conserved_residues_string(supercluster_info['conserved_residues'])
         
