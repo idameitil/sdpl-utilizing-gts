@@ -1,10 +1,15 @@
+# Dali
+Search for structural homologs
+http://ekhidna2.biocenter.helsinki.fi/dali/
+
 # Undervisning Prebens kursus
-Installation etc: 1-2 timer
-Wed 25: 2 timer
+Installation etc January: 1-2 timer
+Wed 25/1: 2 timer
+Mon 30/2: (2t forelæsning), 2t konfrontation
 
 # CAZy families
 - X571, RodA (was made within the CAZy system by Bernie)
-- X586, ECA-Pol (`data/eca-pol/MSA_CAZy_family/clade1-pruned-mafft.fa`)
+- X586, ECA-Pol, retaining (`data/eca-pol/MSA_CAZy_family/clade1-pruned-mafft.fa`)
 - X605, 0260_4_5, inverting (`data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0260_4_5/0260_4_5.accs_pruned-mafft.fa`)
     - `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0260_4_5/ssn_clusters/0027_45-mafft.fa`
     - `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0260_4_5/ssn_clusters/0104_12-mafft.fa`
@@ -20,7 +25,7 @@ Wed 25: 2 timer
     - `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0134_4_6/ssn_clusters/0080_14-mafft.fa`
 - X609, 0118_1_30, inverting (`data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0118_1_30/0118_1_30.accs_pruned-mafft.fa`)
 - X610, 0128_1_29, retaining (`data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0128_1_29/0128_1_29.accs_pruned-mafft.fa`)
-- X611, 0282_3_9, retaining (`data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0284_3_9/0284_3_9.accs_pruned-mafft.fa`)
+- X611, 0284_3_9, retaining (`data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0284_3_9/0284_3_9.accs_pruned-mafft.fa`)
     - `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0284_3_9/ssn_clusters/0028_44-mafft.fa`
     - `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0284_3_9/ssn_clusters/0252_2-mafft.fa`
 - X612, 0342_13_2, retaining (`data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0342_13_2/0342_13_2-new-mafft.fa`)
@@ -39,11 +44,11 @@ Removed SSN clusters 75, 72, 60
     - `data/waal/final_family/final_subfamilies/subfamily2/accessions-pruned-mafft.fa`
     - `data/waal/final_family/final_subfamilies/subfamily3/accessions-pruned-mafft.fa`
     - `data/waal/final_family/final_subfamilies/subfamily4/accessions-pruned-mafft.fa`
-- X616, 1085_39_1 (SSN cluster 0221_4), inverting (`data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/0221_4/0221_4.accs_pruned-mafft.fa`)
-- X617, 1085_39_1 (SSN clusters 0250_3 and 0129_7), inverting (`data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/1085_39_1-final-mafft.fa`)
+- OLD X616, 1085_39_1 (SSN cluster 0221_4), inverting (`data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/0221_4/0221_4.accs_pruned-mafft.fa`)
+- OLD X617, 1085_39_1 (SSN clusters 0250_3 and 0129_7), inverting (`data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/1085_39_1-final-mafft.fa`)
     - `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/0250_3/0250_3.accs_pruned-mafft.fa`
     - `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/0129_7/0129_7.accs_pruned-mafft.fa`
-- new family, 1085_39_1 (complete) (`data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/sequences-cdhit0.90-pruned-mafft.fa`)
+- new X617, 1085_39_1 (complete) (`data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/sequences-cdhit0.90-pruned-mafft.fa`)
     - `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/0043_28/0043_28.accs_pruned-mafft.fa`
     - `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/0055_22/0055_22.accs-pruned-mafft.fa`
     - `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/0129_7/0129_7.accs_pruned-mafft.fa`
@@ -201,7 +206,7 @@ Two Wzys from E. coli O45 were removed 12 oct 2022:
 EHX11459.1 - it was very different from the other O45's and in Genbank it doesn't have a denoted serotype, whereas all the others do. However, it did end up in a cluster, and the sugars in that cluster look similar to CSDB sugar 2593, which is an alternative sugar of E. coli O45.
 CAN87666.1 - fragment and otherwise identical to the others.
 
-# Undervisning timer
+# Undervisning timer, Jespers kursus 2022
 11 oct: 2 timer
 13 Oct: 1,5 time
 14 Oct: 9 timer
