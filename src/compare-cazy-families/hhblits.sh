@@ -27,4 +27,4 @@ mv hhblits_cazy_families_hhm_ordered.ffdata hhblits_cazy_families_hhm.ffdata
 cd ../..
 
 # Run comparison
-python src/compare-cazy-families/run-hhblits-cazy-families.py
+python src/compare-cazy-families/run-hhblits.py

@@ -3,7 +3,7 @@ Match_columns 589
 No_of_seqs    118 out of 140
 Neff          4.47074
 Searched_HMMs 14
-Date          Tue Feb  7 09:09:36 2023
+Date          Tue Feb 14 09:52:15 2023
 Command       hhblits -cpu 4 -i data/hhblits_cazy_families/msa/0141_1_28.accs_pruned-mafft.fa -d data/hhblits_cazy_families/hhblits_cazy_families -o data/hhblits_cazy_families/output/0141_1_28.accs_pruned-mafft.fa.hhr -n 1 
 
  No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
@@ -15,7 +15,7 @@ Command       hhblits -cpu 4 -i data/hhblits_cazy_families/msa/0141_1_28.accs_pr
   6 AAA97573.1 O-antigen polymeras  97.6 3.5E-10 3.3E-12  103.6   0.0   62  452-515   361-422 (482)
   7 AAA24524.1 rfaL [Escherichia c  97.0 9.1E-09 8.2E-11   92.4   0.0  120  385-529   311-430 (482)
   8 AAM27546.1 ORF_12 [Pseudomonas  95.5 1.7E-06 1.5E-08   75.6   0.0   18  188-205   165-182 (516)
-  9 cazy201071 Kfla_2886 [Kribbell  91.4 7.9E-05 9.2E-07   66.3   0.0   80  457-537   841-937 (1421)
+  9 cazy4533116|0-0|X571 MYA98_243  91.9 6.9E-05 7.1E-07   70.2   0.0   94  387-512   988-1081(1766)
  10 AAX07747.1 O antigen polymeras  86.5 0.00046 4.5E-06   55.5   0.0   75  457-536   326-400 (445)
  11 AAL82786.1 putative polysaccha  84.5 0.00077   7E-06   53.8   0.0   61  457-519   341-402 (463)
  12 AAT77177.1 Wzy [Escherichia co  80.3  0.0014 1.4E-05   52.3   0.0   84  433-537   354-445 (479)
@@ -229,23 +229,23 @@ Confidence            555555555655555555
 
 
 No 9
->cazy201071 Kfla_2886 [Kribbella flavida DSM 17836] [(20-420)X571]
-Probab=91.38  E-value=7.9e-05  Score=66.33  Aligned_cols=80  Identities=20%  Similarity=0.190  Sum_probs=49.0  Template_Neff=3.000
+>cazy4533116|0-0|X571 MYA98_24375 [Salmonella sp. WGH-01]
+Probab=91.87  E-value=6.9e-05  Score=70.21  Aligned_cols=94  Identities=17%  Similarity=0.203  Sum_probs=57.0  Template_Neff=5.000
 
-Q CAI34124.1      328 YPMIFA-QFGFLGGILYVFLLLDYFRLLLRVASI--NDKVIKTSVFIYIFNVVLSSIQSS-----------------YPG  387 (411)
-Q Consensus       457 WPmIiG-QfG~iG~ilyl~il~~ifk~i~~~~~~~~~~~~~~~a~l~i~~yllIsS~aes----------------~~f~  519 (589)
-                      ...|++ ++|++|.++-+..+..+.+...+...+..+....+ ....+...+++..++|=                ++..
-T Consensus       841 IFAIIGEELGFIGallVLlLF~lLa~rG~RIA~Ra~D~F~RL-LAaGITawIv~QAfINIGvVtGLLPVTGVPLPFISYG  919 (1421)
-T cazy201071_con  841 IFAIIGEELGFIGALLVLLLFFLLIWRGLRIALRAKDPFGRL-LAAGITSWIGFQAFINIGVVTGLLPVTGVPLPFISYG  919 (1421)
-Confidence            667776 79999999998888888888887433321444444 44455555554444431                0112
+Q CAI34124.1      268 LTLFKYGMLTMRRYFPLGSGFATYGSDIAA--KNYSLLYYQYGF--HNRYGMN-P---YD-IRF-LNDNFYPMIFAQFGF  337 (411)
+Q Consensus       387 ~~L~~~g~~IA~~yFPfGSGFgTFGS~~S~~~~~YSpLYy~YG~~~~~vwGLs~~~~~~~~~~F~L~DtFWPmIiGQfG~  466 (589)
+                      ..|...++.+..+-=.||.|+|.-..              ++|+        = |   +.     =||--...+--++|+
+T Consensus       988 GYQi~Qsl~AIgsGGl~G~GlG~G~~--------------K~~~--------L-P---eA-----~TDFIFAvIgEElGl 1036 (1766)
+T cazy4533116|0-  988 GYQIIQSLIAIGSGGLFGKGLGNGTQ--------------KLGY--------L-P---EA-----HTDFIFAVIGEEFGF 1036 (1766)
+Confidence            35666667777777788888876321              1111        2 2   11     244457788889999
 
 
-Q CAI34124.1      388 TNSMVITTFLICLILRYS  405 (411)
-Q Consensus       520 n~~gv~~~~~l~i~~~~~  537 (589)
-                      ..+-+..++.++++++..
-T Consensus       920 GSSLIiTLiAIGLLLNIA  937 (1421)
-T cazy201071_con  920 GSSLLITLIAIGILLNIS  937 (1421)
-Confidence            233344555677888877
+Q CAI34124.1      338 LGGILYVFLLLDYFRLLLRVASI--NDKVIKTSVFIYIFNVVLSSI  381 (411)
+Q Consensus       467 iG~ilyl~il~~ifk~i~~~~~~~~~~~~~~~a~l~i~~yllIsS~  512 (589)
+                      +|.++.++.++.++.+..+...+..+....+ .+..+...+.+..+
+T Consensus      1037 iG~l~VllL~~lLi~r~l~iA~~a~d~F~~l-La~Gi~~~i~~Qa~ 1081 (1766)
+T cazy4533116|0- 1037 IGALLVLLLYLLLIYRGLRIARRAKDPFGRL-LAIGIASMIFFQAF 1081 (1766)
+Confidence            9999999988888888888433321344444 44444444444433
 
 
 No 10

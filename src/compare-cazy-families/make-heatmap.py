@@ -12,7 +12,7 @@ acc2name = {'AAL82786.1':'x612_O-Pol_ret', 'AHB32715.1':'x617_O-Pol_inv', 'cazy2
     'AAN64568.1':'x613_O-Pol_inv', 'AAA24524.1':'x615_O-Lig_inv', 'ACA24754.1':'x605_O-Pol_inv',\
     'CAI34124.1':'x607_O-Pol_inv', 'AAM27615.1':'x614_O-Pol_inv', 'AAA97573.1':'x611_O-Pol_ret',\
     'AAA92024.1':'x586_ECA-Pol_ret', 'AAM27546.1':'x608_O-Pol_ret', 'AAT77177.1':'x606_O-Pol_ret',\
-    'AAX07747.1':'x610_O-Pol_ret'}
+    'AAX07747.1':'x610_O-Pol_ret', 'cazy4533116|0-0|X571':'x571_RodA'}
 
 mydict = dict()
 for filename in hhr_filenames:
@@ -28,7 +28,7 @@ for filename in hhr_filenames:
 
 df = pd.DataFrame.from_dict(mydict)
 
-order = ['x615_O-Lig_inv', 'x617_O-Pol_inv', 'x609_O-Pol_inv', 'x613_O-Pol_inv', 'x605_O-Pol_inv', 'x607_O-Pol_inv', 'x614_O-Pol_inv',\
+order = ['x571_RodA', 'x615_O-Lig_inv', 'x617_O-Pol_inv', 'x609_O-Pol_inv', 'x613_O-Pol_inv', 'x605_O-Pol_inv', 'x607_O-Pol_inv', 'x614_O-Pol_inv',\
     'x612_O-Pol_ret', 'x611_O-Pol_ret', 'x608_O-Pol_ret', 'x606_O-Pol_ret', 'x610_O-Pol_ret', 'x586_ECA-Pol_ret']
 df = df.loc[order, order]
 

@@ -3,7 +3,7 @@ Match_columns 668
 No_of_seqs    739 out of 1293
 Neff          5.11758
 Searched_HMMs 14
-Date          Tue Feb  7 09:09:44 2023
+Date          Tue Feb 14 09:52:32 2023
 Command       hhblits -cpu 4 -i data/hhblits_cazy_families/msa/ligase-mafft.fa -d data/hhblits_cazy_families/hhblits_cazy_families -o data/hhblits_cazy_families/output/ligase-mafft.fa.hhr -n 1 
 
  No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
@@ -13,10 +13,10 @@ Command       hhblits -cpu 4 -i data/hhblits_cazy_families/msa/ligase-mafft.fa -
   4 CAI34124.1 oligosaccharide rep  97.2 2.9E-09 2.9E-11   98.2   0.0  134  431-599   282-418 (468)
   5 AAN64568.1 polysaccharide poly  97.0   1E-08 9.7E-11   93.1   0.0   72  509-599   319-390 (437)
   6 ACA24754.1 Wzy [Shigella boydi  95.2 2.6E-06 2.4E-08   74.5   0.0   32  509-542   345-376 (451)
-  7 cazy201071 Kfla_2886 [Kribbell  91.7 6.8E-05   8E-07   67.7   0.0   64  443-549   809-874 (1421)
-  8 AAM27546.1 ORF_12 [Pseudomonas  91.6 8.6E-05 8.3E-07   63.4   0.0   37  301-338   233-269 (516)
-  9 AAL82786.1 putative polysaccha  91.2 0.00011 9.9E-07   61.8   0.0   38  302-340   189-226 (463)
- 10 AAA97573.1 O-antigen polymeras  90.1 0.00017 1.6E-06   60.6   0.0   37  301-338   229-265 (482)
+  7 AAM27546.1 ORF_12 [Pseudomonas  91.6 8.6E-05 8.3E-07   63.4   0.0   37  301-338   233-269 (516)
+  8 AAL82786.1 putative polysaccha  91.2 0.00011 9.9E-07   61.8   0.0   38  302-340   189-226 (463)
+  9 AAA97573.1 O-antigen polymeras  90.1 0.00017 1.6E-06   60.6   0.0   37  301-338   229-265 (482)
+ 10 cazy4533116|0-0|X571 MYA98_243  86.1 0.00047   5E-06   64.1   0.0   66  441-549   992-1059(1766)
  11 AAT77177.1 Wzy [Escherichia co  77.3   0.002   2E-05   52.0   0.0   38  298-336   212-249 (479)
  12 AAX07747.1 O antigen polymeras  66.4  0.0054 5.5E-05   48.0   0.0   66  511-589   324-389 (445)
 
@@ -213,26 +213,6 @@ Confidence            4566888999999 9999 666666666555554
 
 
 No 7
->cazy201071 Kfla_2886 [Kribbella flavida DSM 17836] [(20-420)X571]
-Probab=91.65  E-value=6.8e-05  Score=67.67  Aligned_cols=64  Identities=16%  Similarity=0.211  Sum_probs=49.3  Template_Neff=3.000
-
-Q AAA24524.1      295 GLNIFIKSPFSFTSAESRAESMNLLVAEHN------RLRGAL----EF-SNVH-------------LHNEIIERGS--LK  348 (419)
-Q Consensus       443 Al~~i~e~Pi~G~G~g~~~~~i~~l~~~~~~~~~~~~~~~~l~~~~~~~~~~H~~~~~w~~~~~~gaHN~yL~~la--~~  520 (668)
-                      ++-++.+-=|+|.|.|+-.....++                          ..             +||||+-...  |.
-T Consensus       809 Sl~ALASGGLFGvGLGqSrQKw~YL--------------------------PE-------------AHNDFIFAIIGEEL  849 (1421)
-T cazy201071_con  809 SLIAIGSGGLFGVGLGNSRQKLGYL--------------------------PE-------------AHTDFIFAIIGEEL  849 (1421)
-Confidence            4456667779999999876644433                          33             8999876554  69
-
-
-Q AAA24524.1      349 G-LMGI-FSTLFLYFSLFYIAY--K----  369 (419)
-Q Consensus       521 G~I~GL~l~lL~l~~~~l~~~~~~r~~~~  549 (668)
-                      | ++|. ++++++|+..++..+  +..++
-T Consensus       850 G-FIGa-llVLlLF~lLa~rG~--RIA~R  874 (1421)
-T cazy201071_con  850 G-FIGA-LLVLLLFFLLIWRGL--RIALR  874 (1421)
-Confidence            9 9999 999999999999999  87644
-
-
-No 8
 >AAM27546.1 ORF_12 [Pseudomonas aeruginosa]
 Probab=91.57  E-value=8.6e-05  Score=63.37  Aligned_cols=37  Identities=11%  Similarity=-0.054  Sum_probs=30.6  Template_Neff=6.900
 
@@ -244,7 +224,7 @@ T AAM27546.1_con  233 KIFLFILI-INSLLSILTGSRGPFITSLLFLIWIYFNN  269 (516)
 Confidence            36666777 78899999999999999998888887733
 
 
-No 9
+No 8
 >AAL82786.1 putative polysaccharide polymerase Cps6aI [Streptococcus pneumoniae]
 Probab=91.21  E-value=0.00011  Score=61.76  Aligned_cols=38  Identities=13%  Similarity=0.019  Sum_probs=32.4  Template_Neff=7.500
 
@@ -256,7 +236,7 @@ T AAL82786.1_con  189 LLLIPIL-LYIIQSILTGGRSPILRLIIAILIIYYILYK  226 (463)
 Confidence            5677777 8999999999999999999988888876653
 
 
-No 10
+No 9
 >AAA97573.1 O-antigen polymerase [Pseudomonas aeruginosa]
 Probab=90.07  E-value=0.00017  Score=60.56  Aligned_cols=37  Identities=14%  Similarity=-0.151  Sum_probs=30.3  Template_Neff=7.000
 
@@ -266,6 +246,26 @@ Q Consensus       301 ~l~ll~~l~l~l~alllT~SRGawLAlpv~~~~ll~~~  338 (668)
 T Consensus       229 ~~~~l~i~-~~lllf~~~g~Ks~lf~~~lv~~~y~~~~  265 (482)
 T AAA97573.1_con  229 LLVLLGIL-GQLLLFMITGHKSVFFSPFLIIGFYFFFR  265 (482)
 Confidence            36677777 78888899999999999988888887733
+
+
+No 10
+>cazy4533116|0-0|X571 MYA98_24375 [Salmonella sp. WGH-01]
+Probab=86.13  E-value=0.00047  Score=64.08  Aligned_cols=66  Identities=18%  Similarity=0.251  Sum_probs=46.9  Template_Neff=5.000
+
+Q AAA24524.1      293 EIGLNIFIKSPFSFTSAESRAESMNLLVAEHN------RLRGAL----EF-SNVH-------------LHNEIIER--GS  346 (419)
+Q Consensus       441 ~sAl~~i~e~Pi~G~G~g~~~~~i~~l~~~~~~~~~~~~~~~~l~~~~~~~~~~H~~~~~w~~~~~~gaHN~yL~~--la  518 (668)
+                      ..++.++..-=|+|.|.|+-.....++                          ..             +||||+-.  --
+T Consensus       992 ~Qsl~AIgsGGl~G~GlG~G~~K~~~L--------------------------Pe-------------A~TDFIFAvIgE 1032 (1766)
+T cazy4533116|0-  992 IQSLIAIGSGGLFGKGLGNGTQKLGYL--------------------------PE-------------AHTDFIFAVIGE 1032 (1766)
+Confidence            345566777889999998874422211                          13             77877643  34
+
+
+Q AAA24524.1      347 LKG-LMGI-FSTLFLYFSLFYIAY--K----  369 (419)
+Q Consensus       519 ~~G~I~GL~l~lL~l~~~~l~~~~~~r~~~~  549 (668)
+                      +.| ++|. ++++++|+..++..+  +..++
+T Consensus      1033 ElG-liG~-l~VllL~~lLi~r~l--~iA~~ 1059 (1766)
+T cazy4533116|0- 1033 EFG-FIGA-LLVLLLYLLLIYRGL--RIARR 1059 (1766)
+Confidence            789 9999 999999999999998  76644
 
 
 No 11

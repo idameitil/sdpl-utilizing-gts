@@ -3,7 +3,7 @@ Match_columns 559
 No_of_seqs    75 out of 105
 Neff          5.42797
 Searched_HMMs 14
-Date          Tue Feb  7 09:09:51 2023
+Date          Tue Feb 14 09:52:39 2023
 Command       hhblits -cpu 4 -i data/hhblits_cazy_families/msa/0171_6_4-new-pruned-mafft.fa -d data/hhblits_cazy_families/hhblits_cazy_families -o data/hhblits_cazy_families/output/0171_6_4-new-pruned-mafft.fa.hhr -n 1 
 
  No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
@@ -16,10 +16,10 @@ Command       hhblits -cpu 4 -i data/hhblits_cazy_families/msa/0171_6_4-new-prun
   7 AAA97573.1 O-antigen polymeras  94.3 1.1E-05   1E-07   68.5   0.0   54  248-312   213-266 (482)
   8 AAL82786.1 putative polysaccha  91.6 8.8E-05 8.4E-07   61.0   0.0   39  273-313   188-226 (463)
   9 AAX07747.1 O antigen polymeras  76.0  0.0022 2.3E-05   49.9   0.0   31  282-312   169-199 (445)
- 10 AAM27546.1 ORF_12 [Pseudomonas  63.8  0.0068 6.6E-05   47.0   0.0   36  272-309   232-267 (516)
- 11 AAT77177.1 Wzy [Escherichia co  57.0    0.01 0.00011   45.1   0.0  122  169-312   128-252 (479)
- 12 AAA92024.1 rffT, partial [Salm  31.0   0.048 0.00052   39.7   0.0   28  282-309   206-233 (479)
- 13 cazy201071 Kfla_2886 [Kribbell  30.4   0.046 0.00054   43.4   0.0  114  395-527   804-939 (1421)
+ 10 cazy4533116|0-0|X571 MYA98_243  72.2  0.0031 3.3E-05   55.7   0.0  109  394-516   988-1113(1766)
+ 11 AAM27546.1 ORF_12 [Pseudomonas  63.8  0.0068 6.6E-05   47.0   0.0   36  272-309   232-267 (516)
+ 12 AAT77177.1 Wzy [Escherichia co  57.0    0.01 0.00011   45.1   0.0  122  169-312   128-252 (479)
+ 13 AAA92024.1 rffT, partial [Salm  31.0   0.048 0.00052   39.7   0.0   28  282-309   206-233 (479)
 
 No 1
 >AAM27615.1 ORF_8; similar to Sodium/hydrogen exchanger family; potential multiple membrane spanning domains [Pseudomonas aeruginosa]
@@ -274,6 +274,26 @@ Confidence            5667777889999999999999988887555
 
 
 No 10
+>cazy4533116|0-0|X571 MYA98_24375 [Salmonella sp. WGH-01]
+Probab=72.22  E-value=0.0031  Score=55.69  Aligned_cols=109  Identities=17%  Similarity=0.222  Sum_probs=66.8  Template_Neff=5.000
+
+Q AAM27615.1      261 RYQFEALMKGV---YQQP-FFGMGAGAIA-D-YIRSEEMPWAYE-LFYVSLVFQYGILGFLFYALGVLFLLVFLVL-RV-  331 (391)
+Q Consensus       394 ~~Q~~aL~~g~~~~~~sP~lfG~G~Ga~a~~~~IRS~e~PWaYE-LsYlaLLfk~GlvG~~iy~~~~~~i~~~~~~~~~~  472 (559)
+                      -.|...++.+.   ..-= ++|.|.|+..+.    ...-|.+.. --+-.+--+-|++|.++.++.++.++++..+ +..
+T Consensus       988 GYQi~Qsl~AI---gsGG-l~G~GlG~G~~K----~~~LPeA~TDFIFAvIgEElGliG~l~VllL~~lLi~r~l~-iA~ 1058 (1766)
+T cazy4533116|0-  988 GYQIIQSLIAI---GSGG-LFGKGLGNGTQK----LGYLPEAHTDFIFAVIGEEFGFIGALLVLLLYLLLIYRGLR-IAR 1058 (1766)
+Confidence            35677777777   7777 999999997611    122332222 4444556678999999999999999999988 552
+
+
+Q AAM27615.1      332 -RKIGRRS--FEFCYLSGMLAFL----------------MATATNPYL-AKFDYMWVIFI  371 (391)
+Q Consensus       473 ~r~~~~~~~~~~~~~l~g~~~fL----------------IanaTNPYL~~~fdglwvifl  516 (559)
+                      +.++ .    ....+.+++.+.+                +-|.|=||.+...+.+.+.++
+T Consensus      1059 ~a~d-~----F~~lLa~Gi~~~i~~Qa~iNIG~v~GLLPlTGIpLPFISYGGSSLl~~~i 1113 (1766)
+T cazy4533116|0- 1059 RAKD-P----FGRLLAIGIASMIFFQAFINIGMVLGLLPVTGIPLPFISYGGSSLLANMI 1113 (1766)
+Confidence            2222 2    1222222222221                245555888776666666666
+
+
+No 11
 >AAM27546.1 ORF_12 [Pseudomonas aeruginosa]
 Probab=63.79  E-value=0.0068  Score=46.98  Aligned_cols=36  Identities=22%  Similarity=0.395  Sum_probs=29.7  Template_Neff=6.900
 
@@ -285,7 +305,7 @@ T AAM27546.1_con  232 KKIFLFIL--IINSLLSILTGSRGPFITSLLFLIWIYF  267 (516)
 Confidence            44666666  7888999999999999999988887775
 
 
-No 11
+No 12
 >AAT77177.1 Wzy [Escherichia coli]
 Probab=57.01  E-value=0.01  Score=45.11  Aligned_cols=122  Identities=12%  Similarity=0.121  Sum_probs=68.1  Template_Neff=5.900
 
@@ -305,7 +325,7 @@ T AAT77177.1_con  191 -LALTPILSYIAYIYY-RKTKKK-KWKLLFLILF--ILSILILTYDLQKSPIVFYLLG
 Confidence             344666522233321 112233 4466777777  8888888888999999998888877776444
 
 
-No 12
+No 13
 >AAA92024.1 rffT, partial [Salmonella enterica subsp. enterica serovar Typhimurium]
 Probab=30.96  E-value=0.048  Score=39.74  Aligned_cols=28  Identities=29%  Similarity=0.337  Sum_probs=19.7  Template_Neff=4.900
 
@@ -315,25 +335,5 @@ Q Consensus       282 ~l~l~ai~LSgRRaL~L~~~l~p~~~~f  309 (559)
 T Consensus       206 fG~ltY~vvGGtRanl~~A~~lfl~Ig~  233 (479)
 T AAA92024.1_con  206 FGLLTYVIVGGTRANIIIAFALFLFIGI  233 (479)
 Confidence            4555567788999988877766655554
-
-
-No 13
->cazy201071 Kfla_2886 [Kribbella flavida DSM 17836] [(20-420)X571]
-Probab=30.38  E-value=0.046  Score=43.44  Aligned_cols=114  Identities=19%  Similarity=0.290  Sum_probs=68.5  Template_Neff=3.000
-
-Q AAM27615.1      262 YQFEALMKGV---YQQP-FFGMGAGAIA-D-YIRSEEMPWAY--E---LFYVSLVF-QYGILGFLFYALGVLFLLVFLVL  329 (391)
-Q Consensus       395 ~Q~~aL~~g~~~~~~sP~lfG~G~Ga~a~~~~IRS~e~PWaY--E---LsYlaLLf-k~GlvG~~iy~~~~~~i~~~~~~  468 (559)
-                      -|...++-++   -+== ++|.|.|+.. +        .|.|  |   --+++++. |-|++|.++-+.++..+.+..++
-T Consensus       804 YQ~~QSl~AL---ASGG-LFGvGLGqSr-Q--------Kw~YLPEAHNDFIFAIIGEELGFIGallVLlLF~lLa~rG~R  870 (1421)
-T cazy201071_con  804 YQLIQSLIAI---GSGG-LFGVGLGNSR-Q--------KLGYLPEAHTDFIFAIIGEELGFIGALLVLLLFFLLIWRGLR  870 (1421)
-Confidence            3444555555   5556 9999999966 2        3433  3   33445555 68999999999999999999999
-
-
-Q AAM27615.1      330 -RV--RKIGRRS--FEFCYLSGMLAFL----------------MATATNPYL-AKFDYMWVIFI-PVALLNYSAV  381 (391)
-Q Consensus       469 ~~~~~r~~~~~~~~~~~~~l~g~~~fL----------------IanaTNPYL~~~fdglwvifl~pl~~in~~~~  527 (559)
-                       +.  ++.+.  . +......++.+.+                +-|.+=||.+.....+.+.++..-+.+|....
-T Consensus       871 -IA--~Ra~D--~-F~RLLAaGITawIv~QAfINIGvVtGLLPVTGVPLPFISYGGSSLIiTLiAIGLLLNIAR~  939 (1421)
-T cazy201071_con  871 -IA--LRAKD--P-FGRLLAAGITSWIGFQAFINIGVVTGLLPVTGVPLPFISYGGSSLLITLIAIGILLNISRH  939 (1421)
-Confidence             66  33221  1 2222222222222                12444488877777777766644444444444
 
 
