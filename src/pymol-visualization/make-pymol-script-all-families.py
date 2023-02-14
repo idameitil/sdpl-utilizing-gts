@@ -1,23 +1,76 @@
-import sys
+import sys, copy
 sys.path.append('src/ssn-clustering/')
 from common import SSNClusterData, read_MSA_file, get_conserved_residues, get_specific_positions_conserved_residues
+import json
+
+make_figures = True
+
+# Load views
+views_filename = "src/pymol-visualization/views.json"
+with open(views_filename) as infile:
+    views = json.load(infile)
 
 ### O-LIG ###
 load_ligase_string = f"""
 fetch 7tpg
 select chain_B, chain B
 hide cartoon, !chain_B
-color grey, chain_B
+color 0xeeeeee, chain_B
 select "cons_7tpg", resi 265 and chain_B or resi 191 and chain_B or resi 313 and chain_B
 show licorice, cons_7tpg
 color atomic, cons_7tpg
-set_view (\
-     0.129056588,   -0.914879322,   -0.382540226,\
-    -0.931019366,    0.021019539,   -0.364364743,\
-     0.341392726,    0.403177291,   -0.849059284,\
-     0.000000000,    0.000000000, -203.904266357,\
-   134.720489502,  144.012847900,  140.640121460,\
-   160.759674072,  247.048858643,  -20.000000000 )\n
+@src/pymol-visualization/nicify.pml
+"""
+script = load_ligase_string
+
+### ECA-POL ###
+# Get conserved residues
+threshold = 0.99
+
+alignment_filename = "data/eca-pol/MSA_CAZy_family/clade1-pruned-including-AF-mafft.fa"
+fasta_dict = read_MSA_file(alignment_filename)
+conserved_residues = get_conserved_residues(fasta_dict, threshold=threshold, include_aliphatic=False)
+positions = get_specific_positions_conserved_residues('ACH50550.1', conserved_residues, fasta_dict)
+
+# Make script string
+script += f"""
+load data/eca-pol/alphafold/ACH50550.1/ranked_0.pdb, ECA-Pol_ACH50550.1
+color 0xeeeeee, ECA-Pol_ACH50550.1
+"""
+for conserved_residue in positions:
+    pos = conserved_residue['pos']
+    script += f'label n. CA and resi {pos} and ECA-Pol_ACH50550.1, "%s-%s" % (resn, resi)\n'
+temp_string = f"select cons_ECA-Pol_ACH50550.1, "
+for conserved_residue in positions:
+    pos = conserved_residue['pos']
+    temp_string += f"resi {pos} and ECA-Pol_ACH50550.1 or "
+script += temp_string[:-4] + '\n'
+script += f"""show licorice, cons_ECA-Pol_ACH50550.1
+color atomic, cons_ECA-Pol_ACH50550.1
+cealign 7tpg, ECA-Pol_ACH50550.1
+"""
+
+### RodA ###
+threshold = 0.9
+
+alignment_filename = "data/roda/list3-with_6BAR-mafft.fa"
+fasta_dict = read_MSA_file(alignment_filename)
+conserved_residues = get_conserved_residues(fasta_dict, threshold=threshold, include_aliphatic=False)
+positions = get_specific_positions_conserved_residues('6BAR_1', conserved_residues, fasta_dict)
+script += f"""fetch 6BAR
+color 0xeeeeee, 6BAR
+"""
+for conserved_residue in positions:
+    pos = conserved_residue['pos']
+    script += f'label n. CA and resi {pos} and 6BAR, "%s-%s" % (resn, resi)\n'
+temp_string = f"select cons_6BAR, "
+for conserved_residue in positions:
+    pos = conserved_residue['pos']
+    temp_string += f"resi {pos} and 6BAR or "
+script += temp_string[:-4] + '\n'
+script += f"""show licorice, cons_6BAR
+color atomic, cons_6BAR
+cealign 7tpg, 6BAR\n
 """
 
 ### O-POL ###
@@ -31,25 +84,44 @@ clustering_data = SSNClusterData(ssn_clustering_id=ssn_timestamp,
     load_superclusters=True, calculate_conserved_superclusters=True)
 superclusters = list(clustering_data.superclusters)
 
-load_model_string_template = f"""
-load PDB, CLUSTER_ACC
-color COLOR, CLUSTER_ACC
-cealign ALIGN, CLUSTER_ACC\n
-"""
-show_conserved_residues_string_template = f"""show licorice, cons_ACC
-color atomic, cons_ACC\n
-"""
-colors = ['teal', 'orange', 'green', 'br6', 'red']
+def load_model_string(object_name, pdb, color, align_object_name):
+    string = f"""load {pdb}, {object_name}
+    color {color}, {object_name}
+    cealign {align_object_name}, {object_name}
+    """
+    return string
+
+def show_conserved_residues_string(selection_name):
+    string = f"""show licorice, {selection_name}
+    color atomic, {selection_name}
+    """
+    return string
+
+def save_images_string(pymol_object_name):
+    string = f"""{views[pymol_object_name]['zoom_in']}
+    disable
+    enable {pymol_object_name}
+    remove hydrogens
+    ray
+    png /Users/idamei/phd/data/pymol-visualizations/figures/{pymol_object_name}_labels.png
+    hide labels
+    deselect
+    ray
+    png /Users/idamei/phd/data/pymol-visualizations/figures/{pymol_object_name}.png
+    {views[pymol_object_name]['zoom_out']}
+    ray
+    png /Users/idamei/phd/data/pymol-visualizations/figures/{pymol_object_name}_zoom_out.png
+    """
+    return string
 
 # Make script string
-script = load_ligase_string
-
 CAZy_families = ['0260_4_5', '0144_2_14', '0141_1_28', '0134_4_6', '0118_1_30', '0128_1_29', '0284_3_9', '0342_13_2', '0540_8_3', '0171_6_4', '1085_39_1']
+retaining = ['14', '6', '29', '9', '2']
+inverting = ['5', '28', '30', '3', '4', '1']
+stereochemistry = {'14':'ret', '6':'ret', '29':'ret', '9':'ret', '2':'ret', '5':'inv', '28':'inv', '30':'inv', '3':'inv', '4':'inv', '1':'inv'}
 
 for supercluster in superclusters:
-    if supercluster['supercluster_id'] in CAZy_families:
-        supercluster['supercluster_id']
-    else:
+    if supercluster['supercluster_id'] not in CAZy_families:
         continue
     number = 0
     for acc in list(supercluster['alphafold_models'].keys()):
@@ -58,58 +130,39 @@ for supercluster in superclusters:
         if acc not in supercluster['conserved_positions_af_models']:
             continue
         model_path = supercluster['alphafold_models'][acc]['filepath']
+        pymol_object_name = f'{supercluster["name"]}_{stereochemistry[supercluster["name"]]}_{acc}'
+        # Align
         if number == 0:
-            first_model_name = f"{supercluster['name']}_{acc}"
+            first_model_object_name = copy.deepcopy(pymol_object_name)
             first_model = False
-            script += load_model_string_template.replace("ACC", acc).replace("PDB", model_path).replace("CLUSTER", supercluster['name'])\
-                .replace("ALIGN", "7tpg").replace('COLOR', '0xeeeeee')
+            if stereochemistry[supercluster['name']] == 'inv':
+                align_object = '6bar'
+            elif stereochemistry[supercluster['name']] == 'ret':
+                align_object = 'ECA-Pol_ACH50550.1'
+            script += load_model_string(object_name=pymol_object_name, pdb=model_path, color='0xeeeeee', align_object_name=align_object)
         else:
-            script += load_model_string_template.replace("ACC", acc).replace("PDB", model_path).replace("CLUSTER", supercluster['name'])\
-                .replace("ALIGN", first_model_name).replace('COLOR', '0xeeeeee')
+            script += load_model_string(object_name=pymol_object_name, pdb=model_path, color='0xeeeeee', align_object_name=first_model_object_name)
         positions = supercluster['conserved_positions_af_models'][acc]
+        # Conserved residues
+        pymol_selection_name = f"cons_{pymol_object_name}"
         for conserved_residue in positions:
             pos = conserved_residue['pos']
             freq = round(conserved_residue['freq']*100)
-            script += f'label n. CA and resi {pos} and {supercluster["name"]}_{acc}, "%s" % (resn)\n'
-            # script += f'label n. CA and resi {pos} and {supercluster["name"]}_{acc}, "%s-%s" % (resn, resi)\n'
-            script += f'label n. CA and resi {pos} and {supercluster["name"]}_{acc}, "%s-%s ({freq}%%)" % (resn, resi)\n'
-        temp_string = f"select cons_{acc}, "
+            # script += f'label n. CA and resi {pos} and {pymol_object_name}, "%s-%s ({freq}%%)" % (resn, resi)\n'
+            script += f'label n. CA and resi {pos} and {pymol_object_name}, "%s" % (resn)\n'
+        temp_string = f"select {pymol_selection_name}, "
         for conserved_residue in positions:
             pos = conserved_residue['pos']
-            temp_string += f"resi {pos} and {supercluster['name']}_{acc} or "
+            temp_string += f"resi {pos} and {pymol_object_name} or "
         script += temp_string[:-4] + '\n'
-        script += show_conserved_residues_string_template.replace("ACC", acc).replace("CLUSTER", supercluster['name']) + '\n'
+        script += show_conserved_residues_string(selection_name=pymol_selection_name)
+        # Save images
+        if pymol_object_name in views and make_figures:
+            script += save_images_string(pymol_object_name=pymol_object_name)
         number += 1
 
-### ECA-POL ###
-# Get conserved residues
-threshold = 0.99
-
-alignment_filename = "data/eca-pol/MSA_CAZy_family/clade1-pruned-including-AF-mafft.fa"
-fasta_dict = read_MSA_file(alignment_filename)
-conserved_residues = get_conserved_residues(fasta_dict, threshold=threshold, include_aliphatic=True)
-positions = get_specific_positions_conserved_residues('ACH50550.1', conserved_residues, fasta_dict)
-
-# Make script string
-script += f"""
-load data/eca-pol/alphafold/ACH50550.1/ranked_0.pdb, ECA-Pol_ACH50550.1
-color 0xeeeeee, ECA-Pol_ACH50550.1
-"""
-for conserved_residue in positions:
-    pos = conserved_residue['pos']
-    script += f'label n. CA and resi {pos} and ECA-Pol_ACH50550.1, "%s-%s" % (resn, resi)\n'
-temp_string = f"select cons_ACH50550.1, "
-for conserved_residue in positions:
-    pos = conserved_residue['pos']
-    temp_string += f"resi {pos} and ECA-Pol_ACH50550.1 or "
-script += temp_string[:-4] + '\n'
-script += f"""show licorice, cons_ACH50550.1
-color atomic, cons_ACH50550.1
-cealign 6_AHB32490.1, ECA-Pol_ACH50550.1\n
-"""
-
 # Nicify
-script += "@src/pymol_visualization/nicify.pml"
+script += "@src/pymol-visualization/nicify.pml"
 
 ### WRITE TO FILE ###
 pymol_script_path = f"data/pymol-visualizations/all.pml"
