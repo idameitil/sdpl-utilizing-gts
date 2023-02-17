@@ -94,24 +94,43 @@ def make_score_genbank_label_file(enzyme_family_name):
             color=colors[math.floor(score)].hex
             outfile.write(f"{acc}\t{color}\t{score}\n")
 
+def make_pubmed_color_file(df, enzyme_family_name):
+    outfilename = f"data/{enzyme_family_name}/phylogenetic-trees/itol-label-files/pubmed.txt"
+    pubmed2color = {'23922982': '#21f505', '16532061': '#77d907', '28364730': '#07d97e', '25972421': '#070ad9',\
+    '30709819': '#d98507', '25358682': '#eff702', '23874940': '#aa02f7'}
+    pubmed2name = {'23922982': "Ree baumannii", '16532061': "Ree pneumoniae", '28364730': 'Ree pseudo',\
+        '25972421': 'DTU coli', '30709819': 'Wu Shigella', '25358682': 'Islam aeruginosa', '23874940': 'Ree Salmonella'}
+    red = '#f70202'
+    with open(outfilename, "w") as file:
+        header = f"DATASET_COLORSTRIP\nSEPARATOR COMMA\nDATASET_LABEL,pubmed\nCOLOR,#ff0000\nDATA\n"
+        file.write(header)
+        for index, row in df.iterrows():
+            if row.pubmed in pubmed2color:
+                file.write(f"{row.protein_accession},{pubmed2color[row.pubmed]},{row.pubmed} {pubmed2name[row.pubmed]}\n")
+            else:
+                file.write(f"{row.protein_accession},{red},{row.pubmed}\n")
+
 wzy_df = pd.read_csv("data/wzy/seeds-and-hits.tsv", sep='\t', dtype='object')
 waal_df = pd.read_csv("data/waal/seeds-and-hits.tsv", sep='\t', dtype='object')
 eca_pol_df = pd.read_csv("data/eca-pol/seeds-and-hits.tsv", sep='\t', dtype='object')
 
 print('wzy')
-make_taxonomy_label_file(wzy_df, 'wzy')
-make_image_label_file(wzy_df, 'wzy')
-make_seeds_label_file(wzy_df, 'wzy')
+# make_taxonomy_label_file(wzy_df, 'wzy')
+# make_image_label_file(wzy_df, 'wzy')
+# make_seeds_label_file(wzy_df, 'wzy')
+make_pubmed_color_file(wzy_df, 'wzy')
 
-print('waal')
-make_taxonomy_label_file(waal_df, 'waal')
-make_image_label_file(waal_df, 'waal')
-make_seeds_label_file(waal_df, 'waal')
-make_evalue_genbank_label_file('waal')
+# print('waal')
+# make_taxonomy_label_file(waal_df, 'waal')
+# make_image_label_file(waal_df, 'waal')
+# make_seeds_label_file(waal_df, 'waal')
+# make_evalue_genbank_label_file('waal')
 
-print('eca-pol')
-make_taxonomy_label_file(eca_pol_df, 'eca-pol')
-make_seeds_label_file(eca_pol_df, 'eca-pol')
+# print('eca-pol')
+# make_taxonomy_label_file(eca_pol_df, 'eca-pol')
+# make_seeds_label_file(eca_pol_df, 'eca-pol')
+
+
 # make_hits_label_file(eca_pol_df, 'eca-pol')
 # make_pct_label_file('eca-pol')
 # make_evalue_genbank_label_file('eca-pol')
