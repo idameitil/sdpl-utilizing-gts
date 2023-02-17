@@ -1,3 +1,13 @@
+# Meeting minutes 15 Feb 2023
+- Ida will go through the references for the seeds (maybe make iTOL label file with references)
+- A link to the sugar tree is above, if someone wants to have a look at them
+- Ida will send a tsv file with protein accession, family and CSDB linear to Garry
+- Figure with architecture comparison
+    - Get representative sequence
+    - Phobius
+    - Make figure with comparison
+    - Ida will send MSAs for each family to Garry
+
 # Dali
 Search for structural homologs
 http://ekhidna2.biocenter.helsinki.fi/dali/

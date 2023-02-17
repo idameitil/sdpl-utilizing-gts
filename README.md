@@ -390,7 +390,7 @@ All fastas of the families were copied to `data/hhblits_cazy_families/fastas`.
 
 All MSAs were copied to `data/hhblits_cazy_families/msa`.
 
-To run the hhblits comparisons, run: `sh src/compare-cazy-families/make-hhblits-db.sh`.
+To run the hhblits comparisons, run: `sh src/compare-cazy-families/hhblits.sh`.
 
 The output files are in `data/hhblits_cazy_families/output`.
 
@@ -398,3 +398,5 @@ The output files are in `data/hhblits_cazy_families/output`.
 To make pymol script including all families, run: `python src/pymol-visualization/make-pymol-script-all-families.py`.
 
 Then, to run the pymol script: `pymol data/pymol-visualizations/all.pml`.
+
+This will create the figures in `data/pymol-visualizations/figures`.
