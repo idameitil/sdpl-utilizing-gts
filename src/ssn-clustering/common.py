@@ -32,7 +32,7 @@ def read_MSA_file(MSA_filename):
         fasta_dict = {protein.id: protein.seq for protein in proteins}
     return fasta_dict
 
-def get_conserved_residues(fasta_dict, threshold=0.90, include_aliphatic=False):
+def get_conserved_residues(fasta_dict, threshold=0.95, include_aliphatic=False):
     if include_aliphatic:
         AAs_ignore = ['-']
     else:
