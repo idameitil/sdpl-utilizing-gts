@@ -18,7 +18,7 @@ hide cartoon, !chain_B
 color 0xeeeeee, chain_B
 select "cons_7tpg", resi 265 and chain_B or resi 191 and chain_B or resi 313 and chain_B
 show licorice, cons_7tpg
-color atomic, cons_7tpg
+color atomic, (cons_7tpg and not elem C)
 @src/pymol-visualization/nicify.pml
 """
 script = load_ligase_string
@@ -46,7 +46,7 @@ for conserved_residue in positions:
     temp_string += f"resi {pos} and ECA-Pol_ACH50550.1 or "
 script += temp_string[:-4] + '\n'
 script += f"""show licorice, cons_ECA-Pol_ACH50550.1
-color atomic, cons_ECA-Pol_ACH50550.1
+color atomic, (cons_ECA-Pol_ACH50550.1 and not elem C)
 cealign 7tpg, ECA-Pol_ACH50550.1
 """
 
@@ -69,7 +69,7 @@ for conserved_residue in positions:
     temp_string += f"resi {pos} and 6BAR or "
 script += temp_string[:-4] + '\n'
 script += f"""show licorice, cons_6BAR
-color atomic, cons_6BAR
+color atomic, (cons_6BAR and not elem C)
 cealign 7tpg, 6BAR\n
 """
 
@@ -93,24 +93,24 @@ def load_model_string(object_name, pdb, color, align_object_name):
 
 def show_conserved_residues_string(selection_name):
     string = f"""show licorice, {selection_name}
-    color atomic, {selection_name}
+    color atomic, ({selection_name} and not elem C)
     """
     return string
 
 def save_images_string(pymol_object_name):
-    string = f"""{views[pymol_object_name]['zoom_in']}
+    string = f"""{views["0.95"][pymol_object_name]['zoom_in']}
     disable
     enable {pymol_object_name}
     remove hydrogens
     ray
-    png /Users/idamei/phd/data/pymol-visualizations/figures/{pymol_object_name}_labels.png
+    png /Users/idamei/phd/data/pymol-visualizations/figures/zoom_in_labels/{pymol_object_name}_labels.png
     hide labels
     deselect
     ray
-    png /Users/idamei/phd/data/pymol-visualizations/figures/{pymol_object_name}.png
-    {views[pymol_object_name]['zoom_out']}
+    png /Users/idamei/phd/data/pymol-visualizations/figures/zoom_in/{pymol_object_name}.png
+    {views["0.95"][pymol_object_name]['zoom_out']}
     ray
-    png /Users/idamei/phd/data/pymol-visualizations/figures/{pymol_object_name}_zoom_out.png
+    png /Users/idamei/phd/data/pymol-visualizations/figures/zoom_out/{pymol_object_name}_zoom_out.png
     """
     return string
 
@@ -157,12 +157,46 @@ for supercluster in superclusters:
         script += temp_string[:-4] + '\n'
         script += show_conserved_residues_string(selection_name=pymol_selection_name)
         # Save images
-        if pymol_object_name in views and make_figures:
+        if pymol_object_name in views['0.95'] and make_figures:
             script += save_images_string(pymol_object_name=pymol_object_name)
         number += 1
 
 # Nicify
-script += "@src/pymol-visualization/nicify.pml"
+script += "@src/pymol-visualization/nicify.pml\n"
+
+# # Figure with three from same cluster
+# script += f"""disable
+# enable 1_inv_AHB32215.1 1_inv_CAI34008.1 1_inv_ACH97162.1
+# hide labels
+# {views["0.95"]['three_from_one_family']['zoom_out']}
+# ray
+# png /Users/idamei/phd/data/pymol-visualizations/figures/three_from_one_family_zoom_out.png
+# {views["0.95"]['three_from_one_family']['zoom_in']}
+# ray
+# png /Users/idamei/phd/data/pymol-visualizations/figures/three_from_one_family.png
+# show labels
+# ray
+# png /Users/idamei/phd/data/pymol-visualizations/figures/three_from_one_family_labels.png
+# """
+
+if make_figures:
+    # Figure with three from same cluster - different view
+    script += f"""disable
+    enable 1_inv_AHB32215.1 1_inv_CAI34008.1 1_inv_ACH97162.1
+    color atomic, cons_1_inv_AHB32215.1
+    color atomic, cons_1_inv_CAI34008.1
+    color atomic, cons_1_inv_ACH97162.1
+    hide labels
+    {views["0.95"]['three_from_one_family2']['zoom_out']}
+    ray
+    png /Users/idamei/phd/data/pymol-visualizations/figures/three_from_one_family_zoom_out2.png
+    {views["0.95"]['three_from_one_family2']['zoom_in']}
+    ray
+    png /Users/idamei/phd/data/pymol-visualizations/figures/three_from_one_family2.png
+    show labels
+    ray
+    png /Users/idamei/phd/data/pymol-visualizations/figures/three_from_one_family_labels2.png
+    """
 
 ### WRITE TO FILE ###
 pymol_script_path = f"data/pymol-visualizations/all.pml"
