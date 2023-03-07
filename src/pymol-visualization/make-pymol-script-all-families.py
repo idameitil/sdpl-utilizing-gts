@@ -3,7 +3,7 @@ sys.path.append('src/ssn-clustering/')
 from common import SSNClusterData, read_MSA_file, get_conserved_residues, get_specific_positions_conserved_residues
 import json
 
-make_figures = True
+make_images = True
 
 # Load views
 views_filename = "src/pymol-visualization/views.json"
@@ -157,7 +157,7 @@ for supercluster in superclusters:
         script += temp_string[:-4] + '\n'
         script += show_conserved_residues_string(selection_name=pymol_selection_name)
         # Save images
-        if pymol_object_name in views['0.95'] and make_figures:
+        if pymol_object_name in views['0.95'] and make_images:
             script += save_images_string(pymol_object_name=pymol_object_name)
         number += 1
 
@@ -179,7 +179,7 @@ script += "@src/pymol-visualization/nicify.pml\n"
 # png /Users/idamei/phd/data/pymol-visualizations/figures/three_from_one_family_labels.png
 # """
 
-if make_figures:
+if make_images:
     # Figure with three from same cluster - different view
     script += f"""disable
     enable 1_inv_AHB32215.1 1_inv_CAI34008.1 1_inv_ACH97162.1
@@ -199,6 +199,9 @@ if make_figures:
     """
 
 ### WRITE TO FILE ###
-pymol_script_path = f"data/pymol-visualizations/all.pml"
+if make_images:
+    pymol_script_path = f"data/pymol-visualizations/pymol-script-make-images.pml"
+else:
+    pymol_script_path = f"data/pymol-visualizations/pymol-script.pml"
 with open (pymol_script_path, 'w') as outfile:
     outfile.write(script)
