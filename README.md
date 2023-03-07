@@ -213,6 +213,10 @@ The fasta files were generated with efetch: `src/wzy-seed-search/efetch.sh`.
 
 Each fasta file was uploaded to muscle and the trees were saved in `data/wzy/seed-cazy-search/seeds-in-families`.
 
+A table with original supercluster membership and CAZy family membership is generated with: `python src/wzy-seed-search/put-family-in-wzy-table.py`. This creates the file `data/wzy/wzy_with_cazy_family.ts`. 
+
+Bernard added the seeds with high e-values to CAZy. He sent a file `data/wzy/wzy_with_cazy_family_accessions.xls` with the CAZy IDs (2nd of March 2023).
+
 ## WaaL
 
 ### Make seed MSA
