@@ -1,3 +1,13 @@
+# Overleaf template
+New Project -> Example project
+
+# Preben pymol
+colors: lightblue
+Hide stuff that is in front of what you show (but write in the figure caption that you hid it)
+Use slab
+select loop, resi309:324
+set cartoon_fancy_helices
+
 # Meeting minutes 15 Feb 2023
 - Ida will go through the references for the seeds (maybe make iTOL label file with references)
 - A link to the sugar tree is above, if someone wants to have a look at them
@@ -7,6 +17,12 @@
     - Phobius
     - Make figure with comparison
     - Ida will send MSAs for each family to Garry
+
+# Meeting minutes Garry 8 Feb 2023
+Sugar comparison tool
+- Break down into bonds and sugars
+- Should it be adapted to O-Pols? Put more weights to the ends?
+- Different lengths are penalized too much
 
 # Dali
 Search for structural homologs
@@ -18,6 +34,8 @@ Wed 25/1: 2 timer
 Mon 30/2: (2t forelæsning), 2t konfrontation
 
 # CAZy families
+The following CAZy families were made. X616 and X617 were later merged into X617:
+
 - X571, RodA (was made within the CAZy system by Bernie)
 - X586, ECA-Pol, retaining (`data/eca-pol/MSA_CAZy_family/clade1-pruned-mafft.fa`)
 - X605, 0260_4_5, inverting (`data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0260_4_5/0260_4_5.accs_pruned-mafft.fa`)
