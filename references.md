@@ -1,3 +1,10 @@
+# Minutes from meeting 2nd March
+- We will have to cite Alexander and Locher paper, but otherwise it won’t affect the content of the paper
+- We will include family comparison heatmap and architecture overview (Ida will make figure nicer)
+- Ida will migrate the manuscript to overleaf this week (put figures in the end)
+- Bernie will enter the O-Pol seeds in CAZy (start with <e-50)
+- Garry will work on sugar heatmap of all families and making tree based on sugar similarity
+
 # Overleaf template
 New Project -> Example project
 
