@@ -1,3 +1,6 @@
+# FtsW
+Is assumed to have a similar role as RodA in the divisome (Meeske)
+
 # Minutes from meeting 2nd March
 - We will have to cite Alexander and Locher paper, but otherwise it won’t affect the content of the paper
 - We will include family comparison heatmap and architecture overview (Ida will make figure nicer)

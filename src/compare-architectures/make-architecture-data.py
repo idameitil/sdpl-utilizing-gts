@@ -3,9 +3,10 @@ import pandas as pd
 sys.path.append("src/ssn-clustering")
 from common import read_MSA_file, get_conserved_residues, get_specific_positions_conserved_residues
 
-threshold = 0.99
+threshold = 0.95
 
 entries = [
+           {'acc': '6bar', 'family': 'X571'},
            {'acc': 'WP_011517284.1', 'family': 'X615'},
         #    {'acc': 'WP_011517284.1', 'family': 'X615_A'},
         #    {'acc': 'CAR61594.1', 'family': 'X615_C'},
@@ -20,7 +21,7 @@ entries = [
            {'acc': 'CBN82200.1', 'family': 'X606'},
            {'acc': 'CDF66396.1', 'family': 'X611'},
            {'acc': 'AHB32490.1', 'family': 'X608'},
-           {'acc': 'ACH50550.1', 'family': 'X586'}
+           {'acc': 'ACH50550.1', 'family': 'X586'},
            ]
 
 # Get conserved
@@ -28,6 +29,9 @@ for i in range(len(entries)):
     entry = entries[i]
     if entry['family'] == 'X586':
         alignment_filename = f"data/hhblits_cazy_families/msas-family-names/{entry['family']}-with-model.fa"
+    elif entry['family'] == 'X571':
+        entries[i]['conserved_positions'] = {255: 'D'}
+        continue
     else:
         alignment_filename = f"data/hhblits_cazy_families/msas-family-names/{entry['family']}.fa"
     fasta_dict = read_MSA_file(alignment_filename)
