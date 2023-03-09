@@ -1,7 +1,7 @@
 #  cmd: blastfilter -js data/wada/blast.out
 #  pwd: /Users/idamei/phd
 # host: Darwin BIO-M2607 22.3.0 arm64
-# date: Fri Mar  3 17:27:30 2023
+# date: Thu Mar  9 08:14:05 2023
 # user: idamei
 # -js      1                    Json summary
 # Program parameters:
