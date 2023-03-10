@@ -1,3 +1,18 @@
+# Minutes from meeting 10th of March
+Meeting minutes:
+- Move discussion points to the overleaf document (done)
+- We’ll use American spelling
+- Architecture figure:
+    - We should also show extracellular helices
+    - Try to left-align the sequences
+    - His/Asp/Glu in inverting families can activate the donor
+    - In retaining families, an activation is maybe not needed, just positioning
+    - The ones without Arg could use a metal
+- Check whether X571 is only RodA or also other SEDS proteins
+- Check if PglB from Meeske paper is from GT66. Include in architecture comparison?
+- GT51 also uses Und-PP-sugar, but is not transmembrane
+- We’ll write to CSDB and send the manuscript when submitting
+
 # FtsW
 Is assumed to have a similar role as RodA in the divisome (Meeske)
 
