@@ -3,7 +3,7 @@ import pandas as pd
 sys.path.append("src/ssn-clustering")
 from common import read_MSA_file, get_conserved_residues, get_specific_positions_conserved_residues
 
-threshold = 0.95
+threshold = 0.96
 
 entries = [
            {'acc': '6bar', 'family': 'X571'},
@@ -30,12 +30,13 @@ for i in range(len(entries)):
     if entry['family'] == 'X586':
         alignment_filename = f"data/hhblits_cazy_families/msas-family-names/{entry['family']}-with-model.fa"
     elif entry['family'] == 'X571':
-        entries[i]['conserved_positions'] = {255: 'D'}
-        continue
+        alignment_filename = f"data/roda/list4-with-6bar-pruned-mafft.fa"
+        # entries[i]['conserved_positions'] = {255: 'D'}
+        # continue
     else:
         alignment_filename = f"data/hhblits_cazy_families/msas-family-names/{entry['family']}.fa"
     fasta_dict = read_MSA_file(alignment_filename)
-    conserved_residues = get_conserved_residues(fasta_dict, threshold=threshold, include_aliphatic=True)
+    conserved_residues = get_conserved_residues(fasta_dict, threshold=threshold, include_aliphatic=False)
     positions = get_specific_positions_conserved_residues(entry['acc'], conserved_residues, fasta_dict)
     entries[i]['conserved_positions'] = {position['pos']: position['AA'] for position in positions}
 
@@ -49,7 +50,7 @@ with open(outfilename, 'w') as outfile:
 
 # Get architecture strings
 table_folder = "data/compare-architectures/architecture-tables"
-type2symbol = {'t': '=', 'i': '_', 'o': '-'}
+type2symbol = {'t': '=', 'i': '_', 'o': '-', 'h': 'h'}
 for i in range(len(entries)):
     entry = entries[i]
     table_filename = f"{table_folder}/{entry['acc']}.csv"
@@ -61,6 +62,7 @@ for i in range(len(entries)):
         architecture_string += type2symbol[row.type] * length
         previous = int(row.end)
     entries[i]['architecture_string'] = architecture_string
+    entries[i]['length'] = int(row.end)
 
 # Write architecture file
 outfilename = f"data/compare-architectures/architecture.js"
@@ -70,6 +72,17 @@ with open(outfilename, 'w') as outfile:
         outfile.write(f"\t'{entry['family']}, {entry['acc']}': '{entry['architecture_string']}',\n")
     outfile.write('}')
 
+# Write length file
+outfilename = f"data/compare-architectures/lengths.js"
+with open(outfilename, 'w') as outfile:
+    outfile.write("const lengths = {\n")
+    max_length = 0
+    for entry in entries:
+        outfile.write(f"\t'{entry['family']}, {entry['acc']}': {entry['length']},\n")
+        if entry['length'] > max_length:
+            max_length = entry['length']
+    outfile.write(f"\t'max': {max_length}\n")
+    outfile.write('}')
 
 # accessions_filename = "data/garry-figure/family-representatives.tsv"
 # df = pd.read_csv(accessions_filename, sep='\t', names=['family', 'accession'])
