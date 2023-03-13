@@ -36,30 +36,35 @@ function setup(){
     for(const architectureName in architectures){
         const y = spaceBetweenArchitectures/2+i*spaceBetweenArchitectures;
         drawArchitectureName(architectureName, y+topMargin);
-        drawArchitecture(architectures[architectureName], conservedResidues[architectureName], y);
+        drawArchitecture(architectures[architectureName], conservedResidues[architectureName], lengths[architectureName], y);
         i++;
     }
 }
 
 const unitSize = 20;
-function drawArchitecture(architectureString, conservedResidues, y){
+function drawArchitecture(architectureString, conservedResidues, sequencelength, y){
     for(const i in architectureString){
         const fillConserved = (...v) => !conservedResidues[i]?fill(...v):fill(0);
+        const indent = lengths['max'] - sequencelength;
         switch(architectureString[i]){
             case '-':
                 fillConserved(200);
-                drawOutside(i*unitSize+leftMargin, y+topMargin);
+                drawOutside(i*unitSize+leftMargin+indent*unitSize, y+topMargin);
                 break;
             case '_':
                 fillConserved(200);
-                drawInside(i*unitSize+leftMargin, y+topMargin); 
+                drawInside(i*unitSize+leftMargin+indent*unitSize, y+topMargin); 
                 break;
             case '=':
                 fillConserved(45, 130, 80);
-                drawHelix(i*unitSize+leftMargin, y+topMargin, !!conservedResidues[i]);
+                drawHelix(i*unitSize+leftMargin+indent*unitSize, y+topMargin, !!conservedResidues[i]);
+                break;
+            case 'h':
+                fillConserved(45, 130, 80);
+                drawECHelix(i*unitSize+leftMargin+indent*unitSize, y+topMargin, !!conservedResidues[i]);
                 break;
         }
-        drawConservedResidue(conservedResidues[i], i*unitSize, y+topMargin);
+        drawConservedResidue(conservedResidues[i], i*unitSize+leftMargin+indent*unitSize, y+topMargin);
     }
 }
 
@@ -106,6 +111,22 @@ function drawHelix(x, y, hasConservedResidue){
     }
     for(; i< unitSize; i++){
         stroke(map(i, unitSize/2, unitSize, 255, 0));
+        line(x+i, y, x+i, y+unitSize*2);
+    }
+}
+
+function drawECHelix(x, y, hasConservedResidue){
+    if(hasConservedResidue){
+        rect(x, y, unitSize, unitSize*2);
+        return;
+    }
+    let i;
+    for(i = 0; i<unitSize/2; i++){
+        stroke(map(i, 0, unitSize/2, 200, 255));
+        line(x+i, y, x+i, y+unitSize*2);
+    }
+    for(; i< unitSize; i++){
+        stroke(map(i, unitSize/2, unitSize, 255, 200));
         line(x+i, y, x+i, y+unitSize*2);
     }
 }
