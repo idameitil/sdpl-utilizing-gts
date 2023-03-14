@@ -148,5 +148,5 @@ function drawArchitectureName(architectureName, y){
     const color = [0, 0, 0];
     textSize(size);
     fill(...color);
-    text(architectureName, leftMargin, y-50);
+    text(architectureName, leftMargin, y-10);
 }
