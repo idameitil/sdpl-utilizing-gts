@@ -149,7 +149,8 @@ for supercluster in superclusters:
             pos = conserved_residue['pos']
             freq = round(conserved_residue['freq']*100)
             # script += f'label n. CA and resi {pos} and {pymol_object_name}, "%s-%s ({freq}%%)" % (resn, resi)\n'
-            script += f'label n. CA and resi {pos} and {pymol_object_name}, "%s" % (resn)\n'
+            # script += f'label n. CA and resi {pos} and {pymol_object_name}, "%s" % (resn)\n'
+            script += f'label n. CA and resi {pos} and {pymol_object_name}, "%s-%s" % (resn, resi)\n'
         temp_string = f"select {pymol_selection_name}, "
         for conserved_residue in positions:
             pos = conserved_residue['pos']
@@ -160,7 +161,6 @@ for supercluster in superclusters:
         if pymol_object_name in views['0.95'] and make_images:
             script += save_images_string(pymol_object_name=pymol_object_name)
         number += 1
-
 # Nicify
 script += "@src/pymol-visualization/nicify.pml\n"
 
