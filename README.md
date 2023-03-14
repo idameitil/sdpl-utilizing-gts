@@ -410,9 +410,9 @@ Test your query sequence like this: `hmmscan data/hhblits_cazy_families/hmmscan_
 ## Pymol visualization
 To make pymol script including all families, run: `python src/pymol-visualization/make-pymol-script-all-families.py`.
 
-Then, to run the pymol script without making the images: `pymol data/pymol-visualizations/all-dont-make-images.pml`.
+Then, to run the pymol script without making the images: `pymol data/pymol-visualizations/pymol-script.pml`.
 
-Or run the pymol script with making the images: `pymol data/pymol-visualizations/all-make-images.pml`.
+Or run the pymol script with making the images: `pymol data/pymol-visualizations/pymol-script-make-images.pml`.
 
 This will create the figures in `data/pymol-visualizations/figures`.
 

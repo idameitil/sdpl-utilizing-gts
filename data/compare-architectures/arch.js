@@ -23,7 +23,8 @@ const colorScheme = [
 ]
 
 const canvasWidth = 9400;
-const canvasHeight = 3000;
+// const canvasHeight = 3500;
+const canvasHeight = 7000;
 const spaceBetweenArchitectures = 200;
 const leftMargin = 20
 const topMargin = 20
@@ -47,21 +48,25 @@ function drawArchitecture(architectureString, conservedResidues, sequencelength,
         const fillConserved = (...v) => !conservedResidues[i]?fill(...v):fill(0);
         const indent = lengths['max'] - sequencelength;
         switch(architectureString[i]){
-            case '-':
+            case 'l':
                 fillConserved(200);
                 drawOutside(i*unitSize+leftMargin+indent*unitSize, y+topMargin);
                 break;
-            case '_':
-                fillConserved(200);
-                drawInside(i*unitSize+leftMargin+indent*unitSize, y+topMargin); 
-                break;
-            case '=':
+            // case '_':
+            //     fillConserved(200);
+            //     drawInside(i*unitSize+leftMargin+indent*unitSize, y+topMargin); 
+            //     break;
+            case 'h':
                 fillConserved(45, 130, 80);
                 drawHelix(i*unitSize+leftMargin+indent*unitSize, y+topMargin, !!conservedResidues[i]);
                 break;
-            case 'h':
+            case 'e':
                 fillConserved(45, 130, 80);
                 drawECHelix(i*unitSize+leftMargin+indent*unitSize, y+topMargin, !!conservedResidues[i]);
+                break;
+            case 's':
+                fillConserved(45, 130, 80);
+                drawSheet(i*unitSize+leftMargin+indent*unitSize, y+topMargin, !!conservedResidues[i]);
                 break;
         }
         drawConservedResidue(conservedResidues[i], i*unitSize+leftMargin+indent*unitSize, y+topMargin);
@@ -129,6 +134,13 @@ function drawECHelix(x, y, hasConservedResidue){
         stroke(map(i, unitSize/2, unitSize, 255, 200));
         line(x+i, y, x+i, y+unitSize*2);
     }
+}
+
+function drawSheet(x, y){
+    const color = [150, 0, 0];
+    // fill(...color);
+    stroke(color)
+    rect(x, y, unitSize, unitSize*2)
 }
 
 function drawArchitectureName(architectureName, y){

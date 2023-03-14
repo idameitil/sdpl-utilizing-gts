@@ -3,24 +3,56 @@ import pandas as pd
 sys.path.append("src/ssn-clustering")
 from common import read_MSA_file, get_conserved_residues, get_specific_positions_conserved_residues
 
-threshold = 0.96
+
+threshold = 0.99
 
 entries = [
            {'acc': '6bar', 'family': 'X571'},
+
            {'acc': 'WP_011517284.1', 'family': 'X615'},
-        #    {'acc': 'WP_011517284.1', 'family': 'X615_A'},
-        #    {'acc': 'CAR61594.1', 'family': 'X615_C'},
-           {'acc': 'ACD37165.1', 'family': 'X614'},
+           {'acc': 'WP_011517284.1', 'family': 'X615_A'},
+           {'acc': 'CAR61594.1', 'family': 'X615_C'},
+
+           {'acc': 'ACD37165.1', 'family': 'X614_B'},
+           {'acc': 'AAM27615.1', 'family': 'X614_C'},
+           
            {'acc': 'CAI34254.1', 'family': 'X609'},
+           {'acc': 'CAI34198.1', 'family': 'X609'},
+           {'acc': 'CAI34217.1', 'family': 'X609'},
+
            {'acc': 'CAI34124.1', 'family': 'X607'},
+
            {'acc': 'CAI33309.1', 'family': 'X613'},
-           {'acc': 'BAQ02088.1', 'family': 'X605'},
-           {'acc': 'AHB32215.1', 'family': 'X617'}, 
+           {'acc': 'CAI34369.1', 'family': 'X613'},
+           {'acc': 'AIG62747.1', 'family': 'X613'},
+
+           {'acc': 'BAQ00795.1', 'family': 'X605_C'},
+           {'acc': 'BAQ01659.1', 'family': 'X605'},
+           {'acc': 'BAQ02088.1', 'family': 'X605_B'},
+           {'acc': 'ACA24754.1', 'family': 'X605_B'},
+
+           {'acc': 'AHB32215.1', 'family': 'X617_D'},
+           {'acc': 'AHB32861.1', 'family': 'X617_D'},
+           {'acc': 'CAI34008.1', 'family': 'X617_A'},
+           {'acc': 'AHB32334.1', 'family': 'X617'},
+           {'acc': 'ACH97162.1', 'family': 'X617'}, 
+
            {'acc': 'AHB32411.1', 'family': 'X610'},
+
            {'acc': 'BAQ00653.1', 'family': 'X612'},
-           {'acc': 'CBN82200.1', 'family': 'X606'},
-           {'acc': 'CDF66396.1', 'family': 'X611'},
+           {'acc': 'ADC54950.1', 'family': 'X612_B'},
+           {'acc': 'AAZ85718.1', 'family': 'X612'},
+
+           {'acc': 'AAT77177.1', 'family': 'X606_B'},
+           {'acc': 'CBN82200.1', 'family': 'X606_A'},
+
+           {'acc': 'CDF66396.1', 'family': 'X611_B'},
+           {'acc': 'AAA97573.1', 'family': 'X611_A'},
+           {'acc': 'AAC45857.1', 'family': 'X611_A'},
+           
            {'acc': 'AHB32490.1', 'family': 'X608'},
+           {'acc': 'CAI32772.1', 'family': 'X608'},
+
            {'acc': 'ACH50550.1', 'family': 'X586'},
            ]
 
@@ -49,8 +81,9 @@ with open(outfilename, 'w') as outfile:
     outfile.write('}')
 
 # Get architecture strings
-table_folder = "data/compare-architectures/architecture-tables"
-type2symbol = {'t': '=', 'i': '_', 'o': '-', 'h': 'h'}
+table_folder = "data/compare-architectures/architecture-tables-dssp-with-tm"
+# type2symbol = {'t': '=', 'i': '_', 'o': '-', 'h': 'h'}
+# type2symbol = {'h': '=', 'l': '_', 's': 'h', 'e': 'e'}
 for i in range(len(entries)):
     entry = entries[i]
     table_filename = f"{table_folder}/{entry['acc']}.csv"
@@ -59,7 +92,7 @@ for i in range(len(entries)):
     previous = 0
     for index, row in df.iterrows():
         length = int(row.end) - previous
-        architecture_string += type2symbol[row.type] * length
+        architecture_string += row.type * length
         previous = int(row.end)
     entries[i]['architecture_string'] = architecture_string
     entries[i]['length'] = int(row.end)
