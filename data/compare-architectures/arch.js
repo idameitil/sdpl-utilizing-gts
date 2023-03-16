@@ -22,23 +22,28 @@ const colorScheme = [
     }
 ]
 
-const canvasWidth = 9400;
-// const canvasHeight = 3500;
-const canvasHeight = 7000;
-const spaceBetweenArchitectures = 200;
-const leftMargin = 20
-const topMargin = 20
+const spaceBetweenArchitectures = 220;
+const leftMargin = 30;
+const topMargin = 60;
+const canvasWidth = 9300;
+const canvasHeight = Object.keys(lengths).length*spaceBetweenArchitectures+topMargin;
+const spaceBeforeArchitectureName = 60;
+// const sequenceIndent = 600;
 
 function setup(){
     background(255);
     //noStroke();
     createCanvas(canvasWidth, canvasHeight);
     let i = 0;
-    for(const architectureName in architectures){
-        const y = spaceBetweenArchitectures/2+i*spaceBetweenArchitectures;
-        drawArchitectureName(architectureName, y+topMargin);
-        drawArchitecture(architectures[architectureName], conservedResidues[architectureName], lengths[architectureName], y);
-        i++;
+    for(const family of architectures){
+        let y;
+        for(const architectureName in family){
+            y = spaceBetweenArchitectures/2+i*spaceBetweenArchitectures;
+            drawArchitectureName(architectureName, y+topMargin);
+            drawArchitecture(family[architectureName], conservedResidues[architectureName], lengths[architectureName], y);
+            i++;
+        }
+        drawBlackLine(y+120);
     }
 }
 
@@ -46,7 +51,7 @@ const unitSize = 20;
 function drawArchitecture(architectureString, conservedResidues, sequencelength, y){
     for(const i in architectureString){
         const fillConserved = (...v) => !conservedResidues[i]?fill(...v):fill(0);
-        const indent = lengths['max'] - sequencelength;
+        const indent = max_length - sequencelength;
         switch(architectureString[i]){
             case 'l':
                 fillConserved(200);
@@ -69,7 +74,7 @@ function drawArchitecture(architectureString, conservedResidues, sequencelength,
                 drawSheet(i*unitSize+leftMargin+indent*unitSize, y+topMargin, !!conservedResidues[i]);
                 break;
         }
-        drawConservedResidue(conservedResidues[i], i*unitSize+leftMargin+indent*unitSize, y+topMargin);
+        drawConservedResidue(conservedResidues[i], i, i*unitSize+leftMargin+indent*unitSize, y+topMargin);
     }
 }
 
@@ -81,15 +86,21 @@ function getColor(conservedResidue){
     return scheme[0].color;
 }
 
-function drawConservedResidue(conservedResidue, x, y){
-    const size = 140;
+function drawConservedResidue(conservedResidue, position, x, y){
     if(!conservedResidue){
         return;
     }
-    const color = getColor(conservedResidue);
-    textSize(size);
-    fill(...color);
-    text(conservedResidue, x-size/4, y-5);
+    const size_residue_text = 140;
+    const color_residue_text = getColor(conservedResidue);
+    textSize(size_residue_text);
+    fill(...color_residue_text);
+    text(conservedResidue, x-size_residue_text/4, y-5);
+    
+    const color_position_text = [0, 0, 0];
+    const size_position_text = 50;
+    textSize(size_position_text);
+    fill(...color_position_text);
+    text(position, x-size_residue_text/4+5, y-110);
 }
 
 function drawInside(x, y){
@@ -148,5 +159,14 @@ function drawArchitectureName(architectureName, y){
     const color = [0, 0, 0];
     textSize(size);
     fill(...color);
-    text(architectureName, leftMargin, y-10);
+    // text(architectureName.substring(0,4), leftMargin+max_length*unitSize+spaceBeforeArchitectureName, y+40);
+    // text(architectureName, leftMargin+max_length*unitSize+spaceBeforeArchitectureName, y+40);
+    text(architectureName, leftMargin, y-20);
+}
+
+function drawBlackLine(y){
+    const color = [0, 0, 0];
+    fill(...color);
+    stroke(color)
+    rect(0, y, canvasWidth, 3)
 }
