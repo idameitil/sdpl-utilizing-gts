@@ -27,7 +27,7 @@ script = load_ligase_string
 # Get conserved residues
 threshold = 0.99
 
-alignment_filename = "data/eca-pol/MSA_CAZy_family/clade1-pruned-including-AF-mafft.fa"
+alignment_filename = "data/hhblits_cazy_families/msas-family-names/x586-with-model.fa"
 fasta_dict = read_MSA_file(alignment_filename)
 conserved_residues = get_conserved_residues(fasta_dict, threshold=threshold, include_aliphatic=False)
 positions = get_specific_positions_conserved_residues('ACH50550.1', conserved_residues, fasta_dict)
@@ -51,26 +51,27 @@ super 615_i_7TPG, 586_r_ACH50550.1
 """
 
 ### RodA ###
-threshold = 0.9
+threshold = 0.96
 
-alignment_filename = "data/roda/list3-with_6BAR-mafft.fa"
+alignment_filename = "data/roda/list4-with-6bar-pruned-mafft.fa"
 fasta_dict = read_MSA_file(alignment_filename)
 conserved_residues = get_conserved_residues(fasta_dict, threshold=threshold, include_aliphatic=False)
-positions = get_specific_positions_conserved_residues('6BAR_1', conserved_residues, fasta_dict)
-script += f"""fetch 6BAR, 571_i_6BAR
-color 0xeeeeee, 571_i_6BAR
+positions = get_specific_positions_conserved_residues('6bar', conserved_residues, fasta_dict)
+print(positions)
+script += f"""load /Users/idamei/phd/data/roda/alphafold/AF-Q5SIX3-F1-model_v4.pdb, 571_i_AF-6BAR
+color 0xeeeeee, 571_i_AF-6BAR
 """
 for conserved_residue in positions:
     pos = conserved_residue['pos']
-    script += f'label n. CA and resi {pos} and 571_i_6BAR, "%s-%s" % (resn, resi)\n'
-temp_string = f"select cons_571_i_6BAR, "
+    script += f'label n. CA and resi {pos} and 571_i_AF-6BAR, "%s-%s" % (resn, resi)\n'
+temp_string = f"select cons_571_i_AF-6BAR, "
 for conserved_residue in positions:
     pos = conserved_residue['pos']
-    temp_string += f"resi {pos} and 571_i_6BAR or "
+    temp_string += f"resi {pos} and 571_i_AF-6BAR or "
 script += temp_string[:-4] + '\n'
-script += f"""show licorice, cons_571_i_6BAR
-color atomic, (cons_571_i_6BAR and not elem C)
-super 615_i_7TPG, 571_i_6BAR\n
+script += f"""show licorice, cons_571_i_AF-6BAR
+color atomic, (cons_571_i_AF-6BAR and not elem C)
+super 615_i_7TPG, 571_i_AF-6BAR\n
 """
 
 ### O-POL ###
@@ -143,7 +144,7 @@ for supercluster in superclusters:
             first_model_object_name = copy.deepcopy(pymol_object_name(supercluster['name'], acc))
             first_model = False
             if supercluster['name'] in inverting:
-                align_object = '571_i_6BAR'
+                align_object = '571_i_AF-6BAR'
             elif supercluster['name'] in retaining:
                 align_object = '586_r_ACH50550.1'
             script += load_model_string(object_name=pymol_object_name(supercluster['name'], acc), pdb=model_path, color='0xeeeeee', align_object_name=align_object)
