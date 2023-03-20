@@ -22,23 +22,18 @@ select cons_586_r_ACH50550.1, resi 145 and 586_r_ACH50550.1 or resi 204 and 586_
 show licorice, cons_586_r_ACH50550.1
 color atomic, (cons_586_r_ACH50550.1 and not elem C)
 super 615_i_7TPG, 586_r_ACH50550.1
-fetch 6BAR, 571_i_6BAR
-color 0xeeeeee, 571_i_6BAR
-label n. CA and resi 105 and 571_i_6BAR, "%s-%s" % (resn, resi)
-label n. CA and resi 108 and 571_i_6BAR, "%s-%s" % (resn, resi)
-label n. CA and resi 111 and 571_i_6BAR, "%s-%s" % (resn, resi)
-label n. CA and resi 203 and 571_i_6BAR, "%s-%s" % (resn, resi)
-label n. CA and resi 255 and 571_i_6BAR, "%s-%s" % (resn, resi)
-label n. CA and resi 263 and 571_i_6BAR, "%s-%s" % (resn, resi)
-label n. CA and resi 333 and 571_i_6BAR, "%s-%s" % (resn, resi)
-select cons_571_i_6BAR, resi 105 and 571_i_6BAR or resi 108 and 571_i_6BAR or resi 111 and 571_i_6BAR or resi 203 and 571_i_6BAR or resi 255 and 571_i_6BAR or resi 263 and 571_i_6BAR or resi 333 and 571_i_6BAR
-show licorice, cons_571_i_6BAR
-color atomic, (cons_571_i_6BAR and not elem C)
-super 615_i_7TPG, 571_i_6BAR
+load /Users/idamei/phd/data/roda/alphafold/AF-Q5SIX3-F1-model_v4.pdb, 571_i_AF-6BAR
+color 0xeeeeee, 571_i_AF-6BAR
+label n. CA and resi 203 and 571_i_AF-6BAR, "%s-%s" % (resn, resi)
+label n. CA and resi 255 and 571_i_AF-6BAR, "%s-%s" % (resn, resi)
+select cons_571_i_AF-6BAR, resi 203 and 571_i_AF-6BAR or resi 255 and 571_i_AF-6BAR
+show licorice, cons_571_i_AF-6BAR
+color atomic, (cons_571_i_AF-6BAR and not elem C)
+super 615_i_7TPG, 571_i_AF-6BAR
 
 load data/wzy/alphafold/AHB32215.1/ranked_0.pdb, 617_i_AHB32215.1
     color 0xeeeeee, 617_i_AHB32215.1
-    super 571_i_6BAR, 617_i_AHB32215.1
+    super 571_i_AF-6BAR, 617_i_AHB32215.1
     label n. CA and resi 49 and 617_i_AHB32215.1, "%s-%s" % (resn, resi)
 label n. CA and resi 53 and 617_i_AHB32215.1, "%s-%s" % (resn, resi)
 label n. CA and resi 137 and 617_i_AHB32215.1, "%s-%s" % (resn, resi)
@@ -98,7 +93,7 @@ show licorice, cons_617_i_ACH97162.1
     color atomic, (cons_617_i_ACH97162.1 and not elem C)
     load data/wzy/alphafold/CAI33309.1/ranked_0.pdb, 613_i_CAI33309.1
     color 0xeeeeee, 613_i_CAI33309.1
-    super 571_i_6BAR, 613_i_CAI33309.1
+    super 571_i_AF-6BAR, 613_i_CAI33309.1
     label n. CA and resi 150 and 613_i_CAI33309.1, "%s-%s" % (resn, resi)
 label n. CA and resi 266 and 613_i_CAI33309.1, "%s-%s" % (resn, resi)
 label n. CA and resi 304 and 613_i_CAI33309.1, "%s-%s" % (resn, resi)
@@ -185,7 +180,7 @@ show licorice, cons_611_r_AAC45857.1
     color atomic, (cons_611_r_AAC45857.1 and not elem C)
     load data/wzy/alphafold/BAQ00795.1/ranked_0.pdb, 605_i_BAQ00795.1
     color 0xeeeeee, 605_i_BAQ00795.1
-    super 571_i_6BAR, 605_i_BAQ00795.1
+    super 571_i_AF-6BAR, 605_i_BAQ00795.1
     label n. CA and resi 213 and 605_i_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 276 and 605_i_BAQ00795.1, "%s-%s" % (resn, resi)
 label n. CA and resi 308 and 605_i_BAQ00795.1, "%s-%s" % (resn, resi)
@@ -227,7 +222,7 @@ show licorice, cons_605_i_ACA24754.1
     color atomic, (cons_605_i_ACA24754.1 and not elem C)
     load data/wzy/alphafold/ACD37165.1/ranked_0.pdb, 614_i_ACD37165.1
     color 0xeeeeee, 614_i_ACD37165.1
-    super 571_i_6BAR, 614_i_ACD37165.1
+    super 571_i_AF-6BAR, 614_i_ACD37165.1
     label n. CA and resi 206 and 614_i_ACD37165.1, "%s-%s" % (resn, resi)
 label n. CA and resi 258 and 614_i_ACD37165.1, "%s-%s" % (resn, resi)
 label n. CA and resi 291 and 614_i_ACD37165.1, "%s-%s" % (resn, resi)
@@ -263,7 +258,7 @@ show licorice, cons_606_r_AAT77177.1
     color atomic, (cons_606_r_AAT77177.1 and not elem C)
     load data/wzy/alphafold/CAI34124.1/ranked_0.pdb, 607_i_CAI34124.1
     color 0xeeeeee, 607_i_CAI34124.1
-    super 571_i_6BAR, 607_i_CAI34124.1
+    super 571_i_AF-6BAR, 607_i_CAI34124.1
     label n. CA and resi 267 and 607_i_CAI34124.1, "%s-%s" % (resn, resi)
 label n. CA and resi 301 and 607_i_CAI34124.1, "%s-%s" % (resn, resi)
 label n. CA and resi 304 and 607_i_CAI34124.1, "%s-%s" % (resn, resi)
@@ -304,7 +299,7 @@ show licorice, cons_610_r_AHB32411.1
     color atomic, (cons_610_r_AHB32411.1 and not elem C)
     load data/wzy/alphafold/CAI34254.1/ranked_0.pdb, 609_i_CAI34254.1
     color 0xeeeeee, 609_i_CAI34254.1
-    super 571_i_6BAR, 609_i_CAI34254.1
+    super 571_i_AF-6BAR, 609_i_CAI34254.1
     label n. CA and resi 171 and 609_i_CAI34254.1, "%s-%s" % (resn, resi)
 label n. CA and resi 182 and 609_i_CAI34254.1, "%s-%s" % (resn, resi)
 label n. CA and resi 183 and 609_i_CAI34254.1, "%s-%s" % (resn, resi)
