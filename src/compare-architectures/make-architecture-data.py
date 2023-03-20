@@ -8,7 +8,7 @@ threshold = 0.96
 def get_name(entry):
     if entry['family'] == 'X571':
         name = f"{entry['family']}, RodA, {entry['acc']}"
-    elif entry['family'] == 'X615':
+    elif entry['family'] == 'X615' or entry['family'][0:4] == 'X615':
         name = f"{entry['family']}, O-Lig, {entry['acc']}"
     elif entry['family'] == 'X586':
         name = f"{entry['family']}, ECA-Pol, {entry['acc']}"
