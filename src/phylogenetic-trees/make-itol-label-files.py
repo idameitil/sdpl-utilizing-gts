@@ -138,3 +138,50 @@ make_pubmed_color_file(wzy_df, 'wzy')
 # PUT GENBANK SEARCH TSV
 # eca_pol_genbank_search_df = pd.read_csv("data/eca-pol/genbank-search/hits-enriched.tsv", sep='\t', dtype='object')
 # make_taxonomy_label_file(eca_pol_genbank_search_df, 'eca-pol', genbank_hits=True)
+
+def make_family_membership_color_file(acc2family, acc2color):
+    outfilename = f"data/wzy/phylogenetic-trees/itol-label-files/family_color.txt"
+    with open(outfilename, "w") as file:
+        header = f"DATASET_COLORSTRIP\nSEPARATOR COMMA\nDATASET_LABEL,family_colors\nCOLOR,#ff0000\nDATA\n"
+        file.write(header)
+        for acc in acc2family:
+            family = acc2family[acc]
+            file.write(f"{acc},{family2color[family]},{family}\n")
+
+def make_family_membership_arrow_file(acc2family, acc2color, family2firstacc):
+    outfilename = f"data/wzy/phylogenetic-trees/itol-label-files/family_arrow.txt"
+    with open(outfilename, "w") as file:
+        header = f"DATASET_CONNECTION\nSEPARATOR COMMA\nDATASET_LABEL,family_arrows\nCOLOR,#ff0ff0\nALIGN_TO_LABELS,1\nCENTER_CURVES,1\nCENTER_CURVES,1\nDATA\n"
+        file.write(header)
+        for acc in acc2family:
+            family = acc2family[acc]
+            if acc == family2firstacc[family]:
+                pass
+            else:
+                file.write(f"{family2firstacc[family]},{acc},2,{family2color[family]},dashed,{family}\n")               
+
+input_filename = f"seeds-in-families"
+selected_seeds = list()
+with open(input_filename, 'r') as infile:
+    for line in infile:
+        selected_seeds.append(line.strip())
+print(selected_seeds)
+
+input_filename = f"data/wzy/family-membership.csv"
+acc2family = {}
+family2color = {}
+family2firstacc = {}
+with open(input_filename, 'r', encoding='utf-8-sig') as infile:
+    for line in infile:
+        acc, family_raw = line.strip().split(',')
+        family = family_raw[0:4]
+        if acc not in selected_seeds:
+            continue
+        acc2family[acc] = family
+        family = acc2family[acc]
+        if family not in family2color:
+            color = '#' + "%06x" % random.randint(0, 0xFFFFFF)
+            family2color[family] = color
+            family2firstacc[family] = acc
+make_family_membership_color_file(acc2family, family2color)
+make_family_membership_arrow_file(acc2family, family2color, family2firstacc)
