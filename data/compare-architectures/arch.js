@@ -96,11 +96,11 @@ function drawConservedResidue(conservedResidue, position, x, y){
     fill(...color_residue_text);
     text(conservedResidue, x-size_residue_text/4, y-5);
     
-    const color_position_text = [0, 0, 0];
-    const size_position_text = 50;
-    textSize(size_position_text);
-    fill(...color_position_text);
-    text(position, x-size_residue_text/4+5, y-110);
+    // const color_position_text = [0, 0, 0];
+    // const size_position_text = 50;
+    // textSize(size_position_text);
+    // fill(...color_position_text);
+    // text(position, x-size_residue_text/4+5, y-110);
 }
 
 function drawInside(x, y){
