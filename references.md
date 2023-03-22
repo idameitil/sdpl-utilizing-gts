@@ -1,4 +1,17 @@
-# Minutes from meeting 10th of March
+# DTU massage
+https://dtumassage.onlinebooq.dk/
+
+# Minutes from meeting 21st of March 2023
+SEDS/RodA: We’ll rephrase the text to say that the family includes not only RodA, but also other SEDS
+Architecture figure: Ida will work on a nicer looking figure to include in the paper
+WadA: Ida has e-mail with alignment. Bernard will send to Vincent
+Sugar distance: Ida and Garry will work on big tree with heatmap
+Families with weird sugars: We’ll check the genomes to see if there’s a second cluster
+
+# SPS workshops
+https://srg.dk/da/til-uddannelsesinstitutioner/sps/
+
+# Minutes from meeting 10th of March 2023
 Meeting minutes:
 - Move discussion points to the overleaf document (done)
 - We’ll use American spelling
@@ -16,7 +29,7 @@ Meeting minutes:
 # FtsW
 Is assumed to have a similar role as RodA in the divisome (Meeske)
 
-# Minutes from meeting 2nd March
+# Minutes from meeting 2nd March 2023
 - We will have to cite Alexander and Locher paper, but otherwise it won’t affect the content of the paper
 - We will include family comparison heatmap and architecture overview (Ida will make figure nicer)
 - Ida will migrate the manuscript to overleaf this week (put figures in the end)
@@ -32,6 +45,7 @@ Hide stuff that is in front of what you show (but write in the figure caption th
 Use slab
 select loop, resi309:324
 set cartoon_fancy_helices
+fetch 4u5h, async=0 (doesn't run the next command until everything has been loaded)
 
 # Meeting minutes 15 Feb 2023
 - Ida will go through the references for the seeds (maybe make iTOL label file with references)
@@ -106,7 +120,7 @@ Removed SSN clusters 75, 72, 60
     - `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/0055_22/0055_22.accs-pruned-mafft.fa`
     - `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/0129_7/0129_7.accs_pruned-mafft.fa`
     - `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/0221_4/0221_4.accs_pruned-mafft.fa`
-    - `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/0221_4/0221_4.accs_pruned.fa`
+    - `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/0250_3/0250_3.accs_pruned-mafft.fa`
 
 # Project number and task number
 Project number: 27 - ...
