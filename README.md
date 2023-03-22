@@ -121,6 +121,9 @@ To make a fasta file with the selected nodes that have a sugar, run `python src/
 
 The fasta file (`data/wzy/phylogenetic-trees/small-tree-poster/selected-nodes-small-tree.fasta`) is uploaded to muscle website (https://www.ebi.ac.uk/Tools/msa/muscle/) and the tree is saved in `data/wzy/phylogenetic-trees/small-tree-poster/selected-nodes-small-tree.nwk`
 
+### Combine family trees
+To combine all family trees into one, run `python src/phylogenetic-trees/combine-trees.py`.
+
 ## Phobius
 Phobius is run at `https://phobius.sbc.su.se/`. The results are downloaded with "Save page as", "Web Page, complete" and saved in `data/wzy/phobius`.
 
