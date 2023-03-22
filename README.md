@@ -297,11 +297,6 @@ Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/a
 ### Prepare list of accessions for CAZy (this was not used)
 `python src/genbank-search/filter-hits.py waal 6e-23`. This will create the file `data/waal/genbank-search/hits-6e-23.txt`.
 
-### Pymol visualization
-To make the pymol visualization, run: `pymol src/waal-analysis/make-pymol-visualization.py [threshold]`
-
-To open in pymol, run `data/waal/final_family/pymol-visualization-[threshold].pml`.
-
 ## ECA-Pol
 
 ### Make seed MSA
@@ -376,11 +371,6 @@ Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-po
 `cd-hit -i data/eca-pol/genbank-search/hits.fasta -o data/eca-pol/genbank-search/hits-cdhit99.fasta -c 0.99`
 
 `python src/ssn-clustering/cluster/get-clusters.py [timestamp] [expansion-threshold] [ssn-threshold] eca-pol`
-
-### Make Pymol visualization (update with new MSA)
-To make the pymol visualization, run: `python src/eca-pol-analysis/make-pymol-visualization.py [conservation_threshold]`
-
-To open in pymol, run: `pymol data/eca-pol/MSA_CAZy_family/pymol-visualization-[conservation_threshold].pml`.
 
 ## RodA
 A fasta file of family X571 (RodA) was downloaded with "Fetch fasta" (Fields ticked: "Public Sequences", "Add Frags,Splicing" and "Add (0-0) Sequences"). It is located in `data/roda/cazyX571.fa`.
