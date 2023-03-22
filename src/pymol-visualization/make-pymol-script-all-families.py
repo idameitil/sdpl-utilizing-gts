@@ -10,6 +10,11 @@ views_filename = "src/pymol-visualization/views.json"
 with open(views_filename) as infile:
     views = json.load(infile)
 
+# Load conserved residue
+conserved_residues_filename = 'data/compare-architectures/conserved_manual.json'
+with open(conserved_residues_filename) as infile:
+    conserved_residues = json.load(infile)
+
 ### O-LIG ###
 load_ligase_string = f"""
 fetch 7tpg, 615_i_7TPG_O-Lig
@@ -27,23 +32,25 @@ script = load_ligase_string
 # Get conserved residues
 threshold = 0.99
 
-alignment_filename = "data/hhblits_cazy_families/msas-family-names/x586-with-model.fa"
-fasta_dict = read_MSA_file(alignment_filename)
-conserved_residues = get_conserved_residues(fasta_dict, threshold=threshold, include_aliphatic=False)
-positions = get_specific_positions_conserved_residues('ACH50550.1', conserved_residues, fasta_dict)
+# alignment_filename = "data/hhblits_cazy_families/msas-family-names/x586-with-model.fa"
+# fasta_dict = read_MSA_file(alignment_filename)
+# conserved_residues = get_conserved_residues(fasta_dict, threshold=threshold, include_aliphatic=False)
+# positions = get_specific_positions_conserved_residues('ACH50550.1', conserved_residues, fasta_dict)
 
 # Make script string
 script += f"""
 load data/eca-pol/alphafold/ACH50550.1/ranked_0.pdb, 586_r_ACH50550.1
 color 0xeeeeee, 586_r_ACH50550.1
 """
-for conserved_residue in positions:
-    pos = conserved_residue['pos']
-    script += f'label n. CA and resi {pos} and 586_r_ACH50550.1, "%s-%s" % (resn, resi)\n'
+# for conserved_residue in positions:
+for position in conserved_residues['ACH50550.1']:
+    # position = conserved_residue['pos']
+    script += f'label n. CA and resi {position} and 586_r_ACH50550.1, "%s-%s" % (resn, resi)\n'
 temp_string = f"select cons_586_r_ACH50550.1, "
-for conserved_residue in positions:
-    pos = conserved_residue['pos']
-    temp_string += f"resi {pos} and 586_r_ACH50550.1 or "
+# for conserved_residue in positions:
+for position in conserved_residues['ACH50550.1']:
+    # position = conserved_residue['pos']
+    temp_string += f"resi {position} and 586_r_ACH50550.1 or "
 script += temp_string[:-4] + '\n'
 script += f"""show licorice, cons_586_r_ACH50550.1
 color atomic, (cons_586_r_ACH50550.1 and not elem C)
@@ -53,21 +60,22 @@ super 615_i_7TPG, 586_r_ACH50550.1
 ### RodA ###
 threshold = 0.96
 
-alignment_filename = "data/roda/list4-with-6bar-pruned-mafft.fa"
-fasta_dict = read_MSA_file(alignment_filename)
-conserved_residues = get_conserved_residues(fasta_dict, threshold=threshold, include_aliphatic=False)
-positions = get_specific_positions_conserved_residues('6bar', conserved_residues, fasta_dict)
-print(positions)
+# alignment_filename = "data/roda/list4-with-6bar-pruned-mafft.fa"
+# fasta_dict = read_MSA_file(alignment_filename)
+# conserved_residues = get_conserved_residues(fasta_dict, threshold=threshold, include_aliphatic=False)
+# positions = get_specific_positions_conserved_residues('6bar', conserved_residues, fasta_dict)
 script += f"""load /Users/idamei/phd/data/roda/alphafold/AF-Q5SIX3-F1-model_v4.pdb, 571_i_AF-6BAR
 color 0xeeeeee, 571_i_AF-6BAR
 """
-for conserved_residue in positions:
-    pos = conserved_residue['pos']
-    script += f'label n. CA and resi {pos} and 571_i_AF-6BAR, "%s-%s" % (resn, resi)\n'
+# for conserved_residue in conserved_residues:
+for position in conserved_residues['6bar']:
+    # position = conserved_residue['pos']
+    script += f'label n. CA and resi {position} and 571_i_AF-6BAR, "%s-%s" % (resn, resi)\n'
 temp_string = f"select cons_571_i_AF-6BAR, "
-for conserved_residue in positions:
-    pos = conserved_residue['pos']
-    temp_string += f"resi {pos} and 571_i_AF-6BAR or "
+# for conserved_residue in conserved_residues:
+for position in conserved_residues['6bar']:
+    # position = conserved_residue['pos']
+    temp_string += f"resi {position} and 571_i_AF-6BAR or "
 script += temp_string[:-4] + '\n'
 script += f"""show licorice, cons_571_i_AF-6BAR
 color atomic, (cons_571_i_AF-6BAR and not elem C)
@@ -150,19 +158,21 @@ for supercluster in superclusters:
             script += load_model_string(object_name=pymol_object_name(supercluster['name'], acc), pdb=model_path, color='0xeeeeee', align_object_name=align_object)
         else:
             script += load_model_string(object_name=pymol_object_name(supercluster['name'], acc), pdb=model_path, color='0xeeeeee', align_object_name=first_model_object_name)
-        positions = supercluster['conserved_positions_af_models'][acc]
         # Conserved residues
         pymol_selection_name = f"cons_{pymol_object_name(supercluster['name'], acc)}"
+        positions = supercluster['conserved_positions_af_models'][acc]
         for conserved_residue in positions:
-            pos = conserved_residue['pos']
+        # for position in conserved_residues[acc]:
+            position = conserved_residue['pos']
             freq = round(conserved_residue['freq']*100)
-            # script += f'label n. CA and resi {pos} and {pymol_object_name(supercluster['name'], acc)}, "%s-%s ({freq}%%)" % (resn, resi)\n'
-            # script += f'label n. CA and resi {pos} and {pymol_object_name(supercluster['name'], acc)}, "%s" % (resn)\n'
-            script += f'label n. CA and resi {pos} and {pymol_object_name(supercluster["name"], acc)}, "%s-%s" % (resn, resi)\n'
+            # script += f'label n. CA and resi {position} and {pymol_object_name(supercluster['name'], acc)}, "%s-%s ({freq}%%)" % (resn, resi)\n'
+            # script += f'label n. CA and resi {position} and {pymol_object_name(supercluster['name'], acc)}, "%s" % (resn)\n'
+            script += f'label n. CA and resi {position} and {pymol_object_name(supercluster["name"], acc)}, "%s-%s" % (resn, resi)\n'
         temp_string = f"select {pymol_selection_name}, "
         for conserved_residue in positions:
-            pos = conserved_residue['pos']
-            temp_string += f"resi {pos} and {pymol_object_name(supercluster['name'], acc)} or "
+        # for position in conserved_residues[acc]:
+            position = conserved_residue['pos']
+            temp_string += f"resi {position} and {pymol_object_name(supercluster['name'], acc)} or "
         script += temp_string[:-4] + '\n'
         script += show_conserved_residues_string(selection_name=pymol_selection_name)
         # Save images

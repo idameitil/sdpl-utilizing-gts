@@ -16,9 +16,8 @@ label n. CA and resi 247 and 586_r_ACH50550.1, "%s-%s" % (resn, resi)
 label n. CA and resi 248 and 586_r_ACH50550.1, "%s-%s" % (resn, resi)
 label n. CA and resi 321 and 586_r_ACH50550.1, "%s-%s" % (resn, resi)
 label n. CA and resi 336 and 586_r_ACH50550.1, "%s-%s" % (resn, resi)
-label n. CA and resi 365 and 586_r_ACH50550.1, "%s-%s" % (resn, resi)
 label n. CA and resi 399 and 586_r_ACH50550.1, "%s-%s" % (resn, resi)
-select cons_586_r_ACH50550.1, resi 145 and 586_r_ACH50550.1 or resi 204 and 586_r_ACH50550.1 or resi 247 and 586_r_ACH50550.1 or resi 248 and 586_r_ACH50550.1 or resi 321 and 586_r_ACH50550.1 or resi 336 and 586_r_ACH50550.1 or resi 365 and 586_r_ACH50550.1 or resi 399 and 586_r_ACH50550.1
+select cons_586_r_ACH50550.1, resi 145 and 586_r_ACH50550.1 or resi 204 and 586_r_ACH50550.1 or resi 247 and 586_r_ACH50550.1 or resi 248 and 586_r_ACH50550.1 or resi 321 and 586_r_ACH50550.1 or resi 336 and 586_r_ACH50550.1 or resi 399 and 586_r_ACH50550.1
 show licorice, cons_586_r_ACH50550.1
 color atomic, (cons_586_r_ACH50550.1 and not elem C)
 super 615_i_7TPG, 586_r_ACH50550.1
