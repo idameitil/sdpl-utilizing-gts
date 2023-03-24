@@ -401,6 +401,7 @@ Compress the db: `hmmpress data/hhblits_cazy_families/hmmscan_db/hmmscan_db`
 Test your query sequence like this: `hmmscan data/hhblits_cazy_families/hmmscan_db/hmmscan_db [query_fasta] > hmmscan.out`
 
 ## Pymol visualization
+(Old)
 To make pymol script including all families, run: `python src/pymol-visualization/make-pymol-script-all-families.py`.
 
 Then, to run the pymol script without making the images: `pymol data/pymol-visualizations/pymol-script.pml`.
@@ -408,6 +409,15 @@ Then, to run the pymol script without making the images: `pymol data/pymol-visua
 Or run the pymol script with making the images: `pymol data/pymol-visualizations/pymol-script-make-images.pml`.
 
 This will create the figures in `data/pymol-visualizations/figures`.
+
+(New, with only one model per family)
+To make pymol script including all families, run: `src/pymol-visualization/make-pymol-script-selected.py`.
+
+Then, to run the pymol script without making the images: `pymol data/pymol-visualizations/pymol-script-selected.pml`.
+
+Or run the pymol script with making the images: `pymol data/pymol-visualizations/pymol-script-selected-make-images.pml`.
+
+This will create the figures in `data/pymol-visualizations/figures-selected`.
 
 ## Compare architecture (figure)
 (Old) The architectures were manually written from the alphafold structures in pymol into `data/compare-architectures/architecture-tables/[acc].csv`.
