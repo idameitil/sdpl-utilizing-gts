@@ -55,11 +55,15 @@ function drawArchitecture(architectureString, conservedResidues, sequencelength,
         switch(architectureString[i]){
             case 'l':
                 fillConserved(200);
-                drawOutside(i*unitSize+leftMargin+indent*unitSize, y+topMargin);
+                drawLoop(i*unitSize+leftMargin+indent*unitSize, y+topMargin);
                 break;
             // case '_':
             //     fillConserved(200);
             //     drawInside(i*unitSize+leftMargin+indent*unitSize, y+topMargin); 
+            //     break;
+            // case '_':
+            //     fillConserved(200);
+            //     drawOutside(i*unitSize+leftMargin+indent*unitSize, y+topMargin); 
             //     break;
             case 'h':
                 fillConserved(45, 130, 80);
@@ -96,11 +100,11 @@ function drawConservedResidue(conservedResidue, position, x, y){
     fill(...color_residue_text);
     text(conservedResidue, x-size_residue_text/4, y-5);
     
-    // const color_position_text = [0, 0, 0];
-    // const size_position_text = 50;
-    // textSize(size_position_text);
-    // fill(...color_position_text);
-    // text(position, x-size_residue_text/4+5, y-110);
+    const color_position_text = [0, 0, 0];
+    const size_position_text = 50;
+    textSize(size_position_text);
+    fill(...color_position_text);
+    text(position, x-size_residue_text/4+5, y-110);
 }
 
 function drawInside(x, y){
@@ -110,9 +114,12 @@ function drawInside(x, y){
 
 function drawOutside(x, y){
     noStroke();
-    // const color = [150, 0, 0];
-    // fill(...color);
     rect(x, y, unitSize, unitSize*2*.5);
+}
+
+function drawLoop(x,y){
+    noStroke();
+    rect(x, y+unitSize*2*.25, unitSize, unitSize*2*.5);
 }
 
 function drawHelix(x, y, hasConservedResidue){
