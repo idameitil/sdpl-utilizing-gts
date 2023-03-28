@@ -4,7 +4,7 @@ sys.path.append("src/ssn-clustering")
 from common import read_MSA_file, get_conserved_residues, get_specific_positions_conserved_residues
 import json
 
-threshold = 0.998
+threshold = 0.99
 
 def get_name(entry):
     if entry['family'] == 'X571':
@@ -23,9 +23,12 @@ def get_name(entry):
 #            ],
 #            [
 #            {'acc': 'WP_011517284.1', 'family': 'X615_A'},
-#            {'acc': 'CAR61594.1', 'family': 'X615_C'}
+#            {'acc': 'AAG08384.1', 'family': 'X615_B'},
+#            {'acc': 'CAR61594.1', 'family': 'X615_C'},
+#            {'acc': 'ALO25540.1', 'family': 'X615_D'}
 #            ],
 #            [
+#            {'acc': 'AAY28257.1', 'family': 'X614_A'},
 #            {'acc': 'ACD37165.1', 'family': 'X614_B'},
 #            {'acc': 'AAM27615.1', 'family': 'X614_C'}
 #            ],
@@ -43,6 +46,7 @@ def get_name(entry):
 #            {'acc': 'AIG62747.1', 'family': 'X613'}
 #            ],
 #            [
+#            {'acc': 'ACD37046.1', 'family': 'X605_A'},
 #            {'acc': 'BAQ02088.1', 'family': 'X605_B'},
 #            {'acc': 'ACA24754.1', 'family': 'X605_B'},
 #            {'acc': 'BAQ00795.1', 'family': 'X605_C'},
@@ -51,6 +55,7 @@ def get_name(entry):
 #            [
 #            {'acc': 'CAI34008.1', 'family': 'X617_A'},
 #            {'acc': 'ACA24821.1', 'family': 'X617_B'},
+#            {'acc': 'ACU06810.1', 'family': 'X617_C'},
 #            {'acc': 'AHB32215.1', 'family': 'X617_D'},
 #            {'acc': 'ADC54967.1', 'family': 'X617_E'},
 #            {'acc': 'AHB32334.1', 'family': 'X617'},
@@ -60,12 +65,13 @@ def get_name(entry):
 #            {'acc': 'AHB32411.1', 'family': 'X610'}
 #            ],
 #            [
+#            {'acc': 'CAI32823.1', 'family': 'X612_A'},
 #            {'acc': 'ADC54950.1', 'family': 'X612_B'},
 #            {'acc': 'BAQ00653.1', 'family': 'X612'},
 #            {'acc': 'AAZ85718.1', 'family': 'X612'}
 #            ],
 #            [
-#            {'acc': 'AAT77177.1', 'family': 'X606_A'},
+#            {'acc': 'CBN82200.1', 'family': 'X606_A'},
 #            {'acc': 'AAT77177.1', 'family': 'X606_B'}
 #            ],
 #            [
@@ -74,6 +80,8 @@ def get_name(entry):
 #            {'acc': 'CDF66396.1', 'family': 'X611_B'}
 #            ],
 #            [
+#            {'acc': 'CAD19991.1', 'family': 'X608_A'},
+#            {'acc': 'CAI33983.1', 'family': 'X608_B'},
 #            {'acc': 'CAI32772.1', 'family': 'X608_C'},
 #            {'acc': 'AHB32490.1', 'family': 'X608_D'}
 #            ],
@@ -83,68 +91,77 @@ def get_name(entry):
 #            ]
 
 # All, with family conservation
-# entries = [
-#            [{'acc': '6bar', 'family': 'X571'},
-#            ],
-#            [
-#            {'acc': 'WP_011517284.1', 'family': 'X615'},
-#            {'acc': 'CAR61594.1', 'family': 'X615'}
-#            ],
-#            [
-#            {'acc': 'ACD37165.1', 'family': 'X614'},
-#            {'acc': 'AAM27615.1', 'family': 'X614'}
-#            ],
-#            [
-#            {'acc': 'CAI34254.1', 'family': 'X609'},
-#            {'acc': 'CAI34198.1', 'family': 'X609'},
-#            {'acc': 'CAI34217.1', 'family': 'X609'}
-#            ],
-#            [
-#            {'acc': 'CAI34124.1', 'family': 'X607'},
-#            ],
-#            [
-#            {'acc': 'CAI33309.1', 'family': 'X613'},
-#            {'acc': 'CAI34369.1', 'family': 'X613'},
-#            {'acc': 'AIG62747.1', 'family': 'X613'}
-#            ],
-#            [
-#            {'acc': 'BAQ00795.1', 'family': 'X605'},
-#            {'acc': 'BAQ01659.1', 'family': 'X605'},
-#            {'acc': 'BAQ02088.1', 'family': 'X605'},
-#            {'acc': 'ACA24754.1', 'family': 'X605'}
-#            ],
-#            [
-#            {'acc': 'AHB32215.1', 'family': 'X617'},
-#            {'acc': 'AHB32861.1', 'family': 'X617'},
-#            {'acc': 'CAI34008.1', 'family': 'X617'},
-#            {'acc': 'AHB32334.1', 'family': 'X617'},
-#            {'acc': 'ACH97162.1', 'family': 'X617'} 
-#            ],
-#            [
-#            {'acc': 'AHB32411.1', 'family': 'X610'}
-#            ],
-#            [
-#            {'acc': 'BAQ00653.1', 'family': 'X612'},
-#            {'acc': 'ADC54950.1', 'family': 'X612'},
-#            {'acc': 'AAZ85718.1', 'family': 'X612'}
-#            ],
-#            [
-#            {'acc': 'AAT77177.1', 'family': 'X606'},
-#            {'acc': 'AAT77177.1', 'family': 'X606'}
-#            ],
-#            [
-#            {'acc': 'CDF66396.1', 'family': 'X611'},
-#            {'acc': 'AAA97573.1', 'family': 'X611'},
-#            {'acc': 'AAC45857.1', 'family': 'X611'}
-#            ],
-#            [
-#            {'acc': 'AHB32490.1', 'family': 'X608'},
-#            {'acc': 'CAI32772.1', 'family': 'X608'}
-#            ],
-#            [
-#            {'acc': 'ACH50550.1', 'family': 'X586'}
-#            ]
-#            ]
+entries = [
+           [{'acc': '6bar', 'family': 'X571'},
+           ],
+           [
+           {'acc': 'WP_011517284.1', 'family': 'X615'},
+           {'acc': 'AAG08384.1', 'family': 'X615'},
+           {'acc': 'CAR61594.1', 'family': 'X615'},
+           {'acc': 'ALO25540.1', 'family': 'X615'}
+           ],
+           [
+           {'acc': 'AAY28257.1', 'family': 'X614'},
+           {'acc': 'ACD37165.1', 'family': 'X614'},
+           {'acc': 'AAM27615.1', 'family': 'X614'}
+           ],
+           [
+           {'acc': 'CAI34254.1', 'family': 'X609'},
+           {'acc': 'CAI34198.1', 'family': 'X609'},
+           {'acc': 'CAI34217.1', 'family': 'X609'}
+           ],
+           [
+           {'acc': 'CAI34124.1', 'family': 'X607'},
+           ],
+           [
+           {'acc': 'CAI33309.1', 'family': 'X613'},
+           {'acc': 'CAI34369.1', 'family': 'X613'},
+           {'acc': 'AIG62747.1', 'family': 'X613'}
+           ],
+           [
+           {'acc': 'ACD37046.1', 'family': 'X605'},
+           {'acc': 'BAQ02088.1', 'family': 'X605'},
+           {'acc': 'ACA24754.1', 'family': 'X605'},
+           {'acc': 'BAQ00795.1', 'family': 'X605'},
+           {'acc': 'BAQ01659.1', 'family': 'X605'}
+           ],
+           [
+           {'acc': 'CAI34008.1', 'family': 'X617'},
+           {'acc': 'ACA24821.1', 'family': 'X617'},
+           {'acc': 'ACU06810.1', 'family': 'X617'},
+           {'acc': 'AHB32215.1', 'family': 'X617'},
+           {'acc': 'ADC54967.1', 'family': 'X617'},
+           {'acc': 'AHB32334.1', 'family': 'X617'},
+           {'acc': 'ACH97162.1', 'family': 'X617'} 
+           ],
+           [
+           {'acc': 'AHB32411.1', 'family': 'X610'}
+           ],
+           [
+           {'acc': 'CAI32823.1', 'family': 'X612'},
+           {'acc': 'ADC54950.1', 'family': 'X612'},
+           {'acc': 'BAQ00653.1', 'family': 'X612'},
+           {'acc': 'AAZ85718.1', 'family': 'X612'}
+           ],
+           [
+           {'acc': 'CBN82200.1', 'family': 'X606'},
+           {'acc': 'AAT77177.1', 'family': 'X606'}
+           ],
+           [
+           {'acc': 'AAA97573.1', 'family': 'X611'},
+           {'acc': 'AAC45857.1', 'family': 'X611'},
+           {'acc': 'CDF66396.1', 'family': 'X611'}
+           ],
+           [
+           {'acc': 'CAD19991.1', 'family': 'X608'},
+           {'acc': 'CAI33983.1', 'family': 'X608'},
+           {'acc': 'CAI32772.1', 'family': 'X608'},
+           {'acc': 'AHB32490.1', 'family': 'X608'}
+           ],
+           [
+           {'acc': 'ACH50550.1', 'family': 'X586'}
+           ]
+           ]
 
 # Selected, with subfamily conservation
 # entries = [
@@ -169,67 +186,67 @@ def get_name(entry):
 # ]
 
 # Selected with family conservation
-entries = [
-    [
-    {'acc': '6bar', 'family': 'X571'},
-    {'acc': 'WP_011517284.1', 'family': 'X615'},
-    {'acc': 'AAM27615.1', 'family': 'X614'},
-    {'acc': 'CAI34254.1', 'family': 'X609'},
-    {'acc': 'CAI34124.1', 'family': 'X607'},
-    {'acc': 'CAI34369.1', 'family': 'X613'},
-    {'acc': 'BAQ02088.1', 'family': 'X605'},
-    {'acc': 'AHB32861.1', 'family': 'X617'}
-    ],
-    [
-    {'acc': 'AHB32411.1', 'family': 'X610'},
-    {'acc': 'ADC54950.1', 'family': 'X612'},
-    {'acc': 'AAT77177.1', 'family': 'X606'},
-    {'acc': 'AAA97573.1', 'family': 'X611'},
-    {'acc': 'CAI32772.1', 'family': 'X608'},
-    {'acc': 'ACH50550.1', 'family': 'X586'}
-    ]
-]
+# entries = [
+#     [
+#     {'acc': '6bar', 'family': 'X571'},
+#     {'acc': 'WP_011517284.1', 'family': 'X615'},
+#     {'acc': 'AAM27615.1', 'family': 'X614'},
+#     {'acc': 'CAI34254.1', 'family': 'X609'},
+#     {'acc': 'CAI34124.1', 'family': 'X607'},
+#     {'acc': 'CAI34369.1', 'family': 'X613'},
+#     {'acc': 'BAQ02088.1', 'family': 'X605'},
+#     {'acc': 'AHB32861.1', 'family': 'X617'}
+#     ],
+#     [
+#     {'acc': 'AHB32411.1', 'family': 'X610'},
+#     {'acc': 'ADC54950.1', 'family': 'X612'},
+#     {'acc': 'AAT77177.1', 'family': 'X606'},
+#     {'acc': 'AAA97573.1', 'family': 'X611'},
+#     {'acc': 'CAI32772.1', 'family': 'X608'},
+#     {'acc': 'ACH50550.1', 'family': 'X586'}
+#     ]
+# ]
 
 # Write manual conservation file
-filename = "data/compare-architectures/conserved_manual.json"
-with open(filename) as infile:
-    conserved_dict = json.load(infile)
+# filename = "data/compare-architectures/conserved_manual.json"
+# with open(filename) as infile:
+#     conserved_dict = json.load(infile)
 
-outfilename = f"data/compare-architectures/conserved_manual.js"
-with open(outfilename, 'w') as outfile:
-    outfile.write("const conservedResidues = {\n")
-    for i in range(len(entries)):
-        for j in range(len(entries[i])):
-            entry = entries[i][j]
-            outfile.write(f"\t'{get_name(entry)}': {conserved_dict[entry['acc']]},\n")
-    outfile.write('};')
-
-# Get conserved
-# for i in range(len(entries)):
-#     for j in range(len(entries[i])):
-#         entry = entries[i][j]
-#         if entry['family'] == 'X586':
-#             alignment_filename = f"data/hhblits_cazy_families/msas-family-names/{entry['family']}-with-model.fa"
-#         elif entry['family'] == 'X571':
-#             alignment_filename = f"data/roda/list4-with-6bar-pruned-mafft.fa"
-#             # entries[i]['conserved_positions'] = {255: 'D'}
-#             # continue
-#         else:
-#             alignment_filename = f"data/hhblits_cazy_families/msas-family-names/{entry['family']}.fa"
-#         fasta_dict = read_MSA_file(alignment_filename)
-#         conserved_residues = get_conserved_residues(fasta_dict, threshold=threshold, include_aliphatic=False)
-#         positions = get_specific_positions_conserved_residues(entry['acc'], conserved_residues, fasta_dict)
-#         entries[i][j]['conserved_positions'] = {position['pos']: position['AA'] for position in positions}
-
-# # Write conserved file
-# outfilename = f"data/compare-architectures/conserved_{threshold}.js"
+# outfilename = f"data/compare-architectures/conserved_manual.js"
 # with open(outfilename, 'w') as outfile:
 #     outfile.write("const conservedResidues = {\n")
 #     for i in range(len(entries)):
 #         for j in range(len(entries[i])):
 #             entry = entries[i][j]
-#             outfile.write(f"\t'{get_name(entry)}': {entry['conserved_positions']},\n")
+#             outfile.write(f"\t'{get_name(entry)}': {conserved_dict[entry['acc']]},\n")
 #     outfile.write('};')
+
+# Get conserved
+for i in range(len(entries)):
+    for j in range(len(entries[i])):
+        entry = entries[i][j]
+        if entry['family'] == 'X586':
+            alignment_filename = f"data/hhblits_cazy_families/msas-family-names/{entry['family']}-with-model.fa"
+        elif entry['family'] == 'X571':
+            alignment_filename = f"data/roda/list4-with-6bar-pruned-mafft.fa"
+            # entries[i]['conserved_positions'] = {255: 'D'}
+            # continue
+        else:
+            alignment_filename = f"data/hhblits_cazy_families/msas-family-names/{entry['family']}.fa"
+        fasta_dict = read_MSA_file(alignment_filename)
+        conserved_residues = get_conserved_residues(fasta_dict, threshold=threshold, include_aliphatic=False)
+        positions = get_specific_positions_conserved_residues(entry['acc'], conserved_residues, fasta_dict)
+        entries[i][j]['conserved_positions'] = {position['pos']: position['AA'] for position in positions}
+
+# Write conserved file
+outfilename = f"data/compare-architectures/conserved_{threshold}.js"
+with open(outfilename, 'w') as outfile:
+    outfile.write("const conservedResidues = {\n")
+    for i in range(len(entries)):
+        for j in range(len(entries[i])):
+            entry = entries[i][j]
+            outfile.write(f"\t'{get_name(entry)}': {entry['conserved_positions']},\n")
+    outfile.write('};')
 
 # Get architecture strings
 table_folder = "data/compare-architectures/architecture-tables-dssp-with-tm"
