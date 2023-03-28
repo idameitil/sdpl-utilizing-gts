@@ -1,5 +1,5 @@
 set cartoon_side_chain_helper, on
-set float_labels, on
+#set float_labels, on
 set label_size, 35
 set label_font_id, 7
 set ray_trace_mode, 0
@@ -9,7 +9,7 @@ disable
 bg_color white
 remove hydrogens
 set label_position, (0, 0, 20)
-set cartoon_transparency, 0.5
+set cartoon_transparency, 0.7
 set cartoon_fancy_helices
 
 # From Preben
