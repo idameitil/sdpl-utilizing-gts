@@ -5,6 +5,21 @@ import json
 
 make_images = True
 
+color_scheme = 'blue'
+
+if color_scheme == 'grey':
+    cartoon_color = '0xeeeeee'
+    licorice_color = 'gray60'
+elif color_scheme == 'blue':
+    cartoon_color = 'palecyan'
+    licorice_color = 'teal'
+elif color_scheme == 'pink':
+    cartoon_color = 'lightpink'
+    licorice_color = 'pink'
+elif color_scheme == 'orange':
+    cartoon_color = 'lightorange'
+    licorice_color = 'orange'
+
 def show_conserved_string(conserved_positions, object_name):
     string = ""
     for position in conserved_positions:
@@ -29,7 +44,7 @@ def save_images_string(pymol_object_name):
         string = "@src/pymol-visualization/view-608.pml\n"
     string += f"""disable
     enable {pymol_object_name}
-    set cartoon_color, 0xeeeeee
+    set cartoon_color, {cartoon_color}
     remove hydrogens
     hide labels
     ray
@@ -68,7 +83,7 @@ load_ligase_string = f"""
 fetch 7tpg, 615_i_7TPG_O-Lig
 select chain_B, chain B
 hide cartoon, !chain_B
-color gray60, chain_B
+color {licorice_color}, chain_B
 """
 script += load_ligase_string
 script += show_conserved_string(conserved_residues['WP_011517284.1'], "615_i_7TPG_O-Lig")
@@ -79,7 +94,7 @@ object_names.append("615_i_7TPG_O-Lig")
 # Make script string
 script += f"""
 load data/eca-pol/alphafold/ACH50550.1/ranked_0.pdb, 586_r_ACH50550.1
-color gray60, 586_r_ACH50550.1
+color {licorice_color}, 586_r_ACH50550.1
 """
 script += show_conserved_string(conserved_residues['ACH50550.1'], "586_r_ACH50550.1")
 object_names.append("586_r_ACH50550.1")
@@ -88,7 +103,7 @@ object_names.append("586_r_ACH50550.1")
 threshold = 0.96
 
 script += f"""load /Users/idamei/phd/data/roda/alphafold/AF-Q5SIX3-F1-model_v4.pdb, 571_i_AF-6BAR
-color gray60, 571_i_AF-6BAR
+color {licorice_color}, 571_i_AF-6BAR
 """
 script += show_conserved_string(conserved_residues['6bar'], "571_i_AF-6BAR")
 object_names.append("571_i_AF-6BAR")
@@ -121,7 +136,7 @@ for supercluster in superclusters:
         if acc not in conserved_residues:
             continue
         model_path = supercluster['alphafold_models'][acc]['filepath']
-        script += load_model_string(object_name=pymol_object_name(supercluster['name'], acc), pdb=model_path, color='gray60')
+        script += load_model_string(object_name=pymol_object_name(supercluster['name'], acc), pdb=model_path, color=licorice_color)
         script += show_conserved_string(conserved_residues[acc], pymol_object_name(supercluster['name'], acc))
         object_names.append(pymol_object_name(supercluster['name'], acc))
 

@@ -401,7 +401,7 @@ Compress the db: `hmmpress data/hhblits_cazy_families/hmmscan_db/hmmscan_db`
 Test your query sequence like this: `hmmscan data/hhblits_cazy_families/hmmscan_db/hmmscan_db [query_fasta] > hmmscan.out`
 
 ## Pymol visualization
-(Old)
+(OLD)
 To make pymol script including all families, run: `python src/pymol-visualization/make-pymol-script-all-families.py`.
 
 Then, to run the pymol script without making the images: `pymol data/pymol-visualizations/pymol-script.pml`.
@@ -410,7 +410,7 @@ Or run the pymol script with making the images: `pymol data/pymol-visualizations
 
 This will create the figures in `data/pymol-visualizations/figures`.
 
-(New, with only one model per family)
+(NEW, with only one model per family)
 To make pymol script including all families, run: `src/pymol-visualization/make-pymol-script-selected.py`.
 
 Then, to run the pymol script without making the images: `pymol data/pymol-visualizations/pymol-script-selected.pml`.
