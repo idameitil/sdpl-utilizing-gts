@@ -1,9 +1,7 @@
-import sys, copy
-sys.path.append('src/ssn-clustering/')
-from common import SSNClusterData, read_MSA_file, get_conserved_residues, get_specific_positions_conserved_residues
+import sys, os
 import json
 
-make_images = True
+make_images = False
 
 color_scheme = 'blue'
 
@@ -62,12 +60,12 @@ def load_model_string(object_name, pdb, color):
     """
     return string
 
-def pymol_object_name(supercluster_name, acc):
-    if supercluster_name in retaining:
+def pymol_object_name(family_name, acc):
+    if family_name in retaining:
         stereochemistry = 'r'
-    elif supercluster_name in inverting:
+    elif family_name in inverting:
         stereochemistry = 'i'
-    return f"{superclustername2cazyname[supercluster_name]}_{stereochemistry}_{acc}"
+    return f"{family_name.replace('X', '')}_{stereochemistry}_{acc}"
 
 # Load conserved residue
 conserved_residues_filename = 'data/compare-architectures/conserved_manual.json'
@@ -79,19 +77,15 @@ object_names = []
 script = "@src/pymol-visualization/nicify.pml\n"
 
 ### O-LIG ###
-load_ligase_string = f"""
+script += f"""
 fetch 7tpg, 615_i_7TPG_O-Lig
-select chain_B, chain B
-hide cartoon, !chain_B
-color {licorice_color}, chain_B
+hide cartoon, !chain B
+color {licorice_color}, 615_i_7TPG_O-Lig
 """
-script += load_ligase_string
 script += show_conserved_string(conserved_residues['WP_011517284.1'], "615_i_7TPG_O-Lig")
 object_names.append("615_i_7TPG_O-Lig")
 
 ### ECA-POL ###
-
-# Make script string
 script += f"""
 load data/eca-pol/alphafold/ACH50550.1/ranked_0.pdb, 586_r_ACH50550.1
 color {licorice_color}, 586_r_ACH50550.1
@@ -100,8 +94,6 @@ script += show_conserved_string(conserved_residues['ACH50550.1'], "586_r_ACH5055
 object_names.append("586_r_ACH50550.1")
 
 ### RodA ###
-threshold = 0.96
-
 script += f"""load /Users/idamei/phd/data/roda/alphafold/AF-Q5SIX3-F1-model_v4.pdb, 571_i_AF-6BAR
 color {licorice_color}, 571_i_AF-6BAR
 """
@@ -109,38 +101,27 @@ script += show_conserved_string(conserved_residues['6bar'], "571_i_AF-6BAR")
 object_names.append("571_i_AF-6BAR")
 
 ### O-POL ###
-ssn_timestamp = '2210171613'
-superclustering_timestamp = '2210191051'
-
-# Get clustering data
-clustering_data = SSNClusterData(ssn_clustering_id=ssn_timestamp, 
-    superclustering_id=superclustering_timestamp, calculate_conserved = False,
-    get_sugars=False, get_sugars_superclusters=False, load_clusters=False, 
-    load_superclusters=True, calculate_conserved_superclusters=False)
-superclusters = list(clustering_data.superclusters)
+retaining = ['X606', 'X608', 'X610', 'X611', 'X612']
+inverting = ['X605', 'X607', 'X609', 'X613', 'X614', 'X617']
 
 inv_group = ["615_i_7TPG_O-Lig", "571_i_AF-6BAR", "614_i_AAM27615.1", "609_i_CAI34254.1", "607_i_CAI34124.1", "613_i_CAI34369.1", "605_i_BAQ02088.1"]
 ret_group1 = ["612_r_ADC54950.1", "611_r_AAA97573.1", "606_r_AAT77177.1", "610_r_AHB32411.1"]
 ret_group2 = ["586_r_ACH50550.1", "608_r_CAI32772.1"]
 
-CAZy_families = ['0260_4_5', '0144_2_14', '0141_1_28', '0134_4_6', '0118_1_30', '0128_1_29', '0284_3_9', '0342_13_2', '0540_8_3', '0171_6_4', '1085_39_1']
-retaining = ['14', '6', '29', '9', '2']
-inverting = ['5', '28', '30', '3', '4', '1']
-superclustername2cazyname = {'5': '605', '14': '606', '28':'607', '6':'608', '30':'609', '29':'610', '9':'611', '2':'612', '3':'613', '4':'614', '1':'617'}
+acc2family = {'AAM27615.1': 'X614', 'CAI34254.1': 'X609', 'CAI34124.1': 'X607', 'CAI34369.1': 'X613',
+              'BAQ02088.1': 'X605', 'AHB32861.1': 'X617', 'AHB32411.1': 'X610', 'ADC54950.1': 'X612',
+              'AAT77177.1': 'X606', 'AAA97573.1': 'X611', 'CAI32772.1': 'X608', 'ACH50550.1': 'X586'}
 
-for supercluster in superclusters:
-    if supercluster['supercluster_id'] not in CAZy_families:
+for acc in conserved_residues:
+    if acc in ['6bar', 'WP_011517284.1', 'ACH50550.1']:
         continue
-    number = 0
-    for acc in list(supercluster['alphafold_models'].keys()):
-        if acc not in conserved_residues:
-            continue
-        model_path = supercluster['alphafold_models'][acc]['filepath']
-        script += load_model_string(object_name=pymol_object_name(supercluster['name'], acc), pdb=model_path, color=licorice_color)
-        script += show_conserved_string(conserved_residues[acc], pymol_object_name(supercluster['name'], acc))
-        object_names.append(pymol_object_name(supercluster['name'], acc))
+    model_path = f"data/wzy/alphafold/{acc}/ranked_0.pdb"
+    family = acc2family[acc]
+    script += load_model_string(object_name=pymol_object_name(family, acc), pdb=model_path, color=licorice_color)
+    script += show_conserved_string(conserved_residues[acc], pymol_object_name(family, acc))
+    object_names.append(pymol_object_name(family, acc))
 
-# Align
+### ALIGN ###
 for object_name in object_names:
     if object_name in inv_group or object_name == "617_i_AHB32861.1":
         align_object = "607_i_CAI34124.1"
@@ -150,13 +131,14 @@ for object_name in object_names:
         align_object = "608_r_CAI32772.1"
     script += f"cealign {align_object}, {object_name}\n"
 
-# Save images
+### SAVE IMAGES ###
 if make_images:
     for object_name in object_names:
         script += save_images_string(pymol_object_name=object_name)
 
 # Nicify
 script += "@src/pymol-visualization/nicify.pml\n"
+# script += f"set cartoon_color, {cartoon_color}"
 
 ### WRITE TO FILE ###
 if make_images:
