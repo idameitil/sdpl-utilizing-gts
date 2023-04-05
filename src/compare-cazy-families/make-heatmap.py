@@ -28,7 +28,7 @@ for filename in hhr_filenames:
 
 df = pd.DataFrame.from_dict(mydict)
 
-order = ['x571_RodA', 'x615_O-Lig_inv', 'x614_O-Pol_inv', 'x609_O-Pol_inv', 'x607_O-Pol_inv', 'x613_O-Pol_inv', 'x605_O-Pol_inv', 'x617_O-Pol_inv',\
+order = ['x617_O-Pol_inv', 'x571_RodA', 'x615_O-Lig_inv', 'x614_O-Pol_inv', 'x609_O-Pol_inv', 'x607_O-Pol_inv', 'x613_O-Pol_inv', 'x605_O-Pol_inv',\
     'x610_O-Pol_ret', 'x612_O-Pol_ret', 'x606_O-Pol_ret', 'x611_O-Pol_ret', 'x608_O-Pol_ret', 'x586_ECA-Pol_ret']
 df = df.loc[order, order]
 
