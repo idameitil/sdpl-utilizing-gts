@@ -91,77 +91,77 @@ def get_name(entry):
 #            ]
 
 # All, with family conservation
-entries = [
-           [{'acc': '6bar', 'family': 'X571'},
-           ],
-           [
-           {'acc': 'WP_011517284.1', 'family': 'X615'},
-           {'acc': 'AAG08384.1', 'family': 'X615'},
-           {'acc': 'CAR61594.1', 'family': 'X615'},
-           {'acc': 'ALO25540.1', 'family': 'X615'}
-           ],
-           [
-           {'acc': 'AAY28257.1', 'family': 'X614'},
-           {'acc': 'ACD37165.1', 'family': 'X614'},
-           {'acc': 'AAM27615.1', 'family': 'X614'}
-           ],
-           [
-           {'acc': 'CAI34254.1', 'family': 'X609'},
-           {'acc': 'CAI34198.1', 'family': 'X609'},
-           {'acc': 'CAI34217.1', 'family': 'X609'}
-           ],
-           [
-           {'acc': 'CAI34124.1', 'family': 'X607'},
-           ],
-           [
-           {'acc': 'CAI33309.1', 'family': 'X613'},
-           {'acc': 'CAI34369.1', 'family': 'X613'},
-           {'acc': 'AIG62747.1', 'family': 'X613'}
-           ],
-           [
-           {'acc': 'ACD37046.1', 'family': 'X605'},
-           {'acc': 'BAQ02088.1', 'family': 'X605'},
-           {'acc': 'ACA24754.1', 'family': 'X605'},
-           {'acc': 'BAQ00795.1', 'family': 'X605'},
-           {'acc': 'BAQ01659.1', 'family': 'X605'}
-           ],
-           [
-           {'acc': 'CAI34008.1', 'family': 'X617'},
-           {'acc': 'ACA24821.1', 'family': 'X617'},
-           {'acc': 'ACU06810.1', 'family': 'X617'},
-           {'acc': 'AHB32215.1', 'family': 'X617'},
-           {'acc': 'ADC54967.1', 'family': 'X617'},
-           {'acc': 'AHB32334.1', 'family': 'X617'},
-           {'acc': 'ACH97162.1', 'family': 'X617'} 
-           ],
-           [
-           {'acc': 'AHB32411.1', 'family': 'X610'}
-           ],
-           [
-           {'acc': 'CAI32823.1', 'family': 'X612'},
-           {'acc': 'ADC54950.1', 'family': 'X612'},
-           {'acc': 'BAQ00653.1', 'family': 'X612'},
-           {'acc': 'AAZ85718.1', 'family': 'X612'}
-           ],
-           [
-           {'acc': 'CBN82200.1', 'family': 'X606'},
-           {'acc': 'AAT77177.1', 'family': 'X606'}
-           ],
-           [
-           {'acc': 'AAA97573.1', 'family': 'X611'},
-           {'acc': 'AAC45857.1', 'family': 'X611'},
-           {'acc': 'CDF66396.1', 'family': 'X611'}
-           ],
-           [
-           {'acc': 'CAD19991.1', 'family': 'X608'},
-           {'acc': 'CAI33983.1', 'family': 'X608'},
-           {'acc': 'CAI32772.1', 'family': 'X608'},
-           {'acc': 'AHB32490.1', 'family': 'X608'}
-           ],
-           [
-           {'acc': 'ACH50550.1', 'family': 'X586'}
-           ]
-           ]
+# entries = [
+#            [{'acc': '6bar', 'family': 'X571'},
+#            ],
+#            [
+#            {'acc': 'WP_011517284.1', 'family': 'X615'},
+#            {'acc': 'AAG08384.1', 'family': 'X615'},
+#            {'acc': 'CAR61594.1', 'family': 'X615'},
+#            {'acc': 'ALO25540.1', 'family': 'X615'}
+#            ],
+#            [
+#            {'acc': 'AAY28257.1', 'family': 'X614'},
+#            {'acc': 'ACD37165.1', 'family': 'X614'},
+#            {'acc': 'AAM27615.1', 'family': 'X614'}
+#            ],
+#            [
+#            {'acc': 'CAI34254.1', 'family': 'X609'},
+#            {'acc': 'CAI34198.1', 'family': 'X609'},
+#            {'acc': 'CAI34217.1', 'family': 'X609'}
+#            ],
+#            [
+#            {'acc': 'CAI34124.1', 'family': 'X607'},
+#            ],
+#            [
+#            {'acc': 'CAI33309.1', 'family': 'X613'},
+#            {'acc': 'CAI34369.1', 'family': 'X613'},
+#            {'acc': 'AIG62747.1', 'family': 'X613'}
+#            ],
+#            [
+#            {'acc': 'ACD37046.1', 'family': 'X605'},
+#            {'acc': 'BAQ02088.1', 'family': 'X605'},
+#            {'acc': 'ACA24754.1', 'family': 'X605'},
+#            {'acc': 'BAQ00795.1', 'family': 'X605'},
+#            {'acc': 'BAQ01659.1', 'family': 'X605'}
+#            ],
+#            [
+#            {'acc': 'CAI34008.1', 'family': 'X617'},
+#            {'acc': 'ACA24821.1', 'family': 'X617'},
+#            {'acc': 'ACU06810.1', 'family': 'X617'},
+#            {'acc': 'AHB32215.1', 'family': 'X617'},
+#            {'acc': 'ADC54967.1', 'family': 'X617'},
+#            {'acc': 'AHB32334.1', 'family': 'X617'},
+#            {'acc': 'ACH97162.1', 'family': 'X617'} 
+#            ],
+#            [
+#            {'acc': 'AHB32411.1', 'family': 'X610'}
+#            ],
+#            [
+#            {'acc': 'CAI32823.1', 'family': 'X612'},
+#            {'acc': 'ADC54950.1', 'family': 'X612'},
+#            {'acc': 'BAQ00653.1', 'family': 'X612'},
+#            {'acc': 'AAZ85718.1', 'family': 'X612'}
+#            ],
+#            [
+#            {'acc': 'CBN82200.1', 'family': 'X606'},
+#            {'acc': 'AAT77177.1', 'family': 'X606'}
+#            ],
+#            [
+#            {'acc': 'AAA97573.1', 'family': 'X611'},
+#            {'acc': 'AAC45857.1', 'family': 'X611'},
+#            {'acc': 'CDF66396.1', 'family': 'X611'}
+#            ],
+#            [
+#            {'acc': 'CAD19991.1', 'family': 'X608'},
+#            {'acc': 'CAI33983.1', 'family': 'X608'},
+#            {'acc': 'CAI32772.1', 'family': 'X608'},
+#            {'acc': 'AHB32490.1', 'family': 'X608'}
+#            ],
+#            [
+#            {'acc': 'ACH50550.1', 'family': 'X586'}
+#            ]
+#            ]
 
 # Selected, with subfamily conservation
 # entries = [
@@ -186,40 +186,42 @@ entries = [
 # ]
 
 # Selected with family conservation
-# entries = [
-#     [
-#     {'acc': '6bar', 'family': 'X571'},
-#     {'acc': 'WP_011517284.1', 'family': 'X615'},
-#     {'acc': 'AAM27615.1', 'family': 'X614'},
-#     {'acc': 'CAI34254.1', 'family': 'X609'},
-#     {'acc': 'CAI34124.1', 'family': 'X607'},
-#     {'acc': 'CAI34369.1', 'family': 'X613'},
-#     {'acc': 'BAQ02088.1', 'family': 'X605'},
-#     {'acc': 'AHB32861.1', 'family': 'X617'}
-#     ],
-#     [
-#     {'acc': 'AHB32411.1', 'family': 'X610'},
-#     {'acc': 'ADC54950.1', 'family': 'X612'},
-#     {'acc': 'AAT77177.1', 'family': 'X606'},
-#     {'acc': 'AAA97573.1', 'family': 'X611'},
-#     {'acc': 'CAI32772.1', 'family': 'X608'},
-#     {'acc': 'ACH50550.1', 'family': 'X586'}
-#     ]
-# ]
+entries = [
+    [
+    {'acc': 'AHB32861.1', 'family': 'X617'}
+    ],
+    [
+    {'acc': '6bar', 'family': 'X571'},
+    {'acc': 'WP_011517284.1', 'family': 'X615'},
+    {'acc': 'AAM27615.1', 'family': 'X614'},
+    {'acc': 'CAI34254.1', 'family': 'X609'},
+    {'acc': 'CAI34124.1', 'family': 'X607'},
+    {'acc': 'CAI34369.1', 'family': 'X613'},
+    {'acc': 'BAQ02088.1', 'family': 'X605'}
+    ],
+    [
+    {'acc': 'AHB32411.1', 'family': 'X610'},
+    {'acc': 'ADC54950.1', 'family': 'X612'},
+    {'acc': 'AAT77177.1', 'family': 'X606'},
+    {'acc': 'AAA97573.1', 'family': 'X611'},
+    {'acc': 'CAI32772.1', 'family': 'X608'},
+    {'acc': 'ACH50550.1', 'family': 'X586'}
+    ]
+]
 
 # Write manual conservation file
-# filename = "data/compare-architectures/conserved_manual.json"
-# with open(filename) as infile:
-#     conserved_dict = json.load(infile)
+filename = "data/compare-architectures/conserved_manual.json"
+with open(filename) as infile:
+    conserved_dict = json.load(infile)
 
-# outfilename = f"data/compare-architectures/conserved_manual.js"
-# with open(outfilename, 'w') as outfile:
-#     outfile.write("const conservedResidues = {\n")
-#     for i in range(len(entries)):
-#         for j in range(len(entries[i])):
-#             entry = entries[i][j]
-#             outfile.write(f"\t'{get_name(entry)}': {conserved_dict[entry['acc']]},\n")
-#     outfile.write('};')
+outfilename = f"data/compare-architectures/conserved_manual.js"
+with open(outfilename, 'w') as outfile:
+    outfile.write("const conservedResidues = {\n")
+    for i in range(len(entries)):
+        for j in range(len(entries[i])):
+            entry = entries[i][j]
+            outfile.write(f"\t'{get_name(entry)}': {conserved_dict[entry['acc']]},\n")
+    outfile.write('};')
 
 # Get conserved
 for i in range(len(entries)):
