@@ -37,6 +37,7 @@ function setup(){
     let i = 0;
     for(const family of architectures){
         let y;
+        drawBlackLine(10);
         for(const architectureName in family){
             y = spaceBetweenArchitectures/2+i*spaceBetweenArchitectures;
             drawArchitectureName(architectureName, y+topMargin);
