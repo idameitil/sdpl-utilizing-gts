@@ -3,24 +3,24 @@ Match_columns 612
 No_of_seqs    201 out of 719
 Neff          3.66464
 Searched_HMMs 14
-Date          Fri Apr 14 14:31:15 2023
-Command       hhblits -cpu 4 -i data/hhblits_cazy_families/msa/clade1-pruned-mafft.fa -d data/hhblits_cazy_families/hhblits_cazy_families -o data/hhblits_cazy_families/output/clade1-pruned-mafft.fa.hhr -n 1 
+Date          Fri Apr 14 15:31:29 2023
+Command       hhblits -cpu 4 -i data/hhblits_cazy_families/msa/X586.fa -d data/hhblits_cazy_families/hhblits_cazy_families -o data/hhblits_cazy_families/output/X586.fa.hhr -n 1 
 
  No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
   1 AAA92024.1 rffT, partial [Salm 100.0  4E-134  4E-136 1056.3   0.0  449    1-554     1-449 (479)
-  2 AAM27546.1 ORF_12 [Pseudomonas  98.1 1.2E-11   1E-13  115.2   0.0  285  200-516   165-461 (516)
+  2 CAI32772.1 oligosaccharide rep  98.0 1.7E-11 1.5E-13  113.9   0.0  285  200-516   165-461 (516)
   3 AAT77177.1 Wzy [Escherichia co  94.3 1.1E-05   1E-07   68.6   0.0  293  195-516   127-434 (479)
-  4 AAL82786.1 putative polysaccha  91.6 9.5E-05 8.2E-07   60.5   0.0  199  275-497   188-393 (463)
-  5 AAA97573.1 O-antigen polymeras  78.4   0.002 1.7E-05   50.9   0.0  236  198-469   154-396 (482)
-  6 AAX07747.1 O antigen polymeras  49.7   0.017 0.00017   43.4   0.0  232  215-470   109-357 (445)
+  4 ADC54950.1 Wzy [Escherichia co  92.6 5.2E-05 4.5E-07   62.5   0.0  200  275-498   188-394 (463)
+  5 AAA97573.1 O-antigen polymeras  78.4   0.002 1.7E-05   50.9   0.0  237  198-470   154-397 (482)
+  6 AHB32411.1 Wzy [Acinetobacter   50.5   0.017 0.00016   43.5   0.0  232  214-469   108-356 (445)
   7 AAM27615.1 ORF_8; similar to S  19.1    0.13  0.0012   36.6   0.0  113  195-311   140-256 (465)
-  8 AAA24524.1 rfaL [Escherichia c   5.5     0.8  0.0069   30.6   0.0   41  272-312   216-256 (482)
-  9 CAI34124.1 oligosaccharide rep   4.3       1  0.0095   30.0   0.0   48  417-468   319-374 (468)
- 10 AHB32715.1                       2.7       2   0.017   26.5   0.0   30  283-312   134-163 (383)
+  8 WP_011517284.1 O-antigen ligas   6.2     0.7   0.006   31.1   0.0   41  272-312   216-256 (482)
+  9 CAI34124.1 oligosaccharide rep   4.3       1  0.0095   30.0   0.0   39  289-327   225-266 (468)
+ 10 AHB32861.1                       2.6     2.1   0.017   26.3   0.0   30  283-312   134-163 (383)
 
 No 1
 >AAA92024.1 rffT, partial [Salmonella enterica subsp. enterica serovar Typhimurium]
-Probab=100.00  E-value=3.6e-134  Score=1056.26  Aligned_cols=449  Identities=74%  Similarity=1.292  Sum_probs=433.5  Template_Neff=4.900
+Probab=100.00  E-value=3.6e-134  Score=1056.26  Aligned_cols=449  Identities=74%  Similarity=1.292  Sum_probs=433.3  Template_Neff=4.900
 
 Q AAA92024.1        1 -----------------------------------------------------EFRRVRFN--FNVFFSL-L-FLLTFFF   23 (426)
 Q Consensus         1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~m~l~~~~~l~~v~lls~~~il~l~~~~f~r~rfs~~F~~~FSl~~~yllTff~   80 (612)
@@ -56,7 +56,7 @@ Confidence            99999999   99999999999999999999999999999999999999999999999
 
 Q AAA92024.1      205 AAGVLGIVGMFWLALKRYGL-NVSGD-----QVFYTFLYLTRDTFSPWENLALLLQNYHN----IEFQGLAPIVRDFYVF  274 (426)
 Q Consensus       321 ~agv~gvv~Mf~LAL~RYgl~~vsg~~~~~~ea~~tfLyltrDTFSPwEnla~Il~~y~~~~~~i~fQGL~pi~rdFyvf  400 (612)
-                      +++++++++|+++++.||++ |.++.     |++++++|.++||++|||+.++++|+|++    ++|||++|+.+||+.+
+                      .++++++++|+++++.||++ |+++.     |++++++|.++||++|||+.++++|+|++    ++|||++|+.+||+.+
 T Consensus       245 ~~g~~~v~~m~~LAl~RY~l-~vsg~-----ea~~tflyltrDtfSPwenla~Il~~~~~----i~fqGl~pi~rdFyv~  314 (479)
 T AAA92024.1_con  245 IAGVLGIVGMFWLALKRYGL-DVSGD-----EAFYTFLYLTRDTFSPWENLALILQNYDK----IEFQGLAPIVRDFYVF  314 (479)
 Confidence            99999999999999999999 88764     89999999999999999999999999998    7999999999999999
@@ -64,10 +64,10 @@ Confidence            99999999999999999999 88764     899999999999999999999999999
 
 Q AAA92024.1      275 IPTWLWPGRPSIVLNSANYFTWEVLNNHSG-LAISPTLIGSLVVMGGALFIPLGAIVVGLIIKWFDWLYELGNREPNRYK  353 (426)
 Q Consensus       401 IPr~LWpdKP~ivlNsAnYFT~~VLgn~sG~LaISPTLLGSl~IMGG~~~i~lGav~vG~Iik~fD~l~~~~~~~~~r~k  480 (612)
-                      ||||+|+|||...+|.+|||||+|||+++| ++++||++||+|+|+|++.++++++++|.+++++|+.+.+||+   ++|
+                      ||||+|+|+|...+|.+|||||+|||+++| ++++||++||+|+|+|++.++++++++|.+++++|+.+.+||+   ++|
 T Consensus       315 IPr~LWpdKP~ivlNsAnYFT~~VLg~~sg-LaiSPTLLGSlyIMGG~~~i~lG~~~vG~iik~fD~l~~~~~~---~~~  390 (479)
 T AAA92024.1_con  315 IPRWLWPDRPIIVLNSANYFTWEVLGNHSG-LAISPTLLGSLYIMGGVWFIPLGAVVVGLIIKWFDWLYEYGKQ---RYK  390 (479)
-Confidence            999999999999999999999999999999 9999999999999999999999999999999999999998777   788
+Confidence            999999999999999999999999999999 9999999999999999999999999999999999999987776   788
 
 
 Q AAA92024.1      354 AAILHSFCFG-AIFNMIVLAREGLDSFVSRVVFFLV-VFGASLLVAKLLF-WLFDS------------AGLIHK  412 (426)
@@ -79,52 +79,52 @@ Confidence            9999999999 9999999999999999999999999 9999999999999 99999  
 
 
 No 2
->AAM27546.1 ORF_12 [Pseudomonas aeruginosa]
-Probab=98.09  E-value=1.2e-11  Score=115.15  Aligned_cols=285  Identities=15%  Similarity=0.217  Sum_probs=246.2  Template_Neff=6.900
+>CAI32772.1 oligosaccharide repeat unit polymerase Wzy [Streptococcus pneumoniae]
+Probab=98.04  E-value=1.7e-11  Score=113.91  Aligned_cols=285  Identities=15%  Similarity=0.215  Sum_probs=245.8  Template_Neff=6.900
 
 Q AAA92024.1       90 TWVILMGIALVSVAIFFMHN-GFLLFRLHSYSQ-IFSSE-V--SGVALKRF---FYFFIPAMLVVYFLRQDSKAWLFFLV  161 (426)
 Q Consensus       200 ~~~lL~lial~sv~iF~~~N~GflLfkl~sYsq~ifssn~v--gggalkrF~~~FYfFIPAmlv~yfl~psk~~w~~fLv  277 (612)
                       ...++.+++....++..+.  .+..+..+||.+ .+++|..  ++|..+.+   .++++|.+++.+..+++++ +  +++
-T Consensus       165 ~~~~l~~i~~~~~l~~~~~--~i~~~~s~GY~a-ly~~q~~~ys~gi~~~~---~~lf~~~~~l~~~~~~k~~-~--~i~  235 (516)
-T AAM27546.1_con  165 ILFLLFIISFIFMLYETYY--KIIAASSGGYLA-LYSSQSEPYSSGISSFF---STLFYPSFGLLLVFNKKKR-K--KIF  235 (516)
-Confidence            3344444444444443333  455555699999 9996522  55567777   9999999999999988776 3  788
+T Consensus       165 ~~~~l~~i~~~~~l~~~~~--~i~~~~s~GYla-ly~~q~~~ys~gi~~~~---~~lf~~~~~l~~~~~~k~~-~--~i~  235 (516)
+T CAI32772.1_con  165 ILFLLFIISFIFMLYETYY--KIIAASSGGYLA-LYSSQSEPYSSGISSFF---STLFYPSFGLLLVFNKKKR-K--KIF  235 (516)
+Confidence            3344444444444433333  455555699999 9996522  55567777   9999999999999988776 3  788
 
 
 Q AAA92024.1      162 STVAFGLLTYMIVGGTRANIIIAFAIFLFIGIIR--GWISLWMLAAAGVLGIVGMFW---LALKRYGL-NVSGD-----Q  230 (426)
 Q Consensus       278 ~tV~FGlLtYviVGGTRanii~A~alflfIgi~r--g~Isl~~L~~agv~gvv~Mf~---LAL~RYgl~~vsg~~~~~~e  352 (612)
-                      +.+++...+.+++.|+|++++++++.++|++...  +|++.+|+++++++++++++.   +...|.++ +++.  .+..+
-T Consensus       236 l~l~i~~~~~~il~G~R~~~it~lL~liw~y~~~~~kki~~~kl~~~~~~~~~~l~~l~~i~s~R~~~-~~~~--~~~~~  312 (516)
-T AAM27546.1_con  236 LFILIINSLLSILTGSRGPFITSLLFLIWIYFNNGKKKISFKKLLILFILIFLFLNLLIFISSARSGG-SSSD--SSLFN  312 (516)
+                      +.+++...+.+++.|+|++++++++.++|++...  +|++.+|+++.+++++++++.   +...|.++ +++.  .+..+
+T Consensus       236 l~l~i~~~~~~il~G~R~~~it~lL~liw~y~~~~~kKi~~~kl~~~~~~~~~~l~~l~~i~s~R~~~-~~~~--~~~~~  312 (516)
+T CAI32772.1_con  236 LFILIINSLLSILTGSRGPFITSLLFLIWIYFNNGKKKISFKKLLILFILIFLFLNLLIFISSARSGG-SSSD--SSLFN  312 (516)
 Confidence            9999999999999999999999999999999999  799999999999988844444   78888766 4321  45679
 
 
 Q AAA92024.1      231 VFYTFLYLTRDTFSPWENLALLLQNYHN----IEFQGLAPIVRDFYVFIPTWLWPGRPSIVLNSANYFTWEVLNN---HS  303 (426)
 Q Consensus       353 a~~tfLyltrDTFSPwEnla~Il~~y~~~~~~i~fQGL~pi~rdFyvfIPr~LWpdKP~ivlNsAnYFT~~VLgn---~s  429 (612)
-                      ++.+++++||.|++|++.+.+ +++||..   .++|++.|+.+.++++    ++++.+.++.++++|.++++ |+   ++
-T Consensus       313 ~i~~fly~qGvSl~v~~~s~~-i~~yP~~---~~~qs~iPg~~~i~s~----f~~~i~~~~~sf~~~ls~~l-N~~ly~~  383 (516)
-T AAM27546.1_con  313 IISEFLYEQGVSLMVFDFSMK-ISDYPIL---AYFQSFIPGGSIIYSF----FDGPISPYNASFSNYLSYTL-NPSLYYE  383 (516)
-Confidence            999999999999999999976 9999999   9999999999999999    98899999999999999998 99   99
+                      ++.+++++||.|++|++.+.+ +++||..   .++|++.|+.+.++++    ++.+.+.++.++++|.++++ |+   ++
+T Consensus       313 ~i~~fly~qGvSl~v~~~s~~-i~~yP~~---~~~qs~iPg~~~~~s~----f~~~i~~~~~sfs~~ls~~l-N~~ly~~  383 (516)
+T CAI32772.1_con  313 IISEFLYEQGVSLMVFDFSMK-ISDYPIL---AYFQSFIPGGSIIYSF----FDGPISPYNASFSNYLSYTL-NPSLYYE  383 (516)
+Confidence            999999999999999999977 9999999   9999999999999999    98899999999999999998 99   99
 
 
 Q AAA92024.1      304 G-LAISPTLIGSLVV-MGGAL-FIPLGAIVVGLIIKWFDWLYELGNREPNRYKAAILHSFCFG-AIFNMIVLAREGLDSF  379 (426)
 Q Consensus       430 G~LaISPTLLGSl~I-MGG~~-~i~lGav~vG~Iik~fD~l~~~~~~~~~r~k~ailqafcf~~aifn~fvLvREGldaF  507 (612)
-                      | .|+|||++||+|+ +||++ ++++.++++|.+++.+|..         .+|+++..+++++ +++.++++||+|+.++
-T Consensus       384 G-~GLGwSl~sD~Y~~sfg~~~~~~i~~~l~g~~l~~l~~~---------s~~~~~~~~~~~s-l~~~l~~lpRssl~~i  452 (516)
-T AAM27546.1_con  384 G-FGLGWSLLSDFYLFSFGNIILFFIFSFLFGKFLNFLENK---------SKKSPFWYGLYFS-LLPPLFFLPRSSLSSI  452 (516)
-Confidence            9 9999999999999 99999 9999999999999999998         6779999999999 9999999999999999
+                      | .|+|||++||+|+ +||++ ++++.++++|.+++.+|...         +++++..+++++ +++.++++||+|+.++
+T Consensus       384 G-~GLGwSl~sD~Y~~sfg~~~~~~i~~~l~g~~l~~l~~~~---------~~s~~~~~l~~s-l~~~l~~lpRssl~~i  452 (516)
+T CAI32772.1_con  384 G-FGLGWSLLSDFYLFSFGNIILFFIFSFLFGKFLNFLENKS---------KKSPFWYGLYFS-LLPPLFFLPRSSLSSI  452 (516)
+Confidence            9 9999999999999 99999 99999999999999999876         679999999999 9999999999999999
 
 
 Q AAA92024.1      380 VSRVVFFLV  388 (426)
 Q Consensus       508 vsR~vff~i  516 (612)
-                      ++..+++.+
+                      ++.++++++
 T Consensus       453 ~~~~iy~~i  461 (516)
-T AAM27546.1_con  453 FPLIIYYII  461 (516)
+T CAI32772.1_con  453 FPLIIYYII  461 (516)
 Confidence            999999999
 
 
 No 3
 >AAT77177.1 Wzy [Escherichia coli]
-Probab=94.30  E-value=1.1e-05  Score=68.57  Aligned_cols=293  Identities=18%  Similarity=0.172  Sum_probs=274.2  Template_Neff=5.900
+Probab=94.30  E-value=1.1e-05  Score=68.57  Aligned_cols=293  Identities=18%  Similarity=0.176  Sum_probs=274.1  Template_Neff=5.900
 
 Q AAA92024.1       85 VETHLTWVILMGIALVSVAIFFMHN-GFLLFRL---HS----YSQ-IFSSE-V--SGVALKRF---FYFFIPAMLVVYFL  149 (426)
 Q Consensus       195 ~e~~l~~~lL~lial~sv~iF~~~N~GflLfkl---~s----Ysq~ifssn~v--gggalkrF~~~FYfFIPAmlv~yfl  265 (612)
@@ -136,7 +136,7 @@ Confidence            788999999999999999999999999999998   22    156 8887777  888
 
 Q AAA92024.1      150 RQ--DSKAWLFFLVSTVAFGLLTYMIVGGTRANIIIAFAIFLFIGIIR-GWISLWMLAAAGVLGIVGMFWLALKRYGL-N  225 (426)
 Q Consensus       266 ~p--sk~~w~~fLv~tV~FGlLtYviVGGTRanii~A~alflfIgi~r-g~Isl~~L~~agv~gvv~Mf~LAL~RYgl~~  342 (612)
-                      +.  +|+++|+.+++.+++++++..+|+.||||+++++++++++++.. |++++|+++..+++++++++++|..-+|. +
+                      +.  +|+++|+.+++.+++++++..+|+.||||+++++++++++++.. |++++|+++..+++++++++++|.+-+|. +
 T Consensus       204 y~~~~k~~~~~~lF~~~f~~sili~tYdl~KsPivfyll~f~~l~i~~~~~i~~k~i~~~~~~~~~ll~~mY~~~~g~-~  282 (479)
 T AAT77177.1_con  204 YYRKTKKKKWKLLFLILFILSILILTYDLQKSPIVFYLLGFLFLYIYIGGKISKKKLIIFGLLGLILLLLMYIFIQGV-D  282 (479)
 Confidence            99  77778999999999999999999999999999999999999999 79999999999999999999999998777 6
@@ -152,10 +152,10 @@ Confidence            2 3457788999999999999999      999999998   9999999999999998
 
 Q AAA92024.1      295 TWEVLNNHSG-LAISPT-LIGSLVVMGGALFIPLGAIVVGLIIKWFDWLYELGNREPNRYKAAILHSFCFG-AIFNMIVL  371 (426)
 Q Consensus       421 T~~VLgn~sG~LaISPT-LLGSl~IMGG~~~i~lGav~vG~Iik~fD~l~~~~~~~~~r~k~ailqafcf~~aifn~fvL  499 (612)
-                      |+.|   ++|++|++|| ++||||+|||++|++++|++||.+++.++..+.|      .+|+|+..+++.. ++.+++ .
-T Consensus       349 P~~V---~~GtaGv~NtlFigEAwANFG~~GvilspiyVG~~i~~l~i~~l~------~~KtPi~l~l~~~-~t~~~~-~  417 (479)
-T AAT77177.1_con  349 PEAV---ENGTAGVMNTLFIGEAWANFGYIGVILSPIYVGFVIQILYIFFLK------LPKTPIFLALYVY-FTVNLP-T  417 (479)
-Confidence            9999   9999999999 9999999999999999999999999999999998      8999999999999 999999 9
+                      |+.|   ++|++|++|| ++||||+|||++|++++|++||.+++.++..+.      |++|+|+..+++.. ++.+++ .
+T Consensus       349 P~~V---~~GtaGv~NtlFigEAwANFG~~GvilspiyVG~~i~~l~i~~l------~~~KtPi~l~l~~~-~t~~~~-~  417 (479)
+T AAT77177.1_con  349 PEAV---ENGTAGVMNTLFIGEAWANFGYIGVILSPIYVGFVIQILYIFFL------KLPKTPIFLALYVY-FTVNLP-T  417 (479)
+Confidence            9999   9999999999 999999999999999999999999999999997      78999999999999 999999 9
 
 
 Q AAA92024.1      372 AREGLDSFVSRVVFFLV  388 (426)
@@ -167,36 +167,36 @@ Confidence            99999999999999887
 
 
 No 4
->AAL82786.1 putative polysaccharide polymerase Cps6aI [Streptococcus pneumoniae]
-Probab=91.59  E-value=9.5e-05  Score=60.48  Aligned_cols=199  Identities=12%  Similarity=0.064  Sum_probs=119.1  Template_Neff=7.500
+>ADC54950.1 Wzy [Escherichia coli]
+Probab=92.62  E-value=5.2e-05  Score=62.50  Aligned_cols=200  Identities=12%  Similarity=0.071  Sum_probs=120.5  Template_Neff=7.500
 
 Q AAA92024.1      159 FLVSTVAFGLLTYMIVGGTRANIIIAFAIFLFIGIIRGW-------ISLWMLAAAGVLGIVGMFWLALKRYGL-NVSGD-  229 (426)
 Q Consensus       275 fLv~tV~FGlLtYviVGGTRanii~A~alflfIgi~rg~-------Isl~~L~~agv~gvv~Mf~LAL~RYgl~~vsg~~  347 (612)
                       .+.+...+..+...+++|+|++++..++..+.+++...+       +++|.+...+++.++++.+.+..|.-. +-++. 
 T Consensus       188 ~~~li~i~l~~~~~ll~ggR~~~l~~i~~~i~i~yi~~~~k~~~~~i~~K~i~~~~~~~~i~~~~F~~~~~l~-Gr~~~-  265 (463)
-T AAL82786.1_con  188 LLLLIPILLYIIQSILTGGRSPILRLIIAILIIYYILYKKKNGWSKINFKYIIKGIIIIIIFFILFYLLRSLV-GRSSS-  265 (463)
-Confidence            445777777899999999999999999998888877732       776666666666666666677777333 22111 
+T ADC54950.1_con  188 LLLLIPILLYIIQSILTGGRSPILRLIIAILIIYYILYKKKNGWSKINFKYIIKGIIIIIIFFILFYLLRSLV-GRSSS-  265 (463)
+Confidence            445777777899999999999999999999888887733       776666666666666666677777333 22111 
 
 
 Q AAA92024.1      230 ----QVFYTFLYLTRDTFSPWENLALLLQNYHN----IEFQGLAPIVRDFYVFIPTWLWPGRPSIVLNSANYFTWEVLNN  301 (426)
 Q Consensus       348 ~~~~ea~~tfLyltrDTFSPwEnla~Il~~y~~~~~~i~fQGL~pi~rdFyvfIPr~LWpdKP~ivlNsAnYFT~~VLgn  427 (612)
-                         .+.+.-+-...|.+.--+|..   ++..+..+....-+++..+-+.+..+    ...+.++..    ...++.-.  
-T Consensus       266 ---~~~~~yis~Y~G~~I~~fd~~---i~~~~~~s~~fG~eTF~~~y~~l~~~----~~~~~~~~~----~~leF~~~--  329 (463)
-T AAL82786.1_con  266 ---SSFFDYISIYIGSPIVAFDQY---IQNPIPPSEIFGEETFRGFYAILNKL----GLSDIPPYS----THLEFVYV--  329 (463)
-Confidence               145555555566555533333   33321100001223455554444443    221333332    22222220  
+                         .+.+.-+-...|.+.--+|..   ++..+..+....-+++..+-+.+..+    ...+.++..    ...+..-.  
+T Consensus       266 ---~~~~~yis~Y~G~~I~~fd~y---i~~~~~~s~~fG~eTF~~~y~~l~~~----~~~~~~~~~----~~leF~~~--  329 (463)
+T ADC54950.1_con  266 ---SSFFDYISIYIGSPIVAFDQY---IQNPIPPSEIFGEETFRGFYAILNKL----GLSDIPPYS----THLEFVYV--  329 (463)
+Confidence               145555555566555533333   33321100001223455554444443    211333332    22222220  
 
 
-Q AAA92024.1      302 HSG-LAISPTLIGSLVVMGGALFIPLGAIVVGLIIKWFDWLYELGNREPNRYKAAILHSFCFG-AIFNMI  369 (426)
-Q Consensus       428 ~sG~LaISPTLLGSl~IMGG~~~i~lGav~vG~Iik~fD~l~~~~~~~~~r~k~ailqafcf~~aifn~f  497 (612)
-                      ..+..|+.-|-.-.-|.-||+.|+++.+.+.|.+.+.++....+   ++  +++.+...++.. +...++
-T Consensus       330 ng~~~gNVYT~fr~y~~DFG~~Gv~i~~~i~g~~~~~~Y~~~k~---~~--~~~~~~liiYay-~~~~i~  393 (463)
-T AAL82786.1_con  330 NGPSLGNVYTAFRPFYYDFGYIGVIIFSFIYGLFFSFLYRKIKN---KG--NKSDFSLIIYAY-LFYSLF  393 (463)
-Confidence            11224566678889999999999999999999999999997443   11  235565555555 544554
+Q AAA92024.1      302 HSG-LAISPTLIGSLVVMGGALFIPLGAIVVGLIIKWFDWLYELGNREPNRYKAAILHSFCFG-AIFNMIV  370 (426)
+Q Consensus       428 ~sG~LaISPTLLGSl~IMGG~~~i~lGav~vG~Iik~fD~l~~~~~~~~~r~k~ailqafcf~~aifn~fv  498 (612)
+                      ..+..|+.-|-.-.-|.-||+.|+++.+.+.|.+.++++....   +++  +++.+...++.. +...++.
+T Consensus       330 ng~~~gNVYT~fr~y~~DFG~~Gv~i~~~i~g~~~~~~Y~k~k---~~~--~~~~~~liiYay-~~~~i~~  394 (463)
+T ADC54950.1_con  330 NGPSLGNVYTAFRPFYYDFGYIGVIIFSFIYGLFFSFLYRKIK---NKG--NKSDFSLIIYAY-LFYSLFM  394 (463)
+Confidence            1122456667888999999999999999999999999999763   111  235666666666 5555553
 
 
 No 5
 >AAA97573.1 O-antigen polymerase [Pseudomonas aeruginosa]
-Probab=78.37  E-value=0.002  Score=50.90  Aligned_cols=236  Identities=16%  Similarity=0.216  Sum_probs=136.0  Template_Neff=7.000
+Probab=78.37  E-value=0.002  Score=50.90  Aligned_cols=237  Identities=16%  Similarity=0.217  Sum_probs=136.9  Template_Neff=7.000
 
 Q AAA92024.1       88 HLTWVILMGIALVSVAIFFMHN--GFLLFRL-HSYSQ-IFSSE-VS-GVALKRF----FYFFIPAMLVVYFLRQDSKAWL  157 (426)
 Q Consensus       198 ~l~~~lL~lial~sv~iF~~~N~-GflLfkl-~sYsq~ifssn~vg-ggalkrF~~-~FYfFIPAmlv~yfl~psk~~w~  273 (612)
@@ -208,10 +208,10 @@ Confidence            33444444444444444443331 2223333 77888 88854122 333332211 3
 
 Q AAA92024.1      158 FFLVSTVAFGLLTYMIVGGTRANIIIAFAIFLFIGIIRGWISLWMLAAAGVLGIVGM-FWLALKRYGL-NVSGD-----Q  230 (426)
 Q Consensus       274 ~fLv~tV~FGlLtYviVGGTRanii~A~alflfIgi~rg~Isl~~L~~agv~gvv~M-f~LAL~RYgl~~vsg~~~~~~e  352 (612)
-                       .+.+..+++.++....+|+|+.+...++.+.+....+++-+....+..++.+++++ .+.+... +. .     ...+-
+                       .+....+++.++....+|+|+.+...++.+.+....+++-+....+..++.+++++ .+.+... +. .     ...+-
 T Consensus       229 -~~~~l~i~~~lllf~~~g~Ks~lf~~~lv~~~y~~~~~~~~~~~~l~~~~~~l~~~s~~~~~~~-~~-~-----~~~s~  300 (482)
 T AAA97573.1_con  229 -LLVLLGILGQLLLFMITGHKSVFFSPFLIIGFYFFFRKKKNFLSLFLFGLLLLILLSLLLYFLF-GS-I-----YLTSL  300 (482)
-Confidence             44666677778888899999999999999888888885322222333333333222 2233222 22 1     11124
+Confidence             45666677778888899999999999999888888885322222333333333222 2233222 22 1     11124
 
 
 Q AAA92024.1      231 VFYTFLYLTRDTFSPWENLALLLQNYHN----IEFQGLAPIVRDFYVFIPTWLWP-GRPSIVLNSANYFTWEVLNNHSG-  304 (426)
@@ -222,53 +222,53 @@ T AAA97573.1_con  301 FIRRTFFVPGLLTS------YYFDFFSNN--PKTYYSH-SILSSFFDY------PYDL
 Confidence            56677766655544      336666653  0122222 333322222      3 5555555556666432      1 
 
 
-Q AAA92024.1      305 LAISPT-LIGSLVVMGGALFIPLGAIVVGLIIKWFDWLY  342 (426)
-Q Consensus       432 LaISPT-LLGSl~IMGG~~~i~lGav~vG~Iik~fD~l~  469 (612)
-                       ...|+ +++|+|+|+|.+|+++.++++|.++..+|...
-T Consensus       359 -~nAN~gf~adGyan~G~~Gvii~s~i~~~il~~lds~~  396 (482)
-T AAA97573.1_con  359 -MNANANFFADGYANFGYIGVIIFSLILGLILWLLDSLS  396 (482)
-Confidence             24566 89999999999999999999999999999993
+Q AAA92024.1      305 LAISPT-LIGSLVVMGGALFIPLGAIVVGLIIKWFDWLYE  343 (426)
+Q Consensus       432 LaISPT-LLGSl~IMGG~~~i~lGav~vG~Iik~fD~l~~  470 (612)
+                       ...|+ +++|+|+|+|.+|+++.++++|.++..+|....
+T Consensus       359 -~nAN~gf~adGyan~G~~Gvii~s~i~~~il~~lds~~~  397 (482)
+T AAA97573.1_con  359 -MNANANFFADGYANFGYIGVIIFSLILGLILWLLDSLSK  397 (482)
+Confidence             24566 899999999999999999999999999999983
 
 
 No 6
->AAX07747.1 O antigen polymerase [Escherichia coli]
-Probab=49.72  E-value=0.017  Score=43.36  Aligned_cols=232  Identities=15%  Similarity=0.120  Sum_probs=134.1  Template_Neff=5.900
+>AHB32411.1 Wzy [Acinetobacter baumannii]
+Probab=50.53  E-value=0.017  Score=43.53  Aligned_cols=232  Identities=16%  Similarity=0.126  Sum_probs=134.7  Template_Neff=5.900
 
-Q AAA92024.1      105 FFMHN-GFLLFRL-HSYSQ-IFSSE-VSGVALKRF---FYFFIPAMLVVYFLRQ--DSKAWLFFLVSTVAFGLLTYMIVG  175 (426)
-Q Consensus       215 F~~~N~GflLfkl-~sYsq~ifssn~vgggalkrF~~~FYfFIPAmlv~yfl~p--sk~~w~~fLv~tV~FGlLtYviVG  291 (612)
-                      =+...+++|++.. .|..- .|..  =|.+.+--+   ...+...+++..+...  +|+++    .+...+..++..++.
-T Consensus       109 E~~ysggIPLl~~l~G~~~-~Y~d--FGIPt~Hv~---l~t~~sf~si~~f~~yl~~k~Kk----~L~~~ii~l~~~iLi  178 (445)
-T AAX07747.1_con  109 EFIYSGGIPLLWILRGNGY-NYTD--FGIPTFHVI---LNTFNSFYSIYLFYLYLSTKKKK----YLFYFLILLIWPILI  178 (445)
-Confidence            3455669999876 22111 1220  154434444   3344444444444444  33322    334566667777888
-
-
-Q AAA92024.1      176 GTRANIIIAFAIFLFIGIIR-GWISLWMLAAAGVLGIVGMFW---LALKRYGL-NV-SG-------D-------QVFYTF  235 (426)
-Q Consensus       292 GTRanii~A~alflfIgi~r-g~Isl~~L~~agv~gvv~Mf~---LAL~RYgl~~v-sg-------~~~~~~--ea~~tf  357 (612)
-                      -+|+.++..++..++++... +|++.|+++...+.+++++.+   +--.|.+. +. ++       ..+...  .+-..+
-T Consensus       179 ~~Rg~il~~li~~~fiyL~~~~ki~~k~ii~~~i~~l~~lylFG~lGn~R~~~-~~~~~~il~ig~as~~F~~S~iPs~F  257 (445)
-T AAX07747.1_con  179 VNRGMIMMILISCFFIYLLSKKKIKLKKIIKLIIFLLIFLYLFGVLGNLRSGS-SPYSEYILQIGQASDEFKDSSIPSEF  257 (445)
-Confidence            89999999999999999999 599998888887777755554   55667655 43 10       011111  244445
+Q AAA92024.1      104 IFFMHN-GFLLFRL-HSYSQ-IFSSE-VSGVALKRF---FYFFIPAMLVVYFLRQ--DSKAWLFFLVSTVAFGLLTYMIV  174 (426)
+Q Consensus       214 iF~~~N~GflLfkl-~sYsq~ifssn~vgggalkrF~~~FYfFIPAmlv~yfl~p--sk~~w~~fLv~tV~FGlLtYviV  290 (612)
+                      .=+...+++|++.. .|..- .|..  =|.+.+--+   ...+...+++..+...  +|+++    .+...+..++..++
+T Consensus       108 ~E~~ysggIPLl~~l~G~~~-~Y~d--FGIPt~Hv~---l~t~~sf~si~~f~~yl~~k~Kk----~L~~~l~~l~~~iL  177 (445)
+T AHB32411.1_con  108 IEFIYSGGIPLLWILRGNGY-NYTD--FGIPTFHVI---LNTFNSFYSIYLFYLYLSTKKKK----YLFYFLILLIWPIL  177 (445)
+Confidence            33455679999876 22111 1220  144434434   3334444444444444  33322    33456666777788
 
 
-Q AAA92024.1      236 LYLTRDTFSPWENLALLLQNYHN----IEFQGLAPIVRDFYVFIPTWLWPGRPSIVLNSANYFTWEVLNNHSG-LAISPT  310 (426)
-Q Consensus       358 LyltrDTFSPwEnla~Il~~y~~~~~~i~fQGL~pi~rdFyvfIPr~LWpdKP~ivlNsAnYFT~~VLgn~sG~LaISPT  437 (612)
-                      +..=.---+|..|+.+-+++.+..     .-+.  ..-....++|++..-...+. .+....-.+.|   .+. + ...|
-T Consensus       258 fW~YlYitSPlaNLq~nin~~~~~-----~~~~--~~f~~~~llPdfIsKRi~~~-~~~~~~~~~lI---~~~-l-nVsT  324 (445)
-T AAX07747.1_con  258 FWVYIYITSPLANLQNNINNYEPN-----WSNI--FDFIISELLPDFISKRIYSD-YDVERPSMYLI---SPE-L-NVST  324 (445)
-Confidence            555555567777776655554311     1111  11122446666664211111 11233333444   233 4 4557
+Q AAA92024.1      175 GGTRANIIIAFAIFLFIGIIR-GWISLWMLAAAGVLGIVGMFW---LALKRYGL-NV-SG-------D-------QVFYT  234 (426)
+Q Consensus       291 GGTRanii~A~alflfIgi~r-g~Isl~~L~~agv~gvv~Mf~---LAL~RYgl~~v-sg-------~~~~~~--ea~~t  356 (612)
+                      .-+|+.++..++..++++... +|++.|+++...+++++++.+   +--.|.+. +. ++       ..+...  .+-..
+T Consensus       178 i~~Rg~il~~li~~~fiyL~~~~ki~~k~ii~~~i~~~~~lylFG~lGn~R~~~-~~~~~~il~ig~as~~F~~S~iPs~  256 (445)
+T AHB32411.1_con  178 IVNRGMIMMILISCFFIYLLSKKKIKLKKIIKLIIFLLIFLYLFGVLGNLRSGS-SPYSEYILQIGQASDEFKDSSIPSE  256 (445)
+Confidence            889999999999999999999 599998888887777755554   55667655 43 10       011111  24444
 
 
-Q AAA92024.1      311 LIGSLVVMGGALFIPLGAIVVGLIIKWFDWLYE  343 (426)
-Q Consensus       438 LLGSl~IMGG~~~i~lGav~vG~Iik~fD~l~~  470 (612)
-                      ..+++|..+||+|+++..++.+.+.........
-T Consensus       325 ~y~~~y~~lGw~G~~i~~~~~~~~~~~~~~l~~  357 (445)
-T AAX07747.1_con  325 AYADAYSYLGWLGMIIFFFFILLFIFIYYFLIR  357 (445)
-Confidence            789999999999999999999988888876643
+Q AAA92024.1      235 FLYLTRDTFSPWENLALLLQNYHN----IEFQGLAPIVRDFYVFIPTWLWPGRPSIVLNSANYFTWEVLNNHSG-LAISP  309 (426)
+Q Consensus       357 fLyltrDTFSPwEnla~Il~~y~~~~~~i~fQGL~pi~rdFyvfIPr~LWpdKP~ivlNsAnYFT~~VLgn~sG~LaISP  436 (612)
+                      ++..=.---+|..|+.+-+++.+..     .-+.  ..-....++|++......+. .+....-.+.|   .+. + ...
+T Consensus       257 FfW~YlYitSPlaNLq~nin~~~~~-----~~~~--~~f~~~~llPdfIsKRi~~~-~~~~~~~~~lI---~~~-l-nVs  323 (445)
+T AHB32411.1_con  257 FFWVYIYITSPLANLQNNINNYEPN-----WSNI--FDFIISELLPDFISKRIYSD-YDVERPSMYLI---SPE-L-NVS  323 (445)
+Confidence            5555555567777776655554311     1111  11122446666664211111 11233333444   233 4 455
+
+
+Q AAA92024.1      310 TLIGSLVVMGGALFIPLGAIVVGLIIKWFDWLY  342 (426)
+Q Consensus       437 TLLGSl~IMGG~~~i~lGav~vG~Iik~fD~l~  469 (612)
+                      |..+++|..+||+|+++..++.+.+........
+T Consensus       324 T~y~~~y~~lGw~G~~i~~~~~~~~~~~~~~l~  356 (445)
+T AHB32411.1_con  324 TAYADAYSYLGWLGMIIFFFFILLFIFIYYFLI  356 (445)
+Confidence            778999999999999999999999888888776
 
 
 No 7
 >AAM27615.1 ORF_8; similar to Sodium/hydrogen exchanger family; potential multiple membrane spanning domains [Pseudomonas aeruginosa]
-Probab=19.09  E-value=0.13  Score=36.64  Aligned_cols=113  Identities=11%  Similarity=0.051  Sum_probs=59.1  Template_Neff=6.700
+Probab=19.09  E-value=0.13  Score=36.64  Aligned_cols=113  Identities=11%  Similarity=0.051  Sum_probs=59.0  Template_Neff=6.700
 
 Q AAA92024.1       85 VETHLTWVILMGIALVSVAIFFMHN-GFLLFRL-HSYSQ-IFSSE-VSGVALKRF------FYFFIPAMLVVYFLRQDSK  154 (426)
 Q Consensus       195 ~e~~l~~~lL~lial~sv~iF~~~N~GflLfkl-~sYsq~ifssn~vgggalkrF~---~~FYfFIPAmlv~yfl~psk~  270 (612)
@@ -280,45 +280,45 @@ Confidence            445667777777788887766655544341111 11112 1111   111111100  
 
 Q AAA92024.1      155 AWLFFLVSTVAFGLLTYMIVGGTRANIIIAFAIFLFIGIIR  195 (426)
 Q Consensus       271 ~w~~fLv~tV~FGlLtYviVGGTRanii~A~alflfIgi~r  311 (612)
-                      ++.+......++..++...++|+||-++..++..++.....
+                      ++.+......++..++...++|.||-++..++..++.....
 T Consensus       216 ~~~~~~~~~~l~l~l~ai~LSgRRal~L~~~l~~~~~~~~~  256 (465)
 T AAM27615.1_con  216 KKRRLLKYLLLLLGVLAILLSGRRALLLVTFLSPFLAVFFF  256 (465)
 Confidence            22335556666778888899999999999888777766444
 
 
 No 8
->AAA24524.1 rfaL [Escherichia coli]
-Probab=5.53  E-value=0.8  Score=30.63  Aligned_cols=41  Identities=15%  Similarity=0.194  Sum_probs=35.0  Template_Neff=7.500
+>WP_011517284.1 O-antigen ligase family protein [Cupriavidus metallidurans]
+Probab=6.16  E-value=0.7  Score=31.09  Aligned_cols=41  Identities=15%  Similarity=0.194  Sum_probs=35.0  Template_Neff=7.500
 
 Q AAA92024.1      156 WLFFLVSTVAFGLLTYMIVGGTRANIIIAFAIFLFIGIIRG  196 (426)
 Q Consensus       272 w~~fLv~tV~FGlLtYviVGGTRanii~A~alflfIgi~rg  312 (612)
-                      +.+.+.+..+.+.++.++.+|+|++++...+.++++.+.++
-T Consensus       216 ~~~~l~~~~~~~~l~alilT~SRGa~La~pi~~~~~~~~~~  256 (482)
-T AAA24524.1_con  216 KLWLLFLLAFLLSLFALLLTGSRGAWLALPVVLILLLLIYY  256 (482)
-Confidence            33468888888999999999999999999999998888654
+                      +.+.+.+..+.+.++.++.+|+|++++...+.++++....+
+T Consensus       216 ~~~~l~~~~~~~~~~alllT~SRGa~La~pv~~~~~~~~~~  256 (482)
+T WP_011517284.1  216 KLWLLFLLAFLLSLFALLLTGSRGAWLALPVVLILLLLIYY  256 (482)
+Confidence            33468888888999999999999999999999998888554
 
 
 No 9
 >CAI34124.1 oligosaccharide repeat unit polymerase Wzy [Streptococcus pneumoniae]
-Probab=4.30  E-value=1  Score=29.98  Aligned_cols=48  Identities=23%  Similarity=0.248  Sum_probs=27.9  Template_Neff=6.200
+Probab=4.30  E-value=1  Score=29.98  Aligned_cols=39  Identities=23%  Similarity=0.304  Sum_probs=22.7  Template_Neff=6.200
 
-Q AAA92024.1      291 ANYFTWEVLNNHSG-LAISPT---LIGSLVV-----MGGALFIPLGAIVVGLIIKWFDWL  341 (426)
-Q Consensus       417 AnYFT~~VLgn~sG~LaISPT---LLGSl~I-----MGG~~~i~lGav~vG~Iik~fD~l  468 (612)
-                      .-|+-++. |+.   +|++++   +++|.|+     -||++|.++...+...+++.+.+.
-T Consensus       319 pLY~~YG~-~~v---~GLs~~~~~fl~DtfWPmI~gQfG~iG~ilyl~~l~~~f~~i~~~  374 (468)
-T CAI34124.1_con  319 PLYYQYGF-SNV---WGLSPENPSFLNDTFWPMIIGQFGFIGLILYLIILILIFKSIFKL  374 (468)
-Confidence            34555554 222   555543   8898887     467776666655555555555444
+Q AAA92024.1      173 IVGGTRANIIIAFAIFLFIGIIR---GWISLWMLAAAGVLGI  211 (426)
+Q Consensus       289 iVGGTRanii~A~alflfIgi~r---g~Isl~~L~~agv~gv  327 (612)
+                      +..-.|+..+..++.++++++..   +|++++.++..+++++
+T Consensus       225 ~~~T~Rskai~~v~~~l~l~~~~~~~~ki~~~~ii~~~i~~~  266 (468)
+T CAI34124.1_con  225 MILTLRSKAIGFVAIYLLLYIFFKKKKKIKIKHIIVLGIIAI  266 (468)
+Confidence            34445666666666666666555   3566666655555443
 
 
 No 10
->AHB32715.1
-Probab=2.73  E-value=2  Score=26.46  Aligned_cols=30  Identities=17%  Similarity=0.147  Sum_probs=24.3  Template_Neff=8.200
+>AHB32861.1
+Probab=2.63  E-value=2.1  Score=26.32  Aligned_cols=30  Identities=17%  Similarity=0.147  Sum_probs=24.3  Template_Neff=8.200
 
 Q AAA92024.1      167 GLLTYMIVGGTRANIIIAFAIFLFIGIIRG  196 (426)
 Q Consensus       283 GlLtYviVGGTRanii~A~alflfIgi~rg  312 (612)
                       ......-.+.-|+.++.+++++.+.++.+|
-T Consensus       134 ~~~~~~~~~qIRQ~iAiai~l~a~~~l~~~  163 (383)
-T AHB32715.1_con  134 YFFYVHSMNQIRQGIAIAIFLLALKYLIEK  163 (383)
+T Consensus       134 ~~~~~~~~~qIRQ~iAiai~l~al~~l~~~  163 (383)
+T AHB32861.1_con  134 YFFYVHSMNQIRQGIAIAIFLLALKYLIEK  163 (383)
 Confidence            456667788899999999999988777654
 
 

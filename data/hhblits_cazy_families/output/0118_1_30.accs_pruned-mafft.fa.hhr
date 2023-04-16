@@ -3,7 +3,7 @@ Match_columns 568
 No_of_seqs    91 out of 109
 Neff          4.82611
 Searched_HMMs 14
-Date          Mon Mar 13 19:23:50 2023
+Date          Fri Apr 14 14:31:17 2023
 Command       hhblits -cpu 4 -i data/hhblits_cazy_families/msa/0118_1_30.accs_pruned-mafft.fa -d data/hhblits_cazy_families/hhblits_cazy_families -o data/hhblits_cazy_families/output/0118_1_30.accs_pruned-mafft.fa.hhr -n 1 
 
  No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
@@ -15,8 +15,8 @@ Command       hhblits -cpu 4 -i data/hhblits_cazy_families/msa/0118_1_30.accs_pr
   6 AAN64568.1 polysaccharide poly  93.5 2.4E-05 2.2E-07   65.0   0.0   36  454-490   319-354 (437)
   7 AAA97573.1 O-antigen polymeras  89.2 0.00023 2.2E-06   58.1   0.0   65  451-520   359-426 (482)
   8 AAM27546.1 ORF_12 [Pseudomonas  54.0   0.013 0.00013   44.8   0.0   26  443-468   374-403 (516)
-  9 AAX07747.1 O antigen polymeras   4.1       1    0.01   29.5   0.0   33  293-325   167-199 (445)
- 10 AAX07747.1 O antigen polymeras   2.5     1.8   0.018   27.5   0.0   43  275-327   155-197 (445)
+  9 cazy4457880|1-370|               5.0    0.69   0.008   29.8   0.0   89  369-487   207-302 (384)
+ 10 AAX07747.1 O antigen polymeras   4.1       1    0.01   29.5   0.0   33  293-325   167-199 (445)
 
 No 1
 >ABW40756.1 Wzy, partial [Streptococcus pneumoniae]
@@ -219,6 +219,26 @@ Confidence            44445444555555554   3334 77777
 
 
 No 9
+>cazy4457880|1-370|
+Probab=4.97  E-value=0.69  Score=29.81  Aligned_cols=89  Identities=17%  Similarity=0.213  Sum_probs=52.1  Template_Neff=3.200
+
+Q ABW40756.1      245 FSLLLLLTEK------SETVSV-NLRVDDYNIGFIVWKTS------LWIGHGLNNGILAI---QSHIPT--F--IR----  300 (374)
+Q Consensus       369 ~~i~~ll~~K~~~~~~~~t~S~-siR~DD~~aGfkAW~~h------PifG~G~~N~~~~I~~~~~yM~~~~~~~~R~~~~  441 (568)
+                      .+.|....+|-.    ....+. ++-.|...+|+++-+.-      =.||.|.|.  +.   ++-.|=|  -   +.   
+T Consensus       207 ~ilw~~~~~Yq~----~Rv~~~lnp~~DP~g~gYhiiQs~~AigsGGlfG~G~~~--t~---~kl~~LP--E---~h---  269 (384)
+T cazy4457880|1-  207 PILWFLMHDYQI----QRVMMLLDPESDPLGAGYHIIQSKIAIGSGGLFGKGWGG--TQ---SQLEFLP--E---RH---  269 (384)
+Confidence            334566677721    122222 56667777777665444      456666643  21   2555556  3   32   
+
+
+Q ABW40756.1      301 ---------NVGYSNTLFVILAQGGLLLFLIY-FSPMILLLFKKSP  336 (374)
+Q Consensus       442 ~~~~~~~~~n~GfSngi~~vLa~GGI~l~~~Y~i~P~i~~i~~~~k  487 (568)
+                                  .|--+..+--+.|++|.+.- +..+..++.+..+
+T Consensus       270 ------------TDFIFAVi~EElG~iG~~~l-L~Ly~lli~RGl~  302 (384)
+T cazy4457880|1-  270 ------------TDFIFAVLAEELGLIGGLFL-LALYILLIMRGLR  302 (384)
+Confidence                        45555666667899998877 7777777776666
+
+
+No 10
 >AAX07747.1 O antigen polymerase [Escherichia coli]
 Probab=4.12  E-value=1  Score=29.52  Aligned_cols=33  Identities=9%  Similarity=0.008  Sum_probs=18.8  Template_Neff=5.900
 
@@ -228,17 +248,5 @@ Q Consensus       293 ~k~~IL~ItIlTT~STTGii~l~l~i~~~~~~~  325 (568)
 T Consensus       167 ~~ii~l~~~iLi~~Rg~il~~li~~~fiyL~~~  199 (445)
 T AAX07747.1_con  167 YFLILLIWPILIVNRGMIMMILISCFFIYLLSK  199 (445)
 Confidence            444445555555556655555555666666655
-
-
-No 10
->AAX07747.1 O antigen polymerase [Escherichia coli]
-Probab=2.52  E-value=1.8  Score=27.49  Aligned_cols=43  Identities=9%  Similarity=0.090  Sum_probs=24.5  Template_Neff=5.900
-
-Q ABW40756.1      187 LLILKS--DK-N------NKRNIIILTMLSTISTTGISIIGLAILYKITTN--  228 (374)
-Q Consensus       275 lfl~~~~~~~~~~~~~~~~k~~IL~ItIlTT~STTGii~l~l~i~~~~~~~~~  327 (568)
-                      .++..|  +|        .++...++.++-..=.-.=..++..++-..+....
-T Consensus       155 ~yl~~k--~K--------k~L~~~ii~l~~~iLi~~Rg~il~~li~~~fiyL~  197 (445)
-T AAX07747.1_con  155 LYLSTK--KK--------KYLFYFLILLIWPILIVNRGMIMMILISCFFIYLL  197 (445)
-Confidence            566666  55        46666666666655555555555555555555443
 
 

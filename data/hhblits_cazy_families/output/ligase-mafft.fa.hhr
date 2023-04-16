@@ -3,7 +3,7 @@ Match_columns 668
 No_of_seqs    739 out of 1293
 Neff          5.11758
 Searched_HMMs 14
-Date          Mon Mar 13 19:24:12 2023
+Date          Fri Apr 14 14:31:29 2023
 Command       hhblits -cpu 4 -i data/hhblits_cazy_families/msa/ligase-mafft.fa -d data/hhblits_cazy_families/hhblits_cazy_families -o data/hhblits_cazy_families/output/ligase-mafft.fa.hhr -n 1 
 
  No Hit                             Prob E-value P-value  Score    SS Cols Query HMM  Template HMM
@@ -16,7 +16,7 @@ Command       hhblits -cpu 4 -i data/hhblits_cazy_families/msa/ligase-mafft.fa -
   7 AAM27546.1 ORF_12 [Pseudomonas  91.6 8.6E-05 8.3E-07   63.4   0.0   37  301-338   233-269 (516)
   8 AAL82786.1 putative polysaccha  91.2 0.00011 9.9E-07   61.8   0.0   38  302-340   189-226 (463)
   9 AAA97573.1 O-antigen polymeras  90.1 0.00017 1.6E-06   60.6   0.0   37  301-338   229-265 (482)
- 10 cazy4533116|0-0|X571 MYA98_243  86.1 0.00047   5E-06   64.1   0.0   66  441-549   992-1059(1766)
+ 10 cazy4457880|1-370|              82.4 0.00086   1E-05   52.1   0.0   68  438-549   237-306 (384)
  11 AAT77177.1 Wzy [Escherichia co  77.3   0.002   2E-05   52.0   0.0   38  298-336   212-249 (479)
  12 AAX07747.1 O antigen polymeras  66.4  0.0054 5.5E-05   48.0   0.0   66  511-589   324-389 (445)
 
@@ -249,23 +249,23 @@ Confidence            36677777 78888899999999999988888887733
 
 
 No 10
->cazy4533116|0-0|X571 MYA98_24375 [Salmonella sp. WGH-01]
-Probab=86.13  E-value=0.00047  Score=64.08  Aligned_cols=66  Identities=18%  Similarity=0.251  Sum_probs=46.9  Template_Neff=5.000
+>cazy4457880|1-370|
+Probab=82.39  E-value=0.00086  Score=52.11  Aligned_cols=68  Identities=15%  Similarity=0.127  Sum_probs=48.5  Template_Neff=3.200
 
-Q AAA24524.1      293 EIGLNIFIKSPFSFTSAESRAESMNLLVAEHN------RLRGAL----EF-SNVH-------------LHNEIIER--GS  346 (419)
-Q Consensus       441 ~sAl~~i~e~Pi~G~G~g~~~~~i~~l~~~~~~~~~~~~~~~~l~~~~~~~~~~H~~~~~w~~~~~~gaHN~yL~~--la  518 (668)
-                      ..++.++..-=|+|.|.|+-.....++                          ..             +||||+-.  --
-T Consensus       992 ~Qsl~AIgsGGl~G~GlG~G~~K~~~L--------------------------Pe-------------A~TDFIFAvIgE 1032 (1766)
-T cazy4533116|0-  992 IQSLIAIGSGGLFGKGLGNGTQKLGYL--------------------------PE-------------AHTDFIFAVIGE 1032 (1766)
-Confidence            345566777889999998874422211                          13             77877643  34
+Q AAA24524.1      290 AMYEIGLNIFIKSPFSFTSAESRAESMNLLVAEHN------RLRGAL----EF-SNVH-------------LHNEIIER-  344 (419)
+Q Consensus       438 ~mW~sAl~~i~e~Pi~G~G~g~~~~~i~~l~~~~~~~~~~~~~~~~l~~~~~~~~~~H~~~~~w~~~~~~gaHN~yL~~-  516 (668)
+                      ++.+ +.-++-.-=++|.|.++-.....++++                                       +|+|++-+ 
+T Consensus       237 hiiQ-s~~AigsGGlfG~G~~~t~~kl~~LPE---------------------------------------~hTDFIFAV  276 (384)
+T cazy4457880|1-  237 HIIQ-SKIAIGSGGLFGKGWGGTQSQLEFLPE---------------------------------------RHTDFIFAV  276 (384)
+Confidence            4444 344566677899999777666664444                                       56666543 
 
 
-Q AAA24524.1      347 LKG-LMGI-FSTLFLYFSLFYIAY--K----  369 (419)
-Q Consensus       519 ~~G~I~GL~l~lL~l~~~~l~~~~~~r~~~~  549 (668)
-                      +.| ++|. ++++++|+..++..+  +..++
-T Consensus      1033 ElG-liG~-l~VllL~~lLi~r~l--~iA~~ 1059 (1766)
-T cazy4533116|0- 1033 EFG-FIGA-LLVLLLYLLLIYRGL--RIARR 1059 (1766)
-Confidence            789 9999 999999999999998  76644
+Q AAA24524.1      345 -GSLKG-LMGI-FSTLFLYFSLFYIAY--K----  369 (419)
+Q Consensus       517 -la~~G~I~GL~l~lL~l~~~~l~~~~~~r~~~~  549 (668)
+                       --|.| .+|. +.++.+|+..++...  +...+
+T Consensus       277 i~EElG-~iG~-~~lL~Ly~lli~RGl--~Ia~~  306 (384)
+T cazy4457880|1-  277 LAEELG-LIGG-LFLLALYILLIMRGL--RIAAR  306 (384)
+Confidence             23689 9999 999999999999999  76543
 
 
 No 11
