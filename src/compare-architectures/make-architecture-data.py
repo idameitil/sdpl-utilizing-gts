@@ -188,18 +188,23 @@ def get_name(entry):
 # Selected with family conservation
 entries = [
     [
-    {'acc': 'AHB32861.1', 'family': 'X617'}
+    {'acc': 'AHB32861.1', 'family': 'X617'},
+    {'acc': 'BAQ01641.1', 'family': 'X631'}
     ],
     [
-    {'acc': '6bar', 'family': 'X571'},
+    {'acc': '6bar', 'family': 'X571'}
+    ],
+    [
+    {'acc': 'CAI34369.1', 'family': 'X613'},
     {'acc': 'WP_011517284.1', 'family': 'X615'},
     {'acc': 'AAM27615.1', 'family': 'X614'},
     {'acc': 'CAI34254.1', 'family': 'X609'},
     {'acc': 'CAI34124.1', 'family': 'X607'},
-    {'acc': 'CAI34369.1', 'family': 'X613'},
-    {'acc': 'BAQ02088.1', 'family': 'X605'}
+    {'acc': 'BAQ02088.1', 'family': 'X605'},
+    {'acc': 'CAI33412.1', 'family': 'X632'}
     ],
     [
+    {'acc': 'ABG81806.1', 'family': 'X633'},
     {'acc': 'AHB32411.1', 'family': 'X610'},
     {'acc': 'ADC54950.1', 'family': 'X612'},
     {'acc': 'AAT77177.1', 'family': 'X606'},

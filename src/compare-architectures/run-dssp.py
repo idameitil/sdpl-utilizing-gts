@@ -29,7 +29,8 @@ accessions = ['AHB32215.1', 'AHB32334.1', 'AHB32861.1', 'CAI34008.1', 'ACH97162.
               'ACD37165.1', 'AAM27615.1', 'CBN82200.1', 'AAT77177.1', 'CAI34124.1', 'AHB32490.1', 
               'CAI32772.1', 'AHB32411.1', 'CAI34254.1', 'CAI34198.1', 'CAI34217.1', 'ACA24821.1', 
               'ADC54967.1', 'AAY28257.1', 'ACD37046.1', 'ACU06810.1', 'CAI32823.1', 'CAD19991.1', 
-              'CAI33983.1']
+              'CAI33983.1', 'BAQ01641.1', 'WP_016238111.1', 'CAI33412.1', 'CAB63298.1', 'BAQ01843.1',
+              'ABG81806.1']
 def write_ss_string(id, model_filename, outfilename):
     structure = p.get_structure(id, model_filename)
     model = structure[0]
