@@ -189,7 +189,8 @@ def get_name(entry):
 entries = [
     [
     {'acc': 'AHB32861.1', 'family': 'X617'},
-    {'acc': 'BAQ01641.1', 'family': 'X631'}
+    {'acc': 'BAQ01641.1', 'family': 'X631'},
+    {'acc': 'ADI43271.1', 'family': 'X634'}
     ],
     [
     {'acc': '6bar', 'family': 'X571'}
@@ -200,8 +201,7 @@ entries = [
     {'acc': 'AAM27615.1', 'family': 'X614'},
     {'acc': 'CAI34254.1', 'family': 'X609'},
     {'acc': 'CAI34124.1', 'family': 'X607'},
-    {'acc': 'BAQ02088.1', 'family': 'X605'},
-    {'acc': 'CAI33412.1', 'family': 'X632'}
+    {'acc': 'BAQ02088.1', 'family': 'X605'}
     ],
     [
     {'acc': 'ABG81806.1', 'family': 'X633'},
@@ -229,31 +229,31 @@ with open(outfilename, 'w') as outfile:
     outfile.write('};')
 
 # Get conserved
-for i in range(len(entries)):
-    for j in range(len(entries[i])):
-        entry = entries[i][j]
-        if entry['family'] == 'X586':
-            alignment_filename = f"data/hhblits_cazy_families/msas-family-names/{entry['family']}-with-model.fa"
-        elif entry['family'] == 'X571':
-            alignment_filename = f"data/roda/list4-with-6bar-pruned-mafft.fa"
-            # entries[i]['conserved_positions'] = {255: 'D'}
-            # continue
-        else:
-            alignment_filename = f"data/hhblits_cazy_families/msas-family-names/{entry['family']}.fa"
-        fasta_dict = read_MSA_file(alignment_filename)
-        conserved_residues = get_conserved_residues(fasta_dict, threshold=threshold, include_aliphatic=False)
-        positions = get_specific_positions_conserved_residues(entry['acc'], conserved_residues, fasta_dict)
-        entries[i][j]['conserved_positions'] = {position['pos']: position['AA'] for position in positions}
+# for i in range(len(entries)):
+#     for j in range(len(entries[i])):
+#         entry = entries[i][j]
+#         if entry['family'] == 'X586':
+#             alignment_filename = f"data/hhblits_cazy_families/msas-family-names/{entry['family']}-with-model.fa"
+#         elif entry['family'] == 'X571':
+#             alignment_filename = f"data/roda/list4-with-6bar-pruned-mafft.fa"
+#             # entries[i]['conserved_positions'] = {255: 'D'}
+#             # continue
+#         else:
+#             alignment_filename = f"data/hhblits_cazy_families/msas-family-names/{entry['family']}.fa"
+#         fasta_dict = read_MSA_file(alignment_filename)
+#         conserved_residues = get_conserved_residues(fasta_dict, threshold=threshold, include_aliphatic=False)
+#         positions = get_specific_positions_conserved_residues(entry['acc'], conserved_residues, fasta_dict)
+#         entries[i][j]['conserved_positions'] = {position['pos']: position['AA'] for position in positions}
 
-# Write conserved file
-outfilename = f"data/compare-architectures/conserved_{threshold}.js"
-with open(outfilename, 'w') as outfile:
-    outfile.write("const conservedResidues = {\n")
-    for i in range(len(entries)):
-        for j in range(len(entries[i])):
-            entry = entries[i][j]
-            outfile.write(f"\t'{get_name(entry)}': {entry['conserved_positions']},\n")
-    outfile.write('};')
+# # Write conserved file
+# outfilename = f"data/compare-architectures/conserved_{threshold}.js"
+# with open(outfilename, 'w') as outfile:
+#     outfile.write("const conservedResidues = {\n")
+#     for i in range(len(entries)):
+#         for j in range(len(entries[i])):
+#             entry = entries[i][j]
+#             outfile.write(f"\t'{get_name(entry)}': {entry['conserved_positions']},\n")
+#     outfile.write('};')
 
 # Get architecture strings
 table_folder = "data/compare-architectures/architecture-tables-dssp-with-tm"
