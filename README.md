@@ -212,7 +212,7 @@ The html stuff was removed from the file ('top <#top>    '): `data/wzy/seed-cazy
 The HMM file was parsed with `pyhton src/wzy-seed-search/parse-hmm.py`, which created the file `data/wzy/seed-cazy-search/best_hmm_hits.tsv`.
 (before this the file `data/wzy/seed-cazy-search/hmm_hits.tsv` was generated).
 
-The fasta files were generated with efetch: `src/wzy-seed-search/efetch.sh`.
+The fasta files were generated with efetch: `src/wzy-seed-search/efetch.sh` and saved in `data/wzy/seed-cazy-search/seeds-in-families`.
 
 Each fasta file was uploaded to muscle and the trees were saved in `data/wzy/seed-cazy-search/seeds-in-families`.
 
@@ -376,11 +376,28 @@ Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-po
 `python src/ssn-clustering/cluster/get-clusters.py [timestamp] [expansion-threshold] [ssn-threshold] eca-pol`
 
 ## RodA
+
+### Make alignment from CAZy family
 A fasta file of family X571 (RodA) was downloaded with "Fetch fasta" (Fields ticked: "Public Sequences", "Add Frags,Splicing" and "Add (0-0) Sequences"). It is located in `data/roda/cazyX571.fa`.
 
 It was redundancy reduced: `cd-hit -i data/roda/cazyX571.fa -o data/roda/cazyX571-cdhit0.8.fa -c 0.8`.
 
 And an alignments was made `mafft  --maxiterate 1000 --localpair --leavegappyregion --reorder --thread 7 data/roda/cazyX571-cdhit0.8.fa > data/roda/cazyX571-cdhit0.8-mafft.fa`.
+
+### Blast
+6BAR was blasted on the HPC and the files were downloaded to `data/roda/blast/6BAR`.
+
+The results were parsed: `blastfilter -js data/roda/blast/6BAR/blast.out > data/roda/blast/6BAR/blast.json`
+
+And the hits file was generated: `python src/blast/make-hits-file.py data/roda/blast/6BAR/blast.json data/roda/blast/6BAR/hits.tsv`.
+
+Open `data/roda/blast/6BAR/hits.tsv` in excel and copy all accessions with e-value smaller than e-40 to `data/roda/blast/6BAR/hits-e-40.txt`
+
+Make the fasta file: `efetch -db protein -format fasta -input data/roda/blast/6BAR/hits-e-40.txt > data/roda/blast/6BAR/hits-e-40.fa`
+
+Redundancy reduce: `cd-hit -i data/roda/blast/6BAR/hits-e-40.fa -o data/roda/blast/6BAR/hits-e-40-cdhit0.95.fa -c 0.95`
+
+Make alignemnt: `mafft  --maxiterate 1000 --localpair --leavegappyregion --reorder --thread 7 data/roda/blast/6BAR/hits-e-40-cdhit0.70.fa > data/roda/blast/6BAR/hits-e-40-cdhit0.70-mafft.fa`
 
 ## Comparison of families
 All fastas of the families were copied to `data/hhblits_cazy_families/fastas`.
@@ -390,6 +407,8 @@ All MSAs were copied to `data/hhblits_cazy_families/msa`.
 To run the hhblits comparisons, run: `sh src/compare-cazy-families/hhblits.sh`.
 
 The output files are in `data/hhblits_cazy_families/output`.
+
+To make the heatmap, run: `python src/compare-cazy-families/make-heatmap.py`. The heatmap is saved in `data/hhblits_cazy_families/heatmap_hhblits.png`.
 
 ## Test your query sequence
 Build family HMMs: `python src/compare-cazy-families/build-hmms.py`
@@ -422,7 +441,7 @@ This will create the figures in `data/pymol-visualizations/figures-selected`.
 ## Compare architecture (figure)
 (Old) The architectures were manually written from the alphafold structures in pymol into `data/compare-architectures/architecture-tables/[acc].csv`.
 
-The secondary structure is retrieved for each structure by running `python src/compare-architectures/run-dssp.py`. This creates the tables in `data/compare-architectures/data/compare-architectures/architecture-tables-dssp`. 
+(New) The secondary structure is retrieved for each structure by running `python src/compare-architectures/run-dssp.py`. This creates the tables in `data/compare-architectures/data/compare-architectures/architecture-tables-dssp`. 
 
 These files are copied to `data/compare-architectures/architecture-tables-dssp-with-tm` and the TM regions are manually annotated by looking at the structures in pymol.
 
@@ -439,7 +458,7 @@ The file was downloaded: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/single_b
 
 `blastfilter -js data/wada/blast.out > data/wada/blast.js`  if it gives an error, add a " 0" to the line "Query= WadA" line
 
-`python src/wada/make-hits-file.py`
+`python src/blast/make-hits-file.py data/wada/blast.js data/wada/hits.tsv`
 
 Open `data/wada/hits.tsv` in excel and copy all accessions with e-value smaller than e-40 to >`data/wada/hits-e-40.txt`
 

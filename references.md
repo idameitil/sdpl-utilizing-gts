@@ -1,3 +1,6 @@
+# Similar sugars across taxonomy
+AHB32715 and ACD37138
+
 # DTU massage
 https://dtumassage.onlinebooq.dk/
 
@@ -121,6 +124,9 @@ Removed SSN clusters 75, 72, 60
     - `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/0129_7/0129_7.accs_pruned-mafft.fa`
     - `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/0221_4/0221_4.accs_pruned-mafft.fa`
     - `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/1085_39_1/0250_3/0250_3.accs_pruned-mafft.fa`
+- X631 (`data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0092_3_11/0092_2_11-pruned-mafft.fa`)
+- X632 (`data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0101_2_15/0101_2_15-pruned-mafft.fa`)
+- X633 (`data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051/superclusters/0103_3_10/0103_3_10-pruned-mafft.fa`)
 
 # Project number and task number
 Project number: 27 - ...
