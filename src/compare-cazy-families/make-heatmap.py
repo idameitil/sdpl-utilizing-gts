@@ -17,18 +17,25 @@ acc2name = {'ADC54950.1':'X612', 'AHB32861.1':'X617', 'cazy201071':'SEDS, X571',
     'ADI43271.1': 'X634'
 }
 
+old2newnames = {'SEDS, X571': 'SEDS, GTxx1',
+         'X617': 'GTxx4', 'X631': 'GTxx5', 'X634': 'GTxx6',
+         'X613': 'GTxx7', 'O-Lig, X615': 'O-Lig, GTxx3', 'X614': 'GTxx8', 'X609': 'GTxx9', 'X607': 'GTx10', 'X605': 'GTx11',
+         'X610': 'GTx12', 'X612': 'GTx13', 'X606': 'GTx14', 'X611': 'GTx15', 'X608': 'GTx16', 'ECA-Pol, X586': 'ECA-Pol, GTxx2', 'X633': 'GTx17'}
+
 mydict = dict()
 for filename in hhr_filenames:
     query_acc, hits = parse_hhblits_output(f"{hhblits_outdir}/{filename}")
     # convert to family names
     query_family_name = acc2name[query_acc]
+    new_query_family_name = old2newnames[query_family_name]
     hits_family_names = {}
     for hit in hits:
         hit_family_name = acc2name[hit]
-        hits_family_names[hit_family_name] = hits[hit]
+        new_hit_family_name = old2newnames[hit_family_name]
+        hits_family_names[new_hit_family_name] = hits[hit]
     # Save
-    mydict[query_family_name] = hits_family_names
-
+    mydict[new_query_family_name] = hits_family_names
+print(mydict)
 df = pd.DataFrame.from_dict(mydict)
 
 # Set diagonal to max
@@ -36,11 +43,18 @@ max_score = df.max().max()
 for index, row in df.iterrows():
     row[index] = 200
 
-order = ['SEDS, X571',
-         'X617', 'X631', 'X634',
-         'X613', 'O-Lig, X615', 'X614', 'X609', 'X607', 'X605',
-         'X610', 'X612', 'X606', 'X611', 'X608', 'ECA-Pol, X586', 'X633'
-    ]
+# order = ['SEDS, X571',
+#          'X617', 'X631', 'X634',
+#          'X613', 'O-Lig, X615', 'X614', 'X609', 'X607', 'X605',
+#          'X610', 'X612', 'X606', 'X611', 'X608', 'ECA-Pol, X586', 'X633'
+#     ]
+
+order = ['SEDS, GTxx1',
+         'GTxx4', 'GTxx5', 'GTxx6',
+         'GTxx7', 'O-Lig, GTxx3', 'GTxx8', 'GTxx9', 'GTx10', 'GTx11',
+         'GTx12', 'GTx13', 'GTx14', 'GTx15', 'GTx16', 'ECA-Pol, GTxx2', 'GTx17']
+
+print(df)
 df = df.loc[reversed(order), reversed(order)]
 
 df.to_csv("data/hhblits_cazy_families/distance-matrix-hhblits.tsv", sep='\t')
