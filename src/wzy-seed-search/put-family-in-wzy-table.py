@@ -24,7 +24,7 @@ superclusters_df.rename(columns={"supercluster": "membership_superclustering"}, 
 merged_df2 = merged_df.merge(right=superclusters_df, how='left', left_on='protein_accession', right_on='acc')
 
 # Select columns
-columns = ['species_original', 'protein_accession', 'serotype_edited', 'seq', 'pubmed', 'CSDB_Linear_corrected', 'hmm_name', 'evalue', 'membership_superclustering']
+columns = ['species_original', 'protein_accession', 'serotype_edited', 'seq', 'pubmed', 'CSDB_Linear_corrected', 'hmm_name', 'evalue', 'membership_superclustering', 'axial_equatorial']
 small_df = merged_df2[columns]
 small_df_renamed = small_df.rename(columns={'hmm_name': 'best_family_hit'})
 
