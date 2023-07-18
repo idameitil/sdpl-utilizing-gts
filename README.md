@@ -204,7 +204,7 @@ To parse the genbank hmm search, run: `python src/genbank-search/parse-hmm-searc
 ### Generation of CAZy families
 The superclustering run `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051` was used for generating the families. However, along the way of pruning the sueprclusters, we decided that 160 was a better threshold. Instead of redoing the pruning with a new superclustering, we kept going with this one and just removed SSN clusters connected only by edges <160. A list of the alignments for each family including which SSN clusters were removed, is found in `references.md` under "# CAZy families".
 
-### Seed CAZy search
+### Addition of seeds to CAZy families
 The list of Wzy seeds (`data/wzy/wzy.fasta`) was scanned against the CAZy families by Bernard. The output file is saved in `data/wzy/seed-cazy-search/seeds_newhmm.txt`.
 
 The html stuff was removed from the file ('top <#top>    '): `data/wzy/seed-cazy-search/seeds_newhmm-cleaned.txt`.
@@ -219,6 +219,16 @@ Each fasta file was uploaded to muscle and the trees were saved in `data/wzy/see
 A table with original supercluster membership and CAZy family membership is generated with: `python src/wzy-seed-search/put-family-in-wzy-table.py`. This creates the file `data/wzy/wzy_with_cazy_family.ts`. 
 
 Bernard added the seeds with high e-values to CAZy. He sent a file `data/wzy/wzy_with_cazy_family_accessions.xls` with the CAZy IDs (2nd of March 2023).
+
+A new version was made: `data/wzy/wzy_with_cazy_family_accessions_new.xls` (I'm not sure why).
+
+### Family fastas
+The fastas for each of the Wzy families were downloaded by Bernard with fetch fasta on the 13th of July 2023 and stored in `data/wzy/all-familiy-fastas`.
+
+### Final seed family membership
+To search for the seeds in the family fastas, run: `src/wzy-seed-search/search-in-fastas.py`.
+
+This will create the file `data/wzy/seed-family-membership-final.tsv`.
 
 ## WaaL
 
@@ -376,6 +386,8 @@ Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/eca-po
 `python src/ssn-clustering/cluster/get-clusters.py [timestamp] [expansion-threshold] [ssn-threshold] eca-pol`
 
 ## RodA
+
+Family X571 was created by Bernard directly in CAZy.
 
 ### Make alignment from CAZy family
 A fasta file of family X571 (RodA) was downloaded with "Fetch fasta" (Fields ticked: "Public Sequences", "Add Frags,Splicing" and "Add (0-0) Sequences"). It is located in `data/roda/cazyX571.fa`.
