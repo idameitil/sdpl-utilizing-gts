@@ -222,6 +222,8 @@ Bernard added the seeds with high e-values to CAZy. He sent a file `data/wzy/wzy
 
 A new version was made: `data/wzy/wzy_with_cazy_family_accessions_new.xls` (I'm not sure why).
 
+Another new version was sent from Bernie: `data/wzy/wzy_with_cazy_family_accessions_new_new.xls`.
+
 ### Family fastas
 The fastas for each of the Wzy families were downloaded by Bernard with fetch fasta on the 13th of July 2023 and stored in `data/wzy/all-familiy-fastas`.
 
