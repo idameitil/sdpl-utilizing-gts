@@ -250,7 +250,7 @@ When all jobs are finished, run: `sh /work3/idamei/bin/aclust_example/aclust2.sh
 When the job is finished, download the tree file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/waal/tree-seeds-and-hits/my.tree data/waal/seeds-and-reduced-hits-aclust.nwk`.
 
 ### CAZy family
-Garry pruned the ligase accessions based on `data/waal/seeds-and-hits1e-60-cdhit95-pruned.fasta`. His pruned list is in `data/waal/seeds-and-hits1e-60-cdhit95-pruned2.accs`. He then generated a tree with these, "https://itol.embl.de/tree/1923890169346361673971155#". It was decided to make four subfamilies. 
+Garry pruned the ligase accessions based on `data/waal/seeds-and-hits1e-60-cdhit95-pruned.fasta`. His pruned list is in `data/waal/seeds-and-hits1e-60-cdhit95-pruned2.accs`. He then generated a tree with these, "https://itol.embl.de/tree/1923890169346361673971155#". It was decided to make four subfamilies. An iTOL label file was made manually with the colours for the four subfamilies: `data/waal/phylogenetic-trees/itol-label-files/subfamilies.txt`.
 
 For each subfamily:
 - A folder was created `data/waal/final_subfamilies/subfamily1` etc.
