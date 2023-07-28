@@ -232,6 +232,13 @@ To search for the seeds in the family fastas, run: `src/wzy-seed-search/search-i
 
 This will create the file `data/wzy/seed-family-membership-final.tsv`.
 
+### Make stereochemistry plot
+Update `data/wzy/final-family-membership.csv` with all the seeds in families.
+
+Run `src/wzy-seed-search/modify.py`. This will create the file `data/wzy/final-family-membership-mod.csv`, which contains info on axial/equatorial bonds.
+
+Then run `src/ssn-clustering/analyse-superclustering/plot-stereochemistry-final-families.py`. The stereochemistry plot will be saved in `data/wzy/stereochemistry-final.png`.
+
 ## WaaL
 
 ### Make seed MSA
