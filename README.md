@@ -228,16 +228,14 @@ Another new version was sent from Bernie: `data/wzy/wzy_with_cazy_family_accessi
 The fastas for each of the Wzy families were downloaded by Bernard with fetch fasta on the 13th of July 2023 and stored in `data/wzy/all-familiy-fastas`.
 
 ### Final seed family membership
-To search for the seeds in the family fastas, run: `src/wzy-seed-search/search-in-fastas.py`.
+To search for the seeds in the family fastas, run: `python src/wzy-seed-search/search-in-fastas.py`.
 
 This will create the file `data/wzy/seed-family-membership-final.tsv`.
 
 ### Make stereochemistry plot
-Update `data/wzy/final-family-membership.csv` with all the seeds in families.
+Run `python src/wzy-seed-search/modify.py`. This will create the file `data/wzy/final-family-membership-mod.csv`, which contains info on axial/equatorial bonds.
 
-Run `src/wzy-seed-search/modify.py`. This will create the file `data/wzy/final-family-membership-mod.csv`, which contains info on axial/equatorial bonds.
-
-Then run `src/ssn-clustering/analyse-superclustering/plot-stereochemistry-final-families.py`. The stereochemistry plot will be saved in `data/wzy/stereochemistry-final.png`.
+Then run `python src/ssn-clustering/analyse-superclustering/plot-stereochemistry-final-families.py`. The stereochemistry plot will be saved in `data/wzy/stereochemistry-final.png`.
 
 ## WaaL
 

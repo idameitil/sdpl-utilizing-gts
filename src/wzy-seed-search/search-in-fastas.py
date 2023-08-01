@@ -20,6 +20,7 @@ for filename in fastas:
 # Read seeds file
 count = 0
 with open("data/wzy/seed-family-membership-final.tsv", 'w') as outfile:
+    outfile.write(f"protein_accession\tCAZy_ID\tCAZy_family\n")
     df = pd.read_excel("data/wzy/wzy_with_cazy_family_accessions.xls")
     for index, row in df.iterrows():
         acc = row.protein_accession
