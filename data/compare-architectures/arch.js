@@ -1,20 +1,15 @@
-
 const colorScheme = [
     {
-        color: [255, 165, 0],
-        members: ['G', 'A', 'S', 'T']
-    },
-    {
-        color: [0, 255, 0],
-        members: ['C', 'V', 'I', 'L', 'P', 'F', 'Y', 'M', 'W']
-    },
-    {
         color: [255, 0, 255],
-        members: ['N', 'Q', 'H']
+        members: ['G', 'Y', 'S', 'T', 'N', 'C', 'Q']
+    },
+    {
+        color: [70, 156, 118],
+        members: ['V', 'I', 'L', 'P', 'F', 'M', 'W', 'A']
     },
     {
         color: [255, 0, 0],
-        members: ['D', 'E']
+        members: ['D', 'E', 'H']
     },
     {
         color: [0, 0, 255],
@@ -22,30 +17,38 @@ const colorScheme = [
     }
 ]
 
-const spaceBetweenArchitectures = 220;
-const leftMargin = 30;
+
+const spaceBetweenArchitectures = 300;
+const spaceBetweenClans = 380;
+const leftMargin = 100;
+const rightMargin = 100;
 const topMargin = 60;
-const canvasWidth = 9300;
-const canvasHeight = Object.keys(lengths).length*spaceBetweenArchitectures+topMargin;
+const canvasWidth = 9350 + rightMargin;
+const canvasHeight = Object.keys(lengths).length*spaceBetweenArchitectures+topMargin+4*spaceBetweenClans-18;
 const spaceBeforeArchitectureName = 60;
+const blastLineThickness = 16
 // const sequenceIndent = 600;
 
 function setup(){
     background(255);
     //noStroke();
     createCanvas(canvasWidth, canvasHeight);
-    let i = 0;
+    let i = 1;
+    let j = 0;
     for(const family of architectures){
         let y;
         drawBlackLine(10);
         for(const architectureName in family){
-            y = spaceBetweenArchitectures/2+i*spaceBetweenArchitectures;
+            y = spaceBetweenArchitectures/2+j*spaceBetweenArchitectures+i*spaceBetweenClans;
             drawArchitectureName(architectureName, y+topMargin);
             drawArchitecture(family[architectureName], conservedResidues[architectureName], lengths[architectureName], y);
-            i++;
+            j++;
         }
-        drawBlackLine(y+120);
+        drawBlackLine(y+180);
+        i++;
     }
+    drawVerticalLine(0)
+    drawVerticalLine(canvasWidth-blastLineThickness)
 }
 
 const unitSize = 20;
@@ -95,17 +98,18 @@ function drawConservedResidue(conservedResidue, position, x, y){
     if(!conservedResidue){
         return;
     }
-    const size_residue_text = 140;
+    const size_residue_text = 150;
     const color_residue_text = getColor(conservedResidue);
     textSize(size_residue_text);
     fill(...color_residue_text);
-    text(conservedResidue, x-size_residue_text/4, y-5);
-    
+    text(conservedResidue, x-size_residue_text/4, y-20);
+
     const color_position_text = [0, 0, 0];
-    const size_position_text = 50;
+    // const size_position_text = 50;
+    const size_position_text = 75;
     textSize(size_position_text);
     fill(...color_position_text);
-    text(position, x-size_residue_text/4+5, y-110);
+    text(position, x-size_residue_text/4+5, y-140);
 }
 
 function drawInside(x, y){
@@ -163,18 +167,25 @@ function drawSheet(x, y){
 }
 
 function drawArchitectureName(architectureName, y){
-    const size = 70;
+    const size = 130;
     const color = [0, 0, 0];
     textSize(size);
     fill(...color);
     // text(architectureName.substring(0,4), leftMargin+max_length*unitSize+spaceBeforeArchitectureName, y+40);
     // text(architectureName, leftMargin+max_length*unitSize+spaceBeforeArchitectureName, y+40);
-    text(architectureName, leftMargin, y-20);
+    text(architectureName, leftMargin, y-40);
 }
 
 function drawBlackLine(y){
     const color = [0, 0, 0];
     fill(...color);
     stroke(color)
-    rect(0, y, canvasWidth, 6)
+    rect(0, y, canvasWidth, blastLineThickness)
+}
+
+function drawVerticalLine(x){
+    const color = [0, 0, 0];
+    fill(...color);
+    stroke(color)
+    rect(x, blastLineThickness, blastLineThickness, canvasHeight)
 }

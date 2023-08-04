@@ -7,14 +7,14 @@ import json
 threshold = 0.99
 
 def get_name(entry):
-    if entry['family'] == 'X571':
+    if entry['family'] == 'GTxx1':
         name = f"{entry['family']}, RodA, {entry['acc']}"
-    elif entry['family'] == 'X615' or entry['family'][0:4] == 'X615':
+    elif entry['family'] == 'GTxx3' or entry['family'][0:4] == 'GTxx3':
         name = f"{entry['family']}, O-Lig, {entry['acc']}"
-    elif entry['family'] == 'X586':
+    elif entry['family'] == 'GTxx2':
         name = f"{entry['family']}, ECA-Pol, {entry['acc']}"
     else:
-        name = f"{entry['family']}, O-Pol, {entry['acc']}"
+        name = f"{entry['family']}, BP-Pol, {entry['acc']}"
     return name
 
 # All, with subfamily conservation if available
@@ -188,29 +188,29 @@ def get_name(entry):
 # Selected with family conservation
 entries = [
     [
-    {'acc': 'AHB32861.1', 'family': 'X617'},
-    {'acc': 'BAQ01641.1', 'family': 'X631'},
-    {'acc': 'ADI43271.1', 'family': 'X634'}
+    {'acc': 'AHB32861.1', 'family': 'GTxx4'},
+    {'acc': 'BAQ01641.1', 'family': 'GTxx5'},
+    {'acc': 'ADI43271.1', 'family': 'GTxx6'}
     ],
     [
-    {'acc': '6bar', 'family': 'X571'}
+    {'acc': '6BAR', 'family': 'GTxx1'}
     ],
     [
-    {'acc': 'CAI34369.1', 'family': 'X613'},
-    {'acc': 'WP_011517284.1', 'family': 'X615'},
-    {'acc': 'AAM27615.1', 'family': 'X614'},
-    {'acc': 'CAI34254.1', 'family': 'X609'},
-    {'acc': 'CAI34124.1', 'family': 'X607'},
-    {'acc': 'BAQ02088.1', 'family': 'X605'}
+    {'acc': 'CAI34369.1', 'family': 'GTxx7'},
+    {'acc': '7TPG', 'family': 'GTxx3'},
+    {'acc': 'AAM27615.1', 'family': 'GTxx8'},
+    {'acc': 'CAI34254.1', 'family': 'GTxx9'},
+    {'acc': 'CAI34124.1', 'family': 'GTx10'},
+    {'acc': 'BAQ02088.1', 'family': 'GTx11'}
     ],
     [
-    {'acc': 'ABG81806.1', 'family': 'X633'},
-    {'acc': 'AHB32411.1', 'family': 'X610'},
-    {'acc': 'ADC54950.1', 'family': 'X612'},
-    {'acc': 'AAT77177.1', 'family': 'X606'},
-    {'acc': 'AAA97573.1', 'family': 'X611'},
-    {'acc': 'CAI32772.1', 'family': 'X608'},
-    {'acc': 'ACH50550.1', 'family': 'X586'}
+    {'acc': 'ABG81806.1', 'family': 'GTx17'},
+    {'acc': 'AHB32411.1', 'family': 'GTx12'},
+    {'acc': 'ADC54950.1', 'family': 'GTx13'},
+    {'acc': 'AAT77177.1', 'family': 'GTx14'},
+    {'acc': 'AAA97573.1', 'family': 'GTx15'},
+    {'acc': 'CAI32772.1', 'family': 'GTx16'},
+    {'acc': 'ACH50550.1', 'family': 'GTxx2'}
     ]
 ]
 
