@@ -35,13 +35,15 @@ for filename in hhr_filenames:
         hits_family_names[new_hit_family_name] = hits[hit]
     # Save
     mydict[new_query_family_name] = hits_family_names
-print(mydict)
+
 df = pd.DataFrame.from_dict(mydict)
+# df_log = np.log10(df)
 
 # Set diagonal to max
 max_score = df.max().max()
 for index, row in df.iterrows():
     row[index] = 200
+    pass
 
 # order = ['SEDS, X571',
 #          'X617', 'X631', 'X634',
@@ -52,9 +54,9 @@ for index, row in df.iterrows():
 order = ['SEDS, GTxx1',
          'GTxx4', 'GTxx5', 'GTxx6',
          'GTxx7', 'O-Lig, GTxx3', 'GTxx8', 'GTxx9', 'GTx10', 'GTx11',
-         'GTx12', 'GTx13', 'GTx14', 'GTx15', 'GTx16', 'ECA-Pol, GTxx2', 'GTx17']
+         'GTx12', 'GTx13', 'GTx14', 'GTx15', 'GTx16', 'ECA-Pol, GTxx2', 'GTx17',
+         ]
 
-print(df)
 df = df.loc[reversed(order), reversed(order)]
 
 df.to_csv("data/hhblits_cazy_families/distance-matrix-hhblits.tsv", sep='\t')
