@@ -160,28 +160,21 @@ def make_family_membership_arrow_file(acc2family, acc2color, family2firstacc):
             else:
                 file.write(f"{family2firstacc[family]},{acc},2,{family2color[family]},dashed,{family}\n")               
 
-input_filename = f"seeds-in-families"
-selected_seeds = list()
-with open(input_filename, 'r') as infile:
-    for line in infile:
-        selected_seeds.append(line.strip())
-print(selected_seeds)
+family2color = {'X608': '#FF0000', 'X611': '#00FF00', 'X606': '#0000FF', 'X605': '#00FFFF', \
+                'X617': '#FFFF00', 'X612': '#FF00FF', 'X609': '#C0C0C0', 'X614': '#808000', \
+                'X607': '#800000', 'X613': '#000000', 'X610': '#008000', 'X631': '#800080', \
+                'X634': '#008080', 'X633': '#000080'}
 
-input_filename = f"data/wzy/family-membership.csv"
+input_filename = f"seeds-in-families.xlsx"
+df = pd.read_excel(input_filename)
 acc2family = {}
-family2color = {}
 family2firstacc = {}
-with open(input_filename, 'r', encoding='utf-8-sig') as infile:
-    for line in infile:
-        acc, family_raw = line.strip().split(',')
-        family = family_raw[0:4]
-        if acc not in selected_seeds:
-            continue
-        acc2family[acc] = family
-        family = acc2family[acc]
-        if family not in family2color:
-            color = '#' + "%06x" % random.randint(0, 0xFFFFFF)
-            family2color[family] = color
-            family2firstacc[family] = acc
+families_done = []
+for index, row in df.iterrows():
+    acc2family[row.protein_accession] = row.CAZy_family
+    family = row.CAZy_family
+    if family not in families_done:
+        family2firstacc[family] = row.protein_accession
 make_family_membership_color_file(acc2family, family2color)
 make_family_membership_arrow_file(acc2family, family2color, family2firstacc)
+
