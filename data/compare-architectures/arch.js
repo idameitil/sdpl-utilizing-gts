@@ -8,7 +8,8 @@ const colorScheme = [
         members: ['V', 'I', 'L', 'P', 'F', 'M', 'W', 'A']
     },
     {
-        color: [255, 0, 0],
+        // color: [255, 0, 0],
+        color: [255, 140, 0],
         members: ['D', 'E', 'H']
     },
     {
@@ -18,13 +19,13 @@ const colorScheme = [
 ]
 
 
-const spaceBetweenArchitectures = 300;
-const spaceBetweenClans = 380;
+const spaceBetweenArchitectures = 500;
+const spaceBetweenClans = 550;
 const leftMargin = 100;
 const rightMargin = 100;
-const topMargin = 60;
+const topMargin = 250;
 const canvasWidth = 9350 + rightMargin;
-const canvasHeight = Object.keys(lengths).length*spaceBetweenArchitectures+topMargin+4*spaceBetweenClans-18;
+const canvasHeight = Object.keys(lengths).length*spaceBetweenArchitectures+topMargin+3*spaceBetweenClans-115;
 const spaceBeforeArchitectureName = 60;
 const blastLineThickness = 16
 // const sequenceIndent = 600;
@@ -33,18 +34,18 @@ function setup(){
     background(255);
     //noStroke();
     createCanvas(canvasWidth, canvasHeight);
-    let i = 1;
+    let i = 0;
     let j = 0;
     for(const family of architectures){
         let y;
         drawBlackLine(10);
         for(const architectureName in family){
-            y = spaceBetweenArchitectures/2+j*spaceBetweenArchitectures+i*spaceBetweenClans;
-            drawArchitectureName(architectureName, y+topMargin);
+            y = spaceBetweenArchitectures/2+j*spaceBetweenArchitectures+i*spaceBetweenClans+topMargin;
+            drawArchitectureName(architectureName, y-150);
             drawArchitecture(family[architectureName], conservedResidues[architectureName], lengths[architectureName], y);
             j++;
         }
-        drawBlackLine(y+180);
+        drawBlackLine(y+120);
         i++;
     }
     drawVerticalLine(0)
@@ -59,30 +60,32 @@ function drawArchitecture(architectureString, conservedResidues, sequencelength,
         switch(architectureString[i]){
             case 'l':
                 fillConserved(200);
-                drawLoop(i*unitSize+leftMargin+indent*unitSize, y+topMargin);
+                drawLoop(i*unitSize+leftMargin+indent*unitSize, y);
                 break;
             // case '_':
             //     fillConserved(200);
-            //     drawInside(i*unitSize+leftMargin+indent*unitSize, y+topMargin); 
+            //     drawInside(i*unitSize+leftMargin+indent*unitSize, y); 
             //     break;
             // case '_':
             //     fillConserved(200);
-            //     drawOutside(i*unitSize+leftMargin+indent*unitSize, y+topMargin); 
+            //     drawOutside(i*unitSize+leftMargin+indent*unitSize, y); 
             //     break;
             case 'h':
                 fillConserved(45, 130, 80);
-                drawHelix(i*unitSize+leftMargin+indent*unitSize, y+topMargin, !!conservedResidues[i]);
+                drawHelix(i*unitSize+leftMargin+indent*unitSize, y-10, !!conservedResidues[i]);
                 break;
             case 'e':
                 fillConserved(45, 130, 80);
-                drawECHelix(i*unitSize+leftMargin+indent*unitSize, y+topMargin, !!conservedResidues[i]);
+                drawECHelix(i*unitSize+leftMargin+indent*unitSize, y-10, !!conservedResidues[i]);
                 break;
             case 's':
-                fillConserved(45, 130, 80);
-                drawSheet(i*unitSize+leftMargin+indent*unitSize, y+topMargin, !!conservedResidues[i]);
+                // fillConserved(45, 130, 80);
+                // drawSheet(i*unitSize+leftMargin+indent*unitSize, y, !!conservedResidues[i]);
+                fillConserved(200);
+                drawLoop(i*unitSize+leftMargin+indent*unitSize, y);
                 break;
         }
-        drawConservedResidue(conservedResidues[i], i, i*unitSize+leftMargin+indent*unitSize, y+topMargin);
+        drawConservedResidue(conservedResidues[i], i, i*unitSize+leftMargin+indent*unitSize, y);
     }
 }
 
@@ -95,21 +98,27 @@ function getColor(conservedResidue){
 }
 
 function drawConservedResidue(conservedResidue, position, x, y){
+    let conservedResidueAminoacid = conservedResidue;
+    let offset = 0;
     if(!conservedResidue){
         return;
     }
-    const size_residue_text = 150;
-    const color_residue_text = getColor(conservedResidue);
+    if (typeof conservedResidue == 'object'){
+        conservedResidueAminoacid = conservedResidue.aminoacid;
+        offset = conservedResidue.offset;
+    }
+    const size_residue_text = 180;
+    const color_residue_text = getColor(conservedResidueAminoacid);
     textSize(size_residue_text);
     fill(...color_residue_text);
-    text(conservedResidue, x-size_residue_text/4, y-20);
+    text(conservedResidueAminoacid, x-size_residue_text/4+offset, y-20);
 
     const color_position_text = [0, 0, 0];
     // const size_position_text = 50;
-    const size_position_text = 75;
+    const size_position_text = 100;
     textSize(size_position_text);
     fill(...color_position_text);
-    text(position, x-size_residue_text/4+5, y-140);
+    text(position, x-size_residue_text/4-10+offset, y-170);
 }
 
 function drawInside(x, y){
@@ -129,51 +138,50 @@ function drawLoop(x,y){
 
 function drawHelix(x, y, hasConservedResidue){
     if(hasConservedResidue){
-        rect(x, y, unitSize, unitSize*2);
+        rect(x, y, unitSize, unitSize*3);
         return;
     }
     let i;
     for(i = 0; i<unitSize/2; i++){
         stroke(map(i, 0, unitSize/2, 0, 255));
-        line(x+i, y, x+i, y+unitSize*2);
+        line(x+i, y, x+i, y+unitSize*3);
     }
     for(; i< unitSize; i++){
         stroke(map(i, unitSize/2, unitSize, 255, 0));
-        line(x+i, y, x+i, y+unitSize*2);
+        line(x+i, y, x+i, y+unitSize*3);
     }
 }
 
 function drawECHelix(x, y, hasConservedResidue){
     if(hasConservedResidue){
-        rect(x, y, unitSize, unitSize*2);
+        rect(x, y, unitSize, unitSize*3);
         return;
     }
     let i;
     for(i = 0; i<unitSize/2; i++){
         stroke(map(i, 0, unitSize/2, 200, 255));
-        line(x+i, y, x+i, y+unitSize*2);
+        line(x+i, y, x+i, y+unitSize*3);
     }
     for(; i< unitSize; i++){
         stroke(map(i, unitSize/2, unitSize, 255, 200));
-        line(x+i, y, x+i, y+unitSize*2);
+        line(x+i, y, x+i, y+unitSize*3);
     }
 }
 
 function drawSheet(x, y){
     const color = [150, 0, 0];
-    // fill(...color);
     stroke(color)
     rect(x, y, unitSize, unitSize*2)
 }
 
 function drawArchitectureName(architectureName, y){
-    const size = 130;
+    const size = 160;
     const color = [0, 0, 0];
     textSize(size);
     fill(...color);
     // text(architectureName.substring(0,4), leftMargin+max_length*unitSize+spaceBeforeArchitectureName, y+40);
     // text(architectureName, leftMargin+max_length*unitSize+spaceBeforeArchitectureName, y+40);
-    text(architectureName, leftMargin, y-40);
+    text(architectureName+':', leftMargin, y-40);
 }
 
 function drawBlackLine(y){
