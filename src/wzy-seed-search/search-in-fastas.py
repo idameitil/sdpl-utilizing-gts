@@ -1,6 +1,7 @@
 from Bio import SeqIO
 import os 
 import pandas as pd
+import numpy as np
 
 # Read all fastas
 fasta_dir = "data/wzy/all-familiy-fastas"
@@ -19,9 +20,9 @@ for filename in fastas:
 
 # Read seeds file
 count = 0
-with open("data/wzy/seed-family-membership-final.tsv", 'w') as outfile:
-    outfile.write(f"protein_accession\tCAZy_ID\tCAZy_family\n")
-    df = pd.read_excel("data/wzy/wzy_with_cazy_family_accessions.xls")
+with open("manuscript/supplementary/supplementary-tables/bp-pol-seeds.txt", 'w') as outfile:
+    outfile.write(f"protein_accession\tCAZy_family\tCSDB_Linear_corrected\n")
+    df = pd.read_csv("data/wzy/wzy.tsv", sep='\t')
     for index, row in df.iterrows():
         acc = row.protein_accession
         family_membership = ''
@@ -29,6 +30,11 @@ with open("data/wzy/seed-family-membership-final.tsv", 'w') as outfile:
             if acc in family2accs[family]:
                 family_membership = family
                 count += 1
-        outfile.write(f"{acc}\t{row.CAZy_ID}\t{family_membership}\n")
+        if pd.isnull(row.CSDB_Linear_corrected):
+            csdb = ''
+        else:
+            csdb = row.CSDB_Linear_corrected
+        
+        outfile.write(f"{acc}\t{family_membership}\t{csdb}\n")
 
 print(count)
