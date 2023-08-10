@@ -188,11 +188,6 @@ def get_name(entry):
 # Selected with family conservation
 entries = [
     [
-    {'acc': 'AHB32861.1', 'family': 'GTxx4'},
-    {'acc': 'BAQ01641.1', 'family': 'GTxx5'},
-    {'acc': 'ADI43271.1', 'family': 'GTxx6'}
-    ],
-    [
     {'acc': '6BAR', 'family': 'GTxx1'}
     ],
     [
@@ -211,6 +206,11 @@ entries = [
     {'acc': 'AAA97573.1', 'family': 'GTx15'},
     {'acc': 'CAI32772.1', 'family': 'GTx16'},
     {'acc': 'ACH50550.1', 'family': 'GTxx2'}
+    ],
+    [
+    {'acc': 'AHB32861.1', 'family': 'GTxx4'},
+    {'acc': 'BAQ01641.1', 'family': 'GTxx5'},
+    {'acc': 'ADI43271.1', 'family': 'GTxx6'}
     ]
 ]
 
