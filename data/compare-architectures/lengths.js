@@ -8,13 +8,13 @@ const lengths = {
 	'GTx11, BP-Pol, BAQ02088.1': 425,
 	'GTx17, BP-Pol, ABG81806.1': 416,
 	'GTx12, BP-Pol, AHB32411.1': 385,
-	'GTx13, BP-Pol, ADC54950.1': 394,
-	'GTx14, BP-Pol, AAT77177.1': 441,
-	'GTx15, BP-Pol, AAA97573.1': 427,
-	'GTx16, BP-Pol, CAI32772.1': 463,
-	'GTxx2, ECA-Pol, ACH50550.1': 432,
-	'GTxx4, BP-Pol, AHB32861.1': 353,
-	'GTxx5, BP-Pol, BAQ01641.1': 425,
-	'GTxx6, BP-Pol, ADI43271.1': 396,
+	'GTx13, BP-Pol, ADC54950.1': 396,
+	'GTx14, BP-Pol, AAT77177.1': 443,
+	'GTx15, BP-Pol, AAA97573.1': 438,
+	'GTx16, BP-Pol, CAI32772.1': 466,
+	'GTxx2, ECA-Pol, ACH50550.1': 452,
+	'GTxx4, BP-Pol, AHB32861.1': 355,
+	'GTxx5, BP-Pol, BAQ01641.1': 434,
+	'GTxx6, BP-Pol, ADI43271.1': 410,
 };
-const max_length = 463;
+const max_length = 466;

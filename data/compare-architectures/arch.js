@@ -85,7 +85,7 @@ function drawArchitecture(architectureString, conservedResidues, sequencelength,
                 drawLoop(i*unitSize+leftMargin+indent*unitSize, y);
                 break;
         }
-        drawConservedResidue(conservedResidues[i], i, i*unitSize+leftMargin+indent*unitSize, y);
+        drawConservedResidue(conservedResidues[i], i, (i)*unitSize+leftMargin+indent*unitSize, y);
     }
 }
 
@@ -159,11 +159,11 @@ function drawECHelix(x, y, hasConservedResidue){
     }
     let i;
     for(i = 0; i<unitSize/2; i++){
-        stroke(map(i, 0, unitSize/2, 200, 255));
+        stroke(map(i, 0, unitSize/2, 175, 255));
         line(x+i, y, x+i, y+unitSize*3);
     }
     for(; i< unitSize; i++){
-        stroke(map(i, unitSize/2, unitSize, 255, 200));
+        stroke(map(i, unitSize/2, unitSize, 255, 175));
         line(x+i, y, x+i, y+unitSize*3);
     }
 }
