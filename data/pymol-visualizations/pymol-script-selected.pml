@@ -109,16 +109,16 @@ label n. CA and resi 348 and 606_r_AAT77177.1, "%s" % (resn)
 select cons_606_r_AAT77177.1, resi 165 and 606_r_AAT77177.1 or resi 226 and 606_r_AAT77177.1 or resi 266 and 606_r_AAT77177.1 or resi 284 and 606_r_AAT77177.1 or resi 348 and 606_r_AAT77177.1
 show licorice, cons_606_r_AAT77177.1
     color atomic, (cons_606_r_AAT77177.1 and not elem C)
-    load data/wzy/alphafold/AAA97573.1/ranked_0.pdb, 611_r_AAA97573.1
-    color teal, 611_r_AAA97573.1
-    label n. CA and resi 173 and 611_r_AAA97573.1, "%s" % (resn)
-label n. CA and resi 176 and 611_r_AAA97573.1, "%s" % (resn)
-label n. CA and resi 234 and 611_r_AAA97573.1, "%s" % (resn)
-label n. CA and resi 291 and 611_r_AAA97573.1, "%s" % (resn)
-label n. CA and resi 349 and 611_r_AAA97573.1, "%s" % (resn)
-select cons_611_r_AAA97573.1, resi 173 and 611_r_AAA97573.1 or resi 176 and 611_r_AAA97573.1 or resi 234 and 611_r_AAA97573.1 or resi 291 and 611_r_AAA97573.1 or resi 349 and 611_r_AAA97573.1
-show licorice, cons_611_r_AAA97573.1
-    color atomic, (cons_611_r_AAA97573.1 and not elem C)
+    load data/wzy/alphafold/AAM27801.1/ranked_0.pdb, 611_r_AAM27801.1
+    color teal, 611_r_AAM27801.1
+    label n. CA and resi 173 and 611_r_AAM27801.1, "%s" % (resn)
+label n. CA and resi 176 and 611_r_AAM27801.1, "%s" % (resn)
+label n. CA and resi 234 and 611_r_AAM27801.1, "%s" % (resn)
+label n. CA and resi 291 and 611_r_AAM27801.1, "%s" % (resn)
+label n. CA and resi 349 and 611_r_AAM27801.1, "%s" % (resn)
+select cons_611_r_AAM27801.1, resi 173 and 611_r_AAM27801.1 or resi 176 and 611_r_AAM27801.1 or resi 234 and 611_r_AAM27801.1 or resi 291 and 611_r_AAM27801.1 or resi 349 and 611_r_AAM27801.1
+show licorice, cons_611_r_AAM27801.1
+    color atomic, (cons_611_r_AAM27801.1 and not elem C)
     load data/wzy/alphafold/CAI32772.1/ranked_0.pdb, 608_r_CAI32772.1
     color teal, 608_r_CAI32772.1
     label n. CA and resi 184 and 608_r_CAI32772.1, "%s" % (resn)
@@ -168,7 +168,7 @@ cealign 617_i_AHB32861.1, 617_i_AHB32861.1
 cealign 606_r_AAT77177.1, 610_r_AHB32411.1
 cealign 606_r_AAT77177.1, 612_r_ADC54950.1
 cealign 606_r_AAT77177.1, 606_r_AAT77177.1
-cealign 606_r_AAT77177.1, 611_r_AAA97573.1
+cealign 606_r_AAT77177.1, 611_r_AAM27801.1
 cealign 608_r_CAI32772.1, 608_r_CAI32772.1
 cealign 617_i_AHB32861.1, 631_i_BAQ01641.1
 cealign 607_i_CAI34124.1, 632_i_CAI33412.1

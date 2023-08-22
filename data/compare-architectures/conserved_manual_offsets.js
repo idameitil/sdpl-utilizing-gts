@@ -13,7 +13,7 @@ const conservedResidues = {
 	'GTx12, BP-Pol, AHB32411.1': {162: 'R', 207: 'R', 244: {aminoacid: 'Y', offset: -20}, 251: {aminoacid: 'N', offset: 20}},
 	'GTx13, BP-Pol, ADC54950.1': {133: 'R', 190: 'K', 233: 'R', 249: 'Y', 305: 'N'},
 	'GTx14, BP-Pol, AAT77177.1': {165: 'R', 226: 'K', 266: 'Y', 284: 'R', 348: 'N'},
-	'GTx15, BP-Pol, AAA97573.1': {173: {aminoacid: 'Y', offset: -60}, 176: {aminoacid: 'R', offset: 60}, 234: 'K', 291: 'R', 349: 'N'},
+	'GTx15, BP-Pol, AAM27801.1': {173: {aminoacid: 'Y', offset: -60}, 176: {aminoacid: 'R', offset: 60}, 234: 'K', 291: 'R', 349: 'N'},
 	'GTx16, BP-Pol, CAI32772.1': {184: 'Y', 242: 'R', 290: 'R', 441: 'R'},
 	'GTxx2, ECA-Pol, ACH50550.1': {145: 'Y', 204: 'R', 247: 'R', 399: 'R'},
 };

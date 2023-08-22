@@ -10,7 +10,7 @@ const lengths = {
 	'GTx12, BP-Pol, AHB32411.1': 385,
 	'GTx13, BP-Pol, ADC54950.1': 396,
 	'GTx14, BP-Pol, AAT77177.1': 443,
-	'GTx15, BP-Pol, AAA97573.1': 438,
+	'GTx15, BP-Pol, AAM27801.1': 438,
 	'GTx16, BP-Pol, CAI32772.1': 466,
 	'GTxx2, ECA-Pol, ACH50550.1': 452,
 	'GTxx4, BP-Pol, AHB32861.1': 355,

@@ -259,18 +259,18 @@ show licorice, cons_9_ret_CDF66396.1
 146.723709106,  242.032669067,  -20.000000000 )
     ray
     png /Users/idamei/phd/data/pymol-visualizations/figures/zoom_out/9_ret_CDF66396.1_zoom_out.png
-    load data/wzy/alphafold/AAA97573.1/ranked_0.pdb, 9_ret_AAA97573.1
-    color 0xeeeeee, 9_ret_AAA97573.1
-    cealign 9_ret_CDF66396.1, 9_ret_AAA97573.1
-    label n. CA and resi 173 and 9_ret_AAA97573.1, "%s-%s" % (resn, resi)
-label n. CA and resi 176 and 9_ret_AAA97573.1, "%s-%s" % (resn, resi)
-label n. CA and resi 191 and 9_ret_AAA97573.1, "%s-%s" % (resn, resi)
-label n. CA and resi 234 and 9_ret_AAA97573.1, "%s-%s" % (resn, resi)
-label n. CA and resi 291 and 9_ret_AAA97573.1, "%s-%s" % (resn, resi)
-label n. CA and resi 349 and 9_ret_AAA97573.1, "%s-%s" % (resn, resi)
-select cons_9_ret_AAA97573.1, resi 173 and 9_ret_AAA97573.1 or resi 176 and 9_ret_AAA97573.1 or resi 191 and 9_ret_AAA97573.1 or resi 234 and 9_ret_AAA97573.1 or resi 291 and 9_ret_AAA97573.1 or resi 349 and 9_ret_AAA97573.1
-show licorice, cons_9_ret_AAA97573.1
-    color atomic, (cons_9_ret_AAA97573.1 and not elem C)
+    load data/wzy/alphafold/AAM27801.1/ranked_0.pdb, 9_ret_AAM27801.1
+    color 0xeeeeee, 9_ret_AAM27801.1
+    cealign 9_ret_CDF66396.1, 9_ret_AAM27801.1
+    label n. CA and resi 173 and 9_ret_AAM27801.1, "%s-%s" % (resn, resi)
+label n. CA and resi 176 and 9_ret_AAM27801.1, "%s-%s" % (resn, resi)
+label n. CA and resi 191 and 9_ret_AAM27801.1, "%s-%s" % (resn, resi)
+label n. CA and resi 234 and 9_ret_AAM27801.1, "%s-%s" % (resn, resi)
+label n. CA and resi 291 and 9_ret_AAM27801.1, "%s-%s" % (resn, resi)
+label n. CA and resi 349 and 9_ret_AAM27801.1, "%s-%s" % (resn, resi)
+select cons_9_ret_AAM27801.1, resi 173 and 9_ret_AAM27801.1 or resi 176 and 9_ret_AAM27801.1 or resi 191 and 9_ret_AAM27801.1 or resi 234 and 9_ret_AAM27801.1 or resi 291 and 9_ret_AAM27801.1 or resi 349 and 9_ret_AAM27801.1
+show licorice, cons_9_ret_AAM27801.1
+    color atomic, (cons_9_ret_AAM27801.1 and not elem C)
     load data/wzy/alphafold/AAC45857.1/ranked_0.pdb, 9_ret_AAC45857.1
     color 0xeeeeee, 9_ret_AAC45857.1
     cealign 9_ret_CDF66396.1, 9_ret_AAC45857.1

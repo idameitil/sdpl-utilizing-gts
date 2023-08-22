@@ -153,18 +153,18 @@ label n. CA and resi 345 and 611_r_CDF66396.1, "%s-%s" % (resn, resi)
 select cons_611_r_CDF66396.1, resi 168 and 611_r_CDF66396.1 or resi 171 and 611_r_CDF66396.1 or resi 185 and 611_r_CDF66396.1 or resi 228 and 611_r_CDF66396.1 or resi 284 and 611_r_CDF66396.1 or resi 345 and 611_r_CDF66396.1
 show licorice, cons_611_r_CDF66396.1
     color atomic, (cons_611_r_CDF66396.1 and not elem C)
-    load data/wzy/alphafold/AAA97573.1/ranked_0.pdb, 611_r_AAA97573.1
-    color 0xeeeeee, 611_r_AAA97573.1
-    super 611_r_CDF66396.1, 611_r_AAA97573.1
-    label n. CA and resi 173 and 611_r_AAA97573.1, "%s-%s" % (resn, resi)
-label n. CA and resi 176 and 611_r_AAA97573.1, "%s-%s" % (resn, resi)
-label n. CA and resi 191 and 611_r_AAA97573.1, "%s-%s" % (resn, resi)
-label n. CA and resi 234 and 611_r_AAA97573.1, "%s-%s" % (resn, resi)
-label n. CA and resi 291 and 611_r_AAA97573.1, "%s-%s" % (resn, resi)
-label n. CA and resi 349 and 611_r_AAA97573.1, "%s-%s" % (resn, resi)
-select cons_611_r_AAA97573.1, resi 173 and 611_r_AAA97573.1 or resi 176 and 611_r_AAA97573.1 or resi 191 and 611_r_AAA97573.1 or resi 234 and 611_r_AAA97573.1 or resi 291 and 611_r_AAA97573.1 or resi 349 and 611_r_AAA97573.1
-show licorice, cons_611_r_AAA97573.1
-    color atomic, (cons_611_r_AAA97573.1 and not elem C)
+    load data/wzy/alphafold/AAM27801.1/ranked_0.pdb, 611_r_AAM27801.1
+    color 0xeeeeee, 611_r_AAM27801.1
+    super 611_r_CDF66396.1, 611_r_AAM27801.1
+    label n. CA and resi 173 and 611_r_AAM27801.1, "%s-%s" % (resn, resi)
+label n. CA and resi 176 and 611_r_AAM27801.1, "%s-%s" % (resn, resi)
+label n. CA and resi 191 and 611_r_AAM27801.1, "%s-%s" % (resn, resi)
+label n. CA and resi 234 and 611_r_AAM27801.1, "%s-%s" % (resn, resi)
+label n. CA and resi 291 and 611_r_AAM27801.1, "%s-%s" % (resn, resi)
+label n. CA and resi 349 and 611_r_AAM27801.1, "%s-%s" % (resn, resi)
+select cons_611_r_AAM27801.1, resi 173 and 611_r_AAM27801.1 or resi 176 and 611_r_AAM27801.1 or resi 191 and 611_r_AAM27801.1 or resi 234 and 611_r_AAM27801.1 or resi 291 and 611_r_AAM27801.1 or resi 349 and 611_r_AAM27801.1
+show licorice, cons_611_r_AAM27801.1
+    color atomic, (cons_611_r_AAM27801.1 and not elem C)
     load data/wzy/alphafold/AAC45857.1/ranked_0.pdb, 611_r_AAC45857.1
     color 0xeeeeee, 611_r_AAC45857.1
     super 611_r_CDF66396.1, 611_r_AAC45857.1

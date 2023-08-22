@@ -75,7 +75,7 @@ def get_name(entry):
 #            {'acc': 'AAT77177.1', 'family': 'X606_B'}
 #            ],
 #            [
-#            {'acc': 'AAA97573.1', 'family': 'X611_A'},
+#            {'acc': 'AAM27801.1', 'family': 'X611_A'},
 #            {'acc': 'AAC45857.1', 'family': 'X611_A'},
 #            {'acc': 'CDF66396.1', 'family': 'X611_B'}
 #            ],
@@ -148,7 +148,7 @@ def get_name(entry):
 #            {'acc': 'AAT77177.1', 'family': 'X606'}
 #            ],
 #            [
-#            {'acc': 'AAA97573.1', 'family': 'X611'},
+#            {'acc': 'AAM27801.1', 'family': 'X611'},
 #            {'acc': 'AAC45857.1', 'family': 'X611'},
 #            {'acc': 'CDF66396.1', 'family': 'X611'}
 #            ],
@@ -179,7 +179,7 @@ def get_name(entry):
 #     {'acc': 'AHB32411.1', 'family': 'X610'},
 #     {'acc': 'ADC54950.1', 'family': 'X612_B'},
 #     {'acc': 'AAT77177.1', 'family': 'X606_A'},
-#     {'acc': 'AAA97573.1', 'family': 'X611_A'},
+#     {'acc': 'AAM27801.1', 'family': 'X611_A'},
 #     {'acc': 'CAI32772.1', 'family': 'X608'},
 #     {'acc': 'ACH50550.1', 'family': 'X586'}
 #     ]
@@ -203,7 +203,7 @@ entries = [
     {'acc': 'AHB32411.1', 'family': 'GTx12'},
     {'acc': 'ADC54950.1', 'family': 'GTx13'},
     {'acc': 'AAT77177.1', 'family': 'GTx14'},
-    {'acc': 'AAA97573.1', 'family': 'GTx15'},
+    {'acc': 'AAM27801.1', 'family': 'GTx15'},
     {'acc': 'CAI32772.1', 'family': 'GTx16'},
     {'acc': 'ACH50550.1', 'family': 'GTxx2'}
     ],
