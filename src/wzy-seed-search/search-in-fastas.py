@@ -21,7 +21,7 @@ for filename in fastas:
 # Read seeds file
 count = 0
 with open("manuscript/supplementary/supplementary-tables/bp-pol-seeds.txt", 'w') as outfile:
-    outfile.write(f"protein_accession\tCAZy_family\tCSDB_Linear_corrected\n")
+    outfile.write(f"protein_accession\tspecies\tserotype\tCAZy_family\tCSDB_Linear_corrected\n")
     df = pd.read_csv("data/wzy/wzy.tsv", sep='\t')
     for index, row in df.iterrows():
         acc = row.protein_accession
@@ -35,6 +35,6 @@ with open("manuscript/supplementary/supplementary-tables/bp-pol-seeds.txt", 'w')
         else:
             csdb = row.CSDB_Linear_corrected
         
-        outfile.write(f"{acc}\t{family_membership}\t{csdb}\n")
+        outfile.write(f"{acc}\t{row.species_original}\t{row.serotype}\t{family_membership}\t{csdb}\n")
 
 print(count)

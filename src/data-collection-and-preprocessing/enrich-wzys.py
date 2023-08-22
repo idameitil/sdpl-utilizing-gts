@@ -15,7 +15,7 @@ elif enzyme_family == 'waal':
     output_filename = "data/waal/waal.tsv"
 
 ### READ SELECTED TSV ###
-original_df['id'] = original_df['species_original'].astype('str') + original_df['serotype_edited'].astype('str')
+original_df['id'] = original_df['species_original'].astype('str') + original_df['serotype'].astype('str')
 
 ### ADD TAXONOMY ###
 desired_ranks = ['phylum', 'class', 'order', 'family', 'genus', 'species']
@@ -25,7 +25,7 @@ for rank in desired_ranks:
 ### ADD CSDB ###
 desired_sugars_df = get_desired_sugars_df(
     list(original_df.species),
-    list(original_df.serotype_edited),
+    list(original_df.serotype),
     list(original_df.id),
     list(original_df.CSDB_record_ID_forced)
     )

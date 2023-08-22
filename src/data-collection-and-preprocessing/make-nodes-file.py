@@ -8,8 +8,7 @@ pd.options.mode.chained_assignment = None
 
 # Read seed csv
 seed_df = pd.read_csv("data/wzy/wzy.tsv", sep='\t', dtype=object)
-seed_df.drop('serotype', axis=1, inplace=True)
-seed_df = seed_df.rename(columns = {'genbank_taxon':'taxid', 'annotated':'seed', 'serotype_edited':'serotype'})
+seed_df = seed_df.rename(columns = {'genbank_taxon':'taxid', 'annotated':'seed'})
 
 # Take subset of columns
 columns_include = ['protein_accession', 'taxid', 'phylum', 'class', \
