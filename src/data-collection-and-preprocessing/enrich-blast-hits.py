@@ -52,4 +52,4 @@ hits_enriched['csdb_image_path'] = hits_enriched.loc[pd.notnull(hits_enriched['C
 hits_enriched.to_csv("data/wzy/blast/unique-hits-enriched.tsv", sep = '\t', index=False)
 
 if len(hits_enriched) != len(hits_with_serotype_df):
-    sys.stderr.write("WARNING: unique-hits-enriched.tsv has a different number of lines than selected-wzys.tsv.")
+    sys.stderr.write("WARNING: unique-hits-enriched.tsv has a different number of lines than selected-wzys.txt.")

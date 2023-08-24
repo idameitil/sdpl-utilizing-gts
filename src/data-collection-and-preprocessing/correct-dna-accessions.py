@@ -2,7 +2,7 @@
 
 import pandas as pd
 
-wzy_df = pd.read_csv('data/selected-wzys.tsv', sep='\t', dtype=object)
+wzy_df = pd.read_csv('data/selected-wzys.txt', sep='\t', dtype=object)
 correct_accession_file = open('dna_accession_versions')
 correct_accession_list = []
 for line in correct_accession_file:

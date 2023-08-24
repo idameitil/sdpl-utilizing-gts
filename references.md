@@ -1,3 +1,16 @@
+# Unique WaaL references
+23874940
+25972421
+35388216
+22158874
+9792656
+9535865
+15215252
+9791168
+
+# Sugar changes
+P. aeruginosa O16 was changed to 6655. This serotype has two Wzys. One that makes alpha and one that comes from a bacteriophage and makes beta. The BP-Pol in this family must be the one that makes alpha, as the rest of the BP-Pols in the family.
+
 # Similar sugars across taxonomy
 AHB32715 and ACD37138
 

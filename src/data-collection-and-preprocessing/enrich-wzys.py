@@ -8,7 +8,7 @@ def not_pd_null(value):
 
 enzyme_family = sys.argv[1]
 if enzyme_family == 'wzy':
-    original_df = pd.read_csv("data/selected-wzys.tsv", sep='\t', dtype = object)
+    original_df = pd.read_csv("data/selected-wzys.txt", sep='\t', dtype = object)
     output_filename = "data/wzy/wzy.tsv"
 elif enzyme_family == 'waal':
     original_df = pd.read_csv("data/waal/selected-waals.tsv", sep='\t', dtype = object)
