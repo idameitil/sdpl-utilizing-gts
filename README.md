@@ -2,7 +2,7 @@
 
 ## Collecting data and preprocessing
 
-Manually curated Wzys from literature are added to `data/selected-wzys.tsv`.
+Manually curated Wzys from literature are added to `data/selected-wzys.txt`.
 
 The DNA records for the Wzys were downloaded manually using NCBI batch entry (https://www.ncbi.nlm.nih.gov/sites/batchentrez) (Click “Send to:”, "Complete Record", "GenBank (full)"). They are stored in `data/selected_OAGCs.gb` (Some are O-antigen gene clusters, some are whole genome sequences). This file is too big to store in GitHub, and is just stored locally.
 
@@ -231,6 +231,7 @@ The fastas for each of the Wzy families were downloaded by Bernard with fetch fa
 To search for the seeds in the family fastas, run: `python src/wzy-seed-search/search-in-fastas.py`.
 
 This will create the file `data/wzy/seed-family-membership-final.tsv`.
+It also creates the supplementary table: `manuscript/supplementary/supplementary-tables/bp-pol-seeds.txt`.
 
 ### Make stereochemistry plot
 Run `python src/wzy-seed-search/modify.py`. This will create the file `data/wzy/final-family-membership-mod.csv`, which contains info on axial/equatorial bonds.
@@ -239,7 +240,7 @@ Then run `python src/ssn-clustering/analyse-superclustering/plot-stereochemistry
 
 A new version of this script was made: `src/ssn-clustering/analyse-superclustering/plot-stereochemistry-final-families-new.py`. It also generates a tsv file with the data (`data/wzy/stereochemistry.tsv`) from which the plot can be made in excel. However, the plot generated in this script is faulty.
 
-## WaaL
+## O-Lig (WaaL)
 
 ### Make seed MSA
 `mafft data/waal/waal.fasta > data/waal/waal_mafft.fa`
