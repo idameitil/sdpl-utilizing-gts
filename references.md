@@ -1,3 +1,110 @@
+# Editing of Wzys 24th of August
+
+## Changing E. coli accessions to Iguchi accessions
+ACD75809.1 was renamed to ADC54941.1
+
+ABF01010.1 was renamed to BAQ00768.1
+
+ACK44379.1 was renamed to BAQ00911.1
+
+ABZ79721.1 was renamed to BAQ01043
+
+WP_000482333.1 was renamed to AAL67557.1
+
+ACD75796.1 was renamed to BAQ01097.1
+
+CBN82200.1 was renamed to BAQ01187.1
+
+WP_016238111.1 was renamed to BAQ01252.1
+
+ABK27321.1 was renamed to AAS73171.1
+
+AAY23745.1 was renamed to BAQ02189.1
+
+AFE83402.1 was renamed to AAD46730.1
+
+ACD37014.1 was renamed to BAQ01545.1
+
+ADQ37335.1 was renamed to BAQ02200.1
+
+AFC91570.1 was renamed to AAO39700.1 already had family
+
+CAS09721.1 was renamed to BAQ01623.1
+
+ACD37181.1 was changed to BAQ02259.1 already had family
+
+BAQ01687.1 was renamed to BAQ01687.1
+
+ACD37173.1 was renamed to BAQ02275.1
+
+ADN43858.1 was renamed to BAQ02286.1
+
+AFD18613.1 was renamed to AAV74530.1
+
+ADQ37322.1 was renamed to BAQ02302.1
+
+O153 AJE24464.1, polymerases not that similar…
+
+ACD37146.1 was renamed to BAQ02323.1
+
+AAY28249.1 was renamed to BAQ01907.1
+
+AIG62747.1 was renamed to BAQ01948.1
+
+AFN02899.1 was changed to BAQ01982.1
+
+The O125ac protein is called O125 in Iguchi… O125 was deleted, and O125ac was renamed to O125
+
+Same case for 128. O128ac was deleted and O128ab was renamed to O128.
+
+AIG62684.1 was replaced by BAQ00719.1 (low similarity)
+
+ACD37138.1 was replaced by BAQ02241.1 (low similarity)
+
+AJE24464.1 was replaced by BAQ01759.1 (low similarity)
+
+Missing serotypes:
+8, 9, 14, 31, 47, 52, 57, 60, 62, 67, 72, 89, 92, 94, 95, 97, 99, 101, 122, 162
+
+62 is in Iguchi paper, but it's too late to add it now
+
+## Several from same serotype
+Pseudomonas aeruginosa O5, in X611.
+AAA97573.1
+AAC45857.1
+were removed.
+AAM27801.1 was kept
+The sequences are 99% identical
+Alphafold model of AAA97573.1 was renamed to AAM27801.1
+
+WP_237703389.1 - has identical one from same serotype
+AAL20257.1
+CAR59582.1
+ACF69726.1
+AAV77445.1
+AAO68867.1
+were identical. Didn’t end up in family. CAR59582.1 was kept, the rest removed
+
+All the ones from second salmonella paper were removed. The serotypes were weird and none ended up in families
+
+AHB32715.1 - removed because it had an identical one from same serotype
+
+WP_001300154.1 - had identical one from same serotype
+
+AAR90892.1 - had identical one. The one from Iguchi was kept
+
+AFC91570.1
+AAO39700.1
+AFC91514.1
+were identical, all from E. coli O21. AFC91472.1 was kept, the others removed. 
+
+## others
+WP_079758769 - from other pseudomonas paper, doesn’t look much like the pther polymerase from the same serotype and didn’t end up in CAZy family
+
+AAD45264.1 - from single paper and didn’t end up in CAZy family
+
+WP_000220864.1 - from single paper and didn’t end up in CAZy family
+
 # Unique WaaL references
 23874940
 25972421
