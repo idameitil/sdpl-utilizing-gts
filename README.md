@@ -205,12 +205,15 @@ To parse the genbank hmm search, run: `python src/genbank-search/parse-hmm-searc
 The superclustering run `data/wzy/ssn-clusterings/2210171613/superclusterings/2210191051` was used for generating the families. However, along the way of pruning the sueprclusters, we decided that 160 was a better threshold. Instead of redoing the pruning with a new superclustering, we kept going with this one and just removed SSN clusters connected only by edges <160. A list of the alignments for each family including which SSN clusters were removed, is found in `references.md` under "# CAZy families".
 
 ### Addition of seeds to CAZy families
-The list of Wzy seeds (`data/wzy/wzy.fasta`) was scanned against the CAZy families by Bernard. The output file is saved in `data/wzy/seed-cazy-search/seeds_newhmm.txt`.
+The list of Wzy seeds (`data/wzy/wzy.fasta`) was scanned against the CAZy families by Bernard. The output file is saved in `data/wzy/seed-cazy-search/seeds_newhmm.txt`. 
+(NEW: `data/wzy/seed-cazy-search/seeds_hmm_cazy_search.txt`)
 
 The html stuff was removed from the file ('top <#top>    '): `data/wzy/seed-cazy-search/seeds_newhmm-cleaned.txt`.
+(NEW: `data/wzy/seed-cazy-search/seeds_hmm_cazy_search-cleaned.txt`)
 
-The HMM file was parsed with `pyhton src/wzy-seed-search/parse-hmm.py`, which created the file `data/wzy/seed-cazy-search/best_hmm_hits.tsv`.
+The HMM file was parsed with `python src/wzy-seed-search/parse-hmm.py`, which created the file `data/wzy/seed-cazy-search/best_hmm_hits.tsv`.
 (before this the file `data/wzy/seed-cazy-search/hmm_hits.tsv` was generated).
+(NEW:`data/wzy/seed-cazy-search/best_hmm_hits-new.tsv`)
 
 The fasta files were generated with efetch: `src/wzy-seed-search/efetch.sh` and saved in `data/wzy/seed-cazy-search/seeds-in-families`.
 
@@ -228,10 +231,14 @@ Another new version was sent from Bernie: `data/wzy/wzy_with_cazy_family_accessi
 The fastas for each of the Wzy families were downloaded by Bernard with fetch fasta on the 13th of July 2023 and stored in `data/wzy/all-familiy-fastas`.
 
 ### Final seed family membership
+(OLD)
 To search for the seeds in the family fastas, run: `python src/wzy-seed-search/search-in-fastas.py`.
 
 This will create the file `data/wzy/seed-family-membership-final.tsv`.
 It also creates the supplementary table: `manuscript/supplementary/supplementary-tables/bp-pol-seeds.txt`.
+
+(FINAL!)
+The final list of seed accessions with their family membership is `data/wzy/seeds-cazyfamily.xlsx`.
 
 ### Make stereochemistry plot
 Run `python src/wzy-seed-search/modify.py`. This will create the file `data/wzy/final-family-membership-mod.csv`, which contains info on axial/equatorial bonds.
