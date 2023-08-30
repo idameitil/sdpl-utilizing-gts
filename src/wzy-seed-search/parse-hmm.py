@@ -18,7 +18,8 @@ def get_hits(hmmsearch_results_filename):
                 break   # get only best hmm match
     return pd.DataFrame(data)
 
-filename = 'data/wzy/seed-cazy-search/seeds_newhmm-cleaned.txt'
+# filename = 'data/wzy/seed-cazy-search/seeds_newhmm-cleaned.txt'
+filename = 'data/wzy/seed-cazy-search/seeds_hmm_cazy_search-cleaned.txt'
 df = get_hits(filename)
 
 df.sort_values(['hmm_name', 'evalue']).to_csv('out_best_sorted.tsv', sep='\t', index=False)
@@ -40,4 +41,4 @@ for family in families:
                     if not_pd_null(seeds_df_row.CSDB_Linear_corrected.values):
                         outfile.write(f"{row.query_id}\n")
 
-df.to_csv('data/wzy/seed-cazy-search/best_hmm_hits.tsv', sep='\t', index=False)
+df.to_csv('data/wzy/seed-cazy-search/best_hmm_hits-new.tsv', sep='\t', index=False)
