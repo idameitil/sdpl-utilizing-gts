@@ -2,6 +2,7 @@ import pandas as pd
 import random
 from colour import Color
 import math
+import numpy as np
 
 def make_taxonomy_label_file(df, enzyme_family_name, genbank_hits = False):
     wanted_ranks = ['phylum', 'class', 'order', 'family', 'genus', 'species']
@@ -115,8 +116,8 @@ waal_df = pd.read_csv("data/waal/seeds-and-hits.tsv", sep='\t', dtype='object')
 eca_pol_df = pd.read_csv("data/eca-pol/seeds-and-hits.tsv", sep='\t', dtype='object')
 
 print('wzy')
-# make_taxonomy_label_file(wzy_df, 'wzy')
-# make_image_label_file(wzy_df, 'wzy')
+make_taxonomy_label_file(wzy_df, 'wzy')
+make_image_label_file(wzy_df, 'wzy')
 # make_seeds_label_file(wzy_df, 'wzy')
 make_pubmed_color_file(wzy_df, 'wzy')
 
@@ -165,16 +166,18 @@ family2color = {'X608': '#FF0000', 'X611': '#00FF00', 'X606': '#0000FF', 'X605':
                 'X607': '#800000', 'X613': '#000000', 'X610': '#008000', 'X631': '#800080', \
                 'X634': '#008080', 'X633': '#000080'}
 
-input_filename = f"seeds-in-families.xlsx"
-df = pd.read_excel(input_filename)
-acc2family = {}
-family2firstacc = {}
-families_done = []
-for index, row in df.iterrows():
-    acc2family[row.protein_accession] = row.CAZy_family
-    family = row.CAZy_family
-    if family not in families_done:
-        family2firstacc[family] = row.protein_accession
-make_family_membership_color_file(acc2family, family2color)
-make_family_membership_arrow_file(acc2family, family2color, family2firstacc)
+# input_filename = f"data/wzy/seeds-cazyfamily.xlsx"
+# df = pd.read_excel(input_filename)
+# acc2family = {}
+# family2firstacc = {}
+# families_done = []
+# for index, row in df.iterrows():
+#     acc2family[row.protein_accession] = row.CAZy_family
+#     family = row.CAZy_family
+#     if row.CAZy_family.isnull():
+#         continue
+#     if family not in families_done:
+#         family2firstacc[family] = row.protein_accession
+# make_family_membership_color_file(acc2family, family2color)
+# make_family_membership_arrow_file(acc2family, family2color, family2firstacc)
 
