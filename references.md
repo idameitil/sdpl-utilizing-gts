@@ -8,6 +8,8 @@ AlQuraishi blog
 # Editing of Wzys 24th of August
 
 ## Changing E. coli accessions to Iguchi accessions
+ABG81806 was renamed to BAQ02224.1 including alphafold structure and files in compare-architectures folder
+
 ACD75809.1 was renamed to ADC54941.1
 
 ABF01010.1 was renamed to BAQ00768.1

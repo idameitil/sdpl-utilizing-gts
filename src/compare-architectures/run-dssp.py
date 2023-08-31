@@ -23,14 +23,15 @@ def get_SS_string(dssp_object):
     return SS_string
 
 # Wzy
-accessions = ['AHB32215.1', 'AHB32334.1', 'AHB32861.1', 'CAI34008.1', 'ACH97162.1', 'CAI33309.1', 
-              'CAI34369.1', 'AIG62747.1', 'BAQ00653.1', 'ADC54950.1', 'AAZ85718.1', 'CDF66396.1', 
-              'AAM27801.1', 'AAC45857.1', 'BAQ00795.1', 'BAQ01659.1', 'BAQ02088.1', 'ACA24754.1', 
-              'ACD37165.1', 'AAM27615.1', 'CBN82200.1', 'AAT77177.1', 'CAI34124.1', 'AHB32490.1', 
-              'CAI32772.1', 'AHB32411.1', 'CAI34254.1', 'CAI34198.1', 'CAI34217.1', 'ACA24821.1', 
-              'ADC54967.1', 'AAY28257.1', 'ACD37046.1', 'ACU06810.1', 'CAI32823.1', 'CAD19991.1', 
-              'CAI33983.1', 'BAQ01641.1', 'WP_016238111.1', 'CAI33412.1', 'CAB63298.1', 'BAQ01843.1',
-              'ABG81806.1', 'ADI43271.1']
+# accessions = ['AHB32215.1', 'AHB32334.1', 'AHB32861.1', 'CAI34008.1', 'ACH97162.1', 'CAI33309.1', 
+#               'CAI34369.1', 'AIG62747.1', 'BAQ00653.1', 'ADC54950.1', 'AAZ85718.1', 'CDF66396.1', 
+#               'AAM27801.1', 'AAC45857.1', 'BAQ00795.1', 'BAQ01659.1', 'BAQ02088.1', 'ACA24754.1', 
+#               'ACD37165.1', 'AAM27615.1', 'CBN82200.1', 'AAT77177.1', 'CAI34124.1', 'AHB32490.1', 
+#               'CAI32772.1', 'AHB32411.1', 'CAI34254.1', 'CAI34198.1', 'CAI34217.1', 'ACA24821.1', 
+#               'ADC54967.1', 'AAY28257.1', 'ACD37046.1', 'ACU06810.1', 'CAI32823.1', 'CAD19991.1', 
+#               'CAI33983.1', 'BAQ01641.1', 'WP_016238111.1', 'CAI33412.1', 'CAB63298.1', 'BAQ01843.1',
+#               'ABG81806.1', 'ADI43271.1']
+accessions = ['CAI32823.1']
 def write_ss_string(id, model_filename, outfilename):
     structure = p.get_structure(id, model_filename)
     model = structure[0]
