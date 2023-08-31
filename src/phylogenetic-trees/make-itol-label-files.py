@@ -116,10 +116,10 @@ waal_df = pd.read_csv("data/waal/seeds-and-hits.tsv", sep='\t', dtype='object')
 eca_pol_df = pd.read_csv("data/eca-pol/seeds-and-hits.tsv", sep='\t', dtype='object')
 
 print('wzy')
-make_taxonomy_label_file(wzy_df, 'wzy')
+# make_taxonomy_label_file(wzy_df, 'wzy')
 make_image_label_file(wzy_df, 'wzy')
 # make_seeds_label_file(wzy_df, 'wzy')
-make_pubmed_color_file(wzy_df, 'wzy')
+# make_pubmed_color_file(wzy_df, 'wzy')
 
 # print('waal')
 # make_taxonomy_label_file(waal_df, 'waal')
