@@ -240,6 +240,8 @@ It also creates the supplementary table: `manuscript/supplementary/supplementary
 (FINAL!)
 The final list of seed accessions with their family membership is `data/wzy/seeds-cazyfamily.xlsx`.
 
+A merge of `data/wzy/wzy.tsv` and `data/wzy/seeds-cazyfamily.xlsx` is made by running `python src/wzy-seed-search/make-wzy-tsv-with-family.py`. This creates the file `data/wzy/wzy-with-CAZy-family.tsv`
+
 ### Make stereochemistry plot
 Run `python src/wzy-seed-search/modify.py`. This will create the file `data/wzy/final-family-membership-mod.csv`, which contains info on axial/equatorial bonds.
 
