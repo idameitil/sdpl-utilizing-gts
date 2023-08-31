@@ -1,3 +1,10 @@
+# Thomas Hamelryck talk
+
+Pyro
+Bertrand Russell
+correlated mutations -> contact map
+AlQuraishi blog
+
 # Editing of Wzys 24th of August
 
 ## Changing E. coli accessions to Iguchi accessions
