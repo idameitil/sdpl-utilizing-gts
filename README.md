@@ -45,7 +45,7 @@ This will create the files `data/eca-pol/blast/run/*/blast.js`.
 ### Make unique-hits file
 To create `unique-hits.tsv`, run `python src/data-collection-and-preprocessing/make-unique-hits-file.py [enzyme-family]`.
 
-### Retrieving Blast hit data
+### Retrieving sequences, taxid for Blast hits
 To retrieve the sequence and taxid for the blast hits, run:
 `scp data/[enzyme_family]/blast/unique-hits.tsv idamei@transfer.gbar.dtu.dk:/work3/idamei/[enzyme_family]/blast/`
 
@@ -66,6 +66,8 @@ Then locally run:
 To generate fasta with short headers, run: `sed 's/ >.*$//' data/[enzyme_family]/blast/unique-hits.fasta > data/[enzyme_family]/blast/unique-hits-short-headers.fasta`
 
 ### Retrieve blast hit serotypes for wzys
+(This is only necessary, if one wants to retrieve sugars for the blast hits. We didn't use this in the paper.)
+
 The list of accessions for 1e-15 is split into files of 1000 lines each by running `split data/wzy/ssn-clusterings/2206101141/included_accessions.txt data/wzy/blast-full-genbank/1e-15/hits`
 
 Each file is uploaded to NCBI batch entry and the gp files are downloaded and saved in `data/wzy/blast-full-genbank/1e-15`. 
@@ -73,7 +75,7 @@ Each file is uploaded to NCBI batch entry and the gp files are downloaded and sa
 To retrieve serotypes for the blast hits (the ones where available), run `python src/data-collection-and-preprocessing/get-serotypes.py`. This will create the file `data/wzy/blast-full-genbank/1e-15/hits-serotypes.tsv`.
 
 ### Enriching blast hit data
-Then, to enrich with sugar data and taxonomy, run `python src/data-collection-and-preprocessing/enrich-blast-hits.py`. This will create the file `data/wzy/blast/hits-enriched.tsv`.
+Then, to enrich with sugar data and taxonomy, run `python src/data-collection-and-preprocessing/enrich-blast-hits.py`. This will create the file `data/wzy/blast/unique-hits-enriched.tsv`.
 
 FOR WAAL: `python src/data-collection-and-preprocessing/enrich-blast-hits-waal-eca-pol.py waal`
 
@@ -149,6 +151,9 @@ Then gzip the network file: `gzip /work3/idamei/wzy/all-vs-all-blast/network`
 Download the network file: `scp idamei@transfer.gbar.dtu.dk:/work3/idamei/wzy/all-vs-all-blast/network.gz data/wzy/all-vs-all-blast/`.
 
 And unzip it: `gzip -d data/wzy/all-vs-all-blast/network.gz`
+
+(NEW)
+After seeds were removed from wzy.tsv, a new network file was created with only the current seeds and blast hits with the script `src/all-vs-all-blast/remove-deleted-ones-from-network-file.py`. This creates the file `data/wzy/all-vs-all-blast/network-new`.
 
 ## SSN clustering
 
