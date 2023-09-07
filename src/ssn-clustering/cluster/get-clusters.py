@@ -18,13 +18,13 @@ if enzyme_family == 'wzy':
     unique_hits_tsv = "data/wzy/blast/unique-hits.tsv"
     banned_file = f"data/{enzyme_family}/banned"
     seed_fasta = f"data/{enzyme_family}/{enzyme_family}.fasta"
-    unique_hits_df = pd.read_csv(unique_hits_tsv, sep = '\t', names=['protein_accession', 'evalue'])
+    unique_hits_df = pd.read_csv(unique_hits_tsv, sep = '\t', names=['protein_accession', 'score', 'evalue'])
 else:
     reduced_fasta = f"data/{enzyme_family}/genbank-search/hits-cdhit99.fasta"
     evalue_tsv = f"data/{enzyme_family}/genbank-search/hits-evalue.tsv"
     evalue_df = pd.read_csv(evalue_tsv, sep='\t')
 
-network_filename = f"data/{enzyme_family}/all-vs-all-blast/network"
+network_filename = f"data/{enzyme_family}/all-vs-all-blast/network-new"
 
 def write_metadata():
     with open(f"{outdir}/metadata.txt", "w") as outfile:
@@ -51,14 +51,15 @@ def find_accessions_to_include():
     if enzyme_family == 'wzy':
         banned_accessions = get_accessions_from_list_file(banned_file)
         filtered_reduced_accessions = get_accessions_from_fasta(filtered_reduced_fasta)
-        seed_accessions = get_accessions_from_fasta(seed_fasta)
+        # seed_accessions = get_accessions_from_fasta(seed_fasta)
         # Filter hits by expansion threshold
         below_threshold_all = set(unique_hits_df.loc[unique_hits_df.evalue < expansion_threshold, 'protein_accession'])
         filtered_reduced_below_threshold = filtered_reduced_accessions.intersection(below_threshold_all)
         # Add seeds
-        union = filtered_reduced_below_threshold.union(seed_accessions)
+        # union = filtered_reduced_below_threshold.union(seed_accessions)
         # Remove banned
-        accessions_include = union - banned_accessions
+        # accessions_include = union - banned_accessions
+        accessions_include = filtered_reduced_below_threshold - banned_accessions
         return accessions_include
     elif enzyme_family == 'eca-pol':
         reduced = get_accessions_from_fasta(reduced_fasta)
@@ -79,7 +80,7 @@ def write_included_accession_file():
 
 def write_edge_file():
     accessions_include = find_accessions_to_include()
-    df = pd.read_csv(network_filename, sep='\t')
+    df = pd.read_csv(network_filename, sep='\t', names=['source', 'target', 'score'])
     df_filtered = df[(df.score > ssn_threshold) & (df.source.isin(accessions_include)) & (df.target.isin(accessions_include))]
     df_filtered.to_csv(f"{outdir}/network", sep = '\t', columns=['source', 'target', 'score'], header=False, index=False)
 

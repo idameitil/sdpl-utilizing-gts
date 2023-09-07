@@ -10,7 +10,7 @@ unique_hits_df = pd.read_csv("data/wzy/blast/unique-hits.csv", sep=' ,', dtype=o
     engine='python', names = ['protein_accession', 'org', 'taxid', 'name', 'seq'])
 
 # Take only the ones from unique-hits.tsv (as unique-hits.csv contains identical sequences)
-non_identical_df = pd.read_csv("data/wzy/blast/unique-hits.tsv", sep='\t', dtype=object, names=['acc', 'evalue'])
+non_identical_df = pd.read_csv("data/wzy/blast/unique-hits.tsv", sep='\t', dtype=object, names=['acc', 'evalue', 'score'])
 unique_hits_df = unique_hits_df[unique_hits_df.protein_accession.isin(non_identical_df.acc)]
 
 # Merge with serotype

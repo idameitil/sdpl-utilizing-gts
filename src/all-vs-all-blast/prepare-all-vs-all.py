@@ -1,7 +1,7 @@
 # To be run on the HPC
 import os
 import sys
-sys.path.append("/work3/idamei")
+sys.path.append("/work3/idamei/src")
 from modules.write_jobscript import write_jobscript
 
 input_fasta = sys.argv[1]

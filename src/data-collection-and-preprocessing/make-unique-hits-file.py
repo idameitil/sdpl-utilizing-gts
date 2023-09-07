@@ -3,12 +3,16 @@ import pandas as pd
 
 enzyme_family = sys.argv[1]
 
+df = pd.read_csv(f"data/{enzyme_family}/{enzyme_family}.tsv", sep='\t')
+
 blast_path = f"data/{enzyme_family}/blast/run"
 
 accessions = [folder for folder in os.listdir(blast_path) if not folder.startswith('.')]
 
 hits_best_pct = {}
 for accession in accessions:
+    if not accession in df.protein_accession.to_list():
+        continue
     json_filename = f"{blast_path}/{accession}/blast.js"
     with open(json_filename, 'r') as infile:
         blast_hits = []
