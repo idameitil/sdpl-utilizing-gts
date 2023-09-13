@@ -174,6 +174,10 @@ Run HHblits all against all: `sh src/ssn-clustering/supercluster/hhblits.sh [ssn
 
 To run superclustering pipeline, run: `sh src/ssn-clustering/supercluster/supercluster.sh [ssn_timestamp] [superclustering_timestamp] [superclustering_threshold]`. This will create the folder `data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[superclustering_timestamp]`.
 
+A network file without self-scores was made by running `src/ssn-clustering/supercluster/remove-self-edges-in-network-file.py`. This creates the file `data/wzy/ssn-clusterings/2309061613/superclusterings/2309061658/hmm_edges-nonself`. Singleton superclusters that were made into families were added manually at the end of the file.
+
+A nodes file was made by running `src/ssn-clustering/supercluster/make-supercluster-nodes-file.py [ssn-timestamp] [superclustering_timestamp]`. This creates the file `data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[superclustering_timestamp]/nodes`.
+
 ### Analyse superclustering
 Then, to analyse the superclustering, run: `sh src/ssn-clustering/analyse-superclustering/analyse-superclustering.sh [ssn-timestamp] [superclustering-timestamp]`. This will generate the superclustering report, table and HMMs in `data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[superclustering_timestamp]`.
 
