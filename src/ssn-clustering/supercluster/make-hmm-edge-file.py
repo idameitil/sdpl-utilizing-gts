@@ -12,11 +12,13 @@ def parse_hhr(hhr_filename, query_cluster_name, threshold):
                 if line.strip() == '':
                     flag = False
                     continue
-                splitted_line = line.strip().split()
-                no = splitted_line[0]
-                evalue = float(splitted_line[3])
-                score = float(splitted_line[5])
-                hit_accession = splitted_line[1]
+                # splitted_line = line.strip().split()
+                # no = splitted_line[0]
+                # evalue = float(splitted_line[3])
+                # score = float(splitted_line[5])
+                score = float(line[57:63])
+                # hit_accession = splitted_line[1]
+                hit_accession = line[4:34].split()[0]
                 hit_cluster_name = clustering_data.cluster_dict[hit_accession]
                 if score > threshold:
                     hits[(query_cluster_name, hit_cluster_name)] = score
@@ -34,9 +36,12 @@ clusters = list(clustering_data.clusters)
 
 hits_all = {}
 cluster_id = {}
+# singletons = []
 for cluster in clusters:
     cluster_id[cluster['name']] = f"{str(cluster['size'])}_{cluster['name']}"
     hits = parse_hhr(cluster['hhr_filename'], cluster['name'], threshold)
+    # if len(hits) == 0:
+    #     singletons.append(cluster_id[cluster['name']])
     for (query_cluster_name, hit_cluster_name) in hits:
         if (query_cluster_name, hit_cluster_name) in hits_all:
             hits_all[(query_cluster_name, hit_cluster_name)] = hits[(query_cluster_name, hit_cluster_name)]
@@ -49,3 +54,5 @@ with open(outfilename, 'w') as outfile:
     for (cluster1, cluster2) in hits_all:
         score = hits_all[(cluster1, cluster2)]
         outfile.write(f"{cluster_id[cluster1]}\t{cluster_id[cluster2]}\t{score}\n")
+    # for singleton in singletons:
+    #     outfile.write(singletons + '\n')

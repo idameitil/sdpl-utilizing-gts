@@ -35,6 +35,13 @@ for supercluster in connected_components:
     fastas = []
 
     supercluster2clustermembers[str(name)] = []
+
+    # Singleton clusters
+    if len(supercluster) == 1:
+        outfilename = f"data/wzy/ssn-clusterings/{ssn_timestamp}/superclusterings/{supercluster_timestamp}/hmm_edges"
+        with open(outfilename, 'a') as outfile:
+            print(list(supercluster)[0])
+            outfile.write(list(supercluster)[0] + '\n')
     
     for cluster in supercluster:
         cluster_size = int(cluster.split('_')[0])
@@ -63,35 +70,6 @@ for supercluster in connected_components:
             for entry in fasta:
                 outfile.write(f">{entry.id}\n{entry.seq}\n")
                 supercluster2protein_members[id].append(entry.id)
-
-# Super clusters of one cluster
-for cluster in [entry for entry in os.listdir(cluster_dir) if not entry.startswith('.')]:
-    cluster_size = int(cluster.split('_')[0])
-    cluster_name = cluster.split('_')[1]
-
-    if cluster_name in clusters_in_superclusters:
-        continue
-
-    name += 1
-
-    supercluster2clustermembers[str(name)] = [cluster]
-
-    id = f"{str(cluster_size).zfill(4)}_1_{name}"
-
-    this_supercluster_dir = f"{supercluster_dir}/{id}"
-    if not os.path.isdir(this_supercluster_dir):
-        os.makedirs(this_supercluster_dir)
-
-    supercluster2protein_members[id] = []
-
-    # Read and write fasta
-    fasta_filename = f"{cluster_dir}/{str(cluster_size).zfill(4)}_{cluster_name}/sequences.fa"
-    fasta = SeqIO.parse(fasta_filename, format='fasta')
-    for entry in fasta:
-        supercluster2protein_members[id].append(entry.id)
-    # Copy fasta
-    dest = f"{this_supercluster_dir}/sequences.fa"
-    shutil.copy(fasta_filename, dest)
 
 supercluster_tsv_filename = f"{results_dir}/superclusters.tsv"
 with open(supercluster_tsv_filename, 'w') as outfile:

@@ -24,7 +24,8 @@ else:
     evalue_tsv = f"data/{enzyme_family}/genbank-search/hits-evalue.tsv"
     evalue_df = pd.read_csv(evalue_tsv, sep='\t')
 
-network_filename = f"data/{enzyme_family}/all-vs-all-blast/network-new"
+# network_filename = f"data/{enzyme_family}/all-vs-all-blast/network-new"
+network_filename = f"data/{enzyme_family}/all-vs-all-blast/network"
 
 def write_metadata():
     with open(f"{outdir}/metadata.txt", "w") as outfile:
@@ -45,21 +46,17 @@ def get_accessions_from_fasta(filename):
     return accessions
 
 def find_accessions_to_include():
-    # for small ssn for poster
-    # if enzyme_family == 'wzy':
-    #     return get_accessions_from_list_file("data/wzy/phylogenetic-trees/small-tree-poster/selected-nodes-small-tree.txt")
     if enzyme_family == 'wzy':
         banned_accessions = get_accessions_from_list_file(banned_file)
         filtered_reduced_accessions = get_accessions_from_fasta(filtered_reduced_fasta)
-        # seed_accessions = get_accessions_from_fasta(seed_fasta)
+        seed_accessions = get_accessions_from_fasta(seed_fasta)
         # Filter hits by expansion threshold
         below_threshold_all = set(unique_hits_df.loc[unique_hits_df.evalue < expansion_threshold, 'protein_accession'])
         filtered_reduced_below_threshold = filtered_reduced_accessions.intersection(below_threshold_all)
         # Add seeds
-        # union = filtered_reduced_below_threshold.union(seed_accessions)
+        union = filtered_reduced_below_threshold.union(seed_accessions)
         # Remove banned
-        # accessions_include = union - banned_accessions
-        accessions_include = filtered_reduced_below_threshold - banned_accessions
+        accessions_include = union - banned_accessions
         return accessions_include
     elif enzyme_family == 'eca-pol':
         reduced = get_accessions_from_fasta(reduced_fasta)
@@ -73,14 +70,16 @@ def find_accessions_to_include():
         return reduced_below_threshold
 
 def write_included_accession_file():
-    accessions_include = find_accessions_to_include()
+    # accessions_include = find_accessions_to_include()
+    accessions_include = get_accessions_from_list_file('included_accessions_new')
     with open(f"{outdir}/included_accessions.txt", 'w') as outfile:
         for acc in accessions_include:
             outfile.write(acc+'\n')
 
 def write_edge_file():
-    accessions_include = find_accessions_to_include()
-    df = pd.read_csv(network_filename, sep='\t', names=['source', 'target', 'score'])
+    # accessions_include = find_accessions_to_include()
+    accessions_include = get_accessions_from_list_file('included_accessions_new')
+    df = pd.read_csv(network_filename, sep='\t')
     df_filtered = df[(df.score > ssn_threshold) & (df.source.isin(accessions_include)) & (df.target.isin(accessions_include))]
     df_filtered.to_csv(f"{outdir}/network", sep = '\t', columns=['source', 'target', 'score'], header=False, index=False)
 
@@ -92,7 +91,8 @@ def get_clusters():
 
 def write_info_file():
     """Global variables: clusters"""
-    accessions_include = find_accessions_to_include()
+    # accessions_include = find_accessions_to_include()
+    accessions_include = get_accessions_from_list_file('included_accessions_new')
     def get_total_count():
         total_count = len(accessions_include)
         return total_count
@@ -112,6 +112,20 @@ def write_info_file():
         outfile.write(f"Number of singletons: {get_singleton_count()} \n")
         outfile.write(f"Number of nodes in clusters: {get_node_count()} \n")
         outfile.write(f"Number of clusters: {get_cluster_count()} \n")
+
+def get_singletons():
+    """Global variables: clusters"""
+    # accessions_include = find_accessions_to_include()
+    accessions_include = get_accessions_from_list_file('included_accessions_new')
+    for cluster in clusters:
+        for accession in cluster:
+            accessions_include.remove(accession)
+    return accessions_include
+
+def write_singletons_to_network():
+    with open(f"{outdir}/network", "a") as outfile:
+        for singleton in singletons:
+            outfile.write(singleton + '\n')
 
 def write_cluster_tsv():
     with open(f"{outdir}/clusters.tsv", "w") as cluster_file:
@@ -137,3 +151,6 @@ clusters = get_clusters()
 write_cluster_tsv()
 
 write_info_file()
+
+singletons = get_singletons()
+write_singletons_to_network()
