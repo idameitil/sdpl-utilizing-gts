@@ -1,3 +1,19 @@
+# New SSN run
+Clusters delete:
+0020_56
+0019_60
+0012_101
+0046_26
+0015_86
+
+ABX51892.1 was in a cluster with seeds that weren’t removed (GTxx4). 
+
+Same for AAV34523.1, but this cluster didn’t end up as a family
+Same for WP_000220864.1, but this cluster didn’t end up as a family
+Same for AAD45264.1, but this cluster didn’t end up as a family
+
+WP_079758769 is not there and AAV34507.1 is not there. They are probably singletons
+
 # Thomas Hamelryck talk
 
 Pyro
