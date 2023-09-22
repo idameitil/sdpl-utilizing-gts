@@ -172,11 +172,21 @@ To visualize alphafold models with conserved residues, run: `pymol data/wzy/ssn-
 ### Supercluster
 Run HHblits all against all: `sh src/ssn-clustering/supercluster/hhblits.sh [ssn-timestamp]`. This will create a .hhr file for each cluster (in `data/wzy/ssn-clusterings/[timestamp]/clusters/[cluster]/[cluster.hhr]`).
 
-To run superclustering pipeline, run: `sh src/ssn-clustering/supercluster/supercluster.sh [ssn_timestamp] [superclustering_timestamp] [superclustering_threshold]`. This will create the folder `data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[superclustering_timestamp]`.
+To run the superclustering pipeline, run: `sh src/ssn-clustering/supercluster/supercluster.sh [ssn_timestamp] [superclustering_timestamp] [superclustering_threshold]`. This will create the folder `data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[superclustering_timestamp]`.
 
-A network file without self-scores was made by running `src/ssn-clustering/supercluster/remove-self-edges-in-network-file.py`. This creates the file `data/wzy/ssn-clusterings/2309061613/superclusterings/2309061658/hmm_edges-nonself`. Singleton superclusters that were made into families were added manually at the end of the file.
+A network file without self-scores was made by running `python src/ssn-clustering/supercluster/remove-self-edges-in-network-file.py [ssn-timestamp] [superclustering-timestamp]`. This creates the file `data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[superclustering-timestamp]/hmm_edges-nonself`. Singleton superclusters that were made into families were added manually at the end of the file.
 
-A nodes file was made by running `src/ssn-clustering/supercluster/make-supercluster-nodes-file.py [ssn-timestamp] [superclustering_timestamp]`. This creates the file `data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[superclustering_timestamp]/nodes`.
+### New clustering after deletion of seeds
+A list of accessions to be removed from the SSN were written to: `data/wzy/accessions-remove` including the removed seeds and their blast hits that were included in the 2210171613 network (see references).
+
+To make the new list of accessions to include in the network, run `python src/ssn-clustering/cluster/make-new-included-accessions.py`. This generates the file `data/wzy/included_accessions_new`.
+
+The newest clustering (2309191520) was made with this list of accessions, and is the one that will be shown in the reviewed manuscript.
+
+### Nodes file for colouring of networks
+A nodes file was made by running `python src/ssn-clustering/supercluster/make-supercluster-nodes-file.py [ssn-timestamp] [superclustering_timestamp]`. This creates the file `data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[superclustering_timestamp]/nodes`.
+
+A nodes file for the SSN clustering with CAZy families is made by running `src/ssn-clustering/cluster/make-cluster-nodes-file.py`. This creates the file `data/wzy/ssn-clusterings/2309191520/superclusterings/2309201143/nodes-ssn`.
 
 ### Analyse superclustering
 Then, to analyse the superclustering, run: `sh src/ssn-clustering/analyse-superclustering/analyse-superclustering.sh [ssn-timestamp] [superclustering-timestamp]`. This will generate the superclustering report, table and HMMs in `data/wzy/ssn-clusterings/[ssn-timestamp]/superclusterings/[superclustering_timestamp]`.

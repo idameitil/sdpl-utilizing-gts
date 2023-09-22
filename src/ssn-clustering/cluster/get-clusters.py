@@ -71,14 +71,14 @@ def find_accessions_to_include():
 
 def write_included_accession_file():
     # accessions_include = find_accessions_to_include()
-    accessions_include = get_accessions_from_list_file('included_accessions_new')
+    accessions_include = get_accessions_from_list_file('data/wzy/included_accessions_new')
     with open(f"{outdir}/included_accessions.txt", 'w') as outfile:
         for acc in accessions_include:
             outfile.write(acc+'\n')
 
 def write_edge_file():
     # accessions_include = find_accessions_to_include()
-    accessions_include = get_accessions_from_list_file('included_accessions_new')
+    accessions_include = get_accessions_from_list_file('data/wzy/included_accessions_new')
     df = pd.read_csv(network_filename, sep='\t')
     df_filtered = df[(df.score > ssn_threshold) & (df.source.isin(accessions_include)) & (df.target.isin(accessions_include))]
     df_filtered.to_csv(f"{outdir}/network", sep = '\t', columns=['source', 'target', 'score'], header=False, index=False)
@@ -92,7 +92,7 @@ def get_clusters():
 def write_info_file():
     """Global variables: clusters"""
     # accessions_include = find_accessions_to_include()
-    accessions_include = get_accessions_from_list_file('included_accessions_new')
+    accessions_include = get_accessions_from_list_file('data/wzy/included_accessions_new')
     def get_total_count():
         total_count = len(accessions_include)
         return total_count
@@ -116,7 +116,7 @@ def write_info_file():
 def get_singletons():
     """Global variables: clusters"""
     # accessions_include = find_accessions_to_include()
-    accessions_include = get_accessions_from_list_file('included_accessions_new')
+    accessions_include = get_accessions_from_list_file('data/wzy/included_accessions_new')
     for cluster in clusters:
         for accession in cluster:
             accessions_include.remove(accession)
