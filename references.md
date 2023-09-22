@@ -1,3 +1,13 @@
+# WaaL seeds
+- 8 sequences that were annotated as “waaL” in genomes from this Reeves paper:  https://pubmed.ncbi.nlm.nih.gov/23874940/
+- 16 sequences that were collected in this paper (figure S5): https://pubmed.ncbi.nlm.nih.gov/22158874/
+- 3 sequences that were annotated as “waaL” or “rfaL” (old name for waaL) in genomes from this Whitfield paper: https://pubmed.ncbi.nlm.nih.gov/9791168/
+- 3 sequences from Fig. 6 in this Whitfield paper: https://pubmed.ncbi.nlm.nih.gov/15215252/
+- 2 sequences that were annotated as “waaL” from genomes from this DTU Food paper: https://pubmed.ncbi.nlm.nih.gov/25972421/
+- 2 sequences from this Whitfield paper: https://pubmed.ncbi.nlm.nih.gov/9792656/
+- The structure from this paper: https://pubmed.ncbi.nlm.nih.gov/35388216/
+- One sequence from this Whitfield paper: https://pubmed.ncbi.nlm.nih.gov/9535865/
+
 # New SSN run
 Clusters delete:
 0020_56
