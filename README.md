@@ -266,7 +266,7 @@ Run `python src/wzy-seed-search/modify.py`. This will create the file `data/wzy/
 
 Then run `python src/ssn-clustering/analyse-superclustering/plot-stereochemistry-final-families.py`. The stereochemistry plot will be saved in `data/wzy/stereochemistry-final.png`.
 
-A new version of this script was made: `src/ssn-clustering/analyse-superclustering/plot-stereochemistry-final-families-new.py`. It also generates a tsv file with the data (`data/wzy/stereochemistry.tsv`) from which the plot can be made in excel. However, the plot generated in this script is faulty.
+A new version of this script was made: `python src/ssn-clustering/analyse-superclustering/plot-stereochemistry-final-families-new.py`. It also generates a tsv file with the data (`data/wzy/stereochemistry.tsv`) from which the plot can be made in excel. However, the plot generated in this script is faulty.
 
 ## O-Lig (WaaL)
 
@@ -480,7 +480,7 @@ Or run the pymol script with making the images: `pymol data/pymol-visualizations
 This will create the figures in `data/pymol-visualizations/figures`.
 
 (NEW, with only one model per family)
-To make pymol script including all families, run: `src/pymol-visualization/make-pymol-script-selected.py`.
+To make pymol script including all families, run: `python src/pymol-visualization/make-pymol-script-selected.py`.
 
 Then, to run the pymol script without making the images: `pymol data/pymol-visualizations/pymol-script-selected.pml`.
 
