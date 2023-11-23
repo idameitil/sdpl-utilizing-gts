@@ -1,3 +1,86 @@
+# Background on O-antigen diversity and function
+In Shigella paper. Liu 2008.
+
+# Where to find sugar/gene cluster data from original papers
+- S. pneumoniae: Supplementary figure 1 `data/original_data/sugar-gene-cluster/streptococcus-pneumoniae.tif`
+- Y. pseudotuberculosis: Figure 2 sugar structures. Figure 6 GT assignments
+- Shigella: Table 1 sugar structures. No figure with GT assignments. Supplementary info not relevant.
+- Salmonella: Supplementary Figure 1 `data/original_data/sugar-gene-cluster/salmonella.pdf`
+- P. aeruginosa: Sugars are in Fig 2 in Islam 2014 and in table 1 in Lam 2011.
+
+# Checking sugar structures
+\textit{S. pneumoniae} 33A was determined by \cite{lin_identification_2013} and the polymerase linkage determined by \cite{lin_structure_2014}. S. pneumoniae 33B - the one from Reeves is old, there is a revised structure from Lin 2014. They also propose the phase.
+
+O24 has a 3HOBut in all CSDB entries, and the one in the paper doesn't. I kept the 3HOBut.
+
+Streptococcus pneumoniae 16A - from Jens Duus, maybe change sugar to 1492
+
+S. pneumoniae 33A - from Lin 2013. They don’t determine the phase. The phase is proposed in Lin 2014.
+
+S. pneumoniae 33B - the one from Reeves is old, there is a revised structure from Lin 2014. They also propose the phase.
+
+S. pneumoniae 33C - from Lin 2014. They propose the phase.
+
+S. pneumoniae 33D - from Lin 2014. They propose the phase.
+
+S. pneumoniae 35 F and 35C - Bush 2015.
+
+S. pneumoniae 42 Petersen 2014. Ida determined phase, because of WchA, GLc has to be on the left
+
+S. pneumoniae 47F Petersen 2014. Ida determined phase. By comparison to 29 and 35F
+
+S. pneumoniae 47A Petersen 2013. Ida determined phase. Reeves gene cluster analysis -> Initial transferase is WcjG which transfers galactofuranose. Phase needs to be changed.
+
+Y. pseudotuberculosis O:3. Sugar is different in Reeves paper. On CSDB it says “revised structure”. Refer to Kondakova 2008. We used the revised structure. Phase determined by Ida. Based on the determined phase by Reeves and the similar sugars in the tree Y pseudo O3, O11, O:1b. They are all alpha 1-2.
+
+E. coli O5 (the serotype of the BP-Pol sequence is O5, but there is no O5 in the sugar paper). Only O5ab and O5ac. We kept the one for O5.
+
+Salmonella: they have either GlcpNAc or GalNAc (see abstract of the paper)
+O59 is ambiguous, but is very similar to other sugar units in the family. We derived the phase based on that.
+
+## Changes done
+### A. baumannii
+O7 was deleted.
+
+### S. pneumoniae
+None.
+
+### E. coli
+O10 (the one we have is missing a side chain). Change to 1512
+Change O13 to 1515
+Change O27 to 1535
+Change O46 to 1554
+Change O71 to 1577
+Change 087 to 13007
+O123 to 1862
+O129 to 1870
+O143 to 1885
+O181 to 1923
+O186 to 1933
+
+### P. aeruginosa
+O1: Phase was changed back.
+O20 was changed to 30280
+O15 removed
+
+### Salmonella
+No changes.
+
+### Shigella
+Shigella B8 changed to 23049
+Shigella B11 changed to 23052
+B6 there is a small difference between the sugar in CSDB and the one in the Shigella paper. It was not changed.
+
+## LUH3712/PSgc23
+"PSgc16. LUH3712, our serovar 16 representative, has a gene cluster that is identical to that of LUH3714, the serovar 23 representative and, as discussed above, because the LUH3714 sequence is fully consistent with the structure, we opted to retain it as the serovar 23 representative strain. The Sv16 structure has no rare sugars and has 3 GT linkages and 4 GT genes so that would be consistent with the sequence, except that we know the linkages formed by the same set of genes for the Sv23 structure, and only the linkage proposed for WagR is also present in the Sv16 structure, so the fit is very poor. LUH3712 becomes a second PSgc23 strain."
+
+## LUH5539/LUH5537
+"Strain LUH5537 is the representative strain for serovar 7, and LUH5539 is the representative strain for serovar 9 [25]. The sequence shared by LUH5537 and LUH5539 is not consistent with the structure for Sv7 (see below), but there is no structure for Sv9. We opted to name the shared gene cluster PSgc9, with LUH5539 as the representative strain, and again it seems that the published Sv7 structure and sequence are not from the same strain."
+
+"PSgc7. LUH5537, our serovar 7 representative, has a sequence that lacks the rml gene set whereas the structure includes Rha making the structure and gene cluster not consistent. The sequence also includes genes for D-GlcNAc3NAc, which is not present. As discussed above LUH5537 and LUH5539, the Sv9 representative, have the same sequence, and given the incompatibility of the PSgc7 structure and the LUH5537 sequence, we assume that the shared sequence codes for the PSgc9 structure, so that LUH5537 becomes a second PSgc9 sequence."
+
+"The Sv7 and Sv16 strains have gene clusters that are identical to other gene clusters as discussed above, that better fit the structures, so the shared gene clusters have been named PSgc9 and PSgc23 respectively as discussed above. The PSgc12 gene cluster lacks genes for the Sv12 Qui3N(R3Hb) residue. In all three cases it appears that there have been errors in strain maintenance or transfer between labs, but we have used the name PSgc12 for our Sv12 strains, as we do not know if the sequence or structure is from the strain used for the serology.
+
 # WaaL seeds
 - 8 sequences that were annotated as “waaL” in genomes from this Reeves paper:  https://pubmed.ncbi.nlm.nih.gov/23874940/
 - 16 sequences that were collected in this paper (figure S5): https://pubmed.ncbi.nlm.nih.gov/22158874/
