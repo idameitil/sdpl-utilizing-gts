@@ -3,6 +3,7 @@ import random
 from colour import Color
 import math
 import numpy as np
+import os
 
 def make_taxonomy_label_file(df, enzyme_family_name, genbank_hits = False):
     wanted_ranks = ['phylum', 'class', 'order', 'family', 'genus', 'species']
@@ -21,6 +22,40 @@ def make_taxonomy_label_file(df, enzyme_family_name, genbank_hits = False):
                     color = '#' + "%06x" % random.randint(0, 0xFFFFFF)
                     tax2color[tax] = color
                 file.write(f"{acc}\t{tax2color[tax]}\t{tax}\n")
+
+def make_taxonomy_label_file_text(df, enzyme_family_name):
+    outfilename = f"data/{enzyme_family_name}/phylogenetic-trees/itol-label-files/species_text.txt"
+    with open(outfilename, "w") as file:
+        header = f"DATASET_TEXT\nSEPARATOR COMMA\nDATASET_LABEL,species_text\nCOLOR,#ff0000\nDATA\n"
+        file.write(header)
+        tax2color = {
+            'Acinetobacter baumannii': '#28E2E5',
+            'Acinetobacter nosocomialis': '#28E2E5',
+            'Streptococcus pneumoniae': '#61D04F',
+            'Yersinia pseudotuberculosis': '#2297E6',
+            'Yersinia similis': '#2297E6',
+            'Escherichia coli': '#DF536B',
+            'Shigella boydii': '#CD0BBC',
+            'Shigella flexneri': '#CD0BBC',
+            'Shigella dysenteriae': '#CD0BBC',
+            'Pseudomonas aeruginosa': '#F5C710',
+            'Salmonella enterica': '9E9E9E'
+            }
+        for index, row in df.iterrows():
+            acc, tax = row['protein_accession'], row.species
+            text = f"{tax} {row.serotype}"
+            file.write(f"{acc},{text},-1,{tax2color[tax]},bold,1,0\n")
+
+def make_alphafold_label_file():
+    outfilename = f"data/wzy/phylogenetic-trees/itol-label-files/alphafold.txt"
+    dirs = os.listdir('data/wzy/alphafold')
+    with open(outfilename, 'w') as outfile:
+        header = f"DATASET_COLORSTRIP\nSEPARATOR TAB\nDATASET_LABEL\talphafold\nCOLOR\t#ff0000\nDATA\n"
+        outfile.write(header)    
+        for dir in dirs:
+            outfile.write(f"{dir}\t#28E2E5\t{dir}\n")
+
+make_alphafold_label_file()
 
 def make_image_label_file(df, enzyme_family_name):
     outfilename = f"data/{enzyme_family_name}/phylogenetic-trees/itol-label-files/sugar-images.txt"
@@ -110,6 +145,9 @@ def make_pubmed_color_file(df, enzyme_family_name):
                 file.write(f"{row.protein_accession},{pubmed2color[row.pubmed]},{row.pubmed} {pubmed2name[row.pubmed]}\n")
             else:
                 file.write(f"{row.protein_accession},{red},{row.pubmed}\n")
+
+wzy_seeds_df = pd.read_csv("data/wzy/wzy.tsv", sep='\t', dtype='object')
+make_taxonomy_label_file_text(wzy_seeds_df, 'wzy')
 
 wzy_df = pd.read_csv("data/wzy/seeds-and-hits.tsv", sep='\t', dtype='object')
 waal_df = pd.read_csv("data/waal/seeds-and-hits.tsv", sep='\t', dtype='object')
