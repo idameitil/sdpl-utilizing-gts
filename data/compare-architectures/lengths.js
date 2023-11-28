@@ -1,5 +1,5 @@
 const lengths = {
-	'GTxx1, RodA, 6BAR': 359,
+	'GTxx1, SEDS, 6BAR': 359,
 	'GTxx7, BP-Pol, CAI34369.1': 398,
 	'GTxx3, O-Lig, 7TPG': 407,
 	'GTxx8, BP-Pol, AAM27615.1': 391,

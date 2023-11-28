@@ -1,3 +1,32 @@
+# Architecture figures revision changes
+## Possible changes
+X617/GTxx4: Remove the E, maybe Y (98.6%)
+X631/GTxx5: Remove Y97 94%
+X613/GTxx7: R151 98.2%
+X614/GTxx8: R188 98.1%, R260 98.1%
+X607/GTx10: R158 92.1%
+X605/GTx11: R348 98%
+X610/GTx12: N251 88.8%
+GTx13: Remove R142 and R267. Keep R210 but it’s K/R
+GTx14: Remove R165. Remove Y266. Remove N348.
+GTx15: Maybe Y173 98.8% or also include Y191 (99.2%). Maybe remove K234 (98%)
+GTx16: maybe remove Y (98.5%) and R441 (98.5%)
+GTxx2: Include Y248
+GTx17: remove R171
+
+## Changes made
+X617/GTxx4: Removed the E
+X631/GTxx5: Removed Y97 94%
+X607/GTx10: R158 92.1%
+X610/GTx12: N251 88.8%
+GTx13: Removed R142 and R267. Kept R210 but it’s K/R
+GTx14: Removed R165. Removed Y266. Removed N348.
+GTx15: Included Y191 (99.2%)
+GTxx2: Included Y248
+GTx17: removed R171
+
+threshold: approximately 98.5%
+
 # Background on O-antigen diversity and function
 In Shigella paper. Liu 2008.
 
