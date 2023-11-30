@@ -491,7 +491,7 @@ This will create the figures in `data/pymol-visualizations/figures-selected`.
 ### GTxx4
 For supplementary fig. 3, the figures are made by running `pymol src/pymol-visualization/GTxx4-alignments.pml`. The figures are saves in `data/pymol-visualizations/figures`.
 
-## Compare architecture (figure`
+## Compare architecture
 (Old) The architectures were manually written from the alphafold structures in pymol into `data/compare-architectures/architecture-tables/[acc].csv`.
 
 (New) The secondary structure is retrieved for each structure by running `python src/compare-architectures/run-dssp.py`. This creates the tables in `data/compare-architectures/data/compare-architectures/architecture-tables-dssp`. 
