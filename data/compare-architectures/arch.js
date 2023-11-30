@@ -21,11 +21,11 @@ const colorScheme = [
 
 const spaceBetweenArchitectures = 500;
 const spaceBetweenClans = 650;
-const leftMargin = 100;
-const rightMargin = 100;
+const leftMargin = 150;
+const rightMargin = 150;
 const topMargin = 250;
-const canvasWidth = 9350 + rightMargin;
-const canvasHeight = Object.keys(lengths).length*spaceBetweenArchitectures+topMargin+3*spaceBetweenClans-115;
+const canvasWidth = 9350 + rightMargin + leftMargin;
+const canvasHeight = Object.keys(lengths).length*spaceBetweenArchitectures+topMargin+3*spaceBetweenClans-65;
 const spaceBeforeArchitectureName = 60;
 const blastLineThickness = 16
 // const sequenceIndent = 600;
@@ -48,7 +48,7 @@ function setup(){
             drawArchitecture(family[architectureName], conservedResidues[architectureName], lengths[architectureName], y);
             j++;
         }
-        drawBlackLine(y+120);
+        drawBlackLine(y+170);
         i++;
     }
     drawVerticalLine(0)
@@ -208,14 +208,14 @@ function drawArchitectureName(architectureName, y){
 }
 
 function drawBlackLine(y){
-    const color = [255, 255, 255];
+    const color = [150, 150, 150];
     fill(...color);
     stroke(color)
     rect(0, y, canvasWidth, blastLineThickness)
 }
 
 function drawVerticalLine(x){
-    const color = [255, 255, 255];
+    const color = [150, 150, 150];
     fill(...color);
     stroke(color)
     rect(x, blastLineThickness, blastLineThickness, canvasHeight)
