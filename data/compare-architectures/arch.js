@@ -20,7 +20,7 @@ const colorScheme = [
 
 
 const spaceBetweenArchitectures = 500;
-const spaceBetweenClans = 550;
+const spaceBetweenClans = 650;
 const leftMargin = 100;
 const rightMargin = 100;
 const topMargin = 250;
@@ -36,11 +36,14 @@ function setup(){
     createCanvas(canvasWidth, canvasHeight);
     let i = 0;
     let j = 0;
-    for(const family of architectures){
+    for(const familyDetails of architectures){
         let y;
+        const family = familyDetails.sequences;
         drawBlackLine(10);
+        const familyYOffset = spaceBetweenArchitectures/2+i*spaceBetweenClans+topMargin;
+        drawFamilyName(familyDetails, familyYOffset+j*spaceBetweenArchitectures);
         for(const architectureName in family){
-            y = spaceBetweenArchitectures/2+j*spaceBetweenArchitectures+i*spaceBetweenClans+topMargin;
+            y = familyYOffset+j*spaceBetweenArchitectures;
             drawArchitectureName(architectureName, y-150);
             drawArchitecture(family[architectureName], conservedResidues[architectureName], lengths[architectureName], y);
             j++;
@@ -115,14 +118,14 @@ function drawConservedResidue(conservedResidue, position, x, y){
     const color_residue_text = getColor(conservedResidueAminoacid);
     textSize(size_residue_text);
     fill(...color_residue_text);
-    text(conservedResidueAminoacid, x-size_residue_text/4+offset, y-20);
+    text(conservedResidueAminoacid, x-size_residue_text/4+offset-27, y-20);
 
     const color_position_text = [0, 0, 0];
     // const size_position_text = 50;
     const size_position_text = 100;
     textSize(size_position_text);
     fill(...color_position_text);
-    text(position, x-size_residue_text/4-10+offset, y-170);
+    text(position, x-size_residue_text/4-10+offset-27, y-170);
 }
 
 function drawInside(x, y){
@@ -182,6 +185,18 @@ function drawSheet(x, y){
     rect(x, y, unitSize, unitSize*2)
 }
 
+function drawFamilyName({familyName, subFamilyName}, y){
+    const fontSize = 300;
+    fill(0, 0, 0);
+    textSize(fontSize);
+    const topMargin = 550;
+    textStyle(BOLD);
+    text(familyName, leftMargin, y-topMargin);
+    textSize(300*.4);
+    text(subFamilyName, leftMargin+(2.4*fontSize), y-topMargin+(fontSize*.1));
+    textStyle(NORMAL);
+}
+
 function drawArchitectureName(architectureName, y){
     const size = 160;
     const color = [0, 0, 0];
@@ -193,14 +208,14 @@ function drawArchitectureName(architectureName, y){
 }
 
 function drawBlackLine(y){
-    const color = [0, 0, 0];
+    const color = [255, 255, 255];
     fill(...color);
     stroke(color)
     rect(0, y, canvasWidth, blastLineThickness)
 }
 
 function drawVerticalLine(x){
-    const color = [0, 0, 0];
+    const color = [255, 255, 255];
     fill(...color);
     stroke(color)
     rect(x, blastLineThickness, blastLineThickness, canvasHeight)
