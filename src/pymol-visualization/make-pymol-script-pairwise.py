@@ -15,7 +15,7 @@ def show_conserved_string(conserved_positions, object_name):
     return string
 
 def save_images_string(pair):
-    view = f"@data/wzy/phylogenetic-trees/views/{pair['clan']}.pml\n"
+    view = f"@data/pymol-visualizations/views-individual-pairwise/{pair['view']}.pml\n"
     string = f"""\ndisable
     {view}
     enable {pair['sequences'][0]}
@@ -83,44 +83,44 @@ for acc in conserved_residues:
     object_names.append(pymol_object_name(family, acc))
 
 ### ALIGN ###
-script += f"""\nsuper 613_CAI34369.1, 615_7TPG_O-Lig
+script += f"""\nsuper 615_7TPG_O-Lig, 613_CAI34369.1
 cealign 615_7TPG_O-Lig, 614_AAM27615.1
 cealign 614_AAM27615.1, 609_CAI34254.1
-cealign 609_CAI34254.1, 607_CAI34124.1
+super 607_CAI34124.1, 609_CAI34254.1
 cealign 607_CAI34124.1, 605_BAQ02088.1
 
+cealign 605_BAQ02088.1, 633_BAQ02224.1
+
 cealign 633_BAQ02224.1, 610_AHB32411.1
-cealign 610_AHB32411.1, 612_CAI32823.1
-cealign 612_CAI32823.1, 606_AAT77177.1
+super 612_CAI32823.1, 610_AHB32411.1
+super 606_AAT77177.1, 612_CAI32823.1
 cealign 606_AAT77177.1, 611_AAM27801.1
 cealign 611_AAM27801.1, 608_CAI32772.1
 cealign 608_CAI32772.1, 586_ACH50550.1
 
-cealign 617_AHB32861.1, 631_BAQ01641.1
-cealign 631_BAQ01641.1, 634_ADI43271.1"""
+super 617_AHB32861.1, 586_ACH50550.1
 
-pairs = [{'sequences': ('613_CAI34369.1', '615_7TPG_O-Lig'), 'clan': 'clan-1'},
-         {'sequences': ('615_7TPG_O-Lig', '614_AAM27615.1'), 'clan': 'clan-1'},
-         {'sequences': ('614_AAM27615.1', '609_CAI34254.1'), 'clan': 'clan-1'},
-         {'sequences': ('609_CAI34254.1', '607_CAI34124.1'), 'clan': 'clan-1'},
-         {'sequences': ('607_CAI34124.1', '605_BAQ02088.1'), 'clan': 'clan-1'},
-         {'sequences': ('633_BAQ02224.1', '610_AHB32411.1'), 'clan': 'clan-2'},
-         {'sequences': ('610_AHB32411.1', '612_CAI32823.1'), 'clan': 'clan-2'},
-         {'sequences': ('612_CAI32823.1', '606_AAT77177.1'), 'clan': 'clan-2'},
-         {'sequences': ('606_AAT77177.1', '611_AAM27801.1'), 'clan': 'clan-2'},
-         {'sequences': ('611_AAM27801.1', '608_CAI32772.1'), 'clan': 'clan-2'},
-         {'sequences': ('608_CAI32772.1', '586_ACH50550.1'), 'clan': 'clan-2'},
-         {'sequences': ('617_AHB32861.1', '631_BAQ01641.1'), 'clan': 'clan-3'},
-         {'sequences': ('631_BAQ01641.1', '634_ADI43271.1'), 'clan': 'clan-3'}
+cealign 617_AHB32861.1, 631_BAQ01641.1
+cealign 631_BAQ01641.1, 634_ADI43271.1
+"""
+
+pairs = [{'sequences': ('613_CAI34369.1', '615_7TPG_O-Lig'), 'view': 'view1'},
+         {'sequences': ('615_7TPG_O-Lig', '614_AAM27615.1'), 'view': 'view1'},
+         {'sequences': ('614_AAM27615.1', '609_CAI34254.1'), 'view': 'view1'},
+         {'sequences': ('609_CAI34254.1', '607_CAI34124.1'), 'view': 'view1'},
+         {'sequences': ('607_CAI34124.1', '605_BAQ02088.1'), 'view': 'view2'},
+         {'sequences': ('633_BAQ02224.1', '610_AHB32411.1'), 'view': 'view3'},
+         {'sequences': ('610_AHB32411.1', '612_CAI32823.1'), 'view': 'view4'},
+         {'sequences': ('612_CAI32823.1', '606_AAT77177.1'), 'view': 'view5'},
+         {'sequences': ('606_AAT77177.1', '611_AAM27801.1'), 'view': 'view6'},
+         {'sequences': ('611_AAM27801.1', '608_CAI32772.1'), 'view': 'view7'},
+         {'sequences': ('608_CAI32772.1', '586_ACH50550.1'), 'view': 'view8'},
+         {'sequences': ('617_AHB32861.1', '631_BAQ01641.1'), 'view': 'view9'},
+         {'sequences': ('631_BAQ01641.1', '634_ADI43271.1'), 'view': 'view9'}
          ]
 
 for pair in pairs:
     script += save_images_string(pair)
-
-### SAVE IMAGES ###
-# if make_images:
-#     for object_name in object_names:
-#         script += save_images_string(pymol_object_name=object_name)
 
 # Nicify
 script += "@src/pymol-visualization/nicify.pml\n"

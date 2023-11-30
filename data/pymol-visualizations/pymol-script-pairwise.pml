@@ -111,23 +111,28 @@ label n. CA and resi 192 and 634_ADI43271.1, "%s-%s" % (resn, resi)
 label n. CA and resi 315 and 634_ADI43271.1, "%s-%s" % (resn, resi)
 select cons_634_ADI43271.1, resi 57 and 634_ADI43271.1 or resi 157 and 634_ADI43271.1 or resi 192 and 634_ADI43271.1 or resi 315 and 634_ADI43271.1
 show licorice, cons_634_ADI43271.1
-super 613_CAI34369.1, 615_7TPG_O-Lig
+super 615_7TPG_O-Lig, 613_CAI34369.1
 cealign 615_7TPG_O-Lig, 614_AAM27615.1
 cealign 614_AAM27615.1, 609_CAI34254.1
-cealign 609_CAI34254.1, 607_CAI34124.1
+super 607_CAI34124.1, 609_CAI34254.1
 cealign 607_CAI34124.1, 605_BAQ02088.1
 
+cealign 605_BAQ02088.1, 633_BAQ02224.1
+
 cealign 633_BAQ02224.1, 610_AHB32411.1
-cealign 610_AHB32411.1, 612_CAI32823.1
-cealign 612_CAI32823.1, 606_AAT77177.1
+super 612_CAI32823.1, 610_AHB32411.1
+super 606_AAT77177.1, 612_CAI32823.1
 cealign 606_AAT77177.1, 611_AAM27801.1
 cealign 611_AAM27801.1, 608_CAI32772.1
 cealign 608_CAI32772.1, 586_ACH50550.1
 
+super 617_AHB32861.1, 586_ACH50550.1
+
 cealign 617_AHB32861.1, 631_BAQ01641.1
 cealign 631_BAQ01641.1, 634_ADI43271.1
+
 disable
-    @data/wzy/phylogenetic-trees/views/clan-1.pml
+    @data/pymol-visualizations/views-individual-pairwise/view1.pml
 
     enable 613_CAI34369.1
     enable 615_7TPG_O-Lig
@@ -137,7 +142,7 @@ disable
     png /Users/idamei/phd/data/pymol-visualizations/pairwise_alignments/613_CAI34369.1_615_7TPG_O-Lig.png
     
 disable
-    @data/wzy/phylogenetic-trees/views/clan-1.pml
+    @data/pymol-visualizations/views-individual-pairwise/view1.pml
 
     enable 615_7TPG_O-Lig
     enable 614_AAM27615.1
@@ -147,7 +152,7 @@ disable
     png /Users/idamei/phd/data/pymol-visualizations/pairwise_alignments/615_7TPG_O-Lig_614_AAM27615.1.png
     
 disable
-    @data/wzy/phylogenetic-trees/views/clan-1.pml
+    @data/pymol-visualizations/views-individual-pairwise/view1.pml
 
     enable 614_AAM27615.1
     enable 609_CAI34254.1
@@ -157,7 +162,7 @@ disable
     png /Users/idamei/phd/data/pymol-visualizations/pairwise_alignments/614_AAM27615.1_609_CAI34254.1.png
     
 disable
-    @data/wzy/phylogenetic-trees/views/clan-1.pml
+    @data/pymol-visualizations/views-individual-pairwise/view1.pml
 
     enable 609_CAI34254.1
     enable 607_CAI34124.1
@@ -167,7 +172,7 @@ disable
     png /Users/idamei/phd/data/pymol-visualizations/pairwise_alignments/609_CAI34254.1_607_CAI34124.1.png
     
 disable
-    @data/wzy/phylogenetic-trees/views/clan-1.pml
+    @data/pymol-visualizations/views-individual-pairwise/view2.pml
 
     enable 607_CAI34124.1
     enable 605_BAQ02088.1
@@ -177,7 +182,7 @@ disable
     png /Users/idamei/phd/data/pymol-visualizations/pairwise_alignments/607_CAI34124.1_605_BAQ02088.1.png
     
 disable
-    @data/wzy/phylogenetic-trees/views/clan-2.pml
+    @data/pymol-visualizations/views-individual-pairwise/view3.pml
 
     enable 633_BAQ02224.1
     enable 610_AHB32411.1
@@ -187,7 +192,7 @@ disable
     png /Users/idamei/phd/data/pymol-visualizations/pairwise_alignments/633_BAQ02224.1_610_AHB32411.1.png
     
 disable
-    @data/wzy/phylogenetic-trees/views/clan-2.pml
+    @data/pymol-visualizations/views-individual-pairwise/view4.pml
 
     enable 610_AHB32411.1
     enable 612_CAI32823.1
@@ -197,7 +202,7 @@ disable
     png /Users/idamei/phd/data/pymol-visualizations/pairwise_alignments/610_AHB32411.1_612_CAI32823.1.png
     
 disable
-    @data/wzy/phylogenetic-trees/views/clan-2.pml
+    @data/pymol-visualizations/views-individual-pairwise/view5.pml
 
     enable 612_CAI32823.1
     enable 606_AAT77177.1
@@ -207,7 +212,7 @@ disable
     png /Users/idamei/phd/data/pymol-visualizations/pairwise_alignments/612_CAI32823.1_606_AAT77177.1.png
     
 disable
-    @data/wzy/phylogenetic-trees/views/clan-2.pml
+    @data/pymol-visualizations/views-individual-pairwise/view6.pml
 
     enable 606_AAT77177.1
     enable 611_AAM27801.1
@@ -217,7 +222,7 @@ disable
     png /Users/idamei/phd/data/pymol-visualizations/pairwise_alignments/606_AAT77177.1_611_AAM27801.1.png
     
 disable
-    @data/wzy/phylogenetic-trees/views/clan-2.pml
+    @data/pymol-visualizations/views-individual-pairwise/view7.pml
 
     enable 611_AAM27801.1
     enable 608_CAI32772.1
@@ -227,7 +232,7 @@ disable
     png /Users/idamei/phd/data/pymol-visualizations/pairwise_alignments/611_AAM27801.1_608_CAI32772.1.png
     
 disable
-    @data/wzy/phylogenetic-trees/views/clan-2.pml
+    @data/pymol-visualizations/views-individual-pairwise/view8.pml
 
     enable 608_CAI32772.1
     enable 586_ACH50550.1
@@ -237,7 +242,7 @@ disable
     png /Users/idamei/phd/data/pymol-visualizations/pairwise_alignments/608_CAI32772.1_586_ACH50550.1.png
     
 disable
-    @data/wzy/phylogenetic-trees/views/clan-3.pml
+    @data/pymol-visualizations/views-individual-pairwise/view9.pml
 
     enable 617_AHB32861.1
     enable 631_BAQ01641.1
@@ -247,7 +252,7 @@ disable
     png /Users/idamei/phd/data/pymol-visualizations/pairwise_alignments/617_AHB32861.1_631_BAQ01641.1.png
     
 disable
-    @data/wzy/phylogenetic-trees/views/clan-3.pml
+    @data/pymol-visualizations/views-individual-pairwise/view9.pml
 
     enable 631_BAQ01641.1
     enable 634_ADI43271.1
