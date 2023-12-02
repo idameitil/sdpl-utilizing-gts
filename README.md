@@ -491,6 +491,12 @@ This will create the figures in `data/pymol-visualizations/figures-selected`.
 ### GTxx4
 For supplementary fig. 3, the figures are made by running `pymol src/pymol-visualization/GTxx4-alignments.pml`. The figures are saves in `data/pymol-visualizations/figures`.
 
+### Pairwise alignments
+To make the pymol scripts for making pairwise alignments within clans, run:
+`python src/pymol-visualization/make-pymol-script-pairwise.py`.
+
+Then, to run the pymol script, run: `pymol data/pymol-visualizations/pymol-script-pairwise.pml`.
+
 ## Compare architecture
 (Old) The architectures were manually written from the alphafold structures in pymol into `data/compare-architectures/architecture-tables/[acc].csv`.
 
