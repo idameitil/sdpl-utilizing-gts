@@ -18,9 +18,9 @@ acc2name = {'ADC54950.1':'X612', 'AHB32861.1':'X617', 'cazy201071':'SEDS, X571',
 }
 
 old2newnames = {'SEDS, X571': 'SEDS, GTxx1',
-         'X617': 'GTxx4', 'X631': 'GTxx5', 'X634': 'GTxx6',
-         'X613': 'GTxx7', 'O-Lig, X615': 'O-Lig, GTxx3', 'X614': 'GTxx8', 'X609': 'GTxx9', 'X607': 'GTx10', 'X605': 'GTx11',
-         'X610': 'GTx12', 'X612': 'GTx13', 'X606': 'GTx14', 'X611': 'GTx15', 'X608': 'GTx16', 'ECA-Pol, X586': 'ECA-Pol, GTxx2', 'X633': 'GTx17'}
+         'X617': 'BP-Pol, GTxx4', 'X631': 'BP-Pol, GTxx5', 'X634': 'BP-Pol, GTxx6',
+         'X613': 'BP-Pol, GTxx7', 'O-Lig, X615': 'O-Lig, GTxx3', 'X614': 'BP-Pol, GTxx8', 'X609': 'BP-Pol, GTxx9', 'X607': 'BP-Pol, GTx10', 'X605': 'BP-Pol, GTx11',
+         'X610': 'BP-Pol, GTx12', 'X612': 'BP-Pol, GTx13', 'X606': 'BP-Pol, GTx14', 'X611': 'BP-Pol, GTx15', 'X608': 'BP-Pol, GTx16', 'ECA-Pol, X586': 'ECA-Pol, GTxx2', 'X633': 'BP-Pol, GTx17'}
 
 mydict = dict()
 for filename in hhr_filenames:
@@ -52,9 +52,9 @@ for index, row in df.iterrows():
 #     ]
 
 order = ['SEDS, GTxx1',
-         'GTxx4', 'GTxx5', 'GTxx6',
-         'GTxx7', 'O-Lig, GTxx3', 'GTxx8', 'GTxx9', 'GTx10', 'GTx11',
-         'GTx12', 'GTx13', 'GTx14', 'GTx15', 'GTx16', 'ECA-Pol, GTxx2', 'GTx17',
+         'BP-Pol, GTxx4', 'BP-Pol, GTxx5', 'BP-Pol, GTxx6',
+         'BP-Pol, GTxx7', 'O-Lig, GTxx3', 'BP-Pol, GTxx8', 'BP-Pol, GTxx9', 'BP-Pol, GTx10', 'BP-Pol, GTx11',
+         'BP-Pol, GTx12', 'BP-Pol, GTx13', 'BP-Pol, GTx14', 'BP-Pol, GTx15', 'BP-Pol, GTx16', 'ECA-Pol, GTxx2', 'BP-Pol, GTx17',
          ]
 
 df = df.loc[reversed(order), reversed(order)]
