@@ -15,7 +15,8 @@ def show_conserved_string(conserved_positions, object_name):
     return string
 
 def save_images_string(pair):
-    view = f"@data/pymol-visualizations/views-individual-pairwise/{pair['view']}.pml\n"
+    # view = f"@data/pymol-visualizations/views-individual-pairwise/{pair['view']}.pml\n"
+    view = f"@data/pymol-visualizations/pairwise-views2/{pair['view']}.pml\n"
     string = f"""\ndisable
     {view}
     enable {pair['sequences'][0]}
@@ -83,7 +84,8 @@ for acc in conserved_residues:
     object_names.append(pymol_object_name(family, acc))
 
 ### ALIGN ###
-script += f"""\nsuper 615_7TPG_O-Lig, 613_CAI34369.1
+script += f"""
+super 615_7TPG_O-Lig, 613_CAI34369.1
 cealign 615_7TPG_O-Lig, 614_AAM27615.1
 cealign 614_AAM27615.1, 609_CAI34254.1
 super 607_CAI34124.1, 609_CAI34254.1
@@ -111,12 +113,12 @@ pairs = [{'sequences': ('613_CAI34369.1', '615_7TPG_O-Lig'), 'view': 'view1'},
          {'sequences': ('607_CAI34124.1', '605_BAQ02088.1'), 'view': 'view2'},
          {'sequences': ('633_BAQ02224.1', '610_AHB32411.1'), 'view': 'view3'},
          {'sequences': ('610_AHB32411.1', '612_CAI32823.1'), 'view': 'view4'},
-         {'sequences': ('612_CAI32823.1', '606_AAT77177.1'), 'view': 'view5'},
-         {'sequences': ('606_AAT77177.1', '611_AAM27801.1'), 'view': 'view6'},
-         {'sequences': ('611_AAM27801.1', '608_CAI32772.1'), 'view': 'view7'},
-         {'sequences': ('608_CAI32772.1', '586_ACH50550.1'), 'view': 'view8'},
-         {'sequences': ('617_AHB32861.1', '631_BAQ01641.1'), 'view': 'view9'},
-         {'sequences': ('631_BAQ01641.1', '634_ADI43271.1'), 'view': 'view9'}
+         {'sequences': ('612_CAI32823.1', '606_AAT77177.1'), 'view': 'view4'},
+         {'sequences': ('606_AAT77177.1', '611_AAM27801.1'), 'view': 'view5'},
+         {'sequences': ('611_AAM27801.1', '608_CAI32772.1'), 'view': 'view6'},
+         {'sequences': ('608_CAI32772.1', '586_ACH50550.1'), 'view': 'view7'},
+         {'sequences': ('617_AHB32861.1', '631_BAQ01641.1'), 'view': 'view8'},
+         {'sequences': ('631_BAQ01641.1', '634_ADI43271.1'), 'view': 'view8'}
          ]
 
 for pair in pairs:
