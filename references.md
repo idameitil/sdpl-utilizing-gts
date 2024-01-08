@@ -1,3 +1,8 @@
+# Make Latexdiff
+Unzip first
+
+`/usr/bin/perl ../Downloads/latexdiff/latexdiff ../Downloads/Diversity\ of\ sugar-diphospholipid-utilizing\ glycosyltransferase\ families/main.tex ../Downloads/manuscript_final\(1\)/main.tex > test-diff.tex`
+
 # Architecture figures revision changes
 ## Possible changes
 X617/GTxx4: Remove the E, maybe Y (98.6%)
