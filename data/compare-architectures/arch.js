@@ -23,7 +23,7 @@ const spaceBetweenArchitectures = 500;
 const spaceBetweenClans = 650;
 const leftMargin = 150;
 const rightMargin = 150;
-const topMargin = 250;
+const topMargin = 100;
 const canvasWidth = 9350 + rightMargin + leftMargin;
 const canvasHeight = Object.keys(lengths).length*spaceBetweenArchitectures+topMargin+3*spaceBetweenClans-65;
 const spaceBeforeArchitectureName = 60;
@@ -40,7 +40,7 @@ function setup(){
         let y;
         const family = familyDetails.sequences;
         drawBlackLine(10);
-        const familyYOffset = spaceBetweenArchitectures/2+i*spaceBetweenClans+topMargin;
+        const familyYOffset = spaceBetweenArchitectures/2+(i+1)*spaceBetweenClans+topMargin;
         drawFamilyName(familyDetails, familyYOffset+j*spaceBetweenArchitectures);
         for(const architectureName in family){
             y = familyYOffset+j*spaceBetweenArchitectures;
