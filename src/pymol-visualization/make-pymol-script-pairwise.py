@@ -85,6 +85,7 @@ for acc in conserved_residues:
 
 ### ALIGN ###
 script += f"""
+cealign 613_CAI34369.1, 571_AF-6BAR
 super 615_7TPG_O-Lig, 613_CAI34369.1
 cealign 615_7TPG_O-Lig, 614_AAM27615.1
 cealign 614_AAM27615.1, 609_CAI34254.1
@@ -106,7 +107,8 @@ cealign 617_AHB32861.1, 631_BAQ01641.1
 cealign 631_BAQ01641.1, 634_ADI43271.1
 """
 
-pairs = [{'sequences': ('613_CAI34369.1', '615_7TPG_O-Lig'), 'view': 'view1'},
+pairs = [{'sequences': ('571_AF-6BAR', '613_CAI34369.1'), 'view': 'view1'},
+         {'sequences': ('613_CAI34369.1', '615_7TPG_O-Lig'), 'view': 'view1'},
          {'sequences': ('615_7TPG_O-Lig', '614_AAM27615.1'), 'view': 'view1'},
          {'sequences': ('614_AAM27615.1', '609_CAI34254.1'), 'view': 'view1'},
          {'sequences': ('609_CAI34254.1', '607_CAI34124.1'), 'view': 'view1'},

@@ -51,9 +51,8 @@ for index, row in df.iterrows():
 #          'X610', 'X612', 'X606', 'X611', 'X608', 'ECA-Pol, X586', 'X633'
 #     ]
 
-order = ['SEDS, GTxx1',
-         'BP-Pol, GTxx4', 'BP-Pol, GTxx5', 'BP-Pol, GTxx6',
-         'BP-Pol, GTxx7', 'O-Lig, GTxx3', 'BP-Pol, GTxx8', 'BP-Pol, GTxx9', 'BP-Pol, GTx10', 'BP-Pol, GTx11',
+order = ['BP-Pol, GTxx4', 'BP-Pol, GTxx5', 'BP-Pol, GTxx6',
+         'SEDS, GTxx1', 'BP-Pol, GTxx7', 'O-Lig, GTxx3', 'BP-Pol, GTxx8', 'BP-Pol, GTxx9', 'BP-Pol, GTx10', 'BP-Pol, GTx11',
          'BP-Pol, GTx12', 'BP-Pol, GTx13', 'BP-Pol, GTx14', 'BP-Pol, GTx15', 'BP-Pol, GTx16', 'ECA-Pol, GTxx2', 'BP-Pol, GTx17',
          ]
 
