@@ -111,6 +111,7 @@ label n. CA and resi 192 and 634_ADI43271.1, "%s-%s" % (resn, resi)
 label n. CA and resi 315 and 634_ADI43271.1, "%s-%s" % (resn, resi)
 select cons_634_ADI43271.1, resi 57 and 634_ADI43271.1 or resi 157 and 634_ADI43271.1 or resi 192 and 634_ADI43271.1 or resi 315 and 634_ADI43271.1
 show licorice, cons_634_ADI43271.1
+cealign 613_CAI34369.1, 571_AF-6BAR
 super 615_7TPG_O-Lig, 613_CAI34369.1
 cealign 615_7TPG_O-Lig, 614_AAM27615.1
 cealign 614_AAM27615.1, 609_CAI34254.1
@@ -131,6 +132,16 @@ super 617_AHB32861.1, 586_ACH50550.1
 cealign 617_AHB32861.1, 631_BAQ01641.1
 cealign 631_BAQ01641.1, 634_ADI43271.1
 
+disable
+    @data/pymol-visualizations/pairwise-views2/view1.pml
+
+    enable 571_AF-6BAR
+    enable 613_CAI34369.1
+    remove hydrogens
+    hide labels
+    ray
+    png /Users/idamei/phd/data/pymol-visualizations/pairwise_alignments/571_AF-6BAR_613_CAI34369.1.png
+    
 disable
     @data/pymol-visualizations/pairwise-views2/view1.pml
 
