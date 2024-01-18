@@ -17,10 +17,10 @@ acc2name = {'ADC54950.1':'X612', 'AHB32861.1':'X617', 'cazy201071':'SEDS, X571',
     'ADI43271.1': 'X634'
 }
 
-old2newnames = {'SEDS, X571': 'SEDS, GTxx1',
-         'X617': 'BP-Pol, GTxx4', 'X631': 'BP-Pol, GTxx5', 'X634': 'BP-Pol, GTxx6',
-         'X613': 'BP-Pol, GTxx7', 'O-Lig, X615': 'O-Lig, GTxx3', 'X614': 'BP-Pol, GTxx8', 'X609': 'BP-Pol, GTxx9', 'X607': 'BP-Pol, GTx10', 'X605': 'BP-Pol, GTx11',
-         'X610': 'BP-Pol, GTx12', 'X612': 'BP-Pol, GTx13', 'X606': 'BP-Pol, GTx14', 'X611': 'BP-Pol, GTx15', 'X608': 'BP-Pol, GTx16', 'ECA-Pol, X586': 'ECA-Pol, GTxx2', 'X633': 'BP-Pol, GTx17'}
+old2newnames = {'SEDS, X571': 'SEDS, GT119',
+         'X617': 'BP-Pol, GT122', 'X631': 'BP-Pol, GT123', 'X634': 'BP-Pol, GT124',
+         'X613': 'BP-Pol, GT125', 'O-Lig, X615': 'O-Lig, GT121', 'X614': 'BP-Pol, GT126', 'X609': 'BP-Pol, GT127', 'X607': 'BP-Pol, GT128', 'X605': 'BP-Pol, GT129',
+         'X610': 'BP-Pol, GT130', 'X612': 'BP-Pol, GT131', 'X606': 'BP-Pol, GT132', 'X611': 'BP-Pol, GT133', 'X608': 'BP-Pol, GT134', 'ECA-Pol, X586': 'ECA-Pol, GT120', 'X633': 'BP-Pol, GT135'}
 
 mydict = dict()
 for filename in hhr_filenames:
@@ -37,7 +37,6 @@ for filename in hhr_filenames:
     mydict[new_query_family_name] = hits_family_names
 
 df = pd.DataFrame.from_dict(mydict)
-# df_log = np.log10(df)
 
 # Set diagonal to max
 max_score = df.max().max()
@@ -45,17 +44,16 @@ for index, row in df.iterrows():
     row[index] = 200
     pass
 
-# order = ['SEDS, X571',
-#          'X617', 'X631', 'X634',
-#          'X613', 'O-Lig, X615', 'X614', 'X609', 'X607', 'X605',
-#          'X610', 'X612', 'X606', 'X611', 'X608', 'ECA-Pol, X586', 'X633'
-#     ]
-
-order = ['BP-Pol, GTxx4', 'BP-Pol, GTxx5', 'BP-Pol, GTxx6',
-         'SEDS, GTxx1', 'BP-Pol, GTxx7', 'O-Lig, GTxx3', 'BP-Pol, GTxx8', 'BP-Pol, GTxx9', 'BP-Pol, GTx10', 'BP-Pol, GTx11',
+order = ['SEDS, GTxx1', 'BP-Pol, GTxx7', 'O-Lig, GTxx3', 'BP-Pol, GTxx8', 'BP-Pol, GTxx9', 'BP-Pol, GTx10', 'BP-Pol, GTx11',
          'BP-Pol, GTx12', 'BP-Pol, GTx13', 'BP-Pol, GTx14', 'BP-Pol, GTx15', 'BP-Pol, GTx16', 'ECA-Pol, GTxx2', 'BP-Pol, GTx17',
+         'BP-Pol, GTxx4', 'BP-Pol, GTxx5', 'BP-Pol, GTxx6'
          ]
 
+order = ['SEDS, GT119', 'BP-Pol, GT125', 'O-Lig, GT121', 'BP-Pol, GT126', 'BP-Pol, GT127', 'BP-Pol, GT128', 'BP-Pol, GT129',
+         'BP-Pol, GT130', 'BP-Pol, GT131', 'BP-Pol, GT132', 'BP-Pol, GT133', 'BP-Pol, GT134', 'ECA-Pol, GT120', 'BP-Pol, GT135',
+         'BP-Pol, GT122', 'BP-Pol, GT123', 'BP-Pol, GT124']
+         
+df = df.transpose()
 df = df.loc[reversed(order), reversed(order)]
 
 df.to_csv("data/hhblits_cazy_families/distance-matrix-hhblits.tsv", sep='\t')
