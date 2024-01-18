@@ -268,6 +268,8 @@ Then run `python src/ssn-clustering/analyse-superclustering/plot-stereochemistry
 
 A new version of this script was made: `python src/ssn-clustering/analyse-superclustering/plot-stereochemistry-final-families-new.py`. It also generates a tsv file with the data (`data/wzy/stereochemistry.tsv`) from which the plot can be made in excel. However, the plot generated in this script is faulty.
 
+The final barplot is made in R with the script `src/ssn-clustering/analyse-superclustering/barplot.R`.
+
 ## O-Lig (WaaL)
 
 ### Make seed MSA
