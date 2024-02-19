@@ -19,16 +19,26 @@ const colorScheme = [
 ]
 
 
-const spaceBetweenArchitectures = 500;
-const spaceBetweenClans = 650;
-const leftMargin = 150;
-const rightMargin = 150;
-const topMargin = 100;
-const canvasWidth = 9350 + rightMargin + leftMargin;
-const canvasHeight = Object.keys(lengths).length*spaceBetweenArchitectures+topMargin+3*spaceBetweenClans-65;
-const spaceBeforeArchitectureName = 60;
-const blastLineThickness = 16
+// const spaceBetweenArchitectures = 500;
+// const spaceBetweenClans = 650;
+// const leftMargin = 150;
+// const rightMargin = 150;
+// const topMargin = 100;
+// const canvasWidth = 9350 + rightMargin + leftMargin;
+// const canvasHeight = Object.keys(lengths).length*spaceBetweenArchitectures+topMargin+3*spaceBetweenClans-65;
+// const spaceBeforeArchitectureName = 60;
+// const blastLineThickness = 16
 // const sequenceIndent = 600;
+const spaceBetweenArchitectures = 500*2;
+const spaceBetweenClans = 650*2;
+const leftMargin = 150*2;
+const rightMargin = 150*2;
+const topMargin = 100*2;
+const canvasWidth = 9350*2 + rightMargin + leftMargin;
+const canvasHeight = (Object.keys(lengths).length*spaceBetweenArchitectures+topMargin+3*spaceBetweenClans-(65*2));
+const spaceBeforeArchitectureName = 60*2;
+const blastLineThickness = 16*2;
+console.log(canvasWidth);
 
 function setup(){
     background(255);
@@ -39,23 +49,23 @@ function setup(){
     for(const familyDetails of architectures){
         let y;
         const family = familyDetails.sequences;
-        drawBlackLine(10);
+        drawBlackLine(10*2);
         const familyYOffset = spaceBetweenArchitectures/2+(i+1)*spaceBetweenClans+topMargin;
         drawFamilyName(familyDetails, familyYOffset+j*spaceBetweenArchitectures);
         for(const architectureName in family){
             y = familyYOffset+j*spaceBetweenArchitectures;
-            drawArchitectureName(architectureName, y-150);
+            drawArchitectureName(architectureName, y-(150*2));
             drawArchitecture(family[architectureName], conservedResidues[architectureName], lengths[architectureName], y);
             j++;
         }
-        drawBlackLine(y+170);
+        drawBlackLine(y+(170*2));
         i++;
     }
     drawVerticalLine(0)
     drawVerticalLine(canvasWidth-blastLineThickness)
 }
 
-const unitSize = 20;
+const unitSize = 20*2;
 function drawArchitecture(architectureString, conservedResidues, sequencelength, y){
     for(const i in architectureString){
         if(i==190 && !!conservedResidues[191]){
@@ -79,11 +89,11 @@ function drawArchitecture(architectureString, conservedResidues, sequencelength,
             //     break;
             case 'h':
                 fillConserved(45, 130, 80);
-                drawHelix(i*unitSize+leftMargin+indent*unitSize, y-10, isConserved);
+                drawHelix(i*unitSize+leftMargin+indent*unitSize, y-(10*2), isConserved);
                 break;
             case 'e':
                 fillConserved(45, 130, 80);
-                drawECHelix(i*unitSize+leftMargin+indent*unitSize, y-10, isConserved);
+                drawECHelix(i*unitSize+leftMargin+indent*unitSize, y-(10*2), isConserved);
                 break;
             case 's':
                 // fillConserved(45, 130, 80);
@@ -112,20 +122,20 @@ function drawConservedResidue(conservedResidue, position, x, y){
     }
     if (typeof conservedResidue == 'object'){
         conservedResidueAminoacid = conservedResidue.aminoacid;
-        offset = conservedResidue.offset;
+        offset = conservedResidue.offset*2;
     }
-    const size_residue_text = 180;
+    const size_residue_text = 180*2;
     const color_residue_text = getColor(conservedResidueAminoacid);
     textSize(size_residue_text);
     fill(...color_residue_text);
-    text(conservedResidueAminoacid, x-size_residue_text/4+offset-27, y-20);
+    text(conservedResidueAminoacid, x-size_residue_text/4+offset-(27*2), y-(20*2));
 
     const color_position_text = [0, 0, 0];
     // const size_position_text = 50;
-    const size_position_text = 100;
+    const size_position_text = 100*2;
     textSize(size_position_text);
     fill(...color_position_text);
-    text(position, x-size_residue_text/4-10+offset-27, y-170);
+    text(position, x-size_residue_text/4-(10*2)+offset-(27*2), y-(170*2));
 }
 
 function drawInside(x, y){
@@ -186,19 +196,19 @@ function drawSheet(x, y){
 }
 
 function drawFamilyName({familyName, subFamilyName}, y){
-    const fontSize = 300;
+    const fontSize = 300*2;
     fill(0, 0, 0);
     textSize(fontSize);
-    const topMargin = 550;
+    const topMargin = 550*2;
     textStyle(BOLD);
     text(familyName, leftMargin, y-topMargin);
-    textSize(300*.4);
+    textSize(fontSize*.4);
     text(subFamilyName, leftMargin+(2.4*fontSize), y-topMargin+(fontSize*.1));
     textStyle(NORMAL);
 }
 
 function drawArchitectureName(architectureName, y){
-    const size = 160;
+    const size = 160*2;
     const color = [0, 0, 0];
     textSize(size);
     fill(...color);
